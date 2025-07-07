@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name>EP</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WAI01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Robert</forename>
+                        <surname>Waithman</surname>
+                        <addName/>
+                    </persName>
+
+
+
+                    <birth when="1764">
+                        <placeName/>
+                    </birth>
+
+
+
+                    <death when="1833"/>
+
+
+
+                    <occupation>Politician and linendraper</occupation>
+
+
+
+                    <note type="editorial">
+                        <p>London Alderman, subsequently Sheriff and Lord Mayor; MP for London
+                            1818-20; 1826-33. See DNB and Dictionary of Living Authors (1816)</p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

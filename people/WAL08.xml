@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Encoded by D Brunning and EP </resp>
+                    <name/>
+                </respStmt>
+
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WAL08" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Frank</forename>
+                        <surname>Walsh</surname>
+                        <addName/>
+                    </persName>
+
+                    <birth when="1801">
+                        <placeName/>
+                    </birth>
+
+                    <death when="1856"/>
+
+                    <occupation>Customs Officer</occupation>
+
+                    <note type="editorial"><p>Philip Walsh Captain RN of Stonehouse nr Plymouth will PCC 6 June 1789 
+                            dated 29 May 1789 left his three youngest daughters Philis, Katherine and 
+                            Margaret. £21 p a mostly for house rent and mentioned John Pasley Esq
+                            merchant in London, his friend and attorney. He was Lt 1760, Commander
+                            1778. His daughter Mary married John Napper about 1781 (see Napier).
+                            Miss Walsh was probably the youngest daughter Margaret who received a
+                            legacy in the will of Elizabeth Burt 1808 (see Burt, Miss). The entries
+                            of 11 March 1804 and 24 March 1804 make it more likely that Walsh and Burt
+                            referred to the two spinsters rather than that they each had a male
+                            relative who called together two weeks after the spinsters had dined.
+                            The write to miss (and then M) Walsh entries in 1809 and 1810 may well
+                            have been to Margaret Walsh. However the plain Walsh entries in 1806 and
+                            1807 suggest more of a business arrangement as they were nearly all
+                            calls and two advs, at Nicholson's and at Sloper's (there was a
+                            connection between Nicholson and Sloper). Benjamin Walsh bapt 23.8.1778
+                            Holborn of Francis (law stationer of Inner Temple Lane, later of Bank of
+                            England PCC 17.8.1810) and Ann, historyofparliamentonline 1790-1820 MP for
+                            Wootton Bassett 1808-1812, a stockbroker who went bankrupt in 1808 and
+                            was found guilty of stealing £23,000 in 1812 but let off lightly, was
+                            also with his partner Thomas Nesbitt the contractor for the second City
+                            Lottery, some of the prizes were to be properties in Skinner Street, one
+                            of which was Godwin's house, so Benjamin Walsh was a possible for the
+                            plain Walsh entries in 1806 and 1807, and was clearly referred to on
+                            14 December 1814 Walsh and Nisbet. Walsh seems to have bought the seat in
+                            Wootten Basett for £5000 in order to declare himself bankrupt with
+                            parliamentary immunity from creditors. He died in 1856 in Worcestershire
+                            in obscurity but not poverty. See draft of letter from William Godwin in
+                            Bodleian MS Abinger c.19 f 19-20. The F Walsh who first appeared in 1808
+                            may have been the same as the Frank Walsh of 1812, and from the entry of
+                            1819, may by then have had a position in the Custom House. He may have
+                            been Francis Walsh born 1801, grandson of Francis Walsh will PCC 1810
+                            (see above) and son of Francis Walsh will PCC 1801. His mother was
+                            Elizabeth, daughter of Charles Shephard will PCC 1787 brewer of
+                            Bartholomew Close, who married John Ford, apothecary of Bath in 1790,
+                            and had two daughters, Emma and Ann Ford, before John Ford died in 1793.
+                            She then married Francis Walsh in 1798 and had two sons, Charles
+                            Shephard (died young) and Francis. Miss Ford (see my entry for her) may
+                            have been one of the two daughters Emma and Ann. </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

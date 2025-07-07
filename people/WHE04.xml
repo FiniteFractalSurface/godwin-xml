@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WHE05" sex="2">
+                    <persName>
+                        <roleName/>
+                        <forename>Clara Maria</forename>
+                        <surname>Wheatley</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1767">
+                        <placeName/>
+                    </birth>
+                    <death when="1838"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>This was probably the widow of Francis Wheatley DNB 1747-1801 who later
+                            (25.6.1807) married Alexander Pope DNB 1763-1835, she appears in DNB as
+                            Clara Maria Pope 1767-1838 (nee Leigh)</p><p>See also Philp, Radical Conduct (2020) on her relationship to Eliza Soane.</p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WIL30" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Mark</forename>
+                        <surname>Wilks</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName/>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation>Preacher</occupation>
+                    <note type="editorial">
+                        <p> Mark Wilks, Baptist preacher see Jewson, Jacobin City. His sermon on the
+                            stability of the French revolution was published in 1792 describing him
+                            as a Norfolk farmer. A funeral sermon for him was preached on 14.2.1819
+                            at St George's Chapel Norwich by his nephew Mark Wilks 1783-1855 who was
+                            a pastor in Hants and Wilts 1805-13, preached at New Broad St, London
+                            1813-1819 and then went to Paris from 1820-1843 </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

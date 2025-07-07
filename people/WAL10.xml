@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WAL10" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>FIRSTNAME</forename>
+                        <surname>Waller</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName/>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>William Waller (died 1829) the father of Augustus Volney Waller DNB
+                            1816-1870 his will PCC 1830 dated 25.12.1829 of Faversham, Kent but now
+                            of Nice in the Kingdom of Sardinia mentioned his wife Jessie, his
+                            brother Thomas Waller of Chapel House near Faversham and his sons
+                            Augustus and William. Augustus was born 9.11.1816 and baptised at
+                            Preston nr Faversham on 11.12.1833. William Waller bachelor married
+                            Jessie Eagle spinster by banns at St Mary Lambeth on 28.5.1818. The
+                            delays before marriage and baptism and the middle name Volney all
+                            suggest that Waller was a freethinker. He was also apparently a model
+                            farmer, see the adverts for the sale of "the famous and well known"
+                            Elverton Manor Farm "suited to a wealthy and spirited agriculturist" in
+                            the Standard and the Morning Post in November 1838. He was probably most
+                            of the entries above, clearly not the last one which may have been his
+                            son Augustus as may thee previous entry in 1825. Mrs Waller in 1824 may
+                            have been his wife Jessie, and Fred Waller in 1811 may have been
+                            Frederick Waller stationer of Fleet St will PCC 1846. The first entry in
+                            1798 is separated from the next by ten years so there is no reason to
+                            suppose it was William Waller, Some other Wallers are listed in the work
+                            notes below Work notes 1780-3 Waller and Savignac hosiers 147 Strand /
+                            Wm W 1790 man's mercer 215 Strand / Robert W 1780-90 wine merchant 8
+                            Idol Lane, Tower St, merchant 1797-1800 8 Cross La, St Mary Hill / Sir
+                            Robt W bart sub 1795 to Saml Whyte Dublin (pupil of author) / Boyle's
+                            1792 Waller, Warwick Pl, Red Lion Sq / Boyle's 1794 miss Waller 14
+                            Edward St, Portman Sq / 1792 Waller 80 Long Acre sub to Plays by J C
+                            Cross / 1789-90 Richr W broker/factor 68 Tower St / 1785-90 John W
+                            coachmaker Grays Inn Lane / 1785-91 James W lace merchant 5 Warwick Pl,
+                            Grays Inn / 1790 John W boot and shoemaker 1 Church Ct, Strand / 1789-90 Geo
+                            W brushmaker 26 Old Bethlem / !790 Geo W leatherseller 58 Holborn Hill /
+                            1799 mrs W lodging house keeper 39 College St Bristol / Holden's 1805
+                            Robt W bookbinder 22 Old Bailey, Holborn / Wm W solicitor Lyons Inn
+                            voted Burdett and Romilly 1818 </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

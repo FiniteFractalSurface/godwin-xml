@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WES08" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename/>
+                        <surname>WEST</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName/>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p> The first two West entries in 1807 might have been an attorney, as
+                            Godwin was perhaps active in helping his friend William Nicholson who
+                            got out of debtor's prison on 5.12.1807 after seven months. Possible
+                            attornies were (from Holdens 1811) William West 14 New Boswell-ct
+                            Lincolns-inn / West, Witshire and Bolton (qv) 34 Old Broad-st / Samuel
+                            Calne West clerk of Cheap Ward 35 Bucklersbury / Thos West Wapping. The
+                            West written to five (or six?) times may have been the same as West
+                            (Cork) or not. West of Cork was very likely William West 1770-1854, in
+                            Cork 1808-1830 (British Book Trade Index). William West 24 St
+                            Brides-lane currier and leather seller SunFire 1810 may have been West
+                            leather seller. Other possibles for the West written to: William West
+                            circulating library 13 Exeter-st Strand from at leasy 1811, pioneer of
+                            juvenile drama, his will PCC 6.12.1854 (British Book Trades Index) /
+                            Thos West stationer 18 London-st Fitzroy-sq Holdens 1811 (but for those
+                            last two living in London why would Godwin write and not call?) /
+                            William West, Pelham-house Academy, Hackney. </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WEN05" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Genhard Friedrich AugustE</forename>
+                        <surname>Wendeborn</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName/>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Gebhard Friedrich August Wendeborn (PCC wills 1813 Hamburg) born
+                            Magdeburg, in England 1767-93 then went to Hamburg and was unable to return
+                            to England because of the war. Minister of German chapel on Ludgate
+                            Hill, wrote 'A View of Great Britain' and a German Grammar, both
+                            published by Robinson in 1790/1. </p> <p> Note: Leeds Archives letter to Rd How Aspley
+                            1792 (not seen) </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WAT03" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>William</forename>
+                        <surname>Watts</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1752">
+                        <placeName/>
+                    </birth>
+                    <death when="1851"/>
+                    <occupation>Engraver and Painter</occupation>
+                    <note type="editorial">
+                        <p>William Watts DNB 1752-1851 engraver and printseller, and/or his family
+                            members. In his will PCC 1851 (dated 1837) he mentioned his natural son
+                            William and his natural daughter Mary wife of Sharon Turner (DNB - they
+                            married on 18.1.1795 so she could have been the Miss Watts at Holcroft's
+                            on 21.9.1794 and Turners at Holcroft's 11.6.1795). The will also
+                            mentioned John Watts of Stanhope St, St Pancras, organist of South
+                            Audley chapel, and John Watts of Drummond St, St Pancras, not stating
+                            any relationship to either, but the will PCC 1818 of William's older
+                            half-brother James Watts mentioned William W music master, and John W,
+                            "sons of my brother William". The 1851 census listed a John Watts
+                            annuitant age 91 at 37 Tonbridge St, St Pancras born London, which fits
+                            with the birth in 1760 of William's brother John. In the 1841 census
+                            William Watts professor of music age 60 was at Cirencester Place and he
+                            died at Cranmer Place, Kennington, his will PCC 1854. The brother John
+                            born 1760 may have been the printseller and engraver of 34 Red Lion St
+                            Holborn 1786 and the John Watts who exhibited at the Society of Artists
+                            and the Royal Academy. Note that the fellow guests on 25.7.1794 and
+                            21.2.1795, Banks's and Richters, were also artists.</p>
+                        <p>William Watts was a successful engraver and an enthusiast for the French
+                            revolution who invested his money in French stocks and had it
+                            confiscated when England and France went to war. In his diary of 1798
+                            Thomas Holcroft mentioned writing to Mrs Jordan on behalf of Watts, and
+                            of contacting Salomon and P(erry) to help young Watts get a place in the
+                            opera band, (this was probably one of the musical sons of William Watts
+                            the engraver) Hazlitt, Works vol 3 pp 170, 174, 195, 196. The 1815 Sion
+                            College entry probably referred to the Rev Robert Watts librarian of
+                            Sion College who died 19.1.1842 in his 92nd year (was he the Robert
+                            Watts born 30.10.1749, half-brother to the engraver William Watts?)</p>
+                        <p>See The Diary of Sharon Turner 1793-1795, eds., Mark Philp and Clare
+                            Clarke (University of Warwick, 2023) also available as:
+                            https://publishing.warwick.ac.uk/index.php/uwp/catalog/view/30/25/110
+                        </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+                
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WIL27" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>George</forename>
+                        <surname>Wilbraham</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1741">
+                        <placeName/>
+                    </birth>
+                    <death when="1813"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>
+                            
+                            WILBRAHAM, George (1741-1813), of Nantwich, Cheshire.  See History of Parliament </p>
+                    </note>
+                </person>
+                </listPerson>
+        </body>
+    </text>
+</TEI>
+
+
+                
