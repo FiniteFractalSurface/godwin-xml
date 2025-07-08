@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>b </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="YEO01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Sir James Lucas</forename>
+                        <surname>Yeo</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1782">
+                        <placeName/>
+                    </birth>
+                    <death when="1818"/>
+                    <occupation>Naval Officer</occupation>
+                    <note type="editorial">
+                        <p> James Lucas Yeo DNB 1782-1818 naval officer (knighted 21.6.1810, set
+                            sail again Feb 1811).</p>
+                        <p> This is another case in which Godwin uses 'adv.' It is unlikely he came
+                            up as a topic, but the encounter seems entirely by chance, with no clear
+                            locationand no suggestion of interaction.</p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="YOR01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Henry Redhead</forename>
+                        <surname>Yorke</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1772">
+                        <placeName/>
+                    </birth>
+                    <death when="1813"/>
+                    <occupation>Political writer</occupation>
+                    <note type="editorial">
+                        <p> Yorke spent more than two years in prison for conspiracy, being
+                            sentences in July 1795. When he was released his radicalism had waned
+                            and he became a supporter of the British state. He was a member of the
+                            London Corresponding Society from November 1793 but there is no evidence that Godwin ever met him.</p> <p>
+                        See DNB</p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

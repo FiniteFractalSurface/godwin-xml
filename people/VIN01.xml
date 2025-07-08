@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="VIN01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Osman</forename>
+                        <surname>Vincent</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1815"/>
+                    <occupation>linen draper</occupation>
+                    <note type="editorial">
+                        <p> Possiblky Osman Vincent linen draper and banker of Newbury, his will PCC
+                            1815, who lived at Donnington, just north west of Newbury. In his diary
+                            Godwin dined at Newbury with the coach to and from Bath in 1798, then
+                            visited in a chaise with his new wife in 1802 and called on some locals.</p>
+                            <p> A month after the letter from Vincent, Godwin visited Newbury for the
+                            last time, meeting a number of locals but not Vincent, nor any of those
+                            he saw in 1802. On arriving in Newbury 5.9.1808 he called on Townsend and
+                            Roe, then dined and slept at the Globe Inn, and then walked to Speen, a
+                            couple of miles from Donnington, and perhaps stayed the night there
+                            (where he had breakfasted in 1802) or perhaps walked back to the Globe.</p><p>
+                            Townsend was probably either Thomas Townsend solicitor and town clerk (his
+                            will PCC 1825), or his father Richard Townsend solicitor (will PCC
+                            1817), both of Bartholomew-st. Roe was the Rev James Roe, rector, North
+                            Brook-st. There was also a John Townsend, keeper of the Town Arms Inn,
+                            Market-pl (will PCC 1812). Not sure which Townsend would have been the
+                            Serjeant. </p>
+                            <p>On 6.9.1808 Godwin called on Davis, Green, Wright, Nias,
+                            Townsend serjt, Croft, Roe, Bull and Toomer, with whom he took tea. He
+                            then wrote to his wife and the next day walked to Reading Davis could
+                            have been William Davis, gunsmith, Bartholomew-st or William Davis
+                            cabinet-maker, upholsterer etc, North Brook-st (his will PCC 1835 wife
+                            Susan). Green may have been William Green, linen and woollen draper, North
+                            Brook-st. Wright could have been S Wright, china and glass warehouse,
+                            Market-st or Charles Wright, cabinet-maker and upholsterer. Nias could
+                            have been Thomas Nias, ironmonger or Miss Ann Nias, (1770-1836)
+                            boarding-school, Bartholomew-st (will PCC 1811 of their father Joseph
+                            Somerset Nias ironmonger). Croft could have been William Crofts,
+                            appraiser and auctioneer, Bartholomew-st. Bull could have been Charles
+                            Bull, boarding-school, North Brook-st (his will PCC 1831, wife Hannah,
+                            his school taken over by Mark Willis). Toomer could have been Toomer and
+                            son, ironmongers, Market-pl or Toomer, Bunny and Slocock, bankers,
+                            Bartholomew-st (will PCC 1818 of Samuel Toomer banker). In 1802 Godwin
+                            had called on Rev John Winter, and Rev David James, independent
+                            ministers, and on Cotton and Combe (Coombs) probably members of their
+                            congregations, but only Nias and Toomer (and possibly Bull) seem to have
+                            been dissenters in his 1808 calls </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

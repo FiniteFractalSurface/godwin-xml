@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="VER02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename/>
+                        <surname>Vernor</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation>Booksellers</occupation>
+                    <note type="editorial">
+                        <p> 26.9.1809 call on Vernor / 16.11.1809 call on V and H.</p>
+                        <p> Vernor and Hood booksellers 31 Poultry from 1797 to 1812 (and with
+                            Sharpe from 1806) bbti. Thomas Vernor died in 1793 and was succeeded by
+                            his widow Ann. Their only son George Glass Vernor died in 1796 age 24.
+                            Their daughter Rachel was married to Eliezer Chater (qv) stationer. His
+                            partner was William Limbery Grosvenor (qv). Ann Vernor died in 1808,
+                            leaving no Vernors in the firm, which was run by Thomas Hood and Charles
+                            Sharpe. Thomas Hood died 20.8.1811 of a malignant fever and Charles
+                            Sharpe went bankrupt in 1812. So by "call on Vernor" Godwin
+                            meant the shop not the man. </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
