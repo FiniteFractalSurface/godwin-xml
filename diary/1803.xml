@@ -805,7 +805,7 @@
                      subtype="CG"><persName ref="/people/PHI01.html">Philips</persName></seg> &amp;
                      <seg type="dMeeting" subtype="CG"><persName ref="/people/HAZ01.html"
                         >Hazlit</persName> call</seg>: <seg type="dMeeting" subtype="C">call on
-                           <persName><placeName type="venue">Dakins</placeName></persName></seg>
+                           <persName><placeName type="venue" ref="/people/DAK01.html">Dakins</placeName></persName></seg>
                   &amp; <seg type="dMeeting" subtype="C"><persName ref="/people/ELL03.html"
                            ><placeName type="venue">Ellis, W Abbey</placeName></persName></seg>:
                      <seg type="dMeeting" subtype="M">meet <persName ref="/people/RIC03.html">T C
