@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="DAL06" sex="2">
+                    <persName>
+                        <roleName/>
+                        <forename>Frances</forename>
+                        <surname>D'Alton</surname>
+                        <addName/>
+                    </persName>
+
+                    <birth when="1000">
+                        <placeName/>
+                    </birth>
+
+                    <death when="1857-07-17"/>
+
+                    <occupation/>
+
+                    <note type="editorial">
+                        <p>
+                        </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
