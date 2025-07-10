@@ -182,7 +182,7 @@
                         <persName ref="/people/ALD01.html"><placeName type="venue"
                         >Aldis</placeName></persName>, w. <persName ref="/people/GOD07.html">W
                         G</persName>; <seg type="dMeeting" subtype="Adv">adv.
-                           <persName>Woodham</persName></seg></seg>.</ab>
+                           <persName ref="/people/WOO11.html">Woodham</persName></seg></seg>.</ab>
                <ab type="dDay" xml:id="g1817-01-20"><date when="1817-01-20">20. M.</date><ref
                      type="dWrote" subtype="write" target="/works/mand01.html">Mandeville, p.
                      24/2</ref>. <ref type="dWrote" subtype="letter">Write to <persName

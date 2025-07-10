@@ -51,7 +51,7 @@
                <ab type="dDay" xml:id="g1806-01-03"><date when="1806-01-03">3. F. </date><ref
                      type="dText" subtype="read" target="/bibl/te1156.html">Martial, Ep. 37</ref>:
                      <ref type="dText" subtype="read" target="/bibl/te1595.html">Arcadia, p.
-                     271</ref>.<seg type="dMeeting" subtype="C"> Call on <persName><placeName
+                        271</ref>.<seg type="dMeeting" subtype="C"> Call on <persName  ref="/people/WIL29.html"><placeName
                            type="venue"> Wilks</placeName></persName></seg> &amp; <seg
                      type="dMeeting" subtype="C"><persName ref="/people/TAY06.html"><placeName
                            type="venue">R Taylor</placeName></persName></seg>.</ab>
@@ -79,7 +79,7 @@
                <ab type="dDay" xml:id="g1806-01-07"><date when="1806-01-07">7. Tu.</date><ref
                      type="dWrote" subtype="letter">Letter to <persName ref="/people/WED01.html"
                         >Wedgwood</persName></ref>. <seg type="dMeeting" subtype="C">Call on
-                           <persName><placeName type="venue">Wilks</placeName></persName></seg>
+                           <persName  ref="/people/WIL29.html"><placeName type="venue">Wilks</placeName></persName></seg>
                   &amp; <seg type="dMeeting" subtype="C"><persName ref="/people/GOD02.html"
                            ><placeName type="venue">Jo G</placeName></persName>; <seg
                         type="dMeeting" subtype="Adv">adv. <persName ref="/people/GOD05.html">N
@@ -886,7 +886,7 @@
                         >Cooper</persName></ref> &amp; <ref type="dWrote" subtype="letter"><persName
                         ref="/people/WOL06.html">C Wt</persName></ref>. <ref type="dText"
                      subtype="read" target="/bibl/te0049.html">Marmontel, Tom. IV, p. 30</ref>. <seg
-                     type="dMeeting" subtype="C">Call on <persName><placeName type="venue"
+                        type="dMeeting" subtype="C">Call on <persName ref="/people/WIL29.html"><placeName type="venue"
                            >Wilks</placeName></persName></seg>: <seg type="dMeal" subtype="SG"
                         ><persName ref="/people/DAW01.html">Dawe</persName> sups</seg>. <ref
                      type="dWrote" subtype="letter">Write to <persName ref="/people/MAC04.html">
@@ -950,7 +950,7 @@
                            ref="/people/SHE02.html">children</persName></seg></seg>.</ab>
                <ab type="dDay" xml:id="g1806-04-08"><date when="1806-04-08">8. Tu.</date><ref
                      type="dWrote" subtype="write" target="/works/pant01.html">Pantheon, 1/2
-                     page</ref>. <seg type="dMeeting" subtype="C">Call on <persName><placeName
+                     page</ref>. <seg type="dMeeting" subtype="C">Call on <persName ref="/people/WIL29.html"><placeName
                            type="venue">Wilks</placeName></persName></seg> &amp; <seg
                      type="dMeeting" subtype="C"><persName ref="/people/WOR05.html"><placeName
                            type="venue">Wordsworth</placeName></persName>{;} <seg type="dMeeting"
@@ -980,7 +980,7 @@
                      fin</ref>. <seg type="dMeeting" subtype="CG"><persName ref="/people/MUL01.html"
                         >Mulready</persName></seg> &amp; <seg type="dMeeting" subtype="CG"><persName
                         ref="/people/FEL02.html">S Fell</persName> call</seg>:<seg type="dMeeting"
-                     subtype="C"> call on <persName><placeName type="venue"
+                           subtype="C"> call on <persName  ref="/people/WIL29.html"><placeName type="venue"
                         >Wilks</placeName></persName>; <seg type="dMeeting" subtype="Adv"
                            >adv.<persName ref="/people/FEL02.html">S Fell</persName></seg></seg>:
                      <ref type="dEntertainment" subtype="Theat" target="/plays/whit01.html"
@@ -1101,7 +1101,7 @@
                      type="dWrote" subtype="write" target="/works/pant01.html">Pantheon, p.
                   31</ref>. <seg type="dMeeting" subtype="CG"><persName ref="/people/MUL01.html"
                         >Mulready</persName> calls</seg>: <seg type="dMeeting" subtype="C">call on
-                           <persName><placeName type="venue">Wilks</placeName></persName></seg>:
+                           <persName  ref="/people/WIL29.html"><placeName type="venue">Wilks</placeName></persName></seg>:
                      <seg type="dMeal" subtype="S">sup at <persName ref="/people/LAM01|LAM02.html"
                            ><placeName type="venue">Lamb’s</placeName></persName>, w. <persName
                         ref="/people/MAN01.html">Manning</persName></seg>: <seg type="dMeeting"
@@ -2639,7 +2639,7 @@
                         ref="/people/BUR04.html">capt. Burney</persName>,
                         <persName>Richards</persName>, <persName>J Gregory</persName>, <persName
                         ref="/people/BOD02.html">Boddington</persName>,
-                        <persName>Wilbraham</persName>, <persName ref="/people/HAR02.html"
+                     <persName ref="/people/WIL27.html">Wilbraham</persName>, <persName ref="/people/HAR02.html"
                         >Hardy</persName>, <persName ref="/people/THE01.html">Thelwal</persName>,
                         <persName ref="/people/MIL03.html">Miller</persName>, <persName
                         ref="/people/PHI01.html">Philips</persName>, <persName>Mawman</persName>,

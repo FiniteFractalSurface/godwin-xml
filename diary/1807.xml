@@ -38,7 +38,7 @@
                         type="dMeeting" subtype="Inv">invités <persName
                            ref="/people/TAY06|TAY13.html">three Taylors</persName>, <persName
                            ref="/people/WIL03.html">Wilkie</persName> &amp; <persName
-                           ref="/people/HAY02.html">Hayward</persName>, &amp; <persName>G
+                              ref="/people/HAY02.html">Hayward</persName>, &amp; <persName ref="/people/WIL25.html">G
                            Wilcocke</persName></seg></seg>.</ab>
                <ab type="dDay" xml:id="g1807-01-02"><date when="1807-01-02">2. F.</date><ref
                      type="dWrote" subtype="letter">Letter from <persName ref="/people/PHI01.html"
@@ -655,7 +655,7 @@
                      type="dMeeting" subtype="See"><persName ref="/people/COO02.html"><placeName
                            type="venue">G M C’s</placeName></persName>, w. <persName
                         ref="/people/CLA01.html">M J</persName>; <seg type="dMeeting" subtype="Adv"
-                        >adv. <persName>G Wilcocke</persName></seg></seg>.</ab>
+                           >adv. <persName ref="/people/WIL25.html">G Wilcocke</persName></seg></seg>.</ab>
                <ab type="dDay" xml:id="g1807-03-14"><date when="1807-03-14">14. Sa.</date><seg
                      type="dMeeting" subtype="CG"><persName ref="/people/TUR01.html">T T</persName>
                      calls</seg>: <seg type="dMeal" subtype="SG"><persName ref="/people/HAZ01.html"
@@ -768,7 +768,7 @@
                         type="dMeeting" subtype="Adv">adv. <persName ref="/people/MUL01.html"
                            >Mulready</persName> &amp; <persName ref="/people/DAW01.html"
                            >Dawe</persName></seg>; <seg type="dMeeting" subtype="Inv">invité
-                           <persName>G Wilcocke</persName></seg></seg>.</ab>
+                              <persName ref="/people/WIL25.html">G Wilcocke</persName></seg></seg>.</ab>
                <pb n="e.208_0044r"/>
                <ab type="dDay" xml:id="g1807-03-29"><date when="1807-03-29">Mar. 29. Su.</date><seg
                      type="dMeeting" subtype="C">Call on <persName ref="/people/JOY01.html"
@@ -778,7 +778,7 @@
                            >Towers</persName> &amp; <persName>Rennel</persName></seg></seg>.</ab>
                <ab type="dDay" xml:id="g1807-03-30"><date when="1807-03-30">30. M.</date><ref
                      type="dText" subtype="read" target="/bibl/te1646.html">Paradise Reg<hi
-                        rend="sup">d</hi> B. I</ref>. <seg type="dMeeting" subtype="CG"><persName>G
+                        rend="sup">d</hi> B. I</ref>. <seg type="dMeeting" subtype="CG"><persName ref="/people/WIL25.html">G
                         Wilcocke</persName> calls</seg>: <seg type="dMeeting" subtype="C">call on
                            <persName><placeName type="venue">miss Smith</placeName></persName>, for
                         <seg type="dTopic"><persName ref="/people/CLA01.html">M J</persName></seg>;
@@ -877,7 +877,7 @@
                      type="dText" subtype="cala" target="/bibl/te1648.html">Spenser, çala</ref>.
                      <seg type="dMeal" subtype="DG"><persName ref="/people/TAY06|TAY09|TAY14.html"
                         >R, A &amp; Susan Taylor</persName> dine; <seg type="dMeeting" subtype="Adv"
-                        >adv. <persName>G Wilcocke</persName></seg></seg>. <seg type="dMeeting"
+                           >adv. <persName ref="/people/WIL25.html">G Wilcocke</persName></seg></seg>. <seg type="dMeeting"
                      subtype="CG"><persName ref="/people/DAW01.html">Dawe</persName> calls</seg>:
                      <seg type="dMeeting" subtype="C">call on <persName ref="/people/DAW01.html"
                            ><placeName type="venue">Dawe</placeName></persName></seg>. <emph
@@ -1321,7 +1321,7 @@
             </div>
             <div type="dMonth" xml:id="g1807-06">
                <ab type="dDay" xml:id="g1807-06-01"><date when="1807-06-01">June 1. M.</date><seg
-                     type="dMeal" subtype="SG"><persName>G Wilcocke</persName> &amp; <persName
+                     type="dMeal" subtype="SG"><persName ref="/people/WIL25.html">G Wilcocke</persName> &amp; <persName
                         ref="/people/COO02.html">G M C</persName> sup</seg>.</ab>
                <ab type="dDay" xml:id="g1807-06-02"><date when="1807-06-02">2. Tu.</date><ref
                      type="dText" subtype="read" target="/bibl/te1213.html">Shakespear, Sonnets,
@@ -1345,7 +1345,7 @@
                         ref="/people/HAY02.html" type="nah"><placeName type="venue"
                            >Hayward</placeName></persName><hi rend="sup">n</hi></seg>: <seg
                      type="dMeal" subtype="DG"><persName ref="/people/COO02.html">G M C</persName>,
-                        <persName>G Wilcocke</persName>, <persName>3 Stephensons</persName> &amp;
+                              <persName ref="/people/WIL25.html">G Wilcocke</persName>, <persName>3 Stephensons</persName> &amp;
                         <persName>Jno Turner</persName> dine</seg>.</ab>
                <ab type="dDay" xml:id="g1807-06-05"><date when="1807-06-05">5. F.</date><ref
                      type="dText" subtype="read" target="/bibl/te1213.html">Shakespear, Sonnets,
@@ -1354,7 +1354,7 @@
                            type="venue">capt. Binney (deaf)</placeName></persName></seg> &amp; <seg
                      type="dMeeting" subtype="C"><persName ref="/people/GOD02.html" type="nah"
                            ><placeName type="venue">Jo G</placeName></persName><hi rend="sup"
-                     >n</hi></seg>: <seg type="dMeeting" subtype="M">meet <persName>G
+                              >n</hi></seg>: <seg type="dMeeting" subtype="M">meet <persName ref="/people/WIL25.html">G
                         Wilcocke</persName></seg>.</ab>
                <ab type="dDay" xml:id="g1807-06-06"><date when="1807-06-06">6. Sa.</date><ref
                      type="dText" subtype="read" target="/bibl/te1659.html">Venus &amp;

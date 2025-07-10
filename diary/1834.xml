@@ -1315,7 +1315,7 @@
                <pb n="e.226_0040r"/>
                <ab type="dDay" xml:id="g1834-06-01"><date when="1834-06-01">June 1. Su. </date><ref
                      type="dText" subtype="cala" target="/bibl/te3586.html">Faust, çala</ref>. <seg
-                     type="dMeeting" subtype="CG"><persName>Wrangham</persName></seg> &amp; <seg
+                        type="dMeeting" subtype="CG"><persName ref="/people/WRA02.html">Wrangham</persName></seg> &amp; <seg
                      type="dMeeting" subtype="CG"><persName ref="/people/MON01.html">B M</persName>
                      call</seg>: <seg type="dMeeting" subtype="C">call on <persName
                         ref="/people/BOO01.html"><placeName type="venue"
@@ -1810,9 +1810,9 @@
                            on<persName><placeName type="venue">mrs
                      Ayrton</placeName></persName></seg>: <seg type="dMeal" subtype="TG"><persName
                         ref="/people/KNA01.html">L K</persName>, <persName>Cha</persName>, <persName
-                           ref="/people/CAU01.html">Caunters</persName> &amp; <persName ref="/people/JAM01.html">Miss
-                        James</persName> at tea</seg>. <ref type="dEvent" subtype="Temp">65 ½ /
-                     73</ref></ab>
+                        ref="/people/CAU01.html">Caunters</persName> &amp; <persName
+                        ref="/people/JAM01.html">Miss James</persName> at tea</seg>. <ref
+                     type="dEvent" subtype="Temp">65 ½ / 73</ref></ab>
                <ab type="dDay" xml:id="g1834-08-04"><date when="1834-08-04">4. M.</date><ref
                      type="dText" subtype="read" target="/bibl/te2806.html">De Senectute, c.
                      10</ref>: <ref type="dText" subtype="read" target="/bibl/te0461.html">Nature
@@ -2781,10 +2781,10 @@
                            <persName><placeName type="venue">Bulley</placeName></persName></seg>
                   &amp; <seg type="dMeeting" subtype="C"><persName><placeName type="venue"
                            >Newport</placeName></persName></seg>: <seg type="dMeal" subtype="TG"
-                              ><persName ref="/people/CAU01.html">Caunters</persName> &amp; <persName ref="/people/JAM01.html">Miss
-                        James</persName> at tea</seg>. <ref type="dWrote" subtype="cala"
-                     target="/works/geni01.html">Contrition, çala</ref>. <ref type="dEvent"
-                     subtype="Temp">58 / 69</ref></ab>
+                        ><persName ref="/people/CAU01.html">Caunters</persName> &amp; <persName
+                        ref="/people/JAM01.html">Miss James</persName> at tea</seg>. <ref
+                     type="dWrote" subtype="cala" target="/works/geni01.html">Contrition,
+                  çala</ref>. <ref type="dEvent" subtype="Temp">58 / 69</ref></ab>
                <ab type="dDay" xml:id="g1834-11-28"><date when="1834-11-28">28. F.</date><ref
                      type="dWrote" subtype="letter">Write to <persName ref="/people/WEL01.html"
                         >Wellington</persName></ref>, <ref type="dWrote" subtype="letter"><persName
