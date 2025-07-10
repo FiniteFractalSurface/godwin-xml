@@ -193,7 +193,7 @@
                      type="dText" subtype="cala" target="/bibl/te1296.html">Barnes, çala</ref>. <ref
                      type="dEvent" subtype="other"><placeName>Tower</placeName>; <seg
                         type="dMeeting" subtype="Adv">adv.
-                     <persName>Vandersee</persName></seg></ref>: <seg type="dMeeting" subtype="C"
+                        <persName ref="/people/VAN01.html">Vandersee</persName></seg></ref>: <seg type="dMeeting" subtype="C"
                      >call <emph rend="deleted">call</emph> on <persName ref="/people/TOW02.html"
                            ><placeName type="venue">Townsend</placeName></persName></seg> &amp; <seg
                      type="dMeeting" subtype="C"><persName ref="/people/LAM01.html"><placeName
@@ -254,7 +254,7 @@
                            >Philips</placeName></persName>; <seg type="dMeeting" subtype="Adv">adv.
                            <persName ref="/people/HUR01.html">Hurst</persName> &amp;
                            <persName>Britton</persName></seg></seg>: <seg type="dMeeting"
-                     subtype="C">call on <persName><placeName type="venue"
+                              subtype="C">call on <persName ref="/people/VAN01.html"><placeName type="venue"
                         >Vandersee</placeName></persName>, <placeName>Exchequer
                      Office</placeName></seg>: <ref type="dEntertainment" subtype="Theat"
                      target="/plays/othe01.html"><placeName type="CG"/>Theatre, 1/10 Othello </ref>,
@@ -484,7 +484,7 @@
                         ><placeName>Tower</placeName></ref>: <seg type="dMeeting" subtype="C">call
                      on <persName ref="/people/HIL05.html"><placeName type="venue"
                         >Hill</placeName></persName></seg>, &amp; <seg type="dMeeting" subtype="C"
-                        ><persName type="nah"><placeName type="venue"
+                           ><persName type="nah" ref="/people/VAN01.html"><placeName type="venue"
                         >Vandersee</placeName></persName><hi rend="sup">n</hi></seg>: <seg
                      type="dMeal" subtype="DG"><persName ref="/people/SMA01.html">Smart</persName>
                      dines</seg>: <seg type="dMeeting" subtype="CG"><persName
@@ -1359,8 +1359,8 @@
                         ><persName>Youens</persName> calls</seg>.</ab>
                <ab type="dDay" xml:id="g1803-05-19"><date when="1803-05-19">19. Th.</date><ref
                      type="dText" subtype="read" target="/bibl/te1407.html">Good Women</ref>. <ref
-                     type="dEntertainment" subtype="Museo" target="/events/mu0001.html">Museum; <seg
-                        type="dMeeting" subtype="Adv">adv. Vandersee</seg></ref>: <ref
+                        type="dEntertainment" subtype="Museo" target="/events/mu0001.html">Museum; <seg type="dMeeting" subtype="Adv">adv.
+                           <persName ref="/people/VANo1.html"> Vandersee </persName>persName> </seg></ref>: <ref
                      type="dEntertainment" subtype="Theat" target="/plays/moun01.html"><placeName
                         type="HM"/>theatre, 1/2 Mountaineers</ref>.</ab>
                <ab type="dDay" xml:id="g1803-05-20"><date when="1803-05-20">20. F.</date><ref
@@ -1860,7 +1860,7 @@
                      >revise</ref>. <ref type="dEntertainment" subtype="Museo"
                      target="/events/mu0001.html"><placeName>Museum</placeName>; <seg
                         type="dMeeting" subtype="Adv">adv.
-                     <persName>Vandersee</persName></seg></ref>: <seg type="dMeal" subtype="DG"
+                        <persName ref="/people/VAN01.html">Vandersee</persName></seg></ref>: <seg type="dMeal" subtype="DG"
                         ><persName>C Keir</persName> dines, &amp; <persName ref="/people/MAR01.html"
                         >M.</persName></seg></ab>
                <ab type="dDay" xml:id="g1803-07-12"><date when="1803-07-12">12. Tu.</date><ref
@@ -2132,7 +2132,7 @@
                <ab type="dDay" xml:id="g1803-08-05"><date when="1803-08-05">5. F.</date><ref
                      type="dEvent" subtype="PersEvent" target="/events/pe0129.html"
                         ><placeName>Tower</placeName>; <seg type="dMeeting" subtype="Adv">adv.
-                           <persName>Vandersee</persName></seg></ref>: <seg type="dMeeting"
+                           <persName ref="/people/VAN01.html">Vandersee</persName></seg></ref>: <seg type="dMeeting"
                      subtype="CG"><persName>Youngers</persName> call</seg>: <seg type="dMeal"
                      subtype="S">sup, w. <persName ref="/people/CLA01.html">M J</persName>, at
                         <persName ref="/people/FEL01|FEL02.html"><placeName type="venue"

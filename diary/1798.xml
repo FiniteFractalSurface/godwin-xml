@@ -748,7 +748,7 @@
                         <persName>Jones's</persName></seg>: <seg type="dMeeting" subtype="C">call on
                         <persName ref="/people/SOU01.html"><placeName type="venue"
                            >Southey</placeName></persName></seg>, <seg type="dMeeting" subtype="C"
-                        ><persName type="nah"><placeName type="venue"
+                              ><persName type="nah"  ref="/people/YEA01.html"><placeName type="venue"
                         >Yearsley</placeName></persName> n</seg> &amp; <seg type="dMeeting"
                      subtype="C"><persName ref="/people/BED01.html"><placeName type="venue"
                            >Beddoes</placeName></persName></seg>: <placeName>St Vincent's
@@ -1252,7 +1252,7 @@
                            ref="/people/SCO04.html">H Scott</persName></seg></ref>: <seg
                      type="dMeal" subtype="D">dine at <persName ref="/people/CHA01.html"><placeName
                            type="venue">Chandler</placeName></persName>, w.
-                        <persName>Vardon</persName>; <seg type="dMeeting" subtype="Adv">adv.
+                              <persName ref="/people/VAR02.html">Vardon</persName>; <seg type="dMeeting" subtype="Adv">adv.
                               <persName>Ph<hi rend="sup">s</hi></persName><emph rend="deleted"
                            >&amp;</emph><persName> [T?] V</persName>, &amp;
                            <persName>Schramm</persName></seg></seg>. <emph rend="small"><seg
@@ -2113,7 +2113,7 @@
                      subtype="M">Meet <persName ref="/people/HOL01.html">Ht</persName></seg>: <seg
                      type="dMeal" subtype="D">dine at <persName ref="/people/CHA01.html"><placeName
                            type="venue">Chandler's</placeName></persName>, w.
-                        <persName>Macquin</persName>, <persName>Vardon</persName> &amp; <persName
+                        <persName>Macquin</persName>, <persName ref="/people/VAR02.html">Vardon</persName> &amp; <persName
                         ref="/people/PHI02.html">Philips</persName></seg>: <seg type="dMeeting"
                      subtype="Do"><ref type="dEntertainment" subtype="Theat"
                         target="/plays/chil02.html"><placeName type="HM"/>theatre, w. <persName
