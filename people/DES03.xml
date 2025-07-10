@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="DES03" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>William Parker</forename>
+                        <surname>D'Esterre</surname>
+                        <addName/>
+                    </persName>
+
+                    <birth when="1767-11">
+                        <placeName/>
+                    </birth>
+
+                    <death when="1823-01-26"/>
+                        <placeName>Passage West, County Cork, Ireland</placeName>
+                    <occupation>Commander in the Service of the Honorable East India Company of Passage Green, County Cork</occupation>
+
+                    <note type="editorial">
+                        <p>
+                        </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
