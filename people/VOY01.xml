@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="VOY01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Henry Welsley</forename>
+                        <surname>Voysey</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1791">
+                        <placeName/>
+                    </birth>
+                    <death when="1824"/>
+                    <occupation> Geologist </occupation>
+                    <note type="editorial">
+                        <p> To get a picture of the social whirl in which this individual is
+                            involved it is worth noting how many young people were are involved in
+                            these meeetings. In 1810 Thomas Turner was 25, John Flather 24, Henry
+                            Voysey 20, his brother Annesley 17, G H Rontgen 20, Henry Dawe 20,
+                            Procter Patrickson 18, Peter Pilcher 16, Charles Clairmont 15, John
+                            Boinville 13, while the young women were Eliza Fenwick 19, Hannah
+                            Hopwood 17, Fanny Imlay 16, Cornelia Boinville 15, Mary Godwin 13, Jane
+                            Clairmont 12. That Thomas Turner appeared so often is less surprising
+                            when you consider that Godwin noted him in his diary on nearly half the
+                            days of 1810. He was to marry Cornelia Boinville in 1812. I think it
+                            very likely that Henry Wesley Voysey DNB 1791-1824 geologist was the
+                            main Voisy (note Godwin spelt him four different ways and never got it
+                            right) and his brother Annesley Voysey DNB c.1794-1839 architect was
+                            probably the other half of 2 Voisys (if so could he have been known by
+                            some nickname and been the FV of 5.7.1810?). It seems that Godwin met
+                            both Voysey and Rontgen through Mrs Boinville. Although Godwin knew
+                            Newton from the mid 1790s he hadn't appeared in the diary since 1802,
+                            and in September 1809 Mrs Boinville called on Godwin for the first time,
+                            and in January 1810 James "Chevalier" Lawrence made his first call,
+                            probably bringing his newly pubished Empire of the Nairs with its
+                            proposals for sexual liberation, which Godwin dipped into on 18.1.1810.
+                            See my entry for Newton, John Frank. </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

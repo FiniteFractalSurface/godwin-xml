@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="VOL01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>FIRSTNAME</forename>
+                        <surname>SURNAME</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p> Me Volsey at tea 15.8.1804 and Ja(me)s W(ollstonecraf)t and miss Smith /
+                            18.8.1804 Volsey on water with Jas Wt, Everina, children, Wells and
+                            servants / 30.8.1804 Volsey, Everina and L(ouisa) H(olcrof)t dine /
+                            5.9.1804 Volsey and Jas Wt (call) / 19.9.1804 Volsey and Jas Wt sup /
+                            24.9.1804 Wts etc dine adv Volsey / 27.9.1804 call at Volsey's for M(ary)
+                            J(ane) adv Jas Wt / 8.10.1804 Volsey and J(ane) and H(arrie)t Rowan dine /
+                            14.10.1804 Volsey at tea / 21.10.1804 Volsey and Mercier sup / 24.10.1804
+                            theatre with Volsey / 28.10.1804 Volsey at tea / 31.10.1804 M(ary)
+                            J(ane) and children at Volsey's adv Jas Wt / 5.11.1804 Volsey calls /
+                            23.11.1804 Volsey ppc calls / 11.12.1804 call with M J on Volsey /
+                            14.12.1804 call on L Ht adv Volsey </p><p> Not to be confused with Voisey of
+                            1811 and 1812 who was mentioned also in Bodleian Abinger c42 f53 and has
+                            been wrongly transcribed as Volsey there. This person was first
+                            mentioned as Me Volsey so was probably female, married or widowed, and
+                            French, which also fits with the company of Mercier and Louisa Holcroft
+                            (nee Mercier). The association with the bachelor James Wollstonecraft
+                            suggests a possible courtship or affair. The name was rare in England,
+                            see work notes below for the only two instances I found near the
+                            relevant period </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

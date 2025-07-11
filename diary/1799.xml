@@ -303,7 +303,7 @@
                      type="dMeal" subtype="D">dine at <persName ref="/people/JOH01.html"><placeName
                            type="venue">Johnson</placeName></persName>, w. <persName>Paterson
                         (Coryat)</persName>, <persName ref="/people/NOR06.html"> Norgate</persName>,
-                        <persName>Wells</persName> &amp; <persName>Newnum</persName></seg>.</ab>
+                        <persName ref="/people/WEL05.html">Wells</persName> &amp; <persName>Newnum</persName></seg>.</ab>
                <ab type="dDay" xml:id="g1799-01-30"><date when="1799-01-30">30. W.</date><ref
                      type="dWrote" subtype="write" target="/works/anto01.html">Antonio, p. 36/2,
                      37</ref>. <seg type="dMeal" subtype="D">Dine at <persName
@@ -748,7 +748,7 @@
                         >Johnson's</placeName></persName>, w. <persName ref="/people/FUS01.html"
                         >Fuseli</persName>, <persName>Paterson</persName> &amp;
                         <persName>Newnums</persName>; <seg type="dMeeting" subtype="Adv">adv.
-                           <persName>Wells</persName></seg></seg>.</ab>
+                           <persName ref="/people/WEL05.html">Wells</persName></seg></seg>.</ab>
                <ab type="dDay" xml:id="g1799-03-13"><date when="1799-03-13">13. W.</date><ref
                      type="dWrote" subtype="write" target="/works/anto01.html">Antonio. (Othello's
                      occupation), 2 pages</ref>. <ref type="dText" subtype="read"
@@ -2688,7 +2688,7 @@
                         >Johnson's</placeName></persName>, w. <persName ref="/people/FUS01.html"
                         >Fuseli</persName>, <persName ref="/people/BON01.html"
                         >Bonnycastle</persName>, <persName ref="/people/HEW01.html"
-                        >Hewlet</persName> &amp; <persName>Wells</persName></seg>.</ab>
+                           >Hewlet</persName> &amp; <persName ref="/people/WEL05.html">Wells</persName></seg>.</ab>
                <ab type="dDay" xml:id="g1799-09-04"><date when="1799-09-04">4. W.</date><ref
                      type="dWrote" subtype="meditate" target="/works/leon01.html">Medite</ref>. <ref
                      type="dText" subtype="read" target="/bibl/te0357.html">Cecilia, p. 178</ref>.
@@ -3331,7 +3331,7 @@
                         ref="/people/FUS01.html">Fuseli</persName>, <persName
                         ref="/people/CHA06.html">Chalmers</persName>, <persName>Lloyd</persName>
                      &amp; <persName>mrs Parke</persName> &amp;
-                  <persName>Wells</persName></seg>.</ab>
+                        <persName ref="/people/WEL05.html">Wells</persName></seg>.</ab>
                <ab type="dDay" xml:id="g1799-11-06"><date when="1799-11-06">6. W. </date><ref
                      type="dWrote" subtype="write" target="/works/leon01.html">St Leon, p.
                      59/2</ref>. <ref type="dText" subtype="read" target="/bibl/te1016.html">Pamela,

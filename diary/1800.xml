@@ -333,7 +333,7 @@
                      340</ref>. <seg type="dMeal" subtype="D">Dine at <persName
                         ref="/people/KIN01.html"><placeName type="venue"
                         >King's</placeName></persName>, w. <persName ref="/people/DAN01.html"
-                        >Danvers</persName> &amp; <persName>Walstein</persName>: <seg
+                           >Danvers</persName> &amp; <persName ref="/people/WAL12.html">Walstein</persName>: <seg
                         type="dMeeting" subtype="Adv">adv. <persName ref="/people/GRA02.html"
                            >Granard</persName>, <persName>Gardners</persName>,
                            <persName>Tyson</persName>, <persName ref="/people/MOO01.html"
@@ -364,7 +364,7 @@
                      at <persName ref="/people/JOH01.html"><placeName type="venue"
                            >Johnson's</placeName></persName>, w. <persName ref="/people/FUS01.html"
                         >Fuseli</persName>, <persName ref="/people/BON01.html"
-                        >Bonnycastle</persName>, <persName>Wells</persName> &amp; <persName
+                           >Bonnycastle</persName>, <persName ref="/people/WEL05.html">Wells</persName> &amp; <persName
                         ref="/people/WOL03.html">Ja<hi rend="sup">s</hi> Wt</persName></seg>. <ref
                      type="dWrote" subtype="letter">Write to <persName ref="/people/HOL01.html"
                         >Ht</persName></ref> &amp; <ref type="dWrote" subtype="letter"><persName
@@ -3968,7 +3968,7 @@
                            >Johnson's</placeName></persName>, w. <persName ref="/people/FUS01.html"
                         >Fuseli</persName>, <persName ref="/people/MAL01.html">Malthus</persName>,
                         <persName ref="/people/BON01.html">Bonnycastle</persName>, <persName
-                        ref="/people/CHA06.html">Chalmers</persName>, <persName>Wells</persName>
+                           ref="/people/CHA06.html">Chalmers</persName>, <persName ref="/people/WEL05.html">Wells</persName>
                      &amp; <persName>Newnum</persName>; <seg type="dMeeting" subtype="Adv">adv.
                            <persName>Mawman</persName></seg></seg>.</ab>
                <ab type="dDay" xml:id="g1800-12-03"><date when="1800-12-03">3. W.</date><ref
@@ -4049,7 +4049,7 @@
                            >Wolcot</placeName></persName></seg> &amp; <seg type="dMeeting"
                      subtype="C"><persName ref="/people/HOA01.html" type="nah"><placeName
                            type="venue">Hoare</placeName></persName><hi rend="sup">n</hi></seg>:
-                     <seg type="dMeeting" subtype="M">meet <persName>Watts</persName></seg>.</ab>
+                  <seg type="dMeeting" subtype="M">meet <persName ref="/people/WAT03.html">Watts</persName></seg>.</ab>
                <ab type="dDay" xml:id="g1800-12-09"><date when="1800-12-09">9. Tu.</date><ref
                      type="dText" subtype="read" target="/bibl/te1163.html">Gowrie, acts 1, 2,
                      3</ref>: <ref type="dText" subtype="read" target="/bibl/te1164.html">Coxcomb,

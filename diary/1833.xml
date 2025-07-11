@@ -1350,7 +1350,7 @@
                            ><placeName type="venue">Ellis</placeName></persName></seg>, <seg
                      type="dMeeting" subtype="C"><persName><placeName type="venue"
                            >Roberts</placeName></persName></seg>, &amp; <seg type="dMeeting"
-                     subtype="C"><persName><placeName type="venue"
+                                 subtype="C"><persName ref="/people/WAL10.html"><placeName type="venue"
                      >Waller</placeName></persName></seg> &amp; <seg type="dMeeting" subtype="C"
                         ><persName>Phipps</persName>, (<seg type="dTopic">Woods &amp;
                      Forests</seg>)</seg>. <ref type="dEvent" subtype="Temp">68 / 74</ref></ab>
@@ -2561,7 +2561,7 @@
                         <persName ref="/people/BRO06.html">Brockedon</persName>, <persName
                         ref="/people/LAN07.html">C Landseer</persName>, <persName
                         ref="/people/ATH01.html">Atherston</persName>,
-                        <persName>Wheatstone</persName>, <persName>Brookes</persName>, <persName
+                              <persName ref="/people/WHE05.html">Wheatstone</persName>, <persName>Brookes</persName>, <persName
                         ref="/people/CAU01.html">Caunters</persName></seg>. <ref type="dEvent"
                      subtype="Temp">67 / 72</ref></ab>
                <ab type="dDay" xml:id="g1833-10-29"><date when="1833-10-29">29. Tu.</date><ref
