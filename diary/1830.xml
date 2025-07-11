@@ -804,7 +804,7 @@
                      type="dWrote" subtype="write" target="/works/thou01.html">Reverie, p. 12</ref>.
                      <ref type="dText" subtype="read" target="/bibl/te3272.html">Homer, v.
                      602</ref>:<ref type="dText" subtype="cala" target="/bibl/te3299.html"> Candide,
-                     çala</ref>. <seg type="dMeeting" subtype="CG"><persName>Vogel</persName>
+                        çala</ref>. <seg type="dMeeting" subtype="CG"><persName ref="/people/VOG01.html">Vogel</persName>
                      calls</seg>: <seg type="dMeal" subtype="DG"><persName ref="/people/HUD01.html"
                         >Hudson</persName> dines</seg>: <ref type="dEntertainment" subtype="Theat"
                      target="/plays/haml01.html"><placeName type="DL"/>theatre, Hamlet; <seg
@@ -885,7 +885,7 @@
                <ab type="dDay" xml:id="g1830-03-30"><date when="1830-03-30">30. Tu. </date><ref
                      type="dWrote" subtype="write" target="/works/thou01.html">Self-Love, p.
                   1</ref>. <ref type="dText" subtype="read" target="/bibl/te3272.html">Homer, v.
-                     374</ref>. <seg type="dMeeting" subtype="CG"><persName>Vogel</persName>
+                     374</ref>. <seg type="dMeeting" subtype="CG"><persName ref="/people/VOG01.html">Vogel</persName>
                      calls</seg>: <seg type="dMeal" subtype="DG"><persName>M<hi rend="sup">rs</hi>
                         Clairmont</persName> &amp; <foreign><persName>filles</persName></foreign>,
                      &amp; <persName ref="/people/SHE02.html">M W S</persName> dine; <seg
@@ -941,7 +941,7 @@
                      type="dEvent" subtype="Temp">47 ½ / 53</ref></ab>
                <ab type="dDay" xml:id="g1830-04-05"><date when="1830-04-05">5. M. </date><ref
                      type="dText" subtype="read" target="/bibl/te3272.html">Homer, Lib. XVIII, v.
-                     111</ref>. <seg type="dMeeting" subtype="CG"><persName>Vogel</persName></seg>
+                     111</ref>. <seg type="dMeeting" subtype="CG"><persName ref="/people/VOG01.html">Vogel</persName></seg>
                   &amp; <seg type="dMeeting" subtype="CG"><persName ref="/people/GOD07.html"
                         >W</persName> call</seg>: <seg type="dMeal" subtype="TG"><persName
                         ref="/people/SHE02.html">M W S</persName> &amp; <persName
@@ -1084,7 +1084,7 @@
                      pages</ref>. <ref type="dText" subtype="read" target="/bibl/te3272.html">Homer,
                      v. 314</ref>: <ref type="dText" subtype="read" target="/bibl/te3306.html"
                      >Bourrienne, p. 467; Vol. II, p. 52</ref>. <seg type="dMeeting" subtype="CG"
-                        ><persName>Vogel</persName> calls</seg>. <ref type="dEvent" subtype="Temp"
+                        ><persName ref="/people/VOG01.html">Vogel</persName> calls</seg>. <ref type="dEvent" subtype="Temp"
                      >60 / 65</ref></ab>
                <ab type="dDay" xml:id="g1830-04-20"><date when="1830-04-20">20. Tu. </date><ref
                      type="dEvent" subtype="Weath">Rain</ref>.<ref type="dWrote" subtype="revised"
@@ -1365,7 +1365,7 @@
                      Vol. III, p. 130</ref>. <ref type="dEntertainment" subtype="Museo"
                      target="/events/mu0001.html"><placeName>Museum</placeName>; <ref type="dText"
                         subtype="read" target="/bibl/te3319.html">Hugh Murray</ref></ref>. <seg
-                     type="dMeeting" subtype="CG"><persName>Vogel</persName> calls</seg>. <ref
+                           type="dMeeting" subtype="CG"><persName ref="/people/VOG01.html">Vogel</persName> calls</seg>. <ref
                      type="dEvent" subtype="Temp">64 ½ / 67 ½ </ref></ab>
                <ab type="dDay" xml:id="g1830-05-20"><date when="1830-05-20">20. Th.</date><ref
                      type="dWrote" subtype="write" target="/works/thou01.html">Astronomy, p.
@@ -1635,15 +1635,15 @@
                      >Bulwer</persName></seg>: <seg type="dMeal" subtype="D">dine at <persName
                         ref="/people/BUL01.html"><placeName type="venue"
                         >Bulwer’s</placeName></persName></seg>: <seg type="dMeeting" subtype="CG"
-                        ><persName type="nah">Vogel</persName> calls <hi rend="sup">n</hi></seg>.
+                           ><persName type="nah" ref="/people/VOG01.html">Vogel</persName> calls <hi rend="sup">n</hi></seg>.
                      <ref type="dEvent" subtype="Temp">60 ½</ref> /</ab>
                <ab type="dDay" xml:id="g1830-06-12"><date when="1830-06-12">12. Sa.</date><ref
                      type="dWrote" subtype="write" target="/works/thou01.html">Astronomy, p.
                      27/2</ref>. <ref type="dText" subtype="read" target="/bibl/te3272.html">Homer,
                      v. 332</ref>. <seg type="dMeeting" subtype="C">Call on <persName
                         ref="/people/BEN03.html"><placeName type="venue"
-                        >Bentley</placeName></persName> (<seg type="dMeeting" subtype="Adv">adv.
-                        Vogel</seg>)</seg> &amp; <seg type="dMeeting" subtype="C"><persName
+                           >Bentley</placeName></persName> <persName ref="/people/VOG01.html"> (<seg type="dMeeting" subtype="Adv">adv.
+                        Vogel</seg></persName>)</seg> &amp; <seg type="dMeeting" subtype="C"><persName
                         ref="/people/ROD02.html"><placeName type="venue"
                      >Rodd</placeName></persName></seg>. <ref type="dEvent" subtype="Temp">61 /
                      65</ref></ab>

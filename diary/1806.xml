@@ -1970,7 +1970,7 @@
                         rend="deleted">//</emph> 5 1/2 pp</ref>. <seg type="dMeeting" subtype="C"
                      >Call on <persName><placeName type="venue"
                      >Langhorn</placeName></persName></seg> &amp; <seg type="dMeeting" subtype="C"
-                           ><persName><placeName type="venue">Vizard</placeName></persName></seg>:
+                        ><persName ref="/people/VIZ01.html"><placeName type="venue">Vizard</placeName></persName></seg>:
                      <seg type="dMeal" subtype="DG"><persName ref="/people/COO02.html">G M
                         C</persName> dines </seg>.</ab>
                <ab type="dDay" xml:id="g1806-07-26"><date when="1806-07-26">26. Sa. </date><ref
@@ -1997,7 +1997,7 @@
                      eng</persName></seg></seg>.</ab>
                <ab type="dDay" xml:id="g1806-07-29"><date when="1806-07-29">29. Tu.</date><ref
                      type="dWrote" subtype="write" target="/works/pant01.html">Pantheon, p.
-                     101/2</ref>. <seg type="dMeeting" subtype="C">Call on <persName><placeName
+                     101/2</ref>. <seg type="dMeeting" subtype="C">Call on <persName ref="/people/VIZ01.html"><placeName
                            type="venue">Vizard</placeName></persName></seg>.</ab>
                <ab type="dDay" xml:id="g1806-07-30"><date when="1806-07-30">30. W.</date><ref
                      type="dWrote" subtype="write" target="/works/pant01.html"> Pantheon, p.

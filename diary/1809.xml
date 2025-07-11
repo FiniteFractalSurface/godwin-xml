@@ -3389,7 +3389,7 @@
                            ><persName><placeName type="venue">Tabart</placeName></persName></seg>,
                      <seg type="dMeeting" subtype="C"><persName><placeName type="venue"
                            >Carpenter</placeName></persName></seg>, <seg type="dMeeting" subtype="C"
-                           ><persName><placeName type="venue">Vizard</placeName></persName></seg>
+                              ><persName ref="/people/VIZ01.html"><placeName type="venue">Vizard</placeName></persName></seg>
                   &amp; <seg type="dMeeting" subtype="C"><persName ref="/people/TAY06.html"
                            ><placeName type="venue">R T</placeName></persName></seg>: <seg
                      type="dMeeting" subtype="CG"><persName ref="/people/GOD02.html">Jo
@@ -3555,7 +3555,7 @@
                            ref="/people/KNO01.html">Knowles</persName>,
                            <persName>Haughton</persName>, <persName>Churchil</persName>, <persName
                            ref="/people/ROB99.html">J Robinson</persName>,
-                           <persName>Vizard</persName>, &amp;c</seg></ref>: <seg type="dMeal"
+                           <persName ref="/people/VIZ01.html">Vizard</persName>, &amp;c</seg></ref>: <seg type="dMeal"
                      subtype="SG"><persName ref="/people/TUR01.html">T T</persName> sups</seg>.</ab>
                <ab type="dDay" xml:id="g1809-12-30"><date when="1809-12-30">30. Sa.</date><seg
                      type="dMeeting" subtype="M">Meet <persName>Jacob</persName></seg>: <ref
@@ -3571,7 +3571,7 @@
                         ref="/people/TUR01.html">T T</persName> dine</seg>. <ref type="dWrote"
                      subtype="letter">Write to <persName ref="/people/CUR01.html"
                      >Curran</persName></ref>. <seg type="dMeeting" subtype="CG"><persName
-                        type="nah">Vizard</persName> calls <hi rend="sup">n</hi></seg>. <seg
+                           type="nah" ref="/people/VIZ01.html">Vizard</persName> calls <hi rend="sup">n</hi></seg>. <seg
                      type="dMeeting" subtype="Inv">invité <persName ref="/people/FUS01.html"
                         >Fuseli</persName></seg>.</ab>
                <pb n="e.210_0026r"/>
