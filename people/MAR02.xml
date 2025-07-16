@@ -1,10 +1,45 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="MAR02" sex="2"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Harriet</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Martineau</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1802-06-12"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1876-06-27"/><occupation xmlns="http://www.tei-c.org/ns/1.0">writer</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">journalist</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial">See <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>.
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="MAR02" sex="2">
+                    <persName>
+                        <roleName/>
+                        <forename>Harriet</forename>
+                        <surname>Martineau</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1802-06-12">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1876-06-27"/>
+                    <occupation>writer</occupation>
+                    <occupation>journalist</occupation>
+                    <note type="editorial">See <title>DNB</title>.
     
-    <p xmlns="http://www.tei-c.org/ns/1.0">This code has been used four times: H Martineau (1834-03-08), (H Martineau) (1834-05-12), H Martineau 
-    (1834-06-12), H Martineau (1834-07-06). </p><p xmlns="http://www.tei-c.org/ns/1.0">Harriet was the daughter of 'Thomas Martineau (1764–1826), a cloth manufacturer descended from an old 
-    Huguenot family, and his wife, Elizabeth (1770/71–1848)' (<title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>). Her brother James (1805–1900), Unitarian 
-    minister, has a separate <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> entry. The family were prominent Norwich unitarians and I suggest we might
-    need more Martineau keycodes. </p><p xmlns="http://www.tei-c.org/ns/1.0">From her autobiography: Godwin was 'an occasional morning visitor of mine. I looked upon him as a curious monument
+    <p>This code has been used four times: H Martineau (1834-03-08), (H Martineau) (1834-05-12), H Martineau 
+    (1834-06-12), H Martineau (1834-07-06). </p><p>Harriet was the daughter of 'Thomas Martineau (1764–1826), a cloth manufacturer descended from an old 
+    Huguenot family, and his wife, Elizabeth (1770/71–1848)' (<title>DNB</title>). Her brother James (1805–1900), Unitarian 
+    minister, has a separate <title>DNB</title> entry. The family were prominent Norwich unitarians and I suggest we might
+    need more Martineau keycodes. </p><p>From her autobiography: Godwin was 'an occasional morning visitor of mine. I looked upon him as a curious monument
     of a bygone state of society; and there was still a good deal that was interesting about him .... My mother and 
     I went, with a mutual friend, to tea at the Godwins' little dwelling under the roof of the Houses of Parliament,
    just before I went to America [describes him giving her letters of introduction] .... On the next Sunday, in came 
@@ -15,18 +50,18 @@
    the order of men against whom he had written in his earlier years .... That last evening at Godwin's was a 
    memorable one to me. The place is gone, and all who were there are dead except myself. Before it grew too
    dusk (it was in July) Godwin took us through the passages of the old Parliament House, and showed us the
-   Star Chamber...' (Martineau, <title xmlns="http://www.tei-c.org/ns/1.0">Autobiography</title>, pp. 302-6)</p><p xmlns="http://www.tei-c.org/ns/1.0">Harriet went to America on 9.8.1834 and left New York to return to England on 1.8.1836, after Godwin's death.
+   Star Chamber...' (Martineau, <title>Autobiography</title>, pp. 302-6)</p><p>Harriet went to America on 9.8.1834 and left New York to return to England on 1.8.1836, after Godwin's death.
    Martineau entries after August 1834 have therefore been left uncoded.  That leaves only the 'H Martineau's. So Godwin and Harriet Martineau only meet 4 times, all in 
    1834. The first two are at Gaskel's (her name is bracketed in the second meeting) then
    12.6.1834 'Star-chamber; Gaskels, H Martineau and mere at tea.'
    6.7.1834 'Call on H Martineau:'
    which clearly correspond to the meetings Martineau describes above, although she muddles the dates a 
-   little and she seems to be elaborating by describing G as 'an occasional morning visitor of mine'.</p><p xmlns="http://www.tei-c.org/ns/1.0">Other Martineau entries prior to this period seem to  refer either to <persName xmlns="http://www.tei-c.org/ns/1.0" key="MAR04">Philip or Thomas Martineau</persName> (1764-1826), or to one of the following:
-    </p><p xmlns="http://www.tei-c.org/ns/1.0"> 1 -- martinu, lambeth
+   little and she seems to be elaborating by describing G as 'an occasional morning visitor of mine'.</p><p>Other Martineau entries prior to this period seem to  refer either to <persName key="MAR04">Philip or Thomas Martineau</persName> (1764-1826), or to one of the following:
+    </p><p> 1 -- martinu, lambeth
     1811-02-15 
     I suggest this is also Thomas Martineau - the full entry reads 'Seek Martinu, Lambeth : call on Wordsworth, 
     Gold and Martineau', so likely that 'Martinu' is an abbreviated form of the full name, which Godwin writes in full 
-    later in the same entry.</p><p xmlns="http://www.tei-c.org/ns/1.0">2 -- mrs martineau
+    later in the same entry.</p><p>2 -- mrs martineau
     1835-02-02 1836-01-30 
     This prob refers to Harriet's mother Elizabeth (1770/71-1848) who survives her husband and probably
     merits her own code. As well as the two instances of 'Mrs Martineau' she is denoted by 'Star-chamber; 
@@ -36,18 +71,24 @@
     11.5 'G Jones at tea; adv. mesds Gaskel and Martineau.'
     28.5 'Soir, Gaskel’s, Bowring, L Aikin, Grimstone, Hawkes’s, Owen, Hunter, Holms, Martineau, Jones.'
     I think we can be sure that the last one is Elizabeth even tho there is no 'Mrs' because of the context - 
-    meets at Gaskel's, who had met Godwin with Harriet and Elizabeth Martineau the previous year.</p><p xmlns="http://www.tei-c.org/ns/1.0">4 -- p martineau
+    meets at Gaskel's, who had met Godwin with Harriet and Elizabeth Martineau the previous year.</p><p>4 -- p martineau
     1805-09-08 1811-05-15 1811-06-12 1811-11-28 
-    P Martineau might well be Norwich surgeon <persName xmlns="http://www.tei-c.org/ns/1.0" key="MAR04">Philip Meadows Marinteau </persName>(1752-1829), whom Harriet
-    refers to in her <title xmlns="http://www.tei-c.org/ns/1.0">Autobiography</title> as 'my eminent uncle' (p. 38). The first meeting is an adv 
+    P Martineau might well be Norwich surgeon <persName key="MAR04">Philip Meadows Marinteau </persName>(1752-1829), whom Harriet
+    refers to in her <title>Autobiography</title> as 'my eminent uncle' (p. 38). The first meeting is an adv 
     at tea during one of Godwin's visits to Norwich then the first two of the 1811 refs are to meetings in London 
-    and the other (28.11) is a letter Godwin writes to him that is not in Abinger scans.  </p><p xmlns="http://www.tei-c.org/ns/1.0">1 -- j martineau
+    and the other (28.11) is a letter Godwin writes to him that is not in Abinger scans.  </p><p>1 -- j martineau
    1811-05-15 
    1 -- martineau jr
     1811-11-29 
     These are likely to refer to some of Harriet's seven siblings. Probably not possible/not worth trying to identify.
     The J Martineau is unlikely to be her younger brother James as it's a 'call on...' and James would only have 
     been 5 or 6 yrs old at the time. If we create the new codes described above then these two entries should
-    be the only uncoded Martineaus in the diary. </p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">
-Harriet Martineau, <title xmlns="http://www.tei-c.org/ns/1.0">Autobiography</title>, ed. by Linda H. Peterson 
-    (Peterborough, Ontario: Broadview Press, 2007)</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-03-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-05-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-06-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-07-06" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    be the only uncoded Martineaus in the diary. </p></note>
+                    <bibl type="printedbook">
+Harriet Martineau, <title>Autobiography</title>, ed. by Linda H. Peterson 
+    (Peterborough, Ontario: Broadview Press, 2007)</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

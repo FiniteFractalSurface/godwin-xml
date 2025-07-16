@@ -1,3 +1,50 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="BUR05" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0">Dr</roleName><forename xmlns="http://www.tei-c.org/ns/1.0">Charles</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Burney</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1757-12-04"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1817-12-28"/><occupation xmlns="http://www.tei-c.org/ns/1.0">schoolmaster</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">book collector</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Burney was expelled from Cambridge in 1777 for stealing books. He later became a fellow of the 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="BUR05" sex="1">
+                    <persName>
+                        <roleName>Dr</roleName>
+                        <forename>Charles</forename>
+                        <surname>Burney</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1757-12-04">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1817-12-28"/>
+                    <occupation>schoolmaster</occupation>
+                    <occupation>book collector</occupation>
+                    <note type="editorial">
+                        <p>Burney was expelled from Cambridge in 1777 for stealing books. He later became a fellow of the 
      Royal Society in 1802 and professor of ancient literature at the Royal Academy 
-   in 1810. His enormous library was purchased by the British Museum in 1818 after his death.</p><p xmlns="http://www.tei-c.org/ns/1.0">See the bibliographic entry for <persName xmlns="http://www.tei-c.org/ns/1.0" key="BUR03"/>Martin Charles Burney.</p><p xmlns="http://www.tei-c.org/ns/1.0">Godwin recorded his death.  </p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"><date xmlns="http://www.tei-c.org/ns/1.0" when="1792-09-26" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-02-10" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-11-05" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-04-19" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-11-18" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-05-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-12-06" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-02-01" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-02-16" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-11-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-11-25" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-05-14" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-05-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-06-12" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"><date xmlns="http://www.tei-c.org/ns/1.0" when="1815-03-02" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-12-28" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+   in 1810. His enormous library was purchased by the British Museum in 1818 after his death.</p>
+                        <p>See the bibliographic entry for <persName key="BUR03"/>Martin Charles Burney.</p>
+                        <p>Godwin recorded his death.  </p>
+                    </note>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

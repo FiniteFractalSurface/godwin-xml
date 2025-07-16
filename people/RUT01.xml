@@ -1,14 +1,60 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="RUT01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">John Towill</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Rutt</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1760-04-04"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1841-03-03"/><occupation xmlns="http://www.tei-c.org/ns/1.0">politician</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">writer</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Rutt edited Priestley's works; he was also a member of the Society for Constitutional Information. He
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="RUT01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>John Towill</forename>
+                        <surname>Rutt</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1760-04-04">
+                        <placeName/>
+                    </birth>
+                    <death when="1841-03-03"/>
+                    <occupation>politician</occupation>
+                    <occupation>writer</occupation>
+                    <note type="editorial">
+                        <p>Rutt edited Priestley's works; he was also a member of the Society for Constitutional Information. He
     lived in Bexley for a good part of his life but was connected to Spitalfields Unitarian Chapel
     and was a campaigner for vaccination. The identification is supported by the entry
    25 September 1830 where Godwin records that Rutt is 70. On 25 October 1826 he notes ' meet Towel Rutt'.
     The inclusion of the middle name might simply be because it had been 12 years since they last
-    met. </p><p xmlns="http://www.tei-c.org/ns/1.0">The entries in the 1790s are to a dinner at <persName xmlns="http://www.tei-c.org/ns/1.0" key="HOL02">Brand Hollis'</persName> and a visit to
-      <persName xmlns="http://www.tei-c.org/ns/1.0" key="MUI01">Muir</persName> being held at Woolwich, 
+    met. </p>
+                        <p>The entries in the 1790s are to a dinner at <persName key="HOL02">Brand Hollis'</persName> and a visit to
+      <persName key="MUI01">Muir</persName> being held at Woolwich, 
     awaiting transportation (Rutt was active in helping Muir while in prison).  There is a close group of Rutt 
     entries in 1812. One entry is to Tho.Rutt and has been left uncoded but we have assumed that the Rutts, 5 Rutts, and 
     the ordinary Rutt entries do indicate John Rutt, although we cannot be wholly certain of this.  The spate of meetings in 1827 are
     mainly adv entries at the Museum, probably concerning
-    Rutt's research on Priestley. In addition, 'J T Rutt' calls on Godwin 5 February 1828.</p><p xmlns="http://www.tei-c.org/ns/1.0">  See also a letter from Godwin to Thomas Noon Talfourd, writer, judge, and politician, dated 25 October 1827,
+    Rutt's research on Priestley. In addition, 'J T Rutt' calls on Godwin 5 February 1828.</p>
+                        <p>  See also a letter from Godwin to Thomas Noon Talfourd, writer, judge, and politician, dated 25 October 1827,
     (Pforzheimer G 0368) : asking if he could be put in touch with Mr. Rutt, whom he met at the British
-    Museum (and whom he had seen nine or ten times in the preceding twelve months). </p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>.</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">Pforzheimer Collection, Godwin to Thomas Noon Talfourd, 25 October 1827, G 0368.</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"><date xmlns="http://www.tei-c.org/ns/1.0" when="1792-06-02" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-12-17" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-04-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-04-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-04-14" n="notVenue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-08-08" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"><date xmlns="http://www.tei-c.org/ns/1.0" when="1814-08-19" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"><date xmlns="http://www.tei-c.org/ns/1.0" when="1826-10-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1826-11-17" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"><date xmlns="http://www.tei-c.org/ns/1.0" when="1827-01-31" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1827-02-06" n="notVenue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1827-02-14" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1827-02-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1827-05-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1827-10-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1827-10-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1827-10-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1827-10-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1827-11-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1827-11-29" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-02-05" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-05-01" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-09-25" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-05-14" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    Museum (and whom he had seen nine or ten times in the preceding twelve months). </p>
+                    </note>
+                    <bibl type="other"><title>DNB</title>.</bibl>
+                    <bibl type="MS">Pforzheimer Collection, Godwin to Thomas Noon Talfourd, 25 October 1827, G 0368.</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

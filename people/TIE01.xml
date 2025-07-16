@@ -1,8 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="TIE01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">George</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Tierney</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1761-03-20"><placeName xmlns="http://www.tei-c.org/ns/1.0">Gibraltar</placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1830-01-25"/><occupation xmlns="http://www.tei-c.org/ns/1.0">politician</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0"> Godwin first meets George Tierney (1761-1830)  
-    at <persName xmlns="http://www.tei-c.org/ns/1.0" key="LAU01">Lauderdale's</persName> and <persName xmlns="http://www.tei-c.org/ns/1.0" key="DEB01">Debrett's</persName> in 1796 and most
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="TIE01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>George</forename>
+                        <surname>Tierney</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1761-03-20">
+                        <placeName>Gibraltar</placeName>
+                    </birth>
+                    <death when="1830-01-25"/>
+                    <occupation>politician</occupation>
+                    <occupation/>
+                    <note type="editorial">
+                        <p> Godwin first meets George Tierney (1761-1830)  
+    at <persName key="LAU01">Lauderdale's</persName> and <persName key="DEB01">Debrett's</persName> in 1796 and most
     of the first contacts are at these venues. In 1798 he meets him with R Johnson (someone also
-    associated with<persName xmlns="http://www.tei-c.org/ns/1.0" key="COU01">John Courtenay</persName>), and in 1799 and 1801 there are connections to <persName xmlns="http://www.tei-c.org/ns/1.0" key="SHE04">Sheridan</persName> and
-    <persName xmlns="http://www.tei-c.org/ns/1.0" key="BUR02">Burdett</persName>. Godwin also records meeting Tierney on a number of occasions not associated with
-    others.</p><p xmlns="http://www.tei-c.org/ns/1.0">Godwin enters him in the 1796 lists under 1796, which is when he enters the diary.<lb xmlns="http://www.tei-c.org/ns/1.0"/>
+    associated with<persName key="COU01">John Courtenay</persName>), and in 1799 and 1801 there are connections to <persName key="SHE04">Sheridan</persName> and
+    <persName key="BUR02">Burdett</persName>. Godwin also records meeting Tierney on a number of occasions not associated with
+    others.</p>
+                        <p>Godwin enters him in the 1796 lists under 1796, which is when he enters the diary.<lb/>
   
-  Godwin records his death.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>.</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-02-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-02-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-03-14" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-03-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-03-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-03-30" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-04-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-04-05" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-04-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-04-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-04-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-05-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-05-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-05-17" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-08-17" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-12-14" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-07-13" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-02-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-06-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-10-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-12-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-12-14" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-03-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-03-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-12-09" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-01-18" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-01-09" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-01-25" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+  Godwin records his death.</p>
+                    </note>
+                    <bibl type="other"><title>DNB</title>.</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

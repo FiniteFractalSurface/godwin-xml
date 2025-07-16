@@ -1,7 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="BRE01" sex="2"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0">Miss</roleName><forename xmlns="http://www.tei-c.org/ns/1.0">Charlotte</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Brent</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1000"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"> Charlotte is the younger (very attractive) sister 
-    of <persName xmlns="http://www.tei-c.org/ns/1.0" key="MOR07">Mary Brent/Morgan</persName>, 
-    married to <persName xmlns="http://www.tei-c.org/ns/1.0" key="MOR06">John Morgan</persName>, friend of Coleridge. 
-    <persName xmlns="http://www.tei-c.org/ns/1.0" key="COL01">Coleridge</persName> was much taken with Charlotte.   
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="BRE01" sex="2">
+                    <persName>
+                        <roleName>Miss</roleName>
+                        <forename>Charlotte</forename>
+                        <surname>Brent</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName/>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation/>
+                    <note type="editorial"> Charlotte is the younger (very attractive) sister 
+    of <persName key="MOR07">Mary Brent/Morgan</persName>, 
+    married to <persName key="MOR06">John Morgan</persName>, friend of Coleridge. 
+    <persName key="COL01">Coleridge</persName> was much taken with Charlotte.   
     The entries coded are to Miss Brent. However there are a few later 
     Brent entries, which might relate to 
     Charlotte, or might be to her father, a Hatton Garden silversmith. However, 
@@ -10,4 +44,10 @@
     suggests that Morgan and Brent might refer to the 
     two sisters.  They have been coded as such, although the attribution is uncertain.
   
-  </note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Richard Holmes, <title xmlns="http://www.tei-c.org/ns/1.0">Coleridge: Darker Reflections</title> London, 1998 </bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-11-15" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"><date xmlns="http://www.tei-c.org/ns/1.0" when="1818-04-01" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-08-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-12-28" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+  </note>
+                    <bibl type="printedbook">Richard Holmes, <title>Coleridge: Darker Reflections</title> London, 1998 </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,14 +1,70 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="PIN02" sex="2"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Ann (Nancy)</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Pinkerton</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1000"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Godwin had replied to a letter from Miss N. Pinkerton in 1796 (MS. Abinger c. 54, fols. 25-9: 28 Sept. 1796) writing to her in 1796 and 1797, and he meets A Pinkerton
-    in a variety of different venues in 1797, but including contact with <persName xmlns="http://www.tei-c.org/ns/1.0" key="SMI02">Charlotte Smith</persName> and <persName xmlns="http://www.tei-c.org/ns/1.0" key="REV01">Maria Reveley</persName>. </p><p xmlns="http://www.tei-c.org/ns/1.0">The Miss N. Pinkerton who corresponds with Godwin 
-    in 1796 is reprimanded for the impropriety of her conduct by <persName xmlns="http://www.tei-c.org/ns/1.0" key="WOL01">Mary Wollstonecraft</persName> in July or August 1797 (MS. Abinger b. 2, fol. 58: dated 9 Aug. 1797 - Miss Pinkerton's  reply
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="PIN02" sex="2">
+                    <persName>
+                        <roleName/>
+                        <forename>Ann (Nancy)</forename>
+                        <surname>Pinkerton</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName/>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation/>
+                    <note type="editorial">
+                        <p>Godwin had replied to a letter from Miss N. Pinkerton in 1796 (MS. Abinger c. 54, fols. 25-9: 28 Sept. 1796) writing to her in 1796 and 1797, and he meets A Pinkerton
+    in a variety of different venues in 1797, but including contact with <persName key="SMI02">Charlotte Smith</persName> and <persName key="REV01">Maria Reveley</persName>. </p>
+                        <p>The Miss N. Pinkerton who corresponds with Godwin 
+    in 1796 is reprimanded for the impropriety of her conduct by <persName key="WOL01">Mary Wollstonecraft</persName> in July or August 1797 (MS. Abinger b. 2, fol. 58: dated 9 Aug. 1797 - Miss Pinkerton's  reply
     is in MS. Abinger c. 41, fol. 15 : dated 10 July.  The misdating is assumed to be in Pinkerton's letter; but it might equally be in Wollstonecraft's.  Adding to the confusion is the fact 
     that entries to A Pinkerton cease on 22 July, when she calls on them, and Godwin later calls on her.  But there are subsequent entries to A P and these we believe to be shorthand for Ann Pinkerton. 
-    These cease on 7 August 1797, after a visit by Godwin to her.     </p><p xmlns="http://www.tei-c.org/ns/1.0"> There is no further record of contact after August 1797 (if we assume that the Pinkertons recorded thereafter (the soonest being a year later) are in fact John Pinkerton.
-</p><p xmlns="http://www.tei-c.org/ns/1.0"> In her edition of Wollstonecraft's  letters, Janet Todd suggests that A and N Pinkerton may be identical - Ann sometimes being rendered Nancy.   The letters we have are addressed (if at all) to Miss Pinkerton; 
+    These cease on 7 August 1797, after a visit by Godwin to her.     </p>
+                        <p> There is no further record of contact after August 1797 (if we assume that the Pinkertons recorded thereafter (the soonest being a year later) are in fact John Pinkerton.
+</p>
+                        <p> In her edition of Wollstonecraft's  letters, Janet Todd suggests that A and N Pinkerton may be identical - Ann sometimes being rendered Nancy.   The letters we have are addressed (if at all) to Miss Pinkerton; 
     together with her reply signed N. Pinkerton.  It would be unusual for Godwin to use initials wholly inconsistently, but it may be that, having signed herself N, Godwin wrote to her as N, and when they met, 
-    after his two letters, she introduces herself as Ann.  This would support Todd's interpretation (see p. 418, 434).   It  should be noted that  <persName xmlns="http://www.tei-c.org/ns/1.0" key="PIN01">John Pinkerton's</persName> mistress who
+    after his two letters, she introduces herself as Ann.  This would support Todd's interpretation (see p. 418, 434).   It  should be noted that  <persName key="PIN01">John Pinkerton's</persName> mistress who
     assumed his name and was called Ann.  The DNB notes that she was accused of 'bad conduct and drunkeness' - and, if they are the same person,  Wollstonecraft would certainly have agreed with the former.  
     The DNB suggests John and Ann Pinkerton separated around 1792-3.  It would, however, be odd for this woman, who had three children, to describe herself as Miss.  It does seem possible, however, that
-   the F Pinkerton whom Godwin sees in 1813 is the son of John Pinkerton's liason with this Ann Pinkerton.  We have not assumed that this woman and the Miss Pinkerton in 1796-7 are linked.</p><p xmlns="http://www.tei-c.org/ns/1.0">It is assumed that A and N are identical and that they are differentiated consistently from
+   the F Pinkerton whom Godwin sees in 1813 is the son of John Pinkerton's liason with this Ann Pinkerton.  We have not assumed that this woman and the Miss Pinkerton in 1796-7 are linked.</p>
+                        <p>It is assumed that A and N are identical and that they are differentiated consistently from
     John Pinkerton (which seems clear after 1797 but might not be correct for the two Pinkerton entries in 1797. There are F Pilkerton's in 1813, 1814 and 1815 which may be the son of John Pinkerton). 
-  .</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook"> MS. Abinger c. 54, fols. 25-9: 28 Sept. 1796</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">MS. Abinger b. 2, fol. 58: dated 9 Aug. 1797 </bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook"> MS. Abinger c. 41, fol. 15 : dated 10 July</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook"><title xmlns="http://www.tei-c.org/ns/1.0">The Collected Letters of Mary Wollstonecraft </title>, ed. Janet Todd, (Columbia, New York, Columbia University Press, 2003), pp. 418, 434.</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook"><title xmlns="http://www.tei-c.org/ns/1.0">Book </title>about the person in <date xmlns="http://www.tei-c.org/ns/1.0" when="1998">1998</date></bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-09-28" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-05-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-05-31" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-06-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-06-26" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-06-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-06-30" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-07-01" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-07-06" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-07-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-07-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-07-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-07-22" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-07-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-08-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-08-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-08-05" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-08-07" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+  .</p>
+                    </note>
+                    <bibl type="printedbook"> MS. Abinger c. 54, fols. 25-9: 28 Sept. 1796</bibl>
+                    <bibl type="printedbook">MS. Abinger b. 2, fol. 58: dated 9 Aug. 1797 </bibl>
+                    <bibl type="printedbook"> MS. Abinger c. 41, fol. 15 : dated 10 July</bibl>
+                    <bibl type="printedbook"><title>The Collected Letters of Mary Wollstonecraft </title>, ed. Janet Todd, (Columbia, New York, Columbia University Press, 2003), pp. 418, 434.</bibl>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                    <bibl type="printedbook"><title>Book </title>about the person in <date when="1998">1998</date></bibl>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

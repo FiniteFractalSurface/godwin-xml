@@ -1,18 +1,64 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="MAU01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Thomas</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Maurice</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1754-09-25"><placeName xmlns="http://www.tei-c.org/ns/1.0">Hertford</placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1824-03-30"/><occupation xmlns="http://www.tei-c.org/ns/1.0">oriental scholar</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">librarian</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Godwin enters him in the 1796 list under 1796. 
-      It refers to: <lb xmlns="http://www.tei-c.org/ns/1.0"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="MAU01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Thomas</forename>
+                        <surname>Maurice</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1754-09-25">
+                        <placeName>Hertford</placeName>
+                    </birth>
+                    <death when="1824-03-30"/>
+                    <occupation>oriental scholar</occupation>
+                    <occupation>librarian</occupation>
+                    <note type="editorial">
+                        <p>Godwin enters him in the 1796 list under 1796. 
+      It refers to: <lb/>
     
-    26 November 1794: 'Call on Parr (adv. Tweddel &amp; Maurice)'<lb xmlns="http://www.tei-c.org/ns/1.0"/>
-    5 April 1796: 'sup at Mackintosh's , w. S P, G Moore, Maurice &amp; Ht.'<lb xmlns="http://www.tei-c.org/ns/1.0"/>
-    16 February 1821: 'Call on Maurice, Museum:'<lb xmlns="http://www.tei-c.org/ns/1.0"/>
+    26 November 1794: 'Call on Parr (adv. Tweddel &amp; Maurice)'<lb/>
+    5 April 1796: 'sup at Mackintosh's , w. S P, G Moore, Maurice &amp; Ht.'<lb/>
+    16 February 1821: 'Call on Maurice, Museum:'<lb/>
     
    Even though the first entry pre-dates 1796 it seems likely that Godwin
     has overlooked this - the reason being that all three are highly convincing as references to
     Thomas Maurice. Maurice was tutored by Samuel Parr, with whom he appears in conjunction
     in the first two entries (Parr, S P), and from 1799 he was assistant keeper of manuscripts 
     in the British Museum, which is where Godwin finds him in 1821 and where Maurice lived - he 
-    died in his apartments there in 1824.</p><p xmlns="http://www.tei-c.org/ns/1.0">Samuel Johnson wrote the preface to Maurice's translation of <title xmlns="http://www.tei-c.org/ns/1.0">Oedipus Tyrannus</title>;
+    died in his apartments there in 1824.</p>
+                        <p>Samuel Johnson wrote the preface to Maurice's translation of <title>Oedipus Tyrannus</title>;
     Sir William Jones influenced Maurice's oriental scholarship; Maurice's publications included
-    <title xmlns="http://www.tei-c.org/ns/1.0">History of Hindostan</title> (1795-99) and <title xmlns="http://www.tei-c.org/ns/1.0">Indian Antiquities</title> (1792-96); in 
-    politics Maurice was a 'staunch anti-Jacobin' , reviewing for the <title xmlns="http://www.tei-c.org/ns/1.0">British Critic</title> and 
+    <title>History of Hindostan</title> (1795-99) and <title>Indian Antiquities</title> (1792-96); in 
+    politics Maurice was a 'staunch anti-Jacobin' , reviewing for the <title>British Critic</title> and 
     'today his work is largely of interest to students of Romantic literature and antiquarianism on 
-    account of its influence on Coleridge, Shelley, and other contemporary writers.'</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    account of its influence on Coleridge, Shelley, and other contemporary writers.'</p>
+                    </note>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

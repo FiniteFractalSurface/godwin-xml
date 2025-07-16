@@ -1,12 +1,63 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="PIN01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">John</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Pinkerton</surname><addName xmlns="http://www.tei-c.org/ns/1.0">pseudonym Robert Heron</addName><addName xmlns="http://www.tei-c.org/ns/1.0">pseudonym H. Bennet</addName></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1758-02-17"><placeName xmlns="http://www.tei-c.org/ns/1.0">Scotland</placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1826-03-10"/><occupation xmlns="http://www.tei-c.org/ns/1.0">historian</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">poet</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">John Pinkerton was Scottish poet and historian, who moved to London in the early 1780s.  Pinkerton abandoned his mistress (who went under the name of Ann Pinkerton), with whom he had a son (Frederick Pinkerton) and married
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="PIN01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>John</forename>
+                        <surname>Pinkerton</surname>
+                        <addName>pseudonym Robert Heron</addName>
+                        <addName>pseudonym H. Bennet</addName>
+                    </persName>
+                    <birth when="1758-02-17">
+                        <placeName>Scotland</placeName>
+                    </birth>
+                    <death when="1826-03-10"/>
+                    <occupation>historian</occupation>
+                    <occupation>poet</occupation>
+                    <note type="editorial">
+                        <p>John Pinkerton was Scottish poet and historian, who moved to London in the early 1780s.  Pinkerton abandoned his mistress (who went under the name of Ann Pinkerton), with whom he had a son (Frederick Pinkerton) and married
     Henrietta Maria Burgess who produced daughters only.  There is a reference to Pinkerton junr, who may be the son by the first relationship.  
-    Pinkerton separated from his wife in 1802 and divorced her. The <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> suggests that he may have married Elizabeth Brown Becket on 30 April 1812, in a similarly brief union.
-    As with his consorts, so with his friends: he was able to keep few friends, always falling out with them over matters. Godwin's contacts with him cover a bare four years 1797-1801.</p><p xmlns="http://www.tei-c.org/ns/1.0">Pinkerton appears frequently at Holcroft’s and is mentioned on many occasions in Holcroft’s
+    Pinkerton separated from his wife in 1802 and divorced her. The <title>DNB</title> suggests that he may have married Elizabeth Brown Becket on 30 April 1812, in a similarly brief union.
+    As with his consorts, so with his friends: he was able to keep few friends, always falling out with them over matters. Godwin's contacts with him cover a bare four years 1797-1801.</p>
+                        <p>Pinkerton appears frequently at Holcroft’s and is mentioned on many occasions in Holcroft’s
     Diary, where the identification is clearly to John Pinkerton, and Godwin is clearly linked to some of
-    these meetings. </p><p xmlns="http://www.tei-c.org/ns/1.0">Pinkerton is assumed to be differentiated reasonably consistently from entries for <persName xmlns="http://www.tei-c.org/ns/1.0" key="PIN02">A and N Pinkerton</persName>, whom we believe to be identical; and from 
+    these meetings. </p>
+                        <p>Pinkerton is assumed to be differentiated reasonably consistently from entries for <persName key="PIN02">A and N Pinkerton</persName>, whom we believe to be identical; and from 
     F Pinkerton, who is likely to be John's son by his former liason with a women called A Pinkerton (probably not the A Pinkerton in the diary), whom he left in 1792-3, with three children.  It is possible that the two entries for 1797 for 'Pinkerton' in fact refer to A Pinkerton, but it seems unlikely that a
     entries after that date do so, and we have coded all Pinkerton's for John, assuming a degree of consistency.
      Pinkerton himself seems to have been out of the country from 1803-1805, and then spent a good deal of time 
-    in Scotland before moving to take up residence in France.</p><p xmlns="http://www.tei-c.org/ns/1.0">See: MS. Abinger c. 55, fols. 21-3: 10 Oct. 1799 .  It highly probable that this letter is misdated and is directed to Pinkerton,
+    in Scotland before moving to take up residence in France.</p>
+                        <p>See: MS. Abinger c. 55, fols. 21-3: 10 Oct. 1799 .  It highly probable that this letter is misdated and is directed to Pinkerton,
 referring back to a meeting with Pinkerton the previous Friday when he dines with Pinkerton. The
-  letter is an attempt to apologise for any offence Godwin might have caused. </p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">MS. Abinger c. 55, fols. 21-3: 10 Oct. 1799 </bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook"><title xmlns="http://www.tei-c.org/ns/1.0">The Collected Letters of Mary Wollstonecraft </title>, ed. Janet Todd, (Columbia, New York, Columbia University Press, 2003)</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-06-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-06-02" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-07-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-07-25" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-08-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-08-05" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-08-07" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-08-31" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-09-10" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-09-23" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-10-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-11-21" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-12-10" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-01-28" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-03-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-04-04" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-05-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-05-17" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-06-12" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-06-14" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-08-05" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-08-16" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-10-11" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-10-13" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-11-19" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-03-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-05-02" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+  letter is an attempt to apologise for any offence Godwin might have caused. </p>
+                    </note>
+                    <bibl type="printedbook">MS. Abinger c. 55, fols. 21-3: 10 Oct. 1799 </bibl>
+                    <bibl type="printedbook"><title>The Collected Letters of Mary Wollstonecraft </title>, ed. Janet Todd, (Columbia, New York, Columbia University Press, 2003)</bibl>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

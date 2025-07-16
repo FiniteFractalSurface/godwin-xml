@@ -1,10 +1,62 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="GRE01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><forename xmlns="http://www.tei-c.org/ns/1.0">Charles</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Grey</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1764-03-13"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1845-07-17"/><occupation xmlns="http://www.tei-c.org/ns/1.0">prime minister</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Charles Grey was a member of the Whigs who eventually became prime minister. He was closely involved with many political issues of the period from the trial of 
-    <persName xmlns="http://www.tei-c.org/ns/1.0" key="HAS01">Warren Hastings</persName> to Catholic Emancipation.</p><p xmlns="http://www.tei-c.org/ns/1.0">Attributions are clear up to 1833 when Godwin also writes to and hears from a 'C
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="GRE01" sex="1">
+                    <persName>
+                        <forename>Charles</forename>
+                        <surname>Grey</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1764-03-13">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1845-07-17"/>
+                    <occupation>prime minister</occupation>
+                    <occupation/>
+                    <note type="editorial">
+                        <p>Charles Grey was a member of the Whigs who eventually became prime minister. He was closely involved with many political issues of the period from the trial of 
+    <persName key="HAS01">Warren Hastings</persName> to Catholic Emancipation.</p>
+                        <p>Attributions are clear up to 1833 when Godwin also writes to and hears from a 'C
     Grey' (see correspondence dated 16 April 1833 and 25 July 1834 - these show that Charles Grey (possibly Earl Grey's son) is an assistant to
     Earl Grey and that Godwin was writing to him with respect to the exchequer vacancy that Earl Grey
     had promised him. There is subsequently a series of letters to Grey that are not specific between
     the Earl and Charles - but these have been coded as Earl. Grey because even if directed to Charles they are
-    likely to be intended for Earl Grey. Earl Grey resumes his appearances the following year. </p><p xmlns="http://www.tei-c.org/ns/1.0"> Godwin's 1796 Diary list
+    likely to be intended for Earl Grey. Earl Grey resumes his appearances the following year. </p>
+                        <p> Godwin's 1796 Diary list
     suggests he met Grey first in 1787. It is noteworthy that this is in the same year that he meets
     Gray (currently unidentified) - which suggests that Godwin is careful to distinguish between them from the
-  beginning.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 20, fol. 38: 21 January 1831</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 20, fol. 47: 5 September 1831</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 20, fol. 48: 11 October 1831</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 20, fol. 60: 4 April 1833</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 20, fol. 61: 16 April 1833</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 14, fol. 35: 25 July 1834</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"><date xmlns="http://www.tei-c.org/ns/1.0" when="1788-04-28" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-02-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-02-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-04-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-04-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-05-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-12-31" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-06-22" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-07-05" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-11-22" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-01-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-02-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-02-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-02-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-09-05" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-10-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-10-17" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-02-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-05-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-05-30" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-04-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-04-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-04-12" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-06-14" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-06-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-06-23" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-06-24" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-05-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-07-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-07-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-07-25" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+  beginning.</p>
+                    </note>
+                    <bibl type="MS"> MS. Abinger c. 20, fol. 38: 21 January 1831</bibl>
+                    <bibl type="MS"> MS. Abinger c. 20, fol. 47: 5 September 1831</bibl>
+                    <bibl type="MS"> MS. Abinger c. 20, fol. 48: 11 October 1831</bibl>
+                    <bibl type="MS"> MS. Abinger c. 20, fol. 60: 4 April 1833</bibl>
+                    <bibl type="MS"> MS. Abinger c. 20, fol. 61: 16 April 1833</bibl>
+                    <bibl type="MS"> MS. Abinger c. 14, fol. 35: 25 July 1834</bibl>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

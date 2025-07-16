@@ -1,7 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="BUR07" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">George</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Burnett</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" notBefore="1774" notAfter="1775"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1811-02-24"/><occupation xmlns="http://www.tei-c.org/ns/1.0">writer</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Burnett was a pantisocracy enthusiast and friend of the <persName xmlns="http://www.tei-c.org/ns/1.0" key="LAM01 LAM02">Lambs</persName>, 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="BUR07" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>George</forename>
+                        <surname>Burnett</surname>
+                        <addName/>
+                    </persName>
+                    <birth notBefore="1774" notAfter="1775">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1811-02-24"/>
+                    <occupation>writer</occupation>
+                    <note type="editorial">
+                        <p>Burnett was a pantisocracy enthusiast and friend of the <persName key="LAM01 LAM02">Lambs</persName>, 
     with whom Godwin first meets him, and where he sees him a good deal in 1801.  There is then little contact until 1811 when Godwin 
     meets Burnett and writes to him on several occasions at the ebginning of the year.  Burnett's death is recorded on the 24 February 1811, 
     but there is a 'messenger from Burnet' entry on 2 March 1811.  It is possible that, given their correspondence in January and February, 
     this is a further message from Burnett, sent just before his death but not delivered. No correspondence is extant.  Given Burnett's collapse into penury
     it is probable that he was trying to borrow money and Godwin was resisting.
-  </p><p xmlns="http://www.tei-c.org/ns/1.0">Godwin recorded his death.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-06-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-06-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-06-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-06-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-06-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-06-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-06-30" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-07-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-07-12" n="notVenue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-07-16" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-08-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-09-04" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-09-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-10-01" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-05-23" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-08-27" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-12-11" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-01-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-01-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-02-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-02-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-02-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-02-24" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-03-02" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+  </p>
+                        <p>Godwin recorded his death.</p>
+                    </note>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

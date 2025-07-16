@@ -1,8 +1,56 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="JER01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0"/><surname xmlns="http://www.tei-c.org/ns/1.0">Jerningham</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1737"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1812-11-17"/><occupation xmlns="http://www.tei-c.org/ns/1.0">poet</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">playwright</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Entries for Jerningham prior to 1812 are coded as the actor and poet Edward Jerningham.   In 1789 and 91, Jerningham appears at 
-    <persName xmlns="http://www.tei-c.org/ns/1.0" key="WIL01">Helen Maria Williams's</persName>  for tea. He reappears in  and falls out 
-1797 with a group including <persName xmlns="http://www.tei-c.org/ns/1.0" key="WOL01">Mary Wollstonecraft</persName> and <persName xmlns="http://www.tei-c.org/ns/1.0" key="OPI01">Opie</persName> for tea at <persName xmlns="http://www.tei-c.org/ns/1.0" key="ROB04">Mary Robinson’s</persName>.  The next mention is 1801 as a theatre 
-advenae (with Mackintosh).  In 1805 and again in 1808 there are theatrical adv. meetings. All are eminently plausible venues and occasions for Edward Jerningham, given his literary activities, his connections with Williams and with Whig and theatrical circles. </p><p xmlns="http://www.tei-c.org/ns/1.0">There is an alternative possibility for these earlier references:  <title xmlns="http://www.tei-c.org/ns/1.0">The Gentleman's Magazine</title> (1822) notes the demise of Edward Jerningham, 29 May 1822: 'He was the youngest son of the late Sir WIlliam Jerningham,
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="JER01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename/>
+                        <surname>Jerningham</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1737">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1812-11-17"/>
+                    <occupation>poet</occupation>
+                    <occupation>playwright</occupation>
+                    <note type="editorial">
+                        <p>Entries for Jerningham prior to 1812 are coded as the actor and poet Edward Jerningham.   In 1789 and 91, Jerningham appears at 
+    <persName key="WIL01">Helen Maria Williams's</persName>  for tea. He reappears in  and falls out 
+1797 with a group including <persName key="WOL01">Mary Wollstonecraft</persName> and <persName key="OPI01">Opie</persName> for tea at <persName key="ROB04">Mary Robinson’s</persName>.  The next mention is 1801 as a theatre 
+advenae (with Mackintosh).  In 1805 and again in 1808 there are theatrical adv. meetings. All are eminently plausible venues and occasions for Edward Jerningham, given his literary activities, his connections with Williams and with Whig and theatrical circles. </p>
+                        <p>There is an alternative possibility for these earlier references:  <title>The Gentleman's Magazine</title> (1822) notes the demise of Edward Jerningham, 29 May 1822: 'He was the youngest son of the late Sir WIlliam Jerningham,
   Baronet, nephew of the Poets of the same names (see vol. lxxxiii.i. p.283), and brother of the present Sir George Jerningham, who lays claim, through 
   a maternal ancestor, to the peerage of Stafford [..]' He married Emily in 1804 and had 4 children. He had been secretary to British Catholic Board and was called 
-  to the Bar in 1802.  He later supported Sheridan in the Stafford election of 1812.  However, given the account of the elder Jerniningham in the <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>, this seems the more plausible attribution.</p><p xmlns="http://www.tei-c.org/ns/1.0">In 1829, a different Jerningham appears. Godwin calls on him, he calls on Godwin, and they dine together. There are links with Gent and Hargrave, and there is one appearance with Mary Wollstonecraft Shelley. It appears to be
-  a closer relationship than the first Jerningham. These later Jerningham's have not been coded.  There are nearly twenty contacts in the years 1829 to 1831.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="journalism"><title xmlns="http://www.tei-c.org/ns/1.0">The Gentleman's Magazine</title>, 1822.</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"><date xmlns="http://www.tei-c.org/ns/1.0" when="1789-01-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1789-03-16" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"><date xmlns="http://www.tei-c.org/ns/1.0" when="1791-03-11" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-04-02" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-04-15" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-04-22" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-11-22" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-04-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-08-12" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+  to the Bar in 1802.  He later supported Sheridan in the Stafford election of 1812.  However, given the account of the elder Jerniningham in the <title>DNB</title>, this seems the more plausible attribution.</p>
+                        <p>In 1829, a different Jerningham appears. Godwin calls on him, he calls on Godwin, and they dine together. There are links with Gent and Hargrave, and there is one appearance with Mary Wollstonecraft Shelley. It appears to be
+  a closer relationship than the first Jerningham. These later Jerningham's have not been coded.  There are nearly twenty contacts in the years 1829 to 1831.</p>
+                    </note>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                    <bibl type="journalism"><title>The Gentleman's Magazine</title>, 1822.</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

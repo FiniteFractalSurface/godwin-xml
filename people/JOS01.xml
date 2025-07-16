@@ -1,24 +1,74 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="JOS01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Samuel</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Joseph</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" notBefore="1790" notAfter="1791"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1850-07-01"/><occupation xmlns="http://www.tei-c.org/ns/1.0">sculptor</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">These entries are either to the sculptor Samuel Joseph (1790/91-1850), or to his cousin, George Francis Joseph (1764-1846), portrait and subject painter     
-    (who painted a watercolor portrait of Lamb for William Evans).</p><p xmlns="http://www.tei-c.org/ns/1.0">In 1832 there are 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="JOS01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Samuel</forename>
+                        <surname>Joseph</surname>
+                        <addName/>
+                    </persName>
+                    <birth notBefore="1790" notAfter="1791">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1850-07-01"/>
+                    <occupation>sculptor</occupation>
+                    <occupation/>
+                    <note type="editorial">
+                        <p>These entries are either to the sculptor Samuel Joseph (1790/91-1850), or to his cousin, George Francis Joseph (1764-1846), portrait and subject painter     
+    (who painted a watercolor portrait of Lamb for William Evans).</p>
+                        <p>In 1832 there are 
 thirty or more entries, with seven being ‘sit to’Joseph’.  Samuel Joseph is best known for his monument to Wilberforce at Westminster Abbey, and ‘gained a reputation 
 for his portrait busts and medallions, attracting a distinguished list of sitters (NPG)’.  According to by Madge Dresser, ‘Set in Stone? Statues and Slavery in London’, 
-he was responsible for making thirty busts, four statues and five monuments.   The <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> entry for Samuel Joseph notes, 
+he was responsible for making thirty busts, four statues and five monuments.   The <title>DNB</title> entry for Samuel Joseph notes, 
 ‘Failure to gain a Royal Academy travelling scholarship to Rome in 1817 exacerbated his isolation from the ideal classicism of portrait 
 sculpture then in vogue, and propelled him instead towards a rarer, idiosyncratic naturalism expressed in the portrayal of a sudden 
 alertness of facial features and a flamboyant treatment of hair…the catalyst in this approach to portraiture was Joseph's involvement with 
 the pseudo-science of phrenology, in which the mental powers of the individual are read by feeling and interpreting cranial bumps. He was admitted a member of the Edinburgh 
 Phrenological Society on 26 December 1820’.  There’s some evidence that Godwin had an ongoing critical interest/curiosity 
-in the study of phrenology -  George Stuart Mackenzie (1789 - 1848), the author of <title xmlns="http://www.tei-c.org/ns/1.0">Illustrations 
+in the study of phrenology -  George Stuart Mackenzie (1789 - 1848), the author of <title>Illustrations 
 of phrenology</title> - with engraved Portraits included Godwin (Plate Number XVII) who is diagnosed: '...if this portrait be correctly drawn, the right side does not 
 quite agree  with the left in the region of identity, and where Dr. Spurzheim places the organ, which he has called in French 'Surnaturalite', or 'Sens de 
 Marveilleux', a disposition to believe in what is marvellous and improbable.  This dissimilarity may have produced something contradictory in his feelings, 
-which he may have felt extrememly annoying.' Godwin further discusses the subject in <title xmlns="http://www.tei-c.org/ns/1.0">Thoughts on Man</title> in the essay ‘Of Phrenology’, 
+which he may have felt extrememly annoying.' Godwin further discusses the subject in <title>Thoughts on Man</title> in the essay ‘Of Phrenology’, 
 written between 28 December 1830 and 9 January 1831, and personally attends a lecture by Spurzheim in 1831 (see also ‘Lectures in Diary’ 
 file).  Though critical of this method of diagnosis, Godwin had Mary Shelley’s head analysed by his friend William Nicholson when she was three 
 weeks old, and in 1830 notes in his diary ‘Cast at Spurzheim’s’.  This does not by any means prove that the Joseph in question is Samuel Joseph,
-but given Godwin and Joseph’s mutual interest in phrenology around this time, it’s more likely to be Samuel as opposed to his cousin George.</p><p xmlns="http://www.tei-c.org/ns/1.0"> The diary shows that Joseph was a frequent contact of Thomas Uwins, painter, and Uwin's memoir makes it clear that he was friendly with Samuel
- Joseph. Godwin sat for his portrait several times in 1832 and on four of those occasions T Uwins is recorded as an 'adv'.  After referring to Joseph the sculptor in an 1821 letter Unwins continues:<lb xmlns="http://www.tei-c.org/ns/1.0"/>
+but given Godwin and Joseph’s mutual interest in phrenology around this time, it’s more likely to be Samuel as opposed to his cousin George.</p>
+                        <p> The diary shows that Joseph was a frequent contact of Thomas Uwins, painter, and Uwin's memoir makes it clear that he was friendly with Samuel
+ Joseph. Godwin sat for his portrait several times in 1832 and on four of those occasions T Uwins is recorded as an 'adv'.  After referring to Joseph the sculptor in an 1821 letter Unwins continues:<lb/>
 
 'Now Joseph has always had a very high opinion of me; it was he who introduced me to the Wilsons of Highbury, and who has done me many other
 valuable professional services; and it is he how is now urging me, by every motive which friendship can suggest, to try my fortune in Scotland'.
-<title xmlns="http://www.tei-c.org/ns/1.0">A Memoir of Thomas Uwins, R.A. </title>, p. 88.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook"><title xmlns="http://www.tei-c.org/ns/1.0">Thoughts on Man: Political and Philosophical Writings</title>, vol. 6. </bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook"> Madge Dresser, ‘Set in Stone? Statues and Slavery in London’ in <title xmlns="http://www.tei-c.org/ns/1.0">History Workshop Journal</title> 64.1 (2007) 162-199</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Sarah Uwins, <title xmlns="http://www.tei-c.org/ns/1.0">A Memoir of Thomas Uwins, R.A.</title> (East Ardsley, Wakefield: EP Publishing, 1978)</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-05-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-06-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-06-21" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-07-04" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-07-07" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-07-09" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-07-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-07-10" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-07-12" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-07-14" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-07-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-07-17" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-07-19" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-07-28" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-07-30" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-08-08" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-08-24" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-08-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-09-07" n="notVenue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-09-09" n="notVenue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-09-10" n="notVenue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-09-13" n="notVenue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-09-14" n="notVenue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-09-16" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-09-20" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-09-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-10-10" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-10-30" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-11-24" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-11-27" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-12-17" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-02-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-03-08" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-03-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-04-23" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-05-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-08-01" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-10-06" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-11-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-12-02" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-03-24" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-06-28" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-05-04" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+<title>A Memoir of Thomas Uwins, R.A. </title>, p. 88.</p>
+                    </note>
+                    <bibl type="printedbook"><title>Thoughts on Man: Political and Philosophical Writings</title>, vol. 6. </bibl>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                    <bibl type="printedbook"> Madge Dresser, ‘Set in Stone? Statues and Slavery in London’ in <title>History Workshop Journal</title> 64.1 (2007) 162-199</bibl>
+                    <bibl type="printedbook">Sarah Uwins, <title>A Memoir of Thomas Uwins, R.A.</title> (East Ardsley, Wakefield: EP Publishing, 1978)</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

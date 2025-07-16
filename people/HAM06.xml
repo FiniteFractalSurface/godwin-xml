@@ -1,21 +1,66 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="HAM06" sex="2"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0"/><surname xmlns="http://www.tei-c.org/ns/1.0">Hamilton</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1000"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Mrs Hamilton is currently unidentified. She appears in the diary between 1819 and 35 on over forty occasions. </p><p xmlns="http://www.tei-c.org/ns/1.0"> The Abinger MSs include a letter from a Roman Catholic clergyman to Mrs Hamilton apologising for not having 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="HAM06" sex="2">
+                    <persName>
+                        <roleName/>
+                        <forename/>
+                        <surname>Hamilton</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation/>
+                    <note type="editorial">
+                        <p>Mrs Hamilton is currently unidentified. She appears in the diary between 1819 and 35 on over forty occasions. </p>
+                        <p> The Abinger MSs include a letter from a Roman Catholic clergyman to Mrs Hamilton apologising for not having 
       been in when she called and then trying to answer a set of questions that Godwin had asked her to ask him, 
       some of which appear to relate to the most authentic form of Catholic Mass Book and Breviary.  Although the 
       Abinger Conspectus dates the letter for Dec 3rd 1824, the writing is not clear and it seems more likely to be  Dec 3rd 1834.
     On 4 December Mrs Hamilton calls on Godwin.  However, there is no previous call in Devember or November, so that it is unclear when Godwin gave Mrs Hamilton her instrictions. 
-    Godwin is, at this time, working on the essays that came to form the posthumous <title xmlns="http://www.tei-c.org/ns/1.0">Genius of Christianity Unveiled</title>, and is writing on 'probation', 'contrition' and 'atonement'.
+    Godwin is, at this time, working on the essays that came to form the posthumous <title>Genius of Christianity Unveiled</title>, and is writing on 'probation', 'contrition' and 'atonement'.
     Although it is difficult to see how Godwin communicates his questions to Mrs Hamilton, since the previous recorded meeting is in January 1834, this still seems 
-    more likely than 1824 - since there is no record of contact with Mrs Hamilton between June 1823 and November 1827.</p><p xmlns="http://www.tei-c.org/ns/1.0">It is possible that there is a Mr Hamilton.  Three of the contacts coded lack 'Mrs' : Hamilton (1830-07-11); Hamilton (1830-09-09); Hamilton (1835-08-23). However,
-    this may also be an indication of intimacy. </p><p xmlns="http://www.tei-c.org/ns/1.0">There is a reference to E + G Hamilton on 1821-12-02; and there are then several reference to E Hamilton:   
- 1821-04-29; 1821-08-05; 1821-11-04; 1822-01-01; 1822-02-03; 1823-06-07; 1823-06-19; 1823-06-22 (in which E Hamilton ppc (i.e., takes her leave of the Godwin's);<lb xmlns="http://www.tei-c.org/ns/1.0"/>
-    There is also a reference to G Hamilton in 1821-11-22<lb xmlns="http://www.tei-c.org/ns/1.0"/>
+    more likely than 1824 - since there is no record of contact with Mrs Hamilton between June 1823 and November 1827.</p>
+                        <p>It is possible that there is a Mr Hamilton.  Three of the contacts coded lack 'Mrs' : Hamilton (1830-07-11); Hamilton (1830-09-09); Hamilton (1835-08-23). However,
+    this may also be an indication of intimacy. </p>
+                        <p>There is a reference to E + G Hamilton on 1821-12-02; and there are then several reference to E Hamilton:   
+ 1821-04-29; 1821-08-05; 1821-11-04; 1822-01-01; 1822-02-03; 1823-06-07; 1823-06-19; 1823-06-22 (in which E Hamilton ppc (i.e., takes her leave of the Godwin's);<lb/>
+    There is also a reference to G Hamilton in 1821-11-22<lb/>
     The pattern of reference to E and G Hamilton suggest that they may be alternative ways of refering to Mrs Hamilton and her 
     husband, with the suggestion that the most frequently recorded on both are identical, so that E is Mrs Hamilton.   We have coded E Hamilton's accordingly.
-    'Graham Hamilton' is the name of a <persName xmlns="http://www.tei-c.org/ns/1.0" key="LAM04">Lady Caroline Lamb</persName> novel that Godwin reads in 1822.
-    There is a reference to 'Hamilton, P R R' in 1824-08-20 <lb xmlns="http://www.tei-c.org/ns/1.0"/>
-    There is also a reference to a 'Hamilton (st martin’s library)': 1828-01-12<lb xmlns="http://www.tei-c.org/ns/1.0"/>
-    There is a Dr Hamilton in 'Dr Hamilton': 1831-05-15  (and earlier references, although it may be to a different person, in 1794-02-28; 1804-05-09; 1804-09-27<lb xmlns="http://www.tei-c.org/ns/1.0"/>
+    'Graham Hamilton' is the name of a <persName key="LAM04">Lady Caroline Lamb</persName> novel that Godwin reads in 1822.
+    There is a reference to 'Hamilton, P R R' in 1824-08-20 <lb/>
+    There is also a reference to a 'Hamilton (st martin’s library)': 1828-01-12<lb/>
+    There is a Dr Hamilton in 'Dr Hamilton': 1831-05-15  (and earlier references, although it may be to a different person, in 1794-02-28; 1804-05-09; 1804-09-27<lb/>
     
-    The references to Mrs Hamilton do not suggest particular connections.  There is some coincidence with <persName xmlns="http://www.tei-c.org/ns/1.0" key="OGI01">Ogilvie</persName> and 
-    there may be a connection with <persName xmlns="http://www.tei-c.org/ns/1.0" key="PIL01">Pilcher</persName>, and on both 6 and 8  January 1822 she sleeps at Godwin's house. In June 
-    1823 there is an entry for E Hamilton ppc, followed by nearly three years of absence of all Hamilton entries - strongly linking E to Mrs Hamilton. If anything, the indications are of a family friend. </p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 44, fols. 8-9: 3 December 1824</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"><date xmlns="http://www.tei-c.org/ns/1.0" when="1819-03-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1819-03-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1819-04-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1819-06-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1819-07-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1819-08-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1819-09-10" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"><date xmlns="http://www.tei-c.org/ns/1.0" when="1820-01-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1820-03-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1820-04-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1820-06-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1820-08-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1820-10-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1820-12-06" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-01-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-01-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-03-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-04-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-04-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-06-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-06-24" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-07-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-08-05" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-09-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-11-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-12-02" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"><date xmlns="http://www.tei-c.org/ns/1.0" when="1822-01-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1822-01-06" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1822-01-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1822-01-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1822-01-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1822-02-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1822-02-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1822-12-19" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"><date xmlns="http://www.tei-c.org/ns/1.0" when="1823-06-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1823-06-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1823-06-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1823-06-22" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"><date xmlns="http://www.tei-c.org/ns/1.0" when="1827-11-19" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-02-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-03-05" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-06-01" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"><date xmlns="http://www.tei-c.org/ns/1.0" when="1829-06-14" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1829-06-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1829-07-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1829-07-19" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-07-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-09-09" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-07-12" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-01-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-12-04" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-08-23" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    The references to Mrs Hamilton do not suggest particular connections.  There is some coincidence with <persName key="OGI01">Ogilvie</persName> and 
+    there may be a connection with <persName key="PIL01">Pilcher</persName>, and on both 6 and 8  January 1822 she sleeps at Godwin's house. In June 
+    1823 there is an entry for E Hamilton ppc, followed by nearly three years of absence of all Hamilton entries - strongly linking E to Mrs Hamilton. If anything, the indications are of a family friend. </p>
+                    </note>
+                    <bibl type="MS"> MS. Abinger c. 44, fols. 8-9: 3 December 1824</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

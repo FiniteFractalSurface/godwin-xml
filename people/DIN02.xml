@@ -1,4 +1,49 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="DIN02" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Richard</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Dinmore</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" notAfter="1829"/><occupation xmlns="http://www.tei-c.org/ns/1.0">writer</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">tax collector</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Dinmore was educated as a surgeon and practised for a short time in Watton, Norfolk. He was the author of some radical works, most notably 
-  <title xmlns="http://www.tei-c.org/ns/1.0">A Brief Account of the Moral and Political Acts of the Kings and Queens of England</title> (London, 1793) and <title xmlns="http://www.tei-c.org/ns/1.0">An Exposition of the Principles of the English 
-  Jacobins</title> (Norwich, 1796). He later emigrated to America where he died. </p><p xmlns="http://www.tei-c.org/ns/1.0">It is possible that Godwin is referring to his father, Richard senior, who was a sadler and president to the Patriotic Society (the successor to the Norwich Revolution Society) until 
-      June 1796. However, the presence of <persName xmlns="http://www.tei-c.org/ns/1.0" key="MAR07">John March</persName>, the publisher of <title xmlns="http://www.tei-c.org/ns/1.0">Principles of English Jacobinism, makes it more likely to be the son.</title></p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">C.B. Jewson, <title xmlns="http://www.tei-c.org/ns/1.0">The Jacobin City: A Portrait of Norwich in its Reaction to the French Revolution 1788–1802</title> (Glasgow: Blackie, 1975)</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">John Chambers, <title xmlns="http://www.tei-c.org/ns/1.0">A General History of the County of Norfolk</title>, 2 vols (London: Longman, Rees, Orme, Brown, and Green, 1829)</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-07-13" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="DIN02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Richard</forename>
+                        <surname>Dinmore</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName/>
+                    </birth>
+                    <death notAfter="1829"/>
+                    <occupation>writer</occupation>
+                    <occupation>tax collector</occupation>
+                    <note type="editorial">
+                        <p>Dinmore was educated as a surgeon and practised for a short time in Watton, Norfolk. He was the author of some radical works, most notably 
+  <title>A Brief Account of the Moral and Political Acts of the Kings and Queens of England</title> (London, 1793) and <title>An Exposition of the Principles of the English 
+  Jacobins</title> (Norwich, 1796). He later emigrated to America where he died. </p>
+                        <p>It is possible that Godwin is referring to his father, Richard senior, who was a sadler and president to the Patriotic Society (the successor to the Norwich Revolution Society) until 
+      June 1796. However, the presence of <persName key="MAR07">John March</persName>, the publisher of <title>Principles of English Jacobinism, makes it more likely to be the son.</title></p>
+                    </note>
+                    <bibl type="printedbook">C.B. Jewson, <title>The Jacobin City: A Portrait of Norwich in its Reaction to the French Revolution 1788–1802</title> (Glasgow: Blackie, 1975)</bibl>
+                    <bibl type="printedbook">John Chambers, <title>A General History of the County of Norfolk</title>, 2 vols (London: Longman, Rees, Orme, Brown, and Green, 1829)</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

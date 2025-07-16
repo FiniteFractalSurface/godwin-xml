@@ -1,17 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<listPerson xmlns="http://www.tei-c.org/ns/1.0">
-    <person xmlns="http://www.tei-c.org/ns/1.0" xml:id="WHA01" sex="1">
-        <persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"
-                /><forename xmlns="http://www.tei-c.org/ns/1.0">John</forename><surname
-                xmlns="http://www.tei-c.org/ns/1.0">Wharton</surname><addName
-                xmlns="http://www.tei-c.org/ns/1.0"/></persName>
-        <birth xmlns="http://www.tei-c.org/ns/1.0" when="1765"><placeName
-                xmlns="http://www.tei-c.org/ns/1.0"/></birth>
-        <death xmlns="http://www.tei-c.org/ns/1.0" when="1843"/>
-        <occupation xmlns="http://www.tei-c.org/ns/1.0">politician</occupation>
-        <note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p
-                xmlns="http://www.tei-c.org/ns/1.0"> MP for Beverley, friend of <persName
-                    xmlns="http://www.tei-c.org/ns/1.0" key="TOO01">Tooke</persName> and member of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WHA01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>John</forename>
+                        <surname>Wharton</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1765">
+                        <placeName/>
+                    </birth>
+                    <death when="1843"/>
+                    <occupation>politician</occupation>
+                    <note type="editorial">
+                        <p> MP for Beverley, friend of <persName key="TOO01">Tooke</persName> and member of
                 the SCI, who chaired the fourteenth anniversary meeting of the SCI at the Crown and
                 Anchor on 2 May 1794 - and was afterwards questioned about it by the Privy Council.
                 Wharton may then have given evidence against Tooke - according to one account,
@@ -20,14 +42,13 @@
                 witness or allow Tooke to call him for the defence, when the damnng evidence would
                 be produced under cross-examination. They decided on the latter course when Tooke
                 subpoenaed Wharton, but Tooke stymied the prosecution by not calling Wharton who was
-                then unable to give evidence against him' (<title
-                    xmlns="http://www.tei-c.org/ns/1.0">Gentleman Radical</title>, p. 155).</p><p
-                xmlns="http://www.tei-c.org/ns/1.0"> He appears in the diary on 1 November 1794,
-                when Godwin records seeing him at <persName xmlns="http://www.tei-c.org/ns/1.0"
-                    key="HAR02">Hardy's</persName> trial. His name is crossed out under 1794 in the
+                then unable to give evidence against him' (<title>Gentleman Radical</title>, p. 155).</p>
+                        <p> He appears in the diary on 1 November 1794,
+                when Godwin records seeing him at <persName key="HAR02">Hardy's</persName> trial. His name is crossed out under 1794 in the
                 1796 list and mistakenly entered under 1793 - he does not appear in this year. The
                 two instances of 'Warton' in 1789 have been taken as unrelated - different spelling,
-                context unconvincing, pre-date first appearance recorded in 1796 lists.</p><p> re
+                context unconvincing, pre-date first appearance recorded in 1796 lists.</p>
+                        <p> re
                 19.5.1793 Seward, Goring, Wathen at Tooke's: Although Wathen could have been
                 Jonathan Wathen, noncomformist surgeon of Walbrook, or Josiah Iles Wathen, special
                 pleader Middle Temple, Wharton came (inserted above the line) directly after Seward
@@ -36,63 +57,16 @@
                 1794, both times crossed out, and neither time coded to John Wharton's person record
                 in GD website. In the 1794 version of the 1796 list he appeared at the end of 1794.
                 My suggestion is that Godwin compiled his lists by looking back through his diary,
-                and his mis-spelling of the name first time confused him.</p></note>
-        <bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">David and Christina Bewley,
-                <title xmlns="http://www.tei-c.org/ns/1.0">Gentleman radical: a life of John Horne
+                and his mis-spelling of the name first time confused him.</p>
+                    </note>
+                    <bibl type="printedbook">David and Christina Bewley,
+                <title>Gentleman radical: a life of John Horne
                 Tooke, 1736–1812</title> (London: Tauris Academic Studies, 1998).</bibl>
-        <bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Albert Goodwin, <title
-                xmlns="http://www.tei-c.org/ns/1.0">The friends of liberty: the English democratic
+                    <bibl type="printedbook">Albert Goodwin, <title>The friends of liberty: the English democratic
                 movement in the age of the French Revolution</title> (London: Hutchinson,
             1979).</bibl>
-        <ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab
-                xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab>
-    </person>
-</listPerson>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

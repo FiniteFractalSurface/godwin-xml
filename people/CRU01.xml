@@ -1,10 +1,60 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="CRU01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Isaac</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Cruikshank</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1764-10-05"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1811-04"/><occupation xmlns="http://www.tei-c.org/ns/1.0">caricaturist</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">painter</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">All the Cruikshanks mentioned in Godwin's diary have been coded, and the two generations have
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="CRU01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Isaac</forename>
+                        <surname>Cruikshank</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1764-10-05">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1811-04"/>
+                    <occupation>caricaturist</occupation>
+                    <occupation>painter</occupation>
+                    <note type="editorial">
+                        <p>All the Cruikshanks mentioned in Godwin's diary have been coded, and the two generations have
     been convincingly divided.  However, we were unable to identify with complete confidence the mentions of Cruikshank which could either be
-    <persName xmlns="http://www.tei-c.org/ns/1.0" key="CRU02">George</persName> or (Isaac) Robert, who are the two sons of Isaac sr. </p><p xmlns="http://www.tei-c.org/ns/1.0">The majority of the entries are more likely to be George: both 
-    appearances are at the soriees hosted by the painter <persName xmlns="http://www.tei-c.org/ns/1.0" key="MAR03">John Martin</persName>, a friend of Godwin's, and furthermore George is more 
-    prominent than his brother in the metropolitan art world around this date (for example, the <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> shows that Robert's achievments are 'scanty' after 1830, and the 
-    two appearances are in 1834 and 1835.</p><p xmlns="http://www.tei-c.org/ns/1.0">There is also evidence indicating John Martin's friendship with George Cruikshank , for example the 1836 dinner mentioned in <title xmlns="http://www.tei-c.org/ns/1.0">John Martin</title>. 
+    <persName key="CRU02">George</persName> or (Isaac) Robert, who are the two sons of Isaac sr. </p>
+                        <p>The majority of the entries are more likely to be George: both 
+    appearances are at the soriees hosted by the painter <persName key="MAR03">John Martin</persName>, a friend of Godwin's, and furthermore George is more 
+    prominent than his brother in the metropolitan art world around this date (for example, the <title>DNB</title> shows that Robert's achievments are 'scanty' after 1830, and the 
+    two appearances are in 1834 and 1835.</p>
+                        <p>There is also evidence indicating John Martin's friendship with George Cruikshank , for example the 1836 dinner mentioned in <title>John Martin</title>. 
     In 1838 Martin, as Secretary of the Artists Benevolence Fund, invited George Cruickshank to serve as a 
     steward at a Fund dinner (which he did, alongside Dickens).  This evidence of Martin's relationship 
-    with George Cruikshank give us further grounds for identifying him in the diary.</p><p xmlns="http://www.tei-c.org/ns/1.0">Finally, in the <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> entry for the artist <persName xmlns="http://www.tei-c.org/ns/1.0" key="MUL01">William Mulready</persName>, George Cruikshank is also mentioned in conjunction with 
-    Godwin's Juvenile Library and children's bookshop.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other">Thomas Balston, <title xmlns="http://www.tei-c.org/ns/1.0">John Martin, 1789-1854: His Life and Works</title> (London: Gerald Duckworth, 1947), p. 170 -1.</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other">Robert L. Patten, <title xmlns="http://www.tei-c.org/ns/1.0">George Cruikshank’s Life, Times, and Art</title>, 2 vols (London: Lutterworth, 1992-96), p. 75.</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-08-11" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-05-10" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    with George Cruikshank give us further grounds for identifying him in the diary.</p>
+                        <p>Finally, in the <title>DNB</title> entry for the artist <persName key="MUL01">William Mulready</persName>, George Cruikshank is also mentioned in conjunction with 
+    Godwin's Juvenile Library and children's bookshop.</p>
+                    </note>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                    <bibl type="other">Thomas Balston, <title>John Martin, 1789-1854: His Life and Works</title> (London: Gerald Duckworth, 1947), p. 170 -1.</bibl>
+                    <bibl type="other">Robert L. Patten, <title>George Cruikshank’s Life, Times, and Art</title>, 2 vols (London: Lutterworth, 1992-96), p. 75.</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

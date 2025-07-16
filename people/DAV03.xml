@@ -1,14 +1,65 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="DAV03" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0">Sir</roleName><forename xmlns="http://www.tei-c.org/ns/1.0">Humphry</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Davy</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1778-12-17"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1829-05-29"/><occupation xmlns="http://www.tei-c.org/ns/1.0">chemist</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">inventor</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">baronet</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Davy was a self-educated chemist whose first significant essay was published in 1799 by <persName xmlns="http://www.tei-c.org/ns/1.0" key="BED01">Thomas Beddoes</persName> who 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="DAV03" sex="1">
+                    <persName>
+                        <roleName>Sir</roleName>
+                        <forename>Humphry</forename>
+                        <surname>Davy</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1778-12-17">
+                        <placeName/>
+                    </birth>
+                    <death when="1829-05-29"/>
+                    <occupation>chemist</occupation>
+                    <occupation>inventor</occupation>
+                    <occupation>baronet</occupation>
+                    <note type="editorial">
+                        <p>Davy was a self-educated chemist whose first significant essay was published in 1799 by <persName key="BED01">Thomas Beddoes</persName> who 
       then took Davy on as an assistant. Davy moved to Bristol with Beddoes where he became great friends with 
-      <persName xmlns="http://www.tei-c.org/ns/1.0" key="COL01">Samuel Taylor Coleridge</persName>. He moved to London in 1801 to take up a post at the Royal Institution.  He became president of the Royal Society in 1820.
-    </p><p xmlns="http://www.tei-c.org/ns/1.0">It is certain that Godwin knew Davy, but it is not clear when they first met and it seems likely that there is another Davy in the diary whom we have not successfully distinguished. 
+      <persName key="COL01">Samuel Taylor Coleridge</persName>. He moved to London in 1801 to take up a post at the Royal Institution.  He became president of the Royal Society in 1820.
+    </p>
+                        <p>It is certain that Godwin knew Davy, but it is not clear when they first met and it seems likely that there is another Davy in the diary whom we have not successfully distinguished. 
      Godwin's 1796 list suggests he first met Humphry Davy in 1799.  This does not seem to be the 17 June meeting with 'Dr Davy' ,
      since Davy's first visit to London was in later November, 1799.  So it must be the occasion when Coleridge and Davy call (probably together) on 4 December 1799. 
       
       This discounts the prior entries (two for 1796, one for 1798 and one for June 1799).  It also means that it is possible that this other Davy may
     account for some of the later entries in the diary.    However, at least one of these entries to  'Davy' (on 9 July 1796) is most likely to  Jonathan Davey, 
-brother-in-law and business partner of <persName xmlns="http://www.tei-c.org/ns/1.0" key="COZ01">John Cozens</persName>, Norwich chemist and druggist (Jewson, <title xmlns="http://www.tei-c.org/ns/1.0">Jacobin City</title>,
+brother-in-law and business partner of <persName key="COZ01">John Cozens</persName>, Norwich chemist and druggist (Jewson, <title>Jacobin City</title>,
 p. 120). This attribution has been made because the meeting on this date takes place in Norwich and Cozens is also present.  It is also possible that other earlier entries, and 
 some later ones, may also be to this Davy (who is likely occasionally to visit London), but Godwin does nothing to distinguish them.  Because of these uncertainties we have not 
-sought to impose distinction where Godwin makes none.</p><p xmlns="http://www.tei-c.org/ns/1.0"> The most frequent period of contact with Humphrey Davy is around 1801.  Godwin also attended Davy’s Royal Institution lectures in 1802 - see also the annotated entries under the heading 'Lectures'. </p><p xmlns="http://www.tei-c.org/ns/1.0"/></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 8, fol. 3: 26 September 1802 </bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">C.B. Jewson, <title xmlns="http://www.tei-c.org/ns/1.0">The Jacobin City: A Portrait of Norwich in its Reaction to the French 
-    Revolution</title>1788-1802 (Glasgow: Blackie, 1975).</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-03-29" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-04-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-06-25" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-12-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-12-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-12-09" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-06-18" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-02-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-02-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-02-17" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-02-18" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-03-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-03-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-04-05" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-04-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-04-30" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-06-13" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-06-23" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-06-24" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-06-25" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-01-24" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-01-30" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-02-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-03-14" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-03-23" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-03-23" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-04-30" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-09-28" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-10-08" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-10-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-10-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-12-29" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-03-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-11-02" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-01-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-12-12" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-03-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-10-06" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-08-25" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-03-23" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-12-14" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-12-31" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-07-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-08-03" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-10-05" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"><date xmlns="http://www.tei-c.org/ns/1.0" when="1829-05-29" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+sought to impose distinction where Godwin makes none.</p>
+                        <p> The most frequent period of contact with Humphrey Davy is around 1801.  Godwin also attended Davy’s Royal Institution lectures in 1802 - see also the annotated entries under the heading 'Lectures'. </p>
+                        <p/>
+                    </note>
+                    <bibl type="MS"> MS. Abinger c. 8, fol. 3: 26 September 1802 </bibl>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                    <bibl type="printedbook">C.B. Jewson, <title>The Jacobin City: A Portrait of Norwich in its Reaction to the French 
+    Revolution</title>1788-1802 (Glasgow: Blackie, 1975).</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

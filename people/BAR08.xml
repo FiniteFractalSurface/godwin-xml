@@ -1,13 +1,63 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="BAR08" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">John</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Barnard</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1000"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">There are a number of Barnards in the diary. </p><p xmlns="http://www.tei-c.org/ns/1.0">Most of the Barnard references appear to be to a Norwich dissenting family. 
-      <persName xmlns="http://www.tei-c.org/ns/1.0" key="BAR08">John Barnard</persName> was a dissenter and leader of the reforming party who chaired a dinner at the Maid's Head Inn to celebrate
-      the centenary of the Glorious Revolution. <persName xmlns="http://www.tei-c.org/ns/1.0" key="BAR10">Thomas Barnard</persName> was a manufacturer who was nominated by the Norwich 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="BAR08" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>John</forename>
+                        <surname>Barnard</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1000"/>
+                    <note type="editorial">
+                        <p>There are a number of Barnards in the diary. </p>
+                        <p>Most of the Barnard references appear to be to a Norwich dissenting family. 
+      <persName key="BAR08">John Barnard</persName> was a dissenter and leader of the reforming party who chaired a dinner at the Maid's Head Inn to celebrate
+      the centenary of the Glorious Revolution. <persName key="BAR10">Thomas Barnard</persName> was a manufacturer who was nominated by the Norwich 
       Revolution Society to join the London Society for Constitutional Information and is associated with John Horne Tooke.
-      <persName xmlns="http://www.tei-c.org/ns/1.0" key="BAR09">William Barnard</persName> was a merchant of St George's Colegate, a whig and reformer, accused of corresponding with the 
+      <persName key="BAR09">William Barnard</persName> was a merchant of St George's Colegate, a whig and reformer, accused of corresponding with the 
       French National Convention He was also a dissenting councillor and attended vestry meetings at St George's Colegate Church
-      The <persName xmlns="http://www.tei-c.org/ns/1.0" key="BAR11">Barnards</persName> who do not always have an initial, belonged to the congregation of the Octagon (which also includedWilliam and John 
-      Taylors, the Aldersons and Martineaus). </p><p xmlns="http://www.tei-c.org/ns/1.0">There are a series of Barnards' in 1805 and it is likely that the majority of these are in fact another <persName xmlns="http://www.tei-c.org/ns/1.0" key="BAR04">Barnard</persName> entirely, possibly to do with the shop. There seems to be no 
+      The <persName key="BAR11">Barnards</persName> who do not always have an initial, belonged to the congregation of the Octagon (which also includedWilliam and John 
+      Taylors, the Aldersons and Martineaus). </p>
+                        <p>There are a series of Barnards' in 1805 and it is likely that the majority of these are in fact another <persName key="BAR04">Barnard</persName> entirely, possibly to do with the shop. There seems to be no 
       Norwich connection in these contacts and the concentrated frequency of calls suggests some urgency, perhaps a commerical relationship. The first contact is a call on
-      when he is accompanied by Mary Jane.</p><p xmlns="http://www.tei-c.org/ns/1.0">The <title xmlns="http://www.tei-c.org/ns/1.0">BBTI</title> suggests the following names: William Barnard (1774-1849) of 1 Lower Fitzroy St, Fitzroy Sq (1802). 18 London St, Fitzroy Sq. He was an engraver/etcher, 
+      when he is accompanied by Mary Jane.</p>
+                        <p>The <title>BBTI</title> suggests the following names: William Barnard (1774-1849) of 1 Lower Fitzroy St, Fitzroy Sq (1802). 18 London St, Fitzroy Sq. He was an engraver/etcher, 
       print seller trading 1798-1819; John George Barnard of 14 George's Ct, Clerkenwell. Water La, Fleet St. 57 Skinner St, Snow Hill. He was a printer rading 1800-1825; 
-      and, Barnard of Barnard and Stevenson, 4 Mitre Court, Fleet St. He was a stationer trading 1802-5.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook"><title xmlns="http://www.tei-c.org/ns/1.0">Memorials of the life of Amelia Opie</title>, ed. by Cecilia Lucy Brightwell (Norwich: Fletcher and Alexander, 1854)</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><ref xmlns="http://www.tei-c.org/ns/1.0" target="www.bbti.bham.ac.uk"><title xmlns="http://www.tei-c.org/ns/1.0">The British Book Trade Index</title></ref></bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">C.B. Jewson, <title xmlns="http://www.tei-c.org/ns/1.0">The Jacobin City: A Portrait of Norwich 
-    in its Reaction to the French Revolution 1788-1802</title> (Glasgow: Blackie, 1975)</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"><date xmlns="http://www.tei-c.org/ns/1.0" when="1792-08-14" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-07-09" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-09-29" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+      and, Barnard of Barnard and Stevenson, 4 Mitre Court, Fleet St. He was a stationer trading 1802-5.</p>
+                    </note>
+                    <bibl type="printedbook"><title>Memorials of the life of Amelia Opie</title>, ed. by Cecilia Lucy Brightwell (Norwich: Fletcher and Alexander, 1854)</bibl>
+                    <bibl type="other">
+                        <ref target="www.bbti.bham.ac.uk">
+                            <title>The British Book Trade Index</title>
+                        </ref>
+                    </bibl>
+                    <bibl type="printedbook">C.B. Jewson, <title>The Jacobin City: A Portrait of Norwich 
+    in its Reaction to the French Revolution 1788-1802</title> (Glasgow: Blackie, 1975)</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

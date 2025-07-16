@@ -1,8 +1,57 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="TWI02" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Richard</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Twiss</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1747-04-26"><placeName xmlns="http://www.tei-c.org/ns/1.0">Holland</placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1821-03-05"/><occupation xmlns="http://www.tei-c.org/ns/1.0">travel writer</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Richard Twiss (1747–1821), spent much time abroad and produced travel literature on Spain, Portugal and Ireland as well as an account of 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="TWI02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Richard</forename>
+                        <surname>Twiss</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1747-04-26">
+                        <placeName>Holland</placeName>
+                    </birth>
+                    <death when="1821-03-05"/>
+                    <occupation>travel writer</occupation>
+                    <note type="editorial">
+                        <p>Richard Twiss (1747–1821), spent much time abroad and produced travel literature on Spain, Portugal and Ireland as well as an account of 
       his stay in Paris in August 1792 as a spectator to the tumultuous political events. He also wrote on chess. In his later years, he embarked  
       enthusiastically on a project to produce paper from recycling old books, manuscripts and straw. The venture was unsuccessful and left 
-      him in severe financial difficulty.</p><p xmlns="http://www.tei-c.org/ns/1.0">Richard was the elder brother       of <persName xmlns="http://www.tei-c.org/ns/1.0" key="TWI01">Francis Twiss</persName> and friend 
-      and correspondent to <persName xmlns="http://www.tei-c.org/ns/1.0" key="DOU01">Francis Douce</persName>. </p><p xmlns="http://www.tei-c.org/ns/1.0">Those entries specifically identified as R Twiss have been coded for Richard. A separate entry is coded for Francis Twiss.
-    There are many other Twiss entries, but these seem to be contacts with F Twiss.  </p><p xmlns="http://www.tei-c.org/ns/1.0"> Godwin records R Twiss's  death. </p><p xmlns="http://www.tei-c.org/ns/1.0"> It is possible that some Twiss entries are for R Twiss rather than F Twiss.  Godwin enters 'R Twiss' under 1796 in the 1796 lists, which seems to make sense as 'R Twiss' enters the
+      him in severe financial difficulty.</p>
+                        <p>Richard was the elder brother       of <persName key="TWI01">Francis Twiss</persName> and friend 
+      and correspondent to <persName key="DOU01">Francis Douce</persName>. </p>
+                        <p>Those entries specifically identified as R Twiss have been coded for Richard. A separate entry is coded for Francis Twiss.
+    There are many other Twiss entries, but these seem to be contacts with F Twiss.  </p>
+                        <p> Godwin records R Twiss's  death. </p>
+                        <p> It is possible that some Twiss entries are for R Twiss rather than F Twiss.  Godwin enters 'R Twiss' under 1796 in the 1796 lists, which seems to make sense as 'R Twiss' enters the
     diary in 1796, plain 'Twiss', who we are taking to be Francis Twiss, having appeared from 1794. However, he 
-    then crosses out the 'R'!  It is unclear why he does this and we have retained the coding identified above.  It does, however, make differentiation between the brothers more tentative.</p><p xmlns="http://www.tei-c.org/ns/1.0">There is one entry to W Twiss, which is uncoded.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-30" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-03-18" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-01-03" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-06-13" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-06-30" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-03-05" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    then crosses out the 'R'!  It is unclear why he does this and we have retained the coding identified above.  It does, however, make differentiation between the brothers more tentative.</p>
+                        <p>There is one entry to W Twiss, which is uncoded.</p>
+                    </note>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

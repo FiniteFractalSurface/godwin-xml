@@ -1,24 +1,74 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="WHI01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">James</forename><surname xmlns="http://www.tei-c.org/ns/1.0">White</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1775-04-17"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1820-03-13"/><occupation xmlns="http://www.tei-c.org/ns/1.0">author</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">advertising agent</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0"> Godwin enters the death of James White on 12 March 1830.
-      This is James White, (bap. 1775, d. 1820) see <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>. White was a close associate of <persName xmlns="http://www.tei-c.org/ns/1.0" key="LAM01">Lamb</persName>, having been
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WHI01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>James</forename>
+                        <surname>White</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1775-04-17">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1820-03-13"/>
+                    <occupation>author</occupation>
+                    <occupation>advertising agent</occupation>
+                    <note type="editorial">
+                        <p> Godwin enters the death of James White on 12 March 1830.
+      This is James White, (bap. 1775, d. 1820) see <title>DNB</title>. White was a close associate of <persName key="LAM01">Lamb</persName>, having been
       at school with him, and standing as one of Lamb's Bondsmen. 
       J/Jas White first appears in 1799, there are a few entries between 1799-1803 and
       then many between 1808 and 1816. Most are calls/meets - the only one
-      connected to Lamb is:<lb xmlns="http://www.tei-c.org/ns/1.0"/>
-      29 May 1800: 'tea J White's , w. Lamb and Gutch:'<lb xmlns="http://www.tei-c.org/ns/1.0"/>
-      Gutch is likely to be <persName xmlns="http://www.tei-c.org/ns/1.0" key="GUT01">John Mathew Gutch</persName> (1776-1861), who went to school
+      connected to Lamb is:<lb/>
+      29 May 1800: 'tea J White's , w. Lamb and Gutch:'<lb/>
+      Gutch is likely to be <persName key="GUT01">John Mathew Gutch</persName> (1776-1861), who went to school
       with Lamb and White and Lamb was lodging with Gutch during this year.
       It seems as if we have enough to identify the early J/Jas Whites as Lamb's
       friend. However, it is strange that most of the entries are meets/calls, which
       suggests a business relationship. As the entries only take off from 1808,
       perhap Godwin is dealing with White in his professional capacity as an advertising
       agent, getting his help for advertising Juvenile Library books. There are 
-      a few letters sent and received but these have not been located.</p><p xmlns="http://www.tei-c.org/ns/1.0">The difficulty is to disentangle
+      a few letters sent and received but these have not been located.</p>
+                        <p>The difficulty is to disentangle
       these White's from those who continue in the diary after his death. What is most striking about
       those that follow is that there is effectively an 8-year gap between frequent contact in 1816
       and then again in 1824. However, the pattern of contacts is similar - call on or is called on by.
       There is not much evidence of a connection with Lamb, indeed, although there are White entries connected with Lamb they are not Jas White. 
-      Which suggests that Jas White might be someone distinct from James White (this entry, Lamb's friend and <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> entry) and that
-      Godwin may be entering instances of this White in a different way.</p><p xmlns="http://www.tei-c.org/ns/1.0"> In a letter to <persName xmlns="http://www.tei-c.org/ns/1.0" key="PAT01">Patrickson</persName> on 4 February 1812 Godwin refers to talking to James White, who is married to Mr Faulder's daughter 
-      (and the <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> recognises this in its entry on this James White: White married Margaret Faulder (1792–1864), daughter of Robert Faulder, 
-      a bookseller, in 1811, and they had six children.') Faulder helped to support Patrickson at Cambridge. </p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">William Carew Hazlitt, <title xmlns="http://www.tei-c.org/ns/1.0">The Lambs; 
-    their lives, their friends and their correspondence; new particulars and new material</title> (London, 1897)</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="journalism"><title xmlns="http://www.tei-c.org/ns/1.0">The Times</title>, 30 November 1835</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">MS. Abinger c. 11, fols. 79-80: 4 Feb. 1812</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-05-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-05-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-05-22" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-05-29" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-02-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-03-03" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-03-16" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-09-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-10-10" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-11-14" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-12-13" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-01-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-01-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-03-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-03-12" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-04-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-04-18" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-07-11" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-01-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-02-06" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-02-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-04-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-04-22" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-06-19" n="notVenue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-06-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-06-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-11-16" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-11-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-12-30" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-01-23" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-03-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-03-12" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-05-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-05-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-12-04" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-01-22" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-02-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-02-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-03-15" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-06-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-12-03" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-12-24" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"><date xmlns="http://www.tei-c.org/ns/1.0" when="1814-01-19" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1814-02-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1814-03-26" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1814-06-02" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1814-09-30" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1814-10-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1814-10-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1814-11-30" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1814-12-01" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"><date xmlns="http://www.tei-c.org/ns/1.0" when="1815-04-01" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1815-07-21" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-01-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-01-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-07-04" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-08-22" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-11-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-11-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-11-05" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"><date xmlns="http://www.tei-c.org/ns/1.0" when="1820-03-12" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+      Which suggests that Jas White might be someone distinct from James White (this entry, Lamb's friend and <title>DNB</title> entry) and that
+      Godwin may be entering instances of this White in a different way.</p>
+                        <p> In a letter to <persName key="PAT01">Patrickson</persName> on 4 February 1812 Godwin refers to talking to James White, who is married to Mr Faulder's daughter 
+      (and the <title>DNB</title> recognises this in its entry on this James White: White married Margaret Faulder (1792–1864), daughter of Robert Faulder, 
+      a bookseller, in 1811, and they had six children.') Faulder helped to support Patrickson at Cambridge. </p>
+                    </note>
+                    <bibl type="printedbook">William Carew Hazlitt, <title>The Lambs; 
+    their lives, their friends and their correspondence; new particulars and new material</title> (London, 1897)</bibl>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                    <bibl type="journalism"><title>The Times</title>, 30 November 1835</bibl>
+                    <bibl type="MS">MS. Abinger c. 11, fols. 79-80: 4 Feb. 1812</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

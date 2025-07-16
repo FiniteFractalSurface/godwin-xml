@@ -1,9 +1,61 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="BEN02" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Jeremy</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Bentham</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1748-02-04"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1832-06-06"/><occupation xmlns="http://www.tei-c.org/ns/1.0">philosopher</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">jurist</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">reformer</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Jeremy Bentham developed principles of Utilitarianism that were based on 
-David Hume’s foundations of morals.  His theories influenced Godwin.</p><p xmlns="http://www.tei-c.org/ns/1.0">The first mention of the name Bentham appears in 1814 as a call (excepting a mention in the 1796 lists), and although there is no 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="BEN02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Jeremy</forename>
+                        <surname>Bentham</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1748-02-04">
+                        <placeName/>
+                    </birth>
+                    <death when="1832-06-06"/>
+                    <occupation>philosopher</occupation>
+                    <occupation>jurist</occupation>
+                    <occupation>reformer</occupation>
+                    <note type="editorial">
+                        <p>Jeremy Bentham developed principles of Utilitarianism that were based on 
+David Hume’s foundations of morals.  His theories influenced Godwin.</p>
+                        <p>The first mention of the name Bentham appears in 1814 as a call (excepting a mention in the 1796 lists), and although there is no 
 ‘nah’ indicated, it could have been an unsuccessful attempt to see Jeremy Bentham. According to an excerpt from an August 1817 
-letter written by Godwin to <persName xmlns="http://www.tei-c.org/ns/1.0" key="PLA02">Place</persName>, upon his discovery that Place was out of town and staying with Bentham, 
+letter written by Godwin to <persName key="PLA02">Place</persName>, upon his discovery that Place was out of town and staying with Bentham, 
     'I hope that the pleasures of the country, and the delight of Mr Bentham's conversation (which, I assure you, I envy you, and have been twenty years trying to obtain) 
-    will not make you forget the good inclination I have often seen in you, to render yourself useful to another.' (f. 61, Godwin-Place Correspondence, British Library).</p><p xmlns="http://www.tei-c.org/ns/1.0">The subsequent two references to Bentham in 1820 include the somewhat vague ‘Booth dines (and w. Bentham)’ and a ‘send to’ which is probably referring 
-to a copy of Godwin’s attack on <persName xmlns="http://www.tei-c.org/ns/1.0" key="MAL01">Malthus</persName>.  The 1824 entry, however, is an adv. meeting post-theatre with a Bentham, 
+    will not make you forget the good inclination I have often seen in you, to render yourself useful to another.' (f. 61, Godwin-Place Correspondence, British Library).</p>
+                        <p>The subsequent two references to Bentham in 1820 include the somewhat vague ‘Booth dines (and w. Bentham)’ and a ‘send to’ which is probably referring 
+to a copy of Godwin’s attack on <persName key="MAL01">Malthus</persName>.  The 1824 entry, however, is an adv. meeting post-theatre with a Bentham, 
  and a similar entry appears in 1825 when Godwin notes ‘Belzoni’s Tomb (adv. Bentham ), and Martin’s Creation’.  Marshall claims that their first meeting actually didn’t take place until June of 1831, at 
-James Northcote’s but Godwin’s indication of ‘meet Bentham’ (in brackets) does not necessarily mean that this was the first time.</p><p xmlns="http://www.tei-c.org/ns/1.0">Godwin records his death.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">Godwin-Place Correspondence, British Library Place Papers, Add. 35145</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">St Clair</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Marshall, p. 374</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"><date xmlns="http://www.tei-c.org/ns/1.0" when="1814-01-05" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"><date xmlns="http://www.tei-c.org/ns/1.0" when="1820-02-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1820-11-01" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-10-25" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"><date xmlns="http://www.tei-c.org/ns/1.0" when="1825-03-31" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-07-06" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-06-06" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+James Northcote’s but Godwin’s indication of ‘meet Bentham’ (in brackets) does not necessarily mean that this was the first time.</p>
+                        <p>Godwin records his death.</p>
+                    </note>
+                    <bibl type="MS">Godwin-Place Correspondence, British Library Place Papers, Add. 35145</bibl>
+                    <bibl type="printedbook">St Clair</bibl>
+                    <bibl type="printedbook">Marshall, p. 374</bibl>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

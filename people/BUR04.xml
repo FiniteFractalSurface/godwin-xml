@@ -1,5 +1,51 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="BUR04" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0">Captain</roleName><forename xmlns="http://www.tei-c.org/ns/1.0">James</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Burney</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1750-06-13"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1821-11-17"/><occupation xmlns="http://www.tei-c.org/ns/1.0">naval officer</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">writer</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Burney was a sailor and he travelled with Captain James Cook on his second voyage of discovery in 1772. He later published 
-      <title xmlns="http://www.tei-c.org/ns/1.0">A Chronological History of the Discoveries in the South Sea or Pacific Ocean</title> , 5 vols. (1803–17) and was 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="BUR04" sex="1">
+                    <persName>
+                        <roleName>Captain</roleName>
+                        <forename>James</forename>
+                        <surname>Burney</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1750-06-13">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1821-11-17"/>
+                    <occupation>naval officer</occupation>
+                    <occupation>writer</occupation>
+                    <note type="editorial">
+                        <p>Burney was a sailor and he travelled with Captain James Cook on his second voyage of discovery in 1772. He later published 
+      <title>A Chronological History of the Discoveries in the South Sea or Pacific Ocean</title> , 5 vols. (1803–17) and was 
       elected a fellow of the Royal Society in 1810.  He was 
-    a friend of <persName xmlns="http://www.tei-c.org/ns/1.0" key="LAM01">Charles Lamb</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0" key="HAZ01">William Hazlitt</persName> 
-      and <persName xmlns="http://www.tei-c.org/ns/1.0" key="ROB03">Henry Crabb Robinson</persName>. </p><p xmlns="http://www.tei-c.org/ns/1.0">Godwin recorded his death.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-12-17" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-01-30" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-08-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-09-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-11-10" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-07-26" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-10-10" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-06-24" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-09-01" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-11-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-11-21" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-05-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-06-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-09-02" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"><date xmlns="http://www.tei-c.org/ns/1.0" when="1815-10-21" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-01-13" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"><date xmlns="http://www.tei-c.org/ns/1.0" when="1818-03-19" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"><date xmlns="http://www.tei-c.org/ns/1.0" when="1819-04-08" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-11-17" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    a friend of <persName key="LAM01">Charles Lamb</persName>, <persName key="HAZ01">William Hazlitt</persName> 
+      and <persName key="ROB03">Henry Crabb Robinson</persName>. </p>
+                        <p>Godwin recorded his death.</p>
+                    </note>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

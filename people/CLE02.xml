@@ -1,14 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="CLE02" sex="0"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0"/><surname xmlns="http://www.tei-c.org/ns/1.0">Clennel</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1000"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">   Godwin's use of  the plural indicates a couple or family.</p><p xmlns="http://www.tei-c.org/ns/1.0">First contact recorded in the diary is Godwin writing to him in 1799, and then no further contact until
-  1806 when Godwin meets him dining at <persName xmlns="http://www.tei-c.org/ns/1.0" key="NIC01">Nicholson's</persName>.
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="CLE02" sex="0">
+                    <persName>
+                        <roleName/>
+                        <forename/>
+                        <surname>Clennel</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation/>
+                    <note type="editorial">
+                        <p>   Godwin's use of  the plural indicates a couple or family.</p>
+                        <p>First contact recorded in the diary is Godwin writing to him in 1799, and then no further contact until
+  1806 when Godwin meets him dining at <persName key="NIC01">Nicholson's</persName>.
   
-  He often appears in conjunction with <persName xmlns="http://www.tei-c.org/ns/1.0" key="BOO01">Booth</persName>, Nicholson or <persName xmlns="http://www.tei-c.org/ns/1.0" key="TUR01">Thomas Turner</persName>, and
-  often dines/sups at Godwin's. Clennels (plural) is used four times, 'Clennel engraver' is specified once in 1811.</p><p xmlns="http://www.tei-c.org/ns/1.0"> Although this is only specified once, it is possible that all the references are to Luke Clennell (note 
+  He often appears in conjunction with <persName key="BOO01">Booth</persName>, Nicholson or <persName key="TUR01">Thomas Turner</persName>, and
+  often dines/sups at Godwin's. Clennels (plural) is used four times, 'Clennel engraver' is specified once in 1811.</p>
+                        <p> Although this is only specified once, it is possible that all the references are to Luke Clennell (note 
   different spelling), 1781-1840, artist and wood-engraver. The name is fairly rare and the dates fit: when Godwin
-  writes to him in 1799 he would still have been in Newcastle, hence the lack of direct contact, but the <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>
+  writes to him in 1799 he would still have been in Newcastle, hence the lack of direct contact, but the <title>DNB</title>
   implies he moved to London soon after 1804, and Godwin sees him from 1806. Two problems with the identification are: that the 
   entry to 'Clennel, engraver', in 1811 may be dijuntive, meaning that the rest are another Clennel; 
-  that all the plural references to Clennels are 1807-8 and the <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> gives the date of his marriage as August
+  that all the plural references to Clennels are 1807-8 and the <title>DNB</title> gives the date of his marriage as August
   1809. Godwin doesn't see him after 1811 and in 1817 Clennell was committed to a lunatic asylum.  However, 
-  the date of marriage in <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> is very specific which casts doubt over this identification.
-  'Clennells' could refer to him and a brother although the <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> makes no reference to there being one who lived in London
-  with him.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Austin Dobson,   <title xmlns="http://www.tei-c.org/ns/1.0">Thomas Bewick and his Pupils</title> (1899)</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>, 'Thomas Bewick'.</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-09-14" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-07-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-07-15" n="notVenue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-07-17" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-10-30" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-12-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-12-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-12-06" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-12-07" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-12-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-12-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-12-14" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-12-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-12-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-12-29" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-01-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-01-05" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-01-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-01-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-01-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-02-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-06-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-07-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-07-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-07-05" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-07-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-07-30" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-08-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-11-28" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-04-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-05-08" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-01-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-05-02" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-01-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-03-27" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-04-02" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+  the date of marriage in <title>DNB</title> is very specific which casts doubt over this identification.
+  'Clennells' could refer to him and a brother although the <title>DNB</title> makes no reference to there being one who lived in London
+  with him.</p>
+                    </note>
+                    <bibl type="printedbook">Austin Dobson,   <title>Thomas Bewick and his Pupils</title> (1899)</bibl>
+                    <bibl type="other"><title>DNB</title>, 'Thomas Bewick'.</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

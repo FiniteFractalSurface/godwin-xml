@@ -1,13 +1,62 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="EGE02" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Jasper</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Egerton</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1000"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">There is a consistent individual known as Egerton who 
-    appears in Godwin's diary from 1799, and who introduces Godwin to <persName xmlns="http://www.tei-c.org/ns/1.0" key="ELW01">Sarah Elwes</persName> shortly
-    after their first meeting (for more detail see <persName xmlns="http://www.tei-c.org/ns/1.0" key="ELW01">Sarah Elwes</persName>.  </p><p xmlns="http://www.tei-c.org/ns/1.0"> J Egerton is named in the divorce procedings of John Elwes and Mrs Sarah Elwes, who were married in 1789, 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="EGE02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Jasper</forename>
+                        <surname>Egerton</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName/>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation/>
+                    <note type="editorial">
+                        <p>There is a consistent individual known as Egerton who 
+    appears in Godwin's diary from 1799, and who introduces Godwin to <persName key="ELW01">Sarah Elwes</persName> shortly
+    after their first meeting (for more detail see <persName key="ELW01">Sarah Elwes</persName>.  </p>
+                        <p> J Egerton is named in the divorce procedings of John Elwes and Mrs Sarah Elwes, who were married in 1789, 
     and he was implicated in the case against Mr G Harvey for criminal 
     conversation (c. 1793) that resulted in a divorce case in 1796 (July 11). Although
     Egerton was named in the case, the principal accused was Harvey, whom 
-    Mrs Elwes's lawyer alleged was in a conspiracy with her husband to be rid of her. </p><p xmlns="http://www.tei-c.org/ns/1.0">Given that Egerton is the source of Godwin's contact with Mrs Elwes, in 1799, and 
+    Mrs Elwes's lawyer alleged was in a conspiracy with her husband to be rid of her. </p>
+                        <p>Given that Egerton is the source of Godwin's contact with Mrs Elwes, in 1799, and 
     that they are together a considerable part of the time, it seems probable that 
-    these are the couple involved in this court case. Mrs Elwes also leave some jewelry to Jasper Egerton in her will (and Godwin and Egerton both attend her funeral).</p><p xmlns="http://www.tei-c.org/ns/1.0">The first entry is independent, 1799-03-20, but the three later 1799 entries are all linked to S Elwes , 1799-07-03; 1799-08-01; 1799-08-02; as are those in 1800 : 1800-03-31; 1800-08-29; 1800-08-30; and 3/4 in 1801 (the fourth being a dine at Egerton's) 
+    these are the couple involved in this court case. Mrs Elwes also leave some jewelry to Jasper Egerton in her will (and Godwin and Egerton both attend her funeral).</p>
+                        <p>The first entry is independent, 1799-03-20, but the three later 1799 entries are all linked to S Elwes , 1799-07-03; 1799-08-01; 1799-08-02; as are those in 1800 : 1800-03-31; 1800-08-29; 1800-08-30; and 3/4 in 1801 (the fourth being a dine at Egerton's) 
     1801-01-11,  1801-02-25, 1801-02-28, 1801-04-23;  The later entries are independent calls, with no link to S Elwes until the last which is her funeral.
-  1812-08-01,  1813-08-13, 1813-08-21, 1814-01-07, 1818-01-03 </p><p xmlns="http://www.tei-c.org/ns/1.0"> It is possible that some references are to Egerton, Daniel (1772–1835), 
-    actor and theatre manager, <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> (although he is mainly in provincial theatre 
-    companies between June 1799 and 1807), but the proximity to Elwes suggests that J Egerton is the better identification.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Mark Philp, 'Improper Levity: Sarah Elwes's Calling' <ital xmlns="http://www.tei-c.org/ns/1.0">Bodleian Library Record</ital>, April, 2011</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-03-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-07-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-08-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-08-02" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-03-31" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-08-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-08-30" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-01-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-02-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-02-28" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-04-23" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-08-01" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-08-13" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-08-21" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"><date xmlns="http://www.tei-c.org/ns/1.0" when="1814-01-07" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"><date xmlns="http://www.tei-c.org/ns/1.0" when="1818-01-03" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+  1812-08-01,  1813-08-13, 1813-08-21, 1814-01-07, 1818-01-03 </p>
+                        <p> It is possible that some references are to Egerton, Daniel (1772–1835), 
+    actor and theatre manager, <title>DNB</title> (although he is mainly in provincial theatre 
+    companies between June 1799 and 1807), but the proximity to Elwes suggests that J Egerton is the better identification.</p>
+                    </note>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                    <bibl type="printedbook">Mark Philp, 'Improper Levity: Sarah Elwes's Calling' <ital>Bodleian Library Record</ital>, April, 2011</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

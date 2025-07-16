@@ -1,10 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="QUI02" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">John</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Quick</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1748"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1831-04-04"/><occupation xmlns="http://www.tei-c.org/ns/1.0">actor</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0"> Godwin records his death. There is one other reference to a Quick, at a dinner at King's in 1795. 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="QUI02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>John</forename>
+                        <surname>Quick</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1748">
+                        <placeName/>
+                    </birth>
+                    <death when="1831-04-04"/>
+                    <occupation>actor</occupation>
+                    <note type="editorial">
+                        <p> Godwin records his death. There is one other reference to a Quick, at a dinner at King's in 1795. 
    We have coded this also as John Quick, actor,  although there is no conclusive evidence. However, 
    it is a fairly rare name and Quick appears in the 1796 lists under 1795. 
     By the 1790s John Quick was a very famous comic actor and thus certainly the kind of person whom 
     Godwin would have recorded meeting in the lists. There is also some circumstantial evidence 
-    from the context:  <lb xmlns="http://www.tei-c.org/ns/1.0"/>   
-    31 March 1795: 'dine at King’s, w. Lewis, Quick, Wolcot, Casey and Ht:' <lb xmlns="http://www.tei-c.org/ns/1.0"/><persName xmlns="http://www.tei-c.org/ns/1.0" key="HOL01"> Holcroft,</persName><persName xmlns="http://www.tei-c.org/ns/1.0" key="WOL0">Wolcot </persName>and Lewis - likely to
-      be <persName xmlns="http://www.tei-c.org/ns/1.0" key="LEW02">William Thomas Lewis</persName>, (1746-1812), actor and 
+    from the context:  <lb/>   
+    31 March 1795: 'dine at King’s, w. Lewis, Quick, Wolcot, Casey and Ht:' <lb/><persName key="HOL01"> Holcroft,</persName><persName key="WOL0">Wolcot </persName>and Lewis - likely to
+      be <persName key="LEW02">William Thomas Lewis</persName>, (1746-1812), actor and 
     theatre manager - suggest this to be a meeting of like-minded theatrical/comedic types.  The meeting
-    is shortly before the 'Benefit' performance for and by Quick at Covent Garden on 8 April 1795.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>.</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-03-31" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-04-04" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    is shortly before the 'Benefit' performance for and by Quick at Covent Garden on 8 April 1795.</p>
+                    </note>
+                    <bibl type="other"><title>DNB</title>.</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

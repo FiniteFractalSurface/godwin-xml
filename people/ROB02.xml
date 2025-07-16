@@ -1,7 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="ROB02" sex="0"><persName xmlns="http://www.tei-c.org/ns/1.0"><forename xmlns="http://www.tei-c.org/ns/1.0"/><surname xmlns="http://www.tei-c.org/ns/1.0">Robinson family</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1000"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">On the Robinsons in the Diary see <persName xmlns="http://www.tei-c.org/ns/1.0" key="ROB01">Robinson</persName>.</p><p xmlns="http://www.tei-c.org/ns/1.0">Mary Shelley became friendly with the Robinson family sometime after her return to England in 1823.  Joshua Robinson (1776-1842) was apparently
-    a widower who had at least six daughters: Isabel (who became mrs Sholto Douglas, see <persName xmlns="http://www.tei-c.org/ns/1.0" key="DOU02">Douglas</persName> entry), Rosa, Louisa, Julia, Ellen, and Elise Agnes.  He also 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="ROB02" sex="0">
+                    <persName>
+                        <forename/>
+                        <surname>Robinson family</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation/>
+                    <occupation/>
+                    <note type="editorial">
+                        <p>On the Robinsons in the Diary see <persName key="ROB01">Robinson</persName>.</p>
+                        <p>Mary Shelley became friendly with the Robinson family sometime after her return to England in 1823.  Joshua Robinson (1776-1842) was apparently
+    a widower who had at least six daughters: Isabel (who became mrs Sholto Douglas, see <persName key="DOU02">Douglas</persName> entry), Rosa, Louisa, Julia, Ellen, and Elise Agnes.  He also 
  had a number of sons and grandsons whom MWS knew less well. They included George, Julian (at Cambridge with Percy Florence), Alfred, and Charles.
- The family are associated with residence at Park Cottage, Paddington. </p><p xmlns="http://www.tei-c.org/ns/1.0">All Robinsons 1801-1824 are taken to be  
+ The family are associated with residence at Park Cottage, Paddington. </p>
+                        <p>All Robinsons 1801-1824 are taken to be  
 referring to the publishing family as this is prior to Mary Shelley's - and, it is assumed, Godwin's - acquaintance with this other Robinson family.  As the nature of the 
-calls change from the more commercial 'call on' to 'dines at' at this period, it is deemed relatively easy to distinguish between the contacts with both families. </p><p xmlns="http://www.tei-c.org/ns/1.0">On 23 February 1811 there is a reference to a 'Mrs Robinson', which may possibly be connected to this family, but this has not been coded.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>.</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook"><title xmlns="http://www.tei-c.org/ns/1.0">The journals of Mary Shelley, 1814–1844</title>, ed. by Paula R. Feldman and Diana 
-  Scott-Kilvert, 2 vols (Oxford and New York: Oxford University Press; Clarendon Press, 1987) p. 507, n. 5.</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"><date xmlns="http://www.tei-c.org/ns/1.0" when="1823-01-01" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"><date xmlns="http://www.tei-c.org/ns/1.0" when="1827-11-12" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-03-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-03-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-06-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-06-30" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-06-30" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-07-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-08-31" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-09-21" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-11-22" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-12-14" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"><date xmlns="http://www.tei-c.org/ns/1.0" when="1829-04-10" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1829-05-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1829-05-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1829-06-05" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1829-06-05" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1829-06-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1829-06-14" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1829-10-06" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1829-10-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1829-11-18" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-01-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-05-10" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-05-21" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-05-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-06-05" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-06-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-06-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-07-24" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-07-24" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-12-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-12-23" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-12-23" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-02-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-04-24" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-06-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-07-08" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-08-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-09-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-11-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-12-18" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-03-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-03-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-03-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-07-05" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-02-12" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-05-21" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-07-23" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+calls change from the more commercial 'call on' to 'dines at' at this period, it is deemed relatively easy to distinguish between the contacts with both families. </p>
+                        <p>On 23 February 1811 there is a reference to a 'Mrs Robinson', which may possibly be connected to this family, but this has not been coded.</p>
+                    </note>
+                    <bibl type="other"><title>DNB</title>.</bibl>
+                    <bibl type="printedbook"><title>The journals of Mary Shelley, 1814–1844</title>, ed. by Paula R. Feldman and Diana 
+  Scott-Kilvert, 2 vols (Oxford and New York: Oxford University Press; Clarendon Press, 1987) p. 507, n. 5.</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,14 +1,64 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="HIL02" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0"/><surname xmlns="http://www.tei-c.org/ns/1.0">Hill</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1000"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">    This is a generic code for various unidentified Hill entries.  The majority of Hill entries in the diary have been identified as <persName xmlns="http://www.tei-c.org/ns/1.0" key="HIL05">Thomas Hill</persName>
-  but have also differnetiated <persName xmlns="http://www.tei-c.org/ns/1.0" key="HIL03">Matthew Hill</persName> and <persName xmlns="http://www.tei-c.org/ns/1.0" key="HIL04">Sarah Hills</persName>.</p><p xmlns="http://www.tei-c.org/ns/1.0">There’s one mention of ‘E Hill Junr’ in 1801, and an uncoded 'Edw Hill' in 1816.  The only ‘E Hill’ with contemporary dates in the <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> is Edwin, (1793–1876), civil 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="HIL02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename/>
+                        <surname>Hill</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation/>
+                    <occupation/>
+                    <note type="editorial">
+                        <p>    This is a generic code for various unidentified Hill entries.  The majority of Hill entries in the diary have been identified as <persName key="HIL05">Thomas Hill</persName>
+  but have also differnetiated <persName key="HIL03">Matthew Hill</persName> and <persName key="HIL04">Sarah Hills</persName>.</p>
+                        <p>There’s one mention of ‘E Hill Junr’ in 1801, and an uncoded 'Edw Hill' in 1816.  The only ‘E Hill’ with contemporary dates in the <title>DNB</title> is Edwin, (1793–1876), civil 
    servant and inventor of postal machinery, but was the son of Thomas Wright Hill (not an E Hill senior).   The plural E Hills of 1803 is indicative of a family, and 
    Edwin Hill was too young at this time to fit, although the 1816 Edw Hill is a possibility.  
   For the remaining Hills, there appears to be two possibiltiies. First, that they are all - Hill,  E Hill, C Hill, H Hill - all part of one Hill family with which Godwin
-  had contact. There is some evidence to support this as they appear with <persName xmlns="http://www.tei-c.org/ns/1.0" key="MAR01">Marshall</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0" key="KNA01">Louisa Knapp</persName>, and other intimates. Certainly, C, E, and H Hill are connected. 
-  The entries to T Hill appear much later (1832) (as does Rev. Hill)  and there is no reason to suspect that they are related to the earlier initialled Hills. </p><p xmlns="http://www.tei-c.org/ns/1.0">The 1795 Hills appears with Mary Hays. This is probably Hays's sister <persName xmlns="http://www.tei-c.org/ns/1.0" key="HIL04">Sarah Hills</persName>, her husband Mr [Thomas?] Hills, 
+  had contact. There is some evidence to support this as they appear with <persName key="MAR01">Marshall</persName>, <persName key="KNA01">Louisa Knapp</persName>, and other intimates. Certainly, C, E, and H Hill are connected. 
+  The entries to T Hill appear much later (1832) (as does Rev. Hill)  and there is no reason to suspect that they are related to the earlier initialled Hills. </p>
+                        <p>The 1795 Hills appears with Mary Hays. This is probably Hays's sister <persName key="HIL04">Sarah Hills</persName>, her husband Mr [Thomas?] Hills, 
      or both of them.  The 1800 Hills are found at Marshall's and may or may not be the same person. These have been given their own keycode.  However, the 1801 Hills are also 
-       found at Marshall's - E Hill Jnr and H Hill.  Rev. Hill (1833) appears only once, at <persName xmlns="http://www.tei-c.org/ns/1.0" key="WOO03">Mrs Woods</persName>. He could be Rowland Hill, 
-       evangelical preacher (1744-1833; <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>).</p><p xmlns="http://www.tei-c.org/ns/1.0">   The <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> has an entry 
+       found at Marshall's - E Hill Jnr and H Hill.  Rev. Hill (1833) appears only once, at <persName key="WOO03">Mrs Woods</persName>. He could be Rowland Hill, 
+       evangelical preacher (1744-1833; <title>DNB</title>).</p>
+                        <p>   The <title>DNB</title> has an entry 
    for a Matthew Davenport Hill (1792 – 1872) who was a penal reformer and brother of Edwin, and indeed a ‘Mat Hill’ and M Hill appear in 1833.  According to the 
-<title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>, after being called to the bar in 1819, Hill ‘was associated with several notable cases’, including R. v. Borron, an action arising 
+<title>DNB</title>, after being called to the bar in 1819, Hill ‘was associated with several notable cases’, including R. v. Borron, an action arising 
 out of the Peterloo massacre, and he also represented John Cartwright, founder of the London Corresponding Society in 1820, and Jane Carlile, when she was prosecuted 
-for selling seditious literature (<title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>). M and Mat have been coded as <persName xmlns="http://www.tei-c.org/ns/1.0" key="HIL03">Matthew Davenhort Hill</persName>.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">George Walter Thornbury and Edward Walford, <title xmlns="http://www.tei-c.org/ns/1.0">Old and New London: A Narrative of its History, its People and its Places</title> (London, 1879-85).</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">MS. Abinger c. 42, fols. 116-17: 14 May 1817.</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-01-06" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-01-06" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-07-24" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-08-06" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-11-20" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-09-15" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-12-05" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-12-22" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-12-31" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-01-05" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-01-12" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-01-24" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-04-27" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-04-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-09-25" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-05-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-05-31" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-06-14" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-06-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-06-29" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-03-15" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+for selling seditious literature (<title>DNB</title>). M and Mat have been coded as <persName key="HIL03">Matthew Davenhort Hill</persName>.</p>
+                    </note>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                    <bibl type="printedbook">George Walter Thornbury and Edward Walford, <title>Old and New London: A Narrative of its History, its People and its Places</title> (London, 1879-85).</bibl>
+                    <bibl type="MS">MS. Abinger c. 42, fols. 116-17: 14 May 1817.</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,3 +1,46 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="NEW04" sex="2"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Cornelia</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Newton</surname><addName xmlns="http://www.tei-c.org/ns/1.0">née Boinville</addName></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1816-09-02"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">There seems to be a clear link between the <persName xmlns="http://www.tei-c.org/ns/1.0" key="NEW01">Newton</persName> entries and the Boinville entries. The editors of Mary Shelley's 
-    <title xmlns="http://www.tei-c.org/ns/1.0">Journal</title> have Cornelia as the sister of Mrs Boinville (not to be confused with Cornelia Boinville, the Boinville's daughter who married Thomas Turner and was 
-    at risk to Shelley at one point) and the wife of John Frank Newton. This means that entries for 'Newtons' include Mrs Newton.</p><p xmlns="http://www.tei-c.org/ns/1.0">Godwin notes her death.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook"><title xmlns="http://www.tei-c.org/ns/1.0">The Journals of Mary Shelley</title> ed Feldman and Scott-Kilvert (John Hopkins, Baltimore, 1987)  </bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-03-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-07-31" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-12-30" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-14" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-03-09" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-09-11" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-01-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-04-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-07-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-10-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-10-31" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-11-14" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-12-01" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-02-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-11-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-12-21" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-01-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-02-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-07-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-07-17" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-12-27" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-09-02" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="NEW04" sex="2">
+                    <persName>
+                        <roleName/>
+                        <forename>Cornelia</forename>
+                        <surname>Newton</surname>
+                        <addName>née Boinville</addName>
+                    </persName>
+                    <birth when="1000">
+                        <placeName/>
+                    </birth>
+                    <death when="1816-09-02"/>
+                    <occupation/>
+                    <note type="editorial">
+                        <p>There seems to be a clear link between the <persName key="NEW01">Newton</persName> entries and the Boinville entries. The editors of Mary Shelley's 
+    <title>Journal</title> have Cornelia as the sister of Mrs Boinville (not to be confused with Cornelia Boinville, the Boinville's daughter who married Thomas Turner and was 
+    at risk to Shelley at one point) and the wife of John Frank Newton. This means that entries for 'Newtons' include Mrs Newton.</p>
+                        <p>Godwin notes her death.</p>
+                    </note>
+                    <bibl type="printedbook"><title>The Journals of Mary Shelley</title> ed Feldman and Scott-Kilvert (John Hopkins, Baltimore, 1987)  </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

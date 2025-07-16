@@ -1,21 +1,84 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="BUL01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Edward George Earle Lytton Bulwer</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Lytton</surname><addName xmlns="http://www.tei-c.org/ns/1.0">first Baron Lytton</addName></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1803-05-25"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1873-01-18"/><occupation xmlns="http://www.tei-c.org/ns/1.0">writer</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">politician</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Bulwer-Lytton was a writer whose career took off after he married without his mother's blessing. She cut off his income and he was forced to earn a living from his 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="BUL01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Edward George Earle Lytton Bulwer</forename>
+                        <surname>Lytton</surname>
+                        <addName>first Baron Lytton</addName>
+                    </persName>
+                    <birth when="1803-05-25">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1873-01-18"/>
+                    <occupation>writer</occupation>
+                    <occupation>politician</occupation>
+                    <note type="editorial">
+                        <p>Bulwer-Lytton was a writer whose career took off after he married without his mother's blessing. She cut off his income and he was forced to earn a living from his 
   pen. He wrote a series of quite successful novels and also contributed journalism to a number of periodicals. He was elected an MP in 1831 and became involved 
-  with legislation pertaining to literary matters such as dramatic copywright and the patent theatres. </p><p xmlns="http://www.tei-c.org/ns/1.0">There is an issue over the instances of 'Bulwer' noted in January and March 1826:</p><p xmlns="http://www.tei-c.org/ns/1.0">James L. Campbell Sr's <title xmlns="http://www.tei-c.org/ns/1.0">Edward Bulwer-Lytton</title> claims that he only returned to England from Paris at the end
-  of April 1826 where he met his future wife Rosina Wheeler, as does the <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>, but he also details his youthful infatuation with 
-    <persName xmlns="http://www.tei-c.org/ns/1.0" key="LAM04">Lady Caroline Lamb</persName>, 
-    which predated his trip to France. However, Leslie Mitchell's <title xmlns="http://www.tei-c.org/ns/1.0">Bulwer Lytton: 
+  with legislation pertaining to literary matters such as dramatic copywright and the patent theatres. </p>
+                        <p>There is an issue over the instances of 'Bulwer' noted in January and March 1826:</p>
+                        <p>James L. Campbell Sr's <title>Edward Bulwer-Lytton</title> claims that he only returned to England from Paris at the end
+  of April 1826 where he met his future wife Rosina Wheeler, as does the <title>DNB</title>, but he also details his youthful infatuation with 
+    <persName key="LAM04">Lady Caroline Lamb</persName>, 
+    which predated his trip to France. However, Leslie Mitchell's <title>Bulwer Lytton: 
       The Rise and Fall of a Victorian Man of Letters</title> is more cautious, referring to a 'probable' 
     meeting with Rosina Wheeler on that date (p. 24). Mitchell also notes that Wheeler dated the first meeting in December 1825.  
-  Two primary sources also support an earlier meeting: <title xmlns="http://www.tei-c.org/ns/1.0">The Life, Letters and Literary Remains of Edward Bulwer, Lord Lytton</title> states that Bulwer 
+  Two primary sources also support an earlier meeting: <title>The Life, Letters and Literary Remains of Edward Bulwer, Lord Lytton</title> states that Bulwer 
     met her at Miss Berry's in spring or early summer 1825 while  L. 
-  Devey's <title xmlns="http://www.tei-c.org/ns/1.0">Letters of the Late Edward Bulwer, Lord Lytton, to his Wife</title> suggests that the meeting was in October 1825.</p><p xmlns="http://www.tei-c.org/ns/1.0">Susan Normington's <title xmlns="http://www.tei-c.org/ns/1.0">Lady Caroline Lamb: This Infernal Woman</title> describes Lamb and Bulwer's friendship and that 
+  Devey's <title>Letters of the Late Edward Bulwer, Lord Lytton, to his Wife</title> suggests that the meeting was in October 1825.</p>
+                        <p>Susan Normington's <title>Lady Caroline Lamb: This Infernal Woman</title> describes Lamb and Bulwer's friendship and that 
   'as a special favour she arranged for him to meet William Godwin' (p. 219). No date is given but the source cited is 
-  Torrens, <title xmlns="http://www.tei-c.org/ns/1.0">Memoirs of Vicount Melbourne</title>, I, p. 171. Paul Douglass's <title xmlns="http://www.tei-c.org/ns/1.0">Lady Caroline Lamb: A Biography</title> 
-  refers to the same event  (p. 243) and places it in the chapter devoted to 1823. This time the source is Kegan Paul's <title xmlns="http://www.tei-c.org/ns/1.0">William 
+  Torrens, <title>Memoirs of Vicount Melbourne</title>, I, p. 171. Paul Douglass's <title>Lady Caroline Lamb: A Biography</title> 
+  refers to the same event  (p. 243) and places it in the chapter devoted to 1823. This time the source is Kegan Paul's <title>William 
   Godwin</title> II, pp. 304-5. Bulwer burned his correspondence with Lamb so that avenue is closed. So far, given Leslie 
   Mitchell's caution over the dates, in what is the most recent biography, and the fact that Lamb and Bulwer had a very close 
   relationship around this time, the January and March references to Bulwer have been coded as Edward Bulwer Lytton, despite
-  the fact that the <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> would have him still in France. </p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 48, fol. 63: 1829-33</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 20, fol. 21: 13 May 1830</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 20, fol. 26: 14 July 1830 </bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 20, fol. 28: 16 Sept. 1830 </bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 20, fol. 56: 30 March 1832</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 49, fols.123-4: 21 August 1838</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 49, fols. 123-4: 21 August 1838</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 49, fols. 135-6:17 March 1839</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 51, fol. 51: not dated</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 51, fol. 50: 26 June</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Leslie Mitchell, <title xmlns="http://www.tei-c.org/ns/1.0">Bulwer Lytton: The Rise and Fall of a Victorian Man of Letters</title> (London: Hambledon and London, 2003)</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">James L. Campbell, <title xmlns="http://www.tei-c.org/ns/1.0">Edward Bulwer-Lytton</title> (Boston: Twayne Publishers, 1986)</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Susan Normington, <title xmlns="http://www.tei-c.org/ns/1.0">Lady Caroline Lamb: 
-  This Infernal Woman</title> (London: House of Stratus, 2001)</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Paul Douglass, <title xmlns="http://www.tei-c.org/ns/1.0">Lady Caroline Lamb: A Biography</title> (New York a
-    nd Basingstoke: Palgrave Macmillan, 2004)</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Charles Kegan Paul, <title xmlns="http://www.tei-c.org/ns/1.0">William Godwin: His Friends and Contemporaries</title> (London: 
-    H.S. King, 1876)</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"><date xmlns="http://www.tei-c.org/ns/1.0" when="1826-01-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1826-03-07" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"><date xmlns="http://www.tei-c.org/ns/1.0" when="1829-08-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1829-11-24" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1829-12-08" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1829-12-18" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-01-02" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-03-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-03-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-03-19" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-03-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-04-06" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-04-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-05-06" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-05-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-05-23" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-06-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-06-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-06-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-06-11" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-06-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-07-14" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-09-16" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-03-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-07-23" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-12-29" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-03-30" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-04-01" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-06-05" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-12-23" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-08-15" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-04-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-05-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-06-28" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+  the fact that the <title>DNB</title> would have him still in France. </p>
+                    </note>
+                    <bibl type="MS"> MS. Abinger c. 48, fol. 63: 1829-33</bibl>
+                    <bibl type="MS"> MS. Abinger c. 20, fol. 21: 13 May 1830</bibl>
+                    <bibl type="MS"> MS. Abinger c. 20, fol. 26: 14 July 1830 </bibl>
+                    <bibl type="MS"> MS. Abinger c. 20, fol. 28: 16 Sept. 1830 </bibl>
+                    <bibl type="MS"> MS. Abinger c. 20, fol. 56: 30 March 1832</bibl>
+                    <bibl type="MS"> MS. Abinger c. 49, fols.123-4: 21 August 1838</bibl>
+                    <bibl type="MS"> MS. Abinger c. 49, fols. 123-4: 21 August 1838</bibl>
+                    <bibl type="MS"> MS. Abinger c. 49, fols. 135-6:17 March 1839</bibl>
+                    <bibl type="MS"> MS. Abinger c. 51, fol. 51: not dated</bibl>
+                    <bibl type="MS"> MS. Abinger c. 51, fol. 50: 26 June</bibl>
+                    <bibl type="printedbook">Leslie Mitchell, <title>Bulwer Lytton: The Rise and Fall of a Victorian Man of Letters</title> (London: Hambledon and London, 2003)</bibl>
+                    <bibl type="printedbook">James L. Campbell, <title>Edward Bulwer-Lytton</title> (Boston: Twayne Publishers, 1986)</bibl>
+                    <bibl type="printedbook">Susan Normington, <title>Lady Caroline Lamb: 
+  This Infernal Woman</title> (London: House of Stratus, 2001)</bibl>
+                    <bibl type="printedbook">Paul Douglass, <title>Lady Caroline Lamb: A Biography</title> (New York a
+    nd Basingstoke: Palgrave Macmillan, 2004)</bibl>
+                    <bibl type="printedbook">Charles Kegan Paul, <title>William Godwin: His Friends and Contemporaries</title> (London: 
+    H.S. King, 1876)</bibl>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

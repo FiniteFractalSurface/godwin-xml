@@ -1,12 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="WAL05" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Thomas</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Walker</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1749-04-03"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1817-02-02"/><occupation xmlns="http://www.tei-c.org/ns/1.0">cotton merchant</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">reformer</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Walker is in London in the summer of 1793 but there is no evidence that he
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WAL05" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Thomas</forename>
+                        <surname>Walker</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1749-04-03">
+                        <placeName/>
+                    </birth>
+                    <death when="1817-02-02"/>
+                    <occupation>cotton merchant</occupation>
+                    <occupation>reformer</occupation>
+                    <note type="editorial">
+                        <p>Walker is in London in the summer of 1793 but there is no evidence that he
     met Godwin. Godwin mentions his trial in the Diary (in 1794) and he then records meeting him
     ('Walker Manch') early in 1795. He visits him at his home near Manchester on his return from Edinburgh in 1816. Writing about
     the visit in a letter to Mary Jane on 2 May 1816 he commented that he had encountered him two or three times
     at the house of Horne Tooke, about twenty years ago.'  If we take Godwin's
     comment at face value it is difficult to be certain which were the Horne Tooke contacts. They may be in 1798, or it is possible that some of the entries early in 1795 are to this
-    Walker - and these are linked to <persName xmlns="http://www.tei-c.org/ns/1.0" key="THE01">Thelwall</persName>, 
-    <persName xmlns="http://www.tei-c.org/ns/1.0" key="LEE04">Lee</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0" key="ILI01">Iliff</persName> and <persName xmlns="http://www.tei-c.org/ns/1.0" key="POW02">Powell</persName>. The only entries we can be 
+    Walker - and these are linked to <persName key="THE01">Thelwall</persName>, 
+    <persName key="LEE04">Lee</persName>, <persName key="ILI01">Iliff</persName> and <persName key="POW02">Powell</persName>. The only entries we can be 
     wholly sure of are those relating to Walker's trial , the explicit
     reference to Manchester, and the visit in 1816. However, the Tho Walker, and T Walker who appear
     in 1798 in September, first at Horne Tooke's and then at Johnson's are likely to be this
-    Walker and have been coded accordingly.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">MS. Abinger c. 42, fols. 112-13: 2 May 1816</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-04-02" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-01-03" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-09-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-09-04" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-04-30" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    Walker and have been coded accordingly.</p>
+                    </note>
+                    <bibl type="MS">MS. Abinger c. 42, fols. 112-13: 2 May 1816</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

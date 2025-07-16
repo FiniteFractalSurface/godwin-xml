@@ -1,13 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="PLU03" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0"/><surname xmlns="http://www.tei-c.org/ns/1.0">Plunket</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1000"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">The entries for Plunket have a pattern which suggests someone close to Ireland.  However, it seems unlikely that they refer to 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="PLU03" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename/>
+                        <surname>Plunket</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName/>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation/>
+                    <note type="editorial">
+                        <p>The entries for Plunket have a pattern which suggests someone close to Ireland.  However, it seems unlikely that they refer to 
     William Conyngham Plunket, first Baron Plunket (1764–1854), lord chancellor of Ireland (DNB).  The first entries are to Mrs Plunket, whom Godwin 
-    meets in Ireland in 1800, and back in London shortly after. There is a link to <persName xmlns="http://www.tei-c.org/ns/1.0" key="CUR01">Curran</persName> 
-    and <persName xmlns="http://www.tei-c.org/ns/1.0" key="ROW01">Hamilton Rowan</persName>.  
+    meets in Ireland in 1800, and back in London shortly after. There is a link to <persName key="CUR01">Curran</persName> 
+    and <persName key="ROW01">Hamilton Rowan</persName>.  
     Entries to Plunket in 1804 have a strong link to Hamilton Rowan,  but 
-    the <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> suggests that even before this time William Conyngham Plunket was embarrassed by his former radicalism, 
+    the <title>DNB</title> suggests that even before this time William Conyngham Plunket was embarrassed by his former radicalism, 
     which would make association with Rowan and Godwin odd. 
-    Most of the 1807 connections involve <persName xmlns="http://www.tei-c.org/ns/1.0" key="KIN01">King</persName>.  There is also a Major Plunket in 1807 at Rowans. 
-    </p><p xmlns="http://www.tei-c.org/ns/1.0">Because of the uncertainties around the identification of Plunket, all instances have been coded, including Mrs Plunket. 
+    Most of the 1807 connections involve <persName key="KIN01">King</persName>.  There is also a Major Plunket in 1807 at Rowans. 
+    </p>
+                        <p>Because of the uncertainties around the identification of Plunket, all instances have been coded, including Mrs Plunket. 
       There are occasions on which he is dining at Plunket's 
     but also mentions Mrs Plunket suggesting that Mrs Plunket is another part of the family (or another generation) 
-    rather than the wife of Plunket. These have also been coded.</p><p xmlns="http://www.tei-c.org/ns/1.0">Godwin also mentions a 'Plunket' in the 1796 list under 1804.
-    </p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-07-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-09-23" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-09-25" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-10-11" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-04-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-05-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-11-15" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-07-25" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-01-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-03-04" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-02-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-03-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-03-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-03-06" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-03-08" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-03-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-05-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-05-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-10-20" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-02-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-11-15" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-07-29" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    rather than the wife of Plunket. These have also been coded.</p>
+                        <p>Godwin also mentions a 'Plunket' in the 1796 list under 1804.
+    </p>
+                    </note>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

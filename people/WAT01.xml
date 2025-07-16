@@ -1,17 +1,64 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="WAT01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Richard</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Watson</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1737-08"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1816-07-04"/><occupation xmlns="http://www.tei-c.org/ns/1.0">bishop of Llandaff</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Godwin records his death. He also appears in 1799 at Lanesborough's.
- It is possible that there are also earlier entries.  We know that Godwin dedicated his <title xmlns="http://www.tei-c.org/ns/1.0">Sketches of History</title> to Watson, and sent him a copy of his 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WAT01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Richard</forename>
+                        <surname>Watson</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1737-08">
+                        <placeName/>
+                    </birth>
+                    <death when="1816-07-04"/>
+                    <occupation>bishop of Llandaff</occupation>
+                    <note type="editorial">
+                        <p>Godwin records his death. He also appears in 1799 at Lanesborough's.
+ It is possible that there are also earlier entries.  We know that Godwin dedicated his <title>Sketches of History</title> to Watson, and sent him a copy of his 
  sermons, and that Watson sent him a note thanking him, 
- suggesting they might have been called <title xmlns="http://www.tei-c.org/ns/1.0">Sketches of Sacred History</title>, and saying that he would like to be able to thank Godwin in person 
+ suggesting they might have been called <title>Sketches of Sacred History</title>, and saying that he would like to be able to thank Godwin in person 
  when he (Watson) was next in London. Watson was close to the Whigs prior to 1792 and it is possible that he was present and dined 
  with the 'Anti-Tests' on 13 February 1790 - although the entry is to Watson, rather than 
  Llandaff (the latter being Watson's signature on his 1784 letter to Godwin), and it is also possible that 
- he dined with the Revolution Society in November 1790. The <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> notes that 'he was an advocate of religious toleration, 
+ he dined with the Revolution Society in November 1790. The <title>DNB</title> notes that 'he was an advocate of religious toleration, 
    supporting the attempt to repeal the Test and Corporation Acts in 1787 and praising the religious toleration 
-   of the French national assembly in 1791.'</p><p xmlns="http://www.tei-c.org/ns/1.0">On 11 May 1790, Godwin notes - 'Write to Watson and the abp'; and then ten days later he enters 'Hear from Watson, send his letter to the abp.'
+   of the French national assembly in 1791.'</p>
+                        <p>On 11 May 1790, Godwin notes - 'Write to Watson and the abp'; and then ten days later he enters 'Hear from Watson, send his letter to the abp.'
     This does suggest that Godwin wrote to Llandaff and then forewarded his reply to the Archbishop.  From the note we have, it seems that Godwin
     was applying for a job in the British Museum that lay within the Archbishop's purview, and was trying to enlist support 
-    for his application (see Marshall p. 79)  </p><p xmlns="http://www.tei-c.org/ns/1.0">There seems to be no basis for identifying the Watson whom Godwin meets at Barnard's with Gurney in Norfolk in 1794, nor in 1796 (also in Norfolk). Nor
+    for his application (see Marshall p. 79)  </p>
+                        <p>There seems to be no basis for identifying the Watson whom Godwin meets at Barnard's with Gurney in Norfolk in 1794, nor in 1796 (also in Norfolk). Nor
 does it seem likely to be the Watson Godwin meets with Sarah Elwes in 1799. Two later Watson entries may refer 
-to <persName xmlns="http://www.tei-c.org/ns/1.0" key="WAT02">James Watson</persName>, the radical, tried for high treason in 1817 (Godwin notes his acquittal in 
+to <persName key="WAT02">James Watson</persName>, the radical, tried for high treason in 1817 (Godwin notes his acquittal in 
   June 1817 and there is an adv Watson at Haywards, the solicitor in January 1818). The reference of the 27 December 1810 entry, 'Call, w. T T, on Watson', 
-  is unclear - Bishop Watson was then rather ill.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>. </bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Marshall</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">MS. Abinger c. 1, fols.	12-13: 5 July 1784</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">MS. Abinger c. 1, fol. 94: 18 May 1790</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"><date xmlns="http://www.tei-c.org/ns/1.0" when="1790-02-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1790-05-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1790-05-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1790-11-04" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-12-29" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-07-04" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+  is unclear - Bishop Watson was then rather ill.</p>
+                    </note>
+                    <bibl type="other"><title>DNB</title>. </bibl>
+                    <bibl type="printedbook">Marshall</bibl>
+                    <bibl type="MS">MS. Abinger c. 1, fols.	12-13: 5 July 1784</bibl>
+                    <bibl type="MS">MS. Abinger c. 1, fol. 94: 18 May 1790</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

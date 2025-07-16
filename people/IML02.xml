@@ -1,11 +1,62 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="IML02" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Gilbert</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Imlay</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1754-02-09"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1828-11-20"/><occupation xmlns="http://www.tei-c.org/ns/1.0">land speculator</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">author</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Although there are four entries to Imlay in the diary, none in fact refer to Gilbert Imlay.</p><p xmlns="http://www.tei-c.org/ns/1.0">Gilbert Imlay was an American radical (Marshall, p. 178) and the father of <persName xmlns="http://www.tei-c.org/ns/1.0" key="IML01">Fanny</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0" key="WOL01">Mary Wollstonecraft’s</persName> first 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="IML02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Gilbert</forename>
+                        <surname>Imlay</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1754-02-09">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1828-11-20"/>
+                    <occupation>land speculator</occupation>
+                    <occupation>author</occupation>
+                    <note type="editorial">
+                        <p>Although there are four entries to Imlay in the diary, none in fact refer to Gilbert Imlay.</p>
+                        <p>Gilbert Imlay was an American radical (Marshall, p. 178) and the father of <persName key="IML01">Fanny</persName>, <persName key="WOL01">Mary Wollstonecraft’s</persName> first 
 daughter.  The two were never married, although Wolsstonecraft was known to many as Mrs Imlay in London in 1796-7. In 1795 Mary volunteered to travel to Scandinavia to help settle some of his business affairs, which had fallen into 
-disarray, and upon her return she found him with another woman – possibly an actress (<title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>).  Their relationship finally finished early in 1796. </p><p xmlns="http://www.tei-c.org/ns/1.0">The entries for Imlay all occur within two days in April 1796, and including a dinner hosted by Godwin on the 22nd April with a 
- group of friends including <persName xmlns="http://www.tei-c.org/ns/1.0" key="MAC01">James Mackintosh</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0" key="HOL01">Holcroft</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0" key="INC01">Elizabeth Inchbald</persName>, 
-    and <persName xmlns="http://www.tei-c.org/ns/1.0" key="PAR03">Dr Parr</persName> and his daughters (Marshall, p. 182). Biographers have treated this as the occasion on which Godwin introduces Wolstonecraft 
+disarray, and upon her return she found him with another woman – possibly an actress (<title>DNB</title>).  Their relationship finally finished early in 1796. </p>
+                        <p>The entries for Imlay all occur within two days in April 1796, and including a dinner hosted by Godwin on the 22nd April with a 
+ group of friends including <persName key="MAC01">James Mackintosh</persName>, <persName key="HOL01">Holcroft</persName>, <persName key="INC01">Elizabeth Inchbald</persName>, 
+    and <persName key="PAR03">Dr Parr</persName> and his daughters (Marshall, p. 182). Biographers have treated this as the occasion on which Godwin introduces Wolstonecraft 
    to a wider circle of his friends - that is they have assumed that 
     Imlay is being used to refer to Wollstonecraft rather than to her former lover.  However, it is a very striking case of inconsistency for Godwin - because there is an 
     entry the day before to Wollstonecraft, followed by the first entry of 'Imlay calls'.  Moreover, the use of Imlay is never repeated.  However, Godwin himself 
     notes: "In my little deserted mansion, I received on the 22d of April, a party of twelve persons, the most of whom good-humouredly invited themselves 
     to dine with me, and for whom I ordered provisions from a neighbouring coffee-house. Among this party were Dr Parr and his two daughters, 
-    Mr and Mrs Mackintosh, Mr Holcroft, Mrs Wollstonecraft, and Mrs Inchbald." ( Kegan Paul, vol 1, page 154). </p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">C. Kegan Paul, <title xmlns="http://www.tei-c.org/ns/1.0">William Godwin and his Contemporaries</title> vol. 1, p. 154 (and see p. 38)</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Marshall, p. 182</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">St Clair, p. 162</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Locke, p. 119</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    Mr and Mrs Mackintosh, Mr Holcroft, Mrs Wollstonecraft, and Mrs Inchbald." ( Kegan Paul, vol 1, page 154). </p>
+                    </note>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                    <bibl type="printedbook">C. Kegan Paul, <title>William Godwin and his Contemporaries</title> vol. 1, p. 154 (and see p. 38)</bibl>
+                    <bibl type="printedbook">Marshall, p. 182</bibl>
+                    <bibl type="printedbook">St Clair, p. 162</bibl>
+                    <bibl type="printedbook">Locke, p. 119</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

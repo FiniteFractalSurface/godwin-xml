@@ -1,10 +1,48 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="STO05" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">John Hurford</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Stone</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1763"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1818"/><occupation xmlns="http://www.tei-c.org/ns/1.0">printer</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">reformer</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Godwin's early contacts with 'Stone' do seem plausibly associated with 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="STO05" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>John Hurford</forename>
+                        <surname>Stone</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1763">
+                        <placeName/>
+                    </birth>
+                    <death when="1818"/>
+                    <occupation>printer</occupation>
+                    <occupation>reformer</occupation>
+                    <note type="editorial">
+                        <p>Godwin's early contacts with 'Stone' do seem plausibly associated with 
     John Hurford Stone, a parishioner of Price and disciple of Priestley, a supporter of the French 
     Revolution, and someone who offered to help the French ambassador negotiate with Britain 
-    to prevent war. </p><p xmlns="http://www.tei-c.org/ns/1.0">John Hurford Stone left for Paris in April 1792.    He divorced his wife in France and had a long affair with <persName xmlns="http://www.tei-c.org/ns/1.0" key="WIL01">Helen Maria Williams</persName>. He died in Paris in 1818.
-    Alger  in <title xmlns="http://www.tei-c.org/ns/1.0">Englishmen in the French Revolution</title> , suggests that Stone returned to England between February 
+    to prevent war. </p>
+                        <p>John Hurford Stone left for Paris in April 1792.    He divorced his wife in France and had a long affair with <persName key="WIL01">Helen Maria Williams</persName>. He died in Paris in 1818.
+    Alger  in <title>Englishmen in the French Revolution</title> , suggests that Stone returned to England between February 
     and May 1793, and was incarcerated in the Luxembourg for seventeen days in October 1793.  Thereafter there is no suggestion that he returned to England, and the fact that his intercepted correspondence
-    resulted in a prosecution for High Treason for his brother William, suggests that he was under surveilance and would have been arrested had he returned. </p><p xmlns="http://www.tei-c.org/ns/1.0">If the early entries to 'Stone' in the diary are to John Hurford, these would leave  unexplained the entries for:
+    resulted in a prosecution for High Treason for his brother William, suggests that he was under surveilance and would have been arrested had he returned. </p>
+                        <p>If the early entries to 'Stone' in the diary are to John Hurford, these would leave  unexplained the entries for:
    1792-06-15, although this has been coded for Stone on the grounds that when he left in 
    April 1792 he probably did not  believe he was leaving the country for good and it is likely he returned at some point to settle his affairs (and the context is right).
    Howver, it is possible that this (indeed, all the) Stone entry refers to William Stone, John Hurford's brother, who was 
@@ -17,16 +55,26 @@
    Alger suggests that William Stone left England to join his brother in France, but gives no date.  It cannot be before March 1796 and there is an issue of whether he could have 
    been granted a passport (Godwin was turned down during the Peace of Amiens), or whether he would have had to wait  for tensions to subside, or could have slipped across via Germany.  
    It is certainly possible that the entries for 1793, 1795 and 1797 are all to William Stone - just as it is possible that the earlier entries are also to him. But there is no supporting evidence
-   for the attribution and we have left later entries uncoded.</p><p xmlns="http://www.tei-c.org/ns/1.0"> There is also nothing to connect William Stone, or John Hurford Stone, with the <persName xmlns="http://www.tei-c.org/ns/1.0" key="STO03 STO04">John and William Stone</persName> 
+   for the attribution and we have left later entries uncoded.</p>
+                        <p> There is also nothing to connect William Stone, or John Hurford Stone, with the <persName key="STO03 STO04">John and William Stone</persName> 
     who show an interest in Godwin's business in 1815.
     It is possible that some of the later Stone entries relate to the 'Stone surgeon' whom Godwin notes in 1814.  The following have been 
     left uncoded, despite the possible connection to William Stone.  We have 
     been unable to identify William's date of death or his career subsequent to his trial for treason (other than a court case immediately 
-    following concerning a bond (see <title xmlns="http://www.tei-c.org/ns/1.0">The Times</title> for 25 February 1796.
+    following concerning a bond (see <title>The Times</title> for 25 February 1796.
     # 1793-08-06
     # 1795-01-31
     # 1795-03-15
     # 1797-06-06
-    # 1826-12-31 </p><p xmlns="http://www.tei-c.org/ns/1.0">    St Clair speculates that <persName xmlns="http://www.tei-c.org/ns/1.0" key="STO03 STO04">John and William Stone</persName>  were the radicals John Hurford Stone (lover of Helen Maria Williams) and his brother William.
+    # 1826-12-31 </p>
+                        <p>    St Clair speculates that <persName key="STO03 STO04">John and William Stone</persName>  were the radicals John Hurford Stone (lover of Helen Maria Williams) and his brother William.
     We have ruled this out on the basis that  John Hurford Stone was based in Paris, would have had difficulty in getting into England during the war,  had  been declared bankrupt in 1813, and would 
-    most likely have been liable to prosecution associated with his brother's trial for High Treason in 1796.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">St Clair, pp. 369-70.</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>.</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"><date xmlns="http://www.tei-c.org/ns/1.0" when="1790-02-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1790-02-13" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"><date xmlns="http://www.tei-c.org/ns/1.0" when="1791-12-03" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"><date xmlns="http://www.tei-c.org/ns/1.0" when="1792-06-15" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    most likely have been liable to prosecution associated with his brother's trial for High Treason in 1796.</p>
+                    </note>
+                    <bibl type="printedbook">St Clair, pp. 369-70.</bibl>
+                    <bibl type="other"><title>DNB</title>.</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

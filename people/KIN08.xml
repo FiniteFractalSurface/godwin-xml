@@ -1,4 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="KIN08" sex="2"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Emily</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Kingsman</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1779"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1840"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0"> Godwin meets Miss Kingsman under uncoventional circumstances - one suspects she introduces herself to him on 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="KIN08" sex="2">
+                    <persName>
+                        <roleName/>
+                        <forename>Emily</forename>
+                        <surname>Kingsman</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1779">
+                        <placeName/>
+                    </birth>
+                    <death when="1840"/>
+                    <occupation/>
+                    <note type="editorial">
+                        <p> Godwin meets Miss Kingsman under uncoventional circumstances - one suspects she introduces herself to him on 
     the basis that he is an acquaintance of her brother's (whom he meets when visiting Wedgwood in 1794).  Godwin's letter to her about their meeting is similarly forward.
     They also seem to meet, with her mother and sisters, in May 1799, again when Godwin is travelling (although he refers to them as Kingman). 
     (There is a Langleybury, in Hertfordshire - 
@@ -7,7 +42,16 @@
     It is rather striking that there is no further contact, although
     if Godwin was attracted to her this makes more sense, since between their first and last he was wooing Harriet Lee, and after May 1799 he becomes involved 
     with Sarah Elwes.
-  </p><p xmlns="http://www.tei-c.org/ns/1.0">Miss Kingsman was the daughter of William Long Kingsman (1747-1820), a member of the Irish Parliament for Granard (Longford). He and his wife, Dorothea, had three daughters, Dorothea (1774-1800), 
+  </p>
+                        <p>Miss Kingsman was the daughter of William Long Kingsman (1747-1820), a member of the Irish Parliament for Granard (Longford). He and his wife, Dorothea, had three daughters, Dorothea (1774-1800), 
     Luisa (1776-before 1800) and Emily (1779-1840) and a son Henry (1775-?) Around 1800 they lived in Langley Bury, Herts. 
     Henry would have been about 19 when he meets Godwin as Wedgewood's.  It would appear from the 1796 list that it is Emily Kingsman 
-    whom Godwin meets in 1798, and her mother and sister Dorethea in 1799..</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">MS. Abinger c.17, fol. 66: 27 September 1798</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"> http://freepages.genealogy.rootsweb.ancestry.com/~kingsman/kingsman/england/indiI12484.html accessed 9.9.2011</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-09-26" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-05-08" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    whom Godwin meets in 1798, and her mother and sister Dorethea in 1799..</p>
+                    </note>
+                    <bibl type="MS">MS. Abinger c.17, fol. 66: 27 September 1798</bibl>
+                    <bibl type="other"> http://freepages.genealogy.rootsweb.ancestry.com/~kingsman/kingsman/england/indiI12484.html accessed 9.9.2011</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

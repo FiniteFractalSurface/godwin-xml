@@ -1,19 +1,71 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="ALL02" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Lancelot Baugh</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Allen</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1775"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1845"/><occupation xmlns="http://www.tei-c.org/ns/1.0">teacher</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">magistrate</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">There are five Allens in the diary:  <persName xmlns="http://www.tei-c.org/ns/1.0" key="ALL01">Robert Allen</persName>, Lancelot Baugh Allen, <persName xmlns="http://www.tei-c.org/ns/1.0" key="ALL03">William Allen</persName>, John Allen, and 
-    Allen, Parish Clerk.  Allen, Parish Clerk appears once and is unidentified.</p><p xmlns="http://www.tei-c.org/ns/1.0"><persName xmlns="http://www.tei-c.org/ns/1.0" key="ALL01">Robert Allen</persName>, cited in E.V. Lucas, <title xmlns="http://www.tei-c.org/ns/1.0">The Life of Charles Lamb</title>, pp.79-81, is linked with Christ's Hospital and Stoddart and thus appears to be the Allen 
-      of the 1790s, at least. There are a number of Allen entries associated with Stoddart who Lucas also links to Robert Allen and Godwin: <lb xmlns="http://www.tei-c.org/ns/1.0"/>'for in 1796 we find Lamb telling
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="ALL02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Lancelot Baugh</forename>
+                        <surname>Allen</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1775">
+                        <placeName/>
+                    </birth>
+                    <death when="1845"/>
+                    <occupation>teacher</occupation>
+                    <occupation>magistrate</occupation>
+                    <note type="editorial">
+                        <p>There are five Allens in the diary:  <persName key="ALL01">Robert Allen</persName>, Lancelot Baugh Allen, <persName key="ALL03">William Allen</persName>, John Allen, and 
+    Allen, Parish Clerk.  Allen, Parish Clerk appears once and is unidentified.</p>
+                        <p><persName key="ALL01">Robert Allen</persName>, cited in E.V. Lucas, <title>The Life of Charles Lamb</title>, pp.79-81, is linked with Christ's Hospital and Stoddart and thus appears to be the Allen 
+      of the 1790s, at least. There are a number of Allen entries associated with Stoddart who Lucas also links to Robert Allen and Godwin: <lb/>'for in 1796 we find Lamb telling
       Coleridge that Stoddart and Godwin are influencing Allen so undesirably that he has become a sceptic'.  The diary also tells us that 'surgery' and 'anatomy'
       where topics of conversation between Godwin and Allen - Robert Allen was a surgeon. Lucas goes on to state that Allen was appointed Deputy Surgeon to the Second 
-      Royale who were based in Portugal and but was back in England by 1802 (but perhaps earlier?)  which confuses the issue.</p><p xmlns="http://www.tei-c.org/ns/1.0"><persName xmlns="http://www.tei-c.org/ns/1.0" key="ALLO2">Lancelot Baugh Allen</persName> (1775-1845) was Master of Dulwich College and a London Police Magistrate, and sat for a portrait done by Godwin’s acquaintance 
-      William Beechey.  Baugh Allen was the son of John Bartlett Allen and his first wife. <persName xmlns="http://www.tei-c.org/ns/1.0" key="MAC12">Catherine Allen Mackintosh</persName>, one of Baugh Allen's sisters, 
-      married the philosopher and lawyer <persName xmlns="http://www.tei-c.org/ns/1.0" key="MAC01">James Mackintosh</persName>.  Two of Baugh Allen's sisters married into the Wedgewood family. Jenny Allen married John Wedgewood 
-      and Elizabeth (Bessy) Allen married <persName xmlns="http://www.tei-c.org/ns/1.0" key="WED03">Josiah Wedgewood jr.</persName>  A third sister, Jessie Allen, married the French economist Jean Charles Simonde de Sismondi.
+      Royale who were based in Portugal and but was back in England by 1802 (but perhaps earlier?)  which confuses the issue.</p>
+                        <p><persName key="ALLO2">Lancelot Baugh Allen</persName> (1775-1845) was Master of Dulwich College and a London Police Magistrate, and sat for a portrait done by Godwin’s acquaintance 
+      William Beechey.  Baugh Allen was the son of John Bartlett Allen and his first wife. <persName key="MAC12">Catherine Allen Mackintosh</persName>, one of Baugh Allen's sisters, 
+      married the philosopher and lawyer <persName key="MAC01">James Mackintosh</persName>.  Two of Baugh Allen's sisters married into the Wedgewood family. Jenny Allen married John Wedgewood 
+      and Elizabeth (Bessy) Allen married <persName key="WED03">Josiah Wedgewood jr.</persName>  A third sister, Jessie Allen, married the French economist Jean Charles Simonde de Sismondi.
       Godwin wrote to B Allen in 1832, but the letter is lost.  Baugh Allen sups at Etruria in 1797 (the residence of Wedgwood) and there are a few 
-      examples in the 1790s of dinners including <persName xmlns="http://www.tei-c.org/ns/1.0" key="WED02">Wedgwood</persName>and <persName xmlns="http://www.tei-c.org/ns/1.0" key="MAC01">Mackintosh</persName>, and also the Allens (plural).  The Wedgwoods and Allens also attend Mackintosh’s lecture 
-      around the same time.</p><p xmlns="http://www.tei-c.org/ns/1.0"><persName xmlns="http://www.tei-c.org/ns/1.0" key="ALL03">William Allen</persName> (1770 – 1843) - thrice indicated with an initial ‘W’ in 1813–1814 started and maintained the quarterly journal 
-      <title xmlns="http://www.tei-c.org/ns/1.0">The Philanthropist</title> from 1811–1817. The journal discussed topical social reforms including monitorial education (<title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>). The <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> 
+      examples in the 1790s of dinners including <persName key="WED02">Wedgwood</persName>and <persName key="MAC01">Mackintosh</persName>, and also the Allens (plural).  The Wedgwoods and Allens also attend Mackintosh’s lecture 
+      around the same time.</p>
+                        <p><persName key="ALL03">William Allen</persName> (1770 – 1843) - thrice indicated with an initial ‘W’ in 1813–1814 started and maintained the quarterly journal 
+      <title>The Philanthropist</title> from 1811–1817. The journal discussed topical social reforms including monitorial education (<title>DNB</title>). The <title>DNB</title> 
       also states that James Mills was a chief contributor, and in 1814 Godwin notes that Mills applies to W Allen, which could possibly be in relation to the journal.  That year,
-      Allen, along with <persName xmlns="http://www.tei-c.org/ns/1.0" key="BEN02">Bentham</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0" key="OWE01">Robert Owen</persName>, and four other partners bought New Lanark Mills to establish a model industrial community (<title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>).  In a March 
-      1813 entry, Godwin records ‘Owen calls:  send to W Allen’ which connects Owen and Allen. </p><p xmlns="http://www.tei-c.org/ns/1.0"><persName xmlns="http://www.tei-c.org/ns/1.0" key="ALL04">John Allen </persName> (1771–1843), political and historical writer, who was warden of Dulwich College from 1811 to 1820, and master from that year until his death.
-      He was a member of the Holland House set from his 1805 return to England after a period abroad. </p><p xmlns="http://www.tei-c.org/ns/1.0">All plain 'Allen' entries up to and including 1797 have been coded as Robert Allen. As has the entry in 1803 (<persName xmlns="http://www.tei-c.org/ns/1.0" key="LAM01">Lamb</persName> circle). Allens in 1799 have been coded as 
+      Allen, along with <persName key="BEN02">Bentham</persName>, <persName key="OWE01">Robert Owen</persName>, and four other partners bought New Lanark Mills to establish a model industrial community (<title>DNB</title>).  In a March 
+      1813 entry, Godwin records ‘Owen calls:  send to W Allen’ which connects Owen and Allen. </p>
+                        <p><persName key="ALL04">John Allen </persName> (1771–1843), political and historical writer, who was warden of Dulwich College from 1811 to 1820, and master from that year until his death.
+      He was a member of the Holland House set from his 1805 return to England after a period abroad. </p>
+                        <p>All plain 'Allen' entries up to and including 1797 have been coded as Robert Allen. As has the entry in 1803 (<persName key="LAM01">Lamb</persName> circle). Allens in 1799 have been coded as 
       Baugh due to connections with Wedgwood circle. From 1805, Godwin appears to distinguish between Baugh Allen and John Allen, using plain 'Allen' for the latter 
-      (Robert Allen was deceased so hence no confusion). He has little contact with William Allen thus discounting him as a contender for any of the plain 'Allens'.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">E.V. Lucas, <title xmlns="http://www.tei-c.org/ns/1.0">The Life of Charles Lamb</title>, 2 vols (1905, 7th edn. London: Methuen and Co. Ltd., 1921).</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Patrick O'Leary, <title xmlns="http://www.tei-c.org/ns/1.0">Sir James Mackintosh: The Whig Cicero</title>, Aberdeen, 1989</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-06-06" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-03-13" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-02-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-02-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-02-23" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-03-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-03-03" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-01-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-11-13" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"><date xmlns="http://www.tei-c.org/ns/1.0" when="1815-01-11" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-08-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-11-16" n="venue" type="nah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-05-31" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+      (Robert Allen was deceased so hence no confusion). He has little contact with William Allen thus discounting him as a contender for any of the plain 'Allens'.</p>
+                    </note>
+                    <bibl type="printedbook">E.V. Lucas, <title>The Life of Charles Lamb</title>, 2 vols (1905, 7th edn. London: Methuen and Co. Ltd., 1921).</bibl>
+                    <bibl type="printedbook">Patrick O'Leary, <title>Sir James Mackintosh: The Whig Cicero</title>, Aberdeen, 1989</bibl>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

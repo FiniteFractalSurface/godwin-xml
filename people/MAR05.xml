@@ -1,13 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="MAR05" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Charles</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Marsh</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1774"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1835"/><occupation xmlns="http://www.tei-c.org/ns/1.0">barrister</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">politician</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Godwin first makes Marsh's acquaintance on his 1794 visit to Norwich, in the company of the Aldersons,
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="MAR05" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Charles</forename>
+                        <surname>Marsh</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1774">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1835"/>
+                    <occupation>barrister</occupation>
+                    <occupation>politician</occupation>
+                    <note type="editorial">
+                        <p>Godwin first makes Marsh's acquaintance on his 1794 visit to Norwich, in the company of the Aldersons,
   Tayors, Gurneys, Merry, Rigby, Pitchford etc. This allows us to be fairly sure of the identification -
   Jewson has the young Marsh in this milieu. Marsh then appears in Lomndon during the Treason Trials.  The one problem with
   the identification is the introduction of initials in 1796, which might suggest Godwin attempting to distinguish a different Marsh.   One possibility is that
   Godwin also meets Charles Marsh (1735-1812), the son of Charles Marsh, a London bookseller, and himself an antiquary.  But there is little to suggest this in the 
   circles in which Godwin meets Marsh.  There is also a reference to Sir Charles Marsh in 1800, which is neither of these.
   Godwin's handling of initials is idiosyncratic and cannot definitively count against the earlier identification. Marsh also acted as editor for radical Norwich periodical
-  <title xmlns="http://www.tei-c.org/ns/1.0">The Cabinet</title>. The <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> has him in India 1804-9 and he is absent from the diary for this period, 
+  <title>The Cabinet</title>. The <title>DNB</title> has him in India 1804-9 and he is absent from the diary for this period, 
   with the exception of a discrepancy over the date he leaves (he appears once in April 1805 but
-  the <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> only says he secured the appointment in 1804 so possible he sailed the following 
+  the <title>DNB</title> only says he secured the appointment in 1804 so possible he sailed the following 
   summer). He practices law in India, returns, enters Parliament, supports Catholic relief, opposes
   missionary work in India and by the 1820s, when he has dropped out of the diary, is in dire
-  financial difficulties.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">C.B. Jewson, <title xmlns="http://www.tei-c.org/ns/1.0">The Jacobin City: A Portrait of Norwich in its Reaction to the French Revolution 1788-1802</title> (Glasgow: Blackie, 1975)</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-06-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-06-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-11-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-12-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-12-10" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-04-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-05-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-10-29" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-12-05" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-02-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-02-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-02-23" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-06-08" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-04-14" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-12-07" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+  financial difficulties.</p>
+                    </note>
+                    <bibl type="printedbook">C.B. Jewson, <title>The Jacobin City: A Portrait of Norwich in its Reaction to the French Revolution 1788-1802</title> (Glasgow: Blackie, 1975)</bibl>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,8 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="HUN04" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Rowland</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Hunter</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1000"/><occupation xmlns="http://www.tei-c.org/ns/1.0">bookseller</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Rowland Hunter worked for his grand-uncle, <persName xmlns="http://www.tei-c.org/ns/1.0" key="JOH01">Joseph Johnson</persName>.  
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="HUN04" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Rowland</forename>
+                        <surname>Hunter</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation>bookseller</occupation>
+                    <occupation/>
+                    <note type="editorial">
+                        <p>Rowland Hunter worked for his grand-uncle, <persName key="JOH01">Joseph Johnson</persName>.  
     Johnson also arranged for his education at the Barbauld's academy at Palgrave.
     When Johnson died in 1809, Hunter was co-executor of his will.  Hunter was bequeathed cash, a small house behind the shop,
-    and an equal share of the business with John Miles (1784-1856), his cousin and Johnson's other grand-nephew. </p><p xmlns="http://www.tei-c.org/ns/1.0">There is a series of entries to Rd Hunter or R Hunter in contexts that begin in 1798 and that broadly support the identification.
+    and an equal share of the business with John Miles (1784-1856), his cousin and Johnson's other grand-nephew. </p>
+                        <p>There is a series of entries to Rd Hunter or R Hunter in contexts that begin in 1798 and that broadly support the identification.
     There are other Hunter entries in the Diary and it is possible that some of these refer to R Hunter.  But it does seem that there 
     is a distinct Hunter, as is evident from the 6 August 1799 entry : 'dine at  Johnson's , w. Fuseli, Hunter, Holloway, + Cartwright; adv. Ant. Robinson, John Parry  + R Hunter.'
     Similarly, the continued use of both Hunter and R Hunter in 1815 suggests a continuing distinction between two persons.  That said, it is impossible to be absolutely certain that 
-    no Hunter entries are references to R Hunter (see the discussion in <persName xmlns="http://www.tei-c.org/ns/1.0" key="HUN03"/>).</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook"> Gerald P. Tyson, <title xmlns="http://www.tei-c.org/ns/1.0">Joseph Johnson: A Liberal Publisher</title> (Iowa City: University of Iowa Press, 1979) </bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-04-22" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-04-30" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-08-06" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-09-13" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-06-05" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-07-13" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-10-20" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-10-10" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-07-21" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"><date xmlns="http://www.tei-c.org/ns/1.0" when="1815-08-24" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-06-05" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"><date xmlns="http://www.tei-c.org/ns/1.0" when="1822-06-09" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"><date xmlns="http://www.tei-c.org/ns/1.0" when="1825-02-01" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1825-05-23" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"><date xmlns="http://www.tei-c.org/ns/1.0" when="1827-08-25" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-09-30" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    no Hunter entries are references to R Hunter (see the discussion in <persName key="HUN03"/>).</p>
+                    </note>
+                    <bibl type="printedbook"> Gerald P. Tyson, <title>Joseph Johnson: A Liberal Publisher</title> (Iowa City: University of Iowa Press, 1979) </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

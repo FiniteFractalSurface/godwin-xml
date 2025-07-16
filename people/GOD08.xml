@@ -1,5 +1,70 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="GOD08" sex="2"><persName xmlns="http://www.tei-c.org/ns/1.0"><forename xmlns="http://www.tei-c.org/ns/1.0">Ann</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Godwin</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" notBefore="1721" notAfter="1722">1722 or 1721, going by St Clair's account that her tombstone records her death aged 87
-    <placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1809-08-13"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Ann Godwin was William's mother. Although it is odd that Godwin refers to his mother as AG, it can be established that he is referring to his mother.  
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="GOD08" sex="2">
+                    <persName>
+                        <forename>Ann</forename>
+                        <surname>Godwin</surname>
+                        <addName/>
+                    </persName>
+                    <birth notBefore="1721" notAfter="1722">1722 or 1721, going by St Clair's account that her tombstone records her death aged 87
+    <placeName> </placeName></birth>
+                    <death when="1809-08-13"/>
+                    <occupation/>
+                    <occupation/>
+                    <note type="editorial">
+                        <p>Ann Godwin was William's mother. Although it is odd that Godwin refers to his mother as AG, it can be established that he is referring to his mother.  
   Godwin does not elsewhere refer to the death of his mother, an event he would surely have noted. The date of death also fits and the 
-  confirming evidence is that he refers to his mother's funeral with some detail in 1809 in a letter. A letter from Godwin to <persName xmlns="http://www.tei-c.org/ns/1.0" key="RIC01">John Rickman</persName>, 
-      June 1808, notes that his mother is 86, confirming her birth and death dates.</p><p xmlns="http://www.tei-c.org/ns/1.0"> Therefore, all references to mere, Ann Godwin and A G have been coded as GOD08.</p><p xmlns="http://www.tei-c.org/ns/1.0">Godwin notes her death.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 53, fols. 31-3: 1782-3</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 1, fols. 3-4: 1782-3</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 1, fol. 78: 29 May 1788</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 1, fols. 102-3: 5 April 1792</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 3, fols. 64-5: 3 May 1797</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 3, fol. 127: 26 January 1798</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 4, fols. 14-15: 30 April 1798</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 4, fols. 96-7: 7 April 1799</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 4, fols. 139: 21 September 1799</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 5, fol. 41: 19 December 1799</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 5, fols. 79-80: 6 February 1800</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 5, fol. 97: 28 March1800</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 6, fols. 118-19: 1 January 1801</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 7, fols. 5-6: 9 February 1801</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 8, fol. 20: 27 April 1803</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 8, fol. 31: 10 August 1803</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 8, fols. 48-9: 15 November 1803</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 8, fol. 92:  December 1804</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 9, fols. 26: 8 July 1805</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 42, fol. 14: 6 August 1805</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 9, fol. 2: 1 May 1805</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">MS. Abinger c. 10, fols. 69-72: 27 June 1808</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 14, fol. 112: not dated</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Charles Kegan Paul, <title xmlns="http://www.tei-c.org/ns/1.0">William Godwin: His Friends and Contemporaries</title> (London: H.S. King, 1876)</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"><date xmlns="http://www.tei-c.org/ns/1.0" when="1790-05-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1790-05-19" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"><date xmlns="http://www.tei-c.org/ns/1.0" when="1792-03-04" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-07-04" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-02-01" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-04-09" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-09-15" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-05-20" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-01-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-12-26" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-02-12" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-12-06" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-01-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-03-17" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-08-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-08-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-09-04" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-08-13" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+  confirming evidence is that he refers to his mother's funeral with some detail in 1809 in a letter. A letter from Godwin to <persName key="RIC01">John Rickman</persName>, 
+      June 1808, notes that his mother is 86, confirming her birth and death dates.</p>
+                        <p> Therefore, all references to mere, Ann Godwin and A G have been coded as GOD08.</p>
+                        <p>Godwin notes her death.</p>
+                    </note>
+                    <bibl type="MS"> MS. Abinger c. 53, fols. 31-3: 1782-3</bibl>
+                    <bibl type="MS"> MS. Abinger c. 1, fols. 3-4: 1782-3</bibl>
+                    <bibl type="MS"> MS. Abinger c. 1, fol. 78: 29 May 1788</bibl>
+                    <bibl type="MS"> MS. Abinger c. 1, fols. 102-3: 5 April 1792</bibl>
+                    <bibl type="MS"> MS. Abinger c. 3, fols. 64-5: 3 May 1797</bibl>
+                    <bibl type="MS"> MS. Abinger c. 3, fol. 127: 26 January 1798</bibl>
+                    <bibl type="MS"> MS. Abinger c. 4, fols. 14-15: 30 April 1798</bibl>
+                    <bibl type="MS"> MS. Abinger c. 4, fols. 96-7: 7 April 1799</bibl>
+                    <bibl type="MS"> MS. Abinger c. 4, fols. 139: 21 September 1799</bibl>
+                    <bibl type="MS"> MS. Abinger c. 5, fol. 41: 19 December 1799</bibl>
+                    <bibl type="MS"> MS. Abinger c. 5, fols. 79-80: 6 February 1800</bibl>
+                    <bibl type="MS"> MS. Abinger c. 5, fol. 97: 28 March1800</bibl>
+                    <bibl type="MS"> MS. Abinger c. 6, fols. 118-19: 1 January 1801</bibl>
+                    <bibl type="MS"> MS. Abinger c. 7, fols. 5-6: 9 February 1801</bibl>
+                    <bibl type="MS"> MS. Abinger c. 8, fol. 20: 27 April 1803</bibl>
+                    <bibl type="MS"> MS. Abinger c. 8, fol. 31: 10 August 1803</bibl>
+                    <bibl type="MS"> MS. Abinger c. 8, fols. 48-9: 15 November 1803</bibl>
+                    <bibl type="MS"> MS. Abinger c. 8, fol. 92:  December 1804</bibl>
+                    <bibl type="MS"> MS. Abinger c. 9, fols. 26: 8 July 1805</bibl>
+                    <bibl type="MS"> MS. Abinger c. 42, fol. 14: 6 August 1805</bibl>
+                    <bibl type="MS"> MS. Abinger c. 9, fol. 2: 1 May 1805</bibl>
+                    <bibl type="MS">MS. Abinger c. 10, fols. 69-72: 27 June 1808</bibl>
+                    <bibl type="MS"> MS. Abinger c. 14, fol. 112: not dated</bibl>
+                    <bibl type="printedbook">Charles Kegan Paul, <title>William Godwin: His Friends and Contemporaries</title> (London: H.S. King, 1876)</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

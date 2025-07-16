@@ -1,4 +1,47 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="BON03" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">John Augustus</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Bonney</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1813-12-30"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">John Bonney was a lawyer and a member of the Society for Constitutional Information. He was a longtime friend and supporter of John Horne Tooke and was
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="BON03" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>John Augustus</forename>
+                        <surname>Bonney</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1813-12-30"/>
+                    <occupation/>
+                    <note type="editorial">
+                        <p>John Bonney was a lawyer and a member of the Society for Constitutional Information. He was a longtime friend and supporter of John Horne Tooke and was
        arrested with him on a charge of high treason on 16 May 1794. He was later discharged after the acquittal of Tooke, Hardy and Thelwall. 
        In 1796 he supported Tooke in his bid for the 
-       Westminster seat in parliament. He also supported Francis Burdett in the Middlesex elections of 1802 and 1804.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">J. Ann Hone <title xmlns="http://www.tei-c.org/ns/1.0">For the Cause of Truth: Radicalism in London 1796-1821</title>, (Oxford: Clarendon Press, 1982), passim</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="journalism"><title xmlns="http://www.tei-c.org/ns/1.0">The European magazine, and London review</title>, 65 (Jan-Jun 1814), p. 80.</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-01-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-03-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-07-21" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-11-27" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-31" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-02-17" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-03-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-06-19" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-04-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-05-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-07-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-09-21" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-09-28" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-10-25" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-04-15" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+       Westminster seat in parliament. He also supported Francis Burdett in the Middlesex elections of 1802 and 1804.</p>
+                    </note>
+                    <bibl type="printedbook">J. Ann Hone <title>For the Cause of Truth: Radicalism in London 1796-1821</title>, (Oxford: Clarendon Press, 1982), passim</bibl>
+                    <bibl type="journalism"><title>The European magazine, and London review</title>, 65 (Jan-Jun 1814), p. 80.</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

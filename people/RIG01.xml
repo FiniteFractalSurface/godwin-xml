@@ -1,8 +1,54 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="RIG01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Edward</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Rigby</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1747-12-27"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1821-10-27"/><occupation xmlns="http://www.tei-c.org/ns/1.0">physician</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">writer</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">All the meetings between Rigby and Godwin are in Norwich. </p><p xmlns="http://www.tei-c.org/ns/1.0">Edward Rigby was born in Lancashire, but came to Norwich to study medicine and became 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="RIG01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Edward</forename>
+                        <surname>Rigby</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1747-12-27">
+                        <placeName/>
+                    </birth>
+                    <death when="1821-10-27"/>
+                    <occupation>physician</occupation>
+                    <occupation>writer</occupation>
+                    <note type="editorial">
+                        <p>All the meetings between Rigby and Godwin are in Norwich. </p>
+                        <p>Edward Rigby was born in Lancashire, but came to Norwich to study medicine and became 
     prominent in civic affairs. He travelled to Paris in July 1789 - for his account of this trip see 
-    the collection of his letters edited by his daughter, Lady Eastlake, <title xmlns="http://www.tei-c.org/ns/1.0">Dr Rigby's Letters from France in 1789</title> (London, 1880). Back in Norwich, he
-    contributed to <title xmlns="http://www.tei-c.org/ns/1.0">The Cabinet</title>, was a churchwarden at St Giles' and a member of William Taylor's
+    the collection of his letters edited by his daughter, Lady Eastlake, <title>Dr Rigby's Letters from France in 1789</title> (London, 1880). Back in Norwich, he
+    contributed to <title>The Cabinet</title>, was a churchwarden at St Giles' and a member of William Taylor's
     Speculative Society. He introduced vaccination to the city and performed 106 operations 'for the 
-    stone' at the Norfolk and Norwich hospital between 1790-1814 .</p><p xmlns="http://www.tei-c.org/ns/1.0">According to the <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>, Rigby   was a pupil of Joseph Priestley
-    at Warrington and  a friend of Edward Jenner.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>.</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">C.B. Jewson, <title xmlns="http://www.tei-c.org/ns/1.0">The Jacobin City: A Portrait of Norwich in its Reaction to the French 
-    Revolution 1788-1802</title> (Glasgow: Blackie, 1975).</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-06-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-06-29" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-07-05" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-07-11" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-07-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-07-12" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-07-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-07-23" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-10-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-10-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-10-08" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-09-06" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-09-08" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    stone' at the Norfolk and Norwich hospital between 1790-1814 .</p>
+                        <p>According to the <title>DNB</title>, Rigby   was a pupil of Joseph Priestley
+    at Warrington and  a friend of Edward Jenner.</p>
+                    </note>
+                    <bibl type="other"><title>DNB</title>.</bibl>
+                    <bibl type="printedbook">C.B. Jewson, <title>The Jacobin City: A Portrait of Norwich in its Reaction to the French 
+    Revolution 1788-1802</title> (Glasgow: Blackie, 1975).</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

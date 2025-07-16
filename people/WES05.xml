@@ -1,7 +1,46 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="WES05" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Raphael Lamar</forename><surname xmlns="http://www.tei-c.org/ns/1.0">West</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1766"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1850"/><occupation xmlns="http://www.tei-c.org/ns/1.0">history painter</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">    In 1825 there are two encounters - one with West Junr in the company of J Taylor (who had known <persName xmlns="http://www.tei-c.org/ns/1.0" key="WES04">Benjamin West</persName>)
-    and one where West is linked to <persName xmlns="http://www.tei-c.org/ns/1.0" key="NOR01">Northcote</persName> and Sully. Both suggest West's son, Raphael Lamar West (1766–1850), history painter .   
-    A third entry in 1828, linking West to <persName xmlns="http://www.tei-c.org/ns/1.0" key="HOF01">Hofland</persName> and <persName xmlns="http://www.tei-c.org/ns/1.0" key="UWI02"/> (both painters) has been coded for Raphael West.
-    Other entries for West  have been coded as <persName xmlns="http://www.tei-c.org/ns/1.0" key="WES06">Thomas West</persName>.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WES05" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Raphael Lamar</forename>
+                        <surname>West</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1766">
+                        <placeName/>
+                    </birth>
+                    <death when="1850"/>
+                    <occupation>history painter</occupation>
+                    <note type="editorial"><p>    In 1825 there are two encounters - one with West Junr in the company of J Taylor (who had known <persName key="WES04">Benjamin West</persName>)
+    and one where West is linked to <persName key="NOR01">Northcote</persName> and Sully. Both suggest West's son, Raphael Lamar West (1766–1850), history painter .   
+    A third entry in 1828, linking West to <persName key="HOF01">Hofland</persName> and <persName key="UWI02"/> (both painters) has been coded for Raphael West.
+    Other entries for West  have been coded as <persName key="WES06">Thomas West</persName>.</p>
     
-    See his father, Benjamin West, in <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>.
-  </note><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"><date xmlns="http://www.tei-c.org/ns/1.0" when="1825-02-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1825-07-31" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-01-20" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    See his father, Benjamin West, in <title>DNB</title>.
+  </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,12 +1,46 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="MOO01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><forename xmlns="http://www.tei-c.org/ns/1.0">John</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Moore</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1729-12-07"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1802-02-21"/><occupation xmlns="http://www.tei-c.org/ns/1.0">physician</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">writer</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="ediorial">See <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>.
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="MOO01" sex="1">
+                    <persName>
+                        <forename>John</forename>
+                        <surname>Moore</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1729-12-07">
+                        <placeName/>
+                    </birth>
+                    <death when="1802-02-21"/>
+                    <occupation>physician</occupation>
+                    <occupation>writer</occupation>
+                    <note type="ediorial">See <title>DNB</title>.
    
    
-  <p xmlns="http://www.tei-c.org/ns/1.0"> There are many 'Moore' entries in the diary - see for example 1794, where there is a C Moore, a G Moore
+  <p> There are many 'Moore' entries in the diary - see for example 1794, where there is a C Moore, a G Moore
     (see 28.12.1794), James Moore, T. Moore, and Tho. Moore (1818). In 1795, Godwin notes a 'Jack
     and G Moore' - brothers? C Moore may be Cha. Moore who appears in 1789. Godwin meets a Moore in Ireland who is probably distinct from any of the 'English'
-    Moores. </p><p xmlns="http://www.tei-c.org/ns/1.0"> Godwin reads Dr John Moore <title xmlns="http://www.tei-c.org/ns/1.0">'On the French Revolution'</title> in 1795 - this being most likely: John Moore's <title xmlns="http://www.tei-c.org/ns/1.0">A view
+    Moores. </p><p> Godwin reads Dr John Moore <title>'On the French Revolution'</title> in 1795 - this being most likely: John Moore's <title>A view
     of the causes and progress of the French Revolution</title> (London: G. G. and J. Robinson, 1795). Dr
-    John Moore was a friend of <persName xmlns="http://www.tei-c.org/ns/1.0" key="WIL01">Helen Maria Williams</persName>, at whose house Godwin first records meeting Moore in
+    John Moore was a friend of <persName key="WIL01">Helen Maria Williams</persName>, at whose house Godwin first records meeting Moore in
     1788 and on several subsequent occasions - when he also uses the title Dr Moore. (The 1796 Diary notes state
     that he first meets Moore (with no prefix or initial) in 1788). MS. Abinger c. 2, fol. 87:	24 Jan. 1795  is a letter to Godwin saying that Lord Lauderdale expressed a desire to know 
     him (WG) and that he is invited to dine on Wednesday and the letter writer (Moore) will accompany him.  The signature is unclear but it
@@ -14,37 +48,46 @@
     1802, and Godwin records it as Dr Moore dies. This means that Godwin is using both plain Moore and
     Dr Moore to refer to J Moore. What is less clear is how far he reserves both for this person alone
     (there is a 'Moore' for example, between two T Moore's in 1802 after John Moore's death. But
-    that is the last plain 'Moore' until 1811). </p><p xmlns="http://www.tei-c.org/ns/1.0"> There are 50 plain 'Moore' entries, mostly before 1796 or after 1810. Those prior to 1802 we have assumed relate to Dr John Moore. 
+    that is the last plain 'Moore' until 1811). </p><p> There are 50 plain 'Moore' entries, mostly before 1796 or after 1810. Those prior to 1802 we have assumed relate to Dr John Moore. 
     For the later period it is not clear whether these are a single individual Moore, or whether the
     name is used for someone previously distinguished with an initial. The Moores who can be distinguished
     include: Dr John Moore, C Moore (also Cha Moore) who appears from 1789 to 1807 on 48 occasions;  G Moore who appears from 1794 to 1798 on 15 occasions; M
-    Moore who appears from 1794-1801 on 24 occasions and is probably the radical <persName xmlns="http://www.tei-c.org/ns/1.0" key="MOO02">Matthew Moore</persName> -see
-    Goodwin, <title xmlns="http://www.tei-c.org/ns/1.0">Friends of Liberty</title>). There seems to be a family link between several of the Moores, as suggested by 'H, C,
+    Moore who appears from 1794-1801 on 24 occasions and is probably the radical <persName key="MOO02">Matthew Moore</persName> -see
+    Goodwin, <title>Friends of Liberty</title>). There seems to be a family link between several of the Moores, as suggested by 'H, C,
     M, + M Moore call' (28.12.1794) Also in 1795 he enters: dine at dr Moore's , w. Ja. +
-    Chas (suggesting they are Moore's relatives - Charles, <persName xmlns="http://www.tei-c.org/ns/1.0" key="MOO07">Jack</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0" key="MOO04">Graham</persName>, and Francis are Dr Moore's sons) Jack and G Moore appear together (1795); Jas and C
-    Moore (1800); and H and J Moore (1801).There is also a<persName xmlns="http://www.tei-c.org/ns/1.0" key="MOO05"> J Moore</persName>, entered as Ja or Jas (although
+    Chas (suggesting they are Moore's relatives - Charles, <persName key="MOO07">Jack</persName>, <persName key="MOO04">Graham</persName>, and Francis are Dr Moore's sons) Jack and G Moore appear together (1795); Jas and C
+    Moore (1800); and H and J Moore (1801).There is also a<persName key="MOO05"> J Moore</persName>, entered as Ja or Jas (although
     there is also one enry in 1795 for Jack Moore) who appears from 1795-1819 on 31
-    occasions. There is also a James and <persName xmlns="http://www.tei-c.org/ns/1.0" key="MOO06">C Moore</persName> in 1800. Arthur Moore
-    (1800). H and J Moore (1801). Maj Moore (1807) </p><p xmlns="http://www.tei-c.org/ns/1.0"><persName xmlns="http://www.tei-c.org/ns/1.0" key="MOO03">Moore, Thomas</persName> (1779–1852), the Irish poet and diarist, <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>, first appears in the diary in 1802
+    occasions. There is also a James and <persName key="MOO06">C Moore</persName> in 1800. Arthur Moore
+    (1800). H and J Moore (1801). Maj Moore (1807) </p><p><persName key="MOO03">Moore, Thomas</persName> (1779–1852), the Irish poet and diarist, <title>DNB</title>, first appears in the diary in 1802
     (and is noted as a new contact in the 1796 Diary list), where there is a link with Curran; he
     reappears in 1806 at Philips's. He reappears twice in 1813, linked to Curran; once in 1816;
     three times in 1818, once linked to Hazlitt; one in 1819; twice in 1828, and once in 1832.
     Marshall and Locke both identify T Moore as the diarist and suggest that he is present at a
     meeting to celebrate Bulwer Lytton's election campaign in 1830, along with Roy, Augusta Leigh
     and Disraeli, but Godwin's record in 1832 is as follows: Bulwer’s , w. Ramoon Roy, Jerdan,
-    Boddington, T Moore.  </p><p xmlns="http://www.tei-c.org/ns/1.0">    On  this account there are three clearly identifiable Moore's - 1. Dr John Moore, until 1802, being Moore in
+    Boddington, T Moore.  </p><p>    On  this account there are three clearly identifiable Moore's - 1. Dr John Moore, until 1802, being Moore in
     1788 and then changing to Dr Moore (it is clear he moves from Moore to Dr Moore in respect of
     the same individual at HM Williams' on 11.12.1789 but we cannot be confident that Godwin
     subsequently uses the two names interchangeably, but the links between Moore and Lauderdale (see
-    <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>) suggest that he does in fact do this - see 6.6.1795 and 10.6.1795 when Moore is associated
+    <title>DNB</title>) suggest that he does in fact do this - see 6.6.1795 and 10.6.1795 when Moore is associated
     with Lauderdale,- see also 1.3.1796 when plain 'Moore is associated with Jas and C Moore, and
     possibly with Lauderdale. ); 2. Matthew Moore, the radical, entered as M Moore; and 3.  T. Moore, the
-    diarist.</p><p xmlns="http://www.tei-c.org/ns/1.0">In addition, it can be said with a reasonable degree of confidence that John Moore's sons can be identified through initials and association with Moore and have
+    diarist.</p><p>In addition, it can be said with a reasonable degree of confidence that John Moore's sons can be identified through initials and association with Moore and have
   been coded as such. See individual entries for supporting - albeit mostly internal - evidence. 
-  Arthur, Major, Dr and Mrs Moore (1831),  H, and J Moore, Moore (broker) and Moore (Dublin) have all been left uncoded.</p><p xmlns="http://www.tei-c.org/ns/1.0">MS. Abinger c. 9 , fol. 104: 8 May 1806, is a letter from a Mr Moore who looks forward to seeing Godwin and 
+  Arthur, Major, Dr and Mrs Moore (1831),  H, and J Moore, Moore (broker) and Moore (Dublin) have all been left uncoded.</p><p>MS. Abinger c. 9 , fol. 104: 8 May 1806, is a letter from a Mr Moore who looks forward to seeing Godwin and 
   regrets the restraint on their relationship caused by their distance apart and Mr Moore's business responsibilities. This seems to relate to a dinner at Godwin attended by Jas Moore.
   It is in very different handwriting from the letter from Thomas Moore, MS. Abinger c. 12, fol.  23: 5 May 1818.  This letter refers to the posibility of Godwin calling at 
   Sloperton, the home in Calne that Thomas Moore lived in for the rest of his life after the death of his first child (and conveniently close to his now patron, Lord Landsdown.
   A similar letter is to be found in MS. Abinger c. 15, fol. 53: n.d.  There are also two erarlier letters from Thomas Moore, MS. Abinger c. 11, fols. 	71-2: 8 Nov. 1811 and 
-  MS. Abinger c. 11, fols.	75-6: 21 Nov. 1811.  In this last, Moore apologises for not being able to give Godwin any of his work as he is bound by contract for all he does to Mr Power in Dublin.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook"> Albert Goodwin, <title xmlns="http://www.tei-c.org/ns/1.0">The friends of liberty: the English democratic movement in the 
-    age of the French Revolution</title> (London: Hutchinson, 1979).</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"><date xmlns="http://www.tei-c.org/ns/1.0" when="1788-09-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1788-11-11" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"><date xmlns="http://www.tei-c.org/ns/1.0" when="1789-03-23" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1789-05-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1789-05-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1789-12-11" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"><date xmlns="http://www.tei-c.org/ns/1.0" when="1790-05-07" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-12-23" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-01-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-02-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-10-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-11-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-11-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-11-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-11-23" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-01-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-01-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-02-03" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-02-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-02-13" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-02-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-02-22" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-02-23" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-03-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-04-01" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-04-05" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-05-10" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-06-06" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-06-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-07-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-10-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-10-14" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-10-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-11-06" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-04" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-02-17" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-03-01" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-03-05" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-04-16" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-07-31" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-09-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-10-04" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-01-22" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-02-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-02-25" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-04-30" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-05-14" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-08-06" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-08-12" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-01-15" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-04-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-05-27" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-10-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-12-31" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-05-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-06-10" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-07-17" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-10-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-12-22" n="venue" type="nah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-01-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-01-24" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-01-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-03-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-06-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-07-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-07-12" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-05-10" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-02-21" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+  MS. Abinger c. 11, fols.	75-6: 21 Nov. 1811.  In this last, Moore apologises for not being able to give Godwin any of his work as he is bound by contract for all he does to Mr Power in Dublin.</p></note>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                    <bibl type="printedbook"> Albert Goodwin, <title>The friends of liberty: the English democratic movement in the 
+    age of the French Revolution</title> (London: Hutchinson, 1979).</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

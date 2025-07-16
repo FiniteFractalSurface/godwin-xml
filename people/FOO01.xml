@@ -1,13 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="FOO01" sex="2"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Maria</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Foote</surname><addName xmlns="http://www.tei-c.org/ns/1.0">Maria Stanhope, countess of Harrington</addName></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1797-07-27"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1867-12-27"/><occupation xmlns="http://www.tei-c.org/ns/1.0">actress</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Godwin noted Maria Foote's marriage 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="FOO01" sex="2">
+                    <persName>
+                        <roleName/>
+                        <forename>Maria</forename>
+                        <surname>Foote</surname>
+                        <addName>Maria Stanhope, countess of Harrington</addName>
+                    </persName>
+                    <birth when="1797-07-27">
+                        <placeName/>
+                    </birth>
+                    <death when="1867-12-27"/>
+                    <occupation>actress</occupation>
+                    <note type="editorial">
+                        <p>Godwin noted Maria Foote's marriage 
     but it is possible that some earlier Foote entries also refer to
-    her (such as the 'Foote' who attended the first night of <title xmlns="http://www.tei-c.org/ns/1.0">William 
+    her (such as the 'Foote' who attended the first night of <title>William 
     Tell</title> at Drury Lane in May 1825).  Foote was a leading actress, with a 
       somewhat colourful private life, who had sued a previous suitor for breach of contract when he refused to marry her, 
       claiming that he had only discovered her previous liaison ( and the two children from it). She returned to the stage (having been awarded £3,000
       damages) in 1825, and drew large audiences.  She eventually married Charles Stanhope, 4th Earl of 
-      Harrington, in 1831 (hence Godwin's note) and retired from public life.  The <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> suggests that 'unable to move in society, (she) lived in virtual seclusion.</p><p xmlns="http://www.tei-c.org/ns/1.0">It is possible that Godwin 
+      Harrington, in 1831 (hence Godwin's note) and retired from public life.  The <title>DNB</title> suggests that 'unable to move in society, (she) lived in virtual seclusion.</p>
+                        <p>It is possible that Godwin 
     knew some of her family. There are references to Foote on 3 May 1802, and 20 August 1814. 
     While the latter is the year that Maria comes to London and appears at Covent Garden, the former must be to another person. There is also a reference on 
   11 May 1825 to Footes at the theatre, which suggests some component of Maria's family, possibly including herself.  
-  Maria's father was Samuel T. Foote, a theatre manager who ran a theatre in Plymouth.  Given Godwin's interest in the theatre it is possible he knew the father.</p><p xmlns="http://www.tei-c.org/ns/1.0"> There is also an entry to J Foote on 1 May 1809, and this may refer to the same person as the two entries for Jesse Foote in 1819 and 1821. 
-   This may be a relative of Maria Foote, but none is noted in the <title xmlns="http://www.tei-c.org/ns/1.0">DNB.</title>.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-04-07" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+  Maria's father was Samuel T. Foote, a theatre manager who ran a theatre in Plymouth.  Given Godwin's interest in the theatre it is possible he knew the father.</p>
+                        <p> There is also an entry to J Foote on 1 May 1809, and this may refer to the same person as the two entries for Jesse Foote in 1819 and 1821. 
+   This may be a relative of Maria Foote, but none is noted in the <title>DNB.</title>.</p>
+                    </note>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

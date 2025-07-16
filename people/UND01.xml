@@ -1,6 +1,51 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="UND01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Thomas Richard</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Underwood</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1772-02-24"><placeName xmlns="http://www.tei-c.org/ns/1.0"> Holborn, London</placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1835-07-11"/><occupation xmlns="http://www.tei-c.org/ns/1.0">watercolour painter</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">geologist</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Possibly <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> Underwood, Thomas Richard (1772–1835),
-    watercolour painter and geologist. From <title xmlns="http://www.tei-c.org/ns/1.0">The Life of Thomas Holcroft</title>: ‘Underwood, a young artist, called to see my pictures. He was full of admiration, but he is a youth.’ This 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="UND01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Thomas Richard</forename>
+                        <surname>Underwood</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1772-02-24">
+                        <placeName> Holborn, London</placeName>
+                    </birth>
+                    <death when="1835-07-11"/>
+                    <occupation>watercolour painter</occupation>
+                    <occupation>geologist</occupation>
+                    <note type="editorial">
+                        <p>Possibly <title>DNB</title> Underwood, Thomas Richard (1772–1835),
+    watercolour painter and geologist. From <title>The Life of Thomas Holcroft</title>: ‘Underwood, a young artist, called to see my pictures. He was full of admiration, but he is a youth.’ This 
     Underwood was trapped in France in 1803 and did not return to England until 1814 and this matches the dates. It does not seem as if this Underwood has any connection with Hays' Underwood, the 
-    publisher, Underwood and Black, who traded from John Murray's old shop in Fleet St  until 1813 (see Hays' <title xmlns="http://www.tei-c.org/ns/1.0">Letters</title>).</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Thomas Holcroft, <title xmlns="http://www.tei-c.org/ns/1.0">The life of Thomas Holcroft, continued by William Hazlitt</title>, ed. by Elbridge Colby, 2 vols 
-  (London: Constable &amp; Co., 1925) p. 177.</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook"><title xmlns="http://www.tei-c.org/ns/1.0">The Correspondence (1779-1843) of Mary Hays, British Novelist</title>, ed. 
-  by Marilyn L. Brooks (Lewiston, Queenston and Lampeter: Edwin Mellen Press, 2004).</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>.</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-12-14" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-01-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-01-20" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-10-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-12-20" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-02-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-04-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-04-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-07-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-08-08" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-03-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-12-28" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-01-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-06-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-10-29" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-10-06" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-03-23" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-01-12" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-01-14" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-01-15" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-07-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-07-17" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-06-03" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"><date xmlns="http://www.tei-c.org/ns/1.0" when="1818-06-05" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1818-06-06" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"><date xmlns="http://www.tei-c.org/ns/1.0" when="1819-06-03" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    publisher, Underwood and Black, who traded from John Murray's old shop in Fleet St  until 1813 (see Hays' <title>Letters</title>).</p>
+                    </note>
+                    <bibl type="printedbook">Thomas Holcroft, <title>The life of Thomas Holcroft, continued by William Hazlitt</title>, ed. by Elbridge Colby, 2 vols 
+  (London: Constable &amp; Co., 1925) p. 177.</bibl>
+                    <bibl type="printedbook"><title>The Correspondence (1779-1843) of Mary Hays, British Novelist</title>, ed. 
+  by Marilyn L. Brooks (Lewiston, Queenston and Lampeter: Edwin Mellen Press, 2004).</bibl>
+                    <bibl type="other"><title>DNB</title>.</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

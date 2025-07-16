@@ -1,14 +1,68 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="WOO02" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0"/><surname xmlns="http://www.tei-c.org/ns/1.0">Wood</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1000"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0"> See the Letter from James Wood 11 August 1801.
-Godwin writes trying to locate <persName xmlns="http://www.tei-c.org/ns/1.0" key="HOM01">John Home</persName>.   In July 1801 'J J G and Wood call', and Godwin notes
- 'talk of Home and Lumsden' .  In 1801, a Wood might be linked with <persName xmlns="http://www.tei-c.org/ns/1.0" key="NOR01">Northcote</persName> at least twice, and the <persName xmlns="http://www.tei-c.org/ns/1.0" key="LAM01">Lambs</persName>, but these 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WOO02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename/>
+                        <surname>Wood</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName/>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation/>
+                    <occupation/>
+                    <note type="editorial">
+                        <p> See the Letter from James Wood 11 August 1801.
+Godwin writes trying to locate <persName key="HOM01">John Home</persName>.   In July 1801 'J J G and Wood call', and Godwin notes
+ 'talk of Home and Lumsden' .  In 1801, a Wood might be linked with <persName key="NOR01">Northcote</persName> at least twice, and the <persName key="LAM01">Lambs</persName>, but these 
  appearances are when a number  of people call on Godwin and we cannot be sure that they are not entirely individual 
- calls. There seems to be some connection to <persName xmlns="http://www.tei-c.org/ns/1.0" key="WOL02">Wolcot</persName>, 1807. </p><p xmlns="http://www.tei-c.org/ns/1.0">1802, Godwin reads Wood (cala) 'Hist' on several occasions - as yet unidentified, but possibly related to his work on Chaucer.
-Uncoded: Dr Wood, 1832</p><p xmlns="http://www.tei-c.org/ns/1.0">Wood, Printer (1816) might be Charles Wood, printer, 18/19 Poppins Ct, Fleet Street, the only Wood registered in London 
-as a printer in this period.</p><p xmlns="http://www.tei-c.org/ns/1.0">The Woods are problematic because there are several of them, encapsulating a relatively 
-large time span (1790 - 1834), appearing with several networks/circles, and including many individual visits and calls.  </p><p xmlns="http://www.tei-c.org/ns/1.0">The <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> has no clear candidates for Godwin's Wood. The nearest possibility is Wood, Sir Matthew, 
+ calls. There seems to be some connection to <persName key="WOL02">Wolcot</persName>, 1807. </p>
+                        <p>1802, Godwin reads Wood (cala) 'Hist' on several occasions - as yet unidentified, but possibly related to his work on Chaucer.
+Uncoded: Dr Wood, 1832</p>
+                        <p>Wood, Printer (1816) might be Charles Wood, printer, 18/19 Poppins Ct, Fleet Street, the only Wood registered in London 
+as a printer in this period.</p>
+                        <p>The Woods are problematic because there are several of them, encapsulating a relatively 
+large time span (1790 - 1834), appearing with several networks/circles, and including many individual visits and calls.  </p>
+                        <p>The <title>DNB</title> has no clear candidates for Godwin's Wood. The nearest possibility is Wood, Sir Matthew, 
 first baronet (1768–1843), druggist and politician, who became Lord Mayor of London, 
 and was a ferverent supporter of Queen Caroline during the 'affair'.  He was also 
-responsible as Sheriff for arresting Burdett in 1810, despite his sympathies for the reformist cause. </p><p xmlns="http://www.tei-c.org/ns/1.0">A further possibility for some of the later entries is Wood, William (1774–1857), conchologist and 
+responsible as Sheriff for arresting Burdett in 1810, despite his sympathies for the reformist cause. </p>
+                        <p>A further possibility for some of the later entries is Wood, William (1774–1857), conchologist and 
 bookseller, who opened a bookshop in the Strand in 1815 and would have been Godwin's 
 near neighbour after 1822. There is an 1824 entry for Wood, Bookseller, which seems reasonably certain.  
-It is less clear if subsequent Wood entries might include this Wood.</p><p xmlns="http://www.tei-c.org/ns/1.0">Wood and Woods after 1830 are coded as connected to <persName xmlns="http://www.tei-c.org/ns/1.0" key="WOO03">Mrs Somerville Wood</persName> where the context is appropriate.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"><title xmlns="http://www.tei-c.org/ns/1.0">MS. Abinger c. 7, fols. 54r, 55v: 	11 Aug. 1801</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"><date xmlns="http://www.tei-c.org/ns/1.0" when="1790-03-05" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-12-17" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-06-08" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-01-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-05-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-05-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-06-07" n="notVenue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-06-14" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-06-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-07-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-07-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-07-27" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-08-15" n="notVenue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-08-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-09-06" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-09-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-10-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-11-01" n="notVenue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-11-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-11-22" n="notVenue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-11-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-12-06" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-12-27" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-01-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-02-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-03-06" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-03-14" n="notVenue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-03-23" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-04-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-04-30" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-05-14" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-04-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-05-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-05-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-08-09" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-06-13" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-06-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-06-16" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-06-19" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-06-20" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-06-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-12-03" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-12-03" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-01-13" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-07-06" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-07-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-07-10" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-09-22" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-04-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-06-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-08-03" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+It is less clear if subsequent Wood entries might include this Wood.</p>
+                        <p>Wood and Woods after 1830 are coded as connected to <persName key="WOO03">Mrs Somerville Wood</persName> where the context is appropriate.</p>
+                    </note>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                    <bibl type="MS">
+                        <title>MS. Abinger c. 7, fols. 54r, 55v: 	11 Aug. 1801</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

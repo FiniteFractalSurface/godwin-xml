@@ -1,21 +1,68 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="WHI06" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">James</forename><surname xmlns="http://www.tei-c.org/ns/1.0">White</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1835-01-23"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">This entry is for James White of Isleworth who dies on 23 January 1835, and who seems closely related to George White.</p><p xmlns="http://www.tei-c.org/ns/1.0"> We have distinguished <persName xmlns="http://www.tei-c.org/ns/1.0" key="LAM01">Charles Lamb's</persName> friend <persName xmlns="http://www.tei-c.org/ns/1.0" key="WHI01">James White</persName> who dies in 1820 from other James White entries
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WHI06" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>James</forename>
+                        <surname>White</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName/>
+                    </birth>
+                    <death when="1835-01-23"/>
+                    <occupation/>
+                    <note type="editorial">
+                        <p>This entry is for James White of Isleworth who dies on 23 January 1835, and who seems closely related to George White.</p>
+                        <p> We have distinguished <persName key="LAM01">Charles Lamb's</persName> friend <persName key="WHI01">James White</persName> who dies in 1820 from other James White entries
      linked to Lamb. Things are 
     complicated by Lamb's association with other Whites - especially James White of Isleworth who calls on Godwin 
-    seemingly with Lamb on 7 July 1822; and the <persName xmlns="http://www.tei-c.org/ns/1.0" key="WHI07">White</persName> who calls from Lamb on 16 May 1822.</p><p xmlns="http://www.tei-c.org/ns/1.0">There is a report in <title xmlns="http://www.tei-c.org/ns/1.0">The Times</title> of 30 November 1835 of the death of James White, 
+    seemingly with Lamb on 7 July 1822; and the <persName key="WHI07">White</persName> who calls from Lamb on 16 May 1822.</p>
+                        <p>There is a report in <title>The Times</title> of 30 November 1835 of the death of James White, 
     late of Isleworth on 23 November 1835 at the age of 63. 'On the 23d inst., 41 Thanet-cottage, Park-village, James White, Esq., late of Isleworth, in the
     63d year of his age.' There are a number of direct reverences to White of
-    Isleworth but it remains unclear whether Godwin is distinguishing them systematically from Jas White or J White.</p><p xmlns="http://www.tei-c.org/ns/1.0">The question from the 1820s is whether 'Jas White' and 'White, Isleworth' are 
-    the same, as <title xmlns="http://www.tei-c.org/ns/1.0">the Times</title> suggests - the alternative reading is that Godwin might be 
+    Isleworth but it remains unclear whether Godwin is distinguishing them systematically from Jas White or J White.</p>
+                        <p>The question from the 1820s is whether 'Jas White' and 'White, Isleworth' are 
+    the same, as <title>the Times</title> suggests - the alternative reading is that Godwin might be 
     distinguishing them, describing James White of Isleworth as 'White, Isleworth'
     to distinguish him from the other James White.  For example,  
     Godwin writes to 'White, Isleworth' on 7 January 1824 and 2 days later notes 'Jas White
-    at tea'</p><p xmlns="http://www.tei-c.org/ns/1.0"> A Geo White often appears with the Isleworth White, eg.
+    at tea'</p>
+                        <p> A Geo White often appears with the Isleworth White, eg.
     4 September 1825: 'Dine at White’s, Isleworth , w. G Whites, Millers, Hills, M W S and W:'
     And this Geo White often appears with Jas White:
     28 December 1832: 'Dine at Geo. White’s , w. Anthony and Jas Whites and femmes'
     Both Isleworth and Jas Whites appear most frequently in 1824 and 1825 and 
     that they both often appear alongside Geo White, suggesting that
     they may be the same person whom Godwin notes inconsistently.
-    </p><p xmlns="http://www.tei-c.org/ns/1.0">The strongest basis for thinking that <persName xmlns="http://www.tei-c.org/ns/1.0" key="WHI07">Jas White</persName> after 1820 and White (Isleworth) 
+    </p>
+                        <p>The strongest basis for thinking that <persName key="WHI07">Jas White</persName> after 1820 and White (Isleworth) 
     are different people is the consistency with which Godwin continues to record their 
-    distinctive names.  We have, accordingly, created this separate file for James White of Isleworth.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="journalism"><title xmlns="http://www.tei-c.org/ns/1.0">The Times</title>, 30 November 1835.</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"><date xmlns="http://www.tei-c.org/ns/1.0" when="1822-07-27" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"><date xmlns="http://www.tei-c.org/ns/1.0" when="1823-08-13" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1823-12-19" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1823-12-21" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-01-07" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-01-26" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-04-29" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-07-03" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-07-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-07-08" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-07-19" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-08-06" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-09-15" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-09-19" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-11-25" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"><date xmlns="http://www.tei-c.org/ns/1.0" when="1825-01-09" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1825-01-12" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1825-05-02" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1825-05-04" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1825-06-09" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1825-07-03" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1825-07-19" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1825-08-25" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1825-09-04" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"><date xmlns="http://www.tei-c.org/ns/1.0" when="1826-02-16" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1826-06-23" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1826-06-24" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1826-12-31" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-07-03" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-04-19" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-05-24" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-07-09" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-11-23" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    distinctive names.  We have, accordingly, created this separate file for James White of Isleworth.</p>
+                    </note>
+                    <bibl type="journalism"><title>The Times</title>, 30 November 1835.</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

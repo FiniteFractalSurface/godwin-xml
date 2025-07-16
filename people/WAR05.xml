@@ -1,12 +1,49 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="WAR05" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">John</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Warner</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1736"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1800"/><occupation xmlns="http://www.tei-c.org/ns/1.0">writer</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">Anglican minister</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">  Warner is the last name under 1796 on the 1796 lists and the entry comes on 25 December
-    of that year:<lb xmlns="http://www.tei-c.org/ns/1.0"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WAR05" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>John</forename>
+                        <surname>Warner</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1736">
+                        <placeName/>
+                    </birth>
+                    <death when="1800"/>
+                    <occupation>writer</occupation>
+                    <occupation>Anglican minister</occupation>
+                    <note type="editorial">
+                        <p>  Warner is the last name under 1796 on the 1796 lists and the entry comes on 25 December
+    of that year:<lb/>
     
-    'Dine at H Tooke’s, w. Dyson, Dr Warner &amp; Philip Courtney:'<lb xmlns="http://www.tei-c.org/ns/1.0"/>
+    'Dine at H Tooke’s, w. Dyson, Dr Warner &amp; Philip Courtney:'<lb/>
     
-    The Tooke connection allows him to be identified as John Warner: in a footnote to <title xmlns="http://www.tei-c.org/ns/1.0">Diversions 
+    The Tooke connection allows him to be identified as John Warner: in a footnote to <title>Diversions 
     of Purley</title>, Tooke refers to 'my much valued and valuable friend Dr. Warner, the very ingenious 
-    author of METRONARISTON...'. <title xmlns="http://www.tei-c.org/ns/1.0">Metronariston: or, A new pleasure recommended : in a dissertation 
-    upon a part of Greek and Latin prosody</title> was published by Joseph Johnson in 1797. </p><p xmlns="http://www.tei-c.org/ns/1.0">In <title xmlns="http://www.tei-c.org/ns/1.0">Memoirs of John Horne Tooke</title>,  Alexander Stephens provides the following<lb xmlns="http://www.tei-c.org/ns/1.0"/>:
+    author of METRONARISTON...'. <title>Metronariston: or, A new pleasure recommended : in a dissertation 
+    upon a part of Greek and Latin prosody</title> was published by Joseph Johnson in 1797. </p>
+                        <p>In <title>Memoirs of John Horne Tooke</title>,  Alexander Stephens provides the following<lb/>:
     
     'DR. WARNER. This gentleman, after the usual course of studies, at one of our universities, entered into 
     holy orders, and became a popular preacher at Tavistock Chapel. He afterwards repaired to France, in 
@@ -18,15 +55,17 @@
     great respect. Either a print or drawing of him was hung up in one of the parlours, and he appeared
     to have been a great favourite. When Mr. Tooke advertised his philological work, he transmitted
     him a very handsome sum of money by way of subscription, and at his death left him a large silver
-    cup.'</p><p xmlns="http://www.tei-c.org/ns/1.0"> These accounts might not tally - the second seems to imply that he died fairly soon after the
+    cup.'</p>
+                        <p> These accounts might not tally - the second seems to imply that he died fairly soon after the
    French revolution. The dates entered above (1736-1800) come from the OLIS entry for 
-   <title xmlns="http://www.tei-c.org/ns/1.0">Metronariston</title>. While there is a risk that we are conflating two different  Warners, perhaps 
+   <title>Metronariston</title>. While there is a risk that we are conflating two different  Warners, perhaps 
     brothers, who both knew Tooke, John Warner has currently been taken as the main Warner in the diary, 
     almost always appearing at Tooke's. Philip Warner has been left uncoded and the 'Warners' entry in 
     1798 provides further evidence that there is more than one Warner in the diary. The two entries in 
     1804, after John Warner's death, have been left uncoded - their context is also markedly dissimilar
     ('Alvanley's chambers, bail w. Warner' on 27 January and 'Westminster Hall, w. Warner; adv. Morris 
-    &amp; Agar' on 1 February) from the previous entries at Tooke's.</p><p xmlns="http://www.tei-c.org/ns/1.0">Those entries coded are:
+    &amp; Agar' on 1 February) from the previous entries at Tooke's.</p>
+                        <p>Those entries coded are:
     
     • 1 -- dr warner
     o 1796-12-25 - 'Dine at H Tooke’s, w. Dyson, Dr Warner &amp; Philip Courtney:
@@ -46,5 +85,12 @@
     o	1798-05-27 – dine at H Tooke's , w. Oxfords, Sloper, 3 Banks, Burdett, Maxwel, Walker, Fergusson, Scotts, Vaughan, Rogers, Tooke, Harwood, Warners, Parrys, Frend, Bonney, Maltby &amp; J Richter .
         
    
-</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Alexander Stephens, <title xmlns="http://www.tei-c.org/ns/1.0">Memoirs of John Horne Tooke: Interspersed with Original 
-    Documents</title> (London: Joseph Johnson, 1813), vol. 2, p288.    </bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-12-25" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-07-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-12-24" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-01-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-03-05" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-04-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-05-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-07-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-09-02" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-04-14" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-06-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-07-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-12-01" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+</p>
+                    </note>
+                    <bibl type="printedbook">Alexander Stephens, <title>Memoirs of John Horne Tooke: Interspersed with Original 
+    Documents</title> (London: Joseph Johnson, 1813), vol. 2, p288.    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

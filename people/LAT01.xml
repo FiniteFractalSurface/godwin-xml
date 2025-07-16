@@ -1,16 +1,57 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="LAT01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Murray</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Lathrop</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1000"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0"> Godwin lists 'Lathrop' in his list of names under 1802.  The diary shows 
-    2 mentions of 'Lathorp' (note spelling) in 1802, and 1 'Lathorpe' in the same year.</p><p xmlns="http://www.tei-c.org/ns/1.0">On 6 July  1802 the Morning Chronicle reported,
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="LAT01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Murray</forename>
+                        <surname>Lathrop</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName/>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation/>
+                    <note type="editorial"><p> Godwin lists 'Lathrop' in his list of names under 1802.  The diary shows 
+    2 mentions of 'Lathorp' (note spelling) in 1802, and 1 'Lathorpe' in the same year.</p><p>On 6 July  1802 the Morning Chronicle reported,
  'On Saturday a second examination of the claioms of  Mr. King on the bankrupt estate of 
  Lathrop (the Portland Bank affairs) took place at the Guildhall.  Out of the claims by Mr. King
  to the amount of about 7000 l. the commissioners only allowed 188 l?.
  In the course of the business, Mr. Agar. counsel for  Lathrop, took occasion to state that notes had been issued
  under the partnership nominally to the amount of 130,000l.  Several holders of notes claimed, but the confederation of them
- was postponed, and the holders had no vote in the choice of assignees.  Three respectable gentleman were at last appointed.'</p><p xmlns="http://www.tei-c.org/ns/1.0">According to the <title xmlns="http://www.tei-c.org/ns/1.0">Derby Mercury</title> 21 October 1802, a Lathrop Murray was being examined for Bankruptcy in 
+ was postponed, and the holders had no vote in the choice of assignees.  Three respectable gentleman were at last appointed.'</p><p>According to the <title>Derby Mercury</title> 21 October 1802, a Lathrop Murray was being examined for Bankruptcy in 
   1802, where he was 'rendered much the object of public curiosity' due to his connection
-  with John 'Jew' King.</p><p xmlns="http://www.tei-c.org/ns/1.0">The references to ‘King’ in the diary consistently refer to <persName xmlns="http://www.tei-c.org/ns/1.0" key="KIN01">John King</persName> (radical and money lender) 
+  with John 'Jew' King.</p><p>The references to ‘King’ in the diary consistently refer to <persName key="KIN01">John King</persName> (radical and money lender) 
 [formerly Jacob Rey] (c.1753–1824).  In the 1802 entries, Godwin dines at King's , 'w. Lathorp, Derval, Fowden, Fitzgerald and Stacy ' and another time with Prescot, Ling and Plowdens 5; adv. Lathorp, Davis and abbé'.
 Given this evidence, it's likely that this is the same Lathrop Murray.</p>
 
 No DNB entry.
 
-  </note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="journalism"><title xmlns="http://www.tei-c.org/ns/1.0">Morning Chronicle</title> 6 July 1802 </bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="journalism"><title xmlns="http://www.tei-c.org/ns/1.0">Derby Mercury</title> 21 October 1802</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+  </note>
+                    <bibl type="journalism"><title>Morning Chronicle</title> 6 July 1802 </bibl>
+                    <bibl type="journalism"><title>Derby Mercury</title> 21 October 1802</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

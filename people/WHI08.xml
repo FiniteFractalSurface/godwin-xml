@@ -1,12 +1,62 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="WHI08" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Luke</forename><surname xmlns="http://www.tei-c.org/ns/1.0">White</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1740"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1824"/><occupation xmlns="http://www.tei-c.org/ns/1.0">publisher</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">bookseller</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Luke White was an exceptionally successful bookseller based in Dublin. He was the Dublin publisher
-    of <title xmlns="http://www.tei-c.org/ns/1.0">Political Justice</title>. He was later involved in politics and, after a number of failed campaigns at enormous expense, was elected in 1818 and supported 
-  catholic emancipation although he was himself protestant.</p><p xmlns="http://www.tei-c.org/ns/1.0">Later entries in 1807, and 1808 are mostly letters.
-      (See the mention of Luke White of Dublin in MS. Abinger c. 11, fol. 99:	1812 - where he appears as a possible source of money to support Godwin in 1812)</p><p xmlns="http://www.tei-c.org/ns/1.0">See also William West, <title xmlns="http://www.tei-c.org/ns/1.0">Fifty Years' Recollections of an Old Bookseller</title>: 'George Robinson, 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WHI08" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Luke</forename>
+                        <surname>White</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1740">
+                        <placeName/>
+                    </birth>
+                    <death when="1824"/>
+                    <occupation>publisher</occupation>
+                    <occupation>bookseller</occupation>
+                    <note type="editorial">
+                        <p>Luke White was an exceptionally successful bookseller based in Dublin. He was the Dublin publisher
+    of <title>Political Justice</title>. He was later involved in politics and, after a number of failed campaigns at enormous expense, was elected in 1818 and supported 
+  catholic emancipation although he was himself protestant.</p>
+                        <p>Later entries in 1807, and 1808 are mostly letters.
+      (See the mention of Luke White of Dublin in MS. Abinger c. 11, fol. 99:	1812 - where he appears as a possible source of money to support Godwin in 1812)</p>
+                        <p>See also William West, <title>Fifty Years' Recollections of an Old Bookseller</title>: 'George Robinson, 
     Senr., might be considered the Prince, nay, the King of Booksellers .... He was a most social 
     companion and according to the habits of that period, was said to be a six bottle man, sometimes
     knocking up, as it was termed, some of his Irish and Scotch friends, and Correspondents,
     among whom were the celebrated Luke White, John Archer, and Patrick Byrne of Dublin...'
-    Several of Godwin's referencess to White are alongside <persName xmlns="http://www.tei-c.org/ns/1.0" key="ROB01">Robinson</persName> so this strengthens the case for identification.  </p><p xmlns="http://www.tei-c.org/ns/1.0">There is a copy of a letter in January 1807 from Godwin reminding White that they had met on several occasions at George Robinson's and asking for a loan, and 
+    Several of Godwin's referencess to White are alongside <persName key="ROB01">Robinson</persName> so this strengthens the case for identification.  </p>
+                        <p>There is a copy of a letter in January 1807 from Godwin reminding White that they had met on several occasions at George Robinson's and asking for a loan, and 
       a letter from Luke White in July 1807 confirms the Dublin base, and it enclosed a bill for £200 towards Godwin's enterprise - and also mentioned that his 
-      secret (about Godwin's ownership of the bookshop) was secure with White. There is also a letter from J Menzies in Dublin to <persName xmlns="http://www.tei-c.org/ns/1.0" key="PLA02">Francis Place</persName>, 
-      dated June 20 (no year) in which he says he met White who indicated that he would give no money.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">MS. Abinger c. 18, fols. 85-6: 20 Jan. 1807</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">MS. Abinger c. 44, fol. 	31: 	20 June</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 10, fol. 	50: 	25 July 1807</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">MS. Abinger c. 11, fol. 99:	1812</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">William West, <title xmlns="http://www.tei-c.org/ns/1.0">Fifty Years’ Recollections of an Old Bookseller</title>, 2nd ed., (London, 1837).</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"><date xmlns="http://www.tei-c.org/ns/1.0" when="1789-01-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1789-01-24" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1789-01-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1789-07-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1789-07-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1789-08-29" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"><date xmlns="http://www.tei-c.org/ns/1.0" when="1790-05-11" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-05-11" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-01-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-01-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-07-29" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-01-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-01-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-01-22" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+      secret (about Godwin's ownership of the bookshop) was secure with White. There is also a letter from J Menzies in Dublin to <persName key="PLA02">Francis Place</persName>, 
+      dated June 20 (no year) in which he says he met White who indicated that he would give no money.</p>
+                    </note>
+                    <bibl type="MS">MS. Abinger c. 18, fols. 85-6: 20 Jan. 1807</bibl>
+                    <bibl type="MS">MS. Abinger c. 44, fol. 	31: 	20 June</bibl>
+                    <bibl type="MS"> MS. Abinger c. 10, fol. 	50: 	25 July 1807</bibl>
+                    <bibl type="MS">MS. Abinger c. 11, fol. 99:	1812</bibl>
+                    <bibl type="printedbook">William West, <title>Fifty Years’ Recollections of an Old Bookseller</title>, 2nd ed., (London, 1837).</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

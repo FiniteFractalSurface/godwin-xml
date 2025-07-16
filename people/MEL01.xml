@@ -1,6 +1,49 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="MEL01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">William</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Lamb</surname><addName xmlns="http://www.tei-c.org/ns/1.0">second Viscount Melbourne</addName></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1779-03-15"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1848-11-24"/><occupation xmlns="http://www.tei-c.org/ns/1.0">prime minister</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">politician</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial">See <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>.
-   <p xmlns="http://www.tei-c.org/ns/1.0"> Godwin first meets him (as W Lamb) at his country house, Brocket, still in the company
-    of <persName xmlns="http://www.tei-c.org/ns/1.0" key="LAM04">Lady Caroline Lamb</persName>, from whom Lamb finally broke in 1825. He meets them together in 1823; he
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="MEL01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>William</forename>
+                        <surname>Lamb</surname>
+                        <addName>second Viscount Melbourne</addName>
+                    </persName>
+                    <birth when="1779-03-15">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1848-11-24"/>
+                    <occupation>prime minister</occupation>
+                    <occupation>politician</occupation>
+                    <note type="editorial">See <title>DNB</title>.
+   <p> Godwin first meets him (as W Lamb) at his country house, Brocket, still in the company
+    of <persName key="LAM04">Lady Caroline Lamb</persName>, from whom Lamb finally broke in 1825. He meets them together in 1823; he
     writes to Lamb in 1826; and calls on him and writes to him on several occasions in 1828. Godwin refers in 1828 to the death of Melbourne's
     father, and subsequent references are to Melbourne rather than W Lamb. Thereafter it is clear that Godwin is communicating with Melbourne with
-    repect to the prospect and retention of his office. </p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"><date xmlns="http://www.tei-c.org/ns/1.0" when="1822-04-03" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"><date xmlns="http://www.tei-c.org/ns/1.0" when="1823-06-13" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"><date xmlns="http://www.tei-c.org/ns/1.0" when="1826-03-23" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-01-25" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-01-27" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-02-10" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-02-19" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-11-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-12-02" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-01-12" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-01-14" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-01-18" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-02-21" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-08-23" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-08-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-08-27" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-09-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-09-14" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-09-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-09-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-09-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-09-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-09-24" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-10-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-10-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-11-15" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-04-18" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"><date xmlns="http://www.tei-c.org/ns/1.0" when="1836-02-22" n="notVenue" type="ah"/></ab></ab></person></listPerson>
+    repect to the prospect and retention of his office. </p></note>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

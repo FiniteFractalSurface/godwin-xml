@@ -1,8 +1,45 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="ORM01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Cosmo</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Orme</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1780"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1859-08-12"/><occupation xmlns="http://www.tei-c.org/ns/1.0">publisher</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">There are several possibilities for Orme: Orme, Daniel (1766–1837),
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="ORM01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Cosmo</forename>
+                        <surname>Orme</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1780">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1859-08-12"/>
+                    <occupation>publisher</occupation>
+                    <occupation/>
+                    <note type="editorial">
+                        <p>There are several possibilities for Orme: Orme, Daniel (1766–1837),
     painter and engraver, Orme, Edward (1775–1848), engraver and property developer, or William Orme
     (1771–1854), all three brothers from Manchester who variously moved to and worked in London.
     Moreover, in the beginning of the ninetheenth century each of them was at some point registered
-    as a print seller or publisher. There is also a Henry Orme, registered as an apprentice in 1813.</p><p xmlns="http://www.tei-c.org/ns/1.0">But the likeliest attribution is Cosmo Orme, who is registered as a printer and bookseller
+    as a print seller or publisher. There is also a Henry Orme, registered as an apprentice in 1813.</p>
+                        <p>But the likeliest attribution is Cosmo Orme, who is registered as a printer and bookseller
     between 1805 and 1841 in partnership with Thomas Norton Longman, together with various
     others including Owen Rees, Thomas Hurst and Thomas Brown. As a member of the Stationers' Company
     his dates are given as 1804 (date of freedom) to 1859. The 1809 entries do not link him to any
@@ -17,8 +54,20 @@
     is a more consistent pattern of refering to Orme (Longman's). This signals the
     degree to which Orme's publishing house has been aborbed into Longman's. 10.2.1829, for example,
     refers to 'Call on Rees (Longman’s) ; adv. Orme' - where Rees is likely to be Owen Rees, another
-    Longman's partner. </p><p xmlns="http://www.tei-c.org/ns/1.0"> On balance, the identification of Cosmo Orme seems sound. There is nothing in
+    Longman's partner. </p>
+                        <p> On balance, the identification of Cosmo Orme seems sound. There is nothing in
     his circles that suggests the more artistic connections to be expected from the other Orme's
-    listed in the <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>. </p><p xmlns="http://www.tei-c.org/ns/1.0">According to the <title xmlns="http://www.tei-c.org/ns/1.0">Annual Register</title> (1859), Cosmo Orme was Scottish and having come to London looking for work,
+    listed in the <title>DNB</title>. </p>
+                        <p>According to the <title>Annual Register</title> (1859), Cosmo Orme was Scottish and having come to London looking for work,
   became a clerk at Longman's before becoming a partner about 1803. He retired in 1841 and in his will donated
-  £300 to the Booksellers' Provident Institution (of which he was a founder) and £700 to the Booksellers' Retreat.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook"><title xmlns="http://www.tei-c.org/ns/1.0"> Annual Register</title> (1859).</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-08-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-09-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-12-19" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-12-30" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-06-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-07-11" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-07-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-08-23" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-08-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-11-02" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-09-28" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-11-18" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-06-02" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-06-05" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-06-20" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-08-20" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-10-28" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-12-30" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-01-29" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-05-19" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"><date xmlns="http://www.tei-c.org/ns/1.0" when="1814-02-01" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1814-03-25" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"><date xmlns="http://www.tei-c.org/ns/1.0" when="1815-08-31" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"><date xmlns="http://www.tei-c.org/ns/1.0" when="1818-04-18" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"><date xmlns="http://www.tei-c.org/ns/1.0" when="1819-05-13" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-12-22" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"><date xmlns="http://www.tei-c.org/ns/1.0" when="1822-12-16" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"><date xmlns="http://www.tei-c.org/ns/1.0" when="1823-02-12" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-10-29" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-11-20" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"><date xmlns="http://www.tei-c.org/ns/1.0" when="1825-05-13" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1825-06-09" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-12-03" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"><date xmlns="http://www.tei-c.org/ns/1.0" when="1829-02-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1829-06-09" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1829-08-31" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1829-11-28" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-03-23" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-06-02" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-07-19" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-09-02" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-03-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-04-28" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-01-05" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-04-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-12-31" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+  £300 to the Booksellers' Provident Institution (of which he was a founder) and £700 to the Booksellers' Retreat.</p>
+                    </note>
+                    <bibl type="printedbook"><title> Annual Register</title> (1859).</bibl>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

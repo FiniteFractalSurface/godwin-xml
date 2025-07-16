@@ -1,10 +1,45 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="SHA01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">William</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Sharp</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1749-01-29"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1824-07-25"/><occupation xmlns="http://www.tei-c.org/ns/1.0">engraver</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Godwin notes in his 1796 list that he meets <persName xmlns="http://www.tei-c.org/ns/1.0" key="SHA02">Rd Sharpe</persName> in 1790
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="SHA01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>William</forename>
+                        <surname>Sharp</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1749-01-29">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1824-07-25"/>
+                    <occupation>engraver</occupation>
+                    <occupation/>
+                    <note type="editorial"><p>Godwin notes in his 1796 list that he meets <persName key="SHA02">Rd Sharpe</persName> in 1790
     and that he meets W Sharp in 1792. However, we cannot systematically distinguish between entries
     on the basis of the spelling because earlier entries to Sharpe are not exclusively to R Sharp
     since there are entries to 'Sharpe engraver'. Only by 1802 does he seem to have stabilised his
     recognition that Richard Sharp does not have an 'e' at the end - although there is a Sharpe as
     late as 1809, there is no R Sharpe after 1802. What we cannot be certain about, however, is how
-    far there is anything systematic underlying the different spelling and the use of initials. </p><p xmlns="http://www.tei-c.org/ns/1.0"> It seems plausible to think that the first encounter with William Sharp was  20 October 1792
+    far there is anything systematic underlying the different spelling and the use of initials. </p><p> It seems plausible to think that the first encounter with William Sharp was  20 October 1792
     when Godwin sees Romney's Paine and a number of other pictures at Sharp's - plausible since Sharp
     engraved Romney's portrait of Paine and would have had reason to have a number of new pictures. The next
     contact on 23 December 1792 is for 'Sharpe [sic] engraver' at Horne Tooke's. In 1793 there are
@@ -19,14 +54,14 @@
     trial. Oddly, at Tooke's trial, where William Sharp gave evidence, the entry is to 'Sharpe Gram'.  
     It is difficult to be certain as to whether these entries are to W or R Sharp, but the involvement 
     of R Sharp with the Friends of the People, and consequently his diminishing involvement with the SCI, 
-    suggests that W Sharp is the most likely attribution for this period, both immediately before and after the Treason Trials.</p><p xmlns="http://www.tei-c.org/ns/1.0">In 1795 there are two Sharpes at Holcrofts and a Mrs Sharpe at Johnson's (it is clear that R
+    suggests that W Sharp is the most likely attribution for this period, both immediately before and after the Treason Trials.</p><p>In 1795 there are two Sharpes at Holcrofts and a Mrs Sharpe at Johnson's (it is clear that R
     Sharp never married, but we have less information about W Sharp). In 1796 there are two meetings, one at
     Holcrofts, the other a plain 'Meet'. In 1797 Godwin distinguishes R Sharp, and there is a single
     plain Sharp on whom he calls in 1798. There are no entries in 1799, then a 'Meet Sharp' and a
     'Sharpe' encountered at Horne Tooke's in 1800. In 1801 there is a 'Meet Sharpe', and a Sharp
     encountered at an Exhibition. In 1802 Godwin has entries for Sharpe and then R
     Sharpe, from Sharp. But in 1805 he reverts to recording two Sharpes and one Sharp, with no
-    initials to distinguish them. <lb xmlns="http://www.tei-c.org/ns/1.0"/>
+    initials to distinguish them. <lb/>
     
     In 1806, he writes to Sharp, and is written to by Sharp, and then
     notes writing to R Sharp. It seems improbable that he is writing to both R and W Sharp and the
@@ -46,7 +81,7 @@ William Sharp     in the light of the one letter that more or less fits the date
     respect to Marshall is a different Sharp, and in all probability was R Sharp. (coding changed).
     The later Diary entries are much more consistent in their use of R Sharp, with far fewer Sharps
     and Sharpes. But the earlier entries are not so and it is not clear how systematically to
-    distinguish them. </p><p xmlns="http://www.tei-c.org/ns/1.0">It looks as if, after meeting R Sharp first, Godwin's contacts in 1793, 1794
+    distinguish them. </p><p>It looks as if, after meeting R Sharp first, Godwin's contacts in 1793, 1794
     and 1795 are predominantly with W Sharp, with links through others who were involved in
     the Treason Trials of 1794. However, it seems possible that contacts with W Sharp decline and
     are increasingly replaced by R Sharp, so that R Sharp dominates the diary, especially from 1806,
@@ -54,13 +89,23 @@ William Sharp     in the light of the one letter that more or less fits the date
     sems to be involved in extensive correspondence soliciting support. From this date R Sharp is
     used more systematically, but by no means exclusively, and it remains difficult to judge whether
     plain Sharps (and the odd Sharpe) are to R, or W, or another. On this basis we have created a
-    generic <persName xmlns="http://www.tei-c.org/ns/1.0" key="SHA99">Sharp</persName> file, to hold all entries of Sharp(e) that are indeterminate between W and
+    generic <persName key="SHA99">Sharp</persName> file, to hold all entries of Sharp(e) that are indeterminate between W and
     R, taking those in 1793-5 to be W Sharp, and treating occasional Sharps after 1810 as
-    plausible R Sharp entries.</p><p xmlns="http://www.tei-c.org/ns/1.0"> Godwin notes 'W Sharp, engraver, dies, or 25th' on 1824-07-30. The <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> gives the date of death 
-  as 25 July 1824. </p><p xmlns="http://www.tei-c.org/ns/1.0">The Sharp entered in 1835, after both W and R Sharp's deaths, is not coded.
+    plausible R Sharp entries.</p><p> Godwin notes 'W Sharp, engraver, dies, or 25th' on 1824-07-30. The <title>DNB</title> gives the date of death 
+  as 25 July 1824. </p><p>The Sharp entered in 1835, after both W and R Sharp's deaths, is not coded.
   </p>
     MS Abinger c. 12 fols. 104-5: 18 June 1821
     MS Abinger c. 19 fols. 91-2: 16 July 1821
   
-  </note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other">St Clair, p. 288.</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">David and Christina Bewley, <title xmlns="http://www.tei-c.org/ns/1.0">Gentleman Radical: 
-    a life of John Horne Tooke, 1736–1812</title> (London: Tauris Academic Studies, 1998) p. 118.</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"><date xmlns="http://www.tei-c.org/ns/1.0" when="1792-10-20" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1792-12-23" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-01-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-03-24" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-05-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-08-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-12-08" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-04-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-05-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-05-25" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-10-02" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-10-25" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-11-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-11-25" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-09-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-10-18" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-06-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-09-23" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-04-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-08-18" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"><date xmlns="http://www.tei-c.org/ns/1.0" when="1815-12-05" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-07-30" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+  </note>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                    <bibl type="other">St Clair, p. 288.</bibl>
+                    <bibl type="printedbook">David and Christina Bewley, <title>Gentleman Radical: 
+    a life of John Horne Tooke, 1736–1812</title> (London: Tauris Academic Studies, 1998) p. 118.</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

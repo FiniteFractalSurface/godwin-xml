@@ -1,11 +1,54 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="MAS02" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">M. K.</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Masters</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1000"/><occupation xmlns="http://www.tei-c.org/ns/1.0">apothecary</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">A correspondent of Godwin's living in Watford who 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="MAS02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>M. K.</forename>
+                        <surname>Masters</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName/>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation>apothecary</occupation>
+                    <note type="editorial">
+                        <p>A correspondent of Godwin's living in Watford who 
     complains 'what a devilish chain is fastened to my leg by my profession'  
     making him unable to come to town to see Godwin as much as he would 
     like. He proposes a scheme whereby Mrs Godwin stays over in Watford 
     and he accompanies her back to London when he comes. There is no 
     reference in the letters to the length of their acquaintance , but there is 
     also nothing to suggest that the earlier Masters are not the same.
-    See letters on 7 July 1805, and 11 Aug. 1805.  The <title xmlns="http://www.tei-c.org/ns/1.0">Dictionary of Living Authors</title> identifies 
+    See letters on 7 July 1805, and 11 Aug. 1805.  The <title>Dictionary of Living Authors</title> identifies 
     a Martin Kedgwin Masters as an apothecary and surgeon in Watford and 
-    the author, in 1807 of the poem <title xmlns="http://www.tei-c.org/ns/1.0">The Progress of Love</title>, and in 1811 <title xmlns="http://www.tei-c.org/ns/1.0">Lost and Found</title>.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">MS. Abinger c. 9, fols.  24-5: 7 July 1805, and MS. Abinger c. 9, fol. 27: 11 Aug. 1805. </bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">John Watkins, <title xmlns="http://www.tei-c.org/ns/1.0">A Biographical Dictionary of the Living Authors 
-    of Great Britain and Ireland</title> (London, 1816).</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"><date xmlns="http://www.tei-c.org/ns/1.0" when="1792-12-03" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-01-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-01-06" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-01-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-03-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-09-08" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-01-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-02-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-05-26" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-09-04" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-08-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-09-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-09-25" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-05-08" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-02-01" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-06-10" n="notVenue" type="nah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-05-23" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-08-06" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-04-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-06-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-06-24" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-03-29" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-05-27" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-05-26" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    the author, in 1807 of the poem <title>The Progress of Love</title>, and in 1811 <title>Lost and Found</title>.</p>
+                    </note>
+                    <bibl type="MS">MS. Abinger c. 9, fols.  24-5: 7 July 1805, and MS. Abinger c. 9, fol. 27: 11 Aug. 1805. </bibl>
+                    <bibl type="printedbook">John Watkins, <title>A Biographical Dictionary of the Living Authors 
+    of Great Britain and Ireland</title> (London, 1816).</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

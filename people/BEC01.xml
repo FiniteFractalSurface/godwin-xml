@@ -1,13 +1,57 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="BEC01" sex="2"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">J</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Beccaria</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1000"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">This cannot be Cesare, Marquis de Beccaria, author of <title xmlns="http://www.tei-c.org/ns/1.0">On Crimes and
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="BEC01" sex="2">
+                    <persName>
+                        <roleName/>
+                        <forename>J</forename>
+                        <surname>Beccaria</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName/>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation/>
+                    <note type="editorial">
+                        <p>This cannot be Cesare, Marquis de Beccaria, author of <title>On Crimes and
     Punishment</title>, because he died in 1794 and all of G.'s references are to a J Beccaria in 1802. Beccaria influenced Godwin's writing on prison in 
-      <title xmlns="http://www.tei-c.org/ns/1.0">Political Justice</title>. The four instances of 'J Beccaria' in August-Sept 1802 are preceded by two instances of 'Me 
-  Beccaria', in early August 1802, so possibly they are the same person (they never appear together).</p><p xmlns="http://www.tei-c.org/ns/1.0">The references may be to Beccari's daughter, Giulia. She married Pietro Manzoni, their son was the poet and novelist, Alessandro Manzoni.
+      <title>Political Justice</title>. The four instances of 'J Beccaria' in August-Sept 1802 are preceded by two instances of 'Me 
+  Beccaria', in early August 1802, so possibly they are the same person (they never appear together).</p>
+                        <p>The references may be to Beccari's daughter, Giulia. She married Pietro Manzoni, their son was the poet and novelist, Alessandro Manzoni.
       By 1792 they were separated and Giulia fell in love with Carlo Imbonati and lived wih him in London and then Paris.  It is perhaps possible that the entries refer to 
       Giulia Beccaria and Godwin was unsure whether he name begins with
   a G or a J? (ie an English speaker could assume it is Julia).  Moreover 'Me' might be truncation of Madame or similar. It seems fairly likely that Giulia was in
   London around this time, having left Manzoni for Imbonati and living between Paris and London.
   Given who her father was, Godwin would certainly have been interested in meeting her. The pattern of 
-  contacts suggests that she was only in London for a short time and that Godwin actively sought  her acquaintance.</p><p xmlns="http://www.tei-c.org/ns/1.0"><title xmlns="http://www.tei-c.org/ns/1.0">The Table Talk of Samuel Rogers</title> (originally published in 1856) notes a meeting with Beccaria's daughter 
+  contacts suggests that she was only in London for a short time and that Godwin actively sought  her acquaintance.</p>
+                        <p><title>The Table Talk of Samuel Rogers</title> (originally published in 1856) notes a meeting with Beccaria's daughter 
   'about sixty years ago at the house of the father of the Misses Berry: she was a very lively and agreeable woman'.
-  There is no mention of a husband here and it is suggested that she is sociable - so the Giulia/Julia theory above seems possible.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook"><title xmlns="http://www.tei-c.org/ns/1.0">Recollections of the table-talk of Samuel Rogers, first collected by Alexander Dyce</title>, ed. by Morchard 
-    Bishop (London: Richards Press, 1952), p. 213.</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-08-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-08-09" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-08-30" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-09-02" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+  There is no mention of a husband here and it is suggested that she is sociable - so the Giulia/Julia theory above seems possible.</p>
+                    </note>
+                    <bibl type="printedbook"><title>Recollections of the table-talk of Samuel Rogers, first collected by Alexander Dyce</title>, ed. by Morchard 
+    Bishop (London: Richards Press, 1952), p. 213.</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,16 +1,64 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="EAT01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Daniel Isaac</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Eaton</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1752"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1814-08-22"/><occupation xmlns="http://www.tei-c.org/ns/1.0">reformer</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">publisher</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Daniel Isaac Eaton published Godwin's <title xmlns="http://www.tei-c.org/ns/1.0">Cursory Strictures</title>. The <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> suggests that
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="EAT01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Daniel Isaac</forename>
+                        <surname>Eaton</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1752">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1814-08-22"/>
+                    <occupation>reformer</occupation>
+                    <occupation>publisher</occupation>
+                    <note type="editorial">
+                        <p>Daniel Isaac Eaton published Godwin's <title>Cursory Strictures</title>. The <title>DNB</title> suggests that
     he was imprisoned in solitary confinement at the end of 1803 for fifteen months, and it is unlikely
     that Eaton would have left prison before 4 February 1805, when he received a royal pardon.  However, Godwin's diary
     suggests that he sees Eaton on three occasions in 1804 (2 'call on' entries in Oct 1804, and
-    then an 'adv' at the theatre in November 1804).</p><p xmlns="http://www.tei-c.org/ns/1.0">The later 1805 contact is through <persName xmlns="http://www.tei-c.org/ns/1.0" key="JOH01">Joseph Johnson</persName>, which
+    then an 'adv' at the theatre in November 1804).</p>
+                        <p>The later 1805 contact is through <persName key="JOH01">Joseph Johnson</persName>, which
     is highly plausible, as is the 1809 contact. The 1813 contact also seems to be a publishing link
-    (through <persName xmlns="http://www.tei-c.org/ns/1.0" key="WIL02">Wilson</persName>). Although there are newspaper reports of Eaton's bankrupcy in 1803 and then of
+    (through <persName key="WIL02">Wilson</persName>). Although there are newspaper reports of Eaton's bankrupcy in 1803 and then of
     his being taken into custody by the Sheriff of London in November 1803, on an outstanding
     sentence for sedition, there is no mention of the length of the sentence nor of the requirement
-    of solitary confinement.</p><p xmlns="http://www.tei-c.org/ns/1.0">Eaton is a distinctive name and it is probable that Godwin knew him
-    through the publishing of <title xmlns="http://www.tei-c.org/ns/1.0">Cursory Strictures </title>(and from Eaton's other activities). There are no
+    of solitary confinement.</p>
+                        <p>Eaton is a distinctive name and it is probable that Godwin knew him
+    through the publishing of <title>Cursory Strictures </title>(and from Eaton's other activities). There are no
     initials, and the only possible alternative spelling Eton, is linked closely to Reveley in the
     1790s (esp 1796 and 1798 - when Eaton is in America).  This suggests Godwin is not mixing up
     different people when he refers to Eaton. To be wholly certain of the 1804 identification the records of his imprisonment 
-    should be tracked, but the entries have been coded for Eaton at present.</p><p xmlns="http://www.tei-c.org/ns/1.0">One of the 'call on's in 1804 is with <persName xmlns="http://www.tei-c.org/ns/1.0" key="WOL04">'EW' - Everina/Eliza Wollstonecraft</persName>. Eaton had published a portrait of 
-    Wollstonecraft so it is possible that this was in relation to that picture. </p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-09-30" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-10-03" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-10-31" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-11-05" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-10-30" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-04-07" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-05-12" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    should be tracked, but the entries have been coded for Eaton at present.</p>
+                        <p>One of the 'call on's in 1804 is with <persName key="WOL04">'EW' - Everina/Eliza Wollstonecraft</persName>. Eaton had published a portrait of 
+    Wollstonecraft so it is possible that this was in relation to that picture. </p>
+                    </note>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

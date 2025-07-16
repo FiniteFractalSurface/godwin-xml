@@ -1,20 +1,67 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="PRI01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><forename xmlns="http://www.tei-c.org/ns/1.0">Joseph</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Priestley</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1733-03-13"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1804-02-06"/><occupation xmlns="http://www.tei-c.org/ns/1.0">theologian</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">natural philosopher</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0"> In the 1796 lists, Godwin records first meeting Joseph Priestley in 1785. Priestley was a leading figure in the British Enlightenment,  
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="PRI01" sex="1">
+                    <persName>
+                        <forename>Joseph</forename>
+                        <surname>Priestley</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1733-03-13">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1804-02-06"/>
+                    <occupation>theologian</occupation>
+                    <occupation>natural philosopher</occupation>
+                    <note type="editorial">
+                        <p> In the 1796 lists, Godwin records first meeting Joseph Priestley in 1785. Priestley was a leading figure in the British Enlightenment,  
       and responsible for 'some of the most significant scientific discoveries of the century' (St Clair). In 
       February 1785, the English Review published Godwin's piece on Priestley's History of Corruptions of Christianity
 and various works responding to it.  Godwin sent the piece to Priestley along with a letter where he outlines his views more candidly than 
-would have been acceptable or appropriate in the review. Both Godwin's letter and Priestley's reply are in Abinger.<lb xmlns="http://www.tei-c.org/ns/1.0"/>
+would have been acceptable or appropriate in the review. Both Godwin's letter and Priestley's reply are in Abinger.<lb/>
 Priestley's appearances in the diary are quite varied.  
-   He is present at a number of dinners at <persName xmlns="http://www.tei-c.org/ns/1.0" key="HOL02">Hollis'</persName>.     
-   On 1 May 1791, Godwin hears Priestley's funeral sermon for Dr Price. According to the <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> ,
-      <persName xmlns="http://www.tei-c.org/ns/1.0" key="PRI02">Richard Price</persName> was
+   He is present at a number of dinners at <persName key="HOL02">Hollis'</persName>.     
+   On 1 May 1791, Godwin hears Priestley's funeral sermon for Dr Price. According to the <title>DNB</title> ,
+      <persName key="PRI02">Richard Price</persName> was
 a close friend of Priestley's who supported his bid to the Royal Society and helped him financially in the early 1770s.       
      On	5 July 1792 Godwin visits Priestley and talks of 'the importance of politics, &amp; moral causation.'
      Priestley is also a subject for discussion: 9 November 1791 'J Hollis calls, talk of Paine &amp; Priestley';
      15 July 1792 'Dr Lister calls, talk ideas &amp; Dr Priestley'.
      Godwin calls on him several times in 1793.
-     In the penultimate entry, 29 March 1794 'Fawcet dines, talk of God, transcribes for Priestley.' <lb xmlns="http://www.tei-c.org/ns/1.0"/>
+     In the penultimate entry, 29 March 1794 'Fawcet dines, talk of God, transcribes for Priestley.' <lb/>
      In April 1794 Priestley emigrated to America where he remained until his death, which Godwinn records on the correct date.
        
       
       
-    </p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">St Clair, pp. 34-5 and 52.</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">MS. Abinger c. 1, fols. 88-9 : 9 Feb 178[?5].</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">MS. Abinger c. 17, fol. 11 : ?Feb [178[?0]] </bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"><date xmlns="http://www.tei-c.org/ns/1.0" when="1788-04-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1788-04-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1788-05-09" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"><date xmlns="http://www.tei-c.org/ns/1.0" when="1789-04-14" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"><date xmlns="http://www.tei-c.org/ns/1.0" when="1791-05-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1791-05-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1791-10-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1791-11-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1791-11-19" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"><date xmlns="http://www.tei-c.org/ns/1.0" when="1792-06-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1792-06-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1792-07-05" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1792-07-15" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-03-23" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-04-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-08-12" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-09-18" n="venue" type="nah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-01-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-03-29" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-02-06" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    </p>
+                    </note>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                    <bibl type="printedbook">St Clair, pp. 34-5 and 52.</bibl>
+                    <bibl type="MS">MS. Abinger c. 1, fols. 88-9 : 9 Feb 178[?5].</bibl>
+                    <bibl type="MS">MS. Abinger c. 17, fol. 11 : ?Feb [178[?0]] </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,6 +1,51 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="COU02" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Walter</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Coulson</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1795-04-09"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1860-11-21"/><occupation xmlns="http://www.tei-c.org/ns/1.0">newspaper editor</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">barrister</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0"/>Godwin meets him in relation to <persName xmlns="http://www.tei-c.org/ns/1.0" key="HAZ01">William Hazlitt</persName>, and he was godfather to one
-    of Hazlitt's children. <persName xmlns="http://www.tei-c.org/ns/1.0" key="SHE02">Mary Shelley</persName> refers to him as Colson in her journal and Godwin's entries for Colson seem to fit and 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="COU02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Walter</forename>
+                        <surname>Coulson</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1795-04-09">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1860-11-21"/>
+                    <occupation>newspaper editor</occupation>
+                    <occupation>barrister</occupation>
+                    <note type="editorial"><p/>Godwin meets him in relation to <persName key="HAZ01">William Hazlitt</persName>, and he was godfather to one
+    of Hazlitt's children. <persName key="SHE02">Mary Shelley</persName> refers to him as Colson in her journal and Godwin's entries for Colson seem to fit and 
     have accordingly been coded as Coulson.
     
-  </note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook"><title xmlns="http://www.tei-c.org/ns/1.0">The journals of Mary Shelley, 1814–1844</title>, ed. by Paula R. Feldman and Diana Scott-Kilvert, 
-    2 vols (Oxford and New York: Oxford University Press; Clarendon Press, 1987)</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">MS. Abinger c. 70, fols. 3-4: 3 February 1851</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"><date xmlns="http://www.tei-c.org/ns/1.0" when="1815-12-09" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-01-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-02-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-05-24" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-05-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-06-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-06-14" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"><date xmlns="http://www.tei-c.org/ns/1.0" when="1819-04-08" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-01-18" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-01-19" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-02-01" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-06-06" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-02-28" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+  </note>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                    <bibl type="printedbook"><title>The journals of Mary Shelley, 1814–1844</title>, ed. by Paula R. Feldman and Diana Scott-Kilvert, 
+    2 vols (Oxford and New York: Oxford University Press; Clarendon Press, 1987)</bibl>
+                    <bibl type="MS">MS. Abinger c. 70, fols. 3-4: 3 February 1851</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

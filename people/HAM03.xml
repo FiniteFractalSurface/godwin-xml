@@ -1,21 +1,80 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="HAM03" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Samuel</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Hamilton</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1000"/><occupation xmlns="http://www.tei-c.org/ns/1.0">printer</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">There are a number of Hamiltons after Archibald Hamilton's death in 1791 and before 1817  The majority of which occur in 1815. Samuel 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="HAM03" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Samuel</forename>
+                        <surname>Hamilton</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation>printer</occupation>
+                    <occupation/>
+                    <note type="editorial">
+                        <p>There are a number of Hamiltons after Archibald Hamilton's death in 1791 and before 1817  The majority of which occur in 1815. Samuel 
     is the strongest candidate for these entries, although there is indeterminacy for entries between 1793 and 1800.. 
-    For example, Godwin meets a Hamilton in 1796 with Mary Hays when Hays was reviewing for the <title xmlns="http://www.tei-c.org/ns/1.0">Critical Review</title>, which Archibald 
-Hamilton Senior had founded. and which he co-edited with George Gregory until his death in 1793. It seems likely that the <title xmlns="http://www.tei-c.org/ns/1.0">Critical</title> was taken 
+    For example, Godwin meets a Hamilton in 1796 with Mary Hays when Hays was reviewing for the <title>Critical Review</title>, which Archibald 
+Hamilton Senior had founded. and which he co-edited with George Gregory until his death in 1793. It seems likely that the <title>Critical</title> was taken 
 over by Archibald Hamilton III (Archibald Hamilton grandson) who seems to have traded at least until 1799, and then by Samuel Hamilton, his brother.  It is 
 unclear whether Samuel was involved from the beginning, and unclear whether Godwin is distinguishing between Archibald and Samuel.  Given this 
 uncertainy,  the evidence that Samuel trades alone after 1799, and the few contacts between 1793 and 1810, we have coded all Hamilton's between 
 1793 and 1810 as Samuel, although users of the diary should be aware of the indeterminacy between the two brothers at least up to the end of the 1790s (Southey, 
-who contributed to the <title xmlns="http://www.tei-c.org/ns/1.0">Critical</title>, refers to Samual Hamilton from May 1799 (See Roper, p. 21)..</p><p xmlns="http://www.tei-c.org/ns/1.0"> Godwin notes a call from Marshall: 'M (Hamilton's
-  fire)' on 3 Feb 1803 and <title xmlns="http://www.tei-c.org/ns/1.0">The Times</title> of 3/4 Feb 1803 reports the destruction of Mr Hamilton's Printing Office and the subsequent unemployment of 60 people
+who contributed to the <title>Critical</title>, refers to Samual Hamilton from May 1799 (See Roper, p. 21)..</p>
+                        <p> Godwin notes a call from Marshall: 'M (Hamilton's
+  fire)' on 3 Feb 1803 and <title>The Times</title> of 3/4 Feb 1803 reports the destruction of Mr Hamilton's Printing Office and the subsequent unemployment of 60 people
     which indicates a large and established business  which had been built up over three generations. The 1815 entries look like they are connected with
-    the publication of <title xmlns="http://www.tei-c.org/ns/1.0">The Lives of Edward and John Philips</title> which was printed by S Hamilton, Weybridge.  There is a possibility that some of the earlier entries may refer
+    the publication of <title>The Lives of Edward and John Philips</title> which was printed by S Hamilton, Weybridge.  There is a possibility that some of the earlier entries may refer
     to Archibald Hamilton III who also inherited the business with his brother. However, given Godwin's disinclination to distinguish between the two, the overwhelming use of
     letters to communicate (Samuel was based in Weybridge, Surrey), and the absence of Archibald III from any of the bibliographical sources from the period, Samuel
-    is the more likely.</p><p xmlns="http://www.tei-c.org/ns/1.0">The British Book Trades Index gives three alternatives for Samuel Hamilton: one seems to have trading dates as 1797-1818, another 1799-1841.  It is likely that there are at least two different individuals.</p><p xmlns="http://www.tei-c.org/ns/1.0">Samuel was the grandson of <persName xmlns="http://www.tei-c.org/ns/1.0" key="HAM01">Archibald Hamilton</persName> and brother of Archibald Hamilton III. He was a printer who traded originally in Fleet St, then Holborn, and finally in
+    is the more likely.</p>
+                        <p>The British Book Trades Index gives three alternatives for Samuel Hamilton: one seems to have trading dates as 1797-1818, another 1799-1841.  It is likely that there are at least two different individuals.</p>
+                        <p>Samuel was the grandson of <persName key="HAM01">Archibald Hamilton</persName> and brother of Archibald Hamilton III. He was a printer who traded originally in Fleet St, then Holborn, and finally in
     Weybridge, Surrey. His premises  burned to the ground in February 1803 and he was subsequently declared bankrupt in March 1805.  It seems he 
-    then moved his business to Weybridge. Hamilton printed Shelley's <title xmlns="http://www.tei-c.org/ns/1.0">Alastor</title>.</p><p xmlns="http://www.tei-c.org/ns/1.0">Entries left uncoded include references to Dr Hamilton in 1794, 1804, and 1831; references to Curran's friend Hamilton in 1804; 
+    then moved his business to Weybridge. Hamilton printed Shelley's <title>Alastor</title>.</p>
+                        <p>Entries left uncoded include references to Dr Hamilton in 1794, 1804, and 1831; references to Curran's friend Hamilton in 1804; 
     entries to Miss Hamilton between 1796 and 1805; entries to A Hamilton in 1804 and 1828; and a references to Captain Hamilton in 1795.
-    </p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">John Nichols, <title xmlns="http://www.tei-c.org/ns/1.0">Literary Anecdotes of the Eighteenth Century</title>, 9 vols (London, 1812-16)</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Ian Maxted, <title xmlns="http://www.tei-c.org/ns/1.0">The London Book Trades, 1775-1800: A Preliminary Checklist of Members</title> (Folkestone: Dawson, 
-   1977)</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Derek Roper, <title xmlns="http://www.tei-c.org/ns/1.0">Reviewing Before the Edinburgh</title> London: Methuen, 1978)</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">William B. Todd, <title xmlns="http://www.tei-c.org/ns/1.0">A Directory of Printers and Others in Allied Trades, London and Vicinity 1800-1840</title> (London: Printing Historical Society, 1972)</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Ian Maxted, <title xmlns="http://www.tei-c.org/ns/1.0">The British Book Trades, 1731-1806: A Checklist of Bankrupts</title> (Exeter: J. Maxted, 1985)</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="journalism"><title xmlns="http://www.tei-c.org/ns/1.0">The Times</title>, 3 and 4 February 1803;</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook"><title xmlns="http://www.tei-c.org/ns/1.0">The Correspondence (1779-1843) of Mary Hays, British Novelist</title>, ed. by Marilyn L. Brooks (Lewiston, 
-  Queenston and Lampeter: Edwin Mellen Press, 2004), p. 299.</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">The British Book Trade Index</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-04-16" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-04-19" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-02-03" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-11-18" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-12-27" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-07-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-09-24" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-12-27" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"><date xmlns="http://www.tei-c.org/ns/1.0" when="1814-05-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1814-06-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1814-09-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1814-11-23" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1814-11-28" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"><date xmlns="http://www.tei-c.org/ns/1.0" when="1815-02-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1815-02-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1815-02-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1815-02-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1815-02-25" n="notVenue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1815-03-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1815-05-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1815-05-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1815-05-05" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1815-07-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1815-09-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1815-09-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1815-09-30" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1815-10-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1815-10-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1815-10-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1815-10-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1815-10-24" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1815-11-06" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-01-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-02-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-09-14" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-06-18" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    </p>
+                    </note>
+                    <bibl type="printedbook">John Nichols, <title>Literary Anecdotes of the Eighteenth Century</title>, 9 vols (London, 1812-16)</bibl>
+                    <bibl type="printedbook">Ian Maxted, <title>The London Book Trades, 1775-1800: A Preliminary Checklist of Members</title> (Folkestone: Dawson, 
+   1977)</bibl>
+                    <bibl type="printedbook">Derek Roper, <title>Reviewing Before the Edinburgh</title> London: Methuen, 1978)</bibl>
+                    <bibl type="printedbook">William B. Todd, <title>A Directory of Printers and Others in Allied Trades, London and Vicinity 1800-1840</title> (London: Printing Historical Society, 1972)</bibl>
+                    <bibl type="printedbook">Ian Maxted, <title>The British Book Trades, 1731-1806: A Checklist of Bankrupts</title> (Exeter: J. Maxted, 1985)</bibl>
+                    <bibl type="journalism"><title>The Times</title>, 3 and 4 February 1803;</bibl>
+                    <bibl type="printedbook"><title>The Correspondence (1779-1843) of Mary Hays, British Novelist</title>, ed. by Marilyn L. Brooks (Lewiston, 
+  Queenston and Lampeter: Edwin Mellen Press, 2004), p. 299.</bibl>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                    <bibl type="other">
+                        <title>The British Book Trade Index</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

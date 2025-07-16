@@ -1,19 +1,71 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="AIK01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">John</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Aikin</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1747-01-15"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1822-12-07"/><occupation xmlns="http://www.tei-c.org/ns/1.0">physician</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">writer</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">The Aikin family is rather large and comprised of dissenters.  Both Aikin and Aickin (often J Aickin) 
-  appear in Godwin’s diary, but it seems probable that <persName xmlns="http://www.tei-c.org/ns/1.0" key="AIC01">Aickin</persName> in fact picks out the actor James Aickin 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="AIK01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>John</forename>
+                        <surname>Aikin</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1747-01-15">
+                        <placeName/>
+                    </birth>
+                    <death when="1822-12-07"/>
+                    <occupation>physician</occupation>
+                    <occupation>writer</occupation>
+                    <note type="editorial">
+                        <p>The Aikin family is rather large and comprised of dissenters.  Both Aikin and Aickin (often J Aickin) 
+  appear in Godwin’s diary, but it seems probable that <persName key="AIC01">Aickin</persName> in fact picks out the actor James Aickin 
   and is unrelated to the Aikin entries..  Initials and titles include A, C, Aikin jr 
-and junr, Aikin senr, Dr, ja., and L</p><p xmlns="http://www.tei-c.org/ns/1.0">John Aikin I (1664–1756) married  Anne Bentall Aikin (Mrs John Aikin I), the daughter of a well-to-do London citizen, a deacon in Daniel 
+and junr, Aikin senr, Dr, ja., and L</p>
+                        <p>John Aikin I (1664–1756) married  Anne Bentall Aikin (Mrs John Aikin I), the daughter of a well-to-do London citizen, a deacon in Daniel 
 Burgess’s dissenting congregation .  John I and Anne had 
   one child, John Aikin II (1713 -1780) who was one of the first pupils at Philip Doddridge’s academy at Market Harborough where he was also later a tutor. He married 
-  Jane Jennings, and had two children – <persName xmlns="http://www.tei-c.org/ns/1.0" key="BAR06">Anna Laetitia Barbauld</persName> (née Aikin; 1743-1825) and John III, MD (1747 – 1822).  John Aikin III 
+  Jane Jennings, and had two children – <persName key="BAR06">Anna Laetitia Barbauld</persName> (née Aikin; 1743-1825) and John III, MD (1747 – 1822).  John Aikin III 
   opposed the Test and Corporation Acts. He went to Dorking in 1798 due to ill health for four months before settling in Stoke 
-  Newington but left his retreat to visit friends.  He associated with <persName xmlns="http://www.tei-c.org/ns/1.0" key="JOH01">Joseph Johnson</persName> and his circle. </p><p xmlns="http://www.tei-c.org/ns/1.0">John Aikin III mentions a London party:</p><p xmlns="http://www.tei-c.org/ns/1.0">  'On Tuesday I dined with Phillips,who had got his tip-top literary acquaintence together.  There was Sir John 
-  Dillon, author of the account of Spain and other things, a sort of broken-down old gentleman; <persName xmlns="http://www.tei-c.org/ns/1.0" key="WOL02">Peter Pindar</persName>, Mr Edgeworth, the Belshams, Dr Gregory, Hodwin, Prince 
-  Hoare, and two or three more…’ (<title xmlns="http://www.tei-c.org/ns/1.0">Georgian Chronicle</title>).  This corresponds with Godwin’s entry on<lb xmlns="http://www.tei-c.org/ns/1.0"/>
+  Newington but left his retreat to visit friends.  He associated with <persName key="JOH01">Joseph Johnson</persName> and his circle. </p>
+                        <p>John Aikin III mentions a London party:</p>
+                        <p>  'On Tuesday I dined with Phillips,who had got his tip-top literary acquaintence together.  There was Sir John 
+  Dillon, author of the account of Spain and other things, a sort of broken-down old gentleman; <persName key="WOL02">Peter Pindar</persName>, Mr Edgeworth, the Belshams, Dr Gregory, Hodwin, Prince 
+  Hoare, and two or three more…’ (<title>Georgian Chronicle</title>).  This corresponds with Godwin’s entry on<lb/>
      18.06.1805:  ‘Fables, p. 178/2; fin. Dine at Philips’s , w. Aikin, 
-  Edgworth, Dillon, Hoare, Wolcot, Gregory, 2 Belshams, Keys, and miss Owenson : theatre, w. Hoare, Review . meet Hollis . Murphy dies’.</p><p xmlns="http://www.tei-c.org/ns/1.0">Aikin is referred to by just his surname, which suggests that ‘Aikin’ is generally John III, MD.  The family tree gets rather confusing, as it is inclusive of 9 Johns 
+  Edgworth, Dillon, Hoare, Wolcot, Gregory, 2 Belshams, Keys, and miss Owenson : theatre, w. Hoare, Review . meet Hollis . Murphy dies’.</p>
+                        <p>Aikin is referred to by just his surname, which suggests that ‘Aikin’ is generally John III, MD.  The family tree gets rather confusing, as it is inclusive of 9 Johns 
 (2 of whom are doctors) and 5 Anna Laetitias.  ‘L’ however almost certainly refers to Lucy (who mentions her concern for the ailing Godwin in an 1832 letter to Rev. 
-William Shepherd) (<title xmlns="http://www.tei-c.org/ns/1.0">Georgian Chronicle</title>).   ‘A’ is probably Anna Barbauld’s uncle Arthur, a lecturer in Chemistry and Secretary to the Royal Society of Arts.  ‘C’ is likely Charles 
-Rochemont Aikin (1775 – 1846), married to Anne Wakefield and the son of Anna Laetitia Aikin and Rochemont Barbauld.</p><p xmlns="http://www.tei-c.org/ns/1.0">'Aikin', 'Aikin Senr' and 'Dr Aikin' have been taken to be John III. Also, '2 Aikins' has been taken to refer to John III and his wife Martha 
+William Shepherd) (<title>Georgian Chronicle</title>).   ‘A’ is probably Anna Barbauld’s uncle Arthur, a lecturer in Chemistry and Secretary to the Royal Society of Arts.  ‘C’ is likely Charles 
+Rochemont Aikin (1775 – 1846), married to Anne Wakefield and the son of Anna Laetitia Aikin and Rochemont Barbauld.</p>
+                        <p>'Aikin', 'Aikin Senr' and 'Dr Aikin' have been taken to be John III. Also, '2 Aikins' has been taken to refer to John III and his wife Martha 
 (she - 'Mrs Aikin' remains uncoded as there appears to be no relationship of note between her in her own right and Godwin). 'Aikin jnr' is coded as Charles who was 
 adopted by the Barbaulds. 'Ja. AIkin' and other variants have been left uncoded as he appears, by dint of his location in Otley, to be unrelated. Also there is no mention
-of a James in the Aikin entries in the <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>.</p><p xmlns="http://www.tei-c.org/ns/1.0">Godwin recorded his death.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Betsy Aikin-Sneath, <title xmlns="http://www.tei-c.org/ns/1.0">Georgian Chronicle: Mrs. Barbauld and her Family</title> (London: Methuen, 1958), pp. 10, 107, 125, 132, 261.</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"><date xmlns="http://www.tei-c.org/ns/1.0" when="1788-11-23" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-01-26" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-06-17" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-06-23" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-01-01" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-10-23" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-06-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-11-27" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-02-10" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"><date xmlns="http://www.tei-c.org/ns/1.0" when="1822-12-07" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+of a James in the Aikin entries in the <title>DNB</title>.</p>
+                        <p>Godwin recorded his death.</p>
+                    </note>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                    <bibl type="printedbook">Betsy Aikin-Sneath, <title>Georgian Chronicle: Mrs. Barbauld and her Family</title> (London: Methuen, 1958), pp. 10, 107, 125, 132, 261.</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

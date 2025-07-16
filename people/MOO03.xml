@@ -1,13 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="MOO03" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Thomas</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Moore</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1779-05-28"><placeName xmlns="http://www.tei-c.org/ns/1.0">Ireland</placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1852-02-25"/><occupation xmlns="http://www.tei-c.org/ns/1.0">poet</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"> See <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>.
-    <p xmlns="http://www.tei-c.org/ns/1.0">Moore, Thomas (1779–1852), the Irish poet and diarist, <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>, first appears in the diary in 1802
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="MOO03" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Thomas</forename>
+                        <surname>Moore</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1779-05-28">
+                        <placeName>Ireland</placeName>
+                    </birth>
+                    <death when="1852-02-25"/>
+                    <occupation>poet</occupation>
+                    <occupation/>
+                    <note type="editorial"> See <title>DNB</title>.
+    <p>Moore, Thomas (1779–1852), the Irish poet and diarist, <title>DNB</title>, first appears in the diary in 1802
     (and is noted as a new contact in the 1796 Diary list), where there is a link with Curran; he
     reappears in 1806 at Philips's. He reappears twice in 1813, linked to Curran; once in 1816;
     three times in 1818, once linked to Hazlitt; one in 1819; twice in 1828, and once in 1832.
     Marshall and Locke both identify T Moore as the diarist and suggest that he is present at a
     meeting to celebrate Bulwer Lytton's election campaign in 1830, along with Roy, Augusta Leigh
     and Disraeli, but Godwin's record in 1832 is as follows: Bulwer’s , w. Ramoon Roy, Jerdan,
-    Boddington, T Moore.  </p><p xmlns="http://www.tei-c.org/ns/1.0">The letter from Thomas Moore, MS. Abinger c. 12, fol.  23: 5 May 1818, letter refers to the posibility of Godwin calling at 
+    Boddington, T Moore.  </p><p>The letter from Thomas Moore, MS. Abinger c. 12, fol.  23: 5 May 1818, letter refers to the posibility of Godwin calling at 
   Sloperton, the home in Calne that Thomas Moore lived in for the rest of his life after the death of his first child (and conveniently close to his new patron, Lord Landsdown).
   A similar letter is to be found in MS. Abinger c. 15, fol. 53: n.d.  There are also two erarlier letters from Thomas Moore, MS. Abinger c. 11, fols. 	71-2: 8 Nov. 1811 and 
   MS. Abinger c. 11, fols.	75-6: 21 Nov. 1811.  In this last, Moore apologises for not being able to give Godwin any of his work as he is bound by contract for all he does to Mr Power in Dublin.
-  There is also correspondence relating to Byrnon with Mary Shelley.</p><p xmlns="http://www.tei-c.org/ns/1.0">For details of other entries for Moores in the diary see the discussion in <persName xmlns="http://www.tei-c.org/ns/1.0" key="MOO01">John Moore</persName>.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">MS Abinger</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>&gt;</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-01-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-01-09" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-08-31" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-05-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-05-13" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-04-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-05-06" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"><date xmlns="http://www.tei-c.org/ns/1.0" when="1818-04-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1818-04-27" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1818-09-10" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"><date xmlns="http://www.tei-c.org/ns/1.0" when="1819-08-26" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"><date xmlns="http://www.tei-c.org/ns/1.0" when="1822-04-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1822-11-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1822-12-18" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-06-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-12-15" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-04-01" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+  There is also correspondence relating to Byrnon with Mary Shelley.</p><p>For details of other entries for Moores in the diary see the discussion in <persName key="MOO01">John Moore</persName>.</p></note>
+                    <bibl type="MS">MS Abinger</bibl>
+                    <bibl type="other"><title>DNB</title>&gt;</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

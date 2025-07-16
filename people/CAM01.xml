@@ -1,13 +1,67 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAM01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Thomas</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Campbell</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1777-07-27"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1844-06-15"/><occupation xmlns="http://www.tei-c.org/ns/1.0">poet</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Campbell was educated at Glasgow University and intended becoming a minister of the Church of Scotland. Instead he became a literary figure, 
-    <title xmlns="http://www.tei-c.org/ns/1.0">The Pleasures of Hope</title> (1799) was his crowning poetic achievement. He also edited the <title xmlns="http://www.tei-c.org/ns/1.0">New Monthly Magazine</title>, wrote a biography of 
-  <persName xmlns="http://www.tei-c.org/ns/1.0" key="SID01">Sarah Siddons</persName>, and became rector of Glasgow University. </p><p xmlns="http://www.tei-c.org/ns/1.0">In terms of evidence to confirm this identification, Marshall records that Thomas Campbell
-  'became a close friend as a result' of a laudatory review of <title xmlns="http://www.tei-c.org/ns/1.0">Cloudesley</title> (1830) (although Godwin knew him prior to this) in the <title xmlns="http://www.tei-c.org/ns/1.0">New Monthly
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="CAM01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Thomas</forename>
+                        <surname>Campbell</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1777-07-27">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1844-06-15"/>
+                    <occupation>poet</occupation>
+                    <occupation/>
+                    <note type="editorial">
+                        <p>Campbell was educated at Glasgow University and intended becoming a minister of the Church of Scotland. Instead he became a literary figure, 
+    <title>The Pleasures of Hope</title> (1799) was his crowning poetic achievement. He also edited the <title>New Monthly Magazine</title>, wrote a biography of 
+  <persName key="SID01">Sarah Siddons</persName>, and became rector of Glasgow University. </p>
+                        <p>In terms of evidence to confirm this identification, Marshall records that Thomas Campbell
+  'became a close friend as a result' of a laudatory review of <title>Cloudesley</title> (1830) (although Godwin knew him prior to this) in the <title>New Monthly
   Magazine</title>, Locke lists him as one of the few new friends in the last years of Godwin's life, and all of the
-  biographers record that Campbell attended Godwin's funeral. The last meeting of the pair, when Godwin dined at Campbell's with <persName xmlns="http://www.tei-c.org/ns/1.0" key="CZA01">Czartoriski</persName> is suggestive - 
+  biographers record that Campbell attended Godwin's funeral. The last meeting of the pair, when Godwin dined at Campbell's with <persName key="CZA01">Czartoriski</persName> is suggestive - 
   Campbell was an advocate of Polish independence and Czartoriski was a Polish prince who had fought against the 
-  Russians and been driven into exile. This entry also allows us to determine that the later 'Campbels' refer to Thomas.</p><p xmlns="http://www.tei-c.org/ns/1.0">There are other instances of Campbell/Campbel (without an initial) in the diary that may refer to Thomas. Although it is clear that Godwin knew other people by this 
+  Russians and been driven into exile. This entry also allows us to determine that the later 'Campbels' refer to Thomas.</p>
+                        <p>There are other instances of Campbell/Campbel (without an initial) in the diary that may refer to Thomas. Although it is clear that Godwin knew other people by this 
    name in the 1790s and early 1800s, the entry for 17 October 1807 suggests that some of them may refer to Thomas. It reads: 'Dine at Perry’s, w. Currans, Popes, 
    Spanky, Campbel, Macdonnel &amp; Finnerty: sleep. This dinner overlaps significantly with a prior entry for 7 March 1802: 'dine at Perry's, w. M J, Tho. Campbel, 
    Spanky, Ramsay, 3 Bonnors, Gillies's, &amp; miss Stuart'. This indicates that Godwin may reference Thomas Campbell as a plain Campbel/Campbell. However, unless
    the context is very suggestive, such as the 1807 entry, they have been left uncoded. This excludes the 1835-6 Campbels which have all been coded as Thomas as it seems probable that there are 
-   no other Campbells in his circle by then.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 13, fol. 1: 17 November 1821</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 12, fol. 113: 8 November 1821</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 13, fols. 46-7: 6 February 1826</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 14, fol. 20: 19 October 1833</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">St Clair</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Marshall</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Locke</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-03-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-04-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-04-22" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-02-04" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-10-17" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-11-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-11-06" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-11-07" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-11-08" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-11-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-11-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-11-28" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"><date xmlns="http://www.tei-c.org/ns/1.0" when="1822-01-31" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"><date xmlns="http://www.tei-c.org/ns/1.0" when="1826-02-01" n="venue" type="nah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-06-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-10-11" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-03-02" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-03-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-09-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-09-05" n="notVenue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-09-06" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-09-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-09-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-09-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-09-23" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-09-24" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-09-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-09-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-09-30" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-10-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-10-06" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-10-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-10-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-10-30" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-11-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-11-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-11-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-12-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-12-06" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-01-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-01-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-01-23" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-02-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-02-09" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-02-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-04-30" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-05-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-06-27" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-07-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-07-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-08-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-08-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-08-30" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-09-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-10-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-11-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-12-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-12-27" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"><date xmlns="http://www.tei-c.org/ns/1.0" when="1836-02-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1836-03-03" n="notVenue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1836-03-05" n="venue" type="ah"/></ab></ab></person></listPerson>
+   no other Campbells in his circle by then.</p>
+                    </note>
+                    <bibl type="MS"> MS. Abinger c. 13, fol. 1: 17 November 1821</bibl>
+                    <bibl type="MS"> MS. Abinger c. 12, fol. 113: 8 November 1821</bibl>
+                    <bibl type="MS"> MS. Abinger c. 13, fols. 46-7: 6 February 1826</bibl>
+                    <bibl type="MS"> MS. Abinger c. 14, fol. 20: 19 October 1833</bibl>
+                    <bibl type="printedbook">St Clair</bibl>
+                    <bibl type="printedbook">Marshall</bibl>
+                    <bibl type="printedbook">Locke</bibl>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

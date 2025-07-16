@@ -1,29 +1,75 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="STA04" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Lincoln</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Stanhope</surname><addName xmlns="http://www.tei-c.org/ns/1.0">Edwin Robert</addName></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1781"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1840"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Lincoln Edwin Robert Stanhope (1781-1840), major general in the army, second
-    son of <persName xmlns="http://www.tei-c.org/ns/1.0" key="STA03">Charles Stanhope</persName>, third earl of Harrington, and elder
-    brother of <persName xmlns="http://www.tei-c.org/ns/1.0" key="STA01">Leicester Stanhope</persName>. Godwin sees him occasionally between 1830 and 1836, 
-    often at the theatre. </p><p xmlns="http://www.tei-c.org/ns/1.0">There are two uncertainties: Godwin uses Stanhope, L Stanhope, LeicStanhope and Linc Stanhope. This means that it is unclear 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="STA04" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Lincoln</forename>
+                        <surname>Stanhope</surname>
+                        <addName>Edwin Robert</addName>
+                    </persName>
+                    <birth when="1781">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1840"/>
+                    <occupation/>
+                    <note type="editorial">
+                        <p>Lincoln Edwin Robert Stanhope (1781-1840), major general in the army, second
+    son of <persName key="STA03">Charles Stanhope</persName>, third earl of Harrington, and elder
+    brother of <persName key="STA01">Leicester Stanhope</persName>. Godwin sees him occasionally between 1830 and 1836, 
+    often at the theatre. </p>
+                        <p>There are two uncertainties: Godwin uses Stanhope, L Stanhope, LeicStanhope and Linc Stanhope. This means that it is unclear 
       whether Stanhope and L. Stanhope, refer to Leicester or Lincoln, or whether the Stanhope entries in fact refer to Charles, the eldest brother.  
       Charles' reputaton as a dandy and his   close association with the Prince of Wales makes him an unlikley person for Godwin to have been close to, 
       so we have assumed that entries refer to the
-      two younger brothers. Moreover, we believe that L Stanhope refers to Lincoln, the elder brother. This is supported by references in Mary Shelley's journal: <lb xmlns="http://www.tei-c.org/ns/1.0"/>  
+      two younger brothers. Moreover, we believe that L Stanhope refers to Lincoln, the elder brother. This is supported by references in Mary Shelley's journal: <lb/>  
       'I was at the 
       opera yesterday on the first night of its opening -    [John Dean] Paul - Sir John [Paul] and Lincoln Stanhope and others came into our box - We spent a
-      very pleasant evening' (6 February 1831).   <lb xmlns="http://www.tei-c.org/ns/1.0"/>  
-      On 3 April 1832, she notes: <lb xmlns="http://www.tei-c.org/ns/1.0"/>  'Last Friday I was at the Stanhopes - there was Charles Beuclerc - Lincoln S.[tanhope] The Duke and Duchess of Leinster...'<lb xmlns="http://www.tei-c.org/ns/1.0"/>  
-      Godwin's also records this event on 30 March 1832:     <lb xmlns="http://www.tei-c.org/ns/1.0"/>  
-      'L Stanhope’s, w. Ds Leinster, miss Porters, Birkbecks, Holmeses, Rosetti, Alkali &amp; MWS. '   <lb xmlns="http://www.tei-c.org/ns/1.0"/>  
+      very pleasant evening' (6 February 1831).   <lb/>  
+      On 3 April 1832, she notes: <lb/>  'Last Friday I was at the Stanhopes - there was Charles Beuclerc - Lincoln S.[tanhope] The Duke and Duchess of Leinster...'<lb/>  
+      Godwin's also records this event on 30 March 1832:     <lb/>  
+      'L Stanhope’s, w. Ds Leinster, miss Porters, Birkbecks, Holmeses, Rosetti, Alkali &amp; MWS. '   <lb/>  
       This suggests that L Stanhope entries ought to be coded as Lincoln Stanhope, as should 'Stanhope' entries, and it suggests 
       there is less intimacy between Godwin and Leicester Stanhope than between Mary Shelley and the Stanhopes.  
       However, this is misleading. Early contact with Lincoln does seem to be restricted to the theatre, and in the period when Godwin sees 
       most of Lincoln Stanhope, he develops a relationship with Leicester, through Mary Shelley, so that, when Leicester marries the daughter of  
       Mrs Somerville Wood in  1831, contact increases and we can place Leicester on occasions when there is a stanhope with the Woods circle. The vast majority of cases that are uncertain, 
       that we have coded as Lincoln, are meetings or 'advs' at the Theatre, which match those occasions specifically identified at Lincoln Stanhope, and while the number
-      of encounters with leicester Stanhope at the theatre increases in 1834-5, these are now clearly identified. </p><p xmlns="http://www.tei-c.org/ns/1.0">It is not clear whether Lincoln Stanhope should be included in 'Stanhopes' entries.  
+      of encounters with leicester Stanhope at the theatre increases in 1834-5, these are now clearly identified. </p>
+                        <p>It is not clear whether Lincoln Stanhope should be included in 'Stanhopes' entries.  
       They are not included because the ambiguities in Godwin's use of possessives and plurals 
       makes it difficult to know whether Stanhope's signifies just Leicester Stanhope, or includes 
       other members of the family; and because we cannot be sure that even in clear cases of the 
-      plural, 'Stanhopes' , that this necessarily includes Lincoln, since it may refer only to Leicester and his wife.</p><p xmlns="http://www.tei-c.org/ns/1.0">The National Portrait Gallery has a portrait     of Lincoln Stanhope (1781-1840), Soldier; son of 3rd Earl of Harrington who appears with Jane (Fleming), 
+      plural, 'Stanhopes' , that this necessarily includes Lincoln, since it may refer only to Leicester and his wife.</p>
+                        <p>The National Portrait Gallery has a portrait     of Lincoln Stanhope (1781-1840), Soldier; son of 3rd Earl of Harrington who appears with Jane (Fleming), 
       Countess of Harrington (died 1824),  Wife of 3rd Earl of Harrington, and also Charles Stanhope, 4th Earl of Harrington (1780-1851), 
       Colonel and Lord of the Bedchamber.  
-    </p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>.</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook"><title xmlns="http://www.tei-c.org/ns/1.0">The journals of Mary Shelley, 1814–1844</title>, ed. by Paula R. Feldman and Diana 
-    Scott-Kilvert, 2 vols (Oxford and New York: Oxford University Press; Clarendon Press, 1987), pp. 519 and 525, note 1.</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-11-30" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-12-15" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-03-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-03-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-04-05" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-10-14" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-11-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-12-20" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-02-17" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-03-17" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-04-05" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-08-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-10-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-10-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-11-05" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-04-24" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-10-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-11-06" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-11-15" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-01-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-09-20" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"><date xmlns="http://www.tei-c.org/ns/1.0" when="1836-02-10" n="notVenue" type="ah"/></ab></ab></person></listPerson>
+    </p>
+                    </note>
+                    <bibl type="other"><title>DNB</title>.</bibl>
+                    <bibl type="printedbook"><title>The journals of Mary Shelley, 1814–1844</title>, ed. by Paula R. Feldman and Diana 
+    Scott-Kilvert, 2 vols (Oxford and New York: Oxford University Press; Clarendon Press, 1987), pp. 519 and 525, note 1.</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

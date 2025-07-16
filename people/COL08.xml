@@ -1,4 +1,47 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="COL08" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0"/><surname xmlns="http://www.tei-c.org/ns/1.0">Cole</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1000"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Husband of <persName xmlns="http://www.tei-c.org/ns/1.0" key="HOL01">Thomas Holcroft's</persName> daughter Sophie (marr. c. 1794). Cole was a merchant
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="COL08" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename/>
+                        <surname>Cole</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName/>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation/>
+                    <note type="editorial">
+                        <p>Husband of <persName key="HOL01">Thomas Holcroft's</persName> daughter Sophie (marr. c. 1794). Cole was a merchant
     in Exeter, but seems to have transferred his business to Hamburg by 1799 so that Holcroft and
-    his family stay with them briefly when they first arrive in Hamburg.</p><p xmlns="http://www.tei-c.org/ns/1.0">Godwin's contacts with Cole are entirely at Holcrofts, save for a few entries in 1802 and 1814; but the 1830 entry is
-    linked to the <persName xmlns="http://www.tei-c.org/ns/1.0" key="KEN01">Kenneys</persName>.  </p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook"> Thomas Holcroft, <title xmlns="http://www.tei-c.org/ns/1.0">The life of Thomas Holcroft, continued by William Hazlitt</title>, ed. by Elbridge Colby, 2 vols (London: Constable and Co., 1925), p. 40 and p. 285.</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-09-22" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-04-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-05-04" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-07-31" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-02-14" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-02-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-03-06" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-04-24" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-08-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-08-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-09-04" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-02-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-03-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-03-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-03-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-04-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-04-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-04-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-05-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-12-25" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-01-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-01-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-05-13" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-10-10" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-01-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-03-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-04-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-11-07" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"><date xmlns="http://www.tei-c.org/ns/1.0" when="1814-04-10" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-03-15" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    his family stay with them briefly when they first arrive in Hamburg.</p>
+                        <p>Godwin's contacts with Cole are entirely at Holcrofts, save for a few entries in 1802 and 1814; but the 1830 entry is
+    linked to the <persName key="KEN01">Kenneys</persName>.  </p>
+                    </note>
+                    <bibl type="printedbook"> Thomas Holcroft, <title>The life of Thomas Holcroft, continued by William Hazlitt</title>, ed. by Elbridge Colby, 2 vols (London: Constable and Co., 1925), p. 40 and p. 285.</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,10 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="BAR06" sex="2"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Anna Letitia</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Barbauld</surname><addName xmlns="http://www.tei-c.org/ns/1.0">née Aikin</addName></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1743-06-20"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1825-03-09"/><occupation xmlns="http://www.tei-c.org/ns/1.0">poet</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">essayist</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Mrs Barbauld was one of the leading poets of her day. She was also a political writer who supported the repeal of the Test and Corporation Acts and the 
-    Abolition movement. Although she is better remembered than her husband, <persName xmlns="http://www.tei-c.org/ns/1.0" key="BAR07">Rochemont</persName>, there is no reason to believe that Godwin's primary relationship was
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="BAR06" sex="2">
+                    <persName>
+                        <roleName/>
+                        <forename>Anna Letitia</forename>
+                        <surname>Barbauld</surname>
+                        <addName>née Aikin</addName>
+                    </persName>
+                    <birth when="1743-06-20">
+                        <placeName/>
+                    </birth>
+                    <death when="1825-03-09"/>
+                    <occupation>poet</occupation>
+                    <occupation>essayist</occupation>
+                    <note type="editorial">
+                        <p>Mrs Barbauld was one of the leading poets of her day. She was also a political writer who supported the repeal of the Test and Corporation Acts and the 
+    Abolition movement. Although she is better remembered than her husband, <persName key="BAR07">Rochemont</persName>, there is no reason to believe that Godwin's primary relationship was
     with Mrs Barbauld. Indeed, given his dissenting background and his connections with the
     Warrington Academy contact with Rochemont Barbauld is more likely. On this basis the entries have been coded as Rochemont when they lack a plural or an 
     apostrophe, or when not preceded by Mrs or A, and Mrs Barbauld has been included in all that have an apostrophe or a plural. This means that
     the majority of references do include Mrs Barbauld, and it suggests that the links between them do
     increasingly centre around mrs Barbauld - although Rochemont does continue to appear although usually
-    as a 'meet' 'and only on two occasions clearly in company.  However, one entry at <persName xmlns="http://www.tei-c.org/ns/1.0" key="JOH01">Joseph
+    as a 'meet' 'and only on two occasions clearly in company.  However, one entry at <persName key="JOH01">Joseph
     Johnson's</persName> may in fact be Mrs Barbauld (11 January 1804) as we are not aware of Rochemont Barbauld having
-    published work, while Anna Barbauld did publish with Johnson.  </p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"><date xmlns="http://www.tei-c.org/ns/1.0" when="1789-07-29" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-07-09" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-12-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-12-31" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-01-26" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-03-07" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-03-30" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-05-20" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-05-27" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-10-29" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-01-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-03-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-05-16" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-02-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-04-27" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-01-28" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-10-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-12-31" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-05-24" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-06-10" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-04-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-07-02" n="venue" type="nah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-04-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-05-31" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-06-17" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-08-03" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-10-24" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-01-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-09-18" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-07-16" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"><date xmlns="http://www.tei-c.org/ns/1.0" when="1825-03-09" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    published work, while Anna Barbauld did publish with Johnson.  </p>
+                    </note>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

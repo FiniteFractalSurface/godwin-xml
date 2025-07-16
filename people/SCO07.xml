@@ -1,14 +1,56 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="SCO07" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">John</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Scott</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1784-10-24"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1821-03-09"/><occupation xmlns="http://www.tei-c.org/ns/1.0">journalist</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">In 1807, John Scott (1784-1821), journalist, was appointed editor of the radical paper <title xmlns="http://www.tei-c.org/ns/1.0">The Statesman</title> founded by his then friend Leigh Hunt. 
-An attempt to start his own paper was unsuccessful and he later moved to Lincolnshire and became editor of <title xmlns="http://www.tei-c.org/ns/1.0">Drakard's Stamford News</title>,
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="SCO07" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>John</forename>
+                        <surname>Scott</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1784-10-24">
+                        <placeName/>
+                    </birth>
+                    <death when="1821-03-09"/>
+                    <occupation>journalist</occupation>
+                    <note type="editorial">
+                        <p>In 1807, John Scott (1784-1821), journalist, was appointed editor of the radical paper <title>The Statesman</title> founded by his then friend Leigh Hunt. 
+An attempt to start his own paper was unsuccessful and he later moved to Lincolnshire and became editor of <title>Drakard's Stamford News</title>,
     which he transformed into a powerful mouthpiece for 
-reformist ideas. By 1813 he owned and edited the London edition of Drakard's paper, which he renamed <title xmlns="http://www.tei-c.org/ns/1.0">The Champion</title> in 1814. 
-He published critical pieces by <persName xmlns="http://www.tei-c.org/ns/1.0" key="HAZ01">Hazlitt</persName>, with whom he had been good friends since 1805, and some occasional pieces 
-    by <persName xmlns="http://www.tei-c.org/ns/1.0" key="LAM01">Charles Lamb</persName>.
+reformist ideas. By 1813 he owned and edited the London edition of Drakard's paper, which he renamed <title>The Champion</title> in 1814. 
+He published critical pieces by <persName key="HAZ01">Hazlitt</persName>, with whom he had been good friends since 1805, and some occasional pieces 
+    by <persName key="LAM01">Charles Lamb</persName>.
 He was also friends with Wordsworth whom he met for the first time in 1815.
 After a period spent abroad, Scott returned to London in 1819. Having sold the Champion, he now edited the politically liberal London Magazine 
 which also published work by Hazlitt and Lamb. The antagonism between the London Magazine and Blackwood's 
 prompted the literary attacks by Scott and Lockhart (editor of Blackwood's) that eventually led to a duel 
 between Scott and Lockhart's agent Jonathan Henry      
-     Christie. Scott was shot and died from his injuries shortly afterwards.<lb xmlns="http://www.tei-c.org/ns/1.0"/>
+     Christie. Scott was shot and died from his injuries shortly afterwards.<lb/>
      
-    His only appearance in the diary is 16 February 1821 when Godwin records the contest: 'Duel, John Scott &amp; Christie'.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>. </bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-02-16" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    His only appearance in the diary is 16 February 1821 when Godwin records the contest: 'Duel, John Scott &amp; Christie'.</p>
+                    </note>
+                    <bibl type="other"><title>DNB</title>. </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

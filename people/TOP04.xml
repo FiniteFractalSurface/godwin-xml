@@ -1,11 +1,51 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="TOP04" sex="0"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">E</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Topping</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1000"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">E Topping is likely a member of a Family of French emigres who were friends with Mary Jane and
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="TOP04" sex="0">
+                    <persName>
+                        <roleName/>
+                        <forename>E</forename>
+                        <surname>Topping</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName/>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation/>
+                    <note type="editorial"><p>E Topping is likely a member of a Family of French emigres who were friends with Mary Jane and
     the family. Mary Jane    went to stay with them in Baker Street for several months in 1811 when
     she  left Godwin (see St Clair).</p>
     ________________________________________
     
     
-    <p xmlns="http://www.tei-c.org/ns/1.0"><persName xmlns="http://www.tei-c.org/ns/1.0" key="TOP01">Mrs Topping</persName> features largely in the entries, especially  before 1811/12 when Godwin begins to see more of E Topping.  However, E Topping  does not 
-      seem to be the husband of Mrs Topping. We are assuming that Godwin refers to the husband as <persName xmlns="http://www.tei-c.org/ns/1.0" key="TOP03">Topping</persName>.  Because of this proximity we have 
+    <p><persName key="TOP01">Mrs Topping</persName> features largely in the entries, especially  before 1811/12 when Godwin begins to see more of E Topping.  However, E Topping  does not 
+      seem to be the husband of Mrs Topping. We are assuming that Godwin refers to the husband as <persName key="TOP03">Topping</persName>.  Because of this proximity we have 
       coded entries where Godwin has a meal at 'Topping's' as indicating a 
       plural, signfying both Mr and Mrs Topping.  There are occasional entries 
-      for S Toppings, and for Miss Toppings. We have left these uncoded. 'Mes Topping' we assume includes Mrs Toppings and an unknown female other(s).  </p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">St Clair, p. 250 and p. 312</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-12-12" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-03-09" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-01-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-01-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-03-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-04-14" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-01-23" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-10-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-10-28" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-04-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-07-23" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-07-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-08-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-08-23" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-02-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-03-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-03-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-04-06" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-05-05" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-05-06" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-05-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-07-17" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-08-14" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-09-30" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-10-02" n="notVenue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-10-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-11-23" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-12-07" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-12-24" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-03-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-05-08" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"><date xmlns="http://www.tei-c.org/ns/1.0" when="1814-08-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1814-08-10" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+      for S Toppings, and for Miss Toppings. We have left these uncoded. 'Mes Topping' we assume includes Mrs Toppings and an unknown female other(s).  </p></note>
+                    <bibl type="printedbook">St Clair, p. 250 and p. 312</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

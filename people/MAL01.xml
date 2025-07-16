@@ -1,6 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="MAL01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0">Rev</roleName><forename xmlns="http://www.tei-c.org/ns/1.0">Thomas Robert</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Malthus</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1766-02-13"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1834-12-29"/><occupation xmlns="http://www.tei-c.org/ns/1.0">political economist</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">clergyman</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Thomas Malthus, the political economist, rose to prominence following his 1798 treatise <title xmlns="http://www.tei-c.org/ns/1.0">An Essay on the Principle of Population</title> which was inspired (negatively) by 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="MAL01" sex="1">
+                    <persName>
+                        <roleName>Rev</roleName>
+                        <forename>Thomas Robert</forename>
+                        <surname>Malthus</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1766-02-13">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1834-12-29"/>
+                    <occupation>political economist</occupation>
+                    <occupation>clergyman</occupation>
+                    <note type="editorial">
+                        <p>Thomas Malthus, the political economist, rose to prominence following his 1798 treatise <title>An Essay on the Principle of Population</title> which was inspired (negatively) by 
     reading Godwin and Condorcet. Godwin met him first at Joseph Johnson's in 1798, who published Malthus's first edition. Godwin responded to Malthus
-    famously in 1820 with his <title xmlns="http://www.tei-c.org/ns/1.0">Of Population</title>. Their relationship was always slightly strained, with Godwin feeling that Malthus was not taking into account the potential impact of moral restraint,
-       but it became cooler after the second edition of the <title xmlns="http://www.tei-c.org/ns/1.0">Essay </title>in 1803 (when Godwin had written some short pieces defending his views, which Malthus ignored), and deteriorated still further after Godwin's own full length response - in part because 
-      Godwin sensed a conspiracy in the attacks it received from the political economy journals.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook"> St Clair, <title xmlns="http://www.tei-c.org/ns/1.0">The Godwins and the Shelleys</title>, p. 458</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Gerald P. Tyson, <title xmlns="http://www.tei-c.org/ns/1.0">Joseph Johnson: A Liberal Publisher</title> (Iowa City: 
-    University of Iowa Press, 1979), p. 146 and pp. 193-4.</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-08-14" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-08-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-09-04" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-05-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-12-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-12-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-12-11" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-01-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-04-14" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-05-06" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-05-23" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-08-01" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-03-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-03-17" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-10-20" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-01-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-02-17" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-05-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-12-17" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-08-12" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"><date xmlns="http://www.tei-c.org/ns/1.0" when="1818-11-11" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"><date xmlns="http://www.tei-c.org/ns/1.0" when="1820-10-31" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-06-06" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-09-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-12-20" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"><date xmlns="http://www.tei-c.org/ns/1.0" when="1822-12-12" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    famously in 1820 with his <title>Of Population</title>. Their relationship was always slightly strained, with Godwin feeling that Malthus was not taking into account the potential impact of moral restraint,
+       but it became cooler after the second edition of the <title>Essay </title>in 1803 (when Godwin had written some short pieces defending his views, which Malthus ignored), and deteriorated still further after Godwin's own full length response - in part because 
+      Godwin sensed a conspiracy in the attacks it received from the political economy journals.</p>
+                    </note>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                    <bibl type="printedbook"> St Clair, <title>The Godwins and the Shelleys</title>, p. 458</bibl>
+                    <bibl type="printedbook">Gerald P. Tyson, <title>Joseph Johnson: A Liberal Publisher</title> (Iowa City: 
+    University of Iowa Press, 1979), p. 146 and pp. 193-4.</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

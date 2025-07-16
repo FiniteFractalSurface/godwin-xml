@@ -1,15 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="ROG02" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Henry</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Rogers</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1000"/><occupation xmlns="http://www.tei-c.org/ns/1.0">banker</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">There are two main 'Rogers' in Godwin's diary.  These are the brothers, Samuel Rogers, the poet, and 
-    his younger brother <persName xmlns="http://www.tei-c.org/ns/1.0" key="ROG02">Henry Rogers</persName> 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="ROG02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Henry</forename>
+                        <surname>Rogers</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName/>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation>banker</occupation>
+                    <note type="editorial">
+                        <p>There are two main 'Rogers' in Godwin's diary.  These are the brothers, Samuel Rogers, the poet, and 
+    his younger brother <persName key="ROG02">Henry Rogers</persName> 
    who took over the management of the Rogers bank to a large extent after they inherited it from their father 
     in 1793.  Samuel Rogers played an important part in the business both under his father and for the first few years after his 
-    father's death, but by 1802 Henry was carrying the major responsibility for its management. </p><p xmlns="http://www.tei-c.org/ns/1.0"> Godwin's contacts with Samuel Rogers go back to 1787 (see 1796 list).  Indeed, he had probably known Thamas Rogers, 
+    father's death, but by 1802 Henry was carrying the major responsibility for its management. </p>
+                        <p> Godwin's contacts with Samuel Rogers go back to 1787 (see 1796 list).  Indeed, he had probably known Thamas Rogers, 
       Samuel's father
       since 1777 (see, again, the 1796 list).  The 1796 list also mentions meetings with Sir F Rogers and G Rogers in 1794.  
       These remain unidentified.  In both cases there is no subsequent 
-      reference to these individuals by their initials. In contrast there is extensive use of S and H Rogers.</p><p xmlns="http://www.tei-c.org/ns/1.0">The pattern of contacts suggests that Godwin initially notes 'S Rogers', but from 1795 he abbreviates that to 'Rogers'.  The vast majority of the 
-     entries in the 1790s refer to his presence at dinners at <persName xmlns="http://www.tei-c.org/ns/1.0" key="KIN01">John King's</persName> together with a few at <persName xmlns="http://www.tei-c.org/ns/1.0" key="TOO01">Horne Tooke's</persName>. In both cases, 
+      reference to these individuals by their initials. In contrast there is extensive use of S and H Rogers.</p>
+                        <p>The pattern of contacts suggests that Godwin initially notes 'S Rogers', but from 1795 he abbreviates that to 'Rogers'.  The vast majority of the 
+     entries in the 1790s refer to his presence at dinners at <persName key="KIN01">John King's</persName> together with a few at <persName key="TOO01">Horne Tooke's</persName>. In both cases, 
       the identification of Samuel is 
-      certainly plausible.  Rogers also appears at <persName xmlns="http://www.tei-c.org/ns/1.0" key="FOX01">Fox's</persName> funeral in 1806, and it seems clear that this is Samuel.
+      certainly plausible.  Rogers also appears at <persName key="FOX01">Fox's</persName> funeral in 1806, and it seems clear that this is Samuel.
       The picture becomes more complicated in 1806 when H Rogers is introduced into the diary.   It seems likely that the first meeting was 
       recorded as Rogers junr in March 1800 
       but with no subsequent meeting until identified as H Rogers in 1806. At this time the two brothers are closely connected and, for Godwin,
@@ -20,22 +57,38 @@
       but many are plain 'Rogers', and some (few) are 'S Rogers'.  Given this, there must be some uncertainty about the appropriate attribution.   In Henry Crabbe 
       Robinson's diary, for example, he notes that on 20 January 1812 that 'Rogers the banker' was in the audience of Coleridge's lecture but Godwin 
       enters only Rogers, demonstrating that he does not use the intials consistently.  Also on 19 May 1806, 'Call on Rogers, St James’s Place and
-      Cornhill' refers to Samuel Rogers' new house at 22 St James' Place.</p><p xmlns="http://www.tei-c.org/ns/1.0"> We have accordingly had to judge in each case whether the Rogers entered is Samuel or Henry. There is no straightfoward criterion 
+      Cornhill' refers to Samuel Rogers' new house at 22 St James' Place.</p>
+                        <p> We have accordingly had to judge in each case whether the Rogers entered is Samuel or Henry. There is no straightfoward criterion 
       for doing so, but we have assumed that frequent interaction 
       will tend to diminish the use of an initial, and there are some venues where one is more likely than the other.   We also 
       believe that, as Godwin's financial difficulties developed, and as he was less engaged in literary 
       activity (c1805-15), his contacts were increasingly with Henry, rather than Samuel. But this must be conjecture.  Our sense is that 
-      from 1817 the contacts with Samuel increase again - with <persName xmlns="http://www.tei-c.org/ns/1.0" key="MAC01">Mackintosh</persName> 
+      from 1817 the contacts with Samuel increase again - with <persName key="MAC01">Mackintosh</persName> 
       being a strong connection.  There are no contacts at the end of the 1820s and when they begin again it is through 
-      <persName xmlns="http://www.tei-c.org/ns/1.0" key="NOR01">Northcote</persName>, which suggests S Rogers. As does the context of the entries in the 1830's.  The letter from 
+      <persName key="NOR01">Northcote</persName>, which suggests S Rogers. As does the context of the entries in the 1830's.  The letter from 
       S Rogers dated 18 November 1806 in the Abinger collection confirms the identification of Samuel for 19 November 1806.
       Two letters from Samuel Rogers, between 1833 and 1836,  confirm his  connection with Godwin late in the diary.
-      Moreover, his correspondence with Mary Shelley is extensive after Godwin's death.</p><p xmlns="http://www.tei-c.org/ns/1.0">We have not coded Sir F Rogers (8 March 1795); Rogers cordonnier (22 August 1802); D Rogers (9 December 1824); Rogers (Clement Lane) (10 November 1827)
+      Moreover, his correspondence with Mary Shelley is extensive after Godwin's death.</p>
+                        <p>We have not coded Sir F Rogers (8 March 1795); Rogers cordonnier (22 August 1802); D Rogers (9 December 1824); Rogers (Clement Lane) (10 November 1827)
       this seems 
       to be Messrs Rogers, Towgood and co. of Clement Lane, who appears to be unconnected with S and H Rogers.  We have left the Rogers (aveugle) 
-      entry of 21 April 1833 as S Rogers, (it is at Booth's), since it may refer to a temporary condition.</p><p xmlns="http://www.tei-c.org/ns/1.0"> See, from the Abinger collection,  the note to Marshall (undated)  in which Godwin says that he has to call on Henry Rogers 
+      entry of 21 April 1833 as S Rogers, (it is at Booth's), since it may refer to a temporary condition.</p>
+                        <p> See, from the Abinger collection,  the note to Marshall (undated)  in which Godwin says that he has to call on Henry Rogers 
       about a bill that he has lying there that he must pay by Saturday - but he hopes to get Henry Rogers to renew 
-      it - but Samuel Rogers , 'the right hand', does not know what Henry Rogers, 'the left hand', is doing.</p><p xmlns="http://www.tei-c.org/ns/1.0">The entry of 17 January 1831 'Call on Northcote ; adv. Rogers, pictor' could refer to the painter Philip Huchings Rogers
+      it - but Samuel Rogers , 'the right hand', does not know what Henry Rogers, 'the left hand', is doing.</p>
+                        <p>The entry of 17 January 1831 'Call on Northcote ; adv. Rogers, pictor' could refer to the painter Philip Huchings Rogers
       (1785/6-1853) but this is unconfirmed, and it could be a reference to a portrait of Rogers.
-    </p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>.</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook"><title xmlns="http://www.tei-c.org/ns/1.0">The Diary of Henry Crabb Robinson: An Abridgement</title>, ed. by Derek Hudson 
-(London: Oxford University Press, 1967) and Abinger Papers.</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">MS. Abinger c. 10, fols. 17-18: 18 November [1806].</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">MS. Abinger c. 14, fol. 36: 4 August 1834.</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">MS. Abinger c. 14, fols. 25-6: [1833-36].</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">MS. Abinger c. 16, fols. 17-18: n.d.</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-03-16" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-11-19" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-12-10" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-12-18" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-03-18" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-06-17" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-08-05" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-09-10" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-10-23" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-10-28" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-11-07" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-01-06" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-01-28" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-02-04" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-03-04" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-07-05" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-09-21" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-09-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-12-14" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-02-14" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-11-10" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-05-23" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-06-05" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-10-26" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-01-17" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-02-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-04-18" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-04-22" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-04-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-06-25" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-01-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-07-05" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-05-13" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-09-11" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"><date xmlns="http://www.tei-c.org/ns/1.0" when="1814-04-05" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"><date xmlns="http://www.tei-c.org/ns/1.0" when="1815-04-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1815-05-17" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1815-08-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1815-08-24" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1815-11-16" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1815-11-26" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1815-12-02" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-01-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-01-29" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-01-29" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-02-25" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"><date xmlns="http://www.tei-c.org/ns/1.0" when="1818-10-30" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"><date xmlns="http://www.tei-c.org/ns/1.0" when="1820-05-12" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"><date xmlns="http://www.tei-c.org/ns/1.0" when="1822-12-09" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1822-12-10" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"><date xmlns="http://www.tei-c.org/ns/1.0" when="1823-04-29" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"><date xmlns="http://www.tei-c.org/ns/1.0" when="1825-02-28" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    </p>
+                    </note>
+                    <bibl type="other"><title>DNB</title>.</bibl>
+                    <bibl type="printedbook"><title>The Diary of Henry Crabb Robinson: An Abridgement</title>, ed. by Derek Hudson 
+(London: Oxford University Press, 1967) and Abinger Papers.</bibl>
+                    <bibl type="MS">MS. Abinger c. 10, fols. 17-18: 18 November [1806].</bibl>
+                    <bibl type="MS">MS. Abinger c. 14, fol. 36: 4 August 1834.</bibl>
+                    <bibl type="MS">MS. Abinger c. 14, fols. 25-6: [1833-36].</bibl>
+                    <bibl type="MS">MS. Abinger c. 16, fols. 17-18: n.d.</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

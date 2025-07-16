@@ -1,17 +1,64 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="DEA01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Peregrine</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Dealtry</surname><addName xmlns="http://www.tei-c.org/ns/1.0">Perry</addName></persName><birth xmlns="http://www.tei-c.org/ns/1.0" notBefore="1761" notAfter="1762"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1814-09-15"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Peregrine Perry Dealtry was the son of John Dealtry, MD, of York. He was a pupil and subsequently a close friend of <persName xmlns="http://www.tei-c.org/ns/1.0" key="PAR03">Samuel Parr</persName>. 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="DEA01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Peregrine</forename>
+                        <surname>Dealtry</surname>
+                        <addName>Perry</addName>
+                    </persName>
+                    <birth notBefore="1761" notAfter="1762">
+                        <placeName/>
+                    </birth>
+                    <death when="1814-09-15"/>
+                    <occupation/>
+                    <note type="editorial">
+                        <p>Peregrine Perry Dealtry was the son of John Dealtry, MD, of York. He was a pupil and subsequently a close friend of <persName key="PAR03">Samuel Parr</persName>. 
     During the early 1790s, he  was a member of the Society of the Friends of the People, and was among the 
     signatories of a 'Declaration agreed to by the society entitled the Friends 
-    of the People' (11 April 1792), reproduced in various accounts of <persName xmlns="http://www.tei-c.org/ns/1.0" key="HAR02">Thomas 
+    of the People' (11 April 1792), reproduced in various accounts of <persName key="HAR02">Thomas 
     Hardy's</persName> trial, and of a 'Declaration of the Friends to the Liberty of the 
     Press' (given in 1793 publication of proceedings from 22 Dec 1792 and 19 Jan 
-    1793).</p><p xmlns="http://www.tei-c.org/ns/1.0">On Dealtry and Parr see also Godwin's letter complaining to <persName xmlns="http://www.tei-c.org/ns/1.0" key="HOL05">Luisa Holcroft</persName> about the publication of <persName xmlns="http://www.tei-c.org/ns/1.0" key="HOL01">Thomas Holcroft's</persName> journals by 
-    <persName xmlns="http://www.tei-c.org/ns/1.0" key="HAZ01">William Hazlitt</persName>, in which he cites Holcroft as introducing Dealltry as saying that Parr could not spell. Dealtry does not appear in the published edition of the diary.</p><p xmlns="http://www.tei-c.org/ns/1.0">Dealtry died aged 52 while on a visit to Ryde in the Isle of Wight, on 15 
-    September 1814. In his obituary in the <title xmlns="http://www.tei-c.org/ns/1.0">Gentleman's Magazine</title>, he is described 
+    1793).</p>
+                        <p>On Dealtry and Parr see also Godwin's letter complaining to <persName key="HOL05">Luisa Holcroft</persName> about the publication of <persName key="HOL01">Thomas Holcroft's</persName> journals by 
+    <persName key="HAZ01">William Hazlitt</persName>, in which he cites Holcroft as introducing Dealltry as saying that Parr could not spell. Dealtry does not appear in the published edition of the diary.</p>
+                        <p>Dealtry died aged 52 while on a visit to Ryde in the Isle of Wight, on 15 
+    September 1814. In his obituary in the <title>Gentleman's Magazine</title>, he is described 
     as  'a steady friend to civil and religious liberty' who 'in earlier life 
     had mingled a good deal with men whose politicks were of a less sober 
-    temperament than his own.'   </p><p xmlns="http://www.tei-c.org/ns/1.0">Two of the entries that have been coded for Dealtry  (23 April 1798 and 9 October 1798) are in fact entries to Dealtry j, or Dealtry jr.  There is no evidence to suggest that 
+    temperament than his own.'   </p>
+                        <p>Two of the entries that have been coded for Dealtry  (23 April 1798 and 9 October 1798) are in fact entries to Dealtry j, or Dealtry jr.  There is no evidence to suggest that 
     Dealtry married (and he would have had to have married early to have a son attending dinners with Godwin), or that he had borthers.  However, his obituary refers to hom as 'a gentle
-    master, a warm friend, a kind neighbour and a tender relative' suggesting that there may have been a younger member of the family linked to him.  Curiosly, the <title xmlns="http://www.tei-c.org/ns/1.0">The Gentleman 
+    master, a warm friend, a kind neighbour and a tender relative' suggesting that there may have been a younger member of the family linked to him.  Curiosly, the <title>The Gentleman 
     and citizen's almanack ... for the year of our Lord, 1815</title> notes Pereg. Dealtry as a clerk to the court and clerk to the rules, in the Court of the King's Bench, alongside a Henry Dealtry.
-  These two instances have been coded as Peregrine Dealtry, although users should be aware that they may cast doubt on the attribution of both these and other entries for Dealtry.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">MS. Abinger c. 19</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="journalism"><title xmlns="http://www.tei-c.org/ns/1.0">Gentleman's Magazine</title>1814 July to September, p. 287</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="journalism"><title xmlns="http://www.tei-c.org/ns/1.0">The Gentleman 
-    and citizen's almanack ... for the year of our Lord, 1815</title> London, 1815</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-03-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-03-17" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-05-05" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-06-02" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-04" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-02-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-04-15" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-04-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-04-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-04-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-05-13" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-05-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-06-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-06-13" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-03-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-03-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-03-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-05-23" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-02-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-02-16" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-03-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-04-23" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-10-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-12-02" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-10-10" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+  These two instances have been coded as Peregrine Dealtry, although users should be aware that they may cast doubt on the attribution of both these and other entries for Dealtry.</p>
+                    </note>
+                    <bibl type="MS">MS. Abinger c. 19</bibl>
+                    <bibl type="journalism"><title>Gentleman's Magazine</title>1814 July to September, p. 287</bibl>
+                    <bibl type="journalism"><title>The Gentleman 
+    and citizen's almanack ... for the year of our Lord, 1815</title> London, 1815</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

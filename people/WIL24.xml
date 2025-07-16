@@ -1,12 +1,57 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="WIL24" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0"/><surname xmlns="http://www.tei-c.org/ns/1.0"/><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1761"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1818"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0"> The first entry in 1788 is  'Wilson calls: correct for him Graham's Letter to Pitt on Scotch Reform'  (ie: Robert Graham, <title xmlns="http://www.tei-c.org/ns/1.0">A letter to the Right Honourable 
-    William Pitt ... on the reform of the internal government of the Royal Boroughs of Scotland. With an appendix.</title> London, 1788. 23pp. see <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WIL24" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename/>
+                        <surname/>
+                        <addName/>
+                    </persName>
+                    <birth when="1761">
+                        <placeName/>
+                    </birth>
+                    <death when="1818"/>
+                    <occupation/>
+                    <note type="editorial">
+                        <p> The first entry in 1788 is  'Wilson calls: correct for him Graham's Letter to Pitt on Scotch Reform'  (ie: Robert Graham, <title>A letter to the Right Honourable 
+    William Pitt ... on the reform of the internal government of the Royal Boroughs of Scotland. With an appendix.</title> London, 1788. 23pp. see <title>DNB</title>
     Graham [later Cunninghame Graham], Robert, of Gartmore (1735–1797)). 
     The publisher is listed as John Murray of 32 Fleet St., London (trading from 1743-1793), which suggests that Wilson might be the printer, but it is not possible 
     to identify him from the list of printers, which contain several Wilsons, and no reference is made in the advertisement for the pamphlet
-    in the <title xmlns="http://www.tei-c.org/ns/1.0">London Chronicle</title>, 17 May 1788.  Moreover, if the 1788 Wilsons are the same as those of 1794 and 
-    1796 where he is linked with Debrett, Mackintosh, and similar venues, is that he might have a more prominent role in political circles.</p><p xmlns="http://www.tei-c.org/ns/1.0">Jane Rendall and C. J. Woods, show that this Wilson is likely to be <persName xmlns="http://www.tei-c.org/ns/1.0" key="WIL24">John Wilson</persName> (b. 1761 d. c 1818), brother of Thomas Wilson of Dullatur ( b. 20 October 1758 d. 27 June 1824), 
+    in the <title>London Chronicle</title>, 17 May 1788.  Moreover, if the 1788 Wilsons are the same as those of 1794 and 
+    1796 where he is linked with Debrett, Mackintosh, and similar venues, is that he might have a more prominent role in political circles.</p>
+                        <p>Jane Rendall and C. J. Woods, show that this Wilson is likely to be <persName key="WIL24">John Wilson</persName> (b. 1761 d. c 1818), brother of Thomas Wilson of Dullatur ( b. 20 October 1758 d. 27 June 1824), 
       who is connected with Wolfe Tone. John Wilson is in London by 1787, having opted for a legal career, and was the London secretary of the burgh reform movement.  Rendall shows that 
       there was considerable communication between Wilson and Sheridan on the question of burgh reform, which makes it likely that rather than being 
       the printer of the piece, Wilson was in fact its advocate. This first entry, and the subsequent entries in 1788, 
-      have been identified as John Wilson. It is not possible to identify later entries as John. </p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="journalism"><title xmlns="http://www.tei-c.org/ns/1.0">London Chronicle</title>, 17 May 1788.</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>.</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other">Jane Rendall and C. J. Woods ' 'The unravelling of a mystery: Thomas Wilson (1758-1824) of Dullatur, 
-    the Scotttish second husband of Matilda Tone' <title xmlns="http://www.tei-c.org/ns/1.0">Journal of Irish and Scottish Studies</title>, forthcoming.</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"><date xmlns="http://www.tei-c.org/ns/1.0" when="1788-05-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1788-05-11" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1788-07-18" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1788-09-14" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+      have been identified as John Wilson. It is not possible to identify later entries as John. </p>
+                    </note>
+                    <bibl type="journalism"><title>London Chronicle</title>, 17 May 1788.</bibl>
+                    <bibl type="other"><title>DNB</title>.</bibl>
+                    <bibl type="other">Jane Rendall and C. J. Woods ' 'The unravelling of a mystery: Thomas Wilson (1758-1824) of Dullatur, 
+    the Scotttish second husband of Matilda Tone' <title>Journal of Irish and Scottish Studies</title>, forthcoming.</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

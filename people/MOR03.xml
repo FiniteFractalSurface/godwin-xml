@@ -1,21 +1,64 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="MOR03" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">George Cadogan</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Morgan</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1754"><placeName xmlns="http://www.tei-c.org/ns/1.0">Wales</placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1798-11-17"/><occupation xmlns="http://www.tei-c.org/ns/1.0">dissenting minister</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">scientist</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"> See <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>.
-  <p xmlns="http://www.tei-c.org/ns/1.0">George Cadogan Morgan was a nephew of Richard Price and a dissenting minister who taught Godwin at Hoxton.  His brother, William, also 
-  appears in the diary.  </p><p xmlns="http://www.tei-c.org/ns/1.0"><persName xmlns="http://www.tei-c.org/ns/1.0" key="MOR03">G. Morgan</persName> appears in 1789. Godwin's 1796 Diary records meeting Morgan
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="MOR03" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>George Cadogan</forename>
+                        <surname>Morgan</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1754">
+                        <placeName>Wales</placeName>
+                    </birth>
+                    <death when="1798-11-17"/>
+                    <occupation>dissenting minister</occupation>
+                    <occupation>scientist</occupation>
+                    <note type="editorial"> See <title>DNB</title>.
+  <p>George Cadogan Morgan was a nephew of Richard Price and a dissenting minister who taught Godwin at Hoxton.  His brother, William, also 
+  appears in the diary.  </p><p><persName key="MOR03">G. Morgan</persName> appears in 1789. Godwin's 1796 Diary records meeting Morgan
       with Kippis, Rees and others in 1773 - when he enters the Hoxton Academy where George Cadogan
       Morgan was teaching. This 1789 reference is in association with Price and the Revolutionists and
-      is probably George Cadogan Morgan (see <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> - he was a nephew of Richard Price). The same pattern
-      is there in 1791. It is possible that Godwin reads Morgan's pamphlet <title xmlns="http://www.tei-c.org/ns/1.0">An address to the Jacobine
+      is probably George Cadogan Morgan (see <title>DNB</title> - he was a nephew of Richard Price). The same pattern
+      is there in 1791. It is possible that Godwin reads Morgan's pamphlet <title>An address to the Jacobine
         and other patriotic societies: urging the establishment of a republican form of government</title> in
       February 1796, since he cites 45 pages, and does not return to the text - and that was
       approximately the length of Morgan's pamphlet. G C Morgan dies in November 1798 but there is no
-      mention of his death in the Diary, and no change in the pattern of recording Morgans. </p><p xmlns="http://www.tei-c.org/ns/1.0"> William Morgan was a nephew of Richard Price and was a renowned host of radical figures.  His brother, <persName xmlns="http://www.tei-c.org/ns/1.0" key="MOR03">George Cadogan Morgan</persName>, also
+      mention of his death in the Diary, and no change in the pattern of recording Morgans. </p><p> William Morgan was a nephew of Richard Price and was a renowned host of radical figures.  His brother, <persName key="MOR03">George Cadogan Morgan</persName>, also
       appears in the diary.  The first  W Morgan appears in 1793 - this might be G C Morgan's brother, also radically inclined, and an
-      actuary who worked with (his uncle)<persName xmlns="http://www.tei-c.org/ns/1.0" key="RRI02"> Richard Price</persName> - see <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>. It seems probable that Godwin knew
+      actuary who worked with (his uncle)<persName key="RRI02"> Richard Price</persName> - see <title>DNB</title>. It seems probable that Godwin knew
       them both - but it is unclear what proportion of 'Morgan' entries the brothers account for. W
       Morgan's eldest son, also William, was also an actuary , working from at least 1817, although he
       died aged 28 in 1819. He was succeeded by his youngest brother Arthur. Morgan actuary has been coded as W Morgan; as have entries for W Morgan. In addition, there are a close set of entries in 1818 
-      that begin with W Morgan and continue as Morgan, which occur while Godwin is writing <title xmlns="http://www.tei-c.org/ns/1.0">Of Population</title> where it seems likely that
+      that begin with W Morgan and continue as Morgan, which occur while Godwin is writing <title>Of Population</title> where it seems likely that
       Godwin is consulting him on the statistics.
       All instances of G Morgan have been identified as George Cadogan Morgan as well as one instance of Morgan. 
-      All instances of 'Morgans' in the 1790s have been identified as either William and George Cadogan.</p><p xmlns="http://www.tei-c.org/ns/1.0"> George Cadogan Morgan went on a tour in France in 1789 with <persName xmlns="http://www.tei-c.org/ns/1.0" key="RIG01">Edward Rigby</persName>, 
-      <persName xmlns="http://www.tei-c.org/ns/1.0" key="WOO08">Olyet Woodhouse</persName> and Samuel Boddington</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"><date xmlns="http://www.tei-c.org/ns/1.0" when="1789-05-30" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1789-11-04" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"><date xmlns="http://www.tei-c.org/ns/1.0" when="1791-11-04" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-09-16" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-12-10" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-10-16" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+      All instances of 'Morgans' in the 1790s have been identified as either William and George Cadogan.</p><p> George Cadogan Morgan went on a tour in France in 1789 with <persName key="RIG01">Edward Rigby</persName>, 
+      <persName key="WOO08">Olyet Woodhouse</persName> and Samuel Boddington</p></note>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,12 +1,60 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="ADA02" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Robert</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Adair</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1763-05-24"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1855-10-03"/><occupation xmlns="http://www.tei-c.org/ns/1.0">politician</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">diplomatist</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Adair was a close friend of <persName xmlns="http://www.tei-c.org/ns/1.0" key="FOX01">Charles James Fox</persName>. He sat in parliament 1799-1812 but was
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="ADA02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Robert</forename>
+                        <surname>Adair</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1763-05-24">
+                        <placeName/>
+                    </birth>
+                    <death when="1855-10-03"/>
+                    <occupation>politician</occupation>
+                    <occupation>diplomatist</occupation>
+                    <note type="editorial">
+                        <p>Adair was a close friend of <persName key="FOX01">Charles James Fox</persName>. He sat in parliament 1799-1812 but was
     primarily known for his extensive 
-    travel and diplomatic activity for which he was awarded GCB in 1831.</p><p xmlns="http://www.tei-c.org/ns/1.0">Godwin notes meeting a W J Adair in 1789, and the early Adairs in the diary are linked to circles around <persName xmlns="http://www.tei-c.org/ns/1.0" key="HOL02">Brand Hollis</persName>,
+    travel and diplomatic activity for which he was awarded GCB in 1831.</p>
+                        <p>Godwin notes meeting a W J Adair in 1789, and the early Adairs in the diary are linked to circles around <persName key="HOL02">Brand Hollis</persName>,
     although there is no Adair between May 1790 and the appearance of R Adair in 1796. After the
     first R Adair mention in 1796 the use of the name with the initial is frequent, but there are also
-    entries where there is no initial and where the circles (especially <persName xmlns="http://www.tei-c.org/ns/1.0" key="DEB01">Debrett's</persName>) are
+    entries where there is no initial and where the circles (especially <persName key="DEB01">Debrett's</persName>) are
     indistinguishable from those within which he meets R Adair. It is possible that Godwin had
     consistently distinguished R Adair from another Adair, whom we are unable to identify, but it
     is also possible, and the context of the meetings in the diary make it likely, that Adair and R
     Adair are used interchangeably from 1796.  The entries have been coded accordingly.  This is bolstered by the fact that 
-   <persName xmlns="http://www.tei-c.org/ns/1.0" key="ROB03">Henry Crabb Robinson</persName> notes the presence of 
-    'Adair the diplomatist' at a dinner on 18 Oct 1813. </p><p xmlns="http://www.tei-c.org/ns/1.0">In addition, R Adair appears in the 1796 lists, under 1796.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook"><title xmlns="http://www.tei-c.org/ns/1.0">The Diary of Henry Crabb Robinson</title>, ed. by Edith J. Morley, 3 vols (London: J.M. Dent and Sons, 1938)</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-04-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-04-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-05-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-05-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-09-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-10-04" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-01-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-03-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-05-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-06-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-06-02" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-08-03" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-02-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-02-21" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-10-18" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-03-01" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-10-06" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-10-09" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-10-18" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+   <persName key="ROB03">Henry Crabb Robinson</persName> notes the presence of 
+    'Adair the diplomatist' at a dinner on 18 Oct 1813. </p>
+                        <p>In addition, R Adair appears in the 1796 lists, under 1796.</p>
+                    </note>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                    <bibl type="printedbook"><title>The Diary of Henry Crabb Robinson</title>, ed. by Edith J. Morley, 3 vols (London: J.M. Dent and Sons, 1938)</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

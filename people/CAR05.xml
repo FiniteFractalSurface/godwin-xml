@@ -1,12 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="CAR05" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">John</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Cartwright</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1811-02-20"/><occupation xmlns="http://www.tei-c.org/ns/1.0">painter</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Cartwright was one of the founding members of the Free Society of Artists in 1763. He moved to Rome in 1770 where he met 
-      <persName xmlns="http://www.tei-c.org/ns/1.0" key="FUS01">Henry Fuseli</persName> who took an interest in him. They both returned to England in 1779 and shared rooms for almost a decade. He exhibited at 
-    the Royal Academy.</p><p xmlns="http://www.tei-c.org/ns/1.0">One feature about the references to 'Cartwright' is that there is a
-      consistent link prior to 1811, with artists, notably Fuseli: The first call is with <persName xmlns="http://www.tei-c.org/ns/1.0" key="BAR01">Barry</persName>; the second is at
-      <persName xmlns="http://www.tei-c.org/ns/1.0" key="JOH01">Johnson's</persName> with <persName xmlns="http://www.tei-c.org/ns/1.0" key="FUS01">Fuseli</persName>; the third is at the <title xmlns="http://www.tei-c.org/ns/1.0">Milton Gallery</title> with 
-      <persName xmlns="http://www.tei-c.org/ns/1.0" key="OPI01">Opie</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0" key="LAW01">Lawrence</persName>, Barry and others;
-      and the fourth and fifth also at Johnson's with Fuesli. </p><p xmlns="http://www.tei-c.org/ns/1.0">However, users should note the presence in the diary of <persName xmlns="http://www.tei-c.org/ns/1.0" key="CAR02">Major John Cartwright</persName> the political reformer. It is possible, however unlikely given the social contexts, that some
-      references to Cartwright may refer to him and that Godwin only intermittently uses the prefix 'Major'. </p><p xmlns="http://www.tei-c.org/ns/1.0">There is a further unidentified final entry under Cartwright,
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="CAR05" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>John</forename>
+                        <surname>Cartwright</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1811-02-20"/>
+                    <occupation>painter</occupation>
+                    <note type="editorial">
+                        <p>Cartwright was one of the founding members of the Free Society of Artists in 1763. He moved to Rome in 1770 where he met 
+      <persName key="FUS01">Henry Fuseli</persName> who took an interest in him. They both returned to England in 1779 and shared rooms for almost a decade. He exhibited at 
+    the Royal Academy.</p>
+                        <p>One feature about the references to 'Cartwright' is that there is a
+      consistent link prior to 1811, with artists, notably Fuseli: The first call is with <persName key="BAR01">Barry</persName>; the second is at
+      <persName key="JOH01">Johnson's</persName> with <persName key="FUS01">Fuseli</persName>; the third is at the <title>Milton Gallery</title> with 
+      <persName key="OPI01">Opie</persName>, <persName key="LAW01">Lawrence</persName>, Barry and others;
+      and the fourth and fifth also at Johnson's with Fuesli. </p>
+                        <p>However, users should note the presence in the diary of <persName key="CAR02">Major John Cartwright</persName> the political reformer. It is possible, however unlikely given the social contexts, that some
+      references to Cartwright may refer to him and that Godwin only intermittently uses the prefix 'Major'. </p>
+                        <p>There is a further unidentified final entry under Cartwright,
       after both the painter and reformer are dead. But that Cartwright seems to be someone with whom
-      <persName xmlns="http://www.tei-c.org/ns/1.0" key="SHE02">Mary Shelly</persName> is acting as an intermediary in 1826 - possibly someone in the book trade. This
-      Cartright has been left uncoded, along with rev.Cartwright, whom he meets once at <persName xmlns="http://www.tei-c.org/ns/1.0" key="TOO01">Horne
-        Tooke's</persName>, and Miss Cartwright, whom he also meets just once.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-11-26" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-04-30" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-05-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-08-06" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-02-10" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+      <persName key="SHE02">Mary Shelly</persName> is acting as an intermediary in 1826 - possibly someone in the book trade. This
+      Cartright has been left uncoded, along with rev.Cartwright, whom he meets once at <persName key="TOO01">Horne
+        Tooke's</persName>, and Miss Cartwright, whom he also meets just once.</p>
+                    </note>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,18 +1,68 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="WIL19" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">John Henry</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Williams</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1829-05-12"/><occupation xmlns="http://www.tei-c.org/ns/1.0">Church of England clergyman</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">peace advocate</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0"> Godwin enters I H Williams (sic) on the 1796 list under 1794 and Colin Haydon's biography of 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WIL19" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>John Henry</forename>
+                        <surname>Williams</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName/>
+                    </birth>
+                    <death when="1829-05-12"/>
+                    <occupation>Church of England clergyman</occupation>
+                    <occupation>peace advocate</occupation>
+                    <note type="editorial">
+                        <p> Godwin enters I H Williams (sic) on the 1796 list under 1794 and Colin Haydon's biography of 
     John Henry Williams, who had just achieved some degree of renown by preaching and 
     publishing on an end to war with revolutionary France identifies this as a meeting between Godwin and Williams. Godwin
-  read Williams' sermonds in the spring and early summer of this year.</p><p xmlns="http://www.tei-c.org/ns/1.0"> '.... soon Godwin ingratiated himself with Parr; and, in October 1794, Godwin and the 
+  read Williams' sermonds in the spring and early summer of this year.</p>
+                        <p> '.... soon Godwin ingratiated himself with Parr; and, in October 1794, Godwin and the 
     Doctor came to Wellesbourne and dined with Williams at the parsonage. That dinner,
     at which Godwin and Parr debated about passions and reasoning, symbolized how
     considerably Williams' life had changed following his decision to publish his anti-war
     sermons. And, again, one wonders whether the Vicar of Wellesbourne was entirely 
-    pleased.' (p. 114)</p><p xmlns="http://www.tei-c.org/ns/1.0">This corresponds with 11 October 1794, when Godwin is in Warwickshire, 'dine at Williams’s; 
-    talk of culprits &amp; passions; Parr admits that reasoning always precedes volition, &amp;:'</p><p xmlns="http://www.tei-c.org/ns/1.0"> Also following Hayden,  the 1 November 1794, Thomas Hardy's trial, has been coded though 
+    pleased.' (p. 114)</p>
+                        <p>This corresponds with 11 October 1794, when Godwin is in Warwickshire, 'dine at Williams’s; 
+    talk of culprits &amp; passions; Parr admits that reasoning always precedes volition, &amp;:'</p>
+                        <p> Also following Hayden,  the 1 November 1794, Thomas Hardy's trial, has been coded though 
     Hayden's reasoning for this is less strong ('Perhaps he persuaded Williams to attend at least the 
     opening of Hardy's trial on 28 October: in his frustratingly terse diary, he recorded 'See ...
     Williams' there. That this was indeed John Henry Williams appears very likely, considering
-    Williams' political sentiments...', p. 117).</p><p xmlns="http://www.tei-c.org/ns/1.0">
+    Williams' political sentiments...', p. 117).</p>
+                        <p>
     On 5 June 1797, when Godwin enters 'Welsburn' on a tour of the area, Haydon suggests that this may indicate a meeting with Williams, who was vicar of Wellesbourne
     and had just secured a signigicant victory at a country meeting where an anti-war petition
-    had been adopted in the face of opposition from supporters of Pitt (p. 126). </p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Colin Haydon, <title xmlns="http://www.tei-c.org/ns/1.0">John Henry Williams (1747-1829), “political 
-    clergyman”: War, the French Revolution, and the Church of England</title> (Woodbridge: Boydell Press, 2007).</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-10-11" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-11-01" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-06-05" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    had been adopted in the face of opposition from supporters of Pitt (p. 126). </p>
+                    </note>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                    <bibl type="printedbook">Colin Haydon, <title>John Henry Williams (1747-1829), “political 
+    clergyman”: War, the French Revolution, and the Church of England</title> (Woodbridge: Boydell Press, 2007).</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
