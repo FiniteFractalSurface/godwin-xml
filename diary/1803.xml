@@ -2220,7 +2220,7 @@
                         <persName ref="/people/TAY01.html">J Taylor</persName></seg>: <seg
                      type="dMeal" subtype="TG"><persName ref="/people/HOL01|HOL05.html"
                         >Hts</persName> &amp; <persName>Ms</persName> at tea</seg>. <seg
-                     type="dMeeting" subtype="CG"><persName type="nah">Upshaw</persName> calls <hi
+                           type="dMeeting" subtype="CG"><persName type="nah" ref="/people/UPS01.html">Upshaw</persName> calls <hi
                         rend="sup">n</hi></seg>.</ab>
                <ab type="dDay" xml:id="g1803-08-15"><date when="1803-08-15">15. M.</date><ref
                      type="dWrote" subtype="write" target="/works/chau01.html">Chaucer, 2

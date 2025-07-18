@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="UPS01" sex="1">
+                    <persName>
+                        <roleName/>Dr <forename>William</forename>
+                        <surname>Upshaw</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1782">
+                        <placeName/>
+                    </birth>
+                    <death when="1811"/>
+                    <occupation>Surgeon</occupation>
+                    <note type="editorial">
+                        <p> Only appeared once in Godwin's diary and didn't get to see Godwin then.
+                            Morning Post 14.8.1803 Cork and Upshaw, Americans prosecuted for a
+                            challenge to a duel to Mr Askew (the son of Sir Edward Askew) after he
+                            nudged Upshaw off a crowded bench in the lecture room of St Thomas'
+                            Hospital. Website upshawfamilyjournal.com is a good source for Upshaws
+                            in Virginia and nearby states. This looks likely to have been Dr William
+                            Upshaw born 1782 of Richmond Virginia who became surgeon to 5th Regiment
+                            of Infantry and was involved in duels in 1805 and 1810 and died
+                            31.8.1811 at New Orleans </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

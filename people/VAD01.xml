@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="VAD01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>FIRSTNAME</forename>
+                        <surname>Vadier</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1745">
+                        <placeName/>
+                    </birth>
+                    <death when="1828"/>
+                    <occupation>Politician and military leader</occupation>
+                    <note type="editorial">
+                        <p> A Vadier was delegate from Ariege to the National Assembly of France in
+                            1791, judged Louis XV! to death, was President in 1794, condemned to
+                            transportation 1796, his son Vadier defended him, was a prisoner in
+                            Cherbourg 24.7.1799, moved to Chartres 1800, was a general in the army
+                            1803, died at Brussels 19.12.1828 aged 93. A Dr Vadier at Diss Norfolk
+                            in 1827 </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
