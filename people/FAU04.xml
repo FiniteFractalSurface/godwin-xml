@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="FAU04" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>FIRSTNAME</forename>
+                        <surname>Faulkner</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p> Faulkner 6.1.1800 at O Fancourt's One of the guests whom Chandler
+                            considered too many (see Fancourt, Olivia). Several Faulkners in the DNB
+                            could have been him at a pinch, (Thomas F 1777-1855 Arthur Brooke F
+                            1779-1847 Joshua Wilson F 1780-c1820) though none of these very
+                            convincing. </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

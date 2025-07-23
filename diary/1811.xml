@@ -1509,7 +1509,7 @@
                             type="dText" subtype="read" target="/bibl/te1884.html">Cheek, p. 64,
                             fin</ref>. <seg type="dMeeting" subtype="C">Call on <persName><placeName
                                     type="venue">Vaughan</placeName></persName></seg>, <seg
-                            type="dMeeting" subtype="C"><persName><placeName type="venue"
+                                        type="dMeeting" subtype="C"><persName ref="/people/FAV01.html"><placeName type="venue"
                                     >Favel</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName ref="/people/CUR03.html"><placeName type="venue"
                                     >Curtis</placeName></persName></seg>: <seg type="dMeeting"
@@ -2478,7 +2478,7 @@
                                 T</persName> sups</seg>. <ref type="dWrote" subtype="letter">Write
                             to <persName ref="/people/NEW01.html">Newton</persName></ref>, <ref
                             type="dWrote" subtype="letter"><persName>Lloyd</persName></ref>, <ref
-                            type="dWrote" subtype="letter"><persName>Faulder</persName></ref>, <ref
+                                type="dWrote" subtype="letter"><persName ref="/people/FAU01.html">Faulder</persName></ref>, <ref
                             type="dWrote" subtype="letter"><persName ref="/people/BOD02.html"
                                 >Boddington</persName></ref>, <ref type="dWrote" subtype="letter"
                                 ><persName ref="/people/MON01.html">B M</persName></ref> &amp; <ref
@@ -3882,7 +3882,7 @@
                                 <persName>Lewin</persName></ref>, <ref type="dWrote"
                             subtype="letter"><persName ref="/people/LEW02.html"
                             >Lewis</persName></ref>, <ref type="dWrote" subtype="letter"
-                                ><persName>Faulder</persName></ref> &amp; <ref type="dWrote"
+                                ><persName ref="/people/FAU01.html">Faulder</persName></ref> &amp; <ref type="dWrote"
                             subtype="letter"><persName>Chater</persName></ref>: <seg type="dMeeting"
                             subtype="CG"><persName ref="/people/BOI01.html">H
                             Boinville</persName></seg> &amp; <seg type="dMeeting" subtype="CG"
@@ -4145,7 +4145,7 @@
                             172</ref>. <seg type="dMeeting" subtype="C">Call on <persName
                                 ref="/people/MOR02.html">Morgan (<placeName type="venue">R C
                                     L</placeName>)</persName></seg>, <seg type="dMeeting"
-                            subtype="C"><persName type="nah"><placeName type="venue"
+                                        subtype="C"><persName type="nah"  ref="/people/FAU01.html"><placeName type="venue"
                                     >Faulder</placeName></persName><hi rend="sup">n</hi></seg> &amp;
                             <seg type="dMeeting" subtype="C"><persName ref="/people/COB01.html"
                                     ><placeName type="venue">Cobbet</placeName></persName>; <seg
@@ -4171,7 +4171,7 @@
                     <ab type="dDay" xml:id="g1811-12-20"><date when="1811-12-20">20. F.</date><ref
                             type="dWrote" subtype="letter">Write to <persName>y<hi rend="sup">e</hi>
                                 Master of Xt’s</persName></ref>, <ref type="dWrote" subtype="letter"
-                                ><persName>Faulder</persName></ref> &amp; <ref type="dWrote"
+                                    ><persName ref="/people/FAU01.html">Faulder</persName></ref> &amp; <ref type="dWrote"
                             subtype="letter"><persName ref="/people/MON01.html"
                             >Montagu</persName></ref>. <ref type="dText" subtype="read"
                             target="/bibl/te1934.html">Cid, p. 244</ref>. <ref type="dEntertainment"
@@ -4221,7 +4221,7 @@
                             type="dText" subtype="read" target="/bibl/te1943.html">Bourke, History
                             of Moors, p. 145</ref>: <ref type="dText" subtype="read"
                             target="/bibl/te1941.html">H. de Qualité, p. 103</ref>. <seg
-                            type="dMeeting" subtype="CG"><persName>Faulder</persName></seg> &amp;
+                                type="dMeeting" subtype="CG"><persName ref="/people/FAU01.html">Faulder</persName></seg> &amp;
                             <seg type="dMeeting" subtype="CG"><persName>Graves</persName>
                         call</seg>.</ab>
                     <ab type="dDay" xml:id="g1811-12-25"><date when="1811-12-25">25. W.</date><ref

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="FAW04" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Thomas</forename>
+                        <surname>Fawcett</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1769">
+                        <placeName/>
+                    </birth>
+                    <death when="1823"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p> GODWIN DIARY: 8.4.1796 at Thos Fawcett's with Powel, Bedder / Fawcett
+                            17.1.1795 at Powell's with Thelwall, Bailey, Walker ( and compare
+                            2.2.1795 Bailey Walker Bedder at Thelwall's) was Isaac or Thomas (see
+                            below)  </p>
+                        <p>SOCIETY FOR CONSTITUTIONAL
+                            INFORMATION: Isaac Fawcett of Camomile St proposed 1.2.1793 by John
+                            Balmanno 2nded John Horne Tooke. Thomas Fossett of Pancras Lane proposed
+                            15.3.1793 by Stewart Kyd 2nded John Balmanno Isaac Fawcett of White
+                            Cross St articled 26.11.1783 for 5 yrs to Thomas Yates of New inn,
+                            authorised by his brother William Fawcett oilman of Fenchurch St, and
+                            witnessed by James Fawcett mariner of White Cross St. Isaac Fawcett 1785
+                            clerk to Thomas Hunt of Allhallows Court, 1789 Isaac Fawcett attorney of
+                            Allhallows Court, Gracechurch St.. Isaac Fawcett otp bach = All Hallows
+                            Lombard St 26.4.1789 Frances Harding otp sp by lic. William Isaac of
+                            Isaac and Frances Fawcett bapt there 25.4.1790. bur there 16.1.1791, their
+                            daughter Frances baptised there 1.5.1791. Will of William Fawcett oilman of
+                            Fenchurch St dated 24.7.1787 mentioned mother Elizabeth, brothers Isaac
+                            and James, sisters Elizabeth and Dorothy, and a property in
+                            Newcastle-upon-Tyne, proved 29.3.1792. Isaac Fawcett attorney of
+                            Cammomile St 1793. Isaac Fawcett the younger attorney of Bishopsgate St
+                            witness in Thomas Hardy's trial 1794. </p><p>Isaac Fawcett bur 11.4.1823 St
+                            Botolph Bishopsgate age 54. Will of Thomas Hunt PCC 1797?, will of
+                            Jonathan Miles PCC 1773 Isaac Fawcett bach of St Ann Blackfriars = St
+                            Andrew by Wardrobe 21.7.1774 Ann Vurley sp of St Geo Bloomsbury. Thomas
+                            of Isaack and Ann Fawcett bapt 1.5.1775 St Mary le Bow (of St Pancras
+                            Soper Lane). Isaac Fawcett directory 1780 merchant of 86 Queens St,
+                            Cheapside 1783 brandy and whalebone merchant of 12 Pancras Lane. Old
+                            Bailey witness 13.12.1786. Isaac Fawcett senior, brandy merchant of
+                            Pancras Lane, Cheapside died 20.7.1797 (True Briton 22.2.1797 suddenly
+                            at Epping on his road to town) buried St Gregory by St Paul Churchyard
+                            Vault 23.7.1797. Not apparently closely related to Isaac Fawcett the
+                            younger above who was clearly the SCI member / Thomas Fawcett SunFire
+                            1777 distillers opposite Grub Street, Chiswell St, will PCC dated
+                            6.12.1787 distiller St Luke Old St (67 Chiswell St, Moorfields)
+                            mentioned brother Isaac of Pancras Lane, brother Mark and sister Phillis
+                            Honey both of Merton, son Thomas at school at Hackney, wished to be
+                            buried at Richmond, proved 11.3.1795, he was bur Richmond 29.1.1795 age
+                            61 / Thomas son of Thomas Fawcett bapt 24.9.1775 Richmond, Surrey /
+                            Thomas Fawcett of Pancras Lane Cheapside subscr to Winterbotham's
+                            America 1795 / Thomas Fawcett bur 2.8.1795 Bunhill Fields age 26 from
+                            Finsbury Court / Thos Fawcett SunFire 1802 whalebone and cane merchant,
+                            boiler and cutter, 16 Old Change, who went bankrupt 1803. The brothers
+                            Thomas and Isaac Fawcett seem to have both had a son Thomas baptised in
+                            1775, the Thomas buried 1795 age 26 doesn't quite fit them, though he
+                            was from Finsbury Court which was near to Thomas Fawcett's in Chiswell
+                            St. </p><p>The SCI member, and so probably the Thos Fawcett in Godwin's Diary
+                            1796, was most likely Thomas son of Isaac Fawcett, and probablt the
+                            bankrupt of 1803 as his father was a whalebone merchant and Old Change
+                            was not that far from Pancras Lane. </p><p> LCS and OTHER RADICALS: Thomas Fawcett
+                            of 67 Chiswell St joined the "unnumbered division" (QV) 28.5.1794 and
+                            was probably the distiller who died the following year aged 61 or
+                            perhaps his son Thomas bapt 1775 Richmond, at school in Hackney 1787 and
+                            perhaps buried Bunhill Fields in 1795. Thomas Fawcett of Pancras Lane
+                            was in the undated list for Div 29 and was probably the Thomas son of
+                            Isaac Fawcett bapt 1775 St Mary le Bow, who subscribed to Winterbotham
+                            1795 and was the whalebone merchant who went bankrupt 1803 and was
+                            likely the Fawcett in Godwin's diary 1795 and 1796. </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

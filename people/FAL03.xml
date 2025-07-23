@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="FAL03" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>J. Scott</forename>
+                        <surname>Fallowfield</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p> There are three contenders, two of whom might be identical. The most
+                            probably is the Fallowfield, who, with Turton and Snodgrass was a
+                            truusteee of the Drury Lane Theatre. THis might be J. Scott Fallowfield,
+                            a Director of the Life Assurance Society, but they may be distinct. It
+                            seems unlikely to be Henry Fallowfield, Rev'd, who appears at the King's
+                            levy on a number of occasions in the period.</p> <p> The connection with Drury Lane seems apt given that Godwin meets Fallowfield at the house of Francis Reynolds, the dramatist.
+                            There is a Fallowfield who is a printer and bookseller in this period in Preston, Lancs.</p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="FAN01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>FIRSTNAME</forename>
+                        <surname>SURNAME</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p> O Fancourt 1.12.1798 at hers with Chandler. In Godwin's 1796 list for
+                            1798 / 4.12.1798 again / 9.12.1798 again / 21.12.1798 tea at hers /
+                            26.12.1798 dine at hers with Chandler / 27.12.1798 tea at hers adv
+                            Chandler / 18.1.1799 call on Chandler and O Fancourt (neither in) /
+                            19.1.1799 Chandler and O Fancourt dine / 31.1.1799 Mrs F affirms that the
+                            subjects of the Mahometan princes in India are all Moors, and the subjects
+                            of the Hindoo princes all Hindoos / 1.2.1799 dine at Fancourt's /
+                            22.6.1799 tea at O Fancourt's with Chandler, Circus with C(handler) and
+                            O(livia) / 10.9.1799 dine at hers w. Chandler / 14.9.1799 dine at West
+                            End with her and Chandler / 11.12.1799 call on Chandler (not in) and her /
+                            24.12.1799 call on O Fanct (not in) / 26.12.1799 dine at hers w.
+                            Chandler / 1.1.1800 dine at hers w. Chandler / 6.1.1800 dine at
+                            Fancourt's w. Chandler / 11.5.1802 call on her Jacob Cassivelaun
+                            Fancourt bach otp = St Michael Crooked Lane 28.8.1785 Ann Carlos of St
+                            Clement Danes widow (witness Cassivelaun Fancourt Carlos), affidavit
+                            London Met Arch MJ/SP/1791/04/070, Jacob Cassivelaun F = Olivia Devenish
+                            26.5.1793 Fort St George, Madras, Jacob Cassivelaun Fancourt assistant
+                            surgeon 71st Regt in India list for 1800 but absent 1803. Newspaper
+                            reports of a trial of her servant at the Old Bailey on 6.12.1798 suggest
+                            that she had returned to England with her husband, (e.g. Evening Mail
+                            7.12.1798) but the transcript of the trial (OldBailey Online) only gave
+                            his name as the owner of the stolen property, as would have been the
+                            legal case with a wife's property. She took the witness stand and
+                            claimed that some of the stolen items were made under her inspection at
+                            Madras. The servant was acquitted. Lists of passengers arriving from
+                            India in the William Pitt in eight newspapers between 1.8.1798 and
+                            5.8.1798 named Mrs Fancourt, though one paper named Mr Fancourt instead
+                            (none had Mr and Mrs). And the Star of 9.8.1798 carried a notice dated
+                            24.1.1798 Fort St George that J C Fancourt Asst Surgeon had been
+                            appointed to duty with the 8th Regt Native Infantry. Mrs Fancourt of Old
+                            Burlington St subscr to Joseph Wildman's Force of Prejudice 1800. Thomas
+                            (Stamford) Raffles DNB 1781-1826 married 14.3.1805 at St George
+                            Bloomsbury Olivia Mariamne Fancourt widow, witnesses Richard S Taylor,
+                            Charles Hamond, Marianne Etherington, Maria Waltham. The DNB gives her
+                            dates as 1771-1814 and says she was "ten years his senior but strikingly
+                            beautiful, vivacious and intelligent". By some accounts her father was
+                            Irish and her mother Indian. It seems probable that her husband died in
+                            India at some point after the trial of 6.12.1798, and that the two
+                            entries above where Godwin dropped the initial O also referred to her.
+                            Godwin was presumably introduced to Mrs Fancourt by John Westbrook
+                            Chandler and they seem to have fallen out over her. She was possibly
+                            Chandler's mistress or at least he took a close interest in reining in
+                            her extravagance and objected to the number of guests at her dinners on
+                            1.1.1800 and 6.1.1800. See his letters to Godwin (Abinger c5 f64-70) of
+                            18.1.1800, 20.1.1800 and 22.1.1800 and the letter from Chandler in
+                            Aberdeen of 9.1.1801, and draft of Godwin's reply 20.1.1801 (Abinger c6
+                            f123-4) and reply from John Phillips (see Phillips) of 24.1.1801
+                            (Abinger c6 f132-3). Some of these letters are wrongly titled Thomas or
+                            M Chandler probably because the J W of his signature was hard to read.
+                            Godwin called on Mrs Fancourt once more the following year. See Victoria
+                            Glendinning's "Raffles" (2012) which has more info on Mrs Fancourt but
+                            apparently didn't spot the Godwin connection </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
