@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="FAI02" sex="2">
+                    <persName>
+                        <roleName/>
+                        <forename>Eliza</forename>
+                        <surname>Fairfield</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p> Eliza (nee Massey or Morsey? Ancestry user-submitted tree) wife of
+                            George Fairfield, whose will PCC 1822 barred his wife and children and
+                            left all to Margaret Ann Cook spinster of The Cottage, Bexley Kent. He
+                            died at Bexley 26.7.1821 aged 62. The obvious inference is that Miss
+                            Cook was his mistress but she might have been a goddaughter or other
+                            protegee. However his widow was not penniless; the Morning Post of
+                            2.3.1804 reported that Mrs Fairfield of Hertford St had given a select
+                            party of fashionables, and on 25.6.1822 after her husband's death she
+                            gave a ball in Baker Street. On 7.9.1804 her elegant daughters were
+                            mentioned as accomplished dancers at the Assembly Rooms, Margate. She
+                            died 31.1.1852 at the residence of her daughter Mrs Davis of Plymtree,
+                            Devon, at an advanced age, relict of George Fairfield of Walton Bridge
+                            House, Middlesex. This was probably in Shepperton, see Old Bailey Online
+                            1799, and Oracle 7.1.1799 which reports that the lady of George
+                            Fairfield of Walton Bridge had given birth to a son on 29.12.1798. A Mrs
+                            Fairfield appeared in Boyle's 1800 at 10 Charles St, Middlesex Hospital
+                            so the couple may have been estranged about the time of the birth of
+                            that son. Montagu and Godwin's call would have been about the time of
+                            his conception. She had five other children and would have been about 43
+                            in 1799 if the Ancestry user-submitted tree has her birth year correct.
+                            George Fairfield was at school at Harrow 1774-6 (see Harrow School Reg)
+                            and lived in France before the Revolution when he employed Robespierre
+                            as his lawyer. Another Mrs Fairfield was a perfumer of 15 Adam St
+                            Adelphi who died 14.10.1800, her will probably PCC 1801, her husband had
+                            probably been John Fairfield hairdresser of Adam St who voted for Fox
+                            and Horne Tooke in 1790. A Thomas Fairfield hairdresser of Adam st was
+                            named as the father of an as yet unborn illegitimate child by Sarah
+                            Wooley in 1791. The perfumer could obviously not have been the 1814
+                            caller. James Fairfield will PCC 1807 late of Somerset Street Portman Sq
+                            but then of Sunderland had married Catherine Cook at St Geo Han Sq
+                            20.3.1795. His will mentioned his "only wife" Catherine Cooke otherwise
+                            Fairfield and barred Judith Carrol and her son "commonly called Joseph
+                            Fairfield". A James Fairfield was in the Kings Bench prison from
+                            21.10.1800 to 17.9.1801 shortly afterwards followed by a Styles
+                            Fairfield. On 20.1.1810 at St Giles in the Fields James Fairfield's
+                            widow married John Rhodes bachelor and in her will PCC 1834 she was
+                            called Catherine wife of John Rhodes, tailor, formerly Catherine
+                            Fairfield, widow. She could obviously not have been the 1814 caller.
+                        </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

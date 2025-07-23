@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="FAG01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>FIRSTNAME</forename>
+                        <surname>Fagan</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Fagan 15.11.1804 at H Rowan's / 30.12.1805 again / 17.1.1806 again
+                            Perhaps one of the Irish Catholic family of Fagan in Burke's Landed
+                            Gentry of Ireland. Patrick Fagan who died 1770 had ten sons, the eldest
+                            Christopher Alexander 1733-1816 will PCC 1816 was said to be the father
+                            by Madame Roland of Hyacinthe Gabrielle (died 1816) who became the
+                            mistress about 1785 of Richard Wellesley DNB 1760-1842 and married him
+                            in 1794 by which time she had had five children by him. The second son
+                            was Stephen merchant of Cork died 1811 whose sons James died 1822 and
+                            Patrick died 1808. The third son Robert merchant of Philadelphia died
+                            1788 but his son Christopher 1776-1845 served in India and was in London
+                            in 1803 where he married his cousin but had returned to India before
+                            1807, probably by October 1803. The sixth son John (of Kerry) may have
+                            been alive in 1804 to 1806, his five sons all served in India and only
+                            the youngest James Patrick 1788-1853 had not gone to India by 1805.
+                            Three of the other brothers were dead before 1804 and one was in
+                            Philadelphia. The ninth son William had four sons born after 1789 and
+                            was still alive in 1816. </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -8,7 +8,6 @@
                     <resp>EP</resp>
                     <name/>
                 </respStmt>
-
             </titleStmt>
             <publicationStmt>
                 <p>Unpublished</p>
@@ -21,27 +20,24 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="VAL04" sex="2">
+                <person xml:id="FAI03" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>Martha Carteretta</forename>
-                        <surname>Valpy/Straker</surname>
+                        <forename>FIRSTNAME</forename>
+                        <surname>Faithful</surname>
                         <addName/>
                     </persName>
-                    <birth when="1779">
+                    <birth when="1000-01-01">
                         <placeName/>
                     </birth>
-                    <death when="1815"/>
+                    <death when="1000-12-31"/>
                     <occupation>OCCUPATION</occupation>
                     <note type="editorial">
-                        <p> Martha Carteretta Valpy bapt 16.11.1779 St Mary's Suffolk dau of Richard
-                            and Martha Valpy, eldest dau of Richard Valpy DNB 1754-1836 and only child
-                            of his first marriage. She married 4.5.1804 in Hampshire, Thomas James
-                            Straker and went with him to Barbadoes. His will PCC 1814 late of
-                            Lisbonl proved by Henry Abbott attorney of Martha Cartaretta Straker who
-                            was in Barbadoes. Subscr to The Emigrant in London 1795 Rev Dr Valpy
-                            Reading, Miss Valpy Canonbury. She also subsribed to Mme Genlis' Annals
-                            of Virtue 1794 </p>
+                        <p> First contact is through Joseph Hume, from whom Godwin borrowed large
+                            sums. Fifth contact, Faithful visits with an attorney. Then a nine year
+                            break - when Faithful calls, in 1823 - and this is followed up by a
+                            series of calls and 'seeks' by Godwin. Strongly suggests that Godwin was
+                            looking for financial support from Faithful,</p>
                     </note>
                 </person>
             </listPerson>
