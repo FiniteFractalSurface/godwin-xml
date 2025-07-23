@@ -419,7 +419,7 @@
                             type="dWrote" subtype="write" target="/works/leon01.html">Adept, p.
                             35/2</ref>. <ref type="dText" subtype="read" target="/bibl/te0812.html"
                             >Reynolds, p. 218</ref>. <seg type="dMeeting" subtype="CG"
-                                ><persName>Dangerfield</persName> calls</seg>: <seg type="dMeal"
+                                ><persName ref="/people/DAN04.html">Dangerfield</persName> calls</seg>: <seg type="dMeal"
                             subtype="D">dine at <persName ref="/people/JOH01.html"><placeName
                                     type="venue">Johnson's</placeName></persName>, w. <persName
                                 ref="/people/FUS01.html">Fuseli</persName>, <persName
@@ -1970,7 +1970,7 @@
                             &amp; <placeName>Bradford</placeName></seg>: <seg type="dMeal"
                             subtype="SG"><persName>mrs Jones</persName> sups</seg>: <seg
                             type="dMeeting" subtype="M">meet <persName>Cooke</persName></seg>. <seg
-                            type="dMeeting" subtype="CG"><persName type="nah">Dangerfield</persName>
+                            type="dMeeting" subtype="CG"><persName ref="/people/DAN04.html" type="nah">Dangerfield</persName>
                             calls <hi rend="sup">n</hi></seg>.</ab>
                     <pb n="e.203_0046r"/>
                     <ab type="dDay" subtype="NotLon" xml:id="g1798-06-10"><date when="1798-06-10"
@@ -2103,7 +2103,7 @@
                                     >Mackintosh</persName>, <persName ref="/people/PER01.html"
                                     >Perry</persName>, <persName>Gordon</persName>, <persName
                                     ref="/people/BAN03.html">Banks</persName>, &amp;
-                                    <persName>Dangerfield</persName></seg></ref>: <seg
+                                    <persName ref="/people/DAN04.html">Dangerfield</persName></seg></ref>: <seg
                             type="dMeeting" subtype="C">call on <persName ref="/people/CHA01.html"
                                     ><placeName type="venue">Chandler</placeName></persName></seg>
                         &amp; <seg type="dMeeting" subtype="C"><persName ref="/people/FEN03.html"
