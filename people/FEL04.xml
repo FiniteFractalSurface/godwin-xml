@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="FEL04" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Samuel </forename>
+                        <surname>Felton</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName/>
+                    </birth>
+                    <death when="1802"/>
+                    <occupation>Philanthroppist, editor</occupation>
+                    <note type="editorial">
+                        <p> Samuel Felton died 1802 (PCC wills). Fellow of Royal Society, Fellow of
+                            Society of Antiquaries, member of Society for Encouragement of Arts,
+                            Manufacture and Commerce. Subscribed 1787 to works of John Jebb, lived
+                            at Charlotte St 1786-93, Carburton St 1794-1802. Mentioned in the wills
+                            of Timothy Hollis and Thomas Brand Hollis. He wrote some works on art
+                            and gardening. May have been the Felton at King's, but obviously not the
+                            call of 1815 </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

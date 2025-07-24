@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="FEA02" sex="2">
+                    <persName>
+                        <roleName/>
+                        <forename>Mrs</forename>
+                        <surname>Featherstone</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p> Met Godwin during Godwin's 1800 trip to Ireland. Met at McNally's.
+                            Leonard Macnally appears in the Dictionary of Irish Biography 1752-1820;
+                            his uncle was a merchant called Featherstone. A Leonard Macnally married
+                            Anna Maria Featherstone in 1803 or 1804. This would mean either that Mrs Featherstone
+                            is an honorific title for Miss Featherstone - or that it refers to MacNally's 
+                            future mother in law. </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
