@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="FEW01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>FIRSTNAME</forename>
+                        <surname>Few</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1778">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Solicitor</occupation>
+                    <note type="editorial">
+                        <p> See Springsguth, Matthew Clix for his marriage in 1802 to Ann Frances
+                            Few. Charles son of John Few cornfactor of Theobalds Road was articled
+                            1793 to James Meddowcroft. (SunFire 1803 Few and Co chinamen 69 High
+                            Holborn./ SunFire 1818 John Few 25 Denton St, St Pancras, gent / SunFire
+                            1822 Charles Few solicitor 3 Henrietta St, Covent Garden.) </p><p>Charles bapt
+                            1778, Ann bapt 1779 Holborn of John and Catherine Few. Springsguth had
+                            married a solicitor's sister </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

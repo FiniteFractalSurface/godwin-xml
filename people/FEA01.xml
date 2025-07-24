@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="FEA01" sex="2">
+                    <persName>
+                        <roleName/>
+                        <forename>Miss</forename>
+                        <surname>Fearon</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-01-01"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p> The only appearance of this name in Godwin's diary, It was a commoner
+                            surname than you might think. One possible candidate (not very likely
+                            but too interesting not to mention) was the singer Elizabeth Feron whose
+                            performances were already noted in newspapers (Morn Post 21.10.1805) as
+                            Miss Fearon. Her date of birth is uncertain but she was between nine and
+                            fifteen years old in 1806 and a child prodigy. Her subsequent life is
+                            well researched in Dudley Cheke's book Josephine and Emilie. Another
+                            candidate was Nancy Brooks Fearon 1777-1837 daughter of Daniel Fearon and his
+                            wife Eliza Dorothy. Her father's will PCC 20.1.1812 Daniel Fearon, her
+                            will PCC 18.7.1837 Nancy Brooks or Brookes Fearon </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
