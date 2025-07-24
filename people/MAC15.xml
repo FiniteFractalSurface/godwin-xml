@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"> 
+    <teiHeader> 
+        <fileDesc> 
+            <titleStmt> 
+                <title>Person List</title> 
+            </titleStmt> 
+            <publicationStmt> 
+                <p>Unpublished</p> 
+            </publicationStmt> 
+            <sourceDesc> 
+                <p>Generated data</p> 
+            </sourceDesc> 
+        </fileDesc> 
+    </teiHeader> 
+    <text> 
+        <body> 
+            <listPerson> 
+                <person xml:id="MAC15" sex="1"> 
+                    <persName> 
+                        <roleName/> 
+                        <forename>John</forename> 
+                        <surname>MacArthur</surname> 
+                        <addName/> 
+                    </persName> 
+                    
+                    <birth when="1766-08-18"> 
+                        <placeName/> 
+                    </birth> 
+                    
+                    <death when="1834-04-11"/> 
+                    
+                    <occupation>Seaman, Politician, Colonial Wool Merchant</occupation> 
+                    
+                    <note type="editorial"> 
+                        <p>John MacArthur, born in Devon, would go on to be highly influential in early Austrialian colonial politics, trade, and the strenuous relationship between the colony and the metropole. . 
+                        </p> 
+                    </note> 
+                </person> </listPerson> 
+            
+        </body> 
+    </text> 
+</TEI> 
