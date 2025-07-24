@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="FIE02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Henry</forename>
+                        <surname>Field</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1755">
+                        <placeName/>
+                    </birth>
+                    <death when="1837"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p> Henry Field DNB 1755-1837 was very likely the Annuity Office Field in
+                            1808. His son Barron Field DNB 1786-1846 was the Field most closely
+                            linked to Charles Lamb so is the most probable candidate for all the
+                            Fields from 1811 on. Henry Field's eldest daughter Esther was born 1792
+                            so could have been at Lamb's aged 12. Henry Field also had a brother
+                            William Field DNB 1768-1851 Unitarian minister at Warwick and friend of
+                            Samuel Parr. The Field at Holcroft's in 1799 may have been Henry or
+                            William or someone else.</p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

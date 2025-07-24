@@ -1383,7 +1383,7 @@
                                     >Batty</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName><placeName type="venue">Jo.
                                 G</placeName></persName> ; <seg type="dMeeting" subtype="Adv">adv.
-                                    <persName>Firth</persName></seg></seg>.</ab>
+                                    <persName ref="/people/FIR02.html">Firth</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1795-04-10"><date when="1795-04-10">10. F.</date><ref
                             type="dWrote" subtype="write" target="/works/poli01.html">Write 1
                             page</ref>. <ref type="dText" subtype="read" target="/bibl/te0565.html"
@@ -1550,7 +1550,7 @@
                                 <persName>Parker</persName>, <persName>Shuter</persName>, <persName
                                 ref="/people/SMI01.html">Smith</persName>, <persName
                                 ref="/people/BAT01.html">Batty</persName>,
-                                <persName>Firth</persName> &amp; <persName ref="/people/ALD02.html"
+                                <persName ref="/people/FIR02.html">Firth</persName> &amp; <persName ref="/people/ALD02.html"
                                 >A Alderson</persName></seg>. <ref type="dText" subtype="read"
                             target="/bibl/te0284.html">Virgil, 85</ref>.</ab>
                     <ab type="dDay" xml:id="g1795-04-23"><date when="1795-04-23">23. Th. </date><ref
@@ -1759,7 +1759,7 @@
                         &amp; <seg type="dMeeting" subtype="C"><persName ref="/people/LAU01.html"
                                     ><placeName type="venue"
                         >Lauderdale</placeName></persName></seg>: <seg type="dMeal" subtype="Ta">tea
-                                    <persName><placeName type="venue">Firths</placeName></persName>,
+                            <persName ref="/people/FIR02.html"><placeName type="venue">Firths</placeName></persName>,
                             w. <persName ref="/people/HOL01.html">Ht</persName>, <persName
                                 ref="/people/THE01.html">Thelwal</persName>, <persName
                                 ref="/people/SMI03.html">Smirke</persName>, <persName
@@ -1849,7 +1849,7 @@
                                     ><placeName type="venue">Smirke's</placeName></persName>, w.
                                 <persName ref="/people/BAT01.html">Batty</persName>, <persName
                                 ref="/people/FOU01.html">Foulkes</persName> &amp;
-                                <persName>Firth</persName></seg>.</ab>
+                                        <persName ref="/people/FIR02.html">Firth</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1795-05-13"><date when="1795-05-13">13. W.</date><seg
                             type="dMeeting" subtype="CG"><persName ref="/people/AIC01.html"
                                 >Aickin</persName> calls</seg>: <seg type="dMeeting" subtype="Do"

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="FIR02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>William</forename>
+                        <surname>Firth</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1768">
+                        <placeName/>
+                    </birth>
+                    <death when="1838"/>
+                    <occupation>Attorney</occupation>
+                    <note type="editorial">
+                        <p> William Firth baptised St George Colegate Norwich 10.8.1768 son of
+                            William and Elizabeth, admitted Lincolns Inn 16.11.1792 son of William F
+                            of Norwich, deceased. Member of Norwich Socy for Const Inf, "a
+                            considerable manufacturer" (Trials for Treason and Sedition 6.196). Member
+                            of Tusculan Society (Jewson p29, 54, 111). Star 4.4.95 one of the
+                            witnesses in court case at Norwich re: election committee. Called to bar
+                            1797. Published "The Lord Thanet's Case" 1799. Applied to be steward of
+                            Norwich Court of Aldermen 1802. Captain in 2nd Regt Norwich Volunteer
+                            Infantry 1803. Bury and Norwich Post 3.6.1807 William Firth Attorney
+                            General of Upper Canada married Ann, youngest daughter of Mr Robert
+                            Watts of Crostwick. Published "Letters to Henry Bathurst" 1813.
+                            Serjeant-at-law 11.2.1817. His eldest daughter Lucy Rosalind Proctor
+                            died at Crostwick 1837. </p><p>Wm Field of Crostwick serjeant-at-law died in 70th
+                            year at an inn in Norwich where he was staying 25.2.1838. See Norfolk wills
+                            1778 William Firth merchant Norwich 1847 Ann Firth widow Norwich </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="FIT04" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>FIRSTNAME</forename>
+                        <surname>SURNAME</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p> Major Fitzgerald in 1800 could have been Augustine Fitzgerald Hist of
+                            Parl 1765-1834 on half pay of 117th foot / James Fitzgerald Major 3rd
+                            Foot Guards 4.10.1799 / Maurice Fitzgerald Hist of Parl 1774-1849 the
+                            Knight of Kerry, major in Kerry militia 1797 / maj Thomas Fitzgerald of
+                            Snowhaven married 1786 miss Latten, subscr 1798 to D R O'Conor, will PCC
+                            1811 The later Fitzgeralds at Hamilton Rowan's and Curran's may have
+                            been Lord Henry Fitzgerald Hist of Parl 1761-1829 who lived near London
+                            and was said to be "tinctured with the principles of his brother" the
+                            rebel Lord Edward Fitzgerald DNB 1763-1798. Maurice Fitzgerald the
+                            Knight of Kerry (see above) though pro-government at the time of
+                            Anglo-Irish Union 1800 and a Lord of the Treasury thereafter became
+                            disillusioned with the failure of Catholic relief and went over to
+                            opposition around 1807. Edward Fitzgerald DNB and Dict Irish Biog c1770 -
+                            c 1807 was a United Irish leader of 1798 who according to DIB wasin
+                            England 1800-3 and was pardoned in 1803 but died in Hamburg in about
+                            1807 while the DNB suggests he was in Hamburg from 1800 to his death
+                            (see also O'Byrne). There was also N A Fitzgerald the mother of two of
+                            Curran's sons (see Bodleian Abinger c7 f32-3), I don't know if she was
+                            still alive when Curran died but her son Henry Grattan Curran Dict Irish
+                            Biog 1800-1876 was known as Fitzgerald until he adopted his father's
+                            name in 1828 and the other son was probably the writer of a letter
+                            Bodleian Abinger c12 f15 concerning his father's burial which makes him
+                            a likely candidate for the 1817 entries at least. Crofton V Fitzgerald
+                            married in 1813 Harriet the daughter of Archibald Hamilton Rowan DNB
+                            1751-1834. There were plenty of other Fitzgeralds around so none of
+                            these identifications are strong as yet. </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

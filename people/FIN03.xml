@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="FIN03" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Arthur James</forename>
+                        <surname>Plunkett, 8th Earl of Fingall</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1759">
+                        <placeName/>
+                    </birth>
+                    <death when="1836"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p> see Dictionary of Irish Biography and Burke'ss Peerage </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

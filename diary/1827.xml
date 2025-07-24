@@ -189,7 +189,7 @@
        subtype="write" target="/works/comm01.html">Commonwealth, 6 lines</ref>. <seg type="dMeeting"
        subtype="other"><persName>Grayson</persName> expected</seg>. <ref type="dText" subtype="read"
        target="/bibl/te3018.html">Wilhelm, p. 324</ref>. <seg type="dMeeting" subtype="M">Meet
-        <persName>Fellowes</persName></seg>. <ref type="dEvent" subtype="Weath">Frost, 8 days.
+         <persName ref="/people/FEL05.html">Fellowes</persName></seg>. <ref type="dEvent" subtype="Weath">Frost, 8 days.
        Snow</ref>. <ref type="dEvent" subtype="Temp">43 ½</ref></ab>
      <pb n="e.222_0016r"/>
      <ab type="dDay" xml:id="g1827-01-21"><date when="1827-01-21">Jan. 21. Su.</date><ref

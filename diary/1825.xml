@@ -431,7 +431,7 @@
                                     ref="/people/BAR05.html">Barham</persName></seg></ref>.</ab>
                     <ab type="dDay" xml:id="g1825-02-09"><date when="1825-02-09">9. W.</date><ref
                             type="dWrote" subtype="letter"> Write to
-                            <persName>Fellowes</persName></ref>. <seg type="dMeeting" subtype="C"
+                            <persName ref="/people/FEL05.html">Fellowes</persName></ref>. <seg type="dMeeting" subtype="C"
                             >Call on <persName ref="/people/POU01.html"><placeName type="venue"
                                     >Pouncy</placeName></persName></seg>, &amp; <seg type="dMeeting"
                             subtype="C"><persName ref="/people/TAY01.html"><placeName type="venue">J
@@ -3267,7 +3267,7 @@
                             type="dMeeting" subtype="C"><persName ref="/people/TAY06.html"
                                 type="nah"><placeName type="venue">R
                                 Taylor</placeName></persName><hi rend="sup">n</hi></seg> &amp; <seg
-                            type="dMeeting" subtype="C"><persName><placeName type="venue"
+                                    type="dMeeting" subtype="C"><persName ref="/people/FEL05.html"><placeName type="venue"
                                     >Fellowes</placeName></persName></seg>.</ab>
                 </div>
                 <div type="dMonth" xml:id="g1825-12">
@@ -3323,7 +3323,7 @@
                             type="dWrote" subtype="revised" target="/works/comm01.html"
                             >Commonwealth, revise</ref>. <ref type="dEntertainment" subtype="Museo"
                             target="/events/mu0001.html"><placeName>Museum</placeName></ref>. <seg
-                            type="dMeeting" subtype="CG"><persName>Fellowes</persName>
+                                type="dMeeting" subtype="CG"><persName ref="/people/FEL05.html">Fellowes</persName>
                         calls</seg>.</ab>
                     <ab type="dDay" xml:id="g1825-12-08"><date when="1825-12-08">8. Th.</date><ref
                             type="dWrote" subtype="revised" target="/works/comm01.html"
