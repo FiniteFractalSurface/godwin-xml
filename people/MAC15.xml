@@ -1,43 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"> 
-    <teiHeader> 
-        <fileDesc> 
-            <titleStmt> 
-                <title>Person List</title> 
-            </titleStmt> 
-            <publicationStmt> 
-                <p>Unpublished</p> 
-            </publicationStmt> 
-            <sourceDesc> 
-                <p>Generated data</p> 
-            </sourceDesc> 
-        </fileDesc> 
-    </teiHeader> 
-    <text> 
-        <body> 
-            <listPerson> 
-                <person xml:id="MAC15" sex="1"> 
-                    <persName> 
-                        <roleName/> 
-                        <forename>John</forename> 
-                        <surname>MacArthur</surname> 
-                        <addName/> 
-                    </persName> 
-                    
-                    <birth when="1766-08-18"> 
-                        <placeName/> 
-                    </birth> 
-                    
-                    <death when="1834-04-11"/> 
-                    
-                    <occupation>Seaman, Politician, Colonial Wool Merchant</occupation> 
-                    
-                    <note type="editorial"> 
-                        <p>John MacArthur, born in Devon, would go on to be highly influential in early Austrialian colonial politics, trade, and the strenuous relationship between the colony and the metropole. . 
-                        </p> 
-                    </note> 
-                </person> </listPerson> 
-            
-        </body> 
-    </text> 
-</TEI> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="MAC15" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>John</forename>
+                        <surname>MacArthur</surname>
+                        <addName/>
+                    </persName>
+
+                    <birth when="1766-08-18">
+                        <placeName/>
+                    </birth>
+
+                    <death when="1834-04-11"/>
+
+                    <occupation>Seaman, Politician, Colonial Wool Merchant, Colonial
+                        Secretary</occupation>
+
+                    <note type="editorial">
+                        <p> John MacArthur likely met Godwin while awaiting colonial court martial in
+                            England for political dissent in Australia. Born in Devon in 1767,
+                            MacArthur was ensigned in the English navy before being stationed in
+                            Australia where he would become one of the most significant Australian
+                            wool merchants and subsequently a figurehead within early Australian
+                            politics. Notably, he was a leading figure in the Rum Rebellion military
+                            coup against Governor Bligh in 1808 which resulted in two years of army
+                            control, and held office as Colonial Secretary within this period.
+                            Financially, he rose as Australia’s most prominent wool refiner and
+                            merchant. The supply of wool to England proved highly profitable and
+                            would become a hallmark of early imperial trade. At the time of his
+                            death in 1834 he owned 24,000 acres of land valued at £300,000. </p>
+                    </note>
+                </person>
+            </listPerson>
+
+        </body>
+    </text>
+</TEI>
