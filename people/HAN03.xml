@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hannam,William</title>
+            <respStmt>
+               <resp>Encoded by</resp>
+               <name>EP and SI</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Generated Data</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <listPerson>
+      <person xml:id="HAN03" sex="1">
+         <persName>
+            <forename>William</forename>
+            <surname>Hannam</surname>
+         </persName>
+         <birth when="1000"></birth>
+         <death when="1000"></death>
+         <occupation>Lawyer</occupation>
+         <note type="editorial">
+            <p>William Hannam was a solicitor and general agents for the West India islands, and an actuary to the masonic society, Piazza-chambers, Covent garden. He acted as the attorney in <persName key="TAB01">Benjamin Tabart's</persName> bankruptcy, and often appears with him in the diary. His attendance at the examination of <persName key="PHI01">Sir Richard Phillips</persName> was likely due to it’s connection to Tabart’s bankruptcy proceedings. </p>
+         </note>
+         <bibl type="website">Ed Pope History (04/04/2021)(</bibl>
+         <bibl>London and Country Directory, 1811</bibl>
+         <ab type="appearancesInDiary" n="1810">
+            <date when="1810-08-11" n="notVenue" type="ah"/>
+            <date when="1810-08-20" n="notVenue" type="ah"/>
+            <date when="1810-08-21" n="notVenue" type="ah"/>
+            <date when="1810-10-09" n="notVenue" type="ah"/>
+            <date when="1810-10-12" n="venue" type="nah"/>
+         </ab>
+         <ab type="appearancesInDiary" n="1811">
+            <date when="1811-02-05" n="notVenue" type="ah"/>
+         </ab>
+      </person>
+   </listPerson>
+</TEI>
