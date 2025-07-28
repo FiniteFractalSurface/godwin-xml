@@ -2968,11 +2968,12 @@
                             F.</date><placeName>Norwich</placeName>, <seg type="dMeal" subtype="D"
                             >dine w. sheriffs<persName ref="/people/RIG01.html"> Rigby</persName>
                             &amp; <persName><placeName type="venue">Clarke</placeName></persName>,
-                                w. <persName ref="/people/FIR02.html">Firth</persName>, <persName>2 Palgraves &amp;
-                                twenty</persName></seg>: <seg type="dMeeting" subtype="CG"><persName
-                                ref="/people/ALD02|OPI01.html">Opies</persName></seg> &amp; <seg
-                            type="dMeeting" subtype="CG"><persName ref="/people/ALD04.html"
-                                >Alderson</persName> call</seg>.</ab>
+                            w. <persName ref="/people/FIR02.html">Firth</persName>, <persName>2
+                                Palgraves &amp; twenty</persName></seg>: <seg type="dMeeting"
+                            subtype="CG"><persName ref="/people/ALD02|OPI01.html"
+                            >Opies</persName></seg> &amp; <seg type="dMeeting" subtype="CG"
+                                ><persName ref="/people/ALD04.html">Alderson</persName>
+                        call</seg>.</ab>
                     <ab type="dDay" subtype="NotLon" xml:id="g1803-10-08"><date when="1803-10-08">8.
                             Sa.</date><seg type="dMeeting" subtype="C">Call on <persName
                                 ref="/people/ALD04.html"><placeName type="venue"
@@ -2988,8 +2989,9 @@
                             >Oct. 9. Su.</date><seg type="dMeeting" subtype="See">Ride to <persName
                                 ref="/people/LOF01.html"><placeName type="venue">Lofft's, Troston
                                     Hall</placeName></persName>: spend the day; <seg type="dMeeting"
-                                        subtype="Adv">adv. <persName ref="/people/FIN02.html">Finchs</persName> &amp;
-                                    <persName>Davenport</persName></seg></seg>.</ab>
+                                subtype="Adv">adv. <persName ref="/people/FIN02.html"
+                                    >Finchs</persName> &amp;
+                            <persName>Davenport</persName></seg></seg>.</ab>
                     <ab type="dDay" subtype="NotLon" xml:id="g1803-10-10"><date when="1803-10-10"
                             >10. M.</date><seg type="dMeeting" subtype="C"
                                 ><placeName>Bury</placeName>, call on <persName><placeName
@@ -3321,7 +3323,7 @@
                             type="dMeal" subtype="D">dine at <persName
                                 ref="/people/ROW01|ROW02.html"><placeName type="venue">H
                                     Rowan's</placeName></persName>, w. <persName>O Byrne</persName>,
-                                <persName>Delany</persName>, <persName>Forbes</persName>,
+                                    <persName>Delany</persName>, <persName type="nah" ref="/people/FOR04.html">Forbes</persName>,
                                 <persName>Butler</persName>, <persName>miss Hamiltons</persName>
                             &amp; <persName>mrs Beresford</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1803-11-08"><date when="1803-11-08">8. Tu.</date><ref

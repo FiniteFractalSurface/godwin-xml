@@ -644,10 +644,11 @@
                             F.</date><ref type="dText" subtype="read" target="/bibl/te1828.html"
                             >Bacon, p. 102</ref>. <seg type="dMeal" subtype="D">Dine at <persName
                                 ref="/people/CUR01.html"><placeName type="venue"
-                                    >Curran’s</placeName></persName> </seg>. <ref type="dText"
-                            subtype="read" target="/bibl/te2384.html">Conference</ref>; <ref
-                                type="dText" subtype="read" target="/bibl/te2385.html"><persName ref="/people/FIT04.html">Fitzgerald, pp.
-                            20</persName></ref>.</ab>
+                                    >Curran’s</placeName></persName>
+                        </seg>. <ref type="dText" subtype="read" target="/bibl/te2384.html"
+                            >Conference</ref>; <ref type="dText" subtype="read"
+                            target="/bibl/te2385.html"><persName ref="/people/FIT04.html"
+                                >Fitzgerald, pp. 20</persName></ref>.</ab>
                     <ab type="dDay" subtype="NotLon" xml:id="g1816-03-02"><date when="1816-03-02">2.
                             Sa.</date> Coach to <placeName>Bracknell</placeName>: <seg
                             type="dMeeting" subtype="SleepAt"><seg type="dMeal" subtype="D">
@@ -1085,7 +1086,7 @@
                             >15. M.</date><seg type="dMeeting" subtype="C">Call on <persName
                                 ref="/people/ERS04.html"><placeName type="venue"
                                 >Buchan</placeName></persName></seg>, <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                    subtype="C"><persName ref="/people/FLE02.html"><placeName type="venue"
                                 >Fletchers</placeName></persName></seg>, &amp; <seg type="dMeeting"
                             subtype="Cn"><persName ref="/people/MUR01.html">Murray</persName> (w.
                                 <persName ref="/people/FAI01.html">Fairley</persName>)</seg>: <seg
@@ -1163,7 +1164,7 @@
                                 <persName>Ritchie</persName>{,} <persName ref="/people/FAI01.html"
                                 >Fairley</persName>, &amp;c</seg>: <placeName>Heriot’s
                             Hospital</placeName>: <seg type="dMeal" subtype="D">dine at
-                                    <persName><placeName type="venue"
+                                <persName ref="/people/FLE02.html"><placeName type="venue"
                                 >Fletcher’s</placeName></persName>, w. <persName>Brown</persName>,
                                 <persName>Craigs</persName>, <persName>mrs Miller</persName>,
                                 <persName>miss Miller</persName> &amp; <persName
@@ -1193,7 +1194,7 @@
                                     >r</hi> &amp; M<hi rend="sup">rs</hi> Gray</persName>,
                                 <persName>Clarinda</persName>, <persName ref="/people/CON01.html"
                                 >Constable</persName>, &amp;c</seg>: <seg type="dMeeting"
-                            subtype="M">meet <persName>mrs Fletcher</persName></seg>: <seg
+                                    subtype="M">meet <persName ref="/people/FLE02.html">mrs Fletcher</persName></seg>: <seg
                             type="dMeeting" subtype="C">call on <persName ref="/people/PLA04.html"
                                     ><placeName type="venue">Playfair</placeName></persName></seg>
                         &amp; <seg type="dMeeting" subtype="C"><persName><placeName type="venue"

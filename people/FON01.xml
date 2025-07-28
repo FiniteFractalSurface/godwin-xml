@@ -20,23 +20,20 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="FLE02" sex="1">
+                <person xml:id="FON01" sex="2">
                     <persName>
                         <roleName/>
-                        <forename>FIRSTNAME</forename>
-                        <surname>Fletcher</surname>
+                        <forename>Mrs Rachel</forename>
+                        <surname>SURNAME</surname>
                         <addName/>
                     </persName>
                     <birth when="1000-01-01">
                         <placeName/>
                     </birth>
                     <death when="1000-12-31"/>
-                    <occupation/>
+                    <occupation>OCCUPATION</occupation>
                     <note type="editorial">
-                        <p> The family with whom Charles Clairmont resided while working with
-                            Archibald Constable (November 1811-January 1814). They also visit London
-                            in 1819 and it is possible that G Fletcher who is in London in February
-                            1818 is a part of this family. </p>
+                        <p> PCC 1770 James Fonseque of Lincoln, Jacob Fonseque 1782 merchant 33 Threadneedle St or Rainbow coffee house, PCC 1807 Rachel Fonseque widow Jamaica </p>
                     </note>
                 </person>
             </listPerson>

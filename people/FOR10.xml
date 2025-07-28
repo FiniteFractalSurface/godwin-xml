@@ -20,23 +20,26 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="FLE02" sex="1">
+                <person xml:id="FOR10" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>FIRSTNAME</forename>
-                        <surname>Fletcher</surname>
+                        <forename>Elias</forename>
+                        <surname>Fordham</surname>
                         <addName/>
                     </persName>
                     <birth when="1000-01-01">
                         <placeName/>
                     </birth>
                     <death when="1000-12-31"/>
-                    <occupation/>
+                    <occupation>Farmer</occupation>
                     <note type="editorial">
-                        <p> The family with whom Charles Clairmont resided while working with
-                            Archibald Constable (November 1811-January 1814). They also visit London
-                            in 1819 and it is possible that G Fletcher who is in London in February
-                            1818 is a part of this family. </p>
+                        <p> This seems to be Elias Fordham of Cambridgeshire, but also of Royston,
+                            Herts. Ed Pope points towards a connection to Henry Crabve Robinson,
+                            through being witnesses to his brothers marriage. There is
+                            correspondence with Forham in the AAbinger collection - relating to
+                            Godwin giving an account, in November 1811,of what he sees as the
+                            different characters of Fanny and Mary Godwin. There is also a letter
+                            in 1822 commenting on a poem/tragedy written by Fordham. </p>
                     </note>
                 </person>
             </listPerson>

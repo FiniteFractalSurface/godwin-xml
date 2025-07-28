@@ -1825,7 +1825,7 @@
                                 >Mulready</persName> call</seg>.</ab>
                     <ab type="dDay" xml:id="g1806-06-19"><date when="1806-06-19">19. Th.</date><ref
                             type="dText" subtype="read" target="/bibl/te0519.html">Virgil, vs.
-                            700</ref>. <seg type="dMeeting" subtype="C">Call on <persName><placeName
+                            700</ref>. <seg type="dMeeting" subtype="C">Call on <persName ref="/people/FLI02.html"><placeName
                                     type="venue"> Flint</placeName></persName></seg>; &amp;, w. <seg
                             type="dMeeting" subtype="Cn"><persName ref="/people/CLA01.html">M
                                 J</persName>, on <persName><placeName type="venue">mrs
@@ -3215,7 +3215,7 @@
                             type="dMeeting" subtype="Do"><placeName>Westminster-Hall</placeName>, w.
                                 <persName ref="/people/NIC01.html">Nicholson</persName>, <persName
                                 ref="/people/HAY02.html">Hayward</persName>,
-                                <persName>Wilkinson</persName> &amp; <persName>Fletcher</persName>;
+                            <persName>Wilkinson</persName> &amp; <persName ref="/people/FLE01.html">Fletcher</persName>;
                                 <seg type="dMeeting" subtype="Adv">adv. <persName
                                     ref="/people/ERS01.html">Erskine</persName></seg></seg>: <seg
                             type="dMeeting" subtype="M">meet <persName ref="/people/REY99.html"
@@ -3528,7 +3528,7 @@
                                 ><persName>Binham</persName> call</seg>: <seg type="dMeal"
                             subtype="SG"><persName ref="/people/TOP04.html">E Topping</persName>,
                                 <persName ref="/people/SMI11.html">Smith</persName> &amp;
-                                <persName>Ford</persName> sup; <seg type="dMeeting" subtype="Adv"
+                                    <persName ref="/people/FOR07.html">Ford</persName> sup; <seg type="dMeeting" subtype="Adv"
                                 >adv. <persName ref="/people/TUR01.html">T
                         T</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1806-12-13"><date when="1806-12-13">13. Sa.</date><ref

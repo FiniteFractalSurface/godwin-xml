@@ -20,23 +20,24 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="FLE02" sex="1">
+                <person xml:id="FOR11" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>FIRSTNAME</forename>
-                        <surname>Fletcher</surname>
+                        <forename>Ford</forename>
+                        <surname>Brown</surname>
                         <addName/>
                     </persName>
                     <birth when="1000-01-01">
                         <placeName/>
                     </birth>
-                    <death when="1000-12-31"/>
-                    <occupation/>
+                    <death when="1842"/>
+                    <occupation>OCCUPATION</occupation>
                     <note type="editorial">
-                        <p> The family with whom Charles Clairmont resided while working with
-                            Archibald Constable (November 1811-January 1814). They also visit London
-                            in 1819 and it is possible that G Fletcher who is in London in February
-                            1818 is a part of this family. </p>
+                        <p> Second son of John Brown (1738-1788), an innovative medical doctor from
+                            a very poor background. Ford Brown married Caroline Madox . Ford was a
+                            purser on the Arethusa, but retired after the Napoleonic Wars - and they
+                            lived in reduced circumstance (in part in Calais), which marked the upbringing of their son,
+                            Ford Maddox Ford (1821-1893). Brother of William Cullen Brown, who also appears in the diary. </p>
                     </note>
                 </person>
             </listPerson>

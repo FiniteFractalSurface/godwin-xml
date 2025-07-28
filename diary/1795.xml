@@ -2773,7 +2773,7 @@
                             ref="/people/REV01|REV02.html">Reveley's</persName>: <seg
                             type="dMeeting" subtype="C">call on <persName ref="/people/HOL01.html"
                                     ><placeName type="venue">Hts</placeName></persName>; <seg
-                                type="dMeeting" subtype="Adv">adv. <persName>mrs
+                                        type="dMeeting" subtype="Adv">adv. <persName type="nah" ref="/people/FOU02.html">mrs
                                 Foulkes</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1795-07-28"><date when="1795-07-28"> 28. Tu.</date><ref
                             type="dText" subtype="read" target="/bibl/te0163.html">Lettres sur les
@@ -3178,7 +3178,7 @@
                                     >Hts</placeName></persName>, w. <persName
                                 ref="/people/THE01.html">Thelwal</persName>; <seg type="dMeeting"
                                 subtype="Adv">adv. <persName ref="/people/RIC02.html">J &amp; E
-                                    Richters</persName>, <persName>P. Foulkes</persName>, <persName
+                                    Richters</persName>, <persName type="nah" ref="/people/FOU02.html">P. Foulkes</persName>, <persName
                                     ref="/people/COO01.html">Cooper</persName> &amp;
                                     <persName>Pinard</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1795-09-07"><date when="1795-09-07">7. M.</date><ref

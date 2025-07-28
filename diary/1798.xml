@@ -545,7 +545,7 @@
                                 <persName ref="/people/PHI02.html">Philips</persName> &amp;
                                 <persName>Austin</persName>; <seg type="dMeeting" subtype="Adv">adv.
                                     <persName>Mackin</persName> &amp;
-                                <persName>Fletcher</persName></seg></seg>: <ref
+                                    <persName ref="/people/FLE01.html">Fletcher</persName></seg></seg>: <ref
                             type="dEntertainment" subtype="Theat" target="/plays/whee01.html"
                                 ><placeName type="DL"/>theatre, 3/10 Wheel of Fortune</ref>: <seg
                             type="dMeeting" subtype="C">call on <persName ref="/people/VAU01.html"
@@ -2938,7 +2938,7 @@
                                 ref="/people/HOL01.html"><placeName type="venue"
                                 >Ht</placeName></persName>; <seg type="dMeeting" subtype="Adv">adv.
                                     <persName ref="/people/NIC01.html">Nicholson</persName> &amp;
-                                    <persName>mrs Foulkes</persName></seg></seg>: <seg type="dMeal"
+                                    <persName type="nah" ref="/people/FOU02.html">mrs Foulkes</persName></seg></seg>: <seg type="dMeal"
                             subtype="S">sup at <placeName>Highgate</placeName>, w. <persName
                                 ref="/people/JON01.html">L J</persName> &amp; <persName
                                 ref="/people/DIB01.html">Dibbin</persName></seg>. <seg type="dMeal"
@@ -3304,7 +3304,7 @@
                             type="dMeal" subtype="D">Dine at <persName ref="/people/HOL01.html"
                                     ><placeName type="venue">Hts</placeName></persName>, w.
                                 <persName ref="/people/HOL05.html">L Mercier</persName></seg>: <seg
-                            type="dMeeting" subtype="C">call on <persName><placeName type="venue"
+                                    type="dMeeting" subtype="C">call on <persName type="nah" ref="/people/FOU02.html"><placeName type="venue"
                                     >mrs Foulkes</placeName></persName>; <seg type="dMeeting"
                                 subtype="Adv">adv. <persName>mrs Platt</persName> &amp;
                                     <persName>Smiths</persName></seg></seg>.</ab>
