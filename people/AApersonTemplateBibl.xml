@@ -38,9 +38,7 @@
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication, Publisher, year</bibl>
                     <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
-                    <bibl type="other">
-                        <title>DNB</title>
-                    </bibl>
+                    <bibl type="other"><title></title></bibl>
                 </person>
             </listPerson>
         </body>
