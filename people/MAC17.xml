@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="MAC17" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>James</forename>
+                        <surname>Macaulay</surname>
+                        <addName/>
+                    </persName>
+
+                    <birth when="1817-05-22">
+                        <placeName/>
+                    </birth>
+
+                    <death when="1902-06-18"/>
+
+                    <occupation>Author, Animal Rights Activist, Religious Publisher</occupation>
+
+                    <note type="editorial">
+                        <p> Macaulay appears once in the diaries 25.12.1835('adv.'),and is
+                            labelled as 'Sceptic'. This indicates that he was James Macaulay,
+                            staunch critic and sceptic of the consumption of meat. Following this,
+                            his first essay titled 'Essay on Cruelty to Animals' was published in
+                            1939, and he would go on to disperse writings on this topic between
+                            other publiations regarding European Geography and religion, the latter
+                            being aimed at children. He joined the 'Literary Gazette' in 1850, and
+                            toured both America and Ireland in the 1870s, publishing editorials on
+                            each; again, aimed at a younger audience. This identification is tentative. </p>
+                    </note>
+                </person>
+            </listPerson>
+
+        </body>
+    </text>
+</TEI>

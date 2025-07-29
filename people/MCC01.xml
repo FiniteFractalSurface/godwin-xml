@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="MCC01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>James</forename>
+                        <surname>McCabe</surname>
+                        <addName/>
+                    </persName>
+
+                    <birth when="unknown">
+                        <placeName/>
+                    </birth>
+
+                    <death when="unknown"/>
+
+                    <occupation>Tenant OR Stock Exchange worker</occupation>
+
+                    <note type="editorial">
+                        <p> There are two tentative possibilities for who McCabe is, each begining
+                            with the same forename. The first James McCabe was a tenant of 13
+                            Primrose Street listed there in the rate books between 1800 to 1807. The
+                            second James McCabe was a stock exchange worker of the same period.
+                            Neither appear elsewhere in the diaries, only being refered to in 1805
+                            and 1811. </p>
+                    </note>
+                </person>
+            </listPerson>
+
+        </body>
+    </text>
+</TEI>
