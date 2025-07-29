@@ -13,7 +13,7 @@ fancyelip () {
 
 cd "$(dirname "$0")" || exit 1
 
-templatefilename="AApersonTemplate.xml"
+templatefilename="AApersonTemplateBibl.xml"
 
 if [[ $PWD != *"test1" ]] && [[ $PWD != *"people" ]]; then # Error condition 1: Is the working directory correct? Valid working directories are test1 or people
     echo "You're not in the right directory. Please change directory to either test1 or people."
