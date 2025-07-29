@@ -20,29 +20,28 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="XXX01" sex="1">
+                <person xml:id="GAR09" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>NAME</forename>
+                        <forename>FIRSTNAME</forename>
                         <surname>SURNAME</surname>
                         <addName/>
                     </persName>
-                    <birth when="1000-01-01">
+                    <birth when="1732">
                         <placeName/>
                     </birth>
-                    <death when="1000-12-31"/>
+                    <death when="1812"/>
                     <occupation>OCCUPATION</occupation>
                     <note type="editorial">
-                        <p> </p>
+                        <p> Maxwell Garthshore DNB 1732-1812. He is also mentioned in Godwin's
+                            letters (Abinger c.7 f54). Less likely that any of these refer to his
+                            son William, who had probably set out on a tour of Europe by then </p>
                     </note>
-
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
                         Publisher, year</bibl>
                     <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
-                    <bibl type="other">
-                        <title></title>
-                    </bibl>
+                    <bibl type="other">DNB<title/></bibl>
                 </person>
             </listPerson>
         </body>

@@ -20,29 +20,21 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="XXX01" sex="1">
+                <person xml:id="FUS02" sex="2">
                     <persName>
                         <roleName/>
-                        <forename>NAME</forename>
-                        <surname>SURNAME</surname>
+                        <forename>Sophia</forename>
+                        <surname>Fuseli</surname>
                         <addName/>
                     </persName>
-                    <birth when="1000-01-01">
+                    <birth when="1762">
                         <placeName/>
                     </birth>
-                    <death when="1000-12-31"/>
+                    <death when="1832"/>
                     <occupation>OCCUPATION</occupation>
                     <note type="editorial">
-                        <p> </p>
+                        <p>  Henry Fuseli DNB 1741-1825 married St Marylebone 30.6.1788 Sophia Rawlins of Batheaston (1762/3-1832) </p>
                     </note>
-
-                    <bibl type="MS"> </bibl>
-                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
-                        Publisher, year</bibl>
-                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
-                    <bibl type="other">
-                        <title></title>
-                    </bibl>
                 </person>
             </listPerson>
         </body>

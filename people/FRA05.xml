@@ -20,29 +20,26 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="XXX01" sex="1">
+                <person xml:id="FRA05" sex="2">
                     <persName>
                         <roleName/>
-                        <forename>NAME</forename>
-                        <surname>SURNAME</surname>
+                        <forename>Miss</forename>
+                        <surname>Franklin</surname>
                         <addName/>
                     </persName>
                     <birth when="1000-01-01">
                         <placeName/>
                     </birth>
                     <death when="1000-12-31"/>
-                    <occupation>OCCUPATION</occupation>
+                    <occupation>governess/nurse</occupation>
                     <note type="editorial">
-                        <p> </p>
+                        <p> Perhaps a young lady who was looking after Richard Brunton, the youngest
+                            brother of Merry's wife (see next day's entry, Richard enfant), who
+                            would have been about 5 years old (see Exeter Flying Post 20.8.1846 and
+                            Ipswich Journal 15.8.1846). Perhaps related to Robert Henry Franklin
+                            (Highfill, Burnim and Langhans) 1769-1802 manager of a theatre company
+                            operating in the East Midlands will PCC 1802. </p>
                     </note>
-
-                    <bibl type="MS"> </bibl>
-                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
-                        Publisher, year</bibl>
-                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
-                    <bibl type="other">
-                        <title></title>
-                    </bibl>
                 </person>
             </listPerson>
         </body>

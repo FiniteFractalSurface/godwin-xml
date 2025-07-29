@@ -20,28 +20,26 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="XXX01" sex="1">
+                <person xml:id="GAR03" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>NAME</forename>
-                        <surname>SURNAME</surname>
+                        <forename>David</forename>
+                        <surname>Gardner</surname>
                         <addName/>
                     </persName>
-                    <birth when="1000-01-01">
+                    <birth when="1750">
                         <placeName/>
                     </birth>
-                    <death when="1000-12-31"/>
-                    <occupation>OCCUPATION</occupation>
+                    <death when="1805"/>
+                    <occupation>Portrit artistN</occupation>
                     <note type="editorial">
-                        <p> </p>
+                        <p>Meeting with Northcote (1800) likely to be this Gardner. Other Gardners, esp Mrs Garner, not so, since David Gardner's wife died young.  </p>
                     </note>
-
                     <bibl type="MS"> </bibl>
-                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
-                        Publisher, year</bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication, Publisher, year</bibl>
                     <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
                     <bibl type="other">
-                        <title></title>
+                        <title>DNB, Farington Diary</title>
                     </bibl>
                 </person>
             </listPerson>

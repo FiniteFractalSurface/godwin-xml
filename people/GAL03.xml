@@ -20,22 +20,23 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="XXX01" sex="1">
+                <person xml:id="GAL03" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>NAME</forename>
-                        <surname>SURNAME</surname>
+                        <forename>John</forename>
+                        <surname>Gale</surname>
                         <addName/>
                     </persName>
                     <birth when="1000-01-01">
                         <placeName/>
                     </birth>
                     <death when="1000-12-31"/>
-                    <occupation>OCCUPATION</occupation>
+                    <occupation>Bookseller</occupation>
                     <note type="editorial">
-                        <p> </p>
+                        <p> Gale and Curtis booksellers 23 Paternoster-row 1809 to 1817 (bbti). From
+                            1814 Gale Curtis and Fenner. Case in Chancery 1817 Oxford University v.
+                            John Gale and Rest Fenner (Nat Arch C13/2775/57). </p>
                     </note>
-
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
                         Publisher, year</bibl>

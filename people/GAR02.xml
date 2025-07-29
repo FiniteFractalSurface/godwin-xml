@@ -20,28 +20,32 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="XXX01" sex="1">
+                <person xml:id="GAR02" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>NAME</forename>
-                        <surname>SURNAME</surname>
+                        <forename>Samuel</forename>
+                        <surname>Garbett</surname>
                         <addName/>
                     </persName>
-                    <birth when="1000-01-01">
+                    <birth when="1717">
                         <placeName/>
                     </birth>
-                    <death when="1000-12-31"/>
+                    <death when="1803"/>
                     <occupation>OCCUPATION</occupation>
                     <note type="editorial">
-                        <p> </p>
+                        <p> Timothy Hollis's will (date 13.8.1774) mentions Elizabeth wife of
+                            Francis Garbett of Knill, Herefordshire, son of 'my old friend Samuel
+                            Garbett of Birmingham' and his last codicil (date 15.2.1790) mentions
+                            Francis Garbett's children John aged 20 of Edinburgh, Ann 17, Mary 16
+                            and Sophia 15 at Hereford. Samuel Garbett was the ironmaster (DNB
+                            1717-1803) </p>
                     </note>
-
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
                         Publisher, year</bibl>
                     <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
                     <bibl type="other">
-                        <title></title>
+                        <title>DNB</title>
                     </bibl>
                 </person>
             </listPerson>

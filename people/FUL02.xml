@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="FUL02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Charles</forename>
+                        <surname>Fuller</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p> Richard Fuller banker of Cornhill (will PCC 1782) had five sons Richard,
+                            George, Charles, Joseph and William. Charles married 22.4.1795 at St Geo
+                            Han Sq Jane widow of Benjamin Bond Hopkins (will PCC 1794) who had
+                            married her 22.2.1791 as a widower, she was Jane Davis otherwise Knight
+                            spinster of Clapham Surrey, Robert Knight was a witness. Davis was the
+                            name of the unmarried mother of the Knights, so Charles Fuller was
+                            Robert Knight's brother-in-law. His brothers Joseph and William both
+                            became Guards officers. In 1805 Robert Knight prosecuted Joseph Fuller
+                            for crim con (adultery) with his wife and was awarded £7000. It was
+                            stated in court Joseph Fuller had taken advantage of his intimacy with
+                            the Knights due to his brother being married to Robert Knight's sister.
+                            In 1814 Knight prosecuted Lord Middleton for crim con and won no award
+                            as he was by then separated from his wife but his concern was chiefly to
+                            prevent their son from claiming his inheritance. The son had been
+                            baptised Henry Charles son of Charles and Frances Knight at St Marylebone
+                            and Robert Knight feared they would later claim that the father's name
+                            was an error for Robert. See History of Parliament where it is unfairly
+                            suggested that Robert Knight disinherited his son as a kind of revenge
+                            for his own illegitimacy </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

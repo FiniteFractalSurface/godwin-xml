@@ -20,29 +20,28 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="XXX01" sex="1">
+                <person xml:id="FRI03" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>NAME</forename>
-                        <surname>SURNAME</surname>
+                        <forename>Charles</forename>
+                        <surname>Frizell</surname>
                         <addName/>
                     </persName>
                     <birth when="1000-01-01">
                         <placeName/>
                     </birth>
                     <death when="1000-12-31"/>
-                    <occupation>OCCUPATION</occupation>
+                    <occupation>Lawyer</occupation>
                     <note type="editorial">
-                        <p> </p>
+                        <p> Charles Frizell sub to Reports of Cases (in Irish courts) 1798, Charles
+                            Fraser Frizell, MRIA sub to Samuel Whyte 1795. C F Frizell, Beaufort
+                            Villa. nr Rathfarnham = Nov 1803 dau of late Geo Sedwith of
+                            Sedwithstown, co. Longford. Charles Frizell, Castle Kevin co. Wicklow =
+                            Oct 1792 Mary dau of Benjamin Ball at Season Park, co. Wicklow / Loftus
+                            Frizell sub to Bolingbroke 1793,. Henry Loftus Friizell = dau of
+                            Counsellor Lennon in Harcourt St, Dublin / Richard Frizell 60th foot =
+                            May 1791 Elinor dau of Dr Biston RN (Irish marriages)  </p>
                     </note>
-
-                    <bibl type="MS"> </bibl>
-                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
-                        Publisher, year</bibl>
-                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
-                    <bibl type="other">
-                        <title></title>
-                    </bibl>
                 </person>
             </listPerson>
         </body>

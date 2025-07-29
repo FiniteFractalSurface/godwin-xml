@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="FRA04" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>William Temple</forename>
+                        <surname>Franklin</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1823"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p> 19.1.1793 write to Franklin and 13.9.1801 adv at Hill's, 23.9.1808
+                            calls, (6.10.1808 Godwin re-reads Life of Franklin), 11.10.1809 write
+                            to, 21.10.1809 White calls from Franklin, 14.11.1809 write to, 23.2.1810
+                            write to, 13.8.1811 write to Franklin. Hertford and 21.6.1817 write to.
+                            The 'write to' entries may be William Temple Franklin who died Paris
+                            25.5.1823 grandson of Benjamin Franklin DNB 1706-90 and had been his
+                            secretary in Paris and published his works after his death. Franklin,
+                            Hertford was probably the Rev Frederick William Franklin 1774-1836
+                            exhibitioner at Christs Hospital, BA 1797 Pembroke Hall Cambridge,
+                            married Mary Symonds 1797, taught at Mr Newcombe's academy, Hackney,
+                            grammar master at Christ's Hospital, Hertford 1801-1827, chaplain of
+                            Hertford gaol 1815-1827, vicar of Albrighton, Shropshire from 1827 and
+                            chaplain to Earl Talbot from 1828. Andrew Franklin will PCC 1845 (of
+                            Tavistock Sq Covent Gdn, sole exec James Leech Ridgway of Piccadilly
+                            wife Sarah. Joseph Carrington Ridgway, nephew Denham F attorney of Cork,
+                            nephew John F of Plymouth, Maria Mudd niece of Mrs F, Francis Mudd,
+                            Ellen Parsloe Winnington, servant Charlotte Ashfield and her sisiter Mrs
+                            Freake) journalist and dramatist mentioned in will PCC 1811 of David
+                            Evans Macdonnell. Macdonnell had recommended him as his successor in
+                            editorship of the Gazetteer newspaper in 1796 (Robert L Haig, The
+                            Gazetteer p251). See McDonnell, Street, Ridgway. Andrew Franklin voted
+                            Fox and Tooke 1796, Fox 1802, Hood and Paull 1806. On 7.1.1793 he (of Smith
+                            Sq) stood bail for William Holland </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

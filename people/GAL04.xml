@@ -20,28 +20,31 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="XXX01" sex="1">
+                <person xml:id="GAL04" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>NAME</forename>
-                        <surname>SURNAME</surname>
+                        <forename>John</forename>
+                        <surname>Galt</surname>
                         <addName/>
                     </persName>
-                    <birth when="1000-01-01">
+                    <birth when="1779">
                         <placeName/>
                     </birth>
-                    <death when="1000-12-31"/>
-                    <occupation>OCCUPATION</occupation>
+                    <death when="1839"/>
+                    <occupation>Novelist</occupation>
                     <note type="editorial">
-                        <p> </p>
+                        <p> Probably John Galt DNB 1779-1839. According to the DNB he arrived in
+                            London in June 1804 with "a pile of letters of introduction" which would
+                            account for his visit to Godwin in 1805. Thomas Carlyle DNB 1795-1881
+                            met Galt, Hogg, and A Cunningham at a literary party in London in January
+                            1832 (Letters of Thomas and Jane Walsh Carlyle). </p>
                     </note>
-
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
                         Publisher, year</bibl>
                     <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
                     <bibl type="other">
-                        <title></title>
+                        <title/>
                     </bibl>
                 </person>
             </listPerson>

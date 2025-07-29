@@ -20,28 +20,32 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="XXX01" sex="1">
+                <person xml:id="GAL05" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>NAME</forename>
-                        <surname>SURNAME</surname>
+                        <forename>Robert Monckton Arundel, Viscount</forename>
+                        <surname>Galway</surname>
                         <addName/>
                     </persName>
-                    <birth when="1000-01-01">
+                    <birth when="1752">
                         <placeName/>
                     </birth>
-                    <death when="1000-12-31"/>
-                    <occupation>OCCUPATION</occupation>
+                    <death when="1810"/>
+                    <occupation>politician</occupation>
                     <note type="editorial">
-                        <p> </p>
+                        <p>Robert Monckton Arundell,4th Viscount Galway born 4.7.1752 married
+                            1.3.1779 Elizabeth Mathew d.1801 2ndly 24.5.1803 Bridget (neeMilnes)
+                            (History of Parliament) MP for York 1783-90 joined Whig Club 12.11.1788,
+                            1792 "drunk in Den Haag, lives in streets,quarrels with lower people,
+                            pulled a Jew by the beard, want of money".1794 his uncle Edward Monckton
+                            said he "drinks no more than half a pint of wine a day" </p>
                     </note>
-
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
                         Publisher, year</bibl>
                     <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
                     <bibl type="other">
-                        <title></title>
+                        <title>DNB</title>
                     </bibl>
                 </person>
             </listPerson>

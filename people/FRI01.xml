@@ -20,29 +20,26 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="XXX01" sex="1">
+                <person xml:id="FRI01" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>NAME</forename>
-                        <surname>SURNAME</surname>
+                        <forename>George</forename>
+                        <surname>Fricker</surname>
                         <addName/>
                     </persName>
-                    <birth when="1000-01-01">
+                    <birth when="1784">
                         <placeName/>
                     </birth>
-                    <death when="1000-12-31"/>
+                    <death when="1813"/>
                     <occupation>OCCUPATION</occupation>
                     <note type="editorial">
-                        <p> </p>
+                        <p> 30.1.1806 sup at Lamb's w. Fricker and miss Stodart: This was George
+                            Fricker, younger brother of Sara (Mrs Coleridge) and Martha (Mrs
+                            Southey) bapt 2.6.1784 St James, Bath of Stephen and Martha Fricker, bur
+                            27.6.1813 Crosthwaite, Cumberland. He died while staying with the
+                            Southeys. Coleridge wrote to him in London in1806 encouraging him to
+                            visit the Lambs. </p>
                     </note>
-
-                    <bibl type="MS"> </bibl>
-                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
-                        Publisher, year</bibl>
-                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
-                    <bibl type="other">
-                        <title></title>
-                    </bibl>
                 </person>
             </listPerson>
         </body>

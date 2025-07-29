@@ -20,29 +20,25 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="XXX01" sex="1">
+                <person xml:id="GAR07" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>NAME</forename>
-                        <surname>SURNAME</surname>
+                        <forename>Almeida</forename>
+                        <surname>Garrett</surname>
                         <addName/>
                     </persName>
-                    <birth when="1000-01-01">
+                    <birth when="1799">
                         <placeName/>
                     </birth>
-                    <death when="1000-12-31"/>
-                    <occupation>OCCUPATION</occupation>
+                    <death when="1854"/>
+                    <occupation>Portuguese poet, orator, politician </occupation>
                     <note type="editorial">
-                        <p> </p>
+                        <p> Garrett was forced into exil in the late 1820s because of his activism and the illiberal Portuguese regime, and took up residence temporarily in Britain. </p>
                     </note>
-
                     <bibl type="MS"> </bibl>
-                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
-                        Publisher, year</bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication, Publisher, year</bibl>
                     <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
-                    <bibl type="other">
-                        <title></title>
-                    </bibl>
+                    <bibl type="other"><title>DNB</title></bibl>
                 </person>
             </listPerson>
         </body>

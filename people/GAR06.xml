@@ -20,29 +20,25 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="XXX01" sex="1">
+                <person xml:id="GAR06" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>NAME</forename>
-                        <surname>SURNAME</surname>
+                        <forename>George</forename>
+                        <surname>Garrard</surname>
                         <addName/>
                     </persName>
-                    <birth when="1000-01-01">
+                    <birth when="1760">
                         <placeName/>
                     </birth>
-                    <death when="1000-12-31"/>
-                    <occupation>OCCUPATION</occupation>
+                    <death when="1826"/>
+                    <occupation>Animal Painter</occupation>
                     <note type="editorial">
-                        <p> </p>
+                        <p>Quite likely George Garrard DNB 1760-1826 animal painter (his will PCC 1827 Queen's Bldgs Brompton). </p>
                     </note>
-
                     <bibl type="MS"> </bibl>
-                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
-                        Publisher, year</bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication, Publisher, year</bibl>
                     <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
-                    <bibl type="other">
-                        <title></title>
-                    </bibl>
+                    <bibl type="other"><title>DNB</title></bibl>
                 </person>
             </listPerson>
         </body>

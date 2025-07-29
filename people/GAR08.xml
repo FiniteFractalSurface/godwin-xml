@@ -20,29 +20,25 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="XXX01" sex="1">
+                <person xml:id="GAR08" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>NAME</forename>
-                        <surname>SURNAME</surname>
+                        <forename>William</forename>
+                        <surname>Garrow</surname>
                         <addName/>
                     </persName>
-                    <birth when="1000-01-01">
+                    <birth when="1760">
                         <placeName/>
                     </birth>
-                    <death when="1000-12-31"/>
+                    <death when="1840"/>
                     <occupation>OCCUPATION</occupation>
                     <note type="editorial">
-                        <p> </p>
+                        <p> William Garrow DNB 1760-1840 </p>
                     </note>
-
                     <bibl type="MS"> </bibl>
-                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
-                        Publisher, year</bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication, Publisher, year</bibl>
                     <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
-                    <bibl type="other">
-                        <title></title>
-                    </bibl>
+                    <bibl type="other"><title>DNB</title></bibl>
                 </person>
             </listPerson>
         </body>

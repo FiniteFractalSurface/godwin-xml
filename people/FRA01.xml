@@ -22,20 +22,32 @@
             <listPerson>
                 <person xml:id="FRA01" sex="1">
                     <persName>
-                        <roleName/>
-                        <forename/>
+                        <roleName/><forename>Alexander</forename>
                         <surname>Fraser</surname>
                         <addName/>
                     </persName>
-                    <birth when="1000">
+                    <birth when="1758">
                         <placeName> </placeName>
                     </birth>
-                    <death when="1000"/>
-                    <occupation/>
+                    <death when="1793"/>
+                    <occupation>Lawyer</occupation>
+
                     <note type="editorial">
-                        <p>There are only fifteen appearances of 'Fraser' in the diary from 1788 - 32, and none of the candidates from the <title>DNB</title>
-  seem convincing. The earliest appearances are all at <persName key="HOL02">Thomas Brand Hollis's</persName>, and suggest 
-      strong links with the Society for Constitutional Information.  It is possible that later entries do not refer to the same person.</p>
+                        <p>There are only fifteen appearances of 'Fraser' in the diary from 1788 -
+                            32, and none of the candidates from the <title>DNB</title> seem
+                            convincing. The earliest appearances are all at <persName key="HOL02"
+                                >Thomas Brand Hollis's</persName>, and suggest strong links with the
+                            Society for Constitutional Information, which suggests Alexander Fraser
+                            (who dies 1793) - that is: Alexander Fraser (Lord Saltoun of Abernethy)
+                            born 27.6.1758 son of George Fraser (died 1781) and Eleanor Gordon.
+                            Admitted Lincolns Inn 24.11.1779. Advocate (Scotland) 5.8.1780. At
+                            Strasbourg on way to Lausanne 26.3.1783. Married 9.6.1784 Marjory only
+                            dau of Simon Fraser of Ness Castle, Co. Inverness, London merchant and
+                            director of East India Co. Died 13.9.1793 at Baldwin, Kent of gout in
+                            stomach. Lord Saltoun proposed member 9.5.1788 by Hugh Sempill 2nded John Cartwright</p><p>The last entries are likely to be to James Balie Fraser. The
+                            middle entries remain a puzzle. It is likely that later entries do not
+                            refer to the same person - and might refer to James Ballie Fraser (see
+                            entry).</p>
                     </note>
                 </person>
             </listPerson>
