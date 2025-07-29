@@ -20,20 +20,24 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="MAC16" sex="1"> 
+                <person xml:id="MAC16" sex="1">
                     <persName>
                         <roleName/>
                         <forename>Felix</forename>
                         <surname>MacCarthy</surname>
                         <addName/>
                     </persName>
-                    <birth when="1000-01-01">
+                    <birth when="unknown">
                         <placeName/>
                     </birth>
-                    <death when="1000-12-31"/>
-                    <occupation>OCCUPATION</occupation>
+                    <death when="unknown"/>
+                    <occupation>author, newspaper journalist</occupation>
                     <note type="editorial">
-                        <p>  </p>
+                        <p> Felix MacCarthy is referenced 15 times in the diary between 1794 to
+                            1809. He was a journalist for the Orcale and the Albion newspaper. It is
+                            worth noting that in later references to meetings with MacCarthy,
+                            08.03.1807 and 01.01.1807, they meet unexpectedly ('adv.'), with
+                            Hippisley present at both. </p>
                     </note>
                 </person>
             </listPerson>
