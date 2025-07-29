@@ -3927,7 +3927,7 @@
                                 >Austin</persName> calls <hi rend="sup">na</hi></seg>: <seg
                             type="dMeeting" subtype="C">call on <persName><placeName type="venue"
                                     >Austin</placeName></persName></seg> &amp; <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                        subtype="C"><persName  ref="/people/GAU01.html"><placeName type="venue"
                                 >Gaugain</placeName></persName></seg>: <seg type="dMeal" subtype="D"
                             >dine at <persName ref="/people/NOR01.html"><placeName type="venue"
                                     >Northcote's</placeName></persName></seg>: <seg type="dMeeting"

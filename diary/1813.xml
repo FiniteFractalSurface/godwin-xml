@@ -1137,7 +1137,7 @@
                             type="dWrote" subtype="write" target="/works/phil02.html">Philipses, p.
                             87/2</ref>. <seg type="dMeeting" subtype="CG"><persName
                                 ref="/people/LAN02.html">Landseer</persName> calls</seg>: <seg
-                            type="dMeeting" subtype="C">call on <persName><placeName type="venue"
+                                    type="dMeeting" subtype="C">call on <persName ref="/people/GAL03.html"><placeName type="venue"
                                     >Gale</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName><placeName type="venue">C<hi rend="sup"
                                     >s</hi></placeName></persName></seg>: <seg type="dMeal"
@@ -3618,7 +3618,7 @@
                                 type="dEvent" subtype="PersEvent" target="/events/pe0242.html"><seg
                                     type="dMeeting" subtype="CG"><persName ref="/people/MAR01.html"
                                         >M</persName></seg> from <persName ref="/people/SHA02.html"
-                                    >R Sharp</persName>, &amp; <persName>Gale</persName> &amp;
+                                            >R Sharp</persName>, &amp; <persName ref="/people/GAL03.html">Gale</persName> &amp;
                                     <persName ref="/people/CUR03.html">Curtis</persName></ref>,
                             dines</seg>: <seg type="dMeeting" subtype="C">call on <persName
                                 ref="/people/ADD01.html"><placeName type="venue"

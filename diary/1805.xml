@@ -512,7 +512,7 @@
                             </date><ref type="dWrote" subtype="write" target="/works/flee01.html"
                             >Fleetwood, p. 286</ref>.<ref type="dText" subtype="read"
                             target="/bibl/te1539.html"> St Forlaix, Vol. IV, p. 86</ref>. <seg
-                            type="dMeeting" subtype="CG"><persName>Galt</persName></seg>, <seg
+                                type="dMeeting" subtype="CG"><persName ref="/people/GAL04.html">Galt</persName></seg>, <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/WAK01.html"
                                 >Wakes</persName></seg> &amp; <seg type="dMeeting" subtype="CG"
                                 ><persName ref="/people/GOD09.html">J J G</persName>
@@ -2155,7 +2155,7 @@
                                 <persName ref="/people/BOS02.html">Bosville</persName>, <persName
                                 ref="/people/EDG01.html">Edgworth</persName>,
                                 <persName>Beaufort</persName>, <persName ref="/people/BOD02.html"
-                                >Boddington</persName>, <persName>French</persName>, <persName
+                                    >Boddington</persName>, <persName ref="/people/FRE04.html">French</persName>, <persName
                                 ref="/people/SCO04|SCO05.html">Scotts</persName>, <persName>P
                                 Courtney</persName>, <persName ref="/people/FEN03.html">E
                                 Fk</persName> &amp; <persName ref="/people/CLA01.html">M

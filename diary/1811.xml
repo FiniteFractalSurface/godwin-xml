@@ -2569,7 +2569,7 @@
                                 Napier</persName> dine</seg>. <seg type="dMeeting" subtype="CG"
                                 ><persName ref="/people/CHA02.html">Chamberlaine</persName>
                             calls</seg>. <ref type="dWrote" subtype="letter">Write to
-                                    <persName><placeName type="venue">Franklin,
+                                <persName ref="/people/FRA04.html"><placeName type="venue">Franklin,
                                 Hertford</placeName></persName></ref>.</ab>
                     <ab type="dDay" xml:id="g1811-08-13"><date when="1811-08-13">13. Tu.</date><ref
                             type="dText" subtype="read" target="/bibl/te1838.html">Life of Hooker,
@@ -3470,7 +3470,7 @@
                             type="dMeeting" subtype="CG"><persName ref="/people/BUR01.html"
                                 type="nah">Burr</persName> call <hi rend="sup">na</hi></seg>.</ab>
                     <ab type="dDay" xml:id="g1811-10-30"><date when="1811-10-30">30. W.</date><seg
-                            type="dMeeting" subtype="C">Call on <persName><placeName type="venue"
+                            type="dMeeting" subtype="C">Call on <persName  ref="/people/GAT02.html"><placeName type="venue"
                                     >Gatty</placeName></persName></seg>: <seg type="dMeeting"
                             subtype="CG"><persName ref="/people/NEW01.html">Newton</persName></seg>,
                             <seg type="dMeeting" subtype="CG"><persName ref="/people/LON01.html"
@@ -3505,7 +3505,7 @@
                             F.</date><ref type="dWrote" subtype="letter">Letter to <persName
                                 ref="/people/FOX02.html">Holland</persName>, 5 pp</ref>. <ref
                             type="dEvent" subtype="PersEvent" target="/events/pe0219.html"><seg
-                                type="dMeeting" subtype="Cn">Call on <persName><placeName
+                                type="dMeeting" subtype="Cn">Call on <persName  ref="/people/GAT02.html"><placeName
                                         type="venue">Gatty</placeName></persName>, w. <persName
                                     ref="/people/CLA02.html">C C</persName> (indenture)</seg></ref>:
                             <seg type="dMeeting" subtype="CG"><persName type="nah"

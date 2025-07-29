@@ -1420,7 +1420,7 @@
                             F.</date><ref type="dText" subtype="read" target="/bibl/te0646.html"
                             >Qu'est-ce, p. 17</ref>. <seg type="dMeeting" subtype="CG"><persName
                                 ref="/people/ALD02.html">A A</persName></seg> &amp; <seg
-                            type="dMeeting" subtype="CG"><persName>Garnham</persName> call</seg>:
+                                    type="dMeeting" subtype="CG"><persName ref="/people/GAR05.html">Garnham</persName> call</seg>:
                             <seg type="dMeeting" subtype="C">call on <persName
                                 ref="/people/PAR07.html"><placeName type="venue">S
                                 P</placeName></persName></seg>: <seg type="dMeal" subtype="D">dine
@@ -1486,7 +1486,7 @@
                             <seg type="dMeeting" subtype="C">call on <persName
                                 ref="/people/KIN01.html">King</persName> (<persName>A B</persName>,
                                 <persName ref="/people/ALL01.html">Allen</persName>,
-                                <persName>Stevenson</persName>, <persName>Gadagne</persName> &amp;
+                                <persName>Stevenson</persName>, <persName ref="/people/GAD01.html">Gadagne</persName> &amp;
                                 <persName>Gardners</persName>)</seg>: <seg type="dMeal" subtype="Ta"
                             >tea <persName ref="/people/ROB04.html"><placeName type="venue">mrs
                                     Robinsons</placeName></persName>, w. <persName
@@ -2917,7 +2917,7 @@
                                 type="nah"><placeName type="venue">Wt</placeName></persName>
                         n</seg>: <seg type="dMeeting" subtype="Do">Mail, w. <persName
                                 ref="/people/MER01.html">Merry</persName> &amp; <persName>R
-                                B</persName> &amp; <persName>miss Franklin</persName></seg>: sup at
+                                    B</persName> &amp; <persName ref="/people/FRA05.html">miss Franklin</persName></seg>: sup at
                             <placeName>Ingatestone</placeName>.</ab>
                     <ab type="dDay" subtype="NotLon" xml:id="g1796-07-02"><date when="1796-07-02">2.
                             Sa.</date> Breakfast at <placeName>Ipswich</placeName>; <seg
