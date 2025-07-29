@@ -13,7 +13,7 @@ fancyelip () {
 
 cd "$(dirname "$0")" || exit 1
 
-templatefilename="AApersonTemplateBibl.xml"
+templatefilename="AApersonTemplate.xml"
 
 if [[ $PWD != *"test1" ]] && [[ $PWD != *"people" ]]; then # Error condition 1: Is the working directory correct? Valid working directories are test1 or people
     echo "You're not in the right directory. Please change directory to either test1 or people."
@@ -109,7 +109,13 @@ echo -e "Creating \033[0;32m$newfile\033[0m."
 cp --no-clobber "$templatefile" "$newfile" || echo "Something is still wrong."
 
 echo "Writing in person ID and formatting XML file with sed."
-sed -i "s/xml:id=\"XXX99\"/xml:id=\"$persid\"/g" "$newfile"
+
+if [[ $(grep "XXX99" "$newfile") != "" ]]; then
+    sed -i "s/xml:id=\"XXX99\"/xml:id=\"$persid\"/g" "$newfile"
+elif [[ $(grep "XXX01" "$newfile") != "" ]]; then
+    sed -i "s/xml:id=\"XXX01\"/xml:id=\"$persid\"/g" "$newfile"
+fi
+
 [ ! "$2" == "" ] && sed -i "s/sex=\"1\"/sex=\"$2\"/g" "$newfile"
 
 if [ "$(uname -o)" == "GNU/Linux" ] && ( command -v kate >/dev/null 2>&1 ); then # this is my personal thing, don't worry about it!
