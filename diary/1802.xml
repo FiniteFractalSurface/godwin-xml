@@ -89,7 +89,7 @@
                                 <persName ref="/people/CLA01.html">d<hi rend="sup"
                             >o</hi></persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1802-01-07"><date when="1802-01-07">7. Th.</date><seg
-                            type="dMeeting" subtype="CG"><persName>Sw. Jervis</persName>
+                            type="dMeeting" subtype="CG"><persName ref="/people/JER06.html">Sw. Jervis</persName>
                         calls</seg>: <seg type="dMeeting" subtype="C">call on <persName
                                 ref="/people/PHI01.html"><placeName type="venue"
                                 >Philips</placeName></persName> (<seg type="dMeeting" subtype="Adv"
@@ -163,7 +163,7 @@
                             >c</emph>dine</seg>: <ref type="dEntertainment" subtype="Theat"
                             target="/plays/reve01.html"><placeName type="CG"/>theatre, C G, Revenge;
                                 <seg type="dMeeting" subtype="Adv">adv. <persName>Brogden</persName>
-                                (&amp; <persName>Jervis</persName>)</seg></ref>.</ab>
+                                    (&amp; <persName ref="/people/JER05.html">Jervis</persName>)</seg></ref>.</ab>
                     <ab type="dDay" xml:id="g1802-01-12"><date when="1802-01-12">12. Tu.</date><ref
                             type="dText" subtype="cala" target="/bibl/te1317.html">Wood, çala</ref>.
                             <seg type="dMeeting" subtype="C">Call on <persName
@@ -812,7 +812,7 @@
                                     type="venue">Joyce</placeName></persName>; <seg type="dMeeting"
                                 subtype="Adv">adv. <persName ref="/people/BEL01.html"
                                     >Belsham</persName> &amp;
-                            <persName>Jervis</persName></seg></seg>: <seg type="dMeal" subtype="DG"
+                                        <persName ref="/people/JER05.html">Jervis</persName></seg></seg>: <seg type="dMeal" subtype="DG"
                                 ><persName>miss F</persName> dines, &amp; <persName
                                 ref="/people/WOL03.html">Ja<hi rend="sup">s</hi>
                         Wt</persName></seg>.</ab>

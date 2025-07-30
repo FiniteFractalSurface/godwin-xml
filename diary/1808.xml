@@ -258,15 +258,15 @@
                     <ab type="dDay" xml:id="g1808-01-26"><date when="1808-01-26">26. Tu. </date><seg
                             type="dMeeting" subtype="CG"><persName ref="/people/HUD01.html"
                                 >Hudson</persName></seg> &amp; <seg type="dMeeting" subtype="CG"
-                                ><persName>Lepard</persName> call</seg>: <seg type="dMeal"
+                                    ><persName ref="/people/LEP01.html">Lepard</persName> call</seg>: <seg type="dMeal"
                             subtype="TG"><seg type="dMeal" subtype="SG"><persName
                                     ref="/people/TUR01.html">T T</persName> tea &amp;
                             sup</seg></seg>. <ref type="dWrote" subtype="letter">Write to
-                                <persName>Hutchins</persName></ref>.</ab>
+                                <persName ref="/people/HUT02.html">Hutchins</persName></ref>.</ab>
                     <ab type="dDay" xml:id="g1808-01-27"><date when="1808-01-27">27. W. </date><seg
                             type="dMeeting" subtype="C">Call on <persName ref="/people/TUT01.html"
                                     ><placeName type="venue">Tuthil</placeName></persName></seg>,
-                            <seg type="dMeeting" subtype="C"><persName><placeName type="venue"
+                        <seg type="dMeeting" subtype="C"><persName ref="/people/LEP01.html"><placeName type="venue"
                                     >Lepard</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName ref="/people/HAZ01.html"><placeName type="venue"
                                     >Hazlit</placeName></persName>: </seg><seg type="dMeeting"
@@ -305,7 +305,7 @@
                         >n</hi></seg>.</ab>
                     <ab type="dDay" xml:id="g1808-01-30"><date when="1808-01-30">30. Sa.</date><ref
                             type="dWrote" subtype="letter">Letter from
-                            <persName>Hutchins</persName></ref>. <ref type="dText" subtype="read"
+                            <persName ref="/people/HUT02.html">Hutchins</persName></ref>. <ref type="dText" subtype="read"
                             target="/bibl/te1683.html">Goldsmith, p. 272</ref>.</ab>
                     <pb n="e.209_0021r"/>
                     <ab type="dDay" xml:id="g1808-01-31"><date when="1808-01-31">Jan. 31.
@@ -585,7 +585,7 @@
                                 <persName ref="/people/WOR01.html">Wordsworth</persName>, <persName
                                 ref="/people/LAM01.html">Lamb</persName> &amp; <persName
                                 ref="/people/DEQ01.html"> De Quincy</persName>: <seg type="dMeeting"
-                                subtype="M">meet <persName>Hutchins</persName></seg>. talk of <seg
+                                    subtype="M">meet <persName ref="/people/HUT02.html">Hutchins</persName></seg>. talk of <seg
                                 type="dTopic">Greeks</seg> &amp; <seg type="dTopic">Latins</seg>,
                                 <seg type="dTopic">Spenser</seg>, <seg type="dTopic"
                             >Milton</seg></seg>.</ab>
@@ -1048,7 +1048,7 @@
                                     <persName>Durham</persName>)</seg></ref>: <seg type="dMeeting"
                             subtype="C">call on <persName ref="/people/CUR01.html"><placeName
                                     type="venue">Curran</placeName></persName>; <seg type="dMeeting"
-                                subtype="Adv">adv. <persName> Hutchins</persName></seg></seg>:<seg
+                                        subtype="Adv">adv. <persName ref="/people/HUT02.html"> Hutchins</persName></seg></seg>:<seg
                             type="dMeal" subtype="D"> dine at <persName ref="/people/JOH01.html"
                                     ><placeName type="venue">Johnson’s</placeName></persName>, w.
                                 <persName ref="/people/FUS01.html">Fuseli</persName>, <persName
@@ -1097,7 +1097,7 @@
                                 type="dMeeting" subtype="Adv">adv. <persName>Atkinson</persName>,
                                     <persName>James</persName> &amp; <persName
                                     ref="/people/GIL02.html">Gillet</persName></seg></seg>: <seg
-                            type="dMeeting" subtype="M">meet <persName>Hutchins</persName></seg>:
+                                        type="dMeeting" subtype="M">meet <persName ref="/people/HUT02.html">Hutchins</persName></seg>:
                             <seg type="dMeeting" subtype="C">call on <persName
                                 ref="/people/CUR01.html" type="nah"><placeName type="venue"
                                     >Curran</placeName></persName><hi rend="sup">n</hi></seg>: <ref
@@ -1658,7 +1658,7 @@
                                     >Comrie</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName ref="/people/PER01.html"><placeName type="venue"
                                     >Perry</placeName></persName></seg>, <seg type="dMeeting"
-                            subtype="Cn"><persName><placeName type="venue"
+                                        subtype="Cn"><persName ref="/people/LEP01.html"><placeName type="venue"
                                 >Lepard</placeName></persName> (w.<persName ref="/people/CLA01.html"
                                 > M J</persName>)</seg> &amp; <seg type="dMeeting" subtype="C"
                                 ><persName ref="/people/MAC04.html"><placeName type="venue"
@@ -2421,7 +2421,7 @@
                                     Hara’s</placeName></persName>, w. <persName
                                 ref="/people/CUR01.html">Curran</persName>, <persName
                                 ref="/people/WOL02.html">Wolcot</persName>,
-                                <persName>Lane</persName>, <persName>Hutchins</persName> &amp;
+                                    <persName>Lane</persName>, <persName ref="/people/HUT02.html">Hutchins</persName> &amp;
                                 <persName>R C</persName></seg>. <ref type="dEvent" subtype="Publ"
                             target="/events/pu0124.html"><placeName>Covent Garden
                                 Theatre</placeName> burned</ref>.</ab>

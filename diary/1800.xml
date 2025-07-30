@@ -1685,7 +1685,7 @@
                         type="dMeeting" subtype="Adv">adv. <persName ref="/people/LAM01.html"
                            >Lamb</persName> &amp; <persName ref="/people/GOD06.html">H<hi rend="sup"
                               >t</hi> G</persName></seg></seg>. <emph rend="red"><ref type="dEvent"
-                        subtype="Publ" target="/events/pu0094.html"><persName>Hadfield</persName>,
+                                    subtype="Publ" target="/events/pu0094.html"><persName ref="/people/HAD01.html">Hadfield</persName>,
                            <placeName>Drury Lane</placeName></ref></emph></ab>
                <ab type="dDay" xml:id="g1800-05-16"><date when="1800-05-16">16. F.</date><ref
                      type="dText" subtype="read" target="/bibl/te1074.html">Elder Brother, acts 1,
@@ -2465,7 +2465,7 @@
                      Tu.</date><seg type="dMeeting" subtype="M">Meet <persName
                         ref="/people/GRA01.html">Grattan</persName></seg>, <seg type="dMeeting"
                      subtype="M"><persName>Daly</persName></seg> &amp; <seg type="dMeeting"
-                     subtype="M"><persName>Ledwick</persName></seg>: <seg type="dMeeting"
+                        subtype="M"><persName ref="/people/LED02.html">Ledwick</persName></seg>: <seg type="dMeeting"
                      subtype="C">call on <persName><placeName type="venue">E
                         B</placeName></persName></seg> &amp; <seg type="dMeeting" subtype="C"
                            ><persName><placeName type="venue">Atkinson</placeName></persName><hi

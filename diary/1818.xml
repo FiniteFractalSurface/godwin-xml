@@ -55,7 +55,7 @@
                                 type="dMeeting" subtype="Do">Funeral of <persName
                                     ref="/people/ELW01.html">S E</persName>, w. <persName
                                     ref="/people/OAK01.html">Oak</persName>,
-                                    <persName>Lepard</persName> &amp; <persName
+                                <persName ref="/people/LE002.html">Lepard</persName> &amp; <persName
                                     ref="/people/EGE02.html">Egerton</persName>; <seg
                                     type="dMeeting" subtype="Adv">adv.
                                     <persName>Leserve</persName></seg></seg></ref>.</ab>
@@ -115,7 +115,7 @@
                                 H</persName></seg>. <ref type="dEvent" subtype="PersHlth"
                             target="/events/he0000|he0021.html">Leeches</ref>. <seg type="dMeeting"
                             subtype="CG"><persName ref="/people/OAK01.html">Oak</persName></seg>
-                        &amp; <seg type="dMeeting" subtype="CG"><persName>Lepard</persName>
+                        &amp; <seg type="dMeeting" subtype="CG"><persName ref="/people/LE002.html">Lepard</persName>
                             call</seg>. <ref type="dEvent" subtype="PersHlth"
                             target="/events/he0000|he0022.html">Linseed Poultice, 9 days</ref>.</ab>
                     <ab type="dDay" xml:id="g1818-01-09"><date when="1818-01-09">9. F.</date><ref
@@ -248,7 +248,7 @@
                             >Dibbin</persName></seg>: <seg type="dMeeting" subtype="C">call on
                                     <persName><placeName type="venue"
                                 >Richardson</placeName></persName></seg>, <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                    subtype="C"><persName ref="/people/LE002.html"><placeName type="venue"
                                 >Leopard</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName ref="/people/TAY01.html"><placeName type="venue">J
                                     Taylor</placeName></persName></seg>, &amp;, <seg type="dMeeting"

@@ -3038,7 +3038,7 @@
                      type="dMeal" subtype="DG"><persName ref="/people/CUR01.html">Curran</persName>,
                         <persName ref="/people/HOL01.html">Ht</persName>, <persName
                         ref="/people/HAZ01.html">Hazlit</persName>, <persName
-                        ref="/people/WOL03.html">Wts</persName>, <persName>Hutchins</persName>,
+                           ref="/people/WOL03.html">Wts</persName>, <persName ref="/people/HUT02.html">Hutchins</persName>,
                      &amp; <persName ref="/people/FEN03|FEN04.html">E &amp; E Fks</persName> dine;
                         <seg type="dMeeting" subtype="Adv">adv. <persName ref="/people/LAM01.html"
                            >Lamb</persName> &amp; <persName ref="/people/VOL01.html"
@@ -3092,7 +3092,7 @@
                      revise</ref>. <seg type="dMeeting" subtype="CG"><persName
                         ref="/people/CUR01.html">Curran</persName></seg>, <seg type="dMeeting"
                      subtype="CG"><persName ref="/people/HAZ01.html">Hazlit</persName></seg> &amp;
-                     <seg type="dMeeting" subtype="CG"><persName>Hutchins</persName> call</seg>:
+                  <seg type="dMeeting" subtype="CG"><persName ref="/people/HUT02.html">Hutchins</persName> call</seg>:
                      <seg type="dMeeting" subtype="C">call on <persName ref="/people/ROB99.html"
                            ><placeName type="venue">Robinsons</placeName></persName></seg> &amp;
                      <seg type="dMeeting" subtype="C"><persName ref="/people/GOD02.html" type="nah"
@@ -3990,7 +3990,7 @@
                            ref="/people/LAW01.html">Lawrence</persName>,) <persName
                            ref="/people/OBR01.html">O Brien</persName></seg> &amp; <seg
                         type="dMeeting" subtype="Adv"
-                  ><persName>Hutchins</persName></seg></ref>.</ab>
+                              ><persName ref="/people/HUT02.html">Hutchins</persName></seg></ref>.</ab>
                <pb n="e.207_0029r"/>
                <ab type="dDay" xml:id="g1804-12-09"><date when="1804-12-09">Dec. 9. Su.</date><ref
                      type="dText" subtype="read" target="/bibl/te0907.html">Tancrede, actes 2, 3,
@@ -4094,7 +4094,7 @@
                      >revise</ref>. <ref type="dWrote" subtype="letter">Write to <persName
                         ref="/people/WOL04.html">Everina</persName></ref>. <ref type="dText"
                      subtype="read" target="/bibl/te1016.html">Pamela, p. 64</ref>. <seg
-                     type="dMeeting" subtype="CG"><persName>Hutchins</persName></seg> &amp; <seg
+                        type="dMeeting" subtype="CG"><persName ref="/people/HUT02.html">Hutchins</persName></seg> &amp; <seg
                      type="dMeeting" subtype="CG"><persName ref="/people/GOD09.html">J J
                         G</persName> call</seg>.</ab>
                <ab type="dDay" xml:id="g1804-12-17"><date when="1804-12-17">17. M.</date><ref

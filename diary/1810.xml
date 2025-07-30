@@ -1287,7 +1287,7 @@
                                 <persName>S H</persName>)</seg>, &amp; <seg type="dMeeting"
                             subtype="C"><persName ref="/people/CUR01.html"><placeName type="venue"
                                     >Curran</placeName></persName> ; <seg type="dMeeting"
-                                subtype="Adv">adv. <persName>Hutchins</persName>,
+                                        subtype="Adv">adv. <persName ref="/people/HUT02.html">Hutchins</persName>,
                                     <persName>Waring</persName> &amp; <persName>dr
                                 Wright</persName></seg></seg>: <seg type="dMeeting" subtype="CG"
                                 ><persName type="nah" ref="/people/WIT01.html"><placeName
@@ -1621,7 +1621,7 @@
                             type="dWrote" subtype="cala" target="/works/engg01.html">Grammar,
                             çala</ref>. <ref type="dText" subtype="read" target="/bibl/te1755.html"
                             >Od. 305</ref>. <seg type="dMeeting" subtype="CG"
-                                ><persName>Jervis</persName> calls</seg>: <seg type="dMeal"
+                                ><persName ref="/people/JER05.html">Jervis</persName> calls</seg>: <seg type="dMeal"
                             subtype="SG"><persName ref="/people/ROB03.html">H Robinson</persName>
                             sups</seg>.</ab>
                     <pb n="e.210_0036v"/>
@@ -1710,7 +1710,7 @@
                             type="dWrote" subtype="cala" target="/works/engg01.html">Grammar,
                             çala</ref>. <seg type="dMeeting" subtype="CG"><persName
                                 ref="/people/HOA01.html">P Hoare</persName></seg>, <seg
-                            type="dMeeting" subtype="CG"><persName>Jervis</persName></seg> &amp;
+                                    type="dMeeting" subtype="CG"><persName ref="/people/JER05.html">Jervis</persName></seg> &amp;
                             <seg type="dMeeting" subtype="CG"><persName>Warwick</persName>
                             call</seg>.</ab>
                     <pb n="e.210_0037r"/>

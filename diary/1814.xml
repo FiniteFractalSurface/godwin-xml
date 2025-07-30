@@ -94,7 +94,7 @@
                                     >Bentham</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName><placeName type="venue"
                                 >Sutherland</placeName></persName></seg>, <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                    subtype="C"><persName ref="/people/HAU01.html"><placeName type="venue"
                                 >Haughton</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName ref="/people/KNO01.html"><placeName type="venue"
                                     >Knowles</placeName></persName></seg>:<seg type="dMeeting"
@@ -1071,7 +1071,7 @@
                                 >Call, w. <persName ref="/people/SHE01.html"><placeName type="venue"
                                         >Shelley</placeName></persName>, at <placeName> Doctors
                                     Commons</placeName></seg></ref>, &amp; <seg type="dMeeting"
-                            subtype="C">on <persName><placeName type="venue"
+                                        subtype="C">on <persName ref="/people/HAU01.html"><placeName type="venue"
                                 >Haughton</placeName></persName></seg>: <seg type="dMeal"
                             subtype="DG"><persName ref="/people/MAR01.html">M</persName> dines, <seg
                                 type="dTopic">from <persName ref="/people/TEA01.html"
@@ -1169,7 +1169,7 @@
                                 >Ridgway</persName> (<persName>Devon H</persName>)</seg> &amp; <seg
                             type="dMeeting" subtype="Sk"><persName ref="/people/PLA02.html"
                                 >Place</persName></seg>: <seg type="dMeeting" subtype="C">call on
-                                    <persName><placeName type="venue"
+                                    <persName ref="/people/HAU01.html"><placeName type="venue"
                                 >Haughton</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName ref="/people/ROD01.html"><placeName type="venue"
                                     >Rodd</placeName></persName></seg>: <seg type="dMeeting"
@@ -1253,7 +1253,7 @@
                             <persName>Sands</persName></ref>. <seg type="dMeeting" subtype="C">Call
                             on <persName ref="/people/PLA02.html"><placeName type="venue"
                                     >Place</placeName></persName></seg>, <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                        subtype="C"><persName ref="/people/HAU01.html"><placeName type="venue"
                                 >Haughton</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName ref="/people/HAY02.html"><placeName type="venue"
                                     >Hayward</placeName></persName></seg>: <seg type="dMeeting"

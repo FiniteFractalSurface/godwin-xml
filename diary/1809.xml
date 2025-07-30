@@ -346,7 +346,7 @@
                             Counterfeit</ref>.</ab>
                     <ab type="dDay" xml:id="g1809-02-10"><date when="1809-02-10">10. F.</date><ref
                             type="dEvent" subtype="Accts">Accounts</ref>. <seg type="dMeeting"
-                            subtype="CG"><persName>Houghton</persName></seg>, <seg type="dMeeting"
+                                subtype="CG"><persName ref="/people/HAU01.html">Houghton</persName></seg>, <seg type="dMeeting"
                             subtype="CG"><persName ref="/people/GOD02.html">Jo G</persName></seg>
                         &amp; <seg type="dMeeting" subtype="CG"><persName ref="/people/HAZ03.html">J
                                 Hazlit</persName> call</seg>: <seg type="dMeal" subtype="D">dine at
@@ -1197,7 +1197,7 @@
                             type="dEntertainment" subtype="Exhib"
                             target="/events/ex0043|ex0001.html"> Exhibition; <persName
                                 ref="/people/WIL03.html">Wilkie</persName>,
-                                <persName>Haughton</persName>, <persName ref="/people/HEY01.html"
+                                        <persName ref="/people/HAU01.html">Haughton</persName>, <persName ref="/people/HEY01.html"
                                     >Heywood</persName>, <persName ref="/people/FOO02.html">J Foote</persName>, <persName
                                 ref="/people/TAY01.html">J Taylor</persName>, <persName
                                 ref="/people/DAW01.html">G Dawe</persName>, <persName
@@ -2743,7 +2743,7 @@
                                 >Seeley</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName><placeName type="venue"
                                 >Bone</placeName></persName></seg>, <seg type="dMeeting" subtype="C"
-                                    ><persName><placeName type="venue"
+                                    ><persName ref="/people/JER05.html"><placeName type="venue"
                             >Jervis</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName><placeName type="venue"
                                 >Maine</placeName></persName></seg>: <seg type="dMeeting"
@@ -3008,7 +3008,7 @@
                             çala</ref>. <seg type="dMeal" subtype="D">Dine at <persName
                                 ref="/people/CUR01.html"><placeName type="venue"
                                     >Curran’s</placeName></persName>, w.
-                                <persName>Hutchins</persName>, <persName>Bell</persName>, <persName
+                                <persName ref="/people/HUT02.html">Hutchins</persName>, <persName>Bell</persName>, <persName
                                 ref="/people/JEN01.html">Jennings</persName>, <persName>R
                                 C</persName> &amp; <persName ref="/people/TUR01.html">T
                             T</persName>; <seg type="dMeeting" subtype="Inv">invités <persName
@@ -3939,7 +3939,7 @@
                                     <persName ref="/people/LIN03.html">Lindsay</persName>,
                                     <persName>Crombie</persName>, <persName>Sturch</persName>,
                                     <persName ref="/people/KNO01.html">Knowles</persName>,
-                                    <persName>Haughton</persName>, <persName>Churchil</persName>,
+                                <persName ref="/people/HAU01.html">Haughton</persName>, <persName>Churchil</persName>,
                                     <persName ref="/people/ROB99.html">J Robinson</persName>,
                                     <persName ref="/people/VIZ01.html">Vizard</persName>,
                                 &amp;c</seg></ref>: <seg type="dMeal" subtype="SG"><persName

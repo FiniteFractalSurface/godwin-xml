@@ -893,7 +893,7 @@
                                 type="dMeeting" subtype="See"><persName ref="/people/BIN01.html"
                                     >Bindley</persName>, <persName ref="/people/FUS01.html"
                                     >Fuseli</persName> &amp;
-                            <persName>Haughton</persName></seg></ref>: <ref type="dEntertainment"
+                                <persName ref="/people/HAU01.html">Haughton</persName></seg></ref>: <ref type="dEntertainment"
                             subtype="Museo" target="/events/mu0001.html"
                                 ><placeName>Museum</placeName>; <seg type="dMeeting" subtype="See"
                                     ><persName ref="/people/ELL03.html">Ellis</persName></seg>, <seg
@@ -909,7 +909,7 @@
                                 type="dMeeting" subtype="See"><persName ref="/people/BIN01.html"
                                     >Bindley</persName>, <persName ref="/people/FUS01.html"
                                     >Fuseli</persName> &amp;
-                            <persName>Haughton</persName></seg></ref>: <seg type="dMeeting"
+                                <persName ref="/people/HAU01.html">Haughton</persName></seg></ref>: <seg type="dMeeting"
                             subtype="C">call on <persName ref="/people/CUR01.html"><placeName
                                     type="venue">Curran</placeName></persName><seg type="dMeeting"
                                 subtype="Adv"> (adv. <persName>Am</persName>. &amp; <persName>sir F
@@ -1357,7 +1357,7 @@
                                     Rogers</placeName></persName>, </seg><seg type="dMeeting"
                             subtype="C"><persName ref="/people/GOD02.html"><placeName type="venue"
                                     >Jo G</placeName></persName></seg> &amp; <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                        subtype="C"><persName ref="/people/JER05.html"><placeName type="venue"
                                 >Jervis</placeName></persName></seg>: <seg type="dMeal" subtype="DG"
                                 ><persName ref="/people/MAR01.html">M</persName> dines</seg>: <seg
                             type="dMeal" subtype="D">dine at <persName ref="/people/CUR01.html"

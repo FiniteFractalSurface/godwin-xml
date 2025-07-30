@@ -389,7 +389,7 @@
                                     >Mackintosh's</placeName></persName>, w. <persName
                                 ref="/people/PAR03.html">Parr</persName>, <persName
                                 ref="/people/TWE01.html">Tweddel</persName>, <persName
-                                ref="/people/LOS01.html">Losh</persName>, <persName>Hall</persName>,
+                                    ref="/people/LOS01.html">Losh</persName>, <persName ref="/people/HAL04.html">Hall</persName>,
                                 <persName ref="/people/MOO01.html">Moore</persName>, <persName
                                 ref="/people/ROB01.html">Robinson</persName>, <persName
                                 ref="/people/JOH01.html">Johnson</persName>, <emph rend="deleted"
@@ -564,7 +564,7 @@
                                     ><placeName type="venue">Parr</placeName></persName>; <seg
                                 type="dMeeting" subtype="Adv">adv. <persName
                                     ref="/people/COK01.html">Coke</persName>,
-                                    <persName>Halhed</persName>, <persName>l'évêq[ ] de
+                                        <persName ref="/people/HAL03.html">Halhed</persName>, <persName>l'évêq[ ] de
                                     Troil</persName> &amp; <persName ref="/people/MAC01.html"
                                     >Mackintosh</persName></seg></seg>: <ref type="dEvent"
                             subtype="Publ" target="/events/pa0024.html">house of lords</ref>. <seg
@@ -3199,7 +3199,7 @@
                             <seg type="dMeal" subtype="D">dine at <persName ref="/people/NOR04.html"
                                     ><placeName type="venue">Northmore's</placeName></persName>, w.
                                 <persName ref="/people/WOL02.html">Wolcot</persName>,
-                                <persName>Lutwich</persName>, <persName ref="/people/TAY01.html"
+                                <persName ref="/people/LED02.html">Lutwich</persName>, <persName ref="/people/TAY01.html"
                                 >Taylor</persName> &amp; <persName ref="/people/HOL01.html"
                                 >Holcroft</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1794-09-25"><date when="1794-09-25">25. Th.</date><ref
@@ -3473,7 +3473,7 @@
                             call</seg>: <seg type="dMeal" subtype="D">dine at <persName
                                 ref="/people/NOR04.html"><placeName type="venue"
                                     >Northmore's</placeName></persName>, w.
-                                <persName>Ledwich</persName> &amp; <persName>three professors from
+                                <persName ref="/people/LED02.html">Ledwich</persName> &amp; <persName>three professors from
                                 Caen</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1794-10-20"><date when="1794-10-20">20. M.</date><seg
                             type="dMeeting" subtype="Cn">Call <emph rend="deleted">on</emph> at
@@ -3791,7 +3791,7 @@
                                 ref="/people/FRE01.html">Frend</persName>, <persName
                                 ref="/people/DIS01.html">Disney</persName>, <persName
                                 ref="/people/HOL02.html">B. Hollis</persName> &amp;
-                                <persName>Ledwich</persName></seg>.</ab>
+                            <persName ref="/people/LED02.html">Ledwich</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1794-11-15"><date when="1794-11-15">15. Sa.</date><seg
                             type="dMeeting" subtype="other"><placeName>Newgate</placeName>;
                                 <persName ref="/people/HOL01.html">Holcroft</persName>, <persName
@@ -4107,7 +4107,7 @@
                             >sup at <persName ref="/people/REV01|REV02.html"><placeName type="venue"
                                     >Reveley's</placeName></persName>; <seg type="dMeeting"
                                 subtype="Adv">adv. <persName>Lowry</persName></seg></seg>: <seg
-                            type="dMeeting" subtype="M">meet <persName>Ledwich</persName></seg>
+                                    type="dMeeting" subtype="M">meet <persName ref="/people/LED02.html">Ledwich</persName></seg>
                         &amp; <seg type="dMeeting" subtype="M"><persName ref="/people/BAR07.html"
                                 >Barbauld</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1794-12-09"><date when="1794-12-09">9. Tu.</date><seg
