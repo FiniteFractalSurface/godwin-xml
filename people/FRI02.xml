@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="FRI02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>FIRSTNAME</forename>
+                        <surname>Fri</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p> 9.8.1809 write to Frizac M. Frizac Hotel de Grande Bretagne près l'Hotel
+                            le Brun Rue St Honoré Paris, written on flyleaf of Godwin's diary vol.
+                            xv (begun Feb 1809). On a different leaf from Burr's contacts Frizac,
+                            Tableau historique et figuratif des changements politiques survenus en
+                            Europe dépuis 1789 jusqu'en 1808 </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

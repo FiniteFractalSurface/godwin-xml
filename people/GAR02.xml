@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="GAR02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Samuel</forename>
+                        <surname>Garbett</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1717">
+                        <placeName/>
+                    </birth>
+                    <death when="1803"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p> Timothy Hollis's will (date 13.8.1774) mentions Elizabeth wife of
+                            Francis Garbett of Knill, Herefordshire, son of 'my old friend Samuel
+                            Garbett of Birmingham' and his last codicil (date 15.2.1790) mentions
+                            Francis Garbett's children John aged 20 of Edinburgh, Ann 17, Mary 16
+                            and Sophia 15 at Hereford. Samuel Garbett was the ironmaster (DNB
+                            1717-1803) </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

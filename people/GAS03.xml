@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="GAS03" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Thomas</forename>
+                        <surname>Gascoigne</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1745">
+                        <placeName/>
+                    </birth>
+                    <death when="1810"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p> The first call was for some reason in brackets (after a call on Perry)
+                            and was marked n for "not in" or similar. The next day Godwin made the
+                            call successfully. Possibly Thomas Gascoigne 1745-1810. He had been a
+                            Whig MP and was a member of the Society of Antiquaries from 1788. He may
+                            have been the Col. Gascoyne with a town address at 13 Tavistock Sq
+                            (Boyle's 1800) but that may have been Joseph Gascoyne of Tavistock Sq
+                            will PCC 1830. It's also possible he was no longer well by 1803 or chose
+                            not to come to town from his Yorkshire seat. Much less likely the
+                            staunch conservative MP Isaac Gascoyne DNB 1763-1841 or his brother
+                            Bamber Hist of Parl 1757-1824 or another brother Benjamin Gascoyne
+                            special pleader admitted Lincolns Inn 1793, later of 51 Mortimer St and
+                            Holles St, Cavendish Sq. Some other possibles James Gascoigne sugar
+                            broker St Dunstan's Hill 1790, Salters Coy and common councilman for Tower
+                            Ward, probably will PCC 1821 gent of Loughton Essex / A Gascoigne
+                            locksmiths to their Majesties 37 Bury St, St James 1790 / John Gascoin
+                            tailor 4 Woodstock St (Holdens 1811) </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">DNB<title/></bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -63,7 +63,7 @@ fi
 
 echo -ne "Current person ID value: \033[0;32m$persid\033[0m.\nChecking filename validity" && fancyelip; echo -ne " " # Literally cosmetic and pointless, but it looks cool though.
 
-if [[ ${newfile: -9} == ?????".xml" ]] && [[ "${persid:3:2}" -le "99" ]] && [[ "${persid:3:2}" -ge "1" ]]; then # Checks if filename has exactly 5 characters then checks if the last two characters are numbers between 1-99 inclusive
+if [[ ${newfile: -9} == ?????".xml" ]] && [[ "$((10#${persid:3:2}))" -le "99" ]] && [[ "$((10#${persid:3:2}))" -ge "1" ]]; then # Checks if filename has exactly 5 characters then checks if the last two characters are numbers between 1-99 inclusive
     echo "Filename seems to follow the 5 char convention!"
 else
     echo "That name doesn't quite seem right. Try again?"
@@ -71,7 +71,7 @@ else
     exit 1
 fi
 
-new=${persid: -2}
+new=$((10#${persid: -2}))
 
 if [ -f "$newfile" ]; then
     echo -ne "\033[0;31mFile already exists\033[0m! Attempting to fix filename to not conflict. "
@@ -109,7 +109,13 @@ echo -e "Creating \033[0;32m$newfile\033[0m."
 cp --no-clobber "$templatefile" "$newfile" || echo "Something is still wrong."
 
 echo "Writing in person ID and formatting XML file with sed."
-sed -i "s/xml:id=\"XXX99\"/xml:id=\"$persid\"/g" "$newfile"
+
+if [[ $(grep "XXX99" "$newfile") != "" ]]; then
+    sed -i "s/xml:id=\"XXX99\"/xml:id=\"$persid\"/g" "$newfile"
+elif [[ $(grep "XXX01" "$newfile") != "" ]]; then
+    sed -i "s/xml:id=\"XXX01\"/xml:id=\"$persid\"/g" "$newfile"
+fi
+
 [ ! "$2" == "" ] && sed -i "s/sex=\"1\"/sex=\"$2\"/g" "$newfile"
 
 if [ "$(uname -o)" == "GNU/Linux" ] && ( command -v kate >/dev/null 2>&1 ); then # this is my personal thing, don't worry about it!

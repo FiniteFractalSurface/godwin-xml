@@ -671,12 +671,12 @@
                                 >Hazlit</persName> calls</seg>: <seg type="dMeal" subtype="D">dine
                             at <persName ref="/people/JOH02.html"><placeName type="venue"
                                     >Johnson</placeName></persName>, w. <persName
-                                ref="/people/BON01.html">Bonnycastle</persName>, <persName>2
+                                        ref="/people/BON01.html">Bonnycastle</persName>, <persName  ref="/people/GAS03.html">2
                                 Gascoynes</persName> &amp; <persName ref="/people/HUN01.html"
                                 >Hunt</persName></seg>: <seg type="dMeal" subtype="SG"><persName
                                 ref="/people/HAZ01.html">Hazlit</persName> sups</seg>. <ref
                             type="dWrote" subtype="letter">Write to
-                            <persName>Franklin</persName></ref>, <ref type="dWrote" subtype="letter"
+                                    <persName ref="/people/FRA04.html">Franklin</persName></ref>, <ref type="dWrote" subtype="letter"
                                 ><persName>Baker</persName></ref> &amp; <ref type="dWrote"
                             subtype="letter"><persName ref="/people/BOO01.html"
                             >Booth</persName></ref>. <seg type="dMeeting" subtype="CG"><persName
@@ -2153,7 +2153,7 @@
                                     >Law</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName><placeName type="venue"
                                 >Sherwood</placeName></persName></seg>, <seg type="dMeeting"
-                            subtype="C"><orgName key="CUR03">Gale &amp; Curtis</orgName></seg>,
+                                    subtype="C"><persName ref="/people/GAL03.html" key="CUR03">Gale &amp; Curtis</persName></seg>,
                         &amp; <seg type="dMeeting" subtype="C"><persName><placeName type="venue"
                                     >Cradock</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName ref="/people/WHI01.html"><placeName type="venue">J

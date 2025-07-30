@@ -2454,7 +2454,7 @@
                             type="dMeeting" subtype="CG"><persName ref="/people/KNA01.html">L
                                 K</persName></seg>, <seg type="dMeeting" subtype="CG"><persName>mrs
                                 Toke</persName></seg> &amp; <seg type="dMeeting" subtype="CG"
-                                ><persName>Franklin</persName> call</seg>.</ab>
+                                    ><persName ref="/people/FRA04.html">Franklin</persName> call</seg>.</ab>
                     <ab type="dDay" xml:id="g1808-09-24"><date when="1808-09-24">24. Sa.</date><seg
                             type="dMeeting" subtype="CG"><persName>Branston</persName></seg>, <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/MAC04.html"
@@ -2831,7 +2831,7 @@
                             </persName>sup; <seg type="dMeeting" subtype="Adv">adv. <persName
                                     ref="/people/HOP01.html">Hopwood</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1808-11-05"><date when="1808-11-05">5. Sa.</date><seg
-                            type="dMeeting" subtype="C">Call on <persName><placeName type="venue"
+                            type="dMeeting" subtype="C">Call on <persName  ref="/people/GAT02.html"><placeName type="venue"
                                     >Gatty</placeName></persName> (<seg type="dTopic"
                             >sworn</seg>)</seg>, <seg type="dMeeting" subtype="C"
                                     ><persName><placeName type="venue"
@@ -3299,7 +3299,7 @@
                             type="dWrote" subtype="revised" target="/works/sepu01.html">Monuments,
                             revise</ref>. <ref type="dText" subtype="read"
                             target="/bibl/te1734.html">Bidulph, p. 342, fin</ref>. <seg
-                            type="dMeeting" subtype="C">Call on <persName type="nah"><placeName
+                                type="dMeeting" subtype="C">Call on <persName type="nah"  ref="/people/GAT02.html"><placeName
                                     type="venue">Gatty</placeName></persName><hi rend="sup"
                             >n</hi></seg> &amp; <seg type="dMeeting" subtype="C"
                                     ><persName><placeName type="venue"

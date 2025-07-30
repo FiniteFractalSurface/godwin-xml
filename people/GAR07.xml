@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="GAR07" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Almeida</forename>
+                        <surname>Garrett</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1799">
+                        <placeName/>
+                    </birth>
+                    <death when="1854"/>
+                    <occupation>Portuguese poet, orator, politician </occupation>
+                    <note type="editorial">
+                        <p> Garrett was forced into exil in the late 1820s because of his activism and the illiberal Portuguese regime, and took up residence temporarily in Britain. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication, Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other"><title>DNB</title></bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

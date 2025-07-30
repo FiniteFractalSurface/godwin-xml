@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="GAT02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>FIRSTNAME</forename>
+                        <surname>Gatty</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Lawyer</occupation>
+                    <note type="editorial">
+                        <p> The 1808 and 1811 entries probably referred to an attorney, likely
+                            either William Gatty of East-st Red Lion-sq or Robert Gatty of Angel-ct,
+                            Throgmorton-st, both of whom were also of the King's Remembrancer's
+                            Office, Inner Temple. Robert (will PCC 1838) appears from their wills to
+                            have been a brother of William (will PCC 1821). William had 8 sons and
+                            two daughters. What was being sworn to in 1808 I'm not sure. The 1817
+                            and 1830 entries are probably from a different family, and there may be
+                            some confusion in the DNB articles of Henry Gattie 1774-1844 actor
+                            "brought up to the trade of a wigmaker" and Charles Ollier 1788-1859
+                            which states that as a good friend of Leigh Hunt DNB 1784-1859 Ollier
+                            became acquainted with "the four or five musical and theatrical brothers
+                            Gattie (including Henry and John Thomas Byng)". In 1814 Ollier married
+                            Maria Gattie 1786-1878. Her parents were John Gattie. hairdresser and
+                            wigmaker of 7 Woodstock-st, Oxford-rd and his wife Catherine (née
+                            Hodges) who were married as bachelor and spinster in 1782 at Marylebone.
+                            Among her brothers were John Thomas Byng Gattie 1786-1828 of the
+                            Treasury, Frederick Gattie 1788-1813, William Popham Gattie 1790-1873
+                            clerk in the Bank of England, Henry Gattie 1794-1853, James Gattie
+                            1797-1871 Poor Brother of Charterhouse 1861, and Edward Alexander Gattie
+                            1799-1890 BA Cambridge 1849, teacher of languages 1851. So the actor
+                            Henry Gattie was probably not Ollier's brother-in-law, nor brought up a
+                            wigmaker. The Gatty at Ollier's in 1850 was likely one of his
+                            brothers-in-law, as also perhaps the Gatty at Hunt's in 1817, though
+                            Ollier wasn't present. </p><p>Re: the entry for 19 April 1799 for Gattie: If
+                            Suett and possibly Sedgwick were actors, Henry Gattie DNB 1774-1844
+                            would be in context, but according to the DNB he made his debut as an
+                            actor at Bath in 1807. William Gattie of Brompton Row Middlesex will PCC
+                            1814 had a perfumers and combmakers business </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other"><title/></bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

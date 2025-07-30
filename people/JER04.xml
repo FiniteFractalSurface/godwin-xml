@@ -17,7 +17,7 @@
          </sourceDesc>
       </fileDesc>
    </teiHeader>
-   <listPeson>
+   <listPerson>
       <person xml:id="JER04" sex="1">
          <persName>
             <forename>Charles</forename>
@@ -56,5 +56,5 @@
             <date when="1831-12-02" type="notVenue" n="ah"/>
          </ab>
       </person>
-   </listPeson>
+   </listPerson>
 </TEI>

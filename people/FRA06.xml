@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="FRA06" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>FIRSTNAME</forename>
+                        <surname>Fransom</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1730">
+                        <placeName/>
+                    </birth>
+                    <death when="1810"/>
+                    <occupation>writer, freethinker, tutor</occupation>
+                    <note type="editorial">
+                        <p> John Fransham DNB 1730-1810 - free-thinker. Probably acccounts for the first entry in Norwich. </p><p>The name was very rarely spelt Fransom in
+                            Norfolk, e.g Daniel Fransom farmer of Hindringham 1864. In 1831 there
+                            were Fransoms in Kent, e.g. at Ospringe but the nearest I have found in
+                            London was Francis Fransham silversmith of St Luke Old St born 1789
+                            Brook, Norfolk and buried 26.4.1849 Old St. In 1831, all the other guests at
+                            Martin's that day were regulars there and are
+                            identified in GD website and have entries in DNB. </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

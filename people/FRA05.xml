@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="FRA05" sex="2">
+                    <persName>
+                        <roleName/>
+                        <forename>Miss</forename>
+                        <surname>Franklin</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>governess/nurse</occupation>
+                    <note type="editorial">
+                        <p> Perhaps a young lady who was looking after Richard Brunton, the youngest
+                            brother of Merry's wife (see next day's entry, Richard enfant), who
+                            would have been about 5 years old (see Exeter Flying Post 20.8.1846 and
+                            Ipswich Journal 15.8.1846). Perhaps related to Robert Henry Franklin
+                            (Highfill, Burnim and Langhans) 1769-1802 manager of a theatre company
+                            operating in the East Midlands will PCC 1802. </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
