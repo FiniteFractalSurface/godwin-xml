@@ -2804,7 +2804,7 @@
                             type="dText" subtype="read" target="/bibl/te0544.html">Hume, p.
                             475</ref>. <seg type="dMeal" subtype="D">Dine at <persName
                                 ref="/people/KIN01.html"><placeName type="venue"
-                                >King's</placeName></persName>, w. <persName>Gadagne's</persName>,
+                                    >King's</placeName></persName>, w. <persName ref="/people/GAD01.html">Gadagne's</persName>,
                                 <persName>Anderson</persName>, <persName>miss Barrale</persName>,
                             &amp;c</seg>.</ab>
                     <ab type="dDay" xml:id="g1795-07-31"><date when="1795-07-31">31. F.</date><ref
@@ -2919,7 +2919,7 @@
                                 >Lawrence</persName></seg>: <seg type="dMeal" subtype="D">dine at
                                 <persName ref="/people/KIN01.html"><placeName type="venue"
                                     >King's</placeName></persName>, w.
-                                <persName>Gadagne's</persName></seg>.</ab>
+                                    <persName ref="/people/GAD01.html">Gadagne's</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1795-08-11"><date when="1795-08-11">11. Tu.</date>
                         Dumouriez, p. 170. <seg type="dMeeting" subtype="C">Call on <persName
                                 ref="/people/ROB01.html"><placeName type="venue"
@@ -3147,7 +3147,7 @@
                                 >C<hi rend="sup">e</hi> Roland, p. 35</ref>. <seg type="dMeal"
                             subtype="D">Dine at <persName ref="/people/KIN01.html"><placeName
                                     type="venue">King's</placeName></persName>, w.
-                                <persName>Gadagne's</persName>, <persName ref="/people/WOL02.html"
+                                    <persName ref="/people/GAD01.html">Gadagne's</persName>, <persName ref="/people/WOL02.html"
                                 >Wolcot</persName>, <persName ref="/people/LEW02.html"
                                 >Lewis</persName>, <persName ref="/people/ROG03.html"
                                 >Rogers</persName> &amp; <persName>Kendillon</persName></seg>.</ab>
@@ -3277,7 +3277,7 @@
                             >Prim Wife, acts 4 &amp; 5</ref>: Louvet, p. 294, fin. <seg type="dMeal"
                             subtype="D">Dine at <persName ref="/people/KIN01.html"><placeName
                                     type="venue">King's</placeName></persName>, w.
-                                <persName>Gadagne's</persName> &amp;
+                                <persName ref="/people/GAD01.html">Gadagne's</persName> &amp;
                         <persName>Cary</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1795-09-17"><date when="1795-09-17">17. Th. </date><ref
                             type="dWrote" subtype="revised" target="/works/poli01.html"
@@ -4575,7 +4575,7 @@
                             type="dMeal" subtype="D">dine at <persName ref="/people/KIN01.html"
                                     ><placeName type="venue">King's</placeName></persName>, w.
                                 <persName>A B</persName>, <persName ref="/people/ROG03.html"
-                                >Rogers</persName>, <persName>Gadagne's</persName>, <persName
+                                    >Rogers</persName>, <persName ref="/people/GAD01.html">Gadagne's</persName>, <persName
                                 ref="/people/PER04.html">Archambeau Perigord</persName>,
                                 <persName>Perigord j<hi rend="sup">r</hi></persName>,
                                 <persName>Duprat</persName></seg></ab>
