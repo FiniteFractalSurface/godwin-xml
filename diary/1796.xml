@@ -724,7 +724,7 @@
                             subtype="D">dine at <persName ref="/people/KIN01.html"><placeName
                                     type="venue">King's</placeName></persName>, w.
                                 <persName>O'Ryan</persName> &amp;
-                            <persName>Macarthy</persName></seg>: <seg type="dMeal" subtype="S">sup
+                            <persName ref="/people/MAC16.xml">Macarthy</persName></seg>: <seg type="dMeal" subtype="S">sup
                             at <persName ref="/people/ROB04.html"><placeName type="venue">mrs
                                     Robinson's</placeName></persName>, w. <persName
                                 ref="/people/COO01.html">C</persName></seg>: <seg type="dMeeting"

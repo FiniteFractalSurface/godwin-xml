@@ -1020,7 +1020,7 @@
                                 >Gerald</persName></seg>, <seg type="dMeeting" subtype="See"
                                 ><persName ref="/people/WIN01.html">Winterbotham</persName></seg>
                         &amp; <seg type="dMeeting" subtype="See"
-                        ><persName>Macarthy</persName></seg>. <ref type="dText" subtype="read"
+                        ><persName ref="/people/MAC16.xml">Macarthy</persName></seg>. <ref type="dText" subtype="read"
                             target="/bibl/te0477.html">Marg<hi rend="sup">t</hi> p. 82</ref>.</ab>
                     <ab type="dDay" xml:id="g1794-03-29"><date when="1794-03-29">29. Sa.</date><seg
                             type="dMeal" subtype="DG"><persName ref="/people/FAW01.html">Fawcet
@@ -1089,7 +1089,7 @@
                             <seg type="dMeal" subtype="D">dine in <placeName>Newgate</placeName>, w.
                                 <persName ref="/people/GER01.html">Gerald</persName>, <persName
                                 ref="/people/HOL01.html">Holcroft</persName>,
-                                <persName>Dower</persName>, <persName>Macarthy</persName>,
+                                <persName>Dower</persName>, <persName ref="/people/MAC16.xml">Macarthy</persName>,
                                 <persName>Stevenson</persName>, <persName>Paterson</persName>,
                                 <persName>Stabler</persName>, <persName ref="/people/JEN01.html"
                                 >Jennings</persName>, <persName ref="/people/FOU01.html"
@@ -1405,7 +1405,7 @@
                                     type="venue">Reveley's</placeName></persName></seg>: <seg
                             type="dMeeting" subtype="C">call on <persName ref="/people/GER01.html"
                                 >Gerald</persName></seg>; <seg type="dMeeting" subtype="See">see
-                                <persName>Macarthy</persName></seg>, <seg type="dMeeting"
+                                <persName ref="/people/MAC16.xml">Macarthy</persName></seg>, <seg type="dMeeting"
                             subtype="See"><persName ref="/people/DES01.html">D'Esparre jun<hi
                                     rend="sup">r</hi></persName></seg>, <seg type="dMeeting"
                             subtype="See"><persName>Oneil</persName></seg> &amp; <seg
@@ -1813,7 +1813,7 @@
                                 ref="/people/GER01.html"><placeName type="venue"
                                 >Gerald</placeName></persName>, with <persName
                                 ref="/people/RIT01.html">Ritson</persName>; <seg type="dMeeting"
-                                subtype="Adv">adv. <persName>Macarthy</persName></seg></seg>: <seg
+                                subtype="Adv">adv. <persName ref="/people/MAC16.xml">Macarthy</persName></seg></seg>: <seg
                             type="dMeal" subtype="S">sup at <persName ref="/people/RIT01.html"
                                     ><placeName type="venue">Ritson's</placeName></persName>;
                                 <persName>mrs Elliot</persName></seg>.</ab>

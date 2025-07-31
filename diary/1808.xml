@@ -2596,7 +2596,7 @@
                             type="dMeeting" subtype="C"><persName ref="/people/TUR01.html"
                                     ><placeName type="venue">Turners</placeName></persName></seg>:
                             <seg type="dMeeting" subtype="M">meet
-                            <persName>McArthur</persName></seg>.</ab>
+                            <persName ref="/people/MAC15.xml">McArthur</persName></seg>.</ab>
                     <pb n="e.209_0039r"/>
                     <ab type="dDay" xml:id="g1808-10-09"><date when="1808-10-09">Oct. 9.
                             Su.</date><ref type="dWrote" subtype="write" target="/works/rome02.html"

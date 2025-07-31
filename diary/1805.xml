@@ -333,7 +333,7 @@
                                 rend="sup">n</hi></seg>, <seg type="dMeeting" subtype="C"
                                     ><persName><placeName type="venue">Ball</placeName></persName>
                                 (<persName>Gittshur</persName> )</seg> &amp;<seg type="dMeeting"
-                            subtype="C"><persName type="nah"><placeName type="venue"> M<hi
+                            subtype="C"><persName type="nah" ref="/people/MCC01.xml"><placeName type="venue"> M<hi
                                         rend="sup">c</hi>cabe </placeName></persName><hi rend="sup"
                                 >n</hi></seg>:<seg type="dMeal" subtype="DG"><persName
                                 ref="/people/WOL03.html"> Ja<hi rend="sup">s</hi> Wt</persName>
@@ -760,7 +760,7 @@
                                     Taylor</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName ref="/people/GOD02.html"><placeName type="venue"
                                     >Jo G</placeName></persName></seg> &amp; <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                            subtype="C"><persName ref="/people/MCC01.xml"><placeName type="venue"
                                 >McCabe</placeName></persName></seg>: <seg type="dMeal" subtype="DG"
                                 ><persName ref="/people/WOL02.html">Wolcot</persName>, <persName
                                 ref="/people/NOR01.html">Northcote</persName>, <persName
