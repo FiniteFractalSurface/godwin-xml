@@ -5,8 +5,12 @@
             <titleStmt>
                 <title>Person List</title>
                 <respStmt>
-                    <resp>EP</resp>
-                    <name/>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name>ENCODER</name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -35,7 +39,6 @@
                     <note type="editorial">
                         <p> </p>
                     </note>
-
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
                         Publisher, year</bibl>
