@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EB</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name>Elliot Buck</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="MAC20" sex="2">
+                    <persName>
+                        <roleName/>
+                        <forename>Maitland</forename>
+                        <surname>Mackintosh</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1796-06-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1861"/>
+                    <occupation>Daughter</occupation>
+                    <note type="editorial">
+                        <p> This identification is tentative. It is possible that Mackintosh JR
+                            refers to either of Sir James Mackintosh's daughters, Mary or Maitland,
+                            however owing to the timing of the entry it is more likely that the
+                            entry refers to Maitland. Her relationship witb Godwin is unclear given
+                            her father's political beliefs, however given the fact that she is only
+                            referenced once in the diary it should be assumed that they were not
+                            close.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
