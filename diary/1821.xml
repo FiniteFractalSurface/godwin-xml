@@ -695,7 +695,7 @@
                <ab type="dDay" xml:id="g1821-04-03"><date when="1821-04-03">3. Tu.</date><ref
                      type="dWrote" subtype="revised" target="/works/grec02.html">Greece,
                      revise</ref>. <ref type="dText" subtype="read" target="/bibl/te2764.html"
-                     >Marino, st. 65</ref>. <seg type="dMeeting" subtype="CG"><persName>Gold (London
+                        >Marino, st. 65</ref>. <seg type="dMeeting" subtype="CG"><persName ref="/people/GOL04.html">Gold (London
                         Magazine)</persName> calls</seg>, &amp; <seg type="dMeeting" subtype="CG"
                         ><persName ref="/people/PIL01.html">P P</persName></seg>.</ab>
                <ab type="dDay" xml:id="g1821-04-04"><date when="1821-04-04">4. W. </date><ref
@@ -847,7 +847,7 @@
                            <persName ref="/people/TAY01.html">J Taylor</persName></seg></ref>.</ab>
                <ab type="dDay" xml:id="g1821-04-25"><date when="1821-04-25">25. W.</date><ref
                      type="dText" subtype="read" target="/bibl/te2764.html">Marino, st. 250</ref>.
-                     <seg type="dMeeting" subtype="C">Call on <persName><placeName type="venue">mrs
+                  <seg type="dMeeting" subtype="C">Call on <persName ref="/people/GOL04.html"><placeName type="venue">mrs
                            Gold</placeName></persName></seg>: <ref type="dEntertainment"
                      subtype="Theat" target="/plays/doge01.html"><placeName/>theatre, Marino
                      Faliero</ref>.</ab>

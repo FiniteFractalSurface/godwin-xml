@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="GIN01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Arthur</forename>
+                        <surname>Guiness</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1768">
+                        <placeName/>
+                    </birth>
+                    <death when="1855"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Arthur Guinness DNB 1768-1855 son of Arthur Guinness 1724-1803 brewer who
+                            had six sons. Subscrs 1795 to Samuel Whyte (DNB 1734-1811) Samuel
+                            Guinness, Rev Hosea Guinness, and Whyte's former pupils Arthur, Edward,
+                            Richard, and Samuel Guinness junior. Dublin Trades 1797 Arthur Guinness
+                            and Son brewer / Richard Guinness gunmaker. Edward Guinness of Dublin =
+                            May 1790 Margaret dau of late James Blair. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

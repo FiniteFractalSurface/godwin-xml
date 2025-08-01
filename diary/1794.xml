@@ -1979,7 +1979,7 @@
                                     >Richter</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName ref="/people/GER01.html"><placeName type="venue"
                                     >Gerald</placeName></persName></seg>; <seg type="dMeeting"
-                            subtype="See">see <persName>mrs G</persName></seg>.</ab>
+                                        subtype="See">see <persName ref="/people/GER02.html">mrs G</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1794-06-13"><date when="1794-06-13">13. F.</date><ref
                             type="dWrote" subtype="write" target="/works/poli01.html">Write 2
                             pages</ref>. <ref type="dText" subtype="read" target="/bibl/te0072.html"
@@ -2843,7 +2843,7 @@
                                 ref="/people/HOL01.html">him</persName> at <persName><placeName
                                     type="venue">Gray's</placeName></persName>; talk of
                                     <persName>Rob<hi rend="sup">e</hi></persName>, <seg
-                                type="dMeeting" subtype="Adv">adv. <persName>Gordon</persName>,
+                                        type="dMeeting" subtype="Adv">adv. <persName ref="/people/GOR02.html">Gordon</persName>,
                                     <persName ref="/people/GIL01.html">Gillies</persName>,
                                     <persName>Hay</persName> &amp;
                             <persName>Brown</persName></seg></seg>.</ab>

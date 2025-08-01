@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="GOO04" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>George</forename>
+                        <surname>Goodyer</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Secton</occupation>
+                    <note type="editorial">
+                        <p>Ed Pope Nor tes: call on Goodyer, sexton, Chelsea 3.3.1804 See Joslyn for
+                            possible reason for Godwin's call. In Chelsea Land Tax 1804 there was a
+                            George Goodyer at Lawrence St (till 1818 then Thomas Goodyer till 1832)
+                            and a Richard Goodyer of Franklin Row (till 1826 then Eliz Goodyer at
+                            Blacklands Place and in 1841 and 1851 censuses at Sidney Terrace
+                            laundress). George Goodyer was probably the sexton as his signature
+                            appeared regularly as a witness in the Chelsea marriage registers,
+                            including on the marriage of Thomas West (qv) and Lucy Dallas </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="GIL05" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>James</forename>
+                        <surname>Gilchrist</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Will PCC 1818 James Gilchrist of Symonds Inn Chancery Lane, Navy Agent and
+                            Purser RN, unusual will left his money to establish first almshouses in
+                            Scotland and calling himself the only honest purser in the Navy who lost
+                            wealth in attempting to expose corruption, also claimed to have been a
+                            loyal supporter of Charles James Fox. His father was buried in
+                            Greyfriars churcyard Edinburgh. His executors were William Adam,
+                            architect of Mount Novice nr Streatham, Kent (younger brother of Robert
+                            and James Adam he committed suicide in 1822) and Alexander Thomson cashier
+                            of excise Edinburgh.</p><p>
+                            Probably another James Gilchrist was a merchant at
+                            85 Strand from 1781 to 1791, voting Hood and Wray 1784, and with Charles and
+                            Francis Gilchrist at 33 St John Sq also in the 1780s, and the will of
+                            James Gilchrist of Kensington was PCC 1823, James Gilchrist, (Baptist
+                            minister who became Unitarian but then rejected it) 1783 - 1835 was
+                            father of Alexander Gilchrist DNB 1828-1861. John Borthwick Gilchrist
+                            DNB 1759-1841 seems to have been in India till 1804, and Octavius Graham
+                            Gilchrist DNB 1779-1823 would have been just 17 and supposedly studied
+                            at Magdalen College Oxford although Alum Ox doesn't list him, his father
+                            Stirling Gilchrist surgeon (will PCC 1792?)</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

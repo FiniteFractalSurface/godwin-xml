@@ -783,7 +783,7 @@
                         >Smith</persName> call</seg>: <seg type="dMeeting" subtype="C">call on
                         <persName ref="/people/WOR05.html"><placeName type="venue"
                            >Wordsworth</placeName></persName></seg>, &amp; <seg type="dMeeting"
-                     subtype="C"><persName><placeName type="venue">Goodyer,
+                              subtype="C"><persName ref="/people/GO004.html"><placeName type="venue">Goodyer,
                         sexton</placeName></persName>, <placeName>Chelsea</placeName></seg>: <seg
                      type="dMeal" subtype="D">dine at <persName ref="/people/ROW01|ROW02.html"
                            ><placeName type="venue">H Rowan's</placeName></persName></seg>: <seg
@@ -3139,7 +3139,7 @@
                      >Thurgar</placeName></persName></seg>, <seg type="dMeeting" subtype="C"
                         ><persName ref="/people/SMI11.html" type="nah"><placeName type="venue"
                            >Smith</placeName></persName><hi rend="sup">n</hi></seg>, <seg
-                     type="dMeeting" subtype="C"><persName><placeName type="venue"
+                              type="dMeeting" subtype="C"><persName ref="/people/GOU04.html"><placeName type="venue"
                            >Gourbon</placeName></persName></seg>, <seg type="dMeeting" subtype="C"
                            ><persName><placeName type="venue">Barley</placeName></persName></seg>
                   &amp; <seg type="dMeeting" subtype="C"><persName type="nah"><placeName

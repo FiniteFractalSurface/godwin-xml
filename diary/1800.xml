@@ -76,7 +76,7 @@
                      5</ref>: <ref type="dText" subtype="read" target="/bibl/te1027.html"
                      >Sophonisba, act 1</ref>. <seg type="dMeeting" subtype="CG"><persName
                         ref="/people/FEN03.html">Eliza Fenwick</persName></seg> &amp; <seg
-                     type="dMeeting" subtype="CG"><persName>F G</persName> call</seg>: <seg
+                           type="dMeeting" subtype="CG"><persName ref="/people/GER02.html">F G</persName> call</seg>: <seg
                      type="dMeal" subtype="D">dine at <persName ref="/people/KIN01.html"><placeName
                            type="venue">King's</placeName></persName>, w.
                         <persName>Derville</persName>, <persName ref="/people/ROG03.html"
@@ -242,7 +242,7 @@
                         ref="/people/PHI02.html">Philips</persName>, <persName>Campbels</persName>,
                            <persName>Pink<hi rend="sup">ds</hi></persName>,
                         <persName>Boisgelin</persName>, <emph rend="deleted"
-                        >//</emph><persName>Gore</persName>, &amp; <persName>la
+                           >//</emph><persName ref="/people/GOR03.html">Gore</persName>, &amp; <persName>la
                      Chaussée</persName></seg></ab>
                <ab type="dDay" xml:id="g1800-01-20"><date when="1800-01-20">20. M.</date><ref
                      type="dText" subtype="read" target="/bibl/te0952.html">Mitford, p. 212</ref>.
@@ -266,7 +266,7 @@
                            >King's</placeName></persName>, w. <persName ref="/people/GRA02.html"
                         >Granard</persName>, <persName>Boisgelin</persName> &amp; <persName>St
                         Hermine</persName>; <seg type="dMeeting" subtype="Adv">adv.
-                           <persName>Goire</persName> &amp; <persName ref="/people/DAV02.html"
+                           <persName ref="/people/GOR03.html">Goire</persName> &amp; <persName ref="/people/DAV02.html"
                            >Davis</persName></seg></seg>. <emph rend="red"><ref type="dEvent"
                         subtype="Publ" target="/events/pa0051.html">Parliament
                   meets</ref></emph>.</ab>
@@ -1463,7 +1463,7 @@
                         >Foulkes's</placeName></persName>, w. <persName ref="/people/GUR02.html"
                         >Gurneys</persName>, <persName>Hovels</persName>,
                         <persName>Burdons</persName>, <persName>Hollick</persName>,
-                        <persName>Goodwin</persName> &amp; <persName>mrs White</persName></seg>:
+                           <persName ref="/people/GO003.html">Goodwin</persName> &amp; <persName>mrs White</persName></seg>:
                      <ref type="dEntertainment" subtype="Theat" target="/plays/demo01.html"
                         ><placeName type="DL"/>theatre, De Montfort; <seg type="dMeeting"
                         subtype="Adv">adv. <persName>Stacpoole</persName>, <emph rend="deleted"
@@ -2365,7 +2365,7 @@
                      C. IV</ref>: <ref type="dText" subtype="read" target="/bibl/te1093.html">Fox's
                      Letter, pp. 43</ref>. <seg type="dMeeting" subtype="CG"><persName
                         ref="/people/DRE01.html">Drennan</persName> calls</seg>: <seg type="dMeal"
-                     subtype="D">dine at <persName><placeName type="venue"
+                           subtype="D">dine at <persName ref="/people/GOU02.html"><placeName type="venue"
                         >Gould's</placeName></persName>, w. <persName ref="/people/CUR01.html"
                         >C</persName>, <persName>Bushe</persName> &amp;
                         <persName>Seckerson</persName>. talk of <seg type="dTopic">miracles</seg>,
@@ -2407,7 +2407,7 @@
                      subtype="D">dine at <persName><placeName type="venue"
                         >Macnally's</placeName></persName>, w. <persName ref="/people/FLE01.html"
                         >Fletcher</persName>, <persName ref="/people/RID02.html">Ridgway</persName>,
-                        <persName>Colles's</persName>, <persName>Ginnis's</persName>,
+                              <persName>Colles's</persName>, <persName ref="/people/GIN01.html">Ginnis's</persName>,
                         <persName>Shaws</persName>, <persName ref="/people/CUR01.html"
                      >Cs</persName>, <persName>Burton</persName> &amp; <persName
                         ref="/people/FEA02.html">mrs Featherstone</persName></seg>: sleep <persName
@@ -2452,7 +2452,7 @@
                         <persName>Scalp</persName>)</seg>: <seg type="dMeal" subtype="S">sup at
                         <persName ref="/people/GRA01.html"><placeName type="venue"
                            >Grattan's</placeName></persName>, w. <persName ref="/people/CUR01.html"
-                        >C</persName>, <persName>Gould</persName>, <persName>Hartley</persName>
+                              >C</persName>, <persName ref="/people/GOU02.html">Gould</persName>, <persName>Hartley</persName>
                      &amp; <persName ref="/people/TRO01.html">Trotter</persName></seg>: sleep.</ab>
                <ab type="dDay" subtype="NotLon" xml:id="g1800-07-14"><date when="1800-07-14">14.
                      M.</date><ref type="dText" subtype="read" target="/bibl/te0561.html">Henry, B.
@@ -2461,7 +2461,7 @@
                         ref="/people/BLA04.html">Blackwood</persName> breakfast; <seg
                         type="dMeeting" subtype="Adv">adv. <persName>Sheehy</persName></seg></seg>:
                      <placeName>Dargle &amp; Water-Fall</placeName>: <seg type="dMeal" subtype="DG"
-                        ><persName>Gould</persName>, <persName ref="/people/TRO01.html"
+                        ><persName ref="/people/GOU02.html">Gould</persName>, <persName ref="/people/TRO01.html"
                         >Trotter</persName> &amp; <persName ref="/people/CUR01.html">C</persName>
                      dine</seg>: sleep.</ab>
                <ab type="dDay" subtype="NotLon" xml:id="g1800-07-15"><date when="1800-07-15">15.
@@ -2474,9 +2474,9 @@
                            ><persName><placeName type="venue">Atkinson</placeName></persName><hi
                         rend="sup">n</hi></seg>: <seg type="dMeal" subtype="DG"><persName
                         ref="/people/CUR01.html"><placeName type="venue"
-                        >Rathfarnham</placeName></persName>; <persName>Gould</persName>,
+                           >Rathfarnham</placeName></persName>; <persName ref="/people/GOU02.html">Gould</persName>,
                         <persName>Batley</persName> &amp; <persName>Glover</persName> dine</seg>;
-                     <seg type="dMeeting" subtype="Sleeps"><persName>Gould</persName>
+                  <seg type="dMeeting" subtype="Sleeps"><persName ref="/people/GOU02.html">Gould</persName>
                   sleeps</seg>.</ab>
                <ab type="dDay" subtype="NotLon" xml:id="g1800-07-16"><date when="1800-07-16">16.
                      W.</date><ref type="dText" subtype="read" target="/bibl/te1096.html">Grattan v.
@@ -2487,7 +2487,7 @@
                         subtype="Adv">adv. <persName>Wright</persName></seg></seg>: <seg
                      type="dMeal" subtype="D">dine at <persName><placeName type="venue"
                            >Reeves's</placeName></persName>, w. <persName ref="/people/CUR01.html"
-                        >C</persName>, <persName>Gould</persName>, <persName>Burton</persName>,
+                              >C</persName>, <persName ref="/people/GOU02.html">Gould</persName>, <persName>Burton</persName>,
                         <persName ref="/people/QUI01.html">Quins</persName>,
                         <persName>Elwards's</persName>, <persName>Dwyer</persName>,
                         <persName>Keller</persName> &amp; <persName>Terry</persName></seg>: <seg
@@ -2514,7 +2514,7 @@
                            >Drennan's</placeName></persName>, w. <persName ref="/people/CUR01.html"
                         >C</persName>, <persName>Hinckes's</persName>, <persName>Holmes</persName>,
                         <persName>Hartley</persName>, <persName>Orr</persName>,
-                        <persName>Caldwel</persName>, <persName ref="/people/GLE01.html">Glennie
+                        <persName>Caldwel</persName>, <persName>Glennie
                         &amp; another</persName></seg>: sleep <persName ref="/people/CUR01.html"
                         ><placeName type="venue">Rm</placeName></persName>.</ab>
                <ab type="dDay" subtype="NotLon" xml:id="g1800-07-19"><date when="1800-07-19">19.
@@ -2525,7 +2525,7 @@
                      >dine at <persName><placeName type="venue">Lefanu's</placeName></persName>, w.
                         <persName>C</persName>, <persName>E B</persName>, <persName
                         ref="/people/WOL04.html">Everina</persName>, <persName>Thomas's</persName>,
-                        <persName>Ginnis's</persName>, <persName>Cuthbert</persName> &amp;
+                           <persName ref="/people/GIN01.html">Ginnis's</persName>, <persName>Cuthbert</persName> &amp;
                            <persName>D<hi rend="sup">r</hi> Bell</persName></seg>: sleep <persName
                      ref="/people/CUR01.html"><placeName type="venue"
                   >Rm</placeName></persName>.</ab>
@@ -2539,7 +2539,7 @@
                         ref="/people/WEB01.html"><placeName type="venue"
                         >Webb's</placeName></persName>, w. <persName ref="/people/CUR01.html"
                         >Cs</persName>, <persName ref="/people/KIN02.html">la.
-                        Mountcashel</persName>, <persName>Gould</persName>,
+                           Mountcashel</persName>, <persName ref="/people/GOU02.html">Gould</persName>,
                         <persName>Terry</persName> &amp; <persName>3 Reeves's</persName></seg>:
                   sleep.</ab>
                <ab type="dDay" subtype="NotLon" xml:id="g1800-07-21"><date when="1800-07-21">21.
@@ -2601,7 +2601,7 @@
                      Sa.</date><ref type="dText" subtype="read" target="/bibl/te1103.html">Curry's
                      Review, p. 56</ref>. <seg type="dMeal" subtype="BG"><persName
                         ref="/people/CUR01.html"><placeName type="venue"
-                        >Rathfarnham</placeName></persName>, <persName>Gould</persName>
+                           >Rathfarnham</placeName></persName>, <persName ref="/people/GOU02.html">Gould</persName>
                      breakfasts</seg>: <seg type="dMeal" subtype="D">dine at <persName><placeName
                            type="venue">Caldwel's</placeName></persName>, w. <persName
                         ref="/people/CUR01.html">C</persName></seg>: <seg type="dMeeting"
@@ -3642,7 +3642,7 @@
                         >Kemble</placeName></persName></seg>: <seg type="dMeal" subtype="D">dine at
                         <persName ref="/people/NOR04.html"><placeName type="venue"
                            >Northmore's</placeName></persName>, w. <persName>Cholmley</persName>,
-                        <persName>Welby</persName> &amp; <persName>Gordons</persName></seg>: <seg
+                           <persName>Welby</persName> &amp; <persName ref="/people/GOR02.html">Gordons</persName></seg>: <seg
                      type="dMeal" subtype="SG"><persName ref="/people/MAR01.html">M</persName>
                      sups</seg>.</ab>
             </div>

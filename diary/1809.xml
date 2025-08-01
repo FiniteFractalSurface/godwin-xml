@@ -3140,7 +3140,7 @@
                     <ab type="dDay" xml:id="g1809-11-02"><date when="1809-11-02">2. Th.</date><ref
                             type="dWrote" subtype="letter">Write to <persName
                                 ref="/people/RAI02.html">Raine</persName></ref>, <ref type="dWrote"
-                            subtype="letter"><persName>Goddard</persName></ref>, <ref type="dWrote"
+                                    subtype="letter"><persName ref="/people/GOD21.html">Goddard</persName></ref>, <ref type="dWrote"
                             subtype="letter"><persName>Crombie</persName></ref>, <ref type="dWrote"
                             subtype="letter"><persName ref="/people/LIN03.html"
                             >Lindsay</persName></ref> &amp; <ref type="dWrote" subtype="letter"
@@ -3386,7 +3386,7 @@
                                     >Hume</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName ref="/people/KNO01.html"><placeName type="venue"
                                     >Knowles</placeName></persName></seg>, <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                        subtype="C"><persName ref="/people/GOD21.html"><placeName type="venue"
                                 >Goddard</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName><placeName type="venue"
                                 >Hatchard</placeName></persName></seg>, <seg type="dMeeting"

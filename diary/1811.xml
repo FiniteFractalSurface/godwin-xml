@@ -542,7 +542,7 @@
                                     Lambeth</placeName></persName></seg>: <seg type="dMeeting"
                             subtype="C">call on <persName ref="/people/WOR05.html"><placeName
                                     type="venue">Wordsworth</placeName></persName></seg>, <seg
-                            type="dMeeting" subtype="C"><persName><placeName type="venue"
+                                        type="dMeeting" subtype="C"><persName ref="/people/GOL02.html"><placeName type="venue"
                                     >Gold</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName><placeName type="venue"
                                 >Martineau</placeName></persName></seg>: <seg type="dMeeting"
@@ -598,7 +598,7 @@
                                     ><placeName type="venue">Curtis</placeName></persName></seg>:
                             <seg type="dMeal" subtype="TG"><persName ref="/people/TUR01.html">T
                                 T</persName> at tea</seg>. <seg type="dMeeting" subtype="CG"
-                                ><persName>Gold</persName> calls</seg>.</ab>
+                                    ><persName ref="/people/GOL02.html">Gold</persName> calls</seg>.</ab>
                     <ab type="dDay" xml:id="g1811-02-20"><date when="1811-02-20">20. W.</date><ref
                             type="dText" subtype="read" target="/bibl/te1865.html">Daniel, B. III,
                             IV</ref>. <seg type="dMeeting" subtype="CG"><persName
@@ -1953,7 +1953,7 @@
                     <ab type="dDay" xml:id="g1811-06-13"><date when="1811-06-13">13. Th.</date><ref
                             type="dWrote" subtype="cala" target="/works/myli01.html">Dictionary,
                             çala</ref>. <seg type="dMeeting" subtype="C">Call on
-                                    <persName><placeName type="venue"
+                                <persName ref="/people/GOL02.html"><placeName type="venue"
                             >Gold</placeName></persName></seg>, <seg type="dMeeting" subtype="C"
                                 ><persName ref="/people/WOR05.html"><placeName type="venue"
                                     >Wordsworth</placeName></persName></seg> &amp; <seg
@@ -2278,7 +2278,7 @@
                                 duo</foreign></ref>. <ref type="dEvent" subtype="PersEvent"
                             target="/events/pe0215.html"><persName ref="/people/CLA01.html">M
                                 J</persName> calls on <persName>Carkeet</persName> ,
-                                <persName>Gold</persName> , <persName>Abbot</persName> &amp;
+                                    <persName ref="/people/GOL02.html">Gold</persName> , <persName>Abbot</persName> &amp;
                                 <persName ref="/people/LON01.html">Longdil</persName></ref>.</ab>
                     <ab type="dDay" xml:id="g1811-07-17"><date when="1811-07-17">17. W.</date><ref
                             type="dText" subtype="cala" target="/bibl/te1903.html">Spenser, çala,
@@ -3045,7 +3045,7 @@
                             66, fin</ref>. <seg type="dMeeting" subtype="C">Call on <persName
                                 ref="/people/DAV01.html"><placeName type="venue"
                                 >Davison</placeName></persName></seg> &amp; <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                    subtype="C"><persName ref="/people/GOL02.html"><placeName type="venue"
                                 >Gold</placeName></persName></seg>: <seg type="dMeeting"
                             subtype="Sk">seek <persName>Graham</persName></seg>: <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/MAR01.html"
@@ -3138,9 +3138,9 @@
                             subtype="letter"><persName ref="/people/LON01.html"
                             >Longdil</persName></ref>. <ref type="dText" subtype="read"
                             target="/bibl/te1830.html">Simmons, p. 434</ref>. <seg type="dMeeting"
-                            subtype="C">Call on <persName><placeName type="venue"
+                                subtype="C">Call on <persName ref="/people/GOL02.html"><placeName type="venue"
                                 >Gold</placeName></persName></seg>: <seg type="dMeeting"
-                            subtype="CG"><persName>Gold</persName> calls</seg>.</ab>
+                                    subtype="CG"><persName ref="/people/GOL02.html">Gold</persName> calls</seg>.</ab>
                     <ab type="dDay" xml:id="g1811-10-04"><date when="1811-10-04">4. F.</date><ref
                             type="dWrote" subtype="letter">Write to <persName>A
                             Lefanu</persName></ref>. <seg type="dMeeting" subtype="CG"><persName
@@ -3304,7 +3304,7 @@
                                     ><placeName type="venue">Lewis</placeName></persName></seg>,
                             <seg type="dMeeting" subtype="C"><persName><placeName type="venue"
                                     >Wade</placeName></persName></seg>, <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                        subtype="C"><persName ref="/people/GOL02.html"><placeName type="venue"
                                 >Gold</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName><placeName type="venue"
                                 >Ralph</placeName></persName></seg>: <seg type="dMeeting"
@@ -3701,7 +3701,7 @@
                                 ref="/people/LAM02.html">M Lamb</persName> calls</seg>: <seg
                             type="dMeeting" subtype="C">call on <persName><placeName type="venue"
                                     >Pocock</placeName></persName></seg> &amp; <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                        subtype="C"><persName ref="/people/GOL02.html"><placeName type="venue"
                                 >Gold</placeName></persName></seg>: <seg type="dMeeting"
                             subtype="Aus"><persName ref="/people/HIL05.html">Hill</persName> au
                             soir</seg>.</ab>
@@ -4243,7 +4243,7 @@
                                     >Hume</placeName></persName></seg>: <seg type="dMeeting"
                             subtype="Sk">seek <persName ref="/people/TIP02.html"
                             >Tipper</persName></seg>, <seg type="dMeeting" subtype="Sk"
-                                ><persName>Gold</persName></seg> &amp; <seg type="dMeeting"
+                                ><persName ref="/people/GOL02.html">Gold</persName></seg> &amp; <seg type="dMeeting"
                             subtype="Sk"><persName ref="/people/MUR01.html">Murray</persName></seg>:
                             <ref type="dEvent" subtype="PersEvent" target="/events/pe0222.html"
                                 ><persName ref="/people/ROD01.html">Rodd</persName><foreign> aux
@@ -4257,7 +4257,7 @@
                             246</ref>. <seg type="dMeeting" subtype="C">Call on <persName
                                 ref="/people/MUR01.html"><placeName type="venue"
                                 >Murray</placeName></persName></seg>, <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                    subtype="C"><persName ref="/people/GOL02.html"><placeName type="venue"
                                 >Gold</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName type="nah"><placeName type="venue"
                                     >Rousseau</placeName></persName><hi rend="sup">n</hi></seg>.

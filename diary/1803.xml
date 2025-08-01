@@ -160,7 +160,7 @@
                         &amp; <seg type="dMeeting" subtype="C"><persName ref="/people/PER01.html"
                                     ><placeName type="venue">Perry</placeName></persName>; <seg
                                 type="dMeeting" subtype="Adv">adv.
-                            <persName>Goold</persName></seg></seg>: <seg type="dMeeting"
+                                        <persName ref="/people/GOU02.html">Goold</persName></seg></seg>: <seg type="dMeeting"
                             subtype="Do"><placeName>Record Office</placeName>, w. <persName
                                 ref="/people/TOW02.html">Townsend</persName></seg>. <ref
                             type="dWrote" subtype="letter">Write to
@@ -1893,7 +1893,7 @@
                                 type="dMeeting" subtype="See"><persName ref="/people/ELL03.html"
                                     >Ellis</persName> &amp; <persName ref="/people/RIT01.html"
                                     >Ritson</persName></seg></ref>. <ref type="dWrote"
-                            subtype="letter">Write to <persName>Gough</persName></ref>. <seg
+                                        subtype="letter">Write to <persName ref="/people/GOU01.html">Gough</persName></ref>. <seg
                             type="dMeal" subtype="DG"><persName ref="/people/ARN01.html"
                                 >Arnot</persName> &amp; <persName>Dewar</persName> dine</seg>. <ref
                             type="dText" subtype="read" target="/bibl/te0805.html"

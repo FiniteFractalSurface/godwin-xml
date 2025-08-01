@@ -1618,7 +1618,7 @@
                             <seg type="dMeal" subtype="D">dine at <persName ref="/people/HOL01.html"
                                     ><placeName type="venue">Ht's</placeName></persName>, w.
                                 <persName ref="/people/COL08.html">Cole</persName>,
-                                <persName>Stodart G S</persName>, <persName>Gilchrist</persName>
+                                <persName>Stodart G S</persName>, <persName ref="/people/GIL05.html">Gilchrist</persName>
                             &amp; <persName>Spiring</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1798-05-14"><date when="1798-05-14">14. M.</date><ref
                             type="dText" subtype="read" target="/bibl/te0671.html">Ovid, 851; XV,
@@ -2101,7 +2101,7 @@
                                     <persName>Brogden</persName>, <persName ref="/people/OBR01.html"
                                     >O'Brien</persName>, <persName ref="/people/MAC01.html"
                                     >Mackintosh</persName>, <persName ref="/people/PER01.html"
-                                    >Perry</persName>, <persName>Gordon</persName>, <persName
+                                        >Perry</persName>, <persName ref="/people/GOR02.html">Gordon</persName>, <persName
                                     ref="/people/BAN03.html">Banks</persName>, &amp;
                                     <persName ref="/people/DAN04.html">Dangerfield</persName></seg></ref>: <seg
                             type="dMeeting" subtype="C">call on <persName ref="/people/CHA01.html"
@@ -2321,7 +2321,7 @@
                                     ><placeName type="venue">Ht's</placeName></persName>, w.
                                 <persName ref="/people/FOU01.html">Foulkes</persName> &amp;
                                 <persName>Burrel</persName>; <seg type="dMeeting" subtype="Adv">adv.
-                                    <persName>Geisweiler</persName> &amp; <persName
+                                    <persName ref="/people/GEI01.html">Geisweiler</persName> &amp; <persName
                                     ref="/people/STO01.html">Stoddart</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1798-07-09"><date when="1798-07-09">9. M.</date><ref
                             type="dText" subtype="read" target="/bibl/te0847.html">Ovid, A A, p.
@@ -2480,7 +2480,7 @@
                                     >Ht's</placeName></persName>, w. <persName
                                 ref="/people/PIN01.html">Pinkerton</persName>, <persName
                                 ref="/people/FOU01.html">Foulkes</persName>,
-                                <persName>Geisweiler</persName> &amp; <persName
+                                        <persName ref="/people/GEI01.html">Geisweiler</persName> &amp; <persName
                                 ref="/people/STO01.html">Stoddart</persName>; <seg type="dMeeting"
                                 subtype="Adv">adv. <persName ref="/people/NIC01.html"
                                     >Nicholson</persName></seg></seg>. <ref type="dEvent"
@@ -2642,7 +2642,7 @@
                                 >Parry</persName> &amp; <persName ref="/people/STO01.html"
                                 >Stoddart</persName>; <seg type="dMeeting" subtype="Adv">adv.
                                     <persName ref="/people/HOL05.html">L Mercier</persName> &amp;
-                                    <persName>Geisweiler</persName></seg></seg>.</ab>
+                                    <persName ref="/people/GEI01.html">Geisweiler</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1798-08-06"><date when="1798-08-06">6. M.</date><ref
                             type="dWrote" subtype="write" target="/works/leon01.html">St Leon, p.
                             51</ref>. <ref type="dText" subtype="read" target="/bibl/te0854.html"
@@ -2808,7 +2808,7 @@
                                 >Jno</persName> &amp; <persName ref="/people/STO01.html"
                                 >Stoddart</persName>; <seg type="dMeeting" subtype="Adv">adv.
                                     <persName ref="/people/PLU01|PLU02.html">Plumptres</persName>
-                                &amp; <persName>Geisweiler</persName></seg></seg>: <seg type="dMeal"
+                                    &amp; <persName ref="/people/GEI01.html">Geisweiler</persName></seg></seg>: <seg type="dMeal"
                             subtype="SG"><persName ref="/people/GOD04.html">H G</persName>,
                                 <persName ref="/people/MAR01.html">M</persName> &amp; <persName
                                 ref="/people/DIB01.html">Dibbin</persName> sup</seg>.</ab>

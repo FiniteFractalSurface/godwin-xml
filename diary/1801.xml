@@ -1823,7 +1823,7 @@
                                 ref="/people/FUS01.html">Fuseli</persName>, <persName
                                 ref="/people/BON01.html">Bonnycastle</persName>,
                                 <persName>Schweitzer</persName>, <persName>W Edwards</persName>,
-                                <persName>Gilbert</persName> &amp; <persName>Magee</persName>; <seg
+                                        <persName ref="/people/GIL04.html">Gilbert</persName> &amp; <persName ref="/people/MAG01.html">Magee</persName>; <seg
                                 type="dMeeting" subtype="Adv"> adv. <persName
                                     ref="/people/CHA06.html">Chalmers</persName> &amp;
                                     <persName>Mawman</persName></seg></seg>: (<seg type="dMeeting"
@@ -2035,7 +2035,7 @@
                             <placeName>Wandsworth</placeName>: <seg type="dMeal" subtype="D">dine at
                                 <persName ref="/people/PER01.html">Perry's, <placeName type="venue"
                                     >Merton</placeName></persName>, w. <persName>Bish's</persName>,
-                            &amp; <persName>maj. Gordon &amp; femme</persName></seg>. <emph
+                                &amp; <persName ref="/people/GOR02.html">maj. Gordon &amp; femme</persName></seg>. <emph
                             rend="small"><ref type="dEvent" subtype="PersEvent"><persName
                                     ref="/people/DIB01.html">Dibbin</persName>
                         married</ref></emph></ab>

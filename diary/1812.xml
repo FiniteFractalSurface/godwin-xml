@@ -305,7 +305,7 @@
                                 ref="/people/COL01.html">Coleridge</persName>,
                                 <persName>Rough</persName>, <persName ref="/people/HAM02.html"
                                 >Hamond</persName>, <persName>Toller</persName>,
-                                <persName>Goodwin</persName>, <persName>Wright</persName>, <persName
+                                <persName ref="/people/GO003.html">Goodwin</persName>, <persName>Wright</persName>, <persName
                                 ref="/people/ROB03.html">H Robinson</persName>, <persName>miss
                                 Gilbert </persName>&amp; <persName>Alvado</persName></seg>. <ref
                             type="dText" subtype="read" target="/bibl/te1929.html">Herbert of
@@ -639,7 +639,7 @@
                             subtype="read" target="/bibl/te1973.html">Hamilton, p. 186</ref>. <seg
                             type="dMeeting" subtype="C">Call on <persName ref="/people/PLA02.html"
                                     ><placeName type="venue">Place</placeName></persName></seg>,
-                            <seg type="dMeeting" subtype="C"><persName><placeName type="venue"
+                        <seg type="dMeeting" subtype="C"><persName ref="/people/GOL02.html"><placeName type="venue"
                                     >Gold</placeName></persName></seg>, &amp; <seg type="dMeeting"
                             subtype="C"><persName ref="/people/GIL02.html"><placeName type="venue"
                                     >Gillet</placeName></persName> twice</seg>:<ref

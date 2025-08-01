@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="GOD23" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>John Jex</forename>
+                        <surname>Godwin</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1780">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Son of Godwin's brother Joseph. </p>
+                        <p>Ed Pope Comments: Though baptised John Jex he often appeared in documents
+                            as just John or Jno. I would suggest that most of the Jno G as well as
+                            the J J G entries in Godwin's diary referred to him. They never appeared
+                            together though they did overlap, there were ten uses of JJ before Jno
+                            ceased, but they were spaced out in a way that is consistent with
+                            Godwin's nephew making calls every month or so on the uncle who had paid
+                            his apprenticeship premium. It can be explained by Godwin having
+                            gradually come to prefer JJ while being in the habit of using Jno. On
+                            26.11.1795 Jn G calls with Barker (John Jex's great-uncle or -aunt), on
+                            20.12.1795 Jno Godwin calls with J G (John Jex's uncle), on 21.2.1796
+                            Jno G calls, on 23.2.1796 Godwin calls on Tiffin (John Jex's future
+                            master), on 28.2.1796 Jno Godwin calls with J G, and on 1.3.1796 John
+                            Jex was bound apprentice. J J G didn't appear in the diary till October
+                            1797, 18 months after the apprenticeship began. It is unlikely that William Godwin was
+                            unaware of the John Godwin, pocket book maker of the Strand who took his
+                            life in 1804 to whom the Jno G entries are currently coded on the GD
+                            website but that doesn't mean they would have visited each other or that
+                            the pocket book maker must have appeared in Godwin's diary. The much
+                            earlier "Jno Godwin calls" on 19.5.1793 could be Godwin's brother John,
+                            or John Jex aged 13, or the pocket book maker.</p> 
+                        <p> JJG calls 20.2.1805 has been missed by GD
+                            website and should be coded to John Jex Godwin (Stationers Company
+                            Apprentices - see my para 3 for Joseph Godwin) no 8203 1.3.1796 Jno
+                            Godwin appr. to Thomas Tiffin, bookbinder of Warwick Lane, Newgate
+                            Street, father Joseph Godwin of Providence Place, Somers Town, upholder,
+                            £10 premium paid by his uncle William Godwin 21.8.1814 St Dunstan and All
+                            Saints Stepney John Godwin widower of this parish and of Mile End Old
+                            Town hamlet married by banns Ann Kidman spinster of the same parish and
+                            hamlet. Between 1815 and 1829 they baptised 7 children and buried 4 of
+                            them at 8 different addresses in 5 London parishes; in 3 baptisms the
+                            father's name was given as John Jex Godwin and in one of those the son
+                            was christened William Kidman Godwin. All the burial ages tally, and the
+                            father's trade was given as bookbinder in every case. If John Jex tried
+                            going to America (event tag 4.8.1817) this obviously didn't work out. In
+                            the 1841 census John Godwin bookbinder aged 60 was living with Ann
+                            Godwin aged 50 and three female Godwins aged 20, 15 and 10 at Pitt
+                            Street, St George Southwark, and in the 1851 census John Godwin, widower
+                            aged 70, bookbinder born Colney Suffolk was living with two unmarried
+                            daughters Elizabeth aged 25 a theatrical dancer and Sarah aged 22 a book
+                            folder. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

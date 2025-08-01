@@ -1474,7 +1474,7 @@
                             Su.</date><ref type="dWrote" subtype="write" target="/works/cale01.html"
                             > Write 54/2, 55/2</ref>.<ref type="dText" subtype="read"
                             target="/bibl/te0294.html"> Horace, Odes 27, 28</ref>: <seg
-                            type="dMeeting" subtype="CG"><persName ref="/people/GOD09.html">Jno
+                            type="dMeeting" subtype="CG"><persName ref="/people/GOD14.html">Jno
                                 Godwin</persName> calls</seg>. <seg type="dMeal" subtype="D"> Dine
                             at <persName ref="/people/TOO01.html"><placeName type="venue">H
                                     Tooke’s</placeName></persName>, with
@@ -2855,7 +2855,7 @@
                                 ref="/people/HOL01.html">Holcroft</persName>,<persName
                                 ref="/people/PER01.html"> Perry</persName>,
                                 <persName>Gray</persName> &amp;
-                        <persName>Gordon</persName></seg>.</ab>
+                                <persName ref="/people/GOR02.html">Gordon</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1793-09-30"><date when="1793-09-30">30. M.</date><ref
                             type="dWrote" subtype="write" target="/works/cale01.html">Write p. 67,
                             68, 69/2</ref>. <ref type="dText" subtype="read"
@@ -3250,7 +3250,7 @@
                             subtype="S">sup w.<persName ref="/people/HOL01.html"> him </persName>at
                                 <persName ref="/people/PER01.html"><placeName type="venue"
                                     >Perry’s</placeName></persName>;<seg type="dMeeting"
-                                subtype="Adv"> adv. <persName>Gordon </persName>&amp;<persName>
+                                        subtype="Adv"> adv. <persName ref="/people/GOR02.html">Gordon </persName>&amp;<persName>
                                     Barnes</persName></seg></seg></ab>
                     <pb n="e.201_0015v"/>
                     <ab type="dDay" xml:id="g1793-11-04"><date when="1793-11-04">5. M.</date><ref
@@ -3510,7 +3510,7 @@
                             at <persName ref="/people/PER01.html"><placeName type="venue"
                                     >Perry’s</placeName></persName>, w. <persName
                                 ref="/people/POR01.html">Porson</persName>,
-                                <persName>Barnes</persName>, <persName>Gordon</persName>, <persName
+                                    <persName>Barnes</persName>, <persName ref="/people/GOR02.html">Gordon</persName>, <persName
                                 ref="/people/GIL01.html">Gillies</persName>, <persName>Call<hi
                                     rend="sup">d</hi></persName> &amp; <persName
                                 ref="/people/HOL01.html">Holcrofts</persName></seg>.</ab>
@@ -3573,7 +3573,7 @@
                                 <persName>Hewardine</persName>, <persName>Pope</persName>,<persName
                                 ref="/people/DIG01.html"> Dignum</persName>,
                                 <persName>Johnstone</persName>, <persName ref="/people/PER01.html"
-                                >Perry</persName>, <persName>Gordon</persName>, <emph rend="deleted"
+                                    >Perry</persName>, <persName ref="/people/GOR02.html">Gordon</persName>, <emph rend="deleted"
                                 >Dignum, Johnstone, </emph><persName>Bell</persName>,<persName>
                                 Barnes</persName>, <persName ref="/people/GIL01.html"
                                 >Gillies</persName>, <persName>Stow</persName> &amp;
@@ -3631,7 +3631,7 @@
                                     >Holcroft’s</placeName></persName> with <persName
                                 ref="/people/POR01.html">Porson</persName>, <persName
                                 ref="/people/PER01.html">Perry</persName>,
-                                <persName>Gordon</persName>, <persName ref="/people/SHI01.html"
+                                    <persName ref="/people/GOR02.html">Gordon</persName>, <persName ref="/people/SHI01.html"
                                 >Shield</persName> &amp; <persName ref="/people/REV01|REV02.html"
                                 >Reveleys</persName>, talk of <seg type="dTopic">self love</seg>
                             &amp; <seg type="dTopic">God</seg>; <seg type="dMeeting" subtype="Adv"

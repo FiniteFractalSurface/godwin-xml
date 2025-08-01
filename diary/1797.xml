@@ -977,7 +977,7 @@
                         ><persName ref="/people/DEB01.html"><placeName type="venue"
                            >Debrett's</placeName></persName>; <persName ref="/people/BAR03.html"
                         >Barry</persName>, <persName ref="/people/MAX01.html">Maxwel</persName>,
-                        <persName>Godfrey</persName>, <persName ref="/people/HAN01.html"
+                              <persName ref="/people/GOD22.html">Godfrey</persName>, <persName ref="/people/HAN01.html"
                         >Hanger</persName> &amp; <persName ref="/people/ADA02.html">R
                         Adair</persName></seg>: <seg type="dMeal" subtype="TG"><persName
                         ref="/people/KEA01.html">Kearsley</persName> at tea</seg>: <ref
@@ -991,7 +991,7 @@
                         ref="/people/HOL01.html"><placeName type="venue"
                      >Ht's</placeName></persName>, w. <persName ref="/people/BAR03.html"
                         >Barry</persName>, <persName ref="/people/PAR99.html">Parry</persName>,
-                        <persName>Gilchrist</persName>, <persName>Sutton</persName> &amp; <persName
+                        <persName ref="/people/GIL05.html">Gilchrist</persName>, <persName>Sutton</persName> &amp; <persName
                         ref="/people/COL08.html">Cole</persName></seg>: <seg type="dMeal"
                      subtype="S">sup at <persName ref="/people/KNI02.html"><placeName type="venue"
                            >Knight's</placeName></persName>, w. <persName>Cutting</persName>,
@@ -1078,7 +1078,7 @@
                      calls</seg>:<seg type="dMeal" subtype="D"> dine at <persName
                         ref="/people/HOL01.html"><placeName type="venue">Hts</placeName></persName>,
                      w. <persName ref="/people/ALD02.html">A A</persName>,
-                        <persName>Gilchrist</persName>, <persName ref="/people/COL08.html"
+                        <persName ref="/people/GIL05.html">Gilchrist</persName>, <persName ref="/people/COL08.html"
                         >Cole</persName>, <persName>Spiring</persName> &amp; <persName>E
                         C</persName>: <seg type="dMeal" subtype="S">sup at <persName
                            ref="/people/GOD04.html"><placeName type="venue">miss
@@ -2720,7 +2720,7 @@
                      subtype="DG"><persName ref="/people/MAR01.html">M </persName>dines</seg>.</ab>
                <ab type="dDay" xml:id="g1797-08-26"><date when="1797-08-26">26. Sa. </date><ref
                      type="dText" subtype="read" target="/bibl/te0779.html">Bruce, p. 92</ref>. <seg
-                     type="dMeeting" subtype="CG"><persName>Gould</persName></seg> &amp; <seg
+                        type="dMeeting" subtype="CG"><persName ref="/people/GOU02.html">Gould</persName></seg> &amp; <seg
                      type="dMeeting" subtype="CG"><persName>Barnes</persName> call<emph
                         rend="deleted">s</emph></seg>: <seg type="dMeal" subtype="D">dine at
                         <persName ref="/people/ROB01.html"><placeName type="venue"
@@ -2733,7 +2733,7 @@
                      ref="/people/MAR01.html">M</persName> sup.</ab>
                <pb n="e.203_0025v"/>
                <ab type="dDay" xml:id="g1797-08-27"><date when="1797-08-27">Aug. 27. Su.</date><seg
-                     type="dMeeting" subtype="CG"><persName>Gould</persName> calls</seg>: <seg
+                     type="dMeeting" subtype="CG"><persName ref="/people/GOU02.html">Gould</persName> calls</seg>: <seg
                      type="dMeeting" subtype="C">call on <persName ref="/people/RIT01.html"
                            ><placeName type="venue">Ritson</placeName></persName></seg>: <seg
                      type="dMeal" subtype="DG"><persName>Mar[<hi rend="sup">t</hi>?]</persName>
@@ -3393,7 +3393,7 @@
                         <persName>Pinto</persName> &amp; <persName ref="/people/BAN03.html"
                         >Banks</persName>; <seg type="dMeeting" subtype="Adv">adv. <persName>mrs
                            Parry</persName>, <persName>M A Lunan</persName>, <persName
-                           ref="/people/PER01.html">Perry</persName>, <persName>Gordon</persName>
+                              ref="/people/PER01.html">Perry</persName>, <persName ref="/people/GOR02.html">Gordon</persName>
                         &amp; <persName>Burrel</persName></seg></seg>.</ab>
                <ab type="dDay" xml:id="g1797-11-09"><date when="1797-11-09">9. Th.</date><ref
                      type="dText" subtype="read" target="/bibl/te0782.html">Purley, p. 186</ref>.

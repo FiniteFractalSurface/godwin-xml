@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="GOD22" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>David</forename>
+                        <surname>Godfrey</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1798"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Probably David Godfrey whose will PCC 1798 of Isleworth dated 22.11.1795,
+                            mentioned his schoolfellow Philip Francis of St James Sq (Sir Philip
+                            Francis DNB 1740-1818 went to St Pauls school) his godson Philip
+                            Francis, James Archdekin of Berners St (whose will PCC 1803 dated
+                            5.8.1801 mentioned Philip Francis, John and Lucy Godfrey of Bedford Sq and
+                            Harwood's debt), and Charles James Fox, as well as his brother John
+                            Godfrey of Welby nr Melton Mowbray Leics, his late brother Peter, his
+                            sisters Ann Vieusseux and Elizabeth Gravier, William Harwood of Hanwell
+                            Park, and Peter son of William Godfrey of Woodford Essex. Or could have
+                            been his brother John Godfrey of Bedford Sq who died 20.12.1810 will PCC
+                            1811. Both brothers had an address at the Adelphi when they joined the
+                            Whig Club in 1784 and they also belonged to the Friends of the People
+                            1795 and signed the declaration of Friends to the Liberty of the Press
+                            1791. David Godfrey gent of Adelphi voted Townshend 1788 Fox and Tooke
+                            1790 Fox 1796 and was a merchant at 82 Gt Queen St 1782-1783. John
+                            Godfrey of Terrace, Adelphi was a director of the Sun Fire Office 1791.
+                            There was also a will PCC 1825 of David Godfrey gentleman of Lambeth,
+                            Surrey and a Major John Godfrey of Chester St St Geo Han Sq voted
+                            Burdett 1818. A Samuel Godfrey of 38 Fore St attorney was mentioned in
+                            Thale London Corresponding Society p50-7 14.2.1793 </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

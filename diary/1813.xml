@@ -601,7 +601,7 @@
                             subtype="CG"><persName ref="/people/OWE01.html">Owen</persName></seg>
                         &amp; <seg type="dMeeting" subtype="CG"><persName ref="/people/LAM02.html">M
                                 Lamb</persName></seg> call: <seg type="dMeeting" subtype="C">call on
-                                    <persName><placeName type="venue"
+                                    <persName ref="/people/GOL02.html"><placeName type="venue"
                             >Gold</placeName></persName></seg>: <seg type="dMeeting" subtype="M"
                             >meet <persName ref="/people/PHI01.html">Phillips</persName></seg>:<ref
                             type="dEntertainment" subtype="Theat" target="/plays/home01.html"
@@ -3978,7 +3978,7 @@
                                     >Pearce</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName><placeName type="venue"
                                 >Price</placeName></persName></seg>, <seg type="dMeeting"
-                            subtype="C"><persName type="nah"><placeName type="venue"
+                                    subtype="C"><persName type="nah" ref="/people/GEL01.html"><placeName type="venue"
                                     >Gell</placeName></persName><hi rend="sup">na</hi></seg>, &amp;
                             <seg type="dMeeting" subtype="C"><persName ref="/people/HUM01.html"
                                     ><placeName type="venue">Hume</placeName></persName></seg>: <seg

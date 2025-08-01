@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="GOU04" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Lewis</forename>
+                        <surname>Gourbon</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1774">
+                        <placeName/>
+                    </birth>
+                    <death when="1811"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Ed Pope notes: 2.10.1804 call on Luntley with E(verina) W(ollstonecraft)
+                            and on Thurgar, Smith, Gourbon, Bailey and Metcalfe Lewis Gourbon 15
+                            Primrose St Land Tax 1805, 1807. Lewis Frederick son of James and Mary
+                            Gourbon bapt 3.7.1774 St Geo Bloomsbury, married 1796 at Chapel Royal
+                            Savoy Ann Dawes. Ann Gourbon of Chiswell St buried Bunhill Fields
+                            12.12.1811 age 39, Lewis Gourbon of Lower George St buried St Luke
+                            Chelsea 3.6.1832 age 57. Although Smith and Metcalfe were out, the last
+                            four calls were all names of Primrose Street tenants, nos 13, 15, 16 and
+                            19 (numbers not given in Land Tax but the names were in number order,
+                            numbers from Sun Fire and Holdens) . Luntley was a surveyor so probably
+                            assessing the repairs needed, Thurgar may have had some similar role or
+                            perhaps was a tenant too briefly to appear in records. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="GER02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Frances</forename>
+                        <surname>Gerrald</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1791">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>The main source on the private life of Joseph Gerrald (DNB 1763-1796) is
+                            a Sketch written and published in 1795 by an anonymous friend who
+                            claimed to have known him for 30 years. (Gerrald would have been only 2
+                            years old and just arrived back in England from the West Indies, so the
+                            writer was probably older than him and may have been his "private friend
+                            and instructor Mr Bennet" mentioned in the Sketch).Gerrald went back to
+                            the West Indies about 1780 and married "a lady of the connection or name
+                            of Brothers" and had a son and a daughter, both alive in 1795, their
+                            mother dying in the West Indies. Gerrald then lived in Philadelphia
+                            about 1784-88. In Warren Derry's book 'Dr Parr the Whig Dr Johnson' it's
+                            mentioned that Parr looked after Gerrald's illegitimate daughter, though
+                            the references he gives in Parr's Works (vol.1 p. 786 and vol. 8 pp., 206-12)
+                            seem to concern only Gerrald's son, who is also mentioned in Parr's
+                            will, but no daughter (PCC 1825). </p> 
+                        <p>Frances Gerrald was baptised at St Marylebone on
+                            2.1.1792, daughter of Joseph and Frances, born 6.8.1791; (Elizabeth Frances
+                            Gerrald was baptised at St Marylebone on 6.9.1791, daughter of Charles and
+                            Frances, born 6.8.1791). Div 1 of the London Corresponding Society on
+                            30.1.1798 resolved that £8 raised for Citn Gerald should be given to his
+                            daughter. The DNB says Gerrald's young daughter visited him in prison.
+                            Eliza Fenwick in a letter to Mary Hays of 28.1.1799 (Wedd, Fate of the
+                            Fenwicks p4) talked of Fanny Gerrald in her bed keeping her awake, and
+                            she was surely the FG of Godwin's diary with Eliza Fenwick in 1799 and
+                            1800 and with Miss Marner in 1806. </p> <p>At present I have no information
+                            except the above about Gerrald's wife, or a possible legitimate
+                            daughter, or Fanny Gerrald's mother, or what became of Fanny Gerrald.
+                            Nor can I identify Miss Marner at all. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
