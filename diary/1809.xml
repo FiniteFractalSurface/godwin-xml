@@ -195,7 +195,7 @@
                                 </placeName></persName>
                             <persName>David M. Randolph <placeName type="venue">6 Francis Street,
                                     Golden Square </placeName></persName>
-                            <persName>W Graves <placeName type="venue">18 Walbrook
+                            <persName ref="/people/GRA12.html">W Graves <placeName type="venue">18 Walbrook
                                 </placeName></persName>
                             <persName>William P Meeker </persName>
                             <persName>Vanderlyn, Painter </persName>
@@ -223,7 +223,7 @@
                             ref="/people/WHI03.html">White</persName> .</ab>
                     <ab type="dDay" xml:id="g1809-01-24"><date when="1809-01-24">24. Tu.</date><ref
                             type="dEvent" subtype="PersEvent" target="/events/pe0001.html"
-                            >Grave</ref>: <ref type="dText" subtype="read"
+                            ><persName ref="/people/GRA13.html">Grave</persName></ref>: <ref type="dText" subtype="read"
                             target="/bibl/te1737.html">Newspapers</ref>. <seg type="dMeeting"
                             subtype="M">Meet <persName ref="/people/PHI01.html"
                             >Phillips</persName></seg>.</ab>
@@ -284,7 +284,7 @@
                                 ref="/people/TOP03.html">mrs Topping</persName></seg> &amp; <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/GOD05.html">N
                                 G</persName> call</seg>. <ref type="dWrote" subtype="letter">Write
-                            to <persName>Griffiths</persName>, on <seg type="dTopic"
+                                    to <persName ref="/people/GRI04.html">Griffiths</persName>, on <seg type="dTopic"
                                     ><persName>Trimmer</persName></seg></ref>.</ab>
                 </div>
                 <div type="dMonth" xml:id="g1809-02">
@@ -1130,7 +1130,7 @@
                             type="dWrote" subtype="write" target="/works/rome02.html">Rome, p.
                             47/2</ref>. <seg type="dMeeting" subtype="CG"><persName
                                 ref="/people/CHA02.html">Chamberlaine</persName></seg> &amp; <seg
-                            type="dMeeting" subtype="CG"><persName>Graves</persName> call</seg>:
+                                    type="dMeeting" subtype="CG"><persName ref="/people/GRA13.html">Graves</persName> call</seg>:
                             <seg type="dMeeting" subtype="C">call on <persName
                                 ref="/people/SMI03.html" type="nah"><placeName type="venue"
                                     >Smirke</placeName></persName><hi rend="sup">n</hi></seg>: <seg
@@ -1399,7 +1399,7 @@
                                 ><placeName type="CG"/><seg type="dMeeting" subtype="Do">theatre, w.
                                     <persName ref="/people/CLA01.html">M J.</persName> Mountaineers,
                                 &amp; Blue Devils; <seg type="dMeeting" subtype="Adv">adv.
-                                        <persName>Graves</persName> &amp; <persName
+                                    <persName ref="/people/GRA12.html">Graves</persName> &amp; <persName
                                         ref="/people/WIL03.html"
                         >Wilkie</persName></seg></seg></ref>. <seg type="dMeeting" subtype="CG"
                                 ><persName type="nah">Brooke</persName> calls <hi rend="sup"
@@ -1569,7 +1569,7 @@
                             >Pearsal</placeName></persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1809-06-06"><date when="1809-06-06">6. Tu.</date><ref
                             type="dWrote" subtype="write" target="/works/grec02.html">Greece, p.
-                            6/2</ref>. <seg type="dMeeting" subtype="C">Call on <persName><placeName
+                            6/2</ref>. <seg type="dMeeting" subtype="C">Call on <persName ref="/people/GRO04.html"><placeName
                                     type="venue">Grosvenor</placeName></persName></seg>: <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/GOD02.html">Jo
                                 G</persName></seg> &amp; <seg type="dMeeting" subtype="CG"
@@ -2486,7 +2486,7 @@
                                 >Colmaghi’s</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="Sk"><persName ref="/people/CLA01.html"/><persName><placeName
                                     type="venue">Tain’s</placeName></persName></seg> &amp; <seg
-                            type="dMeeting" subtype="Sk"><persName><placeName type="venue"
+                                        type="dMeeting" subtype="Sk"><persName ref="/people/GRA12.html"><placeName type="venue"
                                     >Grave’s</placeName></persName>, w. <persName
                                 ref="/people/CLA01.html">M J</persName></seg>: <seg type="dMeeting"
                             subtype="M">meet <persName>Randolph</persName></seg>.</ab>

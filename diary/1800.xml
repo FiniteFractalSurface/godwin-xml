@@ -36,7 +36,7 @@
                         <persName ref="/people/NOR01.html">Northcote</persName>,
                         <persName>Mcquin</persName>, <persName ref="/people/CHA01.html"
                         >Chandler</persName>, <persName>Litchfields</persName>, <persName>4
-                        Hutchinsons</persName> &amp; <persName>mrs Gurney</persName></seg>. <seg
+                           Hutchinsons</persName> &amp; <persName ref="/people/GUR05.html">mrs Gurney</persName></seg>. <seg
                      type="dMeeting" subtype="CG"><persName ref="/people/GOD15.html">M
                         Bailey</persName> calls <hi rend="sup">n</hi></seg>. <ref type="dText"
                      subtype="read" target="/bibl/te1024.html">Oedipus, act 3</ref>.</ab>
@@ -2439,7 +2439,7 @@
                         ref="/people/MOO01.html">Moore</persName>, <persName>Burke</persName>,
                         <persName>Wallis</persName>, <persName ref="/people/MAC17.xml">Macgray</persName> &amp;
                         <persName>Conway</persName> dine</seg>: <seg type="dMeeting"
-                     subtype="Sleeps"><persName>G </persName>sleeps</seg>.</ab>
+                           subtype="Sleeps"><persName ref="/people/GRA01.html">G </persName>sleeps</seg>.</ab>
                <pb n="e.205_0006r"/>
                <ab type="dDay" subtype="NotLon" xml:id="g1800-07-13"><date when="1800-07-13">July
                      13. Su.</date><seg type="dMeeting" subtype="CG"><persName>Barret</persName>
@@ -2704,7 +2704,7 @@
                            ><persName><placeName type="venue"
                   >Joinville</placeName></persName></seg>: <seg type="dMeal" subtype="D">dine at
                            <persName><placeName type="venue">Brown's</placeName></persName>, w.
-                        <persName>Griffiths's</persName>, <persName ref="/people/TOB01|TOB02.html"
+                     <persName ref="/people/GRI04.html">Griffiths's</persName>, <persName ref="/people/TOB01|TOB02.html"
                         >Tobins</persName>, <persName ref="/people/HUM01.html">Hume</persName> &amp;
                         <persName>Latten</persName></seg>: <ref type="dEvent" subtype="PersHlth"
                      target="/events/he0000.html">sleep</ref>.</ab>

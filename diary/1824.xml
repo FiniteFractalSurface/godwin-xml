@@ -640,7 +640,7 @@
                             type="dEntertainment" subtype="Theat" target="/plays/prid01.html"
                                 ><placeName type="CG"/>theatre, Pride have a Fall; <seg
                                 type="dMeeting" subtype="Adv">adv.
-                            <persName>Graham</persName></seg></ref>: <seg type="dMeeting"
+                                    <persName ref="/people/GRA06.html">Graham</persName></seg></ref>: <seg type="dMeeting"
                             subtype="M">meet <persName>Black</persName></seg>. <ref type="dWrote"
                             subtype="letter">Write to <persName>E of <placeName type="venue"
                                     >Ashburnham</placeName></persName></ref>.</ab>
@@ -2110,7 +2110,7 @@
                                     ref="/people/LAN07.html">C Landseer</persName>, <persName
                                     ref="/people/KEN01.html">Kenney</persName> &amp; <persName
                                     ref="/people/HOL17.html">T Ht</persName></seg></seg>. <seg
-                            type="dMeeting" subtype="CG"><persName>Graham, Edin<placeName
+                                        type="dMeeting" subtype="CG"><persName>Graham, Edin<placeName
                                     type="venue"/></persName>, calls</seg>.</ab>
                     <ab type="dDay" xml:id="g1824-08-13"><date when="1824-08-13">13. F.</date><ref
                             type="dText" subtype="read" target="/bibl/te2615.html">Vane, Healing

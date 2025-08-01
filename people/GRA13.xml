@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="GRA13" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>NAME</forename>
+                        <surname>Grave</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>DNB Graves family (per c 1812-1892). The two earlier generations of this
+                            family mentioned in the DNB article in fact spelt their name without an
+                            s. Robert Grave will PCC 5.7.1802 dated 17.3.1802 of 1 Catherine st
+                            Strand mentioned his sons Robert and Thomas, Robert Grave will LCC 1826
+                            mentioned his wife Elizabeth, his sons Robert (engraver), Francis,
+                            Henry, Edmund and Arthur, his daus Sarah, Elizabeth and Louisa Augusta, his
+                            brother in law John Shaw of 43 Tottenham Ct Rd leather breeches maker,,
+                            his sisters-in-law Ann wife of Joseph Cuxon, and Mrs Cameron, also Mrs Ann
+                            Pearkins nd Mr Edward Larkins, his print cases and his picture by
+                            Hoppner. He died 2.9.1825 of 40 Frederick Pl, Hampstead Rd, St Pancras.
+                            Maxted gives the address Tottenham Ct Rd for 1798 and Catherine St for
+                            1801. The entry about Zoust on 7.9.1809 referred to the 17th century
+                            engraver Gerard de Zoest or de Zoust whose head of Shakespeare was
+                            well-known, all the names mentioned are printsellers' shops The entry
+                            for 24.1.1809 might possibly have referred to the death of Sir John
+                            Moore at Corunna the previous week, whom Godwin had known and whose
+                            grave became something of an issue. He had been buried at Corunna at his
+                            own request but there was strong feeling that he should have some
+                            memorial in England On the front of book XV of Godwin's diary (which
+                            began 22.1.1809) he wrote in a list of names W Graves 18 Walbrook. The
+                            names were clearly friends of Aaron Burr (1756-1836 American national
+                            Biography Online) who was in England at the time and frequently visited
+                            Godwin. This was probably the Graves whom Godwin noted six times between
+                            25.4.1809 and 24.12.1811. A William Graves merchant of Lloyd's
+                            Coffee-house had been declared bankrupt in 1805. A William Graves was a
+                            Kentucky congressman who fought a duel in 1833. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1127,7 +1127,7 @@
                             type="dEvent" subtype="Lect" target="/events/le0017.html"><seg
                                 type="dMeeting" subtype="Do"
                                     ><placeName>Surry-Institution</placeName>;
-                                    <persName>Gray</persName>, <persName>Chandler</persName>, <emph
+                                <persName ref="/people/GRA16.html">Gray</persName>, <persName>Chandler</persName>, <emph
                                     rend="deleted">&amp; </emph><persName>Oldmixon</persName> &amp;
                                     <persName>Kennet</persName></seg></ref>: <seg type="dMeal"
                             subtype="DG"><persName ref="/people/ELW01.html">S E</persName> dines;

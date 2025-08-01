@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="GRE11" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Abraham</forename>
+                        <surname>Gregson</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Ed Pope Notes: According to the Surman Index an A Gregson studied at
+                            Hoxton from 1773 and his career began at Highgate 1778, according to the
+                            Dissenting Academies Database the Presbyterian Fund Board paid £12 for
+                            Abraham Gregson at Hoxton to Midsummer 1778. Abraham Gregson was buried
+                            at Bunhill Fields 11.3.1779. Moses Gregson was minister at Rothwell
+                            Northants 148-88 his will PCC 1789. Abraham Gregson son of Moses was
+                            baptised at Rowell Nothants 1753. It may be that Gregson was added to
+                            the 1796 list because the Gregson at Chandler's in 1797 had jogged his
+                            memory. In Godwin's autobiographical notes (Bodleian microfilm Duke MF
+                            75) he wrote "Hoxton second course of misery Gregson GCMorgan Walters L
+                            Brown Heap Marshal" and on a later line "tormenting scene of Gregson -
+                            write Falkland". The Surman Index has William Walters Hoxton 1773, John
+                            Heap Hoxton (no date), has no L Brown, and for James Marshall has Hoxton
+                            (no date), career Yeovil Somerset 1778-1781. Heap may have been the son
+                            of John Heap dissenting minister of Chichester Sussex will PCC 1792 </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -3690,7 +3690,7 @@
                                     >Broomhead</placeName></persName></seg> &amp; <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/NIC01.html"
                                 >Nicholson</persName>; <seg type="dMeeting" subtype="Adv">adv.
-                                    <persName>Gummer</persName></seg></seg>: sleep at
+                                    <persName ref="/people/GUM01.html">Gummer</persName></seg></seg>: sleep at
                             <placeName>Baldock</placeName>. <ref type="dEvent" subtype="Accts">£262.
                                 <emph rend="small">Ht.</emph></ref></ab>
                     <ab type="dDay" subtype="NotLon" xml:id="g1801-12-12"><date when="1801-12-12"

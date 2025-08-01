@@ -191,7 +191,7 @@
                             target="/bibl/te0276.html">Pol. Justice, 13 pages</ref>. <seg
                             type="dMeeting" subtype="C">Call on <persName ref="/people/HOL01.html"
                                     ><placeName type="venue">Holcroft</placeName></persName></seg>
-                        &amp; <seg type="dMeeting" subtype="C"><persName><placeName type="venue"
+                        &amp; <seg type="dMeeting" subtype="C"><persName ref="/people/GRA18.html"><placeName type="venue"
                                     >Gray</placeName></persName></seg>. <emph rend="red"><ref
                                 type="dEvent" subtype="Publ" target="/events/pu0056.html"> Appeal,
                                 283 Death, 366 to 321</ref></emph></ab>
@@ -697,7 +697,7 @@
                                 >insurrections</seg></ref>, <seg type="dMeeting" subtype="See">see
                                 <persName ref="/people/MAC01.html">M<hi rend="sup"
                                 >c</hi>intosh</persName></seg> &amp;<seg type="dMeeting"
-                            subtype="See"><persName>Gray</persName></seg>.</ab>
+                                    subtype="See"><persName ref="/people/GRA18.html">Gray</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1793-03-05"><date when="1793-03-05">5. Tu. </date><ref
                             type="dWrote" subtype="write" target="/works/warf01.html">Write 7
                             pages</ref>. <ref type="dText" subtype="read" target="/bibl/te0297.html"
@@ -2757,7 +2757,7 @@
                                 ref="/people/HOL01.html"><placeName type="venue"
                                     >Holcrofts</placeName></persName>, with <persName
                                 ref="/people/PER01.html">Perry</persName>,
-                            <persName>Gray</persName>, <persName ref="/people/SHI01.html"
+                            <persName ref="/people/GRA18.html">Gray</persName>, <persName ref="/people/SHI01.html"
                                 >Shield</persName>, <persName ref="/people/COL08.html"
                                 >Cole</persName>;<seg type="dMeeting" subtype="Adv"> adv. <persName
                                     ref="/people/JAR01.html">Jardine</persName></seg></seg></ab>
@@ -2854,7 +2854,7 @@
                                     type="venue">Shield’s</placeName></persName>, w. <persName
                                 ref="/people/HOL01.html">Holcroft</persName>,<persName
                                 ref="/people/PER01.html"> Perry</persName>,
-                                <persName>Gray</persName> &amp;
+                                <persName ref="/people/GRA18.html">Gray</persName> &amp;
                                 <persName ref="/people/GOR02.html">Gordon</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1793-09-30"><date when="1793-09-30">30. M.</date><ref
                             type="dWrote" subtype="write" target="/works/cale01.html">Write p. 67,
@@ -3365,7 +3365,7 @@
                             455</ref>: <ref type="dText" subtype="read" target="/bibl/te0433.html"
                             >Bentham, p. 195</ref>: <ref type="dText" subtype="read"
                             target="/bibl/te0434.html">Gallery of Portraits, 50 pp</ref>.<seg
-                            type="dMeeting" subtype="C"> Call on <persName><placeName type="venue"
+                                type="dMeeting" subtype="C"> Call on <persName ref="/people/GRA18.html"><placeName type="venue"
                                     >Gray</placeName></persName></seg>; <seg type="dMeeting"
                             subtype="C"><persName ref="/people/POR01.html"><placeName type="venue"
                                     >Porson</placeName></persName>, talk of <seg type="dTopic"

@@ -296,7 +296,7 @@
                                 ref="/people/SMA01.html">Smart</persName> calls</seg>: <seg
                             type="dMeeting" subtype="C">call on <persName><placeName type="venue"
                                     >Ramsbottom</placeName></persName></seg>, <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                        subtype="C"><persName ref="/people/GRO04.html"><placeName type="venue"
                                 >Grosvenor</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName ref="/people/TIP02.html"><placeName type="venue"
                                     >Tipper</placeName></persName></seg> &amp; <seg type="dMeeting"
@@ -476,7 +476,7 @@
                                 >195</seg>)</ref>. <seg type="dMeeting" subtype="C">Call on
                                 <persName ref="/people/MIL02.html"><placeName type="venue"
                                     >Mills</placeName></persName></seg>, <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                        subtype="C"><persName ref="/people/GRA11.html"><placeName type="venue"
                                 >Gravel</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName ref="/people/RAI02.html"><placeName type="venue"
                                     >Raine</placeName></persName></seg>, <seg type="dMeeting"
@@ -796,7 +796,7 @@
                     <ab type="dDay" xml:id="g1810-03-10"><date when="1810-03-10">10. Sa.</date><seg
                             type="dMeeting" subtype="CG"><persName ref="/people/WHI01.html">J
                                 White</persName> calls</seg>: <seg type="dMeeting" subtype="C">call
-                            on <persName><placeName type="venue">Griffith,
+                                    on <persName ref="/people/GRI03.html"><placeName type="venue">Griffith,
                                 apothecary</placeName></persName></seg>, &amp; <seg type="dMeeting"
                             subtype="C"><persName ref="/people/ROU02.html"><placeName type="venue"
                                     >Rouffigny</placeName></persName></seg>.</ab>

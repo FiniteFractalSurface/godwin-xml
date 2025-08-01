@@ -2805,7 +2805,7 @@
                         G</persName></ref>. <ref type="dText" subtype="read"
                      target="/bibl/te0994.html">Arnot's Journal</ref>.<seg type="dMeal" subtype="S">
                      Sup at <persName ref="/people/NIC01.html"><placeName type="venue"
-                           >Nicholson's</placeName></persName>, w.<persName> mrs
+                           >Nicholson's</placeName></persName>, w.<persName ref="/people/GRA15.html"> mrs
                      Gray</persName></seg>. <ref type="dText" subtype="read"
                      target="/bibl/te0783.html">Letters of M W G</ref>.</ab>
                <ab type="dDay" xml:id="g1799-09-16"><date when="1799-09-16">16. M.</date><ref
@@ -3308,7 +3308,7 @@
                      48/2</ref>. <ref type="dText" subtype="read" target="/bibl/te0779.html">Bruce,
                      p. 744</ref>. <seg type="dMeeting" subtype="C">Call on <persName><placeName
                            type="venue"> Cox </placeName></persName></seg> &amp; <seg
-                     type="dMeeting" subtype="Cn"><persName><placeName type="venue"
+                              type="dMeeting" subtype="Cn"><persName ref="/people/GRE09.html"><placeName type="venue"
                            >Greenwood</placeName></persName>, w. <persName ref="/people/FEN01.html"
                         >Fenwick</persName></seg>: <seg type="dMeeting" subtype="M">meet <persName
                         ref="/people/BAR03.html">col. Barry</persName></seg>.</ab>

@@ -129,14 +129,14 @@
                            Godwin's</placeName></persName></seg>. <seg type="dMeal" subtype="TG"><persName ref="/people/HOL09|HOL10.html">Miss Holcrofts</persName> at
                      tea</seg>.</ab>
                     <ab type="dDay" xml:id="g1792-02-02"><date when="1792-02-02">2. Th.</date><ref type="dEvent" subtype="PersHlth" target="/events/he0000.html">Severe cold &amp;
-                     fever</ref>. <seg type="dMeeting" subtype="Cn">Call on <persName><placeName type="venue">Gray</placeName></persName>, with <persName ref="/people/HOL01.html">Holcroft</persName></seg>. <ref type="dEntertainment" subtype="Theat" target="/plays/magi01.html"><placeName type="CG"/>See the Magician</ref>.</ab>
+                            fever</ref>. <seg type="dMeeting" subtype="Cn">Call on <persName ref="/people/GRA18.html"><placeName type="venue">Gray</placeName></persName>, with <persName ref="/people/HOL01.html">Holcroft</persName></seg>. <ref type="dEntertainment" subtype="Theat" target="/plays/magi01.html"><placeName type="CG"/>See the Magician</ref>.</ab>
                     <ab type="dDay" xml:id="g1792-02-03"><date when="1792-02-03">3. F.</date><ref type="dText" subtype="read" target="/bibl/te0091.html">Read Mirabeau, 60
                      pages</ref>; <ref type="dWrote" subtype="corr" target="/works/genl01.html">Correct <persName>Tom's</persName> translation of Genlis</ref>. <seg type="dMeal" subtype="TG"><persName ref="/people/HOL01.html">Holcroft</persName> at tea</seg>; <seg type="dMeeting" subtype="Cn">call
                      with <persName ref="/people/HOL01.html">him</persName> on <persName ref="/people/DAV02.html"><placeName type="venue">Davis</placeName></persName></seg>, &amp; <seg type="dMeeting" subtype="Cn"><persName ref="/people/FEN01.html" type="nah"><placeName type="venue">Fenwick</placeName></persName> nah</seg>.</ab>
                     <ab type="dDay" xml:id="g1792-02-04"><date when="1792-02-04">4. Sa.</date><ref type="dText" subtype="read" target="/bibl/te0091.html">Read Mirabeau, 42
                      pages</ref>. <seg type="dMeal" subtype="D">Dine at <persName ref="/people/SHI01.html"><placeName type="venue">Shield's</placeName></persName>, with <persName ref="/people/CRO01.html">Crosdil</persName>, <persName ref="/people/HOL01.html">Holcroft</persName>,
                         <persName ref="/people/PER01.html">Perry</persName>,
-                        <persName>Gray</persName> &amp; <persName>Hey</persName></seg>.</ab>
+                         <persName ref="/people/GRA18.html">Gray</persName> &amp; <persName>Hey</persName></seg>.</ab>
                     <pb n="e.199_0012r"/>
                     <ab type="dDay" xml:id="g1792-02-05"><date when="1792-02-05">Feb. 5. Su.</date><ref type="dText" subtype="read" target="/bibl/te0091.html">Mirabeau, 20
                   pages</ref>. <seg type="dMeeting" subtype="CG"><persName ref="/people/DYS01.html">Dyson</persName> calls, talk of <persName ref="/people/GOD04.html"><seg type="dTopic">miss Godwin</seg></persName></seg>. <seg type="dMeal" subtype="D">Dine at <persName ref="/people/NIC01.html"><placeName type="venue">Nicholson's</placeName></persName>, with <persName ref="/people/HOL01.html">Holcroft</persName></seg>.</ab>
@@ -193,7 +193,7 @@
                     <pb n="e.199_0013r"/>
                     <ab type="dDay" xml:id="g1792-02-19"><date when="1792-02-19">Feb. 19. Su.</date><seg type="dMeeting" subtype="CG"><persName ref="/people/DYS01.html">Dyson</persName> calls, talk of <seg type="dTopic">Anna St
                   Ives</seg></seg>. <seg type="dMeal" subtype="D">Dine <persName ref="/people/HOL01.html"><placeName type="venue">Holcroft's</placeName></persName>, with <persName ref="/people/CRO01.html">Crosdil</persName>, <persName ref="/people/SHI01.html">Shield</persName>,
-                        <persName ref="/people/NIC01.html">Nicholson</persName>, <persName ref="/people/PER01.html">Perry</persName>, <persName>Gray</persName>,
+                      <persName ref="/people/NIC01.html">Nicholson</persName>, <persName ref="/people/PER01.html">Perry</persName>, <persName ref="/people/GRA18.html">Gray</persName>,
                       <persName ref="/people/GOR02.html">Gordon</persName>, <persName>Bicknel</persName> &amp; <persName ref="/people/FEN01.html">Fenwick</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1792-02-20"><date when="1792-02-20">20. M.</date><ref type="dEntertainment" subtype="Theat" target="/plays/road01.html"><placeName type="CG"/>Caffé, Road to Ruin</ref>: <ref type="dText" subtype="read" target="/bibl/te0096.html">Read the West Indian</ref>.</ab>
                     <ab type="dDay" xml:id="g1792-02-21"><date when="1792-02-21">21. Tu.</date><seg type="dMeeting" subtype="C">Call on <persName><placeName type="venue">Jacob</placeName></persName>, talk of <seg type="dTopic">Paine, Pt

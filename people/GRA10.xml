@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="GRA10" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename/>
+                        <surname>Grant</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1801"/>
+                    <occupation>Printer</occupation>
+                    <note type="editorial">
+                        <p>Ed Pope comments: Perhaps the 1794
+                            Grant Alexander Grant was dismissed from his function as an honorary
+                            member of the SCI representing the LCS because he refused to give up
+                            manuscript of the bill of Carter the bill-sticker (Trials for Treason and
+                            Sedition). Alexander Grant printer Wardour St Soho 1794 list of
+                            witnesses in treason trials. Bankrupt 1.8.1795, died May 1801 (Maxted).
+                            Identified as the Grant at Palmer's.</p><p>Another possibility is: James Grant LL D Rector of St Leonards Shoreditch
+                            (Literary Memoirs of Living Authors p 222) supposed to have been
+                            concerned in conducting the English Review. Published sermon 1774 vicar
+                            of Kempston Beds, Lecturer of St Leonards Shoreditch. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

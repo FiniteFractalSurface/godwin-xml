@@ -3487,7 +3487,7 @@
                             76</ref>. <seg type="dMeeting" subtype="C">Call on <persName type="nah"
                                     ><placeName type="venue">Seabrook</placeName></persName><hi
                                 rend="sup">n</hi></seg>, <seg type="dMeeting" subtype="C"
-                                    ><persName><placeName type="venue"
+                                    ><persName ref="/people/GRA12.html"><placeName type="venue"
                             >Graves</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName ref="/people/LON01.html"><placeName type="venue"
                                     >Longdil</placeName></persName></seg>: <seg type="dMeeting"
@@ -3508,7 +3508,7 @@
                                 type="dMeeting" subtype="Cn">Call on <persName  ref="/people/GAT02.html"><placeName
                                         type="venue">Gatty</placeName></persName>, w. <persName
                                     ref="/people/CLA02.html">C C</persName> (indenture)</seg></ref>:
-                            <seg type="dMeeting" subtype="CG"><persName type="nah"
+                        <seg type="dMeeting" subtype="CG"><persName type="nah" ref="/people/GRA12.html"
                                 >Graves</persName><hi rend="sup">n</hi></seg>, <seg type="dMeeting"
                             subtype="CG"><persName>Elsten</persName></seg> &amp; <seg
                             type="dMeeting" subtype="CG"><persName>M Smith</persName> call</seg>:
@@ -3734,7 +3734,7 @@
                             target="/bibl/te1931.html">Granada, p. 326</ref>. <seg type="dMeal"
                             subtype="DG"><persName ref="/people/BUR01.html">Burr</persName>,
                                 <persName ref="/people/CUR02.html">A Curran</persName>,
-                                <persName>Biggs</persName> &amp; <persName>Graves</persName>
+                                <persName>Biggs</persName> &amp; <persName ref="/people/GRA12.html">Graves</persName>
                             dine</seg>. <seg type="dMeeting" subtype="CG"><persName
                                 ref="/people/TUR01.html">T T</persName></seg> &amp; <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/TAY06|TAY09.html">R
@@ -4222,7 +4222,7 @@
                             of Moors, p. 145</ref>: <ref type="dText" subtype="read"
                             target="/bibl/te1941.html">H. de Qualité, p. 103</ref>. <seg
                                 type="dMeeting" subtype="CG"><persName ref="/people/FAU01.html">Faulder</persName></seg> &amp;
-                            <seg type="dMeeting" subtype="CG"><persName>Graves</persName>
+                        <seg type="dMeeting" subtype="CG"><persName ref="/people/GRA12.html">Graves</persName>
                         call</seg>.</ab>
                     <ab type="dDay" xml:id="g1811-12-25"><date when="1811-12-25">25. W.</date><ref
                             type="dText" subtype="read" target="/bibl/te1943.html">Bourke, p.

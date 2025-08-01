@@ -1196,7 +1196,7 @@
                      type="dWrote" subtype="revised" target="/works/poli01.html">Revise P J</ref>.
                      <seg type="dMeal" subtype="D">Dine at <persName ref="/people/JOH01.html"
                            ><placeName type="venue">Johnson's</placeName></persName>, w. <persName
-                        ref="/people/FUS01.html">Fuseli</persName>, <persName>Grignion</persName>,
+                              ref="/people/FUS01.html">Fuseli</persName>, <persName ref="/people/GRI05.html">Grignion</persName>,
                         <persName ref="/people/BLA02.html">Blake</persName>, <persName>D<hi
                            rend="sup">r</hi> Anderson</persName> &amp; <persName
                         ref="/people/AIK04.html">A Aikin</persName></seg>: <seg type="dMeal"
@@ -1535,7 +1535,7 @@
                            G</placeName></persName></seg>: <seg type="dMeal" subtype="D">dine at
                            <persName><placeName type="venue">Wilton's</placeName></persName>, w.
                         <persName ref="/people/WOL01.html">Wt</persName>, <persName
-                        ref="/people/HOL01.html">Hts</persName>, <persName>Grays</persName> &amp;
+                           ref="/people/HOL01.html">Hts</persName>, <persName ref="/people/GRA19.html" >Grays</persName> &amp;
                         <persName>Barnes</persName>; <seg type="dMeeting" subtype="Adv">adv.
                            <persName ref="/people/COL08.html">Cole</persName></seg></seg>.</ab>
                <ab type="dDay" xml:id="g1797-05-02"><date when="1797-05-02">2. Tu.</date><ref
@@ -2068,7 +2068,7 @@
                <ab type="dDay" subtype="NotLon" xml:id="g1797-06-19"><date when="1797-06-19">19. M.
                      </date><seg type="dMeal" subtype="B">Breakfast at <persName><placeName
                            type="venue">Otter's</placeName></persName></seg>:<seg type="dMeal"
-                     subtype="D"> dine at <placeName><persName>Gunning's</persName>,
+                              subtype="D"> dine at <placeName><persName ref="/people/GUN01.html">Gunning's</persName>,
                         Ickelton</placeName></seg>: sleep at
                   <placeName>Sabridgeworth</placeName>.</ab>
                <ab type="dDay" subtype="NotLon" xml:id="g1797-06-20"><date when="1797-06-20">20.
@@ -3757,7 +3757,7 @@
                         ref="/people/CHA01.html"><placeName type="venue"
                         >Chandler's</placeName></persName>, w. <persName ref="/people/NOR01.html"
                         >Northcote</persName>, <persName ref="/people/PHI02.html">Philips</persName>
-                     &amp; <persName>Gregson</persName></seg>: <seg type="dMeeting" subtype="C">call
+                        &amp; <persNameref="/people/GRE11.html">Gregson</persName></seg>: <seg type="dMeeting" subtype="C">call
                         on<persName ref="/people/BAT01.html"> Batty</persName></seg>.</ab>
                <ab type="dDay" xml:id="g1797-12-19"><date when="1797-12-19">19. Tu. </date><ref
                      type="dText" subtype="read" target="/bibl/te0803.html">Love Triumphant, acts 1,

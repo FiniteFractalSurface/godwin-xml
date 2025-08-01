@@ -3002,7 +3002,7 @@
                                 ref="/people/DAV04.html">Davy</persName>, <persName
                                 ref="/people/COZ01.html">Cozens</persName> &amp; <persName
                                 ref="/people/THE01.html">Thelwal</persName></seg>: <seg type="dMeal"
-                            subtype="DG"><persName>Gunning</persName> dines</seg>: <seg type="dMeal"
+                                    subtype="DG"><persName ref="/people/GUN01.html">Gunning</persName> dines</seg>: <seg type="dMeal"
                             subtype="S">sup at <persName ref="/people/TAY02|TAY04.html"><placeName
                                     type="venue">J Taylor's</placeName></persName>, w. <persName
                                 ref="/people/ENF01.html">Enfield</persName>, <persName
@@ -3068,7 +3068,7 @@
                             >13. W.</date><seg type="dMeeting" subtype="See"><persName
                                 ref="/people/MAR07.html">March's</persName>; <persName
                                 ref="/people/NOT01.html">Notcut vdm</persName>,
-                                <persName>Gunning</persName>, <persName ref="/people/DIN02.html"
+                                <persName ref="/people/GUN01.html">Gunning</persName>, <persName ref="/people/DIN02.html"
                                 >Dinmore</persName>, &amp;c</seg>: <seg type="dMeal" subtype="D"
                             >dine at <placeName>Sewel</placeName>, w. <persName
                                 ref="/people/FLO01.html">Flower</persName> &amp;
@@ -4355,7 +4355,7 @@
                         <p rend="centered">1773</p>
                         <p>Jocelyn, Jacob, F Webb, <persName ref="/people/REE02.html"
                                 >Rees</persName>, <persName ref="/people/KIP01.html"
-                                >Kippis</persName>, Morgan, <emph rend="small">Gregson 1774
+                                    >Kippis</persName>, Morgan, <emph rend="small"><persName ref="/people/GRE11.html">Gregson</persName> 1774
                                 Evans</emph></p>
                         <p rend="centered">1777</p>
                         <p>Howe, Tho. Rogers, Price</p>
@@ -4421,7 +4421,7 @@
                                 ref="/people/LOF01.html">Lofft</persName>, Wodhul, <persName
                                 ref="/people/ROM01.html">Romilly</persName>, Mellish, <persName
                                 ref="/people/SHO01.html">Shore</persName>, Tho Warton, </p>
-                        <p>baron Fox, <emph rend="deleted">Marchetti,</emph> Grose, <persName
+                        <p>baron Fox, <emph rend="deleted">Marchetti,</emph> <persName ref="/people/GRO02.html">Grose,</persName> <persName
                                 ref="/people/MOU01.html">Mouradgea</persName>, <persName
                                 ref="/people/CLE01.html">Clementi</persName>, <persName
                                 ref="/people/RAI01.html">Raikes</persName>, <persName

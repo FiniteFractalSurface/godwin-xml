@@ -2481,7 +2481,7 @@
                             type="dMeal" subtype="S">sup at <persName ref="/people/PHI01.html"
                                     ><placeName type="venue">Philips's</placeName></persName>, w.
                                 <persName ref="/people/SUR01.html">Surrs</persName> &amp;
-                                <persName>mrs Griffiths</persName></seg>.</ab>
+                                    <persName ref="/people/GRI04.html">mrs Griffiths</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1802-08-09"><date when="1802-08-09">9. M.</date><ref
                             type="dText" subtype="cala" target="/bibl/te1328.html">Percy,
                         çala</ref>. <seg type="dMeeting" subtype="C">Call on <persName
@@ -2497,7 +2497,7 @@
                             type="dWrote" subtype="write" target="/works/chau01.html">Chaucer, 1 1/2
                             pages</ref>. <ref type="dWrote" subtype="revised"
                             target="/works/pens01.html">Voltaire, revise</ref>. <seg type="dMeeting"
-                            subtype="C">Call on <persName><placeName type="venue"
+                                subtype="C">Call on <persName ref="/people/GRA14.html" ><placeName type="venue"
                                 >Gray</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName ref="/people/PLA01.html" type="nah"><placeName
                                     type="venue">Planta</placeName></persName><hi rend="sup"
@@ -3994,7 +3994,7 @@
                                 ref="/people/COM01.html">Combe</persName></seg>, <seg
                             type="dMeeting" subtype="CG"><persName>M<hi rend="sup">rs</hi>
                                 Napier</persName></seg>, <seg type="dMeeting" subtype="CG"
-                                ><persName>Miss Green</persName></seg> &amp; <seg type="dMeeting"
+                                    ><persName ref="/people/GRE07.html">Miss Green</persName></seg> &amp; <seg type="dMeeting"
                             subtype="CG"><persName ref="/people/GOD09.html">J J Godwin</persName>
                             call</seg>: <seg type="dMeal" subtype="DG"><persName
                                 ref="/people/MAR01.html">M</persName> dines</seg>: <seg

@@ -2746,7 +2746,7 @@
                             type="dMeeting" subtype="C">Call on <persName ref="/people/ELL03.html"
                                     ><placeName type="venue">Ellis, British
                                 Museum</placeName></persName>; <seg type="dMeeting" subtype="Adv"
-                                >adv. <persName>Gray</persName></seg></seg>: <seg type="dMeal"
+                                    >adv. <persName ref="/people/GRA14.html">Gray</persName></seg></seg>: <seg type="dMeal"
                             subtype="DG"><persName ref="/people/REY03.html">mrs Reynolds</persName>
                             dines</seg>: <placeName>Tower Royal</placeName>; <seg type="dMeeting"
                             subtype="C">call on <persName ref="/people/HIL05.html" type="nah"
@@ -2861,7 +2861,7 @@
                             >27. Tu.</date><seg type="dMeeting" subtype="C">Call on
                                     <persName><placeName type="venue">mrs
                                 Munnings</placeName></persName></seg> &amp; <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue">mrs
+                                    subtype="C"><persName ref="/people/GRI07.html"><placeName type="venue">mrs
                                 Grimsby</placeName></persName></seg>: ride to
                             <placeName>Finsborough</placeName>: walk to <placeName>Combes
                             Wood</placeName>.</ab>
