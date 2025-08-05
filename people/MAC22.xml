@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EB</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name>Elliot Buck</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="MAC22" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Charles</forename>
+                        <surname>Maclean</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="0000-00-00">
+                        <placeName/>
+                    </birth>
+                    <death when="1824"/>
+                    <occupation>Medical Officer, Medical Sceptic</occupation>
+                    <note type="editorial">
+                        <p>Charles Maclean was a Scottish medical officer stationed with the East
+                            India Company from 1788 on ships, before being stationed on the
+                            continent. However, his sceptical views on vaccination and quarantine
+                            resulted in regular dismissal from the different positions he held
+                            throughout his career. He published works discrediting the effectivness
+                            of vaccination and quarantine as goernment policy, such as 'On the State
+                            of Vaccnination in 1810' and 'Practical Illusions of the Progress of
+                            Medical Improvement'. References to him in the diaries coincide with a
+                            period in which his travel to Spain was disrupted as a result of the
+                            ongoing war. Godwin does not record his death in 1824</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="other">
+                        <title>DNB, Ed Pope</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
