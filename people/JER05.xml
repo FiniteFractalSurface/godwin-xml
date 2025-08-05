@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Person List</title>
+            <respStmt>
+               <resp>Researched by</resp>
+               <name>EP and SI</name>
+               <resp>Encoded by</resp>
+               <name>SI</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Generated Data</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JER05" sex="1">
+               <persName>
+                  <forename>Thomas</forename>
+                  <surname>Jervis</surname>
+               </persName>
+               <birth when="1748-01-13"></birth>
+               <death when="1833-08-31"></death>
+               <occupation>Unitarian Minister</occupation>
+               <occupation>Author</occupation>
+               <note type="editorial">
+                  <p>Thomas Jervis DNB 1748-1833</p>
+                  <p>Godwin encounters both Tho. Jervis and Sw. Jervis in the early 1800s. Ed Pope suggests Thomas Jervis for most of the encounters with a 'Jervis' and identifies <persName key ="JER06">Swynfen Jervis</persName>  for the 7/1/1802 entry. Following this, and in keeping with the fact that many of the more ambigious entries are with a group of Unitarian figures, all unspecified entries for Jervis between 1798 and 1813 have coded to Thomas Jervis.</p>
+               </note>
+               <bibl type="website">Ed Pope History (26/02/2013)</bibl>
+               <bibl type="other">DNB</bibl>
+            </person>
+         </listPerson>
+      </body>   
+   </text>   
+</TEI>
