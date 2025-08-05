@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Person List</title>
+            <respStmt>
+               <resp>Researched by</resp>
+               <name>EP and SI</name>
+               <resp>Encoded by</resp>
+               <name>SI</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Generated Data</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+   <body>
+   <listPerson>
+      <person xml:id="LEO02" sex="1">
+         <persName>
+            <forename>John</forename>
+            <surname>Leopard</surname>
+         </persName>
+         <birth when="1759"></birth>
+         <death when="1823"></death>
+         <occupation></occupation>
+         <note type="editorial">
+            <p>In her will, <persName key="ELW01">Sarah Elwes</persName>mentions Mr John and Mrs Amelia Leopard of High Row Knightsbridge, with John being made an executor. Godwin initially records meeting Leopard at dinner at Sarah Elwes’ in 1812, and then sees him at Elwes’ funeral in January 1818. As Elwes’ executor, Leopard’s meetings with Godwin following this were likely to do with her will, in which she left items to both Godwin and his wife Mary Jane.</p>
+         </note>
+         <bibl type="website">Ed Pope History (01/08/2018)</bibl>
+      </person>
+   </listPerson>
+   </body>
+   </text>
+</TEI>
