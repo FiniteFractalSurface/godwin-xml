@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Person List</title>
+            <respStmt>
+               <resp>Researched by</resp>
+               <name>EP</name>
+               <resp>Encoded by</resp>
+               <name>SI</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Generated Data</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+   <body>
+   <listPerson>
+      <person xml:id="HUT02" sex="1">
+         <persName>
+            <forename>Emanuel</forename>
+            <surname>Hutchins</surname>
+         </persName>
+         <birth when="1769"></birth>
+         <death when="1839-11-22"></death>
+         <occupation>Lawyer</occupation>
+         <note type="editorial">
+            <p>The eldest son of Thomas and Elinor Hutchins, Emanuel was born in County Cork, Ireland but moved to London in the early 1800s, with letters from 1804 showing various London addresses. He had a political background and was an early member of a political club at Trinity College, Dublin following his graduation in 1790. He was called to the Irish Bar in 1792 and then moved to Lincoln’s Inn.</p>
+            <p>He appears frequently with <persName key="CUR01">John Curran</persName>, another Irish lawyer, and Godwin often sees Hutchins when visiting Curran. Emanuel Hutchins’ younger sister, Ellan Hutchins, is generally considered to be Ireland’s first female botanist.</p>
+         </note>
+         <bibl type="website">Ed Pope History (13/11/2013)</bibl>
+         <bibl type="website">www.ellenhutchins.com</bibl>
+      </person>
+   </listPerson>
+   </body>
+   </text>
+</TEI>
