@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name>TV</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="DAR03" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Robert Waring</forename>
+                        <surname>Darwin</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1766">
+                        <placeName/>
+                    </birth>
+                    <death when="1848"/>
+                    <occupation>doctor</occupation>
+                    <note type="editorial">
+                        <p>Robert Warinn Darwin's place of residence, as recorded in his son's DNB, lines up with where Godwin was staying at the time.</p>
+                    </note>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
