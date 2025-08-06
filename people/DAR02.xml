@@ -5,8 +5,12 @@
             <titleStmt>
                 <title>Person List</title>
                 <respStmt>
-                    <resp>EP</resp>
-                    <name/>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name>TV</name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -33,7 +37,7 @@
                     <death when="1832"/>
                     <occupation></occupation>
                     <note type="editorial">
-                        <p>  </p>
+                        <p>Erasmus Darwin DNB 1731-1802 married 2ndly Mrs Elizabeth Pole 1747-1832 illegitimate daughter to the Earl of Portmore.</p>
                     </note>
                     <bibl type="other">
                         <title>DNB</title>

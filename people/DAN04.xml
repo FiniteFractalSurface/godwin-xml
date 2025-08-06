@@ -5,8 +5,12 @@
             <titleStmt>
                 <title>Person List</title>
                 <respStmt>
-                    <resp>EP</resp>
-                    <name/>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name>TV</name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -31,9 +35,12 @@
                         <placeName/>
                     </birth>
                     <death when="1819"/>
-                    <occupation>Bookseller</occupation>
+                    <occupation>bookseller</occupation>
                     <note type="editorial">
-                        <p>  </p>
+                        <p>Thomas Dangerfield will PCC 1819 bookseller, stationer and circulating library of Berkeley Sq from 1785.</p>
+                    <bibl type="other">
+                        <title>PCC</title>
+                    </bibl>
                     </note>
                 </person>
             </listPerson>

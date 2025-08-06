@@ -5,8 +5,12 @@
             <titleStmt>
                 <title>Person List</title>
                 <respStmt>
-                    <resp>EP</resp>
-                    <name/>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name>TV</name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -31,10 +35,11 @@
                         <placeName/>
                     </birth>
                     <death when="1817-02-10"/>
-                    <occupation>Baron</occupation>
-                    <occupation>Bishop</occupation>
+                    <occupation>baron</occupation>
+                    <occupation>bishop</occupation>
                     <note type="editorial">
-                        <p>  </p>
+                        <p>Co-adjutor of Mentz &amp; Worms along with Prince Bishop of Constanz, was appointed by German diet in Nov 1794 to negotiate armistice with France, said in August 1796 to be at Geneva and in March 1798 at Vienna, hoping to become Archbishop of Vienna (British newspapers).</p>
+                        <p>1744 -1817 (Deutsche Biographisch Enzyklopade) Archbishop of Mainz, of Regensburg, Grand Duke of Frankfurt 1810-13 under Napoleon. Doesn't mention his English visit but says he was friends with Goethe, Schiller &amp; c</p>
                     </note>
                 </person>
             </listPerson>
