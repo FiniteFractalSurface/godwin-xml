@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- FILE LEFT INTENTIONALLY BLANK. THIS IS BECAUSE DAR02.HTML EXISTS AND IS REFERENCED IN THE 1789 YEAR FILE
-    BUT THERE IS NO ACCOMPANYING XML FILE. -->
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -12,7 +10,7 @@
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by</resp>
-                    <name>ENCODER</name>
+                    <name>TV</name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -26,31 +24,26 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="DAR02" sex="1">
+                <person xml:id="DAR02" sex="2">
                     <persName>
                         <roleName/>
-                        <forename>NAME</forename>
-                        <surname>SURNAME</surname>
+                        <forename>Elizabeth</forename>
+                        <surname>Darwin</surname>
                         <addName/>
                     </persName>
-                    <birth when="1000-01-01">
+                    <birth when="1747">
                         <placeName/>
                     </birth>
-                    <death when="1000-12-31"/>
-                    <occupation>OCCUPATION</occupation>
+                    <death when="1832"/>
+                    <occupation></occupation>
                     <note type="editorial">
-                        <p> </p>
+                        <p>Erasmus Darwin DNB 1731-1802 married 2ndly Mrs Elizabeth Pole 1747-1832 illegitimate daughter to the Earl of Portmore.</p>
                     </note>
-                    <bibl type="MS"> </bibl>
-                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
-                        Publisher, year</bibl>
-                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
                     <bibl type="other">
-                        <title></title>
+                        <title>DNB</title>
                     </bibl>
                 </person>
             </listPerson>
         </body>
     </text>
 </TEI>
-
