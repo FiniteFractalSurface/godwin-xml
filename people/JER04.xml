@@ -17,44 +17,48 @@
          </sourceDesc>
       </fileDesc>
    </teiHeader>
-   <listPerson>
-      <person xml:id="JER04" sex="1">
-         <persName>
-            <forename>Charles</forename>
-            <surname>Jerningham</surname>
-         </persName>
-         <birth when="1805-11-27"></birth>
-         <death when="1854-02-26"></death>
-         <occupation>Barrister</occupation>
-         <note type="editorial">
-            <p>Charles William Edward Jerningham was the son of Edward Jerningham and Emily Middleton. He lived in Painswick, Gloucestershire, though he often spent time in London due to his work as a barrister. In September 1841, he married Emma Mary Wynn Roberts and the pair had 5 children. </p>
-            <p>A surviving letter from <persName xml:id="SHE02">Mary Wollstonecraft Shelley</persName> records her invitation to Charles Jerningham for “a small evening party” on 7 June 1830, which Godwin also attended. Although there are earlier references to a Jerningham before 1812 (coded as the actor and poet <persName xml:id="JER01">Edward Jerningham</persName>) the entries between 1829 and 1831 seem to reference different individual. This later Jerningham, with who Godwin had a closer relationship, is likely to be Charles Jerningham.  </p>
-         </note>
-         <bibl type="website">The Peerage - Person Page 7583</bibl>
-         <bibl type="website">The New York Public Library; Archives and Manuscripts - Mary Wollstonecraft Shelley Manuscript Material</bibl>
-         <ab type="appearancesInDiary" n="1829">
-            <date when="1829-08-12" type="notVenue" n="ah"/>
-            <date when="1829-08-25" type="Venue" n="ah"/>
-            <date when="1829-09-27" type="notVenue" n="ah"/>
-            <date when="1829-09-28" type="Venue" n="nah"/>
-            <date when="1829-10-06" type="notVenue" n="ah"/>
-         </ab>
-         <ab type="appearancesInDiary" n="1830">
-            <date when="1830-01-17" type="notVenue" n="ah"/>
-            <date when="1830-01-18" type="notVenue" n="ah"/>
-            <date when="1830-03-13" type="Venue" n="ah"/>
-            <date when="1830-03-25" type="notVenue" n="ah"/>
-            <date when="1830-06-07" type="notVenue" n="ah"/>
-            <date when="1830-08-13" type="notVenue" n="ah"/>
-         </ab>
-         <ab type="appearancesInDiary" n="1831">
-            <date when="1831-04-04" type="notVenue" n="ah"/>
-            <date when="1831-04-09" type="notVenue" n="ah"/>
-            <date when="1831-04-22" type="Venue" n="nah"/>
-            <date when="1831-11-21" type="notVenue" n="ah"/>
-            <date when="1831-11-25" type="Venue" n="ah"/>
-            <date when="1831-12-02" type="notVenue" n="ah"/>
-         </ab>
-      </person>
-   </listPerson>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="JER04" sex="1">
+               <persName>
+                  <forename>Charles</forename>
+                  <surname>Jerningham</surname>
+               </persName>
+               <birth when="1805-11-27"></birth>
+               <death when="1854-02-26"></death>
+               <occupation>Barrister</occupation>
+               <note type="editorial">
+                  <p>Charles William Edward Jerningham was the son of Edward Jerningham and Emily Middleton. He lived in Painswick, Gloucestershire, though he often spent time in London due to his work as a barrister. In September 1841, he married Emma Mary Wynn Roberts and the pair had 5 children. </p>
+                  <p>A surviving letter from <persName xml:id="SHE02">Mary Wollstonecraft Shelley</persName> records her invitation to Charles Jerningham for “a small evening party” on 7 June 1830, which Godwin also attended. Although there are earlier references to a Jerningham before 1812 (coded as the actor and poet <persName xml:id="JER01">Edward Jerningham</persName>) the entries between 1829 and 1831 seem to reference different individual. This later Jerningham, with who Godwin had a closer relationship, is likely to be Charles Jerningham.  </p>
+               </note>
+               <bibl type="website">The Peerage - Person Page 7583</bibl>
+               <bibl type="website">The New York Public Library; Archives and Manuscripts - Mary Wollstonecraft Shelley Manuscript Material</bibl>
+               <!--<ab type="appearancesInDiary" n="1829">
+                  <date when="1829-08-12" type="notVenue" n="ah"/>
+                  <date when="1829-08-25" type="Venue" n="ah"/>
+                  <date when="1829-09-27" type="notVenue" n="ah"/>
+                  <date when="1829-09-28" type="Venue" n="nah"/>
+                  <date when="1829-10-06" type="notVenue" n="ah"/>
+               </ab>
+               <ab type="appearancesInDiary" n="1830">
+                  <date when="1830-01-17" type="notVenue" n="ah"/>
+                  <date when="1830-01-18" type="notVenue" n="ah"/>
+                  <date when="1830-03-13" type="Venue" n="ah"/>
+                  <date when="1830-03-25" type="notVenue" n="ah"/>
+                  <date when="1830-06-07" type="notVenue" n="ah"/>
+                  <date when="1830-08-13" type="notVenue" n="ah"/>
+               </ab>
+               <ab type="appearancesInDiary" n="1831">
+                  <date when="1831-04-04" type="notVenue" n="ah"/>
+                  <date when="1831-04-09" type="notVenue" n="ah"/>
+                  <date when="1831-04-22" type="Venue" n="nah"/>
+                  <date when="1831-11-21" type="notVenue" n="ah"/>
+                  <date when="1831-11-25" type="Venue" n="ah"/>
+                  <date when="1831-12-02" type="notVenue" n="ah"/>
+               </ab>-->
+            </person>
+         </listPerson>
+      </body>
+   </text>
 </TEI>

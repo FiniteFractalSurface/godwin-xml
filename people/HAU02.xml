@@ -7,6 +7,8 @@
             <respStmt>
                <resp>Researched by</resp>
                <name>EP</name>
+            </respStmt>
+            <respStmt>
                <resp>Encoded by</resp>
                <name>SI</name>
             </respStmt>
@@ -20,25 +22,25 @@
       </fileDesc>
    </teiHeader>
    <text>
-   <body>  
-   <listPerson>
-      <person xml:id="HAU02" sex="1">
-         <persName>
-            <rolename>Sir</rolename>
-            <forename>Graves Chamney</forename>
-            <surname>Haughton</surname>
-         </persName>
-         <birth when="1788"></birth>
-         <death when="1849-08-28"></death>
-         <occupation>Orientalist</occupation>
-         <note type="editorial">
-            <p>Sir Graves Chamney Haughton was an orientalist and honorary secretary of the Royal Asiatic Society, having been a founding member. Haughton was awarded the highest honour of the East India Company, and spent times as a professor in the East India College at Haileybury. He published a number of academic works before his death from cholera whilst in Paris.</p>
-            <p>Ed Pope's entry highlights that the 1827 entry at Aldis's may have referred to a different Haughton. However we lack sufficient contextual data to definitively identify this entry.</p>
-         </note>
-         <bibl type="website">Ed Pope History (03/03/21)</bibl>
-         <bibl type="other">DNB</bibl>
-      </person>
-   </listPerson>
-   </body>
+      <body>
+         <listPerson>
+            <person xml:id="HAU02" sex="1">
+               <persName>
+                  <roleName>Sir</roleName>
+                  <forename>Graves Chamney</forename>
+                  <surname>Haughton</surname>
+               </persName>
+               <birth when="1788"></birth>
+               <death when="1849-08-28"></death>
+               <occupation>Orientalist</occupation>
+               <note type="editorial">
+                  <p>Sir Graves Chamney Haughton was an orientalist and honorary secretary of the Royal Asiatic Society, having been a founding member. Haughton was awarded the highest honour of the East India Company, and spent times as a professor in the East India College at Haileybury. He published a number of academic works before his death from cholera whilst in Paris.</p>
+                  <p>Ed Pope's entry highlights that the 1827 entry at Aldis's may have referred to a different Haughton. However we lack sufficient contextual data to definitively identify this entry.</p>
+               </note>
+               <bibl type="website">Ed Pope History (03/03/21)</bibl>
+               <bibl type="other">DNB</bibl>
+            </person>
+         </listPerson>
+      </body>
    </text>
 </TEI>

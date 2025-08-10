@@ -7,6 +7,8 @@
             <respStmt>
                <resp>Researched by</resp>
                <name>EP</name>
+            </respStmt>
+            <respStmt>
                <resp>Encoded by</resp>
                <name>SI</name>
             </respStmt>
@@ -20,26 +22,26 @@
       </fileDesc>
    </teiHeader>
    <text>
-   <body>
-   <listPerson>
-      <person xml:id="HAD01" sex="1">
-         <persName>
-            <forename>James</forename>
-            <surname>Hadfield</surname>
-         </persName>
-         <birth when="1771"></birth>
-         <death when="1841"></death>
-         <occupation>Soldier</occupation>
-         <occupation>Criminal</occupation>
-         <note type="editorial">
-            <p>James Hadfield (1771/2–1841), suffering from the delusion that the Second Coming of Christ would be precipitated if he were killed by the British government, fired a shot at the King’s Box at Drury Lane theatre. Charges of high treason were dismissed due to a combination of <persName key="ERS01">Thomas Erskine's</persName>defence and clear evidence of head trauma sustained during the Battle of Roubaix in 1794. Hadfield was detained for the rest of his life in Bethlehem Hospital.</p>
-            <p>Godwin included ‘Hadfield, Drury Lane’ in red ink, marking it as a news event.</p>
-         </note>
-         <bibl type="website">Ed Pope History (05/07/2013)</bibl>
-         <bibl type="other">DNB</bibl>
-         <bibl type="newspaper">The Times, 16 May 1800</bibl>
-      </person>
-   </listPerson>
-   </body>
+      <body>
+         <listPerson>
+            <person xml:id="HAD01" sex="1">
+               <persName>
+                  <forename>James</forename>
+                  <surname>Hadfield</surname>
+               </persName>
+               <birth when="1771"></birth>
+               <death when="1841"></death>
+               <occupation>Soldier</occupation>
+               <occupation>Criminal</occupation>
+               <note type="editorial">
+                  <p>James Hadfield (1771/2–1841), suffering from the delusion that the Second Coming of Christ would be precipitated if he were killed by the British government, fired a shot at the King’s Box at Drury Lane theatre. Charges of high treason were dismissed due to a combination of <persName key="ERS01">Thomas Erskine's</persName>defence and clear evidence of head trauma sustained during the Battle of Roubaix in 1794. Hadfield was detained for the rest of his life in Bethlehem Hospital.</p>
+                  <p>Godwin included ‘Hadfield, Drury Lane’ in red ink, marking it as a news event.</p>
+               </note>
+               <bibl type="website">Ed Pope History (05/07/2013)</bibl>
+               <bibl type="other">DNB</bibl>
+               <bibl type="newspaper">The Times, 16 May 1800</bibl>
+            </person>
+         </listPerson>
+      </body>
    </text>
 </TEI>
