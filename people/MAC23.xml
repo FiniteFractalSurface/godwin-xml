@@ -6,11 +6,11 @@
                 <title>Person List</title>
                 <respStmt>
                     <resp>Researched by</resp>
-                    <name>EP</name>
+                    <name>EB</name>
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by</resp>
-                    <name>EB</name>
+                    <name>Elliot Buck</name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -27,25 +27,20 @@
                 <person xml:id="MAC23" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>NAME</forename>
-                        <surname>SURNAME</surname>
+                        <forename>John</forename>
+                        <surname>Macmahon</surname>
                         <addName/>
                     </persName>
-                    <birth when="1000-01-01">
+                    <birth when="1754">
                         <placeName/>
                     </birth>
-                    <death when="1000-12-31"/>
-                    <occupation>OCCUPATION</occupation>
+                    <death when="1817-09-12"</death>/
+                    <occupation>Politician</occupation>
                     <note type="editorial">
-                        <p> </p>
+                        <p>Macmahon is likely the misplelt surname of John McMahon, initially an army ensign in America who went on to lead a career in politics under the Prince Regent. At the height of his military career he was made Lieutenant-Colonel of the 87th Infantry in 1794, before turning to politics where he allied closely with the Prince Regent and was made Vice Chancellor in 1800, MP for Aldeburgh between 1802-1812, and private secretary to the Regency.</p>
                     </note>
                     <bibl type="MS"> </bibl>
-                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
-                        Publisher, year</bibl>
-                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
-                    <bibl type="other">
-                        <title></title>
-                    </bibl>
+                        <title>DNB, Ed Pope</title>
                 </person>
             </listPerson>
         </body>
