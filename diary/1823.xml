@@ -3319,7 +3319,7 @@
                                     >Pouncy</placeName></persName></seg>: <seg type="dMeeting"
                             subtype="CG"><persName ref="/people/MAN04.html">R Manning</persName>
                             calls</seg>: <seg type="dMeeting" subtype="C">call on
-                                    <persName><placeName type="venue">G
+                                <persName ref="/people/HEA04.html"><placeName type="venue">G
                             Heath</placeName></persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1823-12-12"><date when="1823-12-12">12. F.</date><ref
                             type="dWrote" subtype="revised" target="/works/comm01.html"
