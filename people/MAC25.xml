@@ -27,28 +27,34 @@
                 <person xml:id="MAC25" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>NAME</forename>
-                        <surname>SURNAME</surname>
+                        <forename>Leonard</forename>
+                        <surname>MacNally</surname>
                         <addName/>
                     </persName>
                     <birth when="1000-01-01">
                         <placeName/>
                     </birth>
                     <death when="1000-12-31"/>
-                    <occupation>OCCUPATION</occupation>
+                    <occupation>Lawyer, Playwrite, Politician, Government Informer</occupation>
                     <note type="editorial">
-                        <p> </p>
+                        <p>Leonard MacNally was a Protestant Irish Republican turned British
+                            government paid informer. Prior to becoming an informer for the British
+                            Government in 1794, he had been a successful and loyal member of the
+                            Irish Unionists movement, aiding in the defence of many being prosecuted
+                            by the British government. However, after betraying the cause, he would
+                            regularly relay information and court tactics back to the British,
+                            hindering the movement and going undetected until after his death in
+                            1820. </p>
+                            
+                         <p>It is possible that he knew Godwin through connections with the
+                            Currans, with both parties being implicated at different times with
+                            Wolfe Tone.</p>
                     </note>
                     <bibl type="MS"> </bibl>
-                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
-                        Publisher, year</bibl>
-                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
                     <bibl type="other">
-                        <title></title>
-                    </bibl>
+                        <title/> DNB, Ed Pope </bibl>
                 </person>
             </listPerson>
         </body>
     </text>
 </TEI>
-
