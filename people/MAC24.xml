@@ -10,7 +10,7 @@
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by</resp>
-                    <name>EB</name>
+                    <name>Elliot Buck</name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -27,24 +27,20 @@
                 <person xml:id="MAC24" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>NAME</forename>
-                        <surname>SURNAME</surname>
+                        <forename>Edward</forename>
+                        <surname>Mackmurdo</surname>
                         <addName/>
                     </persName>
-                    <birth when="1000-01-01">
+                    <birth when="1757">
                         <placeName/>
                     </birth>
-                    <death when="1000-12-31"/>
-                    <occupation>OCCUPATION</occupation>
+                    <death when="1817"/>
+                    <occupation>Printer</occupation>
                     <note type="editorial">
-                        <p> </p>
+                        <p> This identification is tentative, however it can be assumed that 'MacMurdo' was a mispelling of Mackmurdo, owing to Edward Longdon Mackmurdo. </p>
                     </note>
-                    <bibl type="MS"> </bibl>
-                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
-                        Publisher, year</bibl>
-                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
                     <bibl type="other">
-                        <title></title>
+                        <title>Ed Pope</title>
                     </bibl>
                 </person>
             </listPerson>
