@@ -273,7 +273,7 @@
                                 <persName ref="/people/JEN01|JEN02.html"><placeName type="venue"
                                     >Jennings's</placeName></persName>; <seg type="dMeeting"
                                         subtype="Adv">adv. <persName ref="/people/GRI04.html">Griffiths</persName> &amp;
-                                    <persName>Macnamara</persName></seg></seg>.</ab>
+                                    <persName ref="/people/MAC26.xml">Macnamara</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1795-01-24"><date when="1795-01-24">24. Sa.</date><ref
                             type="dWrote" subtype="revised" target="/works/poli01.html"
                         >Revise</ref>. <seg type="dMeeting" subtype="C">Call on <persName
