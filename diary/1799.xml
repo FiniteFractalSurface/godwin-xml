@@ -1891,7 +1891,7 @@
                      subtype="Ta">tea <persName type="nah" ref="/people/FAN01.html"><placeName
                            type="venue">O Fancourt's</placeName></persName>, w. him &amp;
                         <persName>mrs Delany</persName></seg>: <seg type="dMeeting" subtype="M">
-                     meet <persName>Macquin</persName></seg>: <ref type="dEntertainment"
+                     meet <persName ref="/people/MAC19.xml">Macquin</persName></seg>: <ref type="dEntertainment"
                      subtype="Theat" target="/plays/unkn35.html"><placeName type="RC"/>Circus, the
                      Season, w. <persName>C</persName> &amp; <persName>O</persName></ref></ab>
                <pb n="e.204_0026r"/>
@@ -1913,7 +1913,7 @@
                      >Mitford, p. 374</ref>: <ref type="dText" subtype="read"
                      target="/bibl/te0452.html">Johnson, p. 274</ref>. <seg type="dMeal" subtype="D"
                      >Dine at <persName ref="/people/CHA01.html"><placeName type="venue"
-                           >Chandler's</placeName></persName>, w. <persName>Macquin</persName> &amp;
+                           >Chandler's</placeName></persName>, w. <persName ref="/people/MAC19.xml">Macquin</persName> &amp;
                         <persName>Deering</persName>; <seg type="dMeeting" subtype="Adv">adv.
                            <persName>Calcot</persName> &amp; <persName>miss
                         Stephens</persName></seg></seg>: <seg type="dMeeting" subtype="CG"><persName
@@ -3141,7 +3141,7 @@
                         Tooke</persName>, <persName ref="/people/CUR01.html">Curran</persName>,
                         <persName ref="/people/MOR99.html">Morgan</persName> &amp; <persName
                         ref="/people/MAL02.html">Malkin</persName></seg>. <seg type="dMeeting"
-                     subtype="M">meet <persName>Macquin</persName></seg>.</ab>
+                     subtype="M">meet <persName ref="/people/MAC19.xml">Macquin</persName></seg>.</ab>
                <ab type="dDay" xml:id="g1799-10-18"><date when="1799-10-18">18. F. </date><ref
                      type="dText" subtype="read" target="/bibl/te0201.html">Lear, acts 2, 3,
                   4</ref>. <seg type="dMeeting" subtype="C">Call on <persName

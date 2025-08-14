@@ -2551,7 +2551,7 @@
                                 ref="/people/TOW02.html"><placeName type="venue"
                                     >Townsend</placeName></persName>, w. <persName
                                 ref="/people/PHI01.html">Philips</persName>, <seg type="dMeeting"
-                                subtype="Adv">adv. <persName>Macquin</persName></seg></seg>: <seg
+                                subtype="Adv">adv. <persName ref="/people/MAC19.xml">Macquin</persName></seg></seg>: <seg
                             type="dMeeting" subtype="M">meet <persName ref="/people/JOH01.html"
                                 >Johnson</persName></seg>, <seg type="dMeeting" subtype="M"
                                 ><persName ref="/people/BON01.html">Bonnycastle</persName></seg>,

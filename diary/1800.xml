@@ -104,7 +104,7 @@
                         ><persName>H Willis</persName></seg>: <seg type="dMeal" subtype="D">dine at
                         <persName type="nah" ref="/people/FAN01.html"><placeName type="venue"
                            >Fancourt's</placeName></persName>, w. <persName ref="/people/NOR01.html"
-                        >Northcote</persName>, <persName>Macquin</persName> &amp; <persName
+                        >Northcote</persName>, <persName ref="/people/MAC19">Macquin</persName> &amp; <persName
                         ref="/people/CHA01.html">Chandler</persName>; <seg type="dMeeting"
                         subtype="Adv">adv. <persName ref="/people/FAU04.html">Faulkner</persName>,
                            <persName>Pinkard</persName>, <persName>Saxon</persName>, <persName>mrs
@@ -3476,7 +3476,7 @@
                            ref="/people/ROB01.html">Robinson</persName>, <persName
                            ref="/people/CLE01.html">Clementi</persName>, <persName
                            ref="/people/CAR01.html">Carlisle</persName> &amp;
-                           <persName>Macquin</persName></seg></seg>. <seg type="dMeeting"
+                           <persName ref="/people/MAC19.xml">Macquin</persName></seg></seg>. <seg type="dMeeting"
                      subtype="CG"><persName ref="/people/KEI01.html">Keir</persName> calls</seg>.
                      <seg type="dMeeting" subtype="Sleeps"><persName>C</persName> sleeps</seg>.</ab>
                <ab type="dDay" xml:id="g1800-10-18"><date when="1800-10-18">18. Sa.</date><ref
