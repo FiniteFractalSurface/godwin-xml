@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name>EB</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="MAC26" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>John</forename>
+                        <surname>Macnamara</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1750">
+                        <placeName/>
+                    </birth>
+                    <death when="1809-07-19"/>
+                    <occupation>Military physician</occupation>
+                    <note type="editorial">
+                        <p> This identification is tentative, however it is possible that John
+                            Macnamara knew Godwin through is position as a physician at Westminister
+                            hospital which he briefly held for two years between 1792 and 1794, the
+                            latter being when the majority of his meetings with Godwin took place.
+                        </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="other">
+                        <title/> DNB, Ed Pope
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
