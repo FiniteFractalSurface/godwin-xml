@@ -1929,7 +1929,7 @@
                         ref="/people/ROB04.html"><placeName type="venue">M
                         Robinson's</placeName></persName> (<persName ref="/people/ALL05.html"
                         >Allingham</persName>); <seg type="dMeeting" subtype="Adv">adv.
-                           <persName>Macmahon</persName></seg></seg>: <seg type="dMeeting"
+                           <persName ref="/people/MAC23.xml">Macmahon</persName></seg></seg>: <seg type="dMeeting"
                      subtype="C">call on <persName ref="/people/NOR01.html"><placeName type="venue"
                            >Northcote</placeName></persName> (<seg type="dMeeting" subtype="Adv"
                         >adv. <persName><foreign>père</foreign></persName></seg>)</seg>, &amp; <seg
