@@ -31,24 +31,22 @@
                         <surname>MacPherson</surname>
                         <addName/>
                     </persName>
-                    <birth when="1000-01-01">
+                    <birth when="1746-10-26">
                         <placeName/>
                     </birth>
-                    <death when="1000-12-31"/>
-                    <occupation>OCCUPATION</occupation>
+                    <death when="1816-08-01"/>
+                    <occupation>Historian, Land Surveyor</occupation>
                     <note type="editorial">
-                        <p> </p>
+                        <p> David MacPherson was a historian and land surveyor who emigrated to
+                            America in the 1790s. Ed Pope notes that he was a friend of Ritsons,
+                            which explains his connection to Godwin. </p>
                     </note>
                     <bibl type="MS"> </bibl>
-                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
-                        Publisher, year</bibl>
-                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
                     <bibl type="other">
-                        <title></title>
+                        <title/> DNB, Ed Pope
                     </bibl>
                 </person>
             </listPerson>
         </body>
     </text>
 </TEI>
-
