@@ -3352,7 +3352,7 @@
                                 >Bagster</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName><placeName type="venue"
                                 >Triphook</placeName></persName></seg>, <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                            subtype="C"><persName ref="/people/HAR09.html"><placeName type="venue"
                                 >Hardinge</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName ref="/people/RID02.html"><placeName type="venue"
                                     >Ridgway</placeName></persName></seg>, <seg type="dMeeting"
