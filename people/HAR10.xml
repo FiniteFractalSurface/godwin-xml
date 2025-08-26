@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Person List</title>
+            <respStmt>
+               <resp>Researched by</resp>
+               <name>EP</name>
+            </respStmt>
+            <respStmt>
+               <resp>Encoded by</resp>
+               <name>SI</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Generated data</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="HAR10" sex="1">
+               <persName>
+                  <roleName/>
+                  <forename>John</forename>
+                  <surname>Harris</surname>
+                  <addName/>
+               </persName>
+               <birth when="1000">
+                  <placeName/>
+               </birth>
+               <death when="1829-12-01">
+                  <placeName>London</placeName>
+               </death>
+               <occupation>Minister</occupation>
+               <note type="editorial">
+                  <p>Godwin's reference to 'Harris of Aylesbury' probably refers to John Harris, a dissenting minister at Aylesbury between 1777 and 1815. The son of John Turner Harris, he had at Homerton Academy. Harris was married 28.11.1777 to Mary, the daughter of Dr James Watson.</p>
+               </note>
+               <bibl type="other">
+                  <title>Ed Pope History Entry 04/03/2021</title>
+               </bibl>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>
