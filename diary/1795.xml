@@ -2013,7 +2013,7 @@
                             >Call on <persName ref="/people/INC01.html"><placeName type="venue"
                                     >Inchbald</placeName></persName>; <seg type="dMeeting"
                                 subtype="Adv">adv. <persName>mrs Twiss </persName>&amp;
-                                    <persName>mrs Harvey</persName></seg></seg>.</ab>
+                                    <persName ref="/people/HAR13.html">mrs Harvey</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1795-05-26"><date when="1795-05-26">26. Tu.</date><ref
                             type="dText" subtype="read" target="/bibl/te0284.html">Virgil,
                         566</ref>: <ref type="dText" subtype="read" target="/bibl/te0573.html"
@@ -2767,7 +2767,7 @@
                                 ><persName ref="/people/FOU01.html">Foulkes's</persName></seg>: <seg
                             type="dMeal" subtype="D">dine at <persName ref="/people/TOO01.html"
                                     ><placeName type="venue">H Tooke's</placeName></persName>, w.
-                                <persName>mrs Harvey &amp; fils</persName></seg>; <seg
+                                <persName ref="/people/HAR13.html">mrs Harvey &amp; fils</persName></seg>; <seg
                             type="dMeeting" subtype="See">see <persName>Graaf</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1795-07-27"><date when="1795-07-27">27. M.</date><ref
                             type="dWrote" subtype="revised" target="/works/poli01.html"

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Person List</title>
+            <respStmt>
+               <resp>Researched by</resp>
+               <name>EP</name>
+            </respStmt>
+            <respStmt>
+               <resp>Encoded by</resp>
+               <name>SI</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Generated data</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="HAR13" sex="2">
+               <persName>
+                  <roleName/>
+                  <forename>Ann</forename>
+                  <surname>Harvey</surname>
+                  <addName/>
+               </persName>
+               <birth when="1000">
+                  <placeName/>
+               </birth>
+               <death when="1000"/>
+               <occupation></occupation>
+               <note type="editorial">
+                  <p>Ann Twiss married <persName key="HAR07">Thomas Harvey</persName> at Norwich 12/10/1774. She died 13/5/1819 aged 71.</p>
+               </note>
+               <bibl type="other">
+                  <title>Ed Pope History Entry 22/08/2012</title>
+               </bibl>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>
