@@ -2267,9 +2267,9 @@
                     <ab type="dDay" xml:id="g1796-05-18"><date when="1796-05-18">18. W.</date><seg
                             type="dMeal" subtype="B">Breakfast at <persName ref="/people/GOD04.html"
                                     ><placeName type="venue">miss G's</placeName></persName></seg>:
-                            <seg type="dMeeting" subtype="See"><persName ref="/people/MAC21.xml"><placeName type="venue"
-                                    >Macklin's</placeName></persName>; w. <persName
-                                ref="/people/DYS01.html">Dyson</persName> &amp; <persName
+                            <seg type="dMeeting" subtype="See"><persName ref="/people/MAC21.xml"
+                                    ><placeName type="venue">Macklin's</placeName></persName>; w.
+                                <persName ref="/people/DYS01.html">Dyson</persName> &amp; <persName
                                 ref="/people/KEA01.html">Kearsley</persName></seg>: <seg
                             type="dMeal" subtype="D">dine at <placeName>Kensigton</placeName> w.
                                 <persName ref="/people/DYS01.html"><placeName type="venue"
@@ -3002,9 +3002,10 @@
                                 ref="/people/DAV04.html">Davy</persName>, <persName
                                 ref="/people/COZ01.html">Cozens</persName> &amp; <persName
                                 ref="/people/THE01.html">Thelwal</persName></seg>: <seg type="dMeal"
-                                    subtype="DG"><persName ref="/people/GUN01.html">Gunning</persName> dines</seg>: <seg type="dMeal"
-                            subtype="S">sup at <persName ref="/people/TAY02|TAY04.html"><placeName
-                                    type="venue">J Taylor's</placeName></persName>, w. <persName
+                            subtype="DG"><persName ref="/people/GUN01.html">Gunning</persName>
+                            dines</seg>: <seg type="dMeal" subtype="S">sup at <persName
+                                ref="/people/TAY02|TAY04.html"><placeName type="venue">J
+                                    Taylor's</placeName></persName>, w. <persName
                                 ref="/people/ENF01.html">Enfield</persName>, <persName
                                 ref="/people/TAY03.html">W Taylor</persName> &amp; <persName
                                 ref="/people/ALD04.html">Alderson</persName></seg>.</ab>
@@ -3067,11 +3068,11 @@
                     <ab type="dDay" subtype="NotLon" xml:id="g1796-07-13"><date when="1796-07-13"
                             >13. W.</date><seg type="dMeeting" subtype="See"><persName
                                 ref="/people/MAR07.html">March's</persName>; <persName
-                                ref="/people/NOT01.html">Notcut vdm</persName>,
-                                <persName ref="/people/GUN01.html">Gunning</persName>, <persName ref="/people/DIN02.html"
-                                >Dinmore</persName>, &amp;c</seg>: <seg type="dMeal" subtype="D"
-                            >dine at <placeName>Sewel</placeName>, w. <persName
-                                ref="/people/FLO01.html">Flower</persName> &amp;
+                                ref="/people/NOT01.html">Notcut vdm</persName>, <persName
+                                ref="/people/GUN01.html">Gunning</persName>, <persName
+                                ref="/people/DIN02.html">Dinmore</persName>, &amp;c</seg>: <seg
+                            type="dMeal" subtype="D">dine at <placeName>Sewel</placeName>, w.
+                                <persName ref="/people/FLO01.html">Flower</persName> &amp;
                                 <persName>Copland</persName></seg>: <seg type="dMeeting"
                             subtype="Do">drive w. <persName>Copland</persName> to
                                 <placeName>Caston</placeName></seg>: <seg type="dMeeting"
@@ -4355,8 +4356,9 @@
                         <p rend="centered">1773</p>
                         <p>Jocelyn, Jacob, F Webb, <persName ref="/people/REE02.html"
                                 >Rees</persName>, <persName ref="/people/KIP01.html"
-                                    >Kippis</persName>, Morgan, <emph rend="small"><persName ref="/people/GRE11.html">Gregson</persName> 1774
-                                Evans</emph></p>
+                                >Kippis</persName>, Morgan, <emph rend="small"><persName
+                                    ref="/people/GRE11.html">Gregson</persName> 1774
+                            Evans</emph></p>
                         <p rend="centered">1777</p>
                         <p>Howe, Tho. Rogers, Price</p>
                         <p rend="centered">1778</p>
@@ -4421,8 +4423,9 @@
                                 ref="/people/LOF01.html">Lofft</persName>, Wodhul, <persName
                                 ref="/people/ROM01.html">Romilly</persName>, Mellish, <persName
                                 ref="/people/SHO01.html">Shore</persName>, Tho Warton, </p>
-                        <p>baron Fox, <emph rend="deleted">Marchetti,</emph> <persName ref="/people/GRO02.html">Grose,</persName> <persName
-                                ref="/people/MOU01.html">Mouradgea</persName>, <persName
+                        <p>baron Fox, <emph rend="deleted">Marchetti,</emph>
+                            <persName ref="/people/GRO02.html">Grose,</persName>
+                            <persName ref="/people/MOU01.html">Mouradgea</persName>, <persName
                                 ref="/people/CLE01.html">Clementi</persName>, <persName
                                 ref="/people/RAI01.html">Raikes</persName>, <persName
                                 ref="/people/DYS01.html">Dyson</persName>, Moore, </p>
@@ -5247,7 +5250,7 @@
                                 ref="/people/TOO02.html">Tookes</persName>, <persName
                                 ref="/people/ALL01.html">Allen</persName>,
                                 <persName>Bloxam</persName>, <persName>Crawford</persName>,
-                                <persName>miss Hamilton</persName> &amp; <persName
+                                <persName ref="/people/HAM08.html">miss Hamilton</persName> &amp; <persName
                                 ref="/people/WOL01.html">Wt</persName></seg>: <seg type="dMeeting"
                             subtype="See"><foreign>chez <persName ref="/people/WOL01.html"
                                     >moi</persName></foreign>;--</seg>.</ab>

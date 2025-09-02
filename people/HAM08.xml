@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Person List</title>
+            <respStmt>
+               <resp>Researched by</resp>
+               <name>EP</name>
+            </respStmt>
+            <respStmt>
+               <resp>Encoded by</resp>
+               <name>SI</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Generated data</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="HAM08" sex="2">
+               <persName>
+                  <roleName/>
+                  <forename>Elizabeth</forename>
+                  <surname>Hamilton</surname>
+                  <addName/>
+               </persName>
+               <birth when="1756-07-25">
+                  <placeName/>
+               </birth>
+               <death when="1816-07-23"/>
+               <occupation>Writer</occupation>
+               <note type="editorial">
+                  <p>DNB 1756-1815</p>
+                  <p>A friend of Mary Hays, who fell out with her over the review of her first major work in the Analytical Review of October 1796 (which was supposedly written by Hays).</p>
+                  <p>Godwin often dropped the Miss or Mrs for women, particularly authors.</p>
+                  <p>The plain Hamilton on 16.4.1796 has been coded to Samuel Hamilton, who might also be the S Hamilton who, according to the Correspondence of Mary Hays p299, was assiting Dr George Gregory as editor of the Critical Review, which Hays also wrote reviews for. However, this could refer to Elizabeth Hamilton.</p>
+               </note>
+               <bibl type="other">
+                  <title>Ed Pope History Entry 15/11/2012</title>
+               </bibl>
+               <bibl type="other">
+                  <title>DNB</title>
+               </bibl>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>
