@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="AMO10" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Henry</forename>
+                        <surname>Amory</surname>
+                        <addName/>
+                    </persName>
+
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1793-02-25"/>
+                    <occupation>Unknown</occupation>
+                    <note type="editorial">
+                        <p>Henry Amory resided in Bucklersbury. Joseph Towers proposed to him on 27
+                            September 1782, seconded by Edward Bridgen. His grandfather, John, was a
+                            Taunton grocer, his grandmother, Anne, was sister of Henry Grove DNB
+                            1684-1738. His father, Thomas Amory (DNB 1701-1774) was Grove's
+                            successor, and his mother was Mary (c.1723 -1801) daughter of Rev Samuel
+                            Baker of Southwark (d.1748). His parents married at Taunton on 7
+                            September 1741. Henry Grove Amory of Bucklersbury subscribed in 1788 to
+                            Nathaniel Lardner's Works. John Thelwall (DNB 1764-1834) dedicated his
+                            Ode to Science (1791) to Henry Amory Esq, father of the Philomathian
+                            Society. Henry Grove Amory was buried 2 March 1793 at Bunhill Fields
+                            aged 39 from Red Cross St. He died 25 February 1793. </p>
+                    </note>
+                </person>
+            </listPerson>
+
+        </body>
+    </text>
+</TEI>

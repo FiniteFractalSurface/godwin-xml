@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="ACT10" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Samuel Etheridge</forename>
+                        <surname>Acton</surname>
+                        <addName/>
+                    </persName>
+
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-01-01"/>
+                    <occupation>Coal Merchant</occupation>
+                    <note type="editorial">
+                        <p> Samuel Etheridge Acton apprenticed 1747 to Robert Marram, Pewterers Co.
+                            and received a premium of £21. Samuel Etheridge Acton, bachelor, married
+                            Ann Wright, spinster, by Archbishop’s license on 25 December 1764 in St
+                            Margaret Lothbury. Their witnesses were Wm Acton and Ann Wright. They
+                            had a son, Samuel, who was baptised 19 April 1773 at St Mary Aldermary
+                            The trades directories from 1776 to 1791 listed Samuel Acton as a coal
+                            merchant of 9 Distaff Lane, Friday Street. The trades directory of 1777
+                            listed Samuel Acton as a merchant of 82 Watling Street. </p>
+                    </note>
+                </person>
+            </listPerson>
+
+        </body>
+    </text>
+</TEI>

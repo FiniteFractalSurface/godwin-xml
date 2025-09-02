@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="ADA16" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>William</forename>
+                        <surname>Adams</surname>
+                        <addName/>
+                    </persName>
+
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-01-01"/>
+                    <occupation>Gentleman</occupation>
+                    <note type="editorial">
+                        <p>William Adams of Ham is mentioned in the Surrey History Centre K58/9/100
+                            and 101 leases including 16 May 1789 involving himself, 12 March 1796
+                            Richard Adams, blacksmith of Ham, is described as the brother and heir
+                            of William Adams, son of William Adams. William Adams of Ham was buried
+                            31 March 1822 in Kingston at the age of 60. William Adams of Kingston
+                            had a Prerogative Court of Canterbury will proved on 20 December 1798
+                            which described him as a gentleman and listed his relations including
+                            his wife Elizabeth, son William who is noted as incapable of managing
+                            his affairs, sister Elizabeth, sister Sarah (wife of William Yonge), and
+                            her daughter Sarah (wife of John May), grand-nephew Charles Brown Yonge,
+                            son of late niece Lydia, sister-in-law Hanna Marchant and his friends,
+                            Richard Clarkson and Henry Knight, bankers of Kingston. William Adams
+                            was buried 30 November 1798 in Kingston. Another William Adams was
+                            buried 9 December 1818 age 53 at Kingston. 1-year lease to William Adams
+                            of Kingston, gentleman, described as the son and heir of William Adams
+                            of Kingston, gentleman, deceased. There is likely multiple William Adams
+                            in the above records. </p>
+                    </note>
+                </person>
+            </listPerson>
+
+        </body>
+    </text>
+</TEI>

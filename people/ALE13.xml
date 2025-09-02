@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name></name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="ALE13" sex="2">
+                    <persName>
+                        <roleName/>
+                        <forename>Miss</forename>
+                        <surname>Alexander</surname>
+                        <addName/>
+                    </persName>
+                    
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1846-02-25"/>
+                    <occupation>Unknown</occupation>
+                    <note type="editorial">
+                        <p>The letters of Joanna Baillie online mention two spinster sisters that the Baillie sisters had known many years, whose brother was Chief Baron Alexander (18 May 1755 – 20 June 1842). This could be one or both of a Christian woman who died unmarried 25 February 1846 at 84 years, or Jane who died unmarried on 7 February 1843 at Dover aged 77. Both women left PCC wills.
+                        </p>
+                    </note>
+                </person> </listPerson>
+            
+        </body>
+    </text>
+</TEI>
+

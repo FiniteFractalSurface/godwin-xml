@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="AIN13" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Robert</forename>
+                        <surname>Ainslie</surname>
+                        <addName/>
+                    </persName>
+
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1812-08-05"/>
+                    <occupation> British ambassador to Constantinople </occupation>
+                    <note type="editorial">
+                        <p>Godwin mentions Sir Robert Ainslie as a Truchement at John Paradise’s,
+                            which is a French word widely used in England at the time meaning
+                            interpreter. There is also a Sir R A is Robert Ainslie mentioned in the
+                                <title>DNB</title> 1730-1812 as British ambassador to
+                            Constantinople. John Paradise was familiar with that part of the world
+                            and its languages; hence it is likely to be the Sir R A as mentioned in
+                            the <title>DNB</title>. There is also a Sir Robert Ainslie who was
+                            listed to have a subscription for erecting a statue in honour of the
+                            previous Prime Minister, William Pitt, on May 8th, 1802. It is unclear
+                            whether this is the same Sir Robert Ainslie that Godwin mentions. Sir
+                            Robert Ainslie’s will is dated the 5 August 1812. The Sir Rober Ainslie
+                            spoken about in this will is the British ambassador to the Ottoman Porte
+                            in Constantinople, suggesting that he was the same person. He was
+                            residing in Manchester Square, Middlesex when he died. </p>
+                    </note>
+                </person>
+            </listPerson>
+
+        </body>
+    </text>
+</TEI>
