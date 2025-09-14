@@ -986,7 +986,7 @@
                     <ab type="dDay" xml:id="g1807-04-11"><date when="1807-04-11">11. Sa.</date><seg
                             type="dMeeting" subtype="CG"><persName ref="/people/MAR01.html"
                                 >M</persName> calls, for <seg type="dTopic"
-                                    ><persName>Adkins</persName></seg></seg>: <seg type="dMeeting"
+                                    ><persName ref="/people/ADK10.html">Adkins</persName></seg></seg>: <seg type="dMeeting"
                             subtype="See"><persName ref="/people/TUR01.html">T T</persName>, from
                                 <seg type="dTopic"><persName ref="/people/MAC04.html"
                                     >Macmillan</persName></seg></seg>: <seg type="dMeeting"
@@ -2227,11 +2227,11 @@
                                     ref="/people/TUR01.html">T T</persName>, warrant</ref></seg>:
                             <seg type="dMeeting" subtype="CG"><persName>Jo. H.</persName>
                             calls</seg>: <seg type="dMeeting" subtype="CG"
-                                ><persName>Adkins</persName> calls</seg>: <seg type="dMeal"
+                                ><persName ref="/people/ADK10.html">Adkins</persName> calls</seg>: <seg type="dMeal"
                             subtype="DG"><persName ref="/people/MAR01.html">M</persName> &amp;
                                 <persName ref="/people/TUR01.html">T T</persName> dine</seg>: <seg
                             type="dMeeting" subtype="CG"><persName>H</persName></seg> &amp; <seg
-                            type="dMeeting" subtype="CG"><persName>Adkins</persName> call</seg>:
+                                type="dMeeting" subtype="CG"><persName ref="/people/ADK10.html">Adkins</persName> call</seg>:
                             <seg type="dMeeting" subtype="Do"><placeName>Bow-Street</placeName>,
                                 <emph rend="deleted">w.</emph><persName ref="/people/TUR01.html">T
                                 T</persName>, <persName ref="/people/MAR01.html">M</persName>,
