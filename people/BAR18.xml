@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Person List</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Generated data</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="BAR18" sex="1">
+               <persName>
+                  <roleName/>
+                  <forename>Joseph</forename>
+                  <surname>Barrett</surname>
+                  <addName/>
+               </persName>
+               
+               <birth when="1000-01-01">
+                  <placeName/>
+               </birth>
+               <death when="1825"/>
+               <occupation>bookseller</occupation>
+               <note type="editorial">
+                  <p>Whilst these entries could feasibly be Thomas Barratt, bookseller in Trinity Street Cambridge, it is more likely Joseph Barratt who was a bookseller in Bath from 1799 to 1816. He died in 1825.
+                  </p>
+               </note>
+            </person> </listPerson>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Person List</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Generated data</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="ABO10" sex="1">
+               <persName>
+                  <roleName/>
+                  <forename>Charles</forename>
+                  <surname>Gordon (Earl of Aboyne)</surname>
+                  <addName/>
+               </persName>
+               
+               <birth when="1726">
+                  <placeName/>
+               </birth>
+               <death when="1794"/>
+               <occupation>4th Earl of Aboyne</occupation>
+               <note type="editorial">
+                  <p>Aboyne was frequently referred to by Godwin as a visitor at Miss Williams’. Aboyne, however, is not on her 1786 subscription list. As Aboyne is a very rare surname, it is likely that the Aboyne referred to is the title Earl of Aboyne, and in particular the 4th Earl, Charles Gordon, c. 1726 – 1794.
+                  </p>
+               </note>
+            </person> </listPerson>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Person List</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Generated data</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="BAR19" sex="1">
+               <persName>
+                  <roleName/>
+                  <forename>John</forename>
+                  <surname>Barton</surname>
+                  <addName/>
+               </persName>
+               
+               <birth when="1000-01-01">
+                  <placeName/>
+               </birth>
+               <death when="1000-01-01"/>
+               <occupation>victualler</occupation>
+               <note type="editorial">
+                  <p>John Barton was a delegate of Division 27 of the London Corresponding Society in the first half of 1795 and was on the executive committee in July and August of 1795. He may have also been the J Barton to whom the Manchester reformers sent a letter at Red Lion, Grosvenor Square.
+                     Barton resided in James Street, Gosvenor Square. He served on coroners and juries from 1793 to 1799 on New Street, Broad Street, and St James. An inquest was held there and he voted Fox and Graham in 1802. John Barton, victualler of the Ham and Windmill in Windmill Street Haymarket also gave evidence in the trial of John Fennell, for forgery to the effect that his confederate, Gillington, who also gave evidence, was untrustworthy. He voted for Sheridan in 1806, whilst residing in the Strand
+                  </p>
+               </note>
+            </person> </listPerson>
+      </body>
+   </text>
+</TEI>

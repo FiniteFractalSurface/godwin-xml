@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Person List</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Generated data</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="ARC12" sex="1">
+               <persName>
+                  <roleName/>
+                  <forename>John</forename>
+                  <surname>Archer</surname>
+                  <addName/>
+               </persName>
+               
+               <birth when="1000-01-01">
+                  <placeName/>
+               </birth>
+               <death when="1000-01-01"/>
+               <occupation>bookseller</occupation>
+               <note type="editorial">
+                  <p>Both the 1789 entry and 1812 entry were probably John Archer Dublin bookseller at Dublin Book Trades. This is because many of Robinson's guests were Dublin publishers, such as White, Jenkins, and Potts. 
+                     John Archer began his career in 1782 in the firm Arthur and Cawthorne, the premises previously being occupied by Luke White who was in the first entry. Archer was one of the only booksellers of Dublin whose business was international. As Máire Kennedy explored, John Archer was a prominent Dublin bookseller. His business took place in Dame Street area throughout his career and his name is on nearly 100 titles between 1791-1800.
+                  </p>
+               </note>
+            </person> </listPerson>
+      </body>
+   </text>
+</TEI>

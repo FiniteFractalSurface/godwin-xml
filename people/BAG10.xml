@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Person List</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Generated data</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="BAG10" sex="1">
+               <persName>
+                  <roleName/>
+                  <forename>Robert</forename>
+                  <surname>Bage</surname>
+                  <addName/>
+               </persName>
+               
+               <birth when="1728-01-01">
+                  <placeName/>
+               </birth>
+               <death when="1801-01-01"/>
+               <occupation>businessman</occupation>
+               <occupation>novelist</occupation>
+               <note type="editorial">
+                  <p>Robert Bage is mentioned in Godwin’s letter to Mary Wollstonecraft, on 15–16 June 1797, discussing how he met both Darwin and Bage. Robert Bage was originally in the business of paper manufacturing at Elford in 1751. Later in 1765, he entered the ironworks business with three different partners, including Erasmus Darwin who featured in this letter. Bage lost £1500 when this partnership eventually dissolved after fourteen years. As a result, Bage began as a novelist. Between 1782 to 1788, he released four novels: Mount Henneth (1782), Barham Downs (1784), The Fair Syrian (1787), and James Wallace (1788). These novels were romantic comedies which satirised the political and social environments of the time. His latest novels, Man As He Is (1792) and Hermsprong; or, Man As He Is Not (1796) contributed to the debate the French Revolution.
+                  </p>
+               </note>
+            </person> </listPerson>
+      </body>
+   </text>
+</TEI>

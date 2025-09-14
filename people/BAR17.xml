@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Person List</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Generated data</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="BAR17" sex="1">
+               <persName>
+                  <roleName/>
+                  <forename>John</forename>
+                  <surname>Barrett</surname>
+                  <addName/>
+               </persName>
+               
+               <birth when="1753">
+                  <placeName/>
+               </birth>
+               <death when="1821-11-25"/>
+               <occupation>scholar</occupation>
+               <note type="editorial">
+                  <p>This Barret could be John Barrett who was a classical scholar and eccentric. He was a member of the Theatre Royal in Dublin in June 1806. He went to Trinity College Dublin, and was a Hebrew scholar. He was the son of a Church of Ireland priest in County Laois.
+                  </p>
+               </note>
+            </person> </listPerson>
+      </body>
+   </text>
+</TEI>

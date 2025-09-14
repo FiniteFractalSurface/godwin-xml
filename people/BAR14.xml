@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Person List</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Generated data</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="BAR14" sex="2">
+               <persName>
+                  <roleName/>
+                  <forename>Mary</forename>
+                  <surname>Barker</surname>
+                  <addName/>
+               </persName>
+               
+               <birth when="1000-01-01">
+                  <placeName/>
+               </birth>
+               <death when="1851-01-01"/>
+               <occupation>Unknown</occupation>
+               <note type="editorial">
+                  <p>Mary Barker was the daughter of Thomas Barker of Penkridge, who married Mary Homfray at Wishaw on the 25 November 1773. She was mentioned in Robert Southey’s letter 2 December 1801 which spoke of Barker planning to spend the winter at Chalotte Smith’s. She was a subscriber to Mrs Darwall’s poems in 1794. She died in 1851.
+                     Miss Barker was also mentioned in Sarah Hutchinson’s letters, where she described Mary as “kind natured a creature as ever lived”.
+                  </p>
+               </note>
+            </person> </listPerson>
+      </body>
+   </text>
+</TEI>

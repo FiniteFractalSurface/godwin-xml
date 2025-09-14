@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Person List</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Generated data</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="BAL13" sex="1">
+               <persName>
+                  <roleName/>
+                  <forename>Charles</forename>
+                  <surname>Ball</surname>
+                  <addName/>
+               </persName>
+               
+               <birth when="1755">
+                  <placeName/>
+               </birth>
+               <death when="1822"/>
+               <occupation>pro-Catholic pamphleteer</occupation>
+               <occupation>barrister</occupation>
+               <note type="editorial">
+                  <p>Charles Ball was a barrister in Dublin. He went to Trinity College Dublin in 1772 and afterwards resided in Lincolns Inn in 1776. He was called to the Irish bar in 1781, in which he was one of the counsel, along with Curran, defending Arthur Wallace at Carlow on the 5 August 1800 according to the Dublin Evening. He was classed in the Historical Irish Parliament as being a pro-Catholic pamphleteer and anti-union, 1755-1822.
+                     He was the third son of Reverand Stearne Ball who was a military chaplain and curate of Drogheda, Ireland. 
+                     His older brother, John Ball, 1748-1813, was an Irish barrister and politician, a member of the Historical Irish Parliament. As a politician, he was anti-union. The entries could also have been John Ball but it is difficult to be certain.
+                  </p>
+               </note>
+            </person> </listPerson>
+      </body>
+   </text>
+</TEI>
