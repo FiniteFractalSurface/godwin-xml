@@ -331,7 +331,7 @@
                             <seg type="dMeeting" subtype="C"><persName ref="/people/GOD02.html"
                                 type="nah"><placeName type="venue">Jo G</placeName></persName><hi
                                 rend="sup">n</hi></seg>, <seg type="dMeeting" subtype="C"
-                                    ><persName><placeName type="venue">Ball</placeName></persName>
+                                    ><persName ref="/people/BAL14.html"><placeName type="venue">Ball</placeName></persName>
                                 (<persName>Gittshur</persName> )</seg> &amp;<seg type="dMeeting"
                             subtype="C"><persName type="nah" ref="/people/MCC01.xml"><placeName type="venue"> M<hi
                                         rend="sup">c</hi>cabe </placeName></persName><hi rend="sup"
@@ -485,7 +485,7 @@
                     <ab type="dDay" xml:id="g1805-02-01"><date when="1805-02-01">Feb. 1. F.
                             </date><ref type="dWrote" subtype="write" target="/works/flee01.html"
                             >Fleetwood, p. 281/2</ref>. <seg type="dMeeting" subtype="Cn"> Call on
-                                    <persName><placeName type="venue">Ball</placeName></persName>,
+                                <persName ref="/people/BAL14.html"><placeName type="venue">Ball</placeName></persName>,
                             w. <persName ref="/people/WOR05.html">Wordsworth</persName></seg>: <seg
                             type="dMeal" subtype="DG"><persName>S &amp; V Napier</persName>, &amp;
                                 <persName ref="/people/WOL03.html">Ja<hi rend="sup">s</hi>
