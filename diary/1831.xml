@@ -670,7 +670,7 @@
                      type="dText" subtype="read" target="/bibl/te3355.html">Homer, v. 847; , v.
                      60</ref>: <ref type="dText" subtype="read" target="/bibl/te3374.html">Crochet
                      Castle, fin</ref>. <seg type="dMeeting" subtype="C">Call on
-                           <persName><placeName type="venue">Croly</placeName></persName></seg>,
+                        <persName ref="/people/CRO10.html"><placeName type="venue">Croly</placeName></persName></seg>,
                      <seg type="dMeeting" subtype="C"><persName><placeName type="venue">mrs
                            Kirkland</placeName></persName></seg> &amp; <seg type="dMeeting"
                      subtype="C"><persName ref="/people/NOR01.html"><placeName type="venue"
@@ -829,7 +829,7 @@
                         ref="/people/POO02.html">Poole</persName>, <persName
                         ref="/people/ALC01.html">Alcock</persName>, <persName
                         ref="/people/CUN01.html">A Cunningham</persName>, <persName
-                        ref="/people/LAN08.html">E Landseer</persName>, <persName>Croly</persName>,
+                           ref="/people/LAN08.html">E Landseer</persName>, <persName ref="/people/CRO10.html">Croly</persName>,
                         <persName ref="/people/KNO01.html">Knowles</persName>, <persName
                         ref="/people/CAU01.html">Caunter</persName>, <persName>Stebbing</persName>,
                         <persName ref="/people/FOG01.html">Foggo</persName>, <persName
@@ -1889,7 +1889,7 @@
                         >Sass’s</placeName></persName>, w. <persName ref="/people/MAR03.html"
                         >Martin</persName>, <persName ref="/people/ROT01.html">Rothwel</persName>,
                         <persName ref="/people/PIC01.html">Pickersgil</persName>, <persName
-                        ref="/people/HUN01.html">L Hunt</persName>, <persName>Croly</persName>,
+                           ref="/people/HUN01.html">L Hunt</persName>, <persName ref="/people/CRO10.html">Croly</persName>,
                         <persName>Britton</persName>, <persName>Clint</persName>, <persName
                         ref="/people/HOP01.html">W Hopwood</persName>, <persName
                         ref="/people/UWI01.html">Uwins &amp; 2</persName>, &amp; <persName>D<hi
