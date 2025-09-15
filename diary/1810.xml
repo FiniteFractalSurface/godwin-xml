@@ -677,7 +677,7 @@
                                 ref="/people/HAZ01.html">Hazlit</persName> sups</seg>. <ref
                             type="dWrote" subtype="letter">Write to
                                     <persName ref="/people/FRA04.html">Franklin</persName></ref>, <ref type="dWrote" subtype="letter"
-                                ><persName>Baker</persName></ref> &amp; <ref type="dWrote"
+                                        ><persName ref="/people/BAK10.html">Baker</persName></ref> &amp; <ref type="dWrote"
                             subtype="letter"><persName ref="/people/BOO01.html"
                             >Booth</persName></ref>. <seg type="dMeeting" subtype="CG"><persName
                                 type="nah">Liston</persName> calls <hi rend="sup"
@@ -2437,7 +2437,7 @@
                                 ref="/people/CLA01.html">M J</persName></ref>; <ref type="dWrote"
                             subtype="letter"><persName ref="/people/ARN01.html"
                             >Arnot</persName></ref>, <ref type="dWrote" subtype="letter"
-                                ><persName>Baker</persName></ref>, <ref type="dWrote"
+                                ><persName ref="/people/BAK10.html">Baker</persName></ref>, <ref type="dWrote"
                             subtype="letter"><persName>Deck</persName></ref>, <ref type="dWrote"
                             subtype="letter"><persName>Brodie</persName></ref>, <ref type="dWrote"
                             subtype="letter"><persName>Sheppard</persName></ref> &amp; <ref
@@ -3579,7 +3579,7 @@
                     <ab type="dDay" xml:id="g1810-11-10"><date when="1810-11-10">10. Sa.</date><ref
                             type="dWrote" subtype="letter">Write to
                             <persName>Sheppard</persName></ref>, <ref type="dWrote" subtype="letter"
-                                ><persName>Baker</persName></ref>, <ref type="dWrote"
+                                ><persName ref="/people/BAK10.html">Baker</persName></ref>, <ref type="dWrote"
                             subtype="letter"><persName>Saffory</persName></ref>, &amp; <ref
                             type="dWrote" subtype="letter"><persName>March<hi rend="sup"
                                 >l</hi></persName></ref>. <ref type="dText" subtype="read"
@@ -3694,7 +3694,7 @@
                             type="dWrote" subtype="letter">Write to
                             <persName>Blackall</persName></ref>. <seg type="dMeal" subtype="BG"
                                 ><persName ref="/people/COL01.html">Coleridge</persName>
-                            breakfasts</seg>: <seg type="dMeeting" subtype="CG"><persName><placeName
+                                breakfasts</seg>: <seg type="dMeeting" subtype="CG"><persName ref="/people/BAK10.html"><placeName
                                     type="venue">Baker (Southampton)</placeName></persName></seg>
                         &amp; <seg type="dMeeting" subtype="CG"><persName ref="/people/SMI12.html">J
                                 Smith</persName> call</seg>: <seg type="dMeal" subtype="Ta">tea
@@ -3923,7 +3923,7 @@
                     <ab type="dDay" xml:id="g1810-12-10"><date when="1810-12-10">10. M.</date><ref
                             type="dText" subtype="read" target="/bibl/te1845.html">Euphues, p.
                             70</ref>. <ref type="dWrote" subtype="letter">Write to
-                                <persName>Baker</persName></ref>.</ab>
+                                <persName ref="/people/BAK10.html">Baker</persName></ref>.</ab>
                     <ab type="dDay" xml:id="g1810-12-11"><date when="1810-12-11">11. Tu.</date><seg
                             type="dMeeting" subtype="C">Call on <persName ref="/people/KNO01.html"
                                     ><placeName type="venue">Knowles</placeName></persName> (<seg
