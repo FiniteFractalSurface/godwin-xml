@@ -902,7 +902,7 @@
        type="dText" subtype="read" target="/bibl/te2797.html">Quixote, p. 444</ref>.
        <placeName>Vauxhall Bridge</placeName>. <seg type="dMeeting" subtype="Aus"><persName
         ref="/people/GAS02.html">M<hi rend="sup">rs</hi> Gaskel</persName> &amp; <persName
-        type="nah">Bakewel</persName> au soir <hi rend="sup">n</hi></seg>. <ref type="dEvent"
+          type="nah" ref="/people/BAK11.html">Bakewel</persName> au soir <hi rend="sup">n</hi></seg>. <ref type="dEvent"
        subtype="Temp">66 ½ / 74</ref></ab>
      <ab type="dDay" xml:id="g1834-05-05"><date when="1834-05-05">5. M. </date><ref type="dWrote"
        subtype="write" target="/works/necr01.html">Necromancers, p. 234</ref>. <ref
@@ -1083,7 +1083,7 @@
      <ab type="dDay" xml:id="g1834-05-28"><date when="1834-05-28">28. W. </date><seg type="dMeal"
        subtype="D">Dine at <persName ref="/people/GAS01|GAS02.html"><placeName type="venue"
          >Gaskel’s</placeName></persName>, w. <persName> Hawes’s</persName>,
-        <persName>Bakewel</persName>, &amp; <persName>col. Williams</persName></seg>: <seg
+         <persName ref="/people/BAK11.html">Bakewel</persName>, &amp; <persName>col. Williams</persName></seg>: <seg
        type="dMeal" subtype="SG"><persName ref="/people/SMI04.html">A Smith</persName> &amp;
         <persName ref="/people/WIL02.html">Wilson</persName> sup</seg>.<ref type="dEvent"
        subtype="Temp"> 63 / 68 ½</ref></ab>
@@ -1245,7 +1245,7 @@
        <seg type="dMeeting" subtype="CG"><persName ref="/people/GAS02.html">mrs
        Gaskel</persName></seg>, <seg type="dMeeting" subtype="CG"><persName ref="/people/JOH01.html"
         >Johnson</persName></seg> &amp; <seg type="dMeeting" subtype="CG"
-        ><persName>Bakewel</persName> call</seg>.<ref type="dEvent" subtype="Temp"> 68 ½ /
+          ><persName ref="/people/BAK11.html">Bakewel</persName> call</seg>.<ref type="dEvent" subtype="Temp"> 68 ½ /
       71</ref></ab>
      <ab type="dDay" xml:id="g1834-06-18"><date when="1834-06-18">18. W. </date><ref type="dWrote"
        subtype="write" target="/works/poli01.html">Review, p. 5/2</ref>. <ref type="dEntertainment"
