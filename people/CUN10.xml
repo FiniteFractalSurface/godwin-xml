@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Person List</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Generated data</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="CUN10" sex="2">
+               <persName>
+                  <roleName/>
+                  <forename>Mrs Allan</forename>
+                  <surname>Cunningham</surname>
+                  <addName/>
+               </persName>
+               
+               <birth when="1791">
+                  <placeName/>
+               </birth>
+               <death when="1864"/>
+               <occupation>Unknown</occupation>
+               <note type="editorial">
+                  <p>Mrs Allan Cunningham was the wife of Allan Cunningham, who wrote Lives of the Most Eminent British Painters. Mrs Allan Cunningham was called Jean Walker prior to marriage, who had been servant in a house where he lived. He wrote the song 'The Lass of Preston Mill' for her. They went to London, and they married at St Saviour's, Southwark, on 1 July 1811.
+                  </p>
+               </note>
+            </person> </listPerson>
+      </body>
+   </text>
+</TEI>
