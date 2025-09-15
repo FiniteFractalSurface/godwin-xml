@@ -534,7 +534,7 @@
                            ref="/people/LES02.html">Leslie</persName></seg></seg>: <seg type="dMeal"
                      subtype="Ta">tea <persName ref="/people/SMI02.html"><placeName type="venue">C
                            Smith's</placeName></persName>, w. <persName ref="/people/COL01.html"
-                        >Coleridge</persName> &amp; <persName>miss Barker</persName></seg>: <seg
+                              >Coleridge</persName> &amp; <persName ref="/people/BAR14.html">miss Barker</persName></seg>: <seg
                      type="dMeeting" subtype="CG"><persName ref="/people/FEN01.html"
                         >Fenwick</persName> calls</seg>.</ab>
                <ab type="dDay" xml:id="g1800-02-13"><date when="1800-02-13">13. Th.</date><ref
@@ -735,7 +735,7 @@
                            type="venue">S E</placeName></persName><hi rend="sup">n</hi></seg>, <seg
                      type="dMeeting" subtype="C"><persName ref="/people/SMI02.html"><placeName
                            type="venue">C Smith</placeName></persName> (<seg type="dMeeting"
-                        subtype="Adv">adv. <persName>miss Barker</persName></seg></seg>), <seg
+                              subtype="Adv">adv. <persName ref="/people/BAR14.html">miss Barker</persName></seg></seg>), <seg
                      type="dMeeting" subtype="C"><persName ref="/people/ROB04.html" type="nah"
                            ><placeName type="venue">mrs Robinson</placeName></persName><hi
                         rend="sup">na</hi></seg>: <seg type="dMeal" subtype="S">sup at <persName
