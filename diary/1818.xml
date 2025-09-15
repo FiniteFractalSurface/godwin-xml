@@ -1337,7 +1337,7 @@
                             type="dWrote" subtype="write" target="/works/life01.html">Life, 1
                             page</ref>. <ref type="dText" subtype="read" target="/bibl/te2589.html"
                             >Johnston, p. 366</ref>. <seg type="dMeeting" subtype="C">Call on
-                                    <persName><placeName type="venue"
+                                <persName ref="/people/BAG11.html"><placeName type="venue"
                             >Bagster</placeName></persName></seg>, <seg type="dMeeting" subtype="C"
                                     ><persName><placeName type="venue"
                                 >Pearsal</placeName></persName></seg> &amp; <seg type="dMeeting"

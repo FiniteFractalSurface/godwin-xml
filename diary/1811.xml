@@ -67,7 +67,7 @@
                                 <persName>Marshal</persName></ref>. <seg type="dMeeting" subtype="C"
                             >Call on <persName ref="/people/KNO01.html"><placeName type="venue"
                                     >Knowles</placeName></persName></seg>, <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                        subtype="C"><persName ref="/people/BAG11.html"><placeName type="venue"
                                 >Bagster</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName ref="/people/TAY01.html"><placeName type="venue">J
                                     Taylor</placeName></persName></seg>.</ab>
@@ -830,7 +830,7 @@
                                     ><placeName type="venue">Hume</placeName></persName></seg>, <seg
                             type="dMeeting" subtype="C"><persName><placeName type="venue">S
                                     Hayes</placeName></persName></seg>, <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                        subtype="C"><persName ref="/people/BAG11.html"><placeName type="venue"
                                 >Bagster</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName><placeName type="venue"
                                 >Jackson</placeName></persName></seg>: <seg type="dMeeting"
@@ -920,7 +920,7 @@
                     <ab type="dDay" xml:id="g1811-03-15"><date when="1811-03-15">15. F.</date><seg
                             type="dMeeting" subtype="CG"><persName ref="/people/BLO01.html"
                                 >Bloomfield</persName> calls</seg>: <seg type="dMeeting" subtype="C"
-                            >call on <persName><placeName type="venue"
+                                    >call on <persName ref="/people/BAG11.html"><placeName type="venue"
                                 >Bagster</placeName></persName></seg>: <seg type="dMeal"
                             subtype="DG"><persName ref="/people/ALD01|ALD05.html">Aldis’s</persName>
                             &amp; <persName ref="/people/HUM01|HUM02.html">4 Hume</persName> dine;
