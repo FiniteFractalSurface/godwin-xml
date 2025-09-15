@@ -2728,7 +2728,7 @@
                      trial</ref>: <ref type="dEvent" subtype="Trial" target="/events/tr0008.html"
                      >hear <persName>Barrington</persName></ref>: <seg type="dMeal" subtype="DG"
                         ><persName>int. Kelly</persName>: <persName>Eustace</persName>,
-                        <persName>Ball</persName> &amp; <persName>Barrington</persName> dine; <seg
+                        <persName ref="/people/BAL13.html">Ball</persName> &amp; <persName>Barrington</persName> dine; <seg
                         type="dMeeting" subtype="Adv">adv.
                   <persName>Whaley</persName></seg></seg>.</ab>
                <ab type="dDay" subtype="NotLon" xml:id="g1800-08-06"><date when="1800-08-06">6.

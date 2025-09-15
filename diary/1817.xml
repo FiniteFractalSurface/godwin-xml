@@ -816,7 +816,7 @@
                                 ref="/people/HAY02.html"><placeName type="venue"
                                 >Hayward</placeName></persName></seg>: <seg type="dMeal" subtype="D"
                             >dine at <persName ref="/people/CUR01.html"><placeName type="venue"
-                                    >Curran’s</placeName></persName>, w. <persName>Ball (from
+                                    >Curran’s</placeName></persName>, w. <persName ref="/people/BAL13.html">Ball (from
                                     <placeName type="venue">Rome</placeName>)</persName>, &amp;
                                 <persName ref="/people/LUB01.html">Lubey</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1817-03-22"><date when="1817-03-22">22. Sa.</date><ref
