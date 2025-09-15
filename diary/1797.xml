@@ -2032,9 +2032,9 @@
                      Trent</placeName>.</ab>
                <ab type="dDay" subtype="NotLon" xml:id="g1797-06-14"><date when="1797-06-14">14. W.
                      </date><placeName>Elford</placeName>; <seg type="dMeeting" subtype="Do">walk w.
-                        <persName>Bage</persName></seg>: dine at <placeName>Tamworth</placeName>;
-                     <seg type="dMeeting" subtype="CG"><persName>Bage</persName> calls</seg>: <seg
-                     type="dMeal" subtype="S">sup at <persName><placeName type="venue"
+                        <persName ref="/people/BAG10.html">Bage</persName></seg>: dine at <placeName>Tamworth</placeName>;
+                  <seg type="dMeeting" subtype="CG"><persName ref="/people/BAG10.html">Bage</persName> calls</seg>: <seg
+                     type="dMeal" subtype="S">sup at <persName ref="/people/BAG10.html"><placeName type="venue"
                            >Bage's</placeName></persName>, w. <persName ref="/people/DAV02.html"
                         >Davis</persName></seg>.</ab>
                <ab type="dDay" subtype="NotLon" xml:id="g1797-06-15"><date when="1797-06-15">15.
