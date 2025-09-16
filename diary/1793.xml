@@ -191,10 +191,11 @@
                             target="/bibl/te0276.html">Pol. Justice, 13 pages</ref>. <seg
                             type="dMeeting" subtype="C">Call on <persName ref="/people/HOL01.html"
                                     ><placeName type="venue">Holcroft</placeName></persName></seg>
-                        &amp; <seg type="dMeeting" subtype="C"><persName ref="/people/GRA18.html"><placeName type="venue"
-                                    >Gray</placeName></persName></seg>. <emph rend="red"><ref
-                                type="dEvent" subtype="Publ" target="/events/pu0056.html"> Appeal,
-                                283 Death, 366 to 321</ref></emph></ab>
+                        &amp; <seg type="dMeeting" subtype="C"><persName ref="/people/GRA18.html"
+                                    ><placeName type="venue">Gray</placeName></persName></seg>.
+                            <emph rend="red"><ref type="dEvent" subtype="Publ"
+                                target="/events/pu0056.html"> Appeal, 283 Death, 366 to
+                            321</ref></emph></ab>
                     <ab type="dDay" xml:id="g1793-01-18"><date when="1793-01-18">18. F.</date><ref
                             type="dWrote" subtype="letter" target="/works/muci01.html">Mucius,
                             Letter 4</ref>. <ref type="dText" subtype="read"
@@ -211,12 +212,12 @@
                             Letter 2 1/2 pages</ref>. <seg type="dMeeting" subtype="C">Call on
                                 <persName ref="/people/MOR04.html"><placeName type="venue">W
                                     Morgan</placeName></persName></seg>: <ref type="dWrote"
-                                        subtype="letter">write to <persName ref="/people/FRA04.html">Franklin</persName></ref>. <ref
-                            type="dText" subtype="read" target="/bibl/te0276.html">Pol. Justice,
-                            Vol. II, 18 pages</ref>: <ref type="dText" subtype="read">First of July,
-                            a Comedy by E. T.</ref><emph rend="red"><ref type="dEvent"
-                                subtype="Publ" target="/events/pu0056.html"> Delay 310 to
-                            380</ref></emph></ab>
+                            subtype="letter">write to <persName ref="/people/FRA04.html"
+                                >Franklin</persName></ref>. <ref type="dText" subtype="read"
+                            target="/bibl/te0276.html">Pol. Justice, Vol. II, 18 pages</ref>: <ref
+                            type="dText" subtype="read">First of July, a Comedy by E. T.</ref><emph
+                            rend="red"><ref type="dEvent" subtype="Publ"
+                                target="/events/pu0056.html"> Delay 310 to 380</ref></emph></ab>
                     <pb n="e.200_0016r"/>
                     <ab type="dDay" xml:id="g1793-01-20"><date when="1793-01-20">Jan. 20.
                             Su.</date><ref type="dWrote" subtype="letter"
@@ -697,7 +698,8 @@
                                 >insurrections</seg></ref>, <seg type="dMeeting" subtype="See">see
                                 <persName ref="/people/MAC01.html">M<hi rend="sup"
                                 >c</hi>intosh</persName></seg> &amp;<seg type="dMeeting"
-                                    subtype="See"><persName ref="/people/GRA18.html">Gray</persName></seg>.</ab>
+                            subtype="See"><persName ref="/people/GRA18.html"
+                        >Gray</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1793-03-05"><date when="1793-03-05">5. Tu. </date><ref
                             type="dWrote" subtype="write" target="/works/warf01.html">Write 7
                             pages</ref>. <ref type="dText" subtype="read" target="/bibl/te0297.html"
@@ -799,7 +801,7 @@
                                     type="venue">Inchbald</placeName></persName>, nah</seg>.</ab>
                     <ab type="dDay" xml:id="g1793-03-16"><date when="1793-03-16">16. Sa.</date><ref
                             type="dText" subtype="read" target="/bibl/te0297.html">Middleton, p.
-                            234</ref>. <seg type="dMeal" subtype="D">Dine at <persName><placeName
+                            234</ref>. <seg type="dMeal" subtype="D">Dine at <persName ref="/people/HEN04.html"><placeName
                                     type="venue">Henley’s</placeName></persName></seg>; <seg
                             type="dMeal" subtype="S">sup at <persName ref="/people/GOD04.html"
                                     ><placeName type="venue">miss Godwin’s</placeName></persName>,
@@ -1054,7 +1056,7 @@
                             95</ref>.</ab>
                     <ab type="dDay" xml:id="g1793-04-09"><date when="1793-04-09">9. Tu.</date><seg
                             type="dMeeting" subtype="CG"><persName>Rivers</persName></seg> &amp;
-                            <seg type="dMeeting" subtype="CG"><persName>Henley</persName>
+                        <seg type="dMeeting" subtype="CG"><persName ref="/people/HEN04.html">Henley</persName>
                         call</seg>. <ref type="dText" subtype="read" target="/bibl/te0314.html"
                             >Horace, Sat. V</ref>: <ref type="dText" subtype="read"
                             target="/bibl/te0315.html"> Rollin, p. 140</ref>: <ref type="dText"
@@ -2756,11 +2758,12 @@
                         >sciences</seg></seg>: <seg type="dMeal" subtype="D">dine at <persName
                                 ref="/people/HOL01.html"><placeName type="venue"
                                     >Holcrofts</placeName></persName>, with <persName
-                                ref="/people/PER01.html">Perry</persName>,
-                            <persName ref="/people/GRA18.html">Gray</persName>, <persName ref="/people/SHI01.html"
-                                >Shield</persName>, <persName ref="/people/COL08.html"
-                                >Cole</persName>;<seg type="dMeeting" subtype="Adv"> adv. <persName
-                                    ref="/people/JAR01.html">Jardine</persName></seg></seg></ab>
+                                ref="/people/PER01.html">Perry</persName>, <persName
+                                ref="/people/GRA18.html">Gray</persName>, <persName
+                                ref="/people/SHI01.html">Shield</persName>, <persName
+                                ref="/people/COL08.html">Cole</persName>;<seg type="dMeeting"
+                                subtype="Adv"> adv. <persName ref="/people/JAR01.html"
+                                    >Jardine</persName></seg></seg></ab>
                     <ab type="dDay" xml:id="g1793-09-23"><date when="1793-09-23">23. M.</date><ref
                             type="dText" subtype="read" target="/bibl/te0031.html">Systême, p.
                             274</ref>: <ref type="dText" subtype="read" target="/bibl/te0416.html"
@@ -2853,9 +2856,9 @@
                             subtype="D">Dine at <persName ref="/people/SHI01.html"><placeName
                                     type="venue">Shield’s</placeName></persName>, w. <persName
                                 ref="/people/HOL01.html">Holcroft</persName>,<persName
-                                ref="/people/PER01.html"> Perry</persName>,
-                                <persName ref="/people/GRA18.html">Gray</persName> &amp;
-                                <persName ref="/people/GOR02.html">Gordon</persName></seg>.</ab>
+                                ref="/people/PER01.html"> Perry</persName>, <persName
+                                ref="/people/GRA18.html">Gray</persName> &amp; <persName
+                                ref="/people/GOR02.html">Gordon</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1793-09-30"><date when="1793-09-30">30. M.</date><ref
                             type="dWrote" subtype="write" target="/works/cale01.html">Write p. 67,
                             68, 69/2</ref>. <ref type="dText" subtype="read"
@@ -3250,8 +3253,8 @@
                             subtype="S">sup w.<persName ref="/people/HOL01.html"> him </persName>at
                                 <persName ref="/people/PER01.html"><placeName type="venue"
                                     >Perry’s</placeName></persName>;<seg type="dMeeting"
-                                        subtype="Adv"> adv. <persName ref="/people/GOR02.html">Gordon </persName>&amp;<persName>
-                                    Barnes</persName></seg></seg></ab>
+                                subtype="Adv"> adv. <persName ref="/people/GOR02.html">Gordon
+                                    </persName>&amp;<persName> Barnes</persName></seg></seg></ab>
                     <pb n="e.201_0015v"/>
                     <ab type="dDay" xml:id="g1793-11-04"><date when="1793-11-04">5. M.</date><ref
                             type="dEvent" subtype="PersEvent" target="/events/pe0495.html"/><ref
@@ -3365,18 +3368,18 @@
                             455</ref>: <ref type="dText" subtype="read" target="/bibl/te0433.html"
                             >Bentham, p. 195</ref>: <ref type="dText" subtype="read"
                             target="/bibl/te0434.html">Gallery of Portraits, 50 pp</ref>.<seg
-                                type="dMeeting" subtype="C"> Call on <persName ref="/people/GRA18.html"><placeName type="venue"
-                                    >Gray</placeName></persName></seg>; <seg type="dMeeting"
-                            subtype="C"><persName ref="/people/POR01.html"><placeName type="venue"
-                                    >Porson</placeName></persName>, talk of <seg type="dTopic"
-                                >decency</seg> &amp;<seg type="dTopic"> property</seg>; &amp; <seg
-                                type="dTopic"><persName ref="/people/REV01.html">mrs
-                                    Reveley</persName></seg></seg>: <seg type="dMeal" subtype="S"
-                            >sup at <persName ref="/people/HOL01.html"><placeName type="venue"
-                                    >Holcroft’s</placeName></persName>, w. <persName
-                                ref="/people/DYS01.html"> Dyson</persName></seg>. <ref type="dEvent"
-                            subtype="PersEvent" target="/events/pe0053.html"><persName>C.</persName>
-                            in <placeName>town</placeName></ref></ab>
+                            type="dMeeting" subtype="C"> Call on <persName ref="/people/GRA18.html"
+                                    ><placeName type="venue">Gray</placeName></persName></seg>; <seg
+                            type="dMeeting" subtype="C"><persName ref="/people/POR01.html"
+                                    ><placeName type="venue">Porson</placeName></persName>, talk of
+                                <seg type="dTopic">decency</seg> &amp;<seg type="dTopic">
+                                property</seg>; &amp; <seg type="dTopic"><persName
+                                    ref="/people/REV01.html">mrs Reveley</persName></seg></seg>:
+                            <seg type="dMeal" subtype="S">sup at <persName ref="/people/HOL01.html"
+                                    ><placeName type="venue">Holcroft’s</placeName></persName>, w.
+                                <persName ref="/people/DYS01.html"> Dyson</persName></seg>. <ref
+                            type="dEvent" subtype="PersEvent" target="/events/pe0053.html"
+                                ><persName>C.</persName> in <placeName>town</placeName></ref></ab>
                     <ab type="dDay" xml:id="g1793-11-14"><date when="1793-11-14">15. Th.</date><ref
                             type="dEvent" subtype="PersEvent" target="/events/pe0495.html"/><ref
                             type="dText" subtype="read" target="/bibl/te0420.html">Juvenal VI, ad
@@ -3510,10 +3513,11 @@
                             at <persName ref="/people/PER01.html"><placeName type="venue"
                                     >Perry’s</placeName></persName>, w. <persName
                                 ref="/people/POR01.html">Porson</persName>,
-                                    <persName>Barnes</persName>, <persName ref="/people/GOR02.html">Gordon</persName>, <persName
-                                ref="/people/GIL01.html">Gillies</persName>, <persName>Call<hi
-                                    rend="sup">d</hi></persName> &amp; <persName
-                                ref="/people/HOL01.html">Holcrofts</persName></seg>.</ab>
+                                <persName>Barnes</persName>, <persName ref="/people/GOR02.html"
+                                >Gordon</persName>, <persName ref="/people/GIL01.html"
+                                >Gillies</persName>, <persName>Call<hi rend="sup">d</hi></persName>
+                            &amp; <persName ref="/people/HOL01.html"
+                        >Holcrofts</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1793-11-25"><date when="1793-11-25">25. M.</date><seg
                             type="dMeal" subtype="BG"><persName ref="/people/COO05.html">Miss
                                 Cooper</persName> breakfasts</seg>. <seg type="dMeeting" subtype="C"
@@ -3573,11 +3577,12 @@
                                 <persName>Hewardine</persName>, <persName>Pope</persName>,<persName
                                 ref="/people/DIG01.html"> Dignum</persName>,
                                 <persName>Johnstone</persName>, <persName ref="/people/PER01.html"
-                                    >Perry</persName>, <persName ref="/people/GOR02.html">Gordon</persName>, <emph rend="deleted"
-                                >Dignum, Johnstone, </emph><persName>Bell</persName>,<persName>
-                                Barnes</persName>, <persName ref="/people/GIL01.html"
-                                >Gillies</persName>, <persName>Stow</persName> &amp;
-                                <persName>Tanner</persName>.</seg></ab>
+                                >Perry</persName>, <persName ref="/people/GOR02.html"
+                                >Gordon</persName>, <emph rend="deleted">Dignum, Johnstone,
+                                </emph><persName>Bell</persName>,<persName> Barnes</persName>,
+                                <persName ref="/people/GIL01.html">Gillies</persName>,
+                                <persName>Stow</persName> &amp;
+                        <persName>Tanner</persName>.</seg></ab>
                 </div>
                 <div type="dMonth" xml:id="g1793-12">
                     <pb n="e.201_0017v"/>
@@ -3630,13 +3635,13 @@
                             at <persName ref="/people/HOL01.html"><placeName type="venue"
                                     >Holcroft’s</placeName></persName> with <persName
                                 ref="/people/POR01.html">Porson</persName>, <persName
-                                ref="/people/PER01.html">Perry</persName>,
-                                    <persName ref="/people/GOR02.html">Gordon</persName>, <persName ref="/people/SHI01.html"
-                                >Shield</persName> &amp; <persName ref="/people/REV01|REV02.html"
-                                >Reveleys</persName>, talk of <seg type="dTopic">self love</seg>
-                            &amp; <seg type="dTopic">God</seg>; <seg type="dMeeting" subtype="Adv"
-                                >adv. <persName ref="/people/DYS01.html"
-                            >Dyson</persName></seg></seg>.</ab>
+                                ref="/people/PER01.html">Perry</persName>, <persName
+                                ref="/people/GOR02.html">Gordon</persName>, <persName
+                                ref="/people/SHI01.html">Shield</persName> &amp; <persName
+                                ref="/people/REV01|REV02.html">Reveleys</persName>, talk of <seg
+                                type="dTopic">self love</seg> &amp; <seg type="dTopic">God</seg>;
+                                <seg type="dMeeting" subtype="Adv">adv. <persName
+                                    ref="/people/DYS01.html">Dyson</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1793-12-05"><date when="1793-12-05">5. Th. </date><ref
                             type="dText" subtype="read" target="/bibl/te0011.html">Hume, p.
                             124</ref>: <ref type="dText" subtype="read" target="/bibl/te0448.html"

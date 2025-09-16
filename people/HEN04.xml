@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Person List</title>
+            <respStmt>
+               <resp>Researched by</resp>
+               <name>EP</name>
+            </respStmt>
+            <respStmt>
+               <resp>Encoded by</resp>
+               <name>SI</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Generated data</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="HEN04" sex="1">
+               <persName>
+                  <roleName/>
+                  <forename>Isaac</forename>
+                  <surname>Henley</surname>
+                  <addName/>
+               </persName>
+               <birth when="1000">
+                  <placeName/>
+               </birth>
+               <death when="1794"/>
+               <occupation>Minister</occupation>
+               <note type="editorial">
+                  <p>Issac Henley was a Dissenting minister at Shaftesbury, Dorset (1763-6) and Hatfield, Herts (1766-64), as well as a schoolmaster in Bishops Stortford in 1780. He was buried at All Saints, Edmonton 27/09/1794. Henley’s wife died by 1791, and he had three children: John, Samuel Blackwell and Elizabeth. </p>
+                  <p>In the letter from John Arnot in St Petersburg to Godwin (dated 10/08/1798), Mr Henley’s help was mentioned. The Henley at Joseph Johnson’s in 1799 who appeared in the 1796 list may have been one of the sons, presumably not the one Godwin met on 27/04/1792. </p>
+               </note> 
+               <bibl type="other">
+                  <title>Ed Pope History 26/07/2012</title>
+               </bibl>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>
+
+

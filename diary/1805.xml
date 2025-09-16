@@ -250,7 +250,7 @@
                                     >Johnson’s</placeName></persName>, w. <persName
                                 ref="/people/FUS01.html">Fuseli</persName>, <persName
                                 ref="/people/BON01.html">Bonnycastle</persName> &amp;
-                                <persName>Henley</persName>;<seg type="dMeeting" subtype="Adv"> adv.
+                                    <persName ref="/people/HEN04.html">Henley</persName>;<seg type="dMeeting" subtype="Adv"> adv.
                                     <persName ref="/people/BAR06.html">A L Barb<hi rend="sup"
                                     >d</hi></persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1805-01-17"><date when="1805-01-17">17. Th. </date><ref
@@ -842,7 +842,7 @@
                                     >Johnson</placeName></persName>; <seg type="dMeeting"
                                 subtype="Adv">adv. <persName ref="/people/DAM01.html"
                                     >Damiani</persName> &amp;
-                            <persName>Henley</persName></seg></seg>:<seg type="dMeeting" subtype="M"
+                                        <persName ref="/people/HEN04.html">Henley</persName></seg></seg>:<seg type="dMeeting" subtype="M"
                             > meet <persName ref="/people/MOO06.html">C Moore </persName></seg>&amp;
                             <seg type="dMeeting" subtype="M"><persName ref="/people/RIC03.html">T C
                                 Rickman</persName></seg>: <seg type="dMeal" subtype="D">dine at

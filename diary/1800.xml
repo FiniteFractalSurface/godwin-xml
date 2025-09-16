@@ -57,7 +57,7 @@
                         type="dMeeting" subtype="Adv">adv. <persName ref="/people/TOB02.html"
                            >Tobin</persName> &amp; <persName ref="/people/HAZ01.html"
                            >Hazlit</persName></seg></seg>: <seg type="dMeeting" subtype="M">meet
-                        <persName>Henley</persName></seg>: <seg type="dMeeting" subtype="CG"
+                              <persName ref="/people/HEN04.html">Henley</persName></seg>: <seg type="dMeeting" subtype="CG"
                         ><persName ref="/people/WAL07.html" type="nah">Alex Walker</persName> calls
                         <hi rend="sup">n</hi></seg>.</ab>
                <ab type="dDay" xml:id="g1800-01-04"><date when="1800-01-04">4. Sa.</date><ref
@@ -1281,7 +1281,7 @@
                   calls</seg>: <seg type="dMeal" subtype="D">dine at <persName
                         ref="/people/JOH01.html"><placeName type="venue"
                         >Johnson's</placeName></persName>, w. <persName ref="/people/FUS01.html"
-                        >Fuseli</persName>, <persName>Henley</persName>, <persName
+                           >Fuseli</persName>, <persName ref="/people/HEN04.html">Henley</persName>, <persName
                         ref="/people/BON01.html">Bonnycastle</persName>, <persName
                         ref="/people/LIN03.html">Lindsay</persName>, <persName>Mawman</persName>,
                         <persName ref="/people/WIL02.html">Wilson</persName>, <persName
@@ -2242,7 +2242,7 @@
                         >Northcote</placeName></persName></seg>: meet <seg type="dMeeting"
                      subtype="M"><persName>A W</persName></seg>, <seg type="dMeeting" subtype="M"
                         ><persName ref="/people/UND01.html">Underwood</persName></seg>, <seg
-                     type="dMeeting" subtype="M"><persName>Henley</persName></seg>, <seg
+                           type="dMeeting" subtype="M"><persName ref="/people/HEN04.html">Henley</persName></seg>, <seg
                      type="dMeeting" subtype="M"><persName ref="/people/REY99.html"
                         >Reynolds</persName></seg> &amp; <seg type="dMeeting" subtype="M"
                         ><persName>R Johnson</persName></seg>: <seg type="dMeal" subtype="Ta">tea
@@ -3167,7 +3167,7 @@
                         ref="/people/COL01.html">Coleridge</persName></ref>. <seg type="dMeeting"
                      subtype="C">Call on <persName ref="/people/CAR01.html" type="nah"><placeName
                            type="venue">Carlisle</placeName></persName><hi rend="sup">n</hi></seg> :
-                     <seg type="dMeeting" subtype="M">meet <persName>Henley</persName></seg>, <seg
+                  <seg type="dMeeting" subtype="M">meet <persName ref="/people/HEN04.html">Henley</persName></seg>, <seg
                      type="dMeeting" subtype="M"><persName>Smith lp</persName></seg> &amp; <seg
                      type="dMeeting" subtype="M"><persName ref="/people/JEN01.html" type="nah"
                         >Jennings</persName> I<hi rend="sup">d</hi></seg>: <ref

@@ -2265,7 +2265,7 @@
                                     type="venue">Johnson</placeName></persName></seg>: <seg
                             type="dMeeting" subtype="M">meet <persName ref="/people/MAL01.html"
                                 >Malthus</persName></seg>, <seg type="dMeeting" subtype="M"
-                                ><persName>Henley</persName></seg> &amp; <seg type="dMeeting"
+                                    ><persName ref="/people/HEN04.html">Henley</persName></seg> &amp; <seg type="dMeeting"
                             subtype="M"><persName ref="/people/HAZ01.html">Hazlit</persName></seg>:
                             <seg type="dMeal" subtype="DG"><persName ref="/people/TUR01.html">T
                                 T</persName> dines</seg>: <ref type="dEvent" subtype="PersEvent"
