@@ -3408,7 +3408,7 @@
                             type="dMeal" subtype="D">dine at <persName ref="/people/JOH01.html"
                                     ><placeName type="venue">Johnson's</placeName></persName>, w.
                                 <persName ref="/people/FUS01.html">Fuseli</persName>,
-                                <persName>Herolet</persName> &amp; <persName
+                                <persName ref="/people/HEW01.html">Herolet</persName> &amp; <persName
                                 ref="/people/OTT01.html">Otton</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1798-10-10"><date when="1798-10-10">10. W.</date><ref
                             type="dText" subtype="read" target="/bibl/te0883.html">Savary, p.
