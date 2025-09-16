@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Person List</title>
+            <respStmt>
+               <resp>Researched by</resp>
+               <name>EP</name>
+            </respStmt>
+            <respStmt>
+               <resp>Encoded by</resp>
+               <name>SI</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Generated data</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="HAT02" sex="1">
+               <persName>
+                  <roleName/>
+                  <forename>Charles</forename>
+                  <surname>Hatchett</surname>
+                  <addName/>
+               </persName>
+               <birth when="1765-01-02">
+                  <placeName>Long Acre, London</placeName>
+               </birth>
+               <death when="1847-02-10">
+                  <placeName>Bellevue House</placeName>
+               </death>
+               <occupation>Chemist</occupation>
+               <note type="editorial">
+                  <p>This is likely to have been Charles Hatchett (1765-1847), a chemist and mineralogist. Hatchett married Elizabeth, the daughter of John Collick who was a Westminster magistrate. Godwin met Collick at Shield’s, 27/11/1794.</p>
+                  <p>Another possibility is that it was Horatio McGeorge, an eccentric actor known as Hatchet after one of his roles.</p>
+               </note>
+               <bibl type="other">
+                  <title>Ed Pope History Entry 27/07/2012</title>
+               </bibl>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>
