@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Person List</title>
+            <respStmt>
+               <resp>Researched by</resp>
+               <name>EP</name>
+            </respStmt>
+            <respStmt>
+               <resp>Encoded by</resp>
+               <name>SI</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Generated data</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="HES01" sex="1">
+               <persName>
+                  <roleName/>
+                  <forename>James Augustus</forename>
+                  <surname>Hessey</surname>
+                  <addName/>
+               </persName>
+               <birth when="1000">
+                  <placeName/>
+               </birth>
+               <death when="1000"/>
+               <occupation>Bookseller</occupation>
+               <note type="editorial">
+                  <p>James Augustus Hessey was a bookseller at 93 Fleet Street from 1806-1825, alongside John Taylor. They published the work of Keats. Hessey was also the father of James Augutus Hessey DNB 1814-1892.  </p>
+               </note>
+               <bibl type="other">
+                  <title>Ed Pope History Entry 13/03/2021</title>
+               </bibl>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>
+
+
