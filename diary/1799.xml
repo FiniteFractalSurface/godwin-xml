@@ -1915,7 +1915,7 @@
                      >Dine at <persName ref="/people/CHA01.html"><placeName type="venue"
                            >Chandler's</placeName></persName>, w. <persName ref="/people/MAC19.xml">Macquin</persName> &amp;
                         <persName>Deering</persName>; <seg type="dMeeting" subtype="Adv">adv.
-                           <persName>Calcot</persName> &amp; <persName>miss
+                           <persName ref="/people/CAL10.xml">Calcot</persName> &amp; <persName>miss
                         Stephens</persName></seg></seg>: <seg type="dMeeting" subtype="CG"><persName
                         ref="/people/HOL01.html">Ht</persName></seg>, <seg type="dMeeting"
                      subtype="CG"><persName ref="/people/MER06.html">C Mercier</persName></seg>
