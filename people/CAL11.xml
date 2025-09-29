@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Person List</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Generated data</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="CAL11" sex="1">
+               <persName>
+                  <roleName/>
+                  <forename>Andrew</forename>
+                  <surname>Caldwell</surname>
+                  <addName/>
+               </persName>
+               
+               <birth when="1733-12-19">
+                  <placeName/>
+               </birth>
+               <death when="1808-07-02"/>
+               <occupation>barrister</occupation>
+               <note type="editorial">
+                  <p>Andrew Caldwell was a barrister and connoisseur of architecture, eldest child of Charles Caldwell. He attended Glasgow University between 1751 and 1754 but chose not to graduate. He studied law with his father in Dublin before moving to London, but in 1760 he was called to the Irish bar.
+                     He spent a lot of time on appreciating the arts, in particular architecture. He was a particular fan of William Chambers. He was a friend to Charlotte Smith, who he appeared with in Godwin’s first entry mentioning him, and was mentioned in her Collected Letters.
+                  </p>
+               </note>
+            </person> </listPerson>
+      </body>
+   </text>
+</TEI>

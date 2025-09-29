@@ -2246,7 +2246,7 @@
                            ><placeName type="venue">M R</placeName></persName></seg>: <seg
                      type="dMeeting" subtype="M">meet <persName ref="/people/BAR03.html">H
                         Barry</persName></seg>: <seg type="dMeal" subtype="DG"><persName
-                        ref="/people/SMI02.html">C Smith</persName>, <persName>Caldwel</persName>,
+                              ref="/people/SMI02.html">C Smith</persName>, <persName ref="/people/CAL11.html">Caldwel</persName>,
                         <persName ref="/people/SKE02.html">Skeys's</persName> &amp; <persName
                         ref="/people/FEN01|FEN03.html">Fenwicks</persName> dine</seg>.</ab>
                <ab type="dDay" xml:id="g1799-07-23"><date when="1799-07-23">23. Tu. </date><ref
