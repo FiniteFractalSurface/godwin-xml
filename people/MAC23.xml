@@ -34,13 +34,14 @@
                     <birth when="1754">
                         <placeName/>
                     </birth>
-                    <death when="1817-09-12"</death>/
+                    <death when="1817-09-12"/>
                     <occupation>Politician</occupation>
                     <note type="editorial">
                         <p>Macmahon is likely the misplelt surname of John McMahon, initially an army ensign in America who went on to lead a career in politics under the Prince Regent. At the height of his military career he was made Lieutenant-Colonel of the 87th Infantry in 1794, before turning to politics where he allied closely with the Prince Regent and was made Vice Chancellor in 1800, MP for Aldeburgh between 1802-1812, and private secretary to the Regency.</p>
                     </note>
-                    <bibl type="MS"> </bibl>
+                    <bibl type="MS">
                         <title>DNB, Ed Pope</title>
+                    </bibl>
                 </person>
             </listPerson>
         </body>
