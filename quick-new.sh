@@ -1,6 +1,6 @@
 #!/bin/sh
 # Function defined start
-ghorm () {
+ghorm () { # this makes it so that the script works in both the outside directory and inside /people
     if ( echo "$PWD" | grep -Eq 'test1$' ); then newfile="./people/$work"
     elif ( echo "$PWD" |  grep -Eq 'people$' ); then newfile="./$work"
     fi
@@ -15,9 +15,13 @@ fancyelip () {
     n=0; while [ "$n" -lt 3 ]; do sleep "$elipdelay" && printf "."; n=$((n+1)); done; printf " "
     if [ "$1" = "--newline" ]; then printf "\n"; fi
 }
+eksit () {
+    sleep 10
+    exit 1
+}
 # Function defined end
 
-cd "$(dirname "$0")" || exit 1 # For the sake of double-click run
+cd "$(dirname "$0")" || eksit # For the sake of double-click run
 
 # Variable declarations start
 templatefilename="AApersonTemplate.xml"
@@ -28,12 +32,12 @@ if uname -s | grep -q "Darwin"; then echo "Current operating system is OSX. This
 
 if ( echo "$PWD" | grep -q '.*test1$' ) && ( echo "$PWD" | grep -q '.*people$' ); then # Error condition 1: Is the working directory correct? Valid working directories are test1 or people
     echo "You're not in the right directory. Please change directory to either test1 or people."
-    exit 1
+    eksit
 fi
 
 if [ ! -f ../$templatefilename ] && [ ! -f ./$templatefilename ] && [ ! -f ./people/$templatefilename ]; then # Error condition 2: Is the template file, as defined at the beginning, available?
     echo "Template file not found! Check your current working directory."
-    exit 1
+    eksit
 fi
 # TODO Make independent fallback template, hard-coded into the script using printf
 
@@ -62,7 +66,7 @@ elif ( echo "$PWD" | grep -Eq 'people$' ) || ( echo "$PWD" | grep -Eq 'test1$' )
     persid=${newfile%.xml} && persid=${persid##*/} # extracts the code id from the filename, since they are one in the same.
 else
     echo "Something's wrong."
-    exit 1
+    eksit
 fi
 
 if ( echo "$newfile" | grep -Eq '\.xml$' ); then
@@ -78,14 +82,13 @@ if ( echo "$newfile" | grep -Eq '^.*\/[A-Z]{3}[0-9]{2}\.xml$' ); then
     echo "Filename seems to follow the 5 char convention!"
 else
     echo "That name doesn't quite seem right. Try again?"
-    sleep 10
-    exit 1
+    eksit
 fi
 
 if [ -f "$newfile" ]; then
     new=$(echo "$persid" | grep -Eo '[0-9]{2}$') # basically only exists so the failure scenario can take place
 
-    printf "\033[0;31mFile already exists\033[0m! Attempting to fix filename to not conflict. "
+    printf "\033[1;33mFile already exists\033[0m! Attempting to fix filename to not conflict. "
     if echo "$PWD" | grep -Eq 'test1$' ; then
         if [ ! "$(uname -o)" = "GNU/Linux" ]; then echo "If you're stuck on this, please be patient and let it run its course. This can occur the first time the script used after starting the operating system."; fi
         switch2="people/"
@@ -108,9 +111,17 @@ if [ -f "$newfile" ]; then
     fi
 
     printf "New person ID: \033[0;32m%s\033[0m.\n" "$persid"
-    if [ -f "$newfile" ]; then echo "We've failed." && sleep 3 && exit 1; fi
+    if [ -f "$newfile" ]; then echo "We've failed." && eksit; fi
 fi
+#TODO check if there's a corresponding html file. If there is, ask to make certain that overwriting ghost file is intended. The reason why this is out here instead of in the above check is so that this check is certain to happen, regardless if there was a filename collision.
+# if [ -f "$persid"".html" ]; then
+#     printf "The newly created file will use the code of a ghost file. Is this what you want to do? (y/N): "; read -r yn
+#     if
+#     newfile=""
+# fi
 
+
+#
 #
 # Error checking and prelude done, actual XML field work starts here
 #
