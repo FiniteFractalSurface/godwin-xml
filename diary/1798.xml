@@ -3160,7 +3160,7 @@
                                 ref="/people/FEL01.html"><placeName type="venue"
                                 >Fells</placeName></persName>; <seg type="dMeeting" subtype="Adv"
                                 >adv. <persName>Kennedy</persName></seg></seg>. <ref type="dEvent"
-                            subtype="PersEvent"><persName>M<hi rend="sup">rs</hi> Bailey</persName>
+                                    subtype="PersEvent"><persName ref="/people/BAI03.html">M<hi rend="sup">rs</hi> Bailey</persName>
                             married</ref>.</ab>
                     <ab type="dDay" xml:id="g1798-09-18"><date when="1798-09-18">18. Tu.</date><ref
                             type="dText" subtype="read" target="/bibl/te0532.html">Lucan, 815</ref>:

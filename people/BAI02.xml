@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="BAI02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Miss</forename>
+                        <surname>Bailey</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>J C Bailey signed the Declaration of Friends to Liberty of the Press
+                            1792, as did many London Corresp Socy members, but have found nothing
+                            more about him. Most of the few LCS members Godwin met were at Powell's
+                            or Thelwall's. There was an LCS member named Peter Bailey but we have found nothing more on that name. 
+                            There is no reason
+                            to think this was Dr Baillie whom Godwin met at Miss Williams' in
+                            1789/90 and whose family Godwin at first spelt Bailey but later spelt
+                            Baillie. But it may well be that the misses Bailey are the children of Dr Baillie.
+                            One of the later Baileys referred to Godwin's married niece or
+                            her family (see Bailey, Mary). There were no Baileys in the diary
+                            between 1812 and 1831 when F Bailey and T N Bailey appeared. Francis
+                            Baily DNB 1774-1844 stockbroker and astronomer was probably referred to
+                            on 22.1.1821 when Lamb "reports the opinion of Baily Fra" and perhaps on
+                            19.5.1831 call on Baily. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

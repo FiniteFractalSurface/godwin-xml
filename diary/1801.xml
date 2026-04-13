@@ -3309,7 +3309,7 @@
                                 ref="/people/SMI12.html">Ja Smith</persName></seg>, <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/FEL01.html"
                                 >Fell</persName></seg> &amp; <seg type="dMeeting" subtype="CG"
-                                ><persName>mrs Bailey</persName> call</seg>: <seg type="dMeal"
+                                    ><persName ref="/people/BAI03.html">mrs Bailey</persName> call</seg>: <seg type="dMeal"
                             subtype="TG"><persName ref="/people/TUT01.html">Tuthil</persName> &amp;
                                 <persName ref="/people/MAN01.html">Manning</persName> at tea</seg>:
                             <seg type="dMeeting" subtype="C">call on <persName
