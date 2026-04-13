@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name></name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="JEN05" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Edmund</forename>
+                        <surname>Jennings</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>RJennings, Edmund 29.1.1789 Jennings at B Hollis' /
+                            30.5.1789, 4.11.1789, 27.1.1790, 21.12.1790, 2.3.1791, 11.4.1791,
+                            14.7.1791, 9.1.1792 and 31.3.1792 there / 2.6.1797 Jennings at B Hollis'
+                            / 22.6.1798 meet E Jennings Edmund Jenings, mentioned in Brand Hollis'
+                            will (PCC 1804) and present at most of Brand Hollis' dinners when Godwin
+                            dined there. Wrote a work on the peace with America 1778 and a dispute
+                            with Henry Laurens 1783. In 1791 listed as member of Unitarian Society,
+                            address Wright's Hotel, Soho Sq. On 13.6.1792 he chaired meeting at
+                            London Tavern of Society for Commemorating the Glorious… </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title></title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
+

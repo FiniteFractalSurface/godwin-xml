@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="JEN04" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>'Irish'</forename>
+                        <surname>SJennings</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>CJennings, (Ireland) Acquaintance made in Ireland with Curran</p>
+                        <p>Jennings 12.7.1800 dines
+                            (in Ireland) / 20.9.1800 meet Jennings, Id (in London) / 25.9.1800 tea
+                            mrs Plunket's with 2 Jennings's / 28.9.1800 meet Jennings, Dobbs and
+                            O'Reily / 2.10.1800 meet Jno. Jennings and Burne / 16.1.1802 meet Curran,
+                            Bennet and Jennings / 15.4.1804 coach,adv Jennings / 4.10.1805 Jennings
+                            Irish at Curran's (Irish is at end of day's entry in GD website
+                            transcription but see original) / 21.1.1806 meet Jennings / 6.10.1806
+                            Jennings at Curran's / 20.10.1809 again / 22.10.1811 meet Jennings (with
+                            Curran) / 29.10.1811 Jennings with Curran at Hatchet's / 26.11.1811
+                            seek…  </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

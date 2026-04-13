@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="HUN09" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>A and J</forename>
+                        <surname>Hunter</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>17.9.1794 Hunters at Hazlitt's & 10.12.1794 at Thelwals with Hazlits,
+                            15.12.1794 Hunter at Hazlits, 31.1.1795 at Powels. </p>
+                        <p>The brothers
+                            Archibald and Joseph Hunter both signed the Declaration of the Friends to
+                            the Liberty of the Press 1792 and both joined the London Corresponding
+                            Socy (see Thale; and Trials for Treason and Sedition vols 4 and 5).</p>
+                            <p>Archibald was a witness at Thomas Hardy's trial. He was in Hardy's
+                            division of the LCS and said he was introduced to it by his brother
+                            Joseph. He lived in Greek Street with his wife Sarah and voted for Fox
+                            in 1796. </p>
+                        <p>Joseph was a perfumer/hairdresser at 12 New St Covent Garden in
+                            1789-90 and then in Compton Street where he voted for Tooke in 1796. The
+                            context of Thelwall, Hazlitt and Powell is typical of the few LCS
+                            members Godwin met and all the other Hunters in the diary can be
+                            otherwise accounted for. </p>
+                            
+                            <p>Ed Pope's Notes: Work notes St Ann Soho 6.11.1768 bapt Archibald
+                            s of Archibald & Anna Maria Hunter / 1791 subscr to Cox's Voyage A H Esq
+                            Egware Rd / 1.1.1795 Sarah wife of A H of Greek St prosecuted John
+                            Bryant labourer for assault / A H of Warren St Fitzroy Sq on committee
+                            at Pancras meeting in 1804 Middlesex election / 13.5.1824 St Marylebone
+                            A H widower = Eleanor Jones sp botp by banns (wits Carstairs, Grainger,
+                            Hills, Caldwell) /1841 census Baker St east side A H age 80 born
+                            Scotland Independent, Eleanor H age 55, A H age 20 / death A H 1847 2ndQ
+                            will PCC 1847 / died 1838 at Havre de Grace in her 80th yr, Helena widow
+                            of A H Esq Jos Hunter appr 1767 to Wm Mitchell hosier St Paul Covt Gdn /
+                            1780 J H 6 Chandos St hosier, 1790 65 Chiswell St / 29.9.1805 Joseph H
+                            bur St Marylebone / Joseph H PCC ?1822 Cumbrae Bute Scotland Joseph s of
+                            John H bapt 1754 Archibald bapt 1759.  </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

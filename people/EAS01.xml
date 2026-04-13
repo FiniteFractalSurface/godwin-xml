@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="EAS01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Robert William</forename>
+                        <surname>Eastwick</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Capt Robert William Eastwick of East India Company's service was born
+                            25.1.1772 bapt 17.7.1772 St Mary Whitechapel son of Robert & Theodosia.
+                            He first married Martha Buschman at St George in the East Stepney on
+                            24.12.1790. His illegitimate daughter by Sarah Rogers was born 5.6.1793
+                            and baptised Almena at St George in the East on 26.4.1811. He married at
+                            Calcutta 17.12.1796 Lucy King born 1765 Puttenham Surrey dau of John
+                            King died 1803 and Mary nee Budd died 1817. Their children Eliza born
+                            1798 married Major John Ford of Madras Establishment (8.10.1817 Bombay
+                            Gazette) / Robert John bapt 30.9.1806 at Beoley, Worcs and died
+                            11.2.1808 / William Joseph born 1808 baptised 7.1.1809 St Pancras
+                            married 1841 Mary Ann Haywood Cotes, died 1889 / Anna born 1811 and died
+                            12.2.1820 at Warfield, Berks / Edward Backhouse DNB 1814-1883 bapt
+                            25.4.1814 at Warfield. The will of Mary King PCC 1817 said she was
+                            living with her daughter Lucy Eastwick and was witnessed on 26.4.1811 by
+                            R W Eastwick, Union St, Somers Town. Lucy Eastwick died 1824 of
+                            consumption. Captain Eastwick of the Elizabeth was wrecked off Dunkirk
+                            in Jan 1811. His third wife was Martha Hopwood (see my entry for Henry).
+                            He was in the Ionian Islands 1832-1835 and was buried 6.1.1866 age 90
+                            (though even older). All the L Eastwick and Mrs Eastwick entries above
+                            were probably Lucy Eastwick, and the plain Eastwick entries quite likely
+                            her though possibly her husband. The Miss Eastwick of 1805, E Eastwick
+                            of 1811, and E Eastwick junior of 1814 were probably all her oldest
+                            daughter Eliza at age 7, 13 and 16, though there may also have been a
+                            sister of the Captain </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

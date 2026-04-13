@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="UPC01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>William</forename>
+                        <surname>Upcott</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1779">
+                        <placeName/>
+                    </birth>
+                    <death when="1845"/>
+                    <occupation>antiquarian, collector</occupation>
+                    <note type="editorial">
+                        <p>William Upcott was the illegitimate son of Ozias Humphrey, a portrait
+                            painter and miniaturist. He was apprenticed to Joseph Wright and then
+                            worked for R. Evans before moving to be an assistant at the London
+                            Institution. Godwin may have sought him out with respect 
+                            collections relating to the civil war.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">ed. Philp, Aykan, and Leung<title>A Collector
+                            Collected</title>, London, Royal Historical Society, 2025</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

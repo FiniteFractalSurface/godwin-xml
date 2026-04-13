@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="GIB01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>NAME</forename>
+                        <surname>SURNAME</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Henry Gibson surgeon of Newcastle upon Tyne proposed Society for
+                            Constitutional Information 6.4.1781 by John Cartwright 2nded Dr Snowden
+                            White Henry Gibson surgeon Newcastle voted Phipps and Delaval 1774, Bowes
+                            1777 / Newcastle directory 1778 Westgate St / took apprentices 1771,
+                            1776, 1779, 1781 / perhaps the Henry Gibson buried 24.8.1782 Newcastle
+                            All Saints. </p>
+                           <p> A Henry Gibson was buried Newcastle All Saints 30.5.1814 age
+                            36 of Pilgrim St, perhaps his son, as perhaps also Henry Gibson
+                            assistant surgeon wounded on Kent East Indiaman captured by French
+                            privateer 7.10.1800. See James Spedding DNB 1808-1881 whose mother was
+                            Sarah eldest dau of Henry Gibson of Newcastle upon Tyne, (John Spedding
+                            of Armathwaite Cumberland = Newcastle 1799 Sarah Gibson). </p>
+                           <p> James
+                            Spedding's brother Anthony was guardian of a Henry Gibson articled to an
+                            attorney in London in 1834. Prerogative Court of York wills which I
+                            don't have easy access to, or a visit to Newcastle public library might
+                            reveal more. </p>
+                            <p>See also: Gibson, Thomas Submitted by edpope on Mon,
+                            26/05/2014 - 21:26 See Castle Street East 1 to 15 and c in London Addresses
+                            dataset No 8 Castle St East Land Tax 1784 Thomas Gibson / Harris's List
+                            1788 Miss Br-wn 1789 Miss B-ks The Covent Garden Ladies were in the gap
+                            for which we have no Land Tax Records 1785-1790. Thomas Gibson =
+                            11.5.1776 St James Piccadilly to Lydia Louise Jullion / London
+                            Consistory Court will dated 13.8.1785 of Thomas Gibson builder of St
+                            Marylebone with brother James erecting building on corner of Weymouth St
+                            and Portland Pl mortgaged to John Elwes Esq, wife Louisa Lydia proved
+                            17.9.1785 / Louisa Lydia Gibson widow otp = 27.5.1790 St Marylebone by
+                            lic John Fraser wid otp </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
