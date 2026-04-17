@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="KNO05" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Mary</forename>
+                        <surname>Knowles</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1733">
+                        <placeName/>
+                    </birth>
+                    <death when="1804"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>In 1796 list near end of
+                            1794. Mary Knowles DNB 1733-1804 poet, widow since 1784 (tagged as
+                            identified in GD website but no data in person record). Maybe also
+                            6.6.1796 hustings, presently coded to John Knowles, if she had here
+                            "earned" the plain surname Godwin used for independent women like
+                            Wollstonecraft and Mansel. Her interest in the trial suggests a possible
+                            interest in the election </p> <p>mrs Knowles 8.12.1794 see at Thelwal's trial / 18.12.1794 at Foulkes' /
+                                22.11.1800 at Carlisle's / 26.9.1804 meet. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

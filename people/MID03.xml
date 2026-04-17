@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="MID03" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Nathaniel</forename>
+                        <surname>Middleton</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1750">
+                        <placeName/>
+                    </birth>
+                    <death when="1807"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Nathaniel Middleton DNB 1750-1807 was Richard Johnson's banking partner
+                            along with George Templer MP, and later with Gerard Noel Edwards, Samuel
+                            Smith and John Wedgwood. Middleton had also been Johnson's colleague in
+                            India. His will PCC 1807 dated 18.2.1806 of Town Hill, Hampshire and PCC
+                            1824 dated 29.1.1788 when he had been richer, codicil of 21.12.1793 says
+                            he had by then more children and less money See Farington diary p5089,
+                            5090. Known as 'no memory' Middleton thanks to the way he supported
+                            Warren Hastings in his trial Work notes William Middleton of Crowfield
+                            Hall, Suffolk (History of Parliament 1749-1829, MP for Ipswich 1784-90 and
+                            1803-6) proposed member of Socy for Const Info 16.5.1783 by John Jebb
+                            2nded Edward Bridgen. John Middleton appointed to the commitee of the
+                            Revolution Socy 4.11.1791. In Godwin's 1796 list for 1795.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

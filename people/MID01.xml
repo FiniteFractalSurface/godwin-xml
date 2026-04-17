@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="MID01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>NAME</forename>
+                        <surname>Middleton</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>miss Middleton 29.12.1799 at Lanesborough's / 4.4.1805 walk to Pepper
+                            Harrow, Lord Middleton / 26.9.1805 call on Raine and Middleton,
+                            Charterhouse / 10.10.1806 sir W Middleton at Fox's funeral / 6.1.1810
+                            call on Middleton / 6.11.1810 Middleton at Ward's (with Coleridge) /
+                            21.12.1810 Middleton at wardmote St Bride's / 26.1.1814 call on
+                            Middleton / 31.1.1814 again / 19.5.1814 adv at theatre / 1.4.1815 call
+                            on / 4.4.1816 again 29.12.1799 for miss Middleton see Atty for
+                            relationship by marriage at Whitby. Will of Martha Middleton spinster
+                            PCC 1812. Martha Middleton dau of Robert bapt Whitby 28.1.1756. Another
+                            but less likely miss Middleton would have been Emily daughter of
+                            Middleton, Nathaniel (qv) who on 15.10.1804 married Edward Jerningham
+                            born 14.7.1774 4.4.1805 George Brodrick, 4th Viscount
+                            Middleton,1754-1836,of Pepper Harrow 26.9.1805 John Middleton b.25.1.1771
+                            Alum Cantab adm St Catherine's 1789, school Charterhouse, asst master
+                            Charterhouse 1803-1806, died West Indies 1807 10.10.1806 Sir William
+                            Middleton born in South Carolina, his father William was eldest son of
+                            the governor Arthur Middleton. He married 1774 Harriet Acton, was
+                            created baronet 12.5.1804 and died 26.12.1830 (see Ed Pope's entry for
+                            Middleton, William in Society for Constitutional Information dataset on
+                            his website) Probably all the rest of the above entries from 1810-1816
+                            referred to John Middleton wholesale stationer of Skinner Street (will
+                            PCC 1843), partner in Skinner St 1811- 1814 with George Ridout Ward
+                            (will PCC 1846) who was at one time partner to Coleridge's friend Thomas
+                            Poole and involved in Coleridge's publications (see Letters of
+                            STColeridge). Middleton, Ward and Poole all hailed from the West
+                            Country, Middleton's will mentioned his wife Agnes Shorland Middleton,
+                            his brothers the Rev S Middleton and Wm Middleton of Southgate, Mx, his
+                            sisters Jane Giles of Charmouth Dorset and Elizabeth wife of Rev George
+                            Ware of Winsham, Somerset. I'm not sure if Skinner St belonged to St
+                            Bride's ward, I think it was in St Sepulchre's parish. The proximity of
+                            Godwin's shop to Ward and Middleton's may have been more than coincidence
+                            </p><p>Nathaniel Middleton DNB 1750-1807 was Richard Johnson's banking
+                            partner along with George Templer MP, and later with Gerard Noel
+                            Edwards, Samuel Smith and John Wedgwood. Middleton had also been
+                            Johnson's colleague in India. His will PCC 1807 dated 18.2.1806 of Town
+                            Hill, Hampshire and PCC 1824 dated 29.1.1788 when he had been richer,
+                            codicil of 21.12.1793 says he had by then more children and less money
+                            See Farington diary p5089, 5090. Known as 'no memory' Middleton thanks
+                            to the way he supported Warren Hastings in his trial Work notes William
+                            Middleton of Crowfield Hall, Suffolk (History of Parliament 1749-1829,
+                            MP for Ipswich 1784-90 and 1803-6) proposed member of Socy for Const Info
+                            16.5.1783 by John Jebb 2nded Edward Bridgen. John Middleton appointed to
+                            the commitee of the Revolution Socy 4.11.1791. </p>
+                        <p>Nathaniel Middleton DNB 1750-1807 was Richard Johnson's banking partner
+                            along with George Templer MP, and later with Gerard Noel Edwards, Samuel
+                            Smith and John Wedgwood. Middleton had also been Johnson's colleague in
+                            India. His will PCC 1807 dated 18.2.1806 of Town Hill, Hampshire and PCC
+                            1824 dated 29.1.1788 when he had been richer, codicil of 21.12.1793 says
+                            he had by then more children and less money. See Farington diary p5089,
+                            5090. Known as 'no memory' Middleton thanks to the way he supported
+                            Warren Hastings in his trial Work notes William Middleton of Crowfield
+                            Hall, Suffolk (History of Parliament 1749-1829, MP for Ipswich 1784-90 and
+                            1803-6) proposed member of Socy for Const Info 16.5.1783 by John Jebb
+                            2nded Edward Bridgen. John Middleton appointed to the commitee of the
+                            Revolution Socy 4.11.1791. </p>
+                        <p>GODWIN DIARY: 10.10.1806 sir W Middleton at Fox's funeral SOCIETY FOR
+                            CONSTITUTIONAL INFORMATION: William Middleton of Crowfield Hall proposed
+                            member 16.5.1783 by John Jebb 2nded Edward Bridgen William Middleton
+                            1748-1829 historyofparliamentonline (1754-1790 and 1790-1820</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

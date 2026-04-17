@@ -1387,7 +1387,7 @@
                             target="/bibl/te1548.html">Hayley</ref>, <ref type="dText"
                             subtype="read" target="/bibl/te0753.html">Cowper</ref>. Walk to
                             <placeName> Pepper Harrow</placeName>, <seg type="dMeeting"
-                            subtype="See"><persName>lord Middleton</persName></seg>.</ab>
+                                subtype="See"><persName ref="/people/MID01.html">lord Middleton</persName></seg>.</ab>
                     <ab type="dDay" subtype="NotLon" xml:id="g1805-04-05"><date when="1805-04-05">5.
                             F. </date>Coach to <placeName>Cobham</placeName>; dine;
                             <placeName>Painshill</placeName>: tea <placeName>Esher</placeName>: sup
@@ -3413,7 +3413,7 @@
                                 <persName ref="/people/CLA02.html">C C</persName>, on <persName
                                 ref="/people/RAI02.html"><placeName type="venue"
                                 >Raine</placeName></persName></seg> &amp; <seg type="dMeeting"
-                            subtype="Cn"><persName ref="/people/CLA01.html"/><persName><placeName
+                                    subtype="Cn"><persName ref="/people/CLA01.html"/><persName ref="/people/MID01.html"><placeName
                                     type="venue">Middleton,
                             Charter-house</placeName></persName></seg>: <seg type="dMeeting"
                             subtype="CG"><persName>Dadley</persName> calls</seg>.</ab>

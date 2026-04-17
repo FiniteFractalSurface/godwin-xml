@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="MID02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>John </forename>
+                        <surname>Middleton</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Stationer</occupation>
+                    <note type="editorial">
+                        <p>John Middleton wholesale stationer of Skinner Street (will PCC 1843),
+                            partner in Skinner St 1811- 1814 with George Ridout Ward (will PCC 1846)
+                            who was at one time partner to Coleridge's friend Thomas Poole and
+                            involved in Coleridge's publications (see Letters of STColeridge).
+                            Middleton, Ward and Poole all hailed from the West Country, Middleton's
+                            will mentioned his wife Agnes Shorland Middleton, his brothers the Rev S
+                            Middleton and Wm Middleton of Southgate, Mx, his sisters Jane Giles of
+                            Charmouth Dorset and Elizabeth wife of Rev George Ware of Winsham,
+                            Somerset. The proximity of Godwin's shop to
+                            Ward and Middleton's may have been more than coincidence. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

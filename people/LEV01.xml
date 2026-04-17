@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="LEV01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Jean Paul Etienne</forename>
+                        <surname>LeVade</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1750">
+                        <placeName/>
+                    </birth>
+                    <death when="1834"/>
+                    <occupation>Translator </occupation>
+                    <note type="editorial">
+                        <p>24.10.1788 Le Vade at Robinson's. Jean David Paul Etienne LeVade (A de
+                            Montet, Dictionnaire Biographique des Genevois et des Vaudois) born
+                            Lausanne 2.10.1750 died there 9.1.1834 was a minister in England then
+                            Amsterdam. His translation of Tristram Shandy into French was published
+                            1786 in York and Paris, and a translation of his True and Surprising
+                            Account of a Natural Sleepwalker, given as a lecture in Lausanne
+                            6.2.1788, was published in Edinburgh in 1792</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

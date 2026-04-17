@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="MOR99" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>William</forename>
+                        <surname>Morgan</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Morgan 29.7.1798 at Horne Tooke's / 17.10.1799 Morgan at Parry's (King's
+                            Bench Prison) with Malkin and Tooke / 29.11.1799 sleep at Morgan's (near
+                            Hurley, Berks) / 16.2.1800 at Horne Tooke's (and Malkin) / 25.2.1800
+                            Morgan br (fr?) at (Joseph) Johnson's / 17.5.1800 dines at Milton
+                            Gallery (and Malkin) / 16.5.1805 miss Morgan at Wake's.</p>
+                        <p> The above Morgan
+                            entries, The first
+                            entry at Tooke's in 1798 might have been William Morgan or his brother
+                            George Cadogan Morgan DNB 1754-1798 who died on 17.11.1798. The others
+                            were probably William Morgan, and the miss Morgan at Wake's in 1805 may
+                            have been his daughter Sarah who married Benjamin Travers in 1809 and
+                            died before 1813 </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
