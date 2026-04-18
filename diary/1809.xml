@@ -1907,7 +1907,7 @@
                             type="dWrote" subtype="letter">Write to <persName
                                 ref="/people/CON01.html">Constable</persName></ref>, <ref
                             type="dWrote" subtype="letter">Spence</ref>, <ref type="dWrote"
-                            subtype="letter"><persName>Moseley</persName></ref>, <ref type="dWrote"
+                                subtype="letter"><persName ref="/people/MOS02.html">Moseley</persName></ref>, <ref type="dWrote"
                             subtype="letter"><persName>Shepherd</persName></ref>, <ref type="dWrote"
                             subtype="letter"><persName ref="/people/UPH01.html"
                             >Upham</persName></ref>, <ref type="dWrote" subtype="letter"><persName
@@ -2131,7 +2131,7 @@
                 </div>
                 <div type="dMonth" xml:id="g1809-08">
                     <ab type="dDay" xml:id="g1809-08-01"><date when="1809-08-01">Aug. 1.
-                            Tu.</date><ref type="dWrote" subtype="letter">Write to Mozley</ref>,
+                            Tu.</date><ref type="dWrote" subtype="letter">Write to <persName ref="/people/MOZ02.html">Mozley</persName></ref>,
                             <ref type="dWrote" subtype="letter"><persName ref="/people/MEY01.html"
                                 >Meyler</persName></ref>, <ref type="dWrote" subtype="letter"
                                 ><persName ref="/people/JON02.html">M Jones</persName></ref>, <ref
@@ -3346,7 +3346,7 @@
                                 ref="/people/TUR01.html">T T</persName> at tea</seg>; <seg
                             type="dMeal" subtype="SG"><persName>Girle</persName> sups</seg>.</ab>
                     <ab type="dDay" xml:id="g1809-11-18"><date when="1809-11-18">18. Sa.</date><seg
-                            type="dMeeting" subtype="C">Call on <persName><placeName type="venue"
+                            type="dMeeting" subtype="C">Call on <persName ref="/people/MOZ02.html"><placeName type="venue"
                                     >Mozley</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName><placeName type="venue"
                                 >Scatcherd</placeName></persName></seg>, <seg type="dMeeting"

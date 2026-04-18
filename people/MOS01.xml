@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name></name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="MOS01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Benjamin</forename>
+                        <surname>Moseley</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1742">
+                        <placeName/>
+                    </birth>
+                    <death when="1819"/>
+                    <occupation>Doctor</occupation>
+                    <note type="editorial">
+                        <p>Appears on 1796 list. Possibly Benjamin Moseley DNB 1742-1819 doctor who subscribed to Mary Robinson's poems 1791 along with Miss Moseley and William Henry Moseley (his will PCC 1823 doctor of Chelsea) </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title></title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
+
