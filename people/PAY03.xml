@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="PAY03" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Thomas</forename>
+                        <surname>Payne</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Bookseller</occupation>
+                    <note type="editorial">
+                        <p>2.7.1789 young Paynes at Billingsgate with Robinson and c / 13.8.1796 T and
+                            Ja Payne at Robinson's / 30.8.1796 T Payne there / 8.11.1796, 11.2.1797
+                            and 13.5.1797 Payne there. 
+                            
+                            Thomas Payne senior (DNB 1718-99) bookseller
+                            and publisher of Mews Gate retired about 1790. His oldest son Thomas
+                            (DNB 1752-1831) took over the business and his son James later had his
+                            own shop. 18.12.1798 at Johnson's could have been the father or one of
+                            the sons; 26.3.1816 call on Payne, bookseller must have been one of the
+                            sons </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

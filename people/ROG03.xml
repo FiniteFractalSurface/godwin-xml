@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="ROG03" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>George</forename>
+                        <surname>Rogers</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope: Rogers 10.2.1795 at King's and 22.3.1795, 3.9.1795,
+                            25.12.1795, 2.2.1796, 25.3.1796, 8.4.1796, 16.5.1796, 23.3.1797,
+                            2.5.1797, 28.2.1798, 8.10.1798, 15.10.1798, 27.10.1798, 7.11.1798,
+                            27.5.1799, 26.10.1799, 17.11.1799, 5.1.1800, 16.3.1800 all at King's. 
+                            </p>
+                        <p>G.Rogers in 1796 list. George Rogers, of Audley St 1777 agent for HM ship
+                            Porcupine (Sun Fire), voted 1784 Hood and Wray, 1788 Hood. 25.9.1794
+                            comptroller of the Treasurer's account (Nat Arch
+                            ADM359/14/194/84).19.10.1800 he wrote letter to Home Office recommending
+                            John King as a magistrate (Nat Arch H) 42/52/50). Derby Mercury
+                            18.6.1801 Commissioner for Navy, Somerset House, his name used by John
+                            King's Portland Bank. Licence as Navy Commissioner revoked 1802. Fellow
+                            of Royal Society on their lists till 1815. Currently coded on GD website
+                            to Samuel Rogers, who I suspect never dined at John King's. See Scourge
+                            Dec 1815 p411 which said George Rogers ended up in Fleet debtor's
+                            prison. Its records (Nat Arch PRIS 1/18) show George Rogers committed
+                            12.11.1801, discharged by the Insolvent Debtors Act 28.10.1811</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
