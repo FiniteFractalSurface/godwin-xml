@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="STE08" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Joseph</forename>
+                        <surname>Sterling</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1765">
+                        <placeName/>
+                    </birth>
+                    <death when="11794"/>
+                    <occupation>Poet</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope: 2.7.1789 Stirling at Billingsgate with Robinson and c. /
+                            Sterling at Holcroft's 13.7.1794. In Godwin's 1796 list for 1789 and in
+                            1794 version. Joseph Sterling DNB fl 1765-1794. Sterling's poems were
+                            published in Dublin in 1781 by Luke White, in London in 1794 by T Payne,
+                            and in London in 1789 by Robinson, so three of his publishers were
+                            present at this dinner. He lived chiefly in Ireland but his presence in
+                            London in 1794 coincided with the publication of his Odes there. George
+                            Cecil of Dublin was his uncle, published his first work and left him a
+                            legacy.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

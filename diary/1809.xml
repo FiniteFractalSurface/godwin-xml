@@ -1478,7 +1478,7 @@
                     <ab type="dDay" xml:id="g1809-05-25"><date when="1809-05-25">25. Th.</date><ref
                             type="dWrote" subtype="write" target="/works/rome02.html">Rome, p.
                             109</ref>. <seg type="dMeeting" subtype="CG"
-                                ><persName>Spilsbury</persName> calls</seg>: <seg type="dMeeting"
+                                ><persName ref="/people/SPI01.html">Spilsbury</persName> calls</seg>: <seg type="dMeeting"
                             subtype="C">call on <persName><placeName type="venue">M<hi rend="sup"
                                         >rs</hi> Nicholson</placeName></persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1809-05-26"><date when="1809-05-26">26. F.</date><ref
@@ -1736,7 +1736,7 @@
                             type="dMeeting" subtype="CG"><persName ref="/people/MAR01.html"
                                 >M</persName> call</seg>, &amp; <seg type="dMeeting" subtype="CG"
                                 ><persName ref="/people/TAY06.html">R Taylor</persName></seg> &amp;
-                            <seg type="dMeeting" subtype="CG"><persName>Spilsbury</persName></seg>.
+                        <seg type="dMeeting" subtype="CG"><persName ref="/people/SPI01.html">Spilsbury</persName></seg>.
                             <ref type="dText" subtype="read" target="/bibl/te1453.html">Burning
                             Pestle, acts 1 &amp; 2</ref>.</ab>
                     <ab type="dDay" xml:id="g1809-06-22"><date when="1809-06-22">22. Th.</date><ref
@@ -3520,7 +3520,7 @@
                     <ab type="dDay" xml:id="g1809-11-28"><date when="1809-11-28">28. Tu.</date><seg
                             type="dMeeting" subtype="CG"><persName ref="/people/HOL05.html">L
                                 Ht</persName> calls</seg>: <seg type="dMeeting" subtype="C">call on
-                                    <persName><placeName type="venue"
+                                    <persName ref="/people/SPI01.html"><placeName type="venue"
                                 >Spilsbury</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName><placeName type="venue"
                                 >Ralph</placeName></persName></seg> &amp; <seg type="dMeeting"
