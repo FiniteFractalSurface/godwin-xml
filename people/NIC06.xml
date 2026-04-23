@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="NIC06" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Mrs</forename>
+                        <surname>Nicholls</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>(mes) Nichols 16.3.1789 at Miss Williams' / 11.12.1789 mrs Nichols there
+                            / 9.2.1790 (mes) Nichols there 1786 subscribers to HMWilliams' poems Rev
+                            Norton Nicholls, Mrs Nicholls. As the Rev Norton Nicholls DNB -1807
+                            never married this may have been his mother Jane nee Floyer. Might also
+                            have been his cousin Philippa Nicholls baptised 5.12.80 Tickhill, Yorks
+                            mentioned (in Hester Piozzi? or Joanna Baillie? letters online - sorry
+                            lost this ref) as recovering at Hot Wells 1795 died unmarried 1797 </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
