@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WEL04" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>William Earle</forename>
+                        <surname>Welby</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Politician</occupation>
+                    <note type="editorial">
+                        <p>Ed Pope notes: 23.3.1789 Welby at Miss Williams' / 9.5.1795 (Ritson and)
+                            Welby call / 14.3.1800 (Northmore and) Welby call / 28.10.1800 again /
+                            31.10.1800 at Northmore's / 4.12.1801 again 1786 subscribers to
+                            HMWilliams poems Miss Welby, and R E Welby Esq. </p>
+                        <p>Richard Earle Welby
+                            baptised 3.11.1755 Welbourn, Lincs, son of Richard, and married
+                            17.8.1799 at St Anne Soho Mary Leece, and was buried 10.5.1828 St
+                            Marylebone age 72 of Bentinck St, PCC will 1828. He was a cousin of
+                            William Earle Welby who was more closely related to Northmore and
+                            therefore more likely the Welby of 1800 and 1801. The Welby of 1795
+                            might be either. Thomas Northmore DNB 1776-1851 had married Penelope
+                            1769-1792 dau of William Earle Welby Hist of Parl ?1734-1815 and sister
+                            of William Earle Welby Hist of Parl 1768-1852, father and son were both
+                            MPs for Grantham, not radicals though the son went over to the Whigs
+                            1807. W E Welby senior's mother was sister to Montague Cholmeley, and a
+                            Cholmley was also at Northmore's on 31.10.1800, so these may have been
+                            the relatives of Northmore's motherless son </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
