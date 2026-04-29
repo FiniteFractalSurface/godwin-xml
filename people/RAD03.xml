@@ -10,7 +10,7 @@
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by</resp>
-                    <name></name>
+                    <name/>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -27,29 +27,33 @@
                 <person xml:id="RAD03" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>NAME</forename>
+                        <forename>Evasio</forename>
                         <surname>Radici</surname>
                         <addName/>
                     </persName>
-                    <birth when="1000-01-01">
+                    <birth when="1794">
                         <placeName/>
                     </birth>
-                    <death when="1000-12-31"/>
-                    <occupation>OCCUPATION</occupation>
+                    <death when="1855"/>
+                    <occupation>Military Officer, Parliamentarian, </occupation>
                     <note type="editorial">
-                        <p>Most probably a compatriot and fellow exile of Antonio Panizzi who came to Britain in 1823, following the end of the revolts against absolute power in several of the Italian states. 
-                            Panizzi eventually became Chief Librarian at the British Library. Radici's identity is not known. </p>
+                        <p>A compatriot and fellow exile of Antonio Panizzi, who introduces him to Godwin, Evasio Radice came to
+                            Britain in 1823, after the revolts against absolute power
+                            in several of the Italian states between 1820 and 1823, in which he was active militarily. Having
+                            fled to England following their suppression, he developed a career as a teacher, and became a naturalized citizen in 1837. 
+                            In 1833 he married Maria Hutton, who belonged to the Norwich Unitarian
+                            group. They had two children, Alberto (1836-1916) and Nina (1841-1866). He returned to Italy in 1848 and was elected to the Turin Parliament.
+                            </p>
                     </note>
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
                         Publisher, year</bibl>
                     <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
                     <bibl type="other">
-                        <title></title>
+                        https://www.treccani.it/enciclopedia/evasio-radice_(Biographical-Dictionary)/<title/>
                     </bibl>
                 </person>
             </listPerson>
         </body>
     </text>
 </TEI>
-
