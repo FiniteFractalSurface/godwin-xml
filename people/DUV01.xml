@@ -24,24 +24,23 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="CHA08" sex="1">
+                <person xml:id="DUV01" sex="1">
                     <persName>
-                        <roleName>Sir</roleName>
-                        <forename>Francis Leggatt</forename>
-                        <surname>Chantry</surname>
+                        <roleName/>
+                        <forename>Charles</forename>
+                        <surname>Duveyrier</surname>
                         <addName/>
                     </persName>
-                    <birth when="1781-01-01">
+                    <birth when="1803">
                         <placeName/>
                     </birth>
-                    <death when="1841-12-31"/>
-                    <occupation>Sculptor</occupation>
+                    <death when="1806"/>
+                    <occupation>St Simonian</occupation>
                     <note type="editorial">
-                        <p>Sir Chantry was the sone of a Shefffield carpenter.  He moved to London in 1802, where he was a sculptor and painter, and an exhibitor in the RA in 1804-7. 
-                            Increasngly focused on scuplture whose busts in cluded George III and John Philpot Curran. The latter currently resides in Oxford.</p>
+                        <p> Jane Carlyle had a letter noting the presence of Duveyrier and Gustave d'Eichthal in January 1832. </p>
                     </note>
                     <bibl type="MS"> </bibl>
-                    <bibl type="printedbook">AUTHOR<title>DNB</title>, Place of Publication,
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
                         Publisher, year</bibl>
                     <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
                     <bibl type="other">

@@ -10,7 +10,7 @@
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by</resp>
-                    <name></name>
+                    <name/>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -24,32 +24,33 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="CHA08" sex="1">
+                <person xml:id="DUC02" sex="1">
                     <persName>
-                        <roleName>Sir</roleName>
-                        <forename>Francis Leggatt</forename>
-                        <surname>Chantry</surname>
+                        <roleName/>
+                        <forename>Mary and John </forename>
+                        <surname>Duckworth</surname>
                         <addName/>
                     </persName>
-                    <birth when="1781-01-01">
+                    <birth when="1000-01-01">
                         <placeName/>
                     </birth>
-                    <death when="1841-12-31"/>
-                    <occupation>Sculptor</occupation>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
                     <note type="editorial">
-                        <p>Sir Chantry was the sone of a Shefffield carpenter.  He moved to London in 1802, where he was a sculptor and painter, and an exhibitor in the RA in 1804-7. 
-                            Increasngly focused on scuplture whose busts in cluded George III and John Philpot Curran. The latter currently resides in Oxford.</p>
+                        <p>Mary Fenwick (sister of Eliza) married John Duckworth in September 1783.
+                            They were living in Falmouth when Eliza and her children were lving in
+                            Penzane (1802-3). They has a daughter (b 1784; m. 1809) Maria Selina
+                            Duckworth. </p>
                     </note>
                     <bibl type="MS"> </bibl>
-                    <bibl type="printedbook">AUTHOR<title>DNB</title>, Place of Publication,
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
                         Publisher, year</bibl>
                     <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
                     <bibl type="other">
-                        <title></title>
+                        <title/>
                     </bibl>
                 </person>
             </listPerson>
         </body>
     </text>
 </TEI>
-

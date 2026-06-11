@@ -3951,16 +3951,16 @@
                                 ref="/people/HUM01.html"><placeName type="venue"
                                 >Hume</placeName></persName></seg>: <seg type="dMeal" subtype="TG"
                                 ><persName ref="/people/CUR02.html">A Curran</persName> &amp;
-                                <persName>Lovet</persName> at tea</seg>: <ref type="dEvent"
+                                    <persName ref="/people/LOV01.html">Lovet</persName> at tea</seg>: <ref type="dEvent"
                             subtype="Lect" target="/events/le0014.html"><seg type="dMeeting"
                                 subtype="Do"><persName ref="/people/COL01.html">Lecture</persName>,
                                 w. <persName ref="/people/CUR02.html">A C</persName>,
-                                    <persName>Lovet</persName>, <persName ref="/people/BUR01.html"
+                                <persName ref="/people/LOV01.html">Lovet</persName>, <persName ref="/people/BUR01.html"
                                     >Burr</persName>, <persName ref="/people/CLA01.html">M
                                     J</persName>, <persName ref="/people/IML01.html">F</persName>
                                 &amp; <persName ref="/people/CLA03.html">J</persName>; <seg
                                     type="dMeal" subtype="SG"><persName ref="/people/CUR02.html">A
-                                        C</persName> &amp; <persName>Lovet</persName>
+                                        C</persName> &amp; <persName ref="/people/LOV01.html">Lovet</persName>
                                 sup</seg></seg></ref>.</ab>
                     <ab type="dDay" xml:id="g1811-12-03"><date when="1811-12-03">3. Tu.</date><ref
                             type="dWrote" subtype="letter">Write to<persName
@@ -4049,7 +4049,7 @@
                                     >Coleridge’s</persName> Lecture, w. <persName>H H</persName>,
                                     <persName ref="/people/IML01.html">F</persName> &amp; <persName
                                     ref="/people/CLA03.html">J</persName></seg></ref>. <seg
-                            type="dMeeting" subtype="CG"><persName>Lovet</persName> calls</seg>:
+                                        type="dMeeting" subtype="CG"><persName ref="/people/LOV01.html">Lovet</persName> calls</seg>:
                             <seg type="dMeeting" subtype="C">call on <persName
                                 ref="/people/HUM01.html"><placeName type="venue"
                                 >Hume</placeName></persName></seg>.</ab>
