@@ -1859,14 +1859,14 @@
                         Curran’s</persName> paintings, w. <persName>mrs R C</persName> &amp;
                         <persName ref="/people/CLA01.html">M J</persName></ref>: <seg type="dMeal"
                      subtype="D">dine at <persName><placeName type="venue"
-                           >Judkin’s</placeName></persName>, w. <persName ref="/people/CRO10.html">Croly</persName>,
-                        <persName>Quail</persName>, <persName>Cromfield</persName>, <persName
-                        ref="/people/WIL02.html">Wilson</persName> &amp;
-                     <persName>Philip</persName>; <emph rend="deleted">ad</emph><seg type="dMeeting"
-                        subtype="Inv">invités <persName ref="/people/CUN01.html">A
-                           Cunningham</persName> &amp; <persName ref="/people/HOG02.html"
-                           >Hogg</persName></seg></seg>.<ref type="dEvent" subtype="Temp"> 66 /
-                     69</ref></ab>
+                        >Judkin’s</placeName></persName>, w. <persName ref="/people/CRO10.html"
+                        >Croly</persName>, <persName>Quail</persName>,
+                        <persName>Cromfield</persName>, <persName ref="/people/WIL02.html"
+                        >Wilson</persName> &amp; <persName>Philip</persName>; <emph rend="deleted"
+                        >ad</emph><seg type="dMeeting" subtype="Inv">invités <persName
+                           ref="/people/CUN01.html">A Cunningham</persName> &amp; <persName
+                           ref="/people/HOG02.html">Hogg</persName></seg></seg>.<ref type="dEvent"
+                     subtype="Temp"> 66 / 69</ref></ab>
                <ab type="dDay" xml:id="g1830-07-02"><date when="1830-07-02">2. F.</date><ref
                      type="dWrote" subtype="write" target="/works/thou01.html">Belief, p.
                      6</ref>.<ref type="dText" subtype="read" target="/bibl/te3272.html"> Homer,
@@ -1974,7 +1974,7 @@
                      subtype="M"> Meet <persName ref="/people/GOD07.html">W</persName></seg>: <seg
                      type="dMeeting" subtype="Aus">evening <persName ref="/people/MAR03.html"
                            ><placeName type="venue">Martin’s</placeName></persName>, w.
-                        <persName>miss Webb</persName>, <persName>Cont</persName>,
+                        <persName ref="/people/WEB06.html">miss Webb</persName>, <persName>Cont</persName>,
                         <persName>Willis</persName>, <persName ref="/people/ATH01.html"
                         >Atherston</persName>, <persName>Widmore</persName>,
                         <persName>Joblins</persName></seg><ref type="dEvent" subtype="Temp"> 65 ½ /
@@ -2054,9 +2054,9 @@
                      subtype="C">Call on <persName ref="/people/ORM01.html"><placeName type="venue"
                            >Orme</placeName></persName></seg>:<seg type="dMeal" subtype="TG"
                         ><persName ref="/people/HOG03.html">mrs Williams</persName> at
-                        tea</seg>.<add><seg type="dMeeting" subtype="Adv"> adv. <persName> miss
-                           Webb</persName></seg></add><ref type="dEvent" subtype="Temp">65 /
-                     68</ref></ab>
+                        tea</seg>.<add><seg type="dMeeting" subtype="Adv"> adv. <persName
+                           ref="/people/WEB06.html"> miss Webb</persName></seg></add><ref
+                     type="dEvent" subtype="Temp">65 / 68</ref></ab>
                <ab type="dDay" xml:id="g1830-07-20"><date when="1830-07-20">20. Tu. </date><ref
                      type="dText" subtype="read">Homer, v. 211</ref>: <ref type="dText"
                      subtype="cala">Pope, Correspondence, çala</ref>. <seg type="dMeeting"
@@ -2412,10 +2412,10 @@
                            >Lardner</placeName></persName></seg> &amp; <seg type="dMeeting"
                      subtype="C"><persName ref="/people/MAC01.html"><placeName type="venue"
                            >Mackintosh</placeName></persName></seg>: <seg type="dMeal" subtype="SG"
-                        ><persName ref="people/MAC20.xml">Mackintosh j<hi rend="sup">r</hi></persName> sups; <seg
-                        type="dMeeting" subtype="Adv">adv. <persName>Lane</persName></seg>; <seg
-                        type="dMeeting" subtype="Inv">invités
-                           <foreign><persName>pere</persName></foreign> &amp;
+                        ><persName ref="people/MAC20.xml">Mackintosh j<hi rend="sup"
+                        >r</hi></persName> sups; <seg type="dMeeting" subtype="Adv">adv.
+                           <persName>Lane</persName></seg>; <seg type="dMeeting" subtype="Inv"
+                        >invités <foreign><persName>pere</persName></foreign> &amp;
                            <persName>Holm</persName></seg></seg>. <ref type="dEvent" subtype="Temp">
                      66 / 68</ref></ab>
                <ab type="dDay" xml:id="g1830-08-24"><date when="1830-08-24">24. Tu.</date><ref
@@ -2965,7 +2965,7 @@
                      target="/events/mu0001.html"><placeName>Museum</placeName>; <ref type="dText"
                         subtype="read" target="/bibl/te3348.html">Schelhorn</ref>;<seg
                         type="dMeeting" subtype="Adv"> adv.
-                  <persName>Loudons</persName></seg></ref>: <ref type="dEntertainment"
+                           <persName ref="/people/WEB06|LOU04.html">Loudons</persName></seg></ref>: <ref type="dEntertainment"
                      subtype="Theat" target="/plays/rome01.html"><placeName type="CG"/>theatre, 2/5
                      Romeo</ref>. <ref type="dEvent" subtype="Temp">60 / 63</ref></ab>
                <ab type="dDay" xml:id="g1830-10-12"><date when="1830-10-12">12. Tu.</date><ref
@@ -3582,9 +3582,9 @@
                         ref="/people/SHE02.html">M W S</persName> &amp;<persName
                         ref="/people/GOD05.html">N G</persName> at tea</seg>: <seg type="dMeal"
                      subtype="S">sup at <persName ref="/people/MAR03.html"><placeName type="venue"
-                           >Martin’s</placeName></persName>, w. <persName ref="/people/CRO10.html">Croly</persName>,
-                        <persName ref="/people/CAU01.html">Caunter</persName>, <persName
-                        ref="/people/HEA01.html">Heaphy</persName>, <persName
+                           >Martin’s</placeName></persName>, w. <persName ref="/people/CRO10.html"
+                        >Croly</persName>, <persName ref="/people/CAU01.html">Caunter</persName>,
+                        <persName ref="/people/HEA01.html">Heaphy</persName>, <persName
                         ref="/people/ATH01.html">Atherston</persName>, <persName type="nah">C L<hi
                            rend="sup">r</hi></persName></seg>. <ref type="dEvent" subtype="Temp">46
                      ½ / 48 ½ </ref></ab>
