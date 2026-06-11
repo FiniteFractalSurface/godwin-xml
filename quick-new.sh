@@ -61,6 +61,9 @@ elif ( echo "$work" | grep -Eq '^[A-Z]{3}$' ); then
     ghorm
     newfile="$newfile""01.xml"
     persid="$work""01"
+elif ( echo "$work" | grep -Eq '^[A-Z]{3}[0-9]{2}\.xml$' ); then # this is for input that's a persid + .xml extension
+    ghorm
+    persid=${newfile%.xml} && persid=${persid##*/}
 elif ( echo "$PWD" | grep -Eq 'people$' ) || ( echo "$PWD" | grep -Eq 'test1$' ); then # below is for backwards compatibility with primitive workflow that deals with raw file paths; kinda bork
     newfile="$work"
     persid=${newfile%.xml} && persid=${persid##*/} # extracts the code id from the filename, since they are one in the same.
@@ -78,10 +81,10 @@ fi
 
 printf "Current person ID value: \033[0;32m%s\033[0m.\nChecking filename validity" "$persid" && fancyelip # Literally cosmetic and pointless, but it looks cool though.
 
-if ( echo "$newfile" | grep -Eq '^.*\/[A-Z]{3}[0-9]{2}\.xml$' ); then
+if ( echo "$newfile" | grep -Eq '^.*\/[A-Z]{3}[0-9]{2}\.xml$' ); then # the .*\/ is to ensure the file is being written to the right dir
     echo "Filename seems to follow the 5 char convention!"
 else
-    echo "That name doesn't quite seem right. Try again?"
+    echo "That name doesn't quite seem right. Please try again with just the person code without the file extension. For example, SMI02."
     eksit
 fi
 
