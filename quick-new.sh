@@ -1,6 +1,11 @@
 #!/bin/sh
+# This script aims to
+#   (1) speed up the process of creating new person files
+#   (2) ensure the structure of new are consistent with the template
+#   (3) ensure naming convention is followed
+
 # Function defined start
-ghorm () { # this makes it so that the script works in both the outside directory and inside /people
+setnewfiledir () { # this makes it so that the script works in both the outside directory and inside /people
     if ( echo "$PWD" | grep -Eq 'test1$' ); then newfile="./people/$work"
     elif ( echo "$PWD" |  grep -Eq 'people$' ); then newfile="./$work"
     fi
@@ -15,61 +20,64 @@ fancyelip () {
     n=0; while [ "$n" -lt 3 ]; do sleep "$elipdelay" && printf "."; n=$((n+1)); done; printf " "
     if [ "$1" = "--newline" ]; then printf "\n"; fi
 }
-eksit () {
+slowexit () {
     sleep 10
     exit 1
 }
 # Function defined end
-
-cd "$(dirname "$0")" || eksit # For the sake of double-click run
 
 # Variable declarations start
 templatefilename="AApersonTemplate.xml"
 # repo="test1" # TODO unused variable, maybe in the future
 # Variable declarations end
 
+cd "$(dirname "$0")" || slowexit # For the sake of double-click run
+
 if uname -s | grep -q "Darwin"; then echo "Current operating system is OSX. This script is completely untested on OSX and you may encounter wild and fantastical errors. Proceed at your own risk."; fi
 
 if ( echo "$PWD" | grep -q '.*test1$' ) && ( echo "$PWD" | grep -q '.*people$' ); then # Error condition 1: Is the working directory correct? Valid working directories are test1 or people
     echo "You're not in the right directory. Please change directory to either test1 or people."
-    eksit
+    slowexit
 fi
 
+# This is quite fragile since there is no error handling. If $templatefilename is not set precisely then... well all bets are off.
 if [ ! -f ../$templatefilename ] && [ ! -f ./$templatefilename ] && [ ! -f ./people/$templatefilename ]; then # Error condition 2: Is the template file, as defined at the beginning, available?
     echo "Template file not found! Check your current working directory."
-    eksit
+    slowexit
 fi
 # TODO Make independent fallback template, hard-coded into the script using printf
 
 if [ "$1" = "" ]; then
     clistart=0
-    printf "Enter person ID: "; read -r nameorid # ID or three letters or full path, quod libet
+#     printf "Welcome to the quick new script, ver. 1.0!\nThis script is used to speed up the creation process of new person files."
+    printf "Enter person ID (e.g. ABC01): "; read -r nameorid # ID or three letters or full path, quod libet
     work="$nameorid"
 else
     clistart=1
     work="$1"
+    if [ "$1" = "--version" ]; then echo "1.0.0"; fi
 fi
 
 templatefile=$(find . -type f -path "*/$templatefilename" -prune) # TODO this assumes only one templatefile with the templatefilename... That's gotta be solved somehow
 printf "Template file in use: \033[1;35m%s\033[0m.\n" "$templatefile"
 
 if ( echo "$work" | grep -Eq '^[A-Z]{3}[0-9]{2}$' ); then # checks input to see if it's a persid. three letters only, or full path
-    ghorm
+    setnewfiledir
     newfile="$newfile"".xml"
     persid="$work"
 elif ( echo "$work" | grep -Eq '^[A-Z]{3}$' ); then
-    ghorm
+    setnewfiledir
     newfile="$newfile""01.xml"
     persid="$work""01"
 elif ( echo "$work" | grep -Eq '^[A-Z]{3}[0-9]{2}\.xml$' ); then # this is for input that's a persid + .xml extension
-    ghorm
+    setnewfiledir
     persid=${newfile%.xml} && persid=${persid##*/}
 elif ( echo "$PWD" | grep -Eq 'people$' ) || ( echo "$PWD" | grep -Eq 'test1$' ); then # below is for backwards compatibility with primitive workflow that deals with raw file paths; kinda bork
     newfile="$work"
     persid=${newfile%.xml} && persid=${persid##*/} # extracts the code id from the filename, since they are one in the same.
 else
     echo "Something's wrong."
-    eksit
+    slowexit
 fi
 
 if ( echo "$newfile" | grep -Eq '\.xml$' ); then
@@ -85,7 +93,7 @@ if ( echo "$newfile" | grep -Eq '^.*\/[A-Z]{3}[0-9]{2}\.xml$' ); then # the .*\/
     echo "Filename seems to follow the 5 char convention!"
 else
     echo "That name doesn't quite seem right. Please try again with just the person code without the file extension. For example, SMI02."
-    eksit
+    slowexit
 fi
 
 if [ -f "$newfile" ]; then
@@ -114,7 +122,7 @@ if [ -f "$newfile" ]; then
     fi
 
     printf "New person ID: \033[0;32m%s\033[0m.\n" "$persid"
-    if [ -f "$newfile" ]; then echo "We've failed." && eksit; fi
+    if [ -f "$newfile" ]; then echo "We've failed." && slowexit; fi
 fi
 #TODO check if there's a corresponding html file. If there is, ask to make certain that overwriting ghost file is intended. The reason why this is out here instead of in the above check is so that this check is certain to happen, regardless if there was a filename collision.
 # if [ -f "$persid"".html" ]; then
@@ -145,7 +153,7 @@ sed -i "s/<name>ENCODER<\/name>/<name>$encoderinitials<\/name>/g" "$newfile" # W
 if [ "$(uname -o)" = "GNU/Linux" ] && ( command -v kate >/dev/null 2>&1 ); then # this is my personal thing, don't worry about it!
     echo "Opening with kate." && kate "$newfile"
 elif [ "$(uname -o)" = "Msys" ]; then # automatically opens up Oxygen for editing. A bit slow but that's on the part of Oxygen.
-    oxxmlloc="/c/Program Files/Oxygen XML Editor 27/oxygen.bat"
+    oxxmlloc="/c/Program Files/Oxygen XML Editor 28/oxygen.bat"
     if [ -f "$oxxmlloc" ]; then
         "$oxxmlloc" file:"$newfile" 2>/dev/null &
         printf "Found Oxygen XML Editor. Opening now. Please wait a few seconds" && fancyelip --newline "0.3"
@@ -165,103 +173,3 @@ if [ $clistart = 0 ]; then
 fi
 
 exit 0
-
-# ================ Archived code that exists for no particular reason ================
-# echo "You're probably in the right directory, and the template file is probably available."
-# Dependency check: xmlstarlet; below works maybe
-# if ( ! type "xmlstarlet" > /dev/null ) && ( ! type "xml" > /dev/null ) ; then
-# if ( command -v xmlstarlet >/dev/null 2>&1 ) && ( command -v xml >/dev/null 2>&1 ); then
-#     echo -e "You don't have xmlstarlet installed. This is a required dependency for this script.\nPlease go here to install xmlstarlet: https://sourceforge.net/projects/xmlstar/files/xmlstarlet/1.6.1/xmlstarlet-1.6.1-win32.zip/download"
-#     echo "Remember to add the xmlstarlet directory to your PATH environment variable, if you are on Windows!"
-#     echo "Press Control + C to escape this program. Left alone, it will close in 60 seconds."
-#     sleep 60
-#     exit 1
-# fi
-#     if [[ $PWD == *"test1" ]] && [ $(ls | grep "$templatefilename") == "$templatefilename" ]; then
-#         templatefile="./$templatefilename"
-#     elif [[ $PWD == *"people" ]]; then
-#         templatefile="../$templatefilename"
-#     else
-#         echo "I haven't a clue what's going on. Good luck."
-#         exit 1
-#     fi
-#
-#     if [ -f $newfile ]; then
-#         echo -n "File already exists!"
-#         echo " Choose another name. Aborting..." && exit 1
-#     fi
-#
-#     if ( command -v xmlstarlet >/dev/null 2>&1 ); then
-#         xmlstarlet edit -N s=http://www.tei-c.org/ns/1.0 --update "//s:listPerson/s:person/@xml:id" --value "$persid" "$newfile" > $tmp && cp $tmp $newfile #xmlstarlet to automatically use the last part of the filename as value for the xml:id attribute
-#         xmlstarlet format -s 4 $newfile > $tmp && mv $tmp $newfile
-#     else
-#         xml edit -N s=http://www.tei-c.org/ns/1.0 --update "//s:listPerson/s:person/@xml:id" --value "$persid" "$newfile" > $tmp && cp $tmp $newfile #xmlstarlet to automatically use the last part of the filename as value for the xml:id attribute
-#         xml format -s 4 $newfile > $tmp && mv $tmp $newfile
-#     fi
-#     rm $newfile # clean-up for testing purposes :D
-#     while [ -f $newfile ]; do
-#         echo "Attempting to fix filename to not conflict."
-#         new=$(($((10#$new))+1)); echo $new
-#         if [ $new -le "9" ]; then new="0$new"; fi
-#         persid="${persid:0:3}$new"
-#         if [[ $PWD == "*test1/people*" ]]; then
-#             newfile="./$persid.xml"
-#         else
-#             newfile="./people/$persid.xml"
-#         fi
-#     done
-# cur=$(ls --ignore=*html ./ | grep "${persid:0:3}..\.xml" | tail -n 1)
-# cur=$(ls --ignore=*html ./people/${persid:0:3}*xml | tail -n 1)
-# mkfallbacktmplt () { # This is crude, very crude
-#     touch "$newfile"
-#     printf \
-# "<?xml version="1.0" encoding="UTF-8"?>
-# <TEI xmlns="http://www.tei-c.org/ns/1.0">
-#     <teiHeader>
-#         <fileDesc>
-#             <titleStmt>
-#                 <title>Person List</title>
-#                 <respStmt>
-#                     <resp>EP</resp>
-#                     <name/>
-#                 </respStmt>
-#             </titleStmt>
-#             <publicationStmt>
-#                 <p>Unpublished</p>
-#             </publicationStmt>
-#             <sourceDesc>
-#                 <p>Generated data</p>
-#             </sourceDesc>
-#         </fileDesc>
-#     </teiHeader>
-#     <text>
-#         <body>
-#             <listPerson>
-#                 <person xml:id="XXX99" sex="1">
-#                     <persName>
-#                         <roleName/>
-#                         <forename>FIRSTNAME</forename>
-#                         <surname>SURNAME</surname>
-#                         <addName/>
-#                     </persName>
-#                     <birth when="1000-01-01">
-#                         <placeName/>
-#                     </birth>
-#                     <death when="1000-12-31"/>
-#                     <occupation>OCCUPATION</occupation>
-#                     <note type="editorial">
-#                         <p>  </p>
-#                     </note>
-#                 </person>
-#             </listPerson>
-#         </body>
-#     </text>
-# </TEI>" > "$newfile"
-# }
-# if grep -q "XXX99" "$newfile"; then # Note to self, try with grep -q "XXX99" "$newfile"
-#     sed -i "s/xml:id=\"XXX99\"/xml:id=\"$persid\"/g" "$newfile"
-# elif grep -q "XXX01" "$newfile"; then
-#     sed -i "s/xml:id=\"XXX01\"/xml:id=\"$persid\"/g" "$newfile"
-# fi
-#     cur="$(echo "$cur" | grep -Eo '[A-Z]{3}[0-9]{2}' | grep -Eo '[0-9]{2}$')"
-# ( echo "$cur" | grep -Eq '^[0][0-9]$' ) && cur=$(echo "$cur" | grep -Eo '[0-9]$') # This cleans leading zeros
