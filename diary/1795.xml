@@ -1195,7 +1195,7 @@
                             type="dMeeting" subtype="C">call on <persName ref="/people/BOS02.html"
                                     ><placeName type="venue">Bosville</placeName></persName></seg>;
                             <seg type="dMeeting" subtype="Adv">adv. <persName
-                                ref="/people/ROB01.html">Robinson</persName>, <persName>mrs
+                                    ref="/people/ROB01.html">Robinson</persName>, <persName ref="/people/BEA03.html">mrs
                                 Beaumont</persName> &amp; <persName>lord Dudley</persName></seg>;
                             <seg type="dMeeting" subtype="C">&amp; on <emph rend="other"><persName
                                     ref="/people/MAC01.html"><placeName type="venue"
@@ -2349,7 +2349,7 @@
                                     ><placeName type="venue">Parkinson's</placeName></persName>, w.
                                 <persName ref="/people/THE01.html">Thelwal</persName>,
                                 <persName>Stevenson</persName> &amp;
-                            <persName>Beaumont</persName></seg>.</ab>
+                            <persName ref="/people/BEA03.html">Beaumont</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1795-06-19"><date when="1795-06-19">19. F.</date><ref
                             type="dWrote" subtype="write" target="/works/poli01.html">Write 4
                             pages</ref>. <ref type="dText" subtype="read" target="/bibl/te0577.html"
