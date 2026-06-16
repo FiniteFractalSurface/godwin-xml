@@ -762,7 +762,7 @@
                                     type="venue">Rickman's</placeName></persName>, w. <persName
                                 ref="/people/DAV03.html">Davy</persName>, <persName
                                 ref="/people/LAM01.html">Lamb</persName> &amp;
-                                <persName>Beaumont</persName></seg>.</ab>
+                                <persName ref="/people/BEA03.html">Beaumont</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1801-03-14"><date when="1801-03-14">14. Sa. </date><ref
                             type="dText" subtype="read" target="/bibl/te1211.html">Percy's Reliques,
                             p. 144</ref>. <seg type="dMeal" subtype="D">Dine at <persName
@@ -1106,7 +1106,7 @@
                                 <persName ref="/people/FEL01.html">Fell</persName>,<persName
                                 ref="/people/FEN01|FEN03.html"> Fenwicks</persName>, <persName
                                 ref="/people/RIC01.html">Rickman</persName> &amp;
-                                <persName>Beaumont</persName></seg>.</ab>
+                                    <persName ref="/people/BEA03.html">Beaumont</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1801-04-17"><date when="1801-04-17">17. F. </date><ref
                             type="dText" subtype="read" target="/bibl/te1226.html">Hume, p. 230;
                             16-65</ref>. <seg type="dMeal" subtype="BG"><persName>Duncan of

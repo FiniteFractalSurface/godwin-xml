@@ -2855,7 +2855,7 @@
                                 ref="/people/EST01.html">Este</persName>, <persName
                                 ref="/people/ROB01.html">Robinson</persName>, <persName
                                 ref="/people/CHA06.html">Chalmers</persName> &amp;
-                                <persName>Beaumont</persName></seg>: <seg type="dMeeting"
+                                    <persName ref="/people/BEA03.html">Beaumont</persName></seg>: <seg type="dMeeting"
                             subtype="C">call on <persName ref="/people/HAY01.html"><placeName
                                     type="venue">Hayes</placeName></persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1796-06-28"><date when="1796-06-28">28. Tu.</date><ref
@@ -2872,7 +2872,7 @@
                                     >Dibdin</persName></seg>)</seg>: <seg type="dMeal" subtype="D"
                             >dine at <persName ref="/people/HOL01.html"><placeName type="venue"
                                     >Hts</placeName></persName>; <seg type="dMeeting" subtype="Adv"
-                                >adv. <persName>Beaumont</persName></seg></seg>: <seg type="dMeal"
+                                        >adv. <persName ref="/people/BEA03.html">Beaumont</persName></seg></seg>: <seg type="dMeal"
                             subtype="S">sup at <persName ref="/people/WOL01.html"><placeName
                                     type="venue">Wt's</placeName></persName>; <seg type="dMeeting"
                                 subtype="Adv">adv. <persName ref="/people/TWI01.html"
@@ -4757,7 +4757,7 @@
                             type="dMeeting" subtype="M"><persName>Bloxam</persName></seg>, <seg
                             type="dMeeting" subtype="M"><persName ref="/people/MOO01.html"
                                 >Moore</persName></seg> &amp; <seg type="dMeeting" subtype="M"
-                                ><persName>Beaumont</persName></seg>: <seg type="dMeeting"
+                                    ><persName ref="/people/BEA03.html">Beaumont</persName></seg>: <seg type="dMeeting"
                             subtype="See"><persName ref="/people/DEB01.html"><placeName type="venue"
                                     >Debrett's</placeName></persName>, <persName
                                 ref="/people/BOS02.html">Bosville</persName>, <persName
