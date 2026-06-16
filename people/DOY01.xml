@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>Richard Reeves</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="DOY01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Sir John Hadley D'Oyly</forename>
+                        <surname>SURNAME</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1754">
+                        <placeName/>
+                    </birth>
+                    <death when="11818"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>that Sir Jno Doyley is Sir John Hadley D'Oyly, 6th Bt., (1754-1818) who
+                            was then living in Ireland; by March 1800 he was at Belvedere Place, in
+                            Dublin (B.L. Add. MS 29177, fos.220). Belvedere Place presumably
+                            refering to the Rochfort Family who were Earls of Belvedere. Sir John
+                            having married Diana Rochfort one of daughters of Sir William Rochfort.
+                            By October 1802 he was living at Wainsford House, near Rathfarnham, just
+                            outside Dublin (B.L. Add. MS 29178, fos.285-6). He was living in Ireland
+                            as he had become an anonymous partner in a brewing and distillery
+                            business with his wife's relations, two of whom were Edward and Richard
+                            Grange and are possibly two of the three Granges noted in the same
+                            entry. Sir John was a close friend of Warren Hastings (the references
+                            above relate to their correspondence), one time Governor General of
+                            India, and benefitted from his patronage whilst working for the East
+                            India Company, he later returned to the EIC when brewery enterprise
+                            failed. He was also M.P. for Ipswich from 1790 for which see the entry
+                            in the History of Parliament. that Sir Jno Doyley is Sir John Hadley
+                            D'Oyly, 6th Bt., (1754-1818) who was then living in Ireland; by March
+                            1800 he was at Belvedere Place, in Dublin (B.L. Add. MS 29177, fos.220).
+                            Belvedere Place presumably refering to the Rochfort Family who were
+                            Earls of Belvedere. Sir John having married Diana Rochfort one of
+                            daughters of Sir William Rochfort. By October 1802 he was living at
+                            Wainsford House, near Rathfarnham, just outside Dublin (B.L. Add. MS
+                            29178, fos.285-6). He was living in Ireland as he had become an
+                            anonymous partner in a brewing and distillery business with his wife's
+                            relations, two of whom were Edward and Richard Grange and are possibly
+                            two of the three Granges noted in the same entry. Sir John was a close
+                            friend of Warren Hastings (the references above relate to their
+                            correspondence), one time Governor General of India, and benefitted from
+                            his patronage whilst working for the East India Company, he later
+                            returned to the EIC when brewery enterprise failed. He was also M.P. for
+                            Ipswich from 1790 for which see the entry in the History of Parliament.
+                        </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
