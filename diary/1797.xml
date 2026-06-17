@@ -2207,7 +2207,7 @@
             </div>
             <div type="dMonth" xml:id="g1797-07">
                <ab type="dDay" xml:id="g1797-07-01"><date when="1797-07-01">July 1. Sa.</date>
-                  <persName ref="/people/VAU07.html">Vaughan's Letters</persName></ref>.
+                  <ref type="dText" subtype="read" target="/bibl/te0764.html"><persName ref="/people/VAU07.html">Vaughan's Letters</persName></ref>.
                      <seg type="dMeal" subtype="BG"><persName ref="/people/MON01.html"
                         >Montagu</persName> breakfasts</seg>: <seg type="dMeal" subtype="DG"
                         ><persName>Burrel</persName> dines</seg>: <seg type="dMeeting" subtype="C"
@@ -3757,7 +3757,7 @@
                         ref="/people/CHA01.html"><placeName type="venue"
                         >Chandler's</placeName></persName>, w. <persName ref="/people/NOR01.html"
                         >Northcote</persName>, <persName ref="/people/PHI02.html">Philips</persName>
-                        &amp; <persNameref="/people/GRE11.html">Gregson</persName></seg>: <seg type="dMeeting" subtype="C">call
+                        &amp; <persName ref="/people/GRE11.html">Gregson</persName></seg>: <seg type="dMeeting" subtype="C">call
                         on<persName ref="/people/BAT01.html"> Batty</persName></seg>.</ab>
                <ab type="dDay" xml:id="g1797-12-19"><date when="1797-12-19">19. Tu. </date><ref
                      type="dText" subtype="read" target="/bibl/te0803.html">Love Triumphant, acts 1,
