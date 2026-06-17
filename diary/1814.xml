@@ -807,7 +807,7 @@
                             çala</ref>. <seg type="dMeeting" subtype="C"><persName
                                 ref="/people/PLA02.html"><placeName type="venue"
                                 >Place</placeName></persName></seg>, <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                    subtype="C"><persName  ref="/people/WAK03.html"><placeName type="venue"
                                 >Wakefield</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName ref="/people/HOG01.html"><placeName type="venue"
                                     >Hogan</placeName></persName></seg> &amp; <seg type="dMeeting"
@@ -839,7 +839,7 @@
                             type="dText" subtype="read" target="/bibl/te1458.html">Montaigne, III,
                             12</ref>. <seg type="dMeeting" subtype="CG"><persName
                                 ref="/people/PLA02.html">Place</persName></seg>, <seg
-                            type="dMeeting" subtype="CG"><persName>Wakefield</persName></seg>, <seg
+                                    type="dMeeting" subtype="CG"><persName  ref="/people/WAK03.html">Wakefield</persName></seg>, <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/HAM02.html"
                                 >Hamond</persName></seg>, <seg type="dMeeting" subtype="CG"
                                 ><persName>Gill</persName></seg>, <seg type="dMeeting" subtype="CG"
@@ -1387,7 +1387,7 @@
                             type="dMeeting" subtype="C"><persName ref="/people/PLA02.html"
                                     ><placeName type="venue">Place</placeName></persName>; <seg
                                 type="dMeeting" subtype="Adv">adv.
-                                <persName>Wakefield</persName></seg></seg>: <seg type="dMeeting"
+                                        <persName ref="/people/WAK03.html">Wakefield</persName></seg></seg>: <seg type="dMeeting"
                             subtype="M">meet <persName ref="/people/SMI13.html">Peter
                                 Smith</persName></seg> &amp; <seg type="dMeeting" subtype="M"
                                 ><persName ref="/people/RIC04.html">H Richter</persName></seg>.</ab>

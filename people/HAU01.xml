@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>Gordon Duggan</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="HAU01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Moses</forename>
+                        <surname>Haughton</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1772">
+                        <placeName/>
+                    </birth>
+                    <death when="1848"/>
+                    <occupation>miniaturist and painter</occupation>
+                    <note type="editorial">
+                        <p>Nephew of Moses Haughton, the elder (1734-1804) Haughton was a friend of
+                            Fuseli, whose work he engraved and with whom he may have lived in
+                            Somserset House. Fuseli's widow lived with Moses Haughton after Fuseli's
+                            death. There is an issue about whether Houghton entries ought to be
+                            coded for Haughton, since they appear shortly before the acquaintance
+                            develops (January and February 1809), and Godwin does not always
+                            identify names correctly on first meeting. Moreover, both events are at
+                            Johnson's with Fuseli. We have, accordingly, coded Houghton for
+                            Haughton. The entries after 1814 we believe are to Graves Haugton,
+                            although we cannot be sure this iss sso, especially for the 827 entry.
+                            The 1833 entry is unequivocal because of Grave Haughton's role in the
+                            Asiatic Society that Godwin refers to. See ODNB</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

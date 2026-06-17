@@ -2029,7 +2029,7 @@
                                 <persName>Hog</persName></seg>. <seg type="dMeeting" subtype="C"
                             >Call on <persName ref="/people/PLA02.html"><placeName type="venue"
                                     >Place</placeName></persName>; <seg type="dMeeting"
-                                subtype="Adv">adv. <persName>Bone</persName> &amp;
+                                        subtype="Adv">adv. <persName  ref="/people/BON05.html">Bone</persName> &amp;
                                     <persName>Thomas</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1813-07-15"><date when="1813-07-15">15. Th.</date><ref
                             type="dText" subtype="cala" target="/bibl/te2129.html">Baker,
@@ -3314,7 +3314,7 @@
                             type="dMeeting" subtype="C">call on <persName ref="/people/PLA02.html"
                                     ><placeName type="venue">Place</placeName></persName>; <seg
                                 type="dMeeting" subtype="Adv">adv.
-                                <persName>Wakefield</persName></seg></seg>. <seg type="dMeeting"
+                                        <persName ref="/people/WAK03.html">Wakefield</persName></seg></seg>. <seg type="dMeeting"
                             subtype="CG"><persName>Barr</persName>[ ?]</seg> &amp; <seg
                             type="dMeeting" subtype="CG"><persName>Kidder</persName>
                         call</seg>.</ab>

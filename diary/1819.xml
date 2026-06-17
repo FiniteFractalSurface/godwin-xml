@@ -771,7 +771,7 @@
               calls</seg>: <ref type="dEvent" subtype="Lect" target="/events/le0022.html"><persName
                 ref="/people/COL01.html">Coleridge</persName> ;<seg type="dMeeting" subtype="Adv">
                 adv. <persName ref="/people/RIC04.html">H Richter</persName> &amp;
-                  <persName>Wirgman</persName> (speak)</seg></ref>: <seg type="dMeal" subtype="SG"
+                  <persName ref="/people/WIR01.html">Wirgman</persName> (speak)</seg></ref>: <seg type="dMeal" subtype="SG"
                 ><persName ref="/people/HAZ01.html">Hazlit</persName> sups</seg>.</ab>
           <ab type="dDay" xml:id="g1819-03-30"><date when="1819-03-30">30. Tu.</date><ref
               type="dText" subtype="read" target="/bibl/te2653.html"> Tacitus, c. 81</ref>. <seg
@@ -1097,7 +1097,7 @@
               <ref type="dWrote" subtype="sent">P S to <persName ref="/people/CON01.html"
                 >Constable</persName></ref>. <seg type="dMeeting" subtype="CG"><persName
                 ref="/people/OGI01.html">Ogilvie</persName></seg>, <seg type="dMeeting" subtype="CG"
-                ><persName>Wirgman</persName></seg> &amp; <seg type="dMeeting" subtype="CG"
+                  ><persName ref="/people/WIR01.html">Wirgman</persName></seg> &amp; <seg type="dMeeting" subtype="CG"
                 ><persName ref="/people/OWE01.html">Owen</persName> call</seg>: <seg type="dMeeting"
               subtype="See"><persName ref="/people/ROD01.html"><placeName type="venue"
                   >Rodd’s</placeName></persName></seg>. <emph rend="red"><ref type="dEvent"

@@ -841,7 +841,7 @@
                             <seg type="dMeal" subtype="B">Breakfast at <persName
                                 ref="/people/LOS01.html"><placeName type="venue"
                                 >Losh's</placeName></persName>, w.
-                            <persName>Townsend</persName></seg>: <seg type="dMeeting" subtype="M"
+                                <persName ref="/people/TOW04.html">Townsend</persName></seg>: <seg type="dMeeting" subtype="M"
                             >meet <persName ref="/people/ALL02.html">Baugh Allen</persName></seg>:
                             <seg type="dMeeting" subtype="C">call on <persName
                                 ref="/people/LEE01.html"><placeName type="venue"
@@ -1409,7 +1409,7 @@
                             subtype="read" target="/bibl/te0488.html">Clarissa, p. 166</ref>. <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/PAR99.html"
                                 >Parry</persName></seg> &amp; <seg type="dMeeting" subtype="CG"
-                                ><persName ref="/people/DAV03.html">Davy</persName> call</seg>: <seg
+                                ><persName>Davy</persName> call</seg>: <seg
                             type="dMeeting" subtype="C">call on <persName ref="/people/SMI02.html"
                                     ><placeName type="venue">C
                         Smith</placeName></persName></seg>.</ab>
@@ -2153,7 +2153,7 @@
                                     ><placeName type="venue">Northcote</placeName></persName></seg>:
                             <seg type="dMeeting" subtype="CG"><persName ref="/people/COM01.html"
                                 >Combe</persName></seg>, <seg type="dMeeting" subtype="CG"><persName
-                                ref="/people/DAV03.html">Davy</persName></seg> &amp; <seg
+                             >Davy</persName></seg> &amp; <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/FEN01.html"
                                 >Fenwick</persName> call</seg>: <seg type="dMeal" subtype="DG"
                                 ><persName ref="/people/MAR01.html">M</persName> dines</seg>: <seg

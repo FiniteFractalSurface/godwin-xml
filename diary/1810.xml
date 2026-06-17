@@ -654,7 +654,7 @@
                             type="dText" subtype="cala" target="/bibl/te1789.html">Biron,
                         çala</ref>: <ref type="dText" subtype="read" target="/bibl/te1134.html"
                             >Beggar’s Bush, act 1</ref>. <seg type="dMeeting" subtype="CG"
-                                ><persName>Macreery</persName></seg>, <seg type="dMeeting"
+                                ><persName ref="/people/MCC02.html">Macreery</persName></seg>, <seg type="dMeeting"
                             subtype="CG"><persName ref="/people/MIL01.html">Miles</persName></seg>
                         &amp; <seg type="dMeeting" subtype="CG"><persName>Sidney</persName>
                             call</seg>: <ref type="dEntertainment" subtype="Theat"
@@ -1202,7 +1202,7 @@
                             çala</ref>. <seg type="dMeal" subtype="D">Dine at <placeName>St
                                 Paul’s</placeName> , w. <persName ref="/people/FUS01.html"
                                 >Fuseli</persName>, <persName ref="/people/BON01.html"
-                                >Bonnycastle</persName>, <persName>Wakefield</persName>, <persName
+                                    >Bonnycastle</persName>, <persName ref="/people/WAK03.html">Wakefield</persName>, <persName
                                 ref="/people/EDG01.html">Edgworth</persName>, <persName>maj.
                                 Moore</persName>, <persName ref="/people/JOY01.html"
                                 >Joyce</persName> &amp; <persName ref="/people/KNO01.html"

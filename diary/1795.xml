@@ -387,7 +387,7 @@
                                     <persName ref="/people/BAI10.html">Bailey</persName>, <persName>Hubbard</persName>,
                                 <persName>Vincent</persName>, <persName>Hunter</persName>, <persName
                                 ref="/people/RIC05.html">G Richter</persName>,
-                                <persName>Walker</persName>, <persName>Bone</persName>, <persName
+                                    <persName>Walker</persName>, <persName ref="/people/BON05.html">Bone</persName>, <persName
                                 ref="/people/MAN02.html">Manning</persName> &amp; <persName
                                 ref="/people/LEE04.html">Lee</persName></seg>.</ab>
                     <pb n="e.201_0048r"/>
@@ -2972,7 +2972,7 @@
                                 target="/events/pe0001.html">retort</ref>.</seg><seg type="dMeeting"
                             subtype="CG"><persName ref="/people/WOR01.html"
                             >Wordsworth</persName></seg> &amp; <seg type="dMeeting" subtype="CG"
-                                ><persName type="nah">Matthews</persName> call, nah</seg>.</ab>
+                                ><persName ref="/people/MAT05.html" type="nah">Matthews</persName> call, nah</seg>.</ab>
                     <pb n="e.202_0016r"/>
                     <ab type="dDay" xml:id="g1795-08-16"><date when="1795-08-16">Aug. 16.
                             Su.</date><ref type="dWrote" subtype="write" target="/works/poli01.html"
