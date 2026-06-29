@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="GIL08" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Thomas</forename>
+                        <surname>Gill</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1773">
+                        <placeName/>
+                    </birth>
+                    <death when="1856"/>
+                    <occupation>Cutler</occupation>
+                    <note type="editorial">
+                        <p>. He was first a sword cutler, son of the highly esteemed sword cutler
+                            Thomas Gill of Birmingham. Later he became a patent agent, lived at 125
+                            The Strand, and was for about 20 years, Chairman of Mechanics at the
+                            Royal Society of Arts, Manufacture and Commerce, in John Adam St. He
+                            produced upward of a dozen publications, Technical Resources, available
+                            on Google books. He was born 1773 in Birmingham, and died in Newington
+                            April 1856. He married Mary Sheffield in 1809, daughter of W E
+                            Sheffield. How many of the Gill's he accounts for is unclear. There is a
+                            period in 1814 of intense association with a 'Gill' - but it is unclear
+                            that this is the same Gill. And 'Mrs Gill' in 1807 is prior to Gill's marriage.
+                        Ed Pope is sceptical that this matches any entries - and none are currently coded.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

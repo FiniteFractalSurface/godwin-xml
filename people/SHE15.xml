@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>Pam Phillips</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="SHE15" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>William Evetts</forename>
+                        <surname>Sheffield</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1753">
+                        <placeName/>
+                    </birth>
+                    <death when="1822"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Mentioned on 19 Nov 1799.Resident of the Polygon, Somers Town c 1798-1813. Father of Mary Sheffield (1789-1844), who became the wife of Thomas Gill (1773-1856). See entry for Gill, and 
+                            https://www.ancestry.co.uk/family-tree/person/tree/12671412/person/500057393/facts.
+                            
+                        </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
