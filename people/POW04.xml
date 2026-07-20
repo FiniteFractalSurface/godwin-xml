@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="POW04" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>NAME</forename>
+                        <surname>Powell</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope:  11.3.1796 Powell at Holcroft's Not James Powell the spy as coded in GD
+                            website. In Holcroft's diary (Hazlitt's Works vol 3 p196) he mentioned
+                            seeing William Nicholson's diary entry for 11.3.1796 and referred to
+                            Powell as "a young Oxonian brought by Parr". May be one of these Charles
+                            Powell son of Rev Wm of Abergavenny - Jesus Coll matric 20.5.1790 age
+                            18, BA 1794 MA 1796 (PCC 1827?) James Powell son of James of Abingdon -
+                            Trinity Coll matric 13.12.1788 age 16, scholar, BA 1792, MA 1795, died
+                            20.3.1797 (PCC 1797 x 2) John Folliott Powell son of Richard of Abingdon
+                            - St Mary Hall matric 6.2.1795 age 22, died 9.11.1839 (PCC 1839) Walter
+                            Powell son of Rev John of Llangattock, co. Monmouth - Jesus Coll matric
+                            24.5.1792 age 18, BA 1796, scholar 1816-23 (PCC 1824?) William Powell
+                            son of Rev Wm of Abergavenny - Jesus Coll matric 8.4.1786 age 16, BA
+                            1789, MA 1792, Lincolns Inn 1795, BD 1800 (PCC 1810 x 2?)</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

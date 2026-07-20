@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Person List</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Generated data</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="ADK10" sex="1">
+               <persName>
+                  <roleName/>
+                  <forename>Harry</forename>
+                  <surname>Adkins</surname>
+                  <addName/>
+               </persName>
+               
+               <birth when="1000-01-01">
+                  <placeName/>
+               </birth>
+               <death when="1000-01-01"/>
+               <occupation>police officer</occupation>
+               <note type="editorial">
+                  <p>The two entries seem to have been Harry Adkins, police officer at the Bow-street public office. A Harry Adkins was later keeper of Warwick gaol in the 1830s and 1840s.
+                  </p>
+               </note>
+            </person> </listPerson>
+      </body>
+   </text>
+</TEI>

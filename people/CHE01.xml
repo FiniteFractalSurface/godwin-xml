@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="CHE01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>James</forename>
+                        <surname>Chelsum</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1738">
+                        <placeName/>
+                    </birth>
+                    <death when="1801"/>
+                    <occupation>Cof E Clergyman</occupation>
+                    <note type="editorial">
+                        <p>Rev James Chelsum DNB 1738-1801 though very much a Church of England man,
+                            was a member in 1788 for the Society for Abolition of the Slave Trade so
+                            would have had something in common with Hollis. The name Chelsum is very
+                            rare which adds to positive identification </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,17 +1,66 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="MOR13" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">John Maddison</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Morton</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1811-01-03"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1891-12-19"/><occupation xmlns="http://www.tei-c.org/ns/1.0">playwright</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title><p xmlns="http://www.tei-c.org/ns/1.0">Likely to be the second eldest son of <persName xmlns="http://www.tei-c.org/ns/1.0" key="MOR01">Thomas Morton</persName> and brother of <persName xmlns="http://www.tei-c.org/ns/1.0" key="MOR12">Edw. Morton</persName>, the former being in the <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>.</p><p xmlns="http://www.tei-c.org/ns/1.0"> Entries to E/ED/Edw Morton, M Morton have been coded but with less certainty than is the case for Thomas Morton:   E and M Morton do seem to be related, appearing together on three occasions.
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="MOR13" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>John Maddison</forename>
+                        <surname>Morton</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1811-01-03">
+                        <placeName/>
+                    </birth>
+                    <death when="1891-12-19"/>
+                    <occupation>playwright</occupation>
+                    <note type="editorial">
+                        <title>DNB</title>
+                        <p>Likely to be the second eldest son of <persName key="MOR01">Thomas Morton</persName> and brother of <persName key="MOR12">Edw. Morton</persName>, the former being in the <title>DNB</title>.</p>
+                        <p> Entries to E/ED/Edw Morton, M Morton have been coded but with less certainty than is the case for Thomas Morton:   E and M Morton do seem to be related, appearing together on three occasions.
       It seems likely that they are the two eldest sons of Thomas Morton.  This assumes that the second son, John Maddison Morton, born 3 January 1811, 
       died 19 December 1891,was known to Godwin by his middle name (but several of his obituaries do refer to him as Maddison Morton).  It seems that Godwin first meets Maddison Morton on his 
-      own, aged 16, at the <persName xmlns="http://www.tei-c.org/ns/1.0" key="KEN01">Kenney's</persName>.  Some months later he meets '4 Mortons' at the Kenneys. Moreover, the vast majority of entries for 3 or 4 Mortons and for 
+      own, aged 16, at the <persName key="KEN01">Kenney's</persName>.  Some months later he meets '4 Mortons' at the Kenneys. Moreover, the vast majority of entries for 3 or 4 Mortons and for 
       E and M Morton are in relation to the Kenneys, with whom the family seems to be close The use of E and M Morton may be driven by 
-      alphabetical order, but may also indicate that E is the older of the two. <lb xmlns="http://www.tei-c.org/ns/1.0"/>
-      16.11.1827 M Morton  <lb xmlns="http://www.tei-c.org/ns/1.0"/>
-      18.3.1828 Edw. Morton  <lb xmlns="http://www.tei-c.org/ns/1.0"/>
-      25.3.1829 E and M Morton  <lb xmlns="http://www.tei-c.org/ns/1.0"/>
-      29.12.1829 Ed. Morton <lb xmlns="http://www.tei-c.org/ns/1.0"/>
-      18.10.1830 M Morton  <lb xmlns="http://www.tei-c.org/ns/1.0"/>
-      26.5.1831 M Morton  <lb xmlns="http://www.tei-c.org/ns/1.0"/>
-      13.9.1831 E and M Morton  <lb xmlns="http://www.tei-c.org/ns/1.0"/>
-      18.6.1832 E and M Morton <lb xmlns="http://www.tei-c.org/ns/1.0"/>
+      alphabetical order, but may also indicate that E is the older of the two. <lb/>
+      16.11.1827 M Morton  <lb/>
+      18.3.1828 Edw. Morton  <lb/>
+      25.3.1829 E and M Morton  <lb/>
+      29.12.1829 Ed. Morton <lb/>
+      18.10.1830 M Morton  <lb/>
+      26.5.1831 M Morton  <lb/>
+      13.9.1831 E and M Morton  <lb/>
+      18.6.1832 E and M Morton <lb/>
       Cases of '3 Mortons' and '4 Mortons' have also been taken to include both E and M Morton.  Cases of 'Mortons' may well include the two sons, 
       but they might simply refer to Morton and his wife. On these grounds, they have not been coded as including them.
-    </p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook"><title xmlns="http://www.tei-c.org/ns/1.0"/></bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"><date xmlns="http://www.tei-c.org/ns/1.0" when="1827-11-16" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-01-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-03-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-12-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-12-24" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"><date xmlns="http://www.tei-c.org/ns/1.0" when="1829-03-25" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-10-14" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-10-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-11-26" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-05-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-08-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-09-13" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-01-05" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-06-18" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    </p>
+                    </note>
+                    <bibl type="printedbook">
+                        <title/>
+                    </bibl>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

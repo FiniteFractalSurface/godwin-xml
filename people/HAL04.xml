@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Person List</title>
+            <respStmt>
+               <resp>Researched by</resp>
+               <name>EP</name>
+            </respStmt>
+            <respStmt>
+               <resp>Encoded by</resp>
+               <name>SI</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Generated Data</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="HAL04" sex="1">
+               <persName>
+                  <forename>Robert</forename>
+                  <surname>Hall</surname>
+               </persName>
+               <birth when="1764-05-02"></birth>
+               <death when="1831-02-21"></death>
+               <occupation>Baptist Minister</occupation>
+               <note type="editorial">
+                  <p>Robert Hall was a Baptist Minister who spent time at Cambridge, Leicester and Bristol preaching. In 1800 Godwin read a number of sermons delivered by Robert Hall. Hall was also a lifelong friend of <persName key="MAC01">James Mackintosh</persName>, explaining his presence at dinner at Mackintosh’s. </p>
+               </note>
+               <bibl type="website">Ed Pope History (31/07/2012)</bibl>
+               <bibl type="other">DNB</bibl>
+            </person>
+         </listPerson>
+      </body>   
+   </text>   
+</TEI>

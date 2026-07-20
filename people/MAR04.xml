@@ -1,12 +1,46 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="MAR04" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Philip Meadows</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Martineau</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1752"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1829"/><occupation xmlns="http://www.tei-c.org/ns/1.0">surgeon</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">While this may be Harriet Martineau's father Thomas Martineau 
-    (1764-1826), a Norwich cloth manufacturer, Jewson's <title xmlns="http://www.tei-c.org/ns/1.0">Jacobin City</title> seems to 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="MAR04" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Philip Meadows</forename>
+                        <surname>Martineau</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1752">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1829"/>
+                    <occupation>surgeon</occupation>
+                    <note type="editorial"><p>While this may be Harriet Martineau's father Thomas Martineau 
+    (1764-1826), a Norwich cloth manufacturer, Jewson's <title>Jacobin City</title> seems to 
     suggest that it is more likely to be Philip, due to his greater prominence in Norwich radical 
-    circles.  In <title xmlns="http://www.tei-c.org/ns/1.0">Jacobin City</title>, he appears with Barnard, Rigby, William Taylor etc. and Taylor 
+    circles.  In <title>Jacobin City</title>, he appears with Barnard, Rigby, William Taylor etc. and Taylor 
     arranged for Henry Southey, the poet's brother, to be apprenticed to him. However, this 
     identification is still fairly tentative and it would be helpful to find the letter, 'Write to P
     Martineau', 28.11.1811, which is not in the Abinger collection.</p>
     
-    Still need to check: <title xmlns="http://www.tei-c.org/ns/1.0">A Memoir of the Late Philip Meadows Martineau, Surgeon</title>: in particular,
+    Still need to check: <title>A Memoir of the Late Philip Meadows Martineau, Surgeon</title>: in particular,
     was Philip Martineau in London during 1811? This is when a lot of the contacts are. The 
     fact that some of the meetings to 'P Martineau' are in London perhaps gives grounds for
     thinking that the other contacts in London without an initial are also to Philip and that he
@@ -21,5 +55,10 @@
   
   JG
   
-  See C.B. Jewson, <title xmlns="http://www.tei-c.org/ns/1.0">The Jacobin City: A Portrait of Norwich in its Reaction to the French Revolution 1788-1802</title> (Glasgow: Blackie, 1975).
-  </note><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+  See C.B. Jewson, <title>The Jacobin City: A Portrait of Norwich in its Reaction to the French Revolution 1788-1802</title> (Glasgow: Blackie, 1975).
+  </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

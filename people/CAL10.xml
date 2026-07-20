@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Person List</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Generated data</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="CAL10" sex="1">
+               <persName>
+                  <roleName/>
+                  <forename>Sir Augustus Wall</forename>
+                  <surname>Callcott</surname>
+                  <addName/>
+               </persName>
+               
+               <birth when="1779-02-20">
+                  <placeName/>
+               </birth>
+               <death when="1844-11-25"/>
+               <occupation>painter</occupation>
+               <note type="editorial">
+                  <p>The Calcot mentioned is likely Sir Augustus Wall Callcott, a painter, who initially appeared alongside Chandler who was also a painter. This visit occurred soon after he entered the Royal Academy Schools in 1797 and studied with John Hoppner, portrait painter. He was a member of the Sketching Society in 1801 which focused on watercolour, but he soon focused on oil painting. He was elected as associate of the Royal Academy in 1806 and Royal Academician in 1810.
+                     His father was Thomas Callcott, who built the hamlet of Kensington Gravel Pits and his brother was the composer John Wall Callcott. He married Maria Graham, writer and traveller, on 20 February 1827.
+                  </p>
+               </note>
+            </person> </listPerson>
+      </body>
+   </text>
+</TEI>

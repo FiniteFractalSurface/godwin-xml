@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WOO13" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>William</forename>
+                        <surname>Woolnoth</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1780">
+                        <placeName/>
+                    </birth>
+                    <death when="1837"/>
+                    <occupation>engraver</occupation>
+                    <note type="editorial">
+                        <p>Likely William Woolnoth engraver (bbti) 92 White Lion-str Pentonville
+                            (Holdens directory 1802) 1780-1837 (William Woolnoth gent White Lion-row
+                            SunFire 1782 presumably his father). Woolnoth was a surname given to
+                            foundlings baptised at St Mary Woolnoth</p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

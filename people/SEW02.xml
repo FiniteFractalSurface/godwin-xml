@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name></name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="SEW02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>NAME</forename>
+                        <surname>SURNAME</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1747">
+                        <placeName/>
+                    </birth>
+                    <death when="1799"/>
+                    <occupation>Anecdotist</occupation>
+                    <note type="editorial">
+                        <p> See Ed Pope:
+                            Seward 19.5.1793 at Tooke's / 23.1.1798 at Johnson's / 13.10.1820 seek Seward / 16.10.1820 call on Seward
+                            
+                            First two entries above perhaps William Seward DNB 1747-99 anecdotist
+                            
+                            Edward Seward 1770/1 - 1795 'pantisocrat' and friend Of Robert Southey
+                        </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title></title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
+

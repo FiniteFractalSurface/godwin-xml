@@ -1,20 +1,70 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="HOD02" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Thomas</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Hodgkins</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1000"/><occupation xmlns="http://www.tei-c.org/ns/1.0">manager</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Godwin employed Hodgkins to run the bookshop which he and 
-    <persName xmlns="http://www.tei-c.org/ns/1.0" key="CLA01">Mary Jane</persName> established in 1805 in Hanway Street. The shop was originally established 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="HOD02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Thomas</forename>
+                        <surname>Hodgkins</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName/>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation>manager</occupation>
+                    <note type="editorial">
+                        <p>Godwin employed Hodgkins to run the bookshop which he and 
+    <persName key="CLA01">Mary Jane</persName> established in 1805 in Hanway Street. The shop was originally established 
     under Hodgkins's name, so as to avoid attracting the suspicion of the government and 
     the opprobrium of the anti-jacobins.  The exact course of events is not entirely clear but 
     the biographies suggest that Hodgkins remained the shop manager for a period of just over two
-    years. Certainly, the <title xmlns="http://www.tei-c.org/ns/1.0">Morning Chronicle</title> advertisements for Baldwin's <title xmlns="http://www.tei-c.org/ns/1.0">Fables and History</title> are for 
-    Thomas Hodgkins's shop throughout 1806 and early 1807. </p><p xmlns="http://www.tei-c.org/ns/1.0">In August of 1807 the relationship broke down 
+    years. Certainly, the <title>Morning Chronicle</title> advertisements for Baldwin's <title>Fables and History</title> are for 
+    Thomas Hodgkins's shop throughout 1806 and early 1807. </p>
+                        <p>In August of 1807 the relationship broke down 
     (at this point the wider Hodgkins family also seem to become involved).  Godwin appears to be negotiating for 
     Skinner Street (and having people sleep there), and he seems to have brought a constable into 
     proceedings with Hodgkins. The biographies suggest that Hodgkins had been taking a cut in the profits of the
     business.  Godwin managed to get rid of him and shortly after moved the business under the name M.J. 
-    Godwin to premises in Skinner Street.  On 4 September there was an advertisement for <persName xmlns="http://www.tei-c.org/ns/1.0" key="LAM01 LAM02">Lamb's</persName><title xmlns="http://www.tei-c.org/ns/1.0">Tales from 
+    Godwin to premises in Skinner Street.  On 4 September there was an advertisement for <persName key="LAM01 LAM02">Lamb's</persName><title>Tales from 
     Shakespeare</title> printed for 'the proprietors of the juvenile library, who remain unnamed, but located in 
-    Skinner Street.  The <title xmlns="http://www.tei-c.org/ns/1.0">Morning Chronicle</title> for 21 January 1808 has one advertisement referring to the 
+    Skinner Street.  The <title>Morning Chronicle</title> for 21 January 1808 has one advertisement referring to the 
     proprietors, and one that still used Hodgkins's name but at Skinner Street.  Otherwise the 
-    advertisements are not linked to a name until 18 November 1808 when M.J. Godwin appears for the first time.</p><p xmlns="http://www.tei-c.org/ns/1.0">Godwin's diary entries for Hodgkins focus on the period around his initial employment and that around his dismissal (with nothing in-between - suggesting that 
+    advertisements are not linked to a name until 18 November 1808 when M.J. Godwin appears for the first time.</p>
+                        <p>Godwin's diary entries for Hodgkins focus on the period around his initial employment and that around his dismissal (with nothing in-between - suggesting that 
     Godwin only exceptionally included trades people or servants in his diary. There is, however a further entry 
     for 1810 which may or may not refer to him (it may refer to a Jo Hodgkins whom Godwin records 
     meeting in August 1807, who was probably a relative of Thomas). Neither the 1810 entry or Jo 
-    Hodgkins have been coded at Thomas. Nor have any of the Mrs Hodgkins entries.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 9, fol. 15: 12 June 1805</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 30, fols. 126-7: 1806</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 20, fol. 87: not dated</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">St Clair</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Marshall</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Locke</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="journalism"><title xmlns="http://www.tei-c.org/ns/1.0">Morning Chronicle</title>, 1805-8 passim</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-07-03" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-07-16" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-10-19" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-08-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-08-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-08-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-08-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-08-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-08-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-08-31" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-09-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-10-29" n="notVenue" type="nah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    Hodgkins have been coded at Thomas. Nor have any of the Mrs Hodgkins entries.</p>
+                    </note>
+                    <bibl type="MS"> MS. Abinger c. 9, fol. 15: 12 June 1805</bibl>
+                    <bibl type="MS"> MS. Abinger c. 30, fols. 126-7: 1806</bibl>
+                    <bibl type="MS"> MS. Abinger c. 20, fol. 87: not dated</bibl>
+                    <bibl type="printedbook">St Clair</bibl>
+                    <bibl type="printedbook">Marshall</bibl>
+                    <bibl type="printedbook">Locke</bibl>
+                    <bibl type="journalism"><title>Morning Chronicle</title>, 1805-8 passim</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

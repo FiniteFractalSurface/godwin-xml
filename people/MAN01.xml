@@ -1,10 +1,58 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="MAN01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Thomas</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Manning</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1772-11-08"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1840-05-02"/><occupation xmlns="http://www.tei-c.org/ns/1.0">traveller</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">writer on China</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Thomas Manning (1772-1840), traveller and writer on China, was a great friend and correspondent of Charles Lamb. </p><p xmlns="http://www.tei-c.org/ns/1.0">Manning appears with George Tuthill, a contemporary of Thomas Manning at Cambridge in the 1790s, on a number of occasions. He calls on Godwin in 
-   December 1801 'pour prendre congé' and the <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> notes that Thomas went to Paris in 1802 for three years. Godwin's lack of concern about 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="MAN01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Thomas</forename>
+                        <surname>Manning</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1772-11-08">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1840-05-02"/>
+                    <occupation>traveller</occupation>
+                    <occupation>writer on China</occupation>
+                    <note type="editorial">
+                        <p>Thomas Manning (1772-1840), traveller and writer on China, was a great friend and correspondent of Charles Lamb. </p>
+                        <p>Manning appears with George Tuthill, a contemporary of Thomas Manning at Cambridge in the 1790s, on a number of occasions. He calls on Godwin in 
+   December 1801 'pour prendre congé' and the <title>DNB</title> notes that Thomas went to Paris in 1802 for three years. Godwin's lack of concern about 
    distinguishing between Thomas Manning and the Manning he knew in 1794-5 may suggest that the earlier Manning was no longer in his circle, a suposition supported 
-   by the five year gap between 1795 and 1800. </p><p xmlns="http://www.tei-c.org/ns/1.0">Thomas Manning returned from a three-year sojourn in Paris in January 1805 and it is probable that all contacts with Manning are with Thomas. This cannot be said 
-   with certainty however as James Manning also socialized with Lamb, as Lucas's <title xmlns="http://www.tei-c.org/ns/1.0">Life of Charles Lamb</title>, I, p. 386 testifies. The fact that the contacts 
+   by the five year gap between 1795 and 1800. </p>
+                        <p>Thomas Manning returned from a three-year sojourn in Paris in January 1805 and it is probable that all contacts with Manning are with Thomas. This cannot be said 
+   with certainty however as James Manning also socialized with Lamb, as Lucas's <title>Life of Charles Lamb</title>, I, p. 386 testifies. The fact that the contacts 
    cease in May 1806 makes Thomas almost certainly the Manning referred to as he sailed to China that month. During this period, Thomas Manning was in China, Lamb
    seems to have consorted with James Manning (other possible identifications are Thomas's brother Edward and William but these seem improbable as they
    are scarcely mentioned in his correspondence with Thomas and were not, as far as can be told, based in London). On his return to England in 1817, the identications 
    are less certain as the Manning entries may refer to either Thomas or James. However, given the warmth of Lamb's regard for Thomas, the entries have been 
-   coded as him. </p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">E.V. Lucas, <title xmlns="http://www.tei-c.org/ns/1.0">The Life of Charles Lamb</title> (London: Metheun &amp; Co., 1921).</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">St Clair, <title xmlns="http://www.tei-c.org/ns/1.0">The Godwins and the Shelleys</title></bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Marshall, <title xmlns="http://www.tei-c.org/ns/1.0">William Godwin</title></bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other">See <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-08-27" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-05-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-11-06" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-11-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-11-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-11-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-11-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-12-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-12-30" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-02-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-02-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-04-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-05-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-10-30" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-11-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-11-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-12-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-12-21" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-02-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-02-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-04-24" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-05-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-05-05" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-02-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-02-17" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-05-06" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-06-05" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-07-05" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-07-23" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-06-14" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"><date xmlns="http://www.tei-c.org/ns/1.0" when="1818-02-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1818-03-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1818-06-17" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1818-09-05" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1818-10-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1818-10-03" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"><date xmlns="http://www.tei-c.org/ns/1.0" when="1820-03-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1820-05-12" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1820-05-24" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1820-07-06" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-05-04" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-09-18" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-02-17" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-02-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-04-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-04-06" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-04-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-07-24" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-08-03" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"><date xmlns="http://www.tei-c.org/ns/1.0" when="1825-03-02" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+   coded as him. </p>
+                    </note>
+                    <bibl type="printedbook">E.V. Lucas, <title>The Life of Charles Lamb</title> (London: Metheun &amp; Co., 1921).</bibl>
+                    <bibl type="printedbook">St Clair, <title>The Godwins and the Shelleys</title></bibl>
+                    <bibl type="printedbook">Marshall, <title>William Godwin</title></bibl>
+                    <bibl type="other">See <title>DNB</title></bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

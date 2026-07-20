@@ -1,27 +1,65 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="FER01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Robert Cutlar</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Fergusson</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1768"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1838-11-16"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Robert Cutlar Fergusson seems to have been associated with legal circles in the 1790s, probably
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="FER01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Robert Cutlar</forename>
+                        <surname>Fergusson</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1768">
+                        <placeName/>
+                    </birth>
+                    <death when="1838-11-16"/>
+                    <occupation/>
+                    <note type="editorial">
+                        <p>Robert Cutlar Fergusson seems to have been associated with legal circles in the 1790s, probably
     coming to London in 1793/4. He went on to study English law at Lincoln's Inn, and was called to
     the bar on 4 July 1797. Fergusson's acquaintance with reformers led to his employment as counsel
     for John Allen, a personal friend, who was tried with James O'Coigly, Arthur O'Connor, and
     others for high treason at Maidstone on 21 and 22 May 1798. At the end of the trial )'Connor attempted an escape (knowing that, although he would be discharged there were offices awaiting with a second warrant for High Treason).
     The resulting fracas, in which O'Connor was re-detained, led to charges against Fergusson and others.  Fergusson was imprisoned for a year and
     then went to India where he became a judge. 
-    He returned to Scotland in 1826. </p><p xmlns="http://www.tei-c.org/ns/1.0">He first appears in the diary with <persName xmlns="http://www.tei-c.org/ns/1.0" key="WEB02">Willis Webb</persName>– it is possible that both of them were 
+    He returned to Scotland in 1826. </p>
+                        <p>He first appears in the diary with <persName key="WEB02">Willis Webb</persName>– it is possible that both of them were 
       law clerks at this time (although little seems to be known about Webb after his time at Cambridge).
-      Fergusson then also appears at <persName xmlns="http://www.tei-c.org/ns/1.0" key="JEN01">Joseph Clayton Jennings</persName> on several occasions – and then again at <persName xmlns="http://www.tei-c.org/ns/1.0" key="HAR02">Thomas Hardy’s</persName> trial. 
-    He is also on <persName xmlns="http://www.tei-c.org/ns/1.0" key="GER01">Joseph Gerrald’s</persName> committee
-    with <persName xmlns="http://www.tei-c.org/ns/1.0" key="MAC01">James Mackintosh</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0" key="MAX01">William Maxwell</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0" key="PER01">James 
-      Perry</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0" key="HOL01">Thomas Holcroft</persName> and Godwin. 
-    From 1796 Fergusson appears at <persName xmlns="http://www.tei-c.org/ns/1.0" key="DEB01">John Debrett’s</persName> and <persName xmlns="http://www.tei-c.org/ns/1.0" key="TOO01">Horne
-    Tooke’s</persName>, and increasingly at Tooke’s, but also with <persName xmlns="http://www.tei-c.org/ns/1.0" key="BUR02">Francis Burdett</persName>.  
+      Fergusson then also appears at <persName key="JEN01">Joseph Clayton Jennings</persName> on several occasions – and then again at <persName key="HAR02">Thomas Hardy’s</persName> trial. 
+    He is also on <persName key="GER01">Joseph Gerrald’s</persName> committee
+    with <persName key="MAC01">James Mackintosh</persName>, <persName key="MAX01">William Maxwell</persName>, <persName key="PER01">James 
+      Perry</persName>, <persName key="HOL01">Thomas Holcroft</persName> and Godwin. 
+    From 1796 Fergusson appears at <persName key="DEB01">John Debrett’s</persName> and <persName key="TOO01">Horne
+    Tooke’s</persName>, and increasingly at Tooke’s, but also with <persName key="BUR02">Francis Burdett</persName>.  
       There is no entry after the spring of 1799 and he was sentenced at the end of April. There is one entry in 1816, but not much
-      familiar about the context:: <lb xmlns="http://www.tei-c.org/ns/1.0"/>
+      familiar about the context:: <lb/>
      
-    dine at <persName xmlns="http://www.tei-c.org/ns/1.0" key="NAP01">Napier’s
-      </persName>, w. <persName xmlns="http://www.tei-c.org/ns/1.0" key="BRU01">Bruntons</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0" key="PLA04">Playfair</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0" key="LES02">Leslie</persName>,
+    dine at <persName key="NAP01">Napier’s
+      </persName>, w. <persName key="BRU01">Bruntons</persName>, <persName key="PLA04">Playfair</persName>, <persName key="LES02">Leslie</persName>,
       Pellings, Ferguson,
       [circled:] [w?] pupi[l?]{,}  Macdonald, Nairn &amp;
-      <persName xmlns="http://www.tei-c.org/ns/1.0" key="CAD03">Cadel</persName>.</p><p xmlns="http://www.tei-c.org/ns/1.0">This was when Fergusson
-    was in India – unless he broke his stay for a trip that included London.</p><p xmlns="http://www.tei-c.org/ns/1.0">Godwin spelt Fergusson both with and without two s’s, commencing with 'Ferguson' and then (after a
+      <persName key="CAD03">Cadel</persName>.</p>
+                        <p>This was when Fergusson
+    was in India – unless he broke his stay for a trip that included London.</p>
+                        <p>Godwin spelt Fergusson both with and without two s’s, commencing with 'Ferguson' and then (after a
     couple of back and forth entries) he switched to 'Fergusson' – although the final entry for 1816 is
     Ferguson.  This strongly suggests that all up to 1799 are the same person. This
     speculation would be firmer if we knew that Webb had gone into the law and was training at the
@@ -29,4 +67,13 @@
     to legal circles.  The 1796-9 entries that focus on Debrett and Tooke
     do suggest that this is Robert Fergusson – and, in the absence of any initial to separate him at
     that stage, or any indication in the lists in the 1796 Diary, it seems likely  that the earlier
-    entries are continuous with these.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-06-14" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-07-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-08-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-10-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-10-23" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-11-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-11-03" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-01-24" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-04-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-05-05" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-05-06" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-05-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-05-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-07-21" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-03-14" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-04-17" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-04-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-12-31" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-03-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-05-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-05-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-06-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-07-02" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-01-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-02-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-04-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-05-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-09-02" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-04-14" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    entries are continuous with these.</p>
+                    </note>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

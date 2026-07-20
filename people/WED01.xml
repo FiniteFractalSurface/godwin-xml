@@ -1,7 +1,50 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="WED01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Josiah</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Wedgwood</surname><addName xmlns="http://www.tei-c.org/ns/1.0">jr.</addName></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1000"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Godwin established a friendship with the Wedgwood family, 
-    including the potter <persName xmlns="http://www.tei-c.org/ns/1.0" key="WED01">Josiah</persName> (1730–1795) and  two of his surviving sons, 
-    Josiah II and <persName xmlns="http://www.tei-c.org/ns/1.0" key="WED02">Thomas</persName> (1771–1805).  See Thomas Wedgwood for the details 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WED01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Josiah</forename>
+                        <surname>Wedgwood</surname>
+                        <addName>jr.</addName>
+                    </persName>
+                    <birth when="1000">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation/>
+                    <occupation/>
+                    <note type="editorial">
+                        <p>Godwin established a friendship with the Wedgwood family, 
+    including the potter <persName key="WED01">Josiah</persName> (1730–1795) and  two of his surviving sons, 
+    Josiah II and <persName key="WED02">Thomas</persName> (1771–1805).  See Thomas Wedgwood for the details 
     of Godwin's contact.  On the basis of previous biographical work, etc., we have 
     identified most 'Wedgwood' entries as Thomas, with contact with the father 
     being slight, and contact with Josiah jr., being identified distinctly by Godwin, during Thomas's
-    lifetime, and then acounting for all remaining contact with the Wedgwoods.</p></note><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"/><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-02-10" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-02-15" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-02-21" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-03-20" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-05-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-05-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-05-23" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-05-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-06-11" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-02-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-02-23" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-03-12" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-02-09" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-01-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-01-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-01-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-01-14" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-01-17" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-01-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-01-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-02-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-02-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-10-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-10-31" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-10-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-10-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-10-26" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-07-01" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-06-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-06-14" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-06-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-06-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-06-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-06-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-07-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-08-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-08-23" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-08-30" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"><date xmlns="http://www.tei-c.org/ns/1.0" when="1815-05-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1815-08-05" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1815-09-14" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-05-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-10-23" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-11-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-12-11" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-03-05" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-06-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-08-30" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-04-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-06-19" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"><date xmlns="http://www.tei-c.org/ns/1.0" when="1823-01-14" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1823-01-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1823-12-25" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"><date xmlns="http://www.tei-c.org/ns/1.0" when="1825-03-23" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1825-03-24" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"><date xmlns="http://www.tei-c.org/ns/1.0" when="1827-07-05" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    lifetime, and then acounting for all remaining contact with the Wedgwoods.</p>
+                    </note>
+                    <note type="editorial"/>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

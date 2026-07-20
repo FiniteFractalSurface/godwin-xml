@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="MAC18" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>George</forename>
+                        <surname>MacgrayMcgrane</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="unknown">
+                        <placeName/>
+                    </birth>
+                    <death when="unknown"/>
+                    <occupation>hat maker, cotton merchant</occupation>
+                    <note type="editorial">
+                        <p> This identification is tentative, but the name MacGray might be in reference to George Magrane of Ireland who was involved in numerous legal disputes regarding his trade. As well as the one refered to by Godwin in 1800, another follows in 1829 alleging fraud against a former trading partner. </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

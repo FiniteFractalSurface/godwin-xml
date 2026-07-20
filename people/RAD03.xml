@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="RAD03" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Evasio</forename>
+                        <surname>Radici</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1794">
+                        <placeName/>
+                    </birth>
+                    <death when="1855"/>
+                    <occupation>Military Officer, Parliamentarian, </occupation>
+                    <note type="editorial">
+                        <p>A compatriot and fellow exile of Antonio Panizzi, who introduces him to Godwin, Evasio Radice came to
+                            Britain in 1823, after the revolts against absolute power
+                            in several of the Italian states between 1820 and 1823, in which he was active militarily. Having
+                            fled to England following their suppression, he developed a career as a teacher, and became a naturalized citizen in 1837. 
+                            In 1833 he married Maria Hutton, who belonged to the Norwich Unitarian
+                            group. They had two children, Alberto (1836-1916) and Nina (1841-1866). He returned to Italy in 1848 and was elected to the Turin Parliament.
+                            </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        https://www.treccani.it/enciclopedia/evasio-radice_(Biographical-Dictionary)/<title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

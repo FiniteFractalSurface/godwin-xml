@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Person List</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>VS</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Generated data</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="RAN02" sex="1">
+               <persName>
+                  <roleName/>
+                  <forename>David Meade</forename>
+                  <surname>Randolph</surname>
+                  <addName/>
+               </persName>
+
+               <birth when="1759-01-01">
+                  <placeName/>
+               </birth>
+
+               <death when="1830-09-27"/>
+
+               <occupation>planter,slave owner in the USA,revolutionary</occupation>
+
+               <note type="editorial">
+                  <p>Godwin contacted four of the addresses in the flyleaf of his diary in the few
+                     days after Aaron Burr's departure, so they were clearly contacts Burr had given
+                     him (Godwin's diary vol xv: ‘David M Randolph 16 Francis-st, Golden-sq.’).
+                     David Meade Randolph was born in 1759 son of Richard and Mary. He was an
+                     officer in the Revolutionary war and a tobacco planter and slaveowner. In 1780
+                     he married Mary Randolph his cousin, children William Beverley, Richard, James,
+                     Thomas Mann, Lavinia and David Meade jr (1784-1825). Mrs Randolph is famous for
+                     her cookbook, she stayed in Virginia while her husband was in England. In 1809
+                     David Randolph patented a boot making machine, and in 1818 back in Virginia he
+                     was working on an improved form of cement. </p>
+               </note>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

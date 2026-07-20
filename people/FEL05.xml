@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="FEL05" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Robert </forename>
+                        <surname>Fellowes</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1771">
+                        <placeName/>
+                    </birth>
+                    <death when="1847"/>
+                    <occupation>Philanthroppist, editor</occupation>
+                    <note type="editorial">
+                        <p> Active in the Queen Caroline affair on the side of the Queen, and edited
+                            and published the addresses in support of the Queen. Denounced by
+                            William Cobbett for inheriting money from Baron Maseres on his death in
+                            1825, but defended in <title>The Examiner </title> on January 29, 1826.
+                            Godwin approaches Fellowes in 1825, most probably looking to him as a
+                            potential benefactor.</p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

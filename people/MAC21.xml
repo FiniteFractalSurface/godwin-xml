@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EB</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name>Elliot Buck</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="MAC21" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Thomas</forename>
+                        <surname>Macklin</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1752">
+                        <placeName/>
+                    </birth>
+                    <death when="1800-10-25"/>
+                    <occupation>Illustrator, Artist, Author, Printseller</occupation>
+                    <note type="editorial">
+                        <p>Thomas Macklin was an Irish printseller, curator and author who moved to
+                            Fleet Street in 1782. His successes included a series called 'Macklin's
+                            English Poets' (better known as 'The Poet's Gallery'), and a hugely
+                            successful illustrated filio Bible with contributions from artists such
+                            as Hugh Douglas Hamilton and Richard Cosway amoung others. </p>
+                        <p>It should be noted that Macklin knew and collaborated with Henry Fuseli
+                            who painted both Godwin and many of his aquantances mentioned in the
+                            diary, and so it is possible that that is how the two met.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="other">
+                        <title>DNB, Ed Pope</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

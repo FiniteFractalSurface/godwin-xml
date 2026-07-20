@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="YAT01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>NAME</forename>
+                        <surname>Yates</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Millener</occupation>
+                    <note type="editorial">
+                        <p>Ed Pope: P(hebe) G(odwin) + miss Yates at tea 15.7.1803 / 6.5.1804
+                            Forsyth, Yates + P G dine / 5.8.1804 Yates's + miss Clarke dine; adv
+                            Jo(seph) G(odwin) / 9.8.1804 meet H(annah) G(odwin) + Yates / 15.4.1805
+                            P G + Yates dine / 12.11.1805 miss Yates + P G dine / 17.12.1805 call on
+                            Jo G; adv miss Clarke. </p> 
+                        <p>Probably one of Hannah Godwin's millinery assistants, see my
+                            entry for Godwin, Hannah Holdens 1811 Eliz. Yates dressmaker 38 King-st
+                            Cheapside </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

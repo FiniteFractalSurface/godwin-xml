@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="FOR11" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Ford</forename>
+                        <surname>Brown</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1842"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p> Second son of John Brown (1738-1788), an innovative medical doctor from
+                            a very poor background. Ford Brown married Caroline Madox . Ford was a
+                            purser on the Arethusa, but retired after the Napoleonic Wars - and they
+                            lived in reduced circumstance (in part in Calais), which marked the upbringing of their son,
+                            Ford Maddox Ford (1821-1893). Brother of William Cullen Brown, who also appears in the diary. </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

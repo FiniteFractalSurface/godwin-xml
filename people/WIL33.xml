@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WIL33" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>William</forename>
+                        <surname>Willats</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName/>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation>Money Lender</occupation>
+                    <note type="editorial">
+                        <p>Bodleian Libraries The Abinger Papers (CMD ID 13797-CMD ID 8035) Mary
+                            Shelley, correspondence and papers, ?1782-1876 Original correspondence,
+                            [1816]-1850, n.d. William Godwin to Mary Shelley , 3 May 1822.
+                            Godwin wrote to Mary Shelley - saying that Willats had called to offer a loan."'But all this would, perhaps, have failed in inducing me to resume the
+                            pen, but for one extraordinary accident. Wednesday, 1st May, was the day
+                            when the last legal step was taken against me; and Wednesday morning, a
+                            few hours before this catastrophe, Willats, the man who, three or four
+                            years before, lent Shelley £2000 at two for one, called on me to ask
+                            whether Shelley wanted any more money on the same terms. </p> <p>See the Journals of Mary Shelley, p. 143, 182, 191.</p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

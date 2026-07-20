@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="COW03" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>NAME</forename>
+                        <surname>SURNAME</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Merchant</occupation>
+                    <note type="editorial">
+                        <p>See letters Abinger c4 f18-19(8.5.1798), c4 f20-1(10.5.1798), c15 f20-1,
+                            c22 f86 (2.1.1798), c22 f96 (Wed - presumably 9.5.1798). Cowie appears
+                            to have been a business associate of Gilbert Imlay and also of R
+                            Sherman. Cowie and or Sherman must have been assignees of Moore and Co,
+                            carpet manufacturers, founded by Thomas Moore DNB 1700?-1788 and their
+                            attorneys must have been Rowland and William Maltby. Sherman referred to
+                            a letter from Mrs Godwin (Mary Wollstonecraft) of 17.7.1797 on the
+                            subject of the debt (£15 and sixpence), for carpeting which Cowie had
+                            apparently assured Mrs Godwin would be covered by goods of Imlay's.
+                            Cowie may have been one of two brothers, Robert and George. Robert was
+                            born Montrose c1760 and died Islington 24.8.1834. He was a merchant of
+                            Lime St 1789-1834 and insurance broker as Chalmers and Cowie, 50 Lime St
+                            in 1794. He lived in Highbury Place Islington in 1811and was connected
+                            with the Union Chapel, Compton Terrace Islington. George was a merchant,
+                            sometimes as Runquist and Cowie at 5 Bury Court, St Mary Axe and 17
+                            Nicholas Lane, Lombard St in 1794, his will PCC 1831 of Gt St Helens, he
+                            married Rachael Buxton at St Margaret Pattens 6.5.1795. There was also a
+                            George Cowie bookseller of 31 Poultry will PCC 1829, a Thomas Cowie of
+                            Hammersmith will PCC 1825, and a James Cowie shoe factor of Orange
+                            Court, Leicester Fields will PCC 1823. John Cowie of 27 Falcon St
+                            Aldersgate refiner 1794 was probably another brothe rof Robert and George,
+                            he married Hellen Renny at Montrose in 1802 and died 8.7.1842 at
+                            Wandsworth age 72. He may have been the John Cowie indigo manufacturer
+                            Bengal 1800 or John Cowie trader of Cawnpore, Calcutta 1800</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

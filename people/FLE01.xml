@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="FLE01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Archibald</forename>
+                        <surname>Fletcher</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1746">
+                        <placeName/>
+                    </birth>
+                    <death when="1828"/>
+                    <occupation>Attorney</occupation>
+                    <note type="editorial">
+                        <p> Some of the Fletcher entries do seem to be tied to matters relationg to
+                            the English reform movement, and Archibald Fletcher is strongly
+                            connected to this, having been a part of the defence team for Joseph
+                            Gerrald. Other entries, however, are a connection in Scotland that
+                            Godwin makes and with whom he sets up an arrangement for his step son
+                            Charles to be 'apprenticed' to Archibald Constable, while lodging with
+                            the Fletchers (FLE02).
+                        </p>Ed Pope notes that this may be William
+                        Fletcher: William Fletcher of 7 New Sq, Lincolns Inn proposed 28.3.1794 by
+                        John Augustus Bonney 2nded John Horne Tooke ChristChurch Oxford 1784 age 16
+                        son of Thos Fletcher of Aston (Birmingham), adm Lincolns Inn 16.5.1785.
+                        Listed among crown witnesses for Hardy's trial 1794 as William Fletcher of
+                        Lincolns Inn barrister at law but he never appeared in list of counsel in
+                        English Law Lists. Alum Ox notes him as barrister Lincolns Inn 1794. Perhaps
+                        William son of Thomas and Sarah Fletcher bapt 17.11.1767 St Philip Birmingham.
+                        William Fletcher of Erdington, Warwicks voted Middlesex 1802 Byng and
+                        Burdett on freehold chambers in Lincolns Inn occupied by Ferguson. William
+                        Fletcher Esq of Erdington, or else of Aston Manor (both in same parish next
+                        to Birmingham) appeared in Jury and Game lists between 1798 and 1823, sub to
+                        Blair's Grave illus. William Blake 1808, sub to charity Morning Post
+                        29.5.1826, in list of JPs 1836. (I previously identified him wrongly as the
+                        William Fletcher who married as a widower 17.1.1795 at St Marylebone Sarah
+                        Burgess and died 1801, his widow married James Agar in 1805 and died 1811.
+                        That was a much older William Fletcher, marble merchant of Millbank who
+                        voted Fox 1784 and 1790 and lived at 43 Welbeck St from 1795 when he married
+                        Sarah Burgess. There were two attorneys named William Fletcher in London,
+                        one of 8 Hyde St Bloomsbury from 1791 to 1800, and the other - if all one
+                        person - of Crescent Pl, New Bridge St, Blackfriars in 1795 and of Bedford
+                        Row in 1796, bankrupt as scrivener of Bedford Row 1797, of Dyers Bldgs,
+                        Holborn and Barnet Herts in 1800. There was also the Irish barrister mentioned
+                        in Godwin Diary see below). <p>BONNEY DIARY: Fletcher 18.5.1794 soon after
+                        Bonney's arrest but his only visit. Probably the William Fletcher above whom
+                        Bonney had proposed as SCI member less than 2 months before.</p> 
+                        <p>GODWIN DIARY:
+                        Fletcher 9.3.1794 at Wimbledon (Tooke's) / 16.2.1798 Chandler's / 8.6.1800
+                        King's / 10.7.1800 Macnally's (in Ireland). In Godwin's 1796 list for 1800 /
+                        7.8.1801 Fletchers call / 14.7.1806 Westminster Hall / 31.7.1813 write to
+                        mrs Fletcher / 15.4.1816 call on Fletchers (in Edinburgh) / 20.4.1816 dine
+                        at Fletcher's (in Edinburgh) / 22.4.1816 meet mrs Fletcher (in Edinburgh) /
+                        2.8.1819 mrs Fletcher of Edinburgh calls (na) / 3.8.1819 call on mrs
+                        Fletcher. Give copy / 5.8.1819 3 Fletchers call The SCI member (see above)
+                        was probably the 1794 entry at Tooke's, possibly the 1800 entry at King's,
+                        the 1798 entry at Chandler's and the 1801 call. Archibald Fletcher
+                        (1746-1828) counsel for Charles Sinclair Edinburgh 1792 (&amp; for Joseph
+                        Gerrald? check Samuel Parr's will). </p> <p>1796 Romilly's assistants Fletcher &amp;
+                        Reader William Fletcher Hist Irish Parl 1750-1823, Judges In Ireland vol 2
+                        p338, barrister was probably the 1800 entry in Ireland whom Godwin included
+                        on his '1796 list'. He married Sarah Whitley in 1780. His son married
+                        Franciska daughter of Archibald Hamilton Rowan DNB 1751-1834. Other
+                        Fletchers in Ireland 1800 / Eliza Fletcher friend of Matilda Tone Dict Irish
+                        Biog / Dublin Trades 1797 Elias Fletcher ship broker &amp; spirit merchant,
+                        Robert Fletcher mercer, Robert Fletcher tailor</p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

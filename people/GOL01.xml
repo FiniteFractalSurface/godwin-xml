@@ -1,18 +1,56 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="GOL01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Lewis</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Goldsmith</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" notBefore="1763" notAfter="1764"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1846-01-06"/><occupation xmlns="http://www.tei-c.org/ns/1.0">journalist</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">political writer</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">All 'L Goldsmith's' have been coded. These all coincide with periods during which
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="GOL01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Lewis</forename>
+                        <surname>Goldsmith</surname>
+                        <addName/>
+                    </persName>
+                    <birth notBefore="1763" notAfter="1764">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1846-01-06"/>
+                    <occupation>journalist</occupation>
+                    <occupation>political writer</occupation>
+                    <note type="editorial">
+                        <p>All 'L Goldsmith's' have been coded. These all coincide with periods during which
     Lewis Goldsmith was in England.   Other plain 'Goldsmith' entries have been checked to ascertain circles 
     and dates.The DNB gives an excellent account of the comings and goings of Goldsmith, and his fluctuating allegiances, 
     as an advocate for the French Republic, accusing the allies of atrocities against the French, spying for France, then Britain, then France, fleeing France to be 
-    arrested in England, and so on.  He is one of the most colourful characters in Godwin's diary.</p><p xmlns="http://www.tei-c.org/ns/1.0"> It is
+    arrested in England, and so on.  He is one of the most colourful characters in Godwin's diary.</p>
+                        <p> It is
     possible that the Mrs Goldsmith is Lewis's wife, but almost nothing is known of his marriage. He
     certainly has one daughter, Georgiana, who married Lord Lyndhurst in 1837. Goldsmith was, among
     his many activities, a theatre critic and Godwin sees him on several occasions at the theatre.
-    Godwin first notes meeting L Goldsmith at <persName xmlns="http://www.tei-c.org/ns/1.0" key="ELW01">S Elwes</persName> in April 1801 - a venue at which he mets Mrs
+    Godwin first notes meeting L Goldsmith at <persName key="ELW01">S Elwes</persName> in April 1801 - a venue at which he mets Mrs
     Goldsmith and S Goldsmith in the preceding months of 1801. It is possible that S Goldsmith is in
     fact Mrs Goldsmith. Each appears only once in the diary. There is also one appearance of Miss
     Goldsmith in 1821, which does seem to be L Goldsmith's daughter, being connected to J Taylor,
-    as are many of the contacts with L Goldsmith. </p><p xmlns="http://www.tei-c.org/ns/1.0">The two entries in 1799 could be to L Goldsmith, but there is
+    as are many of the contacts with L Goldsmith. </p>
+                        <p>The two entries in 1799 could be to L Goldsmith, but there is
     nothing to indicate this and they are left uncoded. The Goldsmith in 1801 does seem plausibly
-    linked to L Goldsmith (note the presence of <persName xmlns="http://www.tei-c.org/ns/1.0" key="EGE02">Egerton </persName> and S Elwes). There are two Goldsmith's
+    linked to L Goldsmith (note the presence of <persName key="EGE02">Egerton </persName> and S Elwes). There are two Goldsmith's
     entered in 1802, both with Mcadam, which seems to revolve around a deal that Godwin has made -
     the second entry is a 'sign with' G and M. It seems unlikely to be a publishing deal since
     Goldsmith is not registered with the book trade until 1817, and there is no registration for
@@ -24,4 +62,14 @@
     as L Goldsmith. In 1816, there are two entries where Godwin writes to Goldsmith. These are
     uncoded.In 1822 there is  ''Goldsmiths' at the theatre with J Taylor, and this has been coded as L. Goldsmith.
   The two 1827 entries are a coach trip with Goldsmith, which seems unlikely to be L. And a play entry:
-  'Theatre, Goldsmith, adv. Skeffington.'  This likely refers to the play or its author but will need double checking.</p><p xmlns="http://www.tei-c.org/ns/1.0">The theatre reference is to <title xmlns="http://www.tei-c.org/ns/1.0">The Goldsmith</title> a play by Louisa Holcroft.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-04-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-04-21" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-04-23" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-09-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-10-14" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-09-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-09-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-10-04" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-10-24" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"><date xmlns="http://www.tei-c.org/ns/1.0" when="1820-03-15" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-06-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-11-13" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"><date xmlns="http://www.tei-c.org/ns/1.0" when="1822-08-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1822-10-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1822-12-19" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"><date xmlns="http://www.tei-c.org/ns/1.0" when="1823-10-03" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+  'Theatre, Goldsmith, adv. Skeffington.'  This likely refers to the play or its author but will need double checking.</p>
+                        <p>The theatre reference is to <title>The Goldsmith</title> a play by Louisa Holcroft.</p>
+                    </note>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

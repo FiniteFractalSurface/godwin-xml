@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="FAR03" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Francis Peter</forename>
+                        <surname>Fargues</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1756">
+                        <placeName/>
+                    </birth>
+                    <death when="1853"/>
+                    <occupation>Printer and engraver</occupation>
+                    <note type="editorial">
+                        <p> Francis Peter Fargues copperplate printer and engraver 48 Berwick-st (St
+                            James Westmr P O directory 1810). Age 26 of St Botolph Aldgate he took a
+                            license to marry Sarah Downing 5.6.1782. Bankrupt 1824. A Francis Peter
+                            Fargues was still on electoral register at Berwick-st in 1842, he was
+                            dead by 1853 (Standard 14.1.1853) </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

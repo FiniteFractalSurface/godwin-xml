@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP </resp>
+                    <name/>
+                </respStmt>
+
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="VAU07" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Priscilla</forename>
+                        <surname>Vaughan</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p> The wife of John Vaughan of Ashperton, Herefordshire, who ran off with
+                            Phillip Addington in 1797.</p><p>This is complicated story as the
+                            following sections from Ed Pope's site shows. </p>
+                        <p>Philip Addington was born 1771 the youngest child of Stephen Addington,
+                            Independent minister (DNB 1729 -1796) and Agnes (nee Reymes) whom he had
+                            married in 1752. Philip Addington was apprenticed in the Stationers
+                            Company in 1785. His eldest brother Samuel Reymes Addington was born at
+                            Market Harborough, Leicestershire in 1754, married Sarah dau of Rev
+                            Richard Winter at Holborn in 1776, married 2ndly Hannah Watson at
+                            Kidderminster in 1783, his will PCC 1785 haberdasher of Milk Street,
+                            London. Another brother Stephen born 1757 was a silkweaver of Queen St,
+                            Cheapside who went bankrupt in 1783. Another brother John born 1762 was
+                            apprenticed 1774 to John Symonds apothecary of Kidderminster and became
+                            a surgeon in Spital Square London his will PCC 1839. Philip Addington
+                            was next heard of on 10.1.1797 as a bankrupt haberdasher of Hereford,
+                            then in the Times of 11.9.1797 John Vaughan of Ashperton Herefordshire
+                            placed an ad that his wife Priscilla had eloped from him without just
+                            cause and that no-one should credit her on his account. From Godwin's
+                            letter of 23.9.1797 it is clear that it was Addington who had eloped
+                            with Priscilla Vaughan (Abinger c55 f44-5 and c22 f53-4) and from
+                            Godwin's correspondence of 4.7.1797 and 7.7.1797 with his wife Mary
+                            Wollstonecraft (Godwin's Letters, ed Clemit 229-30, Letters of MW ed
+                            Todd 427-8) it appears that the Godwins spent some time reading Mrs
+                            Vaughan's letters, presumably written to Addington as they were to
+                            return them to him. (The GD website has coded these letters to a
+                            pamphlet by Benjamin Vaughan titled Letters etc. te 0764). Priscilla
+                            Pynock had married John Vaughan on 24.9.1791 at Ledbury, Herefordshire,
+                            and the will of Richard Pynock PCC 1803 left provision for Philip
+                            Addington Vaughan, his grandson in Jamaica, and made his son-in-law John
+                            Vaughan executor. His will did not mention his daughter Priscilla, or
+                            Philip Addington. Philip son of Philip Addington and Priscilla was
+                            baptised 3.11.1798 at Kingston, Jamaica. More on this extraordinary
+                            story under Vaughan, Priscilla. I don't have solid proof that the Philip
+                            Addington who eloped with Mrs Vaughan was the same as the son of Stephen
+                            Addington but the name is not common, the trade of haberdasher was also
+                            his older brother's and the family connections with Kidderminster and
+                            Market Harborough seem to make Ledbury less unlikely.</p>
+                        <p>The plain Vaughan entries above seem to have been her husband John from
+                            whom she had eloped at some point before 9.8.1797 (Times ad 11.9.1797).
+                            Priscilla Vaughan was the daughter of Richard Pynock (grocer and
+                            haberdasher of Ledbury, Herefordshire, 1784 Bailey's, will PCC 1803 gent
+                            of Much Dewchurch, Herefordshire). In his will he mentioned a third of
+                            an estate at Endfield, 10 miles from London, which he doubted his heirs
+                            would ever get the benefit of, as he thought some misconduct had taken
+                            place. This estate was Norris's Farm in the manor of Elsings and
+                            indentures of 2.12.1791, 30.1.1793 and 21.1.1795 at London Metropolitan
+                            Archives state that it was left to John Fenwick of East Lane, Walworth
+                            Surrey as eldest son and heir of his mother Priscilla born Mackariss
+                            only child of Robert Mackariss and his wife Priscilla who married 2ndly
+                            James Jones, and among the other parties to the indentures were Thomas
+                            James Fenwick, Richard Pynock and his wife Sarah, John Duckworth and his
+                            wife Mary, and Peter Molyneux and his wife Sarah. Peter Molyneux
+                            jeweller of Liverpool married Sarah Fenwick 25.4.1787 at Liverpool St
+                            Nicholas, and John Duckworth also sometime of Liverpool had married Mary
+                            Fenwick, this Sarah and Mary were sisters of John Fenwick, and though I
+                            haven't found the baptism of Priscilla Vaughan nee Pynock, I suspect her
+                            mother was Priscilla, John Fenwick's eldest sister, and that Sarah was
+                            Richard Pynock's second wife, which would make four generations of
+                            eldest daughters being named Priscilla. The misconduct if any may have
+                            been John Fenwick's in his attempts to raise money for his radical
+                            publishing ventures. John Fenwick's father, also John, had been an
+                            itinerant Methodist preacher until his marriage to Priscilla Mackariss
+                            and then settled in trade in Newcastle-on-Tyne and later returned to the
+                            itinerancy (Methodist Biography Index). What happened to Priscilla
+                            Vaughan and Philip Addington after 1797? Philip son of Philip Addington
+                            and Priscilla was baptised at Kingston Jamaica 3.11.1798, and William
+                            son of John Vaughan, hatter and Priscilla was baptised at St Saviour
+                            Denmark Hill, Surrey on 9.12.1798, his birth date given as 18.11.1798,.
+                            If Philip Addington Vaughan was born by the end of 1797 he could have
+                            gone to Jamaica with his father while Priscilla returned to her husband.
+                            But the letter of 28.3.1799 from Eliza Fenwick to Mary Hays (see
+                            maryhayslifewritingscorrespondence.com the excellent work of Timothy
+                            Whelan) tells of the death of Mrs Vaughan in poverty in Jamaica followed
+                            by the death of Philip Addington the day after her funeral leaving a boy
+                            aged seven months who was taken in by a stranger who then wrote to Eliza
+                            Fenwick (as John Fenwick was Priscilla Vaughan's uncle). Richard Pynock
+                            provided for his grandson Philip Addington Vaughan in Jamaica and made
+                            his son-in-law John Vaughan his executor in his will of 1803. It is just
+                            possible Priscilla Vaughan could have lost or left her child William,
+                            died soon after reaching Jamaica and the news could have reached Mrs
+                            Fenwick by the end of March, but it seems more likely there is some
+                            wrong information in the Denmark Hil baptism.</p><p>Further research is
+                            forthcoming in Lissa Pul's edition of Eliza Fenwick's Letterrs and work
+                            is also being undertaken by David Rutherford, a descendant of the
+                            Fenwicks.</p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

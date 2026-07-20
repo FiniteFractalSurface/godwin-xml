@@ -1,34 +1,79 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="SCO02" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Alexander</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Scott</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1000"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">There are a number of entries for Scott which are difficult to identify with certainty. </p><p xmlns="http://www.tei-c.org/ns/1.0">In  March 1791, Godwin notes a Scott M.D. at <persName xmlns="http://www.tei-c.org/ns/1.0" key="WIL01">Helen Maria William's</persName> and there is a reference associated with 
-    dining at <persName xmlns="http://www.tei-c.org/ns/1.0" key="HOL02">Brand Hollis's</persName> in May 1791: 'Scott, a believer in spiritual intercourses 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="SCO02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Alexander</forename>
+                        <surname>Scott</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation/>
+                    <note type="editorial"><p>There are a number of entries for Scott which are difficult to identify with certainty. </p><p>In  March 1791, Godwin notes a Scott M.D. at <persName key="WIL01">Helen Maria William's</persName> and there is a reference associated with 
+    dining at <persName key="HOL02">Brand Hollis's</persName> in May 1791: 'Scott, a believer in spiritual intercourses 
       lends Paine £40, to aid the publication of his pamphlet, suspended for want of money.'
    There are also three Scotts in 1793 whom Godwin calls on or has tea with.   It is possible all these Scotts are the same,
    but we have no basis for identifying them. 
-   They have, accordingly, been left uncoded.</p><p xmlns="http://www.tei-c.org/ns/1.0">In August 1793 Godwin notes meeting A Scott, the Scott of this entry.  This new contact is also mentioned in the 1796 diary list, 
-   suggesting significance. This seems likely to be Alexander Scott, who took over the publication of the <title xmlns="http://www.tei-c.org/ns/1.0">Gazeteer</title> 
+   They have, accordingly, been left uncoded.</p><p>In August 1793 Godwin notes meeting A Scott, the Scott of this entry.  This new contact is also mentioned in the 1796 diary list, 
+   suggesting significance. This seems likely to be Alexander Scott, who took over the publication of the <title>Gazeteer</title> 
      in Edinburgh in the spring of 1793.
     Given that there was a concerted attempt to secure the future of the paper by Scottish radicals, who were attempting to raise
     money to buy out the proprietor William 
     Johnson, it is certainly possible that Scott came to London, and he might have been involved in plans for the British Convention
-    as they developed in the late summer of 1793.</p><p xmlns="http://www.tei-c.org/ns/1.0"><persName xmlns="http://www.tei-c.org/ns/1.0" key="SCO06">Jon Scott </persName>appears in March 1794; and this is followed by A Scott,  and then a number of Scotts, 
+    as they developed in the late summer of 1793.</p><p><persName key="SCO06">Jon Scott </persName>appears in March 1794; and this is followed by A Scott,  and then a number of Scotts, 
      which we take to be Godwin continuing to refer to A Scott, most 
     likely through 1794 and 1795. At this time, Alexander Scott had fled from Scotland, following his arrest at the British Covention. He 
     had come to London where he had again been arrested, 
     but had been set free on the understanding that he would act as a government spy.  Godwin's contacts with him in 1794 are closely 
-    associated with Gerrald (in jail in Newgate).</p><p xmlns="http://www.tei-c.org/ns/1.0">We cannot be certain on the identification of these earlier plain 'Scotts' with Alexander Scott, but the attribution is certainly possible:  Those coded are:
-    11.8.1793     Meet A Scott .<lb xmlns="http://www.tei-c.org/ns/1.0"/>
-    14.8.1793     Call on A Scott, talk of Taylor and Rivers: <lb xmlns="http://www.tei-c.org/ns/1.0"/>     
-    14.3.1794     Call on Gawler, A Scott and Bell, nah Inchbald and Porson .<lb xmlns="http://www.tei-c.org/ns/1.0"/>
+    associated with Gerrald (in jail in Newgate).</p><p>We cannot be certain on the identification of these earlier plain 'Scotts' with Alexander Scott, but the attribution is certainly possible:  Those coded are:
+    11.8.1793     Meet A Scott .<lb/>
+    14.8.1793     Call on A Scott, talk of Taylor and Rivers: <lb/>     
+    14.3.1794     Call on Gawler, A Scott and Bell, nah Inchbald and Porson .<lb/>
   2.4.1794       dine in Newgate, w. Gerald, Holcroft, Dower, Macarthy, Stevenson, Paterson, Stabler, 
-  Jennings, Foulkes, Ridgway, Symonds: adv. Sharpe and Scott, E G.   <lb xmlns="http://www.tei-c.org/ns/1.0"/>
-    11.5.1794     dine at H Tooke's, w. Tooke, Sharp, Banks, Thelwal, Richters, Scott, Stock, Joice and Dyson:<lb xmlns="http://www.tei-c.org/ns/1.0"/>
-    12.11.1794   call, w. Ml, on Gerald (adv. Scott and Naylors) and Holcroft .<lb xmlns="http://www.tei-c.org/ns/1.0"/>
-    21.11.1794   Sup at Jennings's, w. G. Moore, Scott and mrs Reveley.  <lb xmlns="http://www.tei-c.org/ns/1.0"/>
-    28.11.1794   Dine at Gerald's, w. Crompton, Taylor Lanc., Sinclair, Brown and Scott:<lb xmlns="http://www.tei-c.org/ns/1.0"/>
-    29.11.1794   Newgate: Webb, Nichols and mrs Jardine call: dine at Crompton's , w. Taylor, Brown and Scott .<lb xmlns="http://www.tei-c.org/ns/1.0"/>
-  12.3.1795     Call on Gerald; adv. Macdonald, Scott,</p><persName xmlns="http://www.tei-c.org/ns/1.0" key="SCO04 SCO05">William and Thomas Hobbes Scott</persName> begin to appear in the diary from 1796, and references to Scott after
+  Jennings, Foulkes, Ridgway, Symonds: adv. Sharpe and Scott, E G.   <lb/>
+    11.5.1794     dine at H Tooke's, w. Tooke, Sharp, Banks, Thelwal, Richters, Scott, Stock, Joice and Dyson:<lb/>
+    12.11.1794   call, w. Ml, on Gerald (adv. Scott and Naylors) and Holcroft .<lb/>
+    21.11.1794   Sup at Jennings's, w. G. Moore, Scott and mrs Reveley.  <lb/>
+    28.11.1794   Dine at Gerald's, w. Crompton, Taylor Lanc., Sinclair, Brown and Scott:<lb/>
+    29.11.1794   Newgate: Webb, Nichols and mrs Jardine call: dine at Crompton's , w. Taylor, Brown and Scott .<lb/>
+  12.3.1795     Call on Gerald; adv. Macdonald, Scott,</p><persName key="SCO04 SCO05">William and Thomas Hobbes Scott</persName> begin to appear in the diary from 1796, and references to Scott after
     this time have been coded for 
-    these (especially <persName xmlns="http://www.tei-c.org/ns/1.0" key="SCO04">Thomas Hobbes Scott</persName>) where the association seems appropriate.
+    these (especially <persName key="SCO04">Thomas Hobbes Scott</persName>) where the association seems appropriate.
     
-   <p xmlns="http://www.tei-c.org/ns/1.0">References to E Scott from 1802 have not been coded.  There are also a number uncoded as we have no context to support a specific identification: Four appear 
-  within the space of a few months in 1807 and the final one (16 May 1828) is at a breakfast at Reynold's,  in the company of Wordsworth.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">Scottish Book Trade Index, National Library of Scotland</title>http://www.nls.uk/catalogues/resources/sbti/index.html</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"> Albert Goodwin, <title xmlns="http://www.tei-c.org/ns/1.0">The  Friends of Liberty: the English Democratic 
-    Movement in the age of the French Revolution</title> (London, 1979)</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook"/><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-08-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-08-14" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-03-14" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-04-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-05-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-11-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-11-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-11-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-11-29" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-03-12" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-05-06" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-07-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-09-07" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-09-11" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-05-16" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+   <p>References to E Scott from 1802 have not been coded.  There are also a number uncoded as we have no context to support a specific identification: Four appear 
+  within the space of a few months in 1807 and the final one (16 May 1828) is at a breakfast at Reynold's,  in the company of Wordsworth.</p></note>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                    <bibl type="other"><title>Scottish Book Trade Index, National Library of Scotland</title>http://www.nls.uk/catalogues/resources/sbti/index.html</bibl>
+                    <bibl type="other"> Albert Goodwin, <title>The  Friends of Liberty: the English Democratic 
+    Movement in the age of the French Revolution</title> (London, 1979)</bibl>
+                    <bibl type="printedbook"/>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

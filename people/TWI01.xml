@@ -1,16 +1,62 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="TWI01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Francis</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Twiss</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" notBefore="1759-03" notAfter="1759-04"><placeName xmlns="http://www.tei-c.org/ns/1.0">Holland</placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1821"/><occupation xmlns="http://www.tei-c.org/ns/1.0">concordance compiler</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0"> Francis Twiss (1759-1821), the younger brother of Richard Twiss, studied briefly at Cambridge in 1776 but after 1780 was based mainly in the London area. 
-     A critic of Shakespearian acting, he was close to the social circles of <persName xmlns="http://www.tei-c.org/ns/1.0" key="INC01">Elizabeth Inchabald</persName>, 
-    <persName xmlns="http://www.tei-c.org/ns/1.0" key="KEM03">John Philip Kemble</persName> and his sister <persName xmlns="http://www.tei-c.org/ns/1.0" key="SID01">Sarah Siddons</persName>. Despite
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="TWI01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Francis</forename>
+                        <surname>Twiss</surname>
+                        <addName/>
+                    </persName>
+                    <birth notBefore="1759-03" notAfter="1759-04">
+                        <placeName>Holland</placeName>
+                    </birth>
+                    <death when="1821"/>
+                    <occupation>concordance compiler</occupation>
+                    <occupation/>
+                    <note type="editorial">
+                        <p> Francis Twiss (1759-1821), the younger brother of Richard Twiss, studied briefly at Cambridge in 1776 but after 1780 was based mainly in the London area. 
+     A critic of Shakespearian acting, he was close to the social circles of <persName key="INC01">Elizabeth Inchabald</persName>, 
+    <persName key="KEM03">John Philip Kemble</persName> and his sister <persName key="SID01">Sarah Siddons</persName>. Despite
       an early and unfulfilled passion for Siddons, in 1786 Twiss married her 
-    sister Frances Kemble. By 1802 the couple and their four children were living in Bath.</p><p xmlns="http://www.tei-c.org/ns/1.0">The evidence to support the attribution of all plain 'Twiss' entries to Francis Twiss is circumstantial. His elder brother 
-    <persName xmlns="http://www.tei-c.org/ns/1.0" key="TWI02">Richard Twiss </persName>   was a travel writer and, at least in his early years, spent a great deal 
+    sister Frances Kemble. By 1802 the couple and their four children were living in Bath.</p>
+                        <p>The evidence to support the attribution of all plain 'Twiss' entries to Francis Twiss is circumstantial. His elder brother 
+    <persName key="TWI02">Richard Twiss </persName>   was a travel writer and, at least in his early years, spent a great deal 
     of time out of the country; R Twiss seems to be
     picked out consistently over the years and differentiated from Twiss; and 
     although F Twiss lives in Bath after 1803 the meetings thereafter are 
     compatible with him making occasional short trips to London.
-    In a letter to Godwin in 1796,     <persName xmlns="http://www.tei-c.org/ns/1.0" key="ALD02">Amelia Alderson</persName> refers to Mrs Twiss (Frances) as
-    her intermediary to John Kemble (whom she wants to read her play).  </p><p xmlns="http://www.tei-c.org/ns/1.0"> It is, then, possible that some Twiss entries are for R Twiss rather than F Twiss. There is one entry to W Twiss, which is uncoded.
+    In a letter to Godwin in 1796,     <persName key="ALD02">Amelia Alderson</persName> refers to Mrs Twiss (Frances) as
+    her intermediary to John Kemble (whom she wants to read her play).  </p>
+                        <p> It is, then, possible that some Twiss entries are for R Twiss rather than F Twiss. There is one entry to W Twiss, which is uncoded.
     Some of the entries for both Twiss and R Twiss include GMC (Grace 
-    Mary Cooper), which suggests family connections - Twiss's father was originally from Norfolk.</p><p xmlns="http://www.tei-c.org/ns/1.0"> Francis Twiss and his wife were close to Mary Wollstonecraft (as Mrs Imlay) prior to her relationship with Godwin when she dined 
+    Mary Cooper), which suggests family connections - Twiss's father was originally from Norfolk.</p>
+                        <p> Francis Twiss and his wife were close to Mary Wollstonecraft (as Mrs Imlay) prior to her relationship with Godwin when she dined 
     with them at least every third Sunday. Following her marriage to Godwin, the couple refused to receive her.  This also marked the end 
-    of Godwin's friendship with the Twiss family, although the contacts in 1808 suggest some thaw, or that the contact is with Richard or another family member.  </p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>.</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-12-06" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-12-27" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-02-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-02-07" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-02-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-02-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-02-26" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-03-01" n="notVenue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-03-10" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-03-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-03-17" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-03-21" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-04-01" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-04-18" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-05-02" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-05-05" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-05-16" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-05-24" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-05-27" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-05-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-06-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-06-08" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-06-17" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-06-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-06-29" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-07-24" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-08-01" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-08-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-08-17" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-08-19" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-08-23" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-08-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-09-07" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-10-26" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-10-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-11-10" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-11-11" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-11-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-12-29" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-01-15" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-01-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-01-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-02-13" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-02-15" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-02-23" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-02-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-03-14" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-08-04" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-05-28" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-04-11" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-07-05" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-10-31" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-11-07" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    of Godwin's friendship with the Twiss family, although the contacts in 1808 suggest some thaw, or that the contact is with Richard or another family member.  </p>
+                    </note>
+                    <bibl type="other"><title>DNB</title>.</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Person List</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Generated data</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="BAI10" sex="1">
+               <persName>
+                  <roleName/>
+                  <forename>Citizen</forename>
+                  <surname>Bailey</surname>
+                  <addName/>
+               </persName>
+
+               <birth when="1000-01-01">
+                  <placeName/>
+               </birth>
+               <death when="1000-01-01"/>
+               <occupation>member of the Friends of Liberty</occupation>
+               <note type="editorial">
+                  <p>Bailey was a member of the Friends of Liberty, seceders from the London
+                     Corresponding Society in 1795. Bailey was seen with members of the LCS,
+                     including Thewall and Powell. The Friends of Liberty met at Shacklewell on the
+                     20 July 1795. William Toone was the chairman, Joseph Burks the secretary, and
+                     Bailey delivered his lectured The White Devils Uncased, and Prince Brothers’
+                     Scarlet Devils Displayed (referring to nobles), at sections 2 and 7 of the
+                     Friends of Liberty. They were printed and sold at radical bookstores including
+                     T Spence, F Place, and D I Eaton. A handwritten note on top of the copy of
+                     Scarlet Devils (in the Eighteenth Century Collections Online) states that F
+                     Ward of 41 Dean Street was prosecuted for selling it, the poetry was considered
+                     the most obnoxious part. The Bailey that Godwin saw was likely to be Citizen
+                     Bailey, and other entries also could be the same person. Citizen Bailey could
+                     be J C Bailey, who signed the Declaration of Friends to Liberty of the Press
+                     1792, as did many LCS members. There was also an LCS member named Peter Bailey.
+                  </p>
+               </note>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

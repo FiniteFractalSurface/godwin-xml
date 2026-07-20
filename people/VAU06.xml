@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="VAU06" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>FIRSTNAME</forename>
+                        <surname>Vaughan</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>assistant</occupation>
+                    <note type="editorial">
+                        <p> 6.8.1807 call on Taylor (Vaughan) / 12.8.1807 Vaughan at S(kinner)
+                            S(treet) The two Vaughan entries above probably referred to the same
+                            person. The previous use of Vaughan was 1798 and the next was in 1810.
+                            Godwin seems to have been arranging for someone to sleep at his
+                            Skinner-st shop, so on 7.8.1807 Hooley sleeps 4 nights in S S, on
+                            11.8.1807 Godwin himself sleeps at S S, on 12.8.1807 Vaughan at S S, so
+                            this Vaughan was probably someone paid to sleep there, possibly an
+                            apprentice or employee of Richard Taylor's. </p> <p>23.3.1810 call on Ward,
+                            Solly and Vaughan / 23.11.1810 call on Vaughan and Ward / 17.1.1811 call on
+                            Vaughan / 28.2.1811 write to Vaughan and Solly / 10.5.1811 call on Vaughan
+                            / 3.2.1812 call on Vaughan (not seen) / 8.4.1812 W H Vaughan calls /
+                            13.5.1813 call on Vaughan and H Rogers / 2.6.1814 M(arshall) from Hill,
+                            Sturch, R Sharp and Vaughan / 12.12.1814 call on W Vaughan / 14.6.1816
+                            Vaughan calls / 30.10.1818 call on H Rogers, R Sharp and W Vaughan /
+                            13.11.1818 call on Vaughan (not seen) : seek R Sharp / 17.11.1818 call
+                            on R Sharp and W Vaughan / 5.12.1821 call on W Vaughan (not seen) </p> <p>The
+                            first six of the above entries are uncoded on the GD website, the rest
+                            are coded to a generic Vaughan person record. I agree with the editorial
+                            notes in that person record that W H Vaughan was likely the stationer
+                            William Hasleham Vaughan. All the rest of the above entries, apart from
+                            Vaughan calls in 1816, were probably William Vaughan DNB 1752-1850. This
+                            was probably someone Godwin felt might help him raise money, and
+                            appeared in the diary more than once next to Ward. Solly, H Rogers, and
+                            R Sharp, all people who knew Godwin from back when and might have helped
+                            him raise money. The 1816 caller could have been W H Vaughan - or any
+                            other Vaughan. </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

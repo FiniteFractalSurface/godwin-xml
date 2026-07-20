@@ -1,16 +1,60 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="MIL02" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Alfred</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Mills</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1776"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1833-12-07"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><occupation xmlns="http://www.tei-c.org/ns/1.0">draughtsman</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"> See <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title><p xmlns="http://www.tei-c.org/ns/1.0">Most of the 25 entries, between 1790-1817, are plain calls. Perhaps the only
-    useful one might be 'Mills applies to W Allen' (11.6.1814).<persName xmlns="http://www.tei-c.org/ns/1.0" key="ALL03"> W Allen</persName> is 'W. Allen, F.R.S. and L.S. 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="MIL02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Alfred</forename>
+                        <surname>Mills</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1776">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1833-12-07"/>
+                    <occupation/>
+                    <occupation>draughtsman</occupation>
+                    <note type="editorial"> See <title>DNB</title><p>Most of the 25 entries, between 1790-1817, are plain calls. Perhaps the only
+    useful one might be 'Mills applies to W Allen' (11.6.1814).<persName key="ALL03"> W Allen</persName> is 'W. Allen, F.R.S. and L.S. 
     William Allen (1770­1843), of Plough Court, Lombard Street, was a prominent Quaker philanthropist 
     and scientist, who at the time he subscribed to Hazlitt's book held a lectureship at Guy's Hospital. He 
     was a friend of Thomas Clarkson, who as Hazlitt's patron may have been responsible for interesting 
-    him in the <title xmlns="http://www.tei-c.org/ns/1.0">History</title>, though it is worth adding that when subscribing to Coleridge's <title xmlns="http://www.tei-c.org/ns/1.0">The Friend</title> in 1809, 
+    him in the <title>History</title>, though it is worth adding that when subscribing to Coleridge's <title>The Friend</title> in 1809, 
     he dealt not with Clarkson but with Montagu. Allen was elected FRS in 1807.'
-    Duncan Wu, <title xmlns="http://www.tei-c.org/ns/1.0">'Hazlitt's Unpublished History of English Philosophy'</title>.
-     Allen was involved, with Robert Owen, in financing the New Lanark experiment.</p><p xmlns="http://www.tei-c.org/ns/1.0">It is possible that Mills refers to Alfred Mills (1776–1833), draughtsman, who was a designer of illustrations for books for educating the young: these include
-    <title xmlns="http://www.tei-c.org/ns/1.0">Pictures of Roman History in Miniature</title> (1809), <title xmlns="http://www.tei-c.org/ns/1.0">Pictures of Grecian History</title> (1810), <title xmlns="http://www.tei-c.org/ns/1.0">Pictures of English 
-    History in Miniature</title> (1811), and <title xmlns="http://www.tei-c.org/ns/1.0">A Short History of the Bible and New Testament</title> (1810). 
+    Duncan Wu, <title>'Hazlitt's Unpublished History of English Philosophy'</title>.
+     Allen was involved, with Robert Owen, in financing the New Lanark experiment.</p><p>It is possible that Mills refers to Alfred Mills (1776–1833), draughtsman, who was a designer of illustrations for books for educating the young: these include
+    <title>Pictures of Roman History in Miniature</title> (1809), <title>Pictures of Grecian History</title> (1810), <title>Pictures of English 
+    History in Miniature</title> (1811), and <title>A Short History of the Bible and New Testament</title> (1810). 
     He worked or publishers such as Darton and Harvey of Gracechurch Street, and J. Harris of St Paul's Churchyard. 
-    The coincidence of interests in juvenile literature, and in the subject matter of their works is striking, as is the intensity of their contact in 1809-10, when the Juvenile Library is most active.</p><p xmlns="http://www.tei-c.org/ns/1.0">The attributions in the 1790s are very tentative, although they are in publishing circles. But in 1802 he identifies A Mills. 
+    The coincidence of interests in juvenile literature, and in the subject matter of their works is striking, as is the intensity of their contact in 1809-10, when the Juvenile Library is most active.</p><p>The attributions in the 1790s are very tentative, although they are in publishing circles. But in 1802 he identifies A Mills. 
     A Mills and Alfred Mills are also noted in 1814.  This might suggest that the interim Mills entries are to another Mills. But given 
     Godwin's rather haphazard use of initials, it is difficult to say for sure. 
-    The entry for Capt Mills in 1806 has not been coded, not a Mills entry shortly after in the same circle around Curran.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other">Duncan Wu, ‘Hazlitt’s Unpublished History of English Philosophy: The Wider Context’, <title xmlns="http://www.tei-c.org/ns/1.0">The Library</title> 7.1 (2006) 25-64.</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"><date xmlns="http://www.tei-c.org/ns/1.0" when="1790-06-15" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-03-18" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-02-04" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-08-05" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-04-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-05-14" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-05-24" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-06-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-06-15" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-12-09" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-11-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-11-20" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-11-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-11-29" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-01-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-01-17" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-01-31" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-02-05" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-02-07" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-02-13" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-03-25" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"><date xmlns="http://www.tei-c.org/ns/1.0" when="1814-01-05" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1814-06-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1814-06-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1814-06-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1814-06-13" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-06-16" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    The entry for Capt Mills in 1806 has not been coded, not a Mills entry shortly after in the same circle around Curran.</p></note>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                    <bibl type="other">Duncan Wu, ‘Hazlitt’s Unpublished History of English Philosophy: The Wider Context’, <title>The Library</title> 7.1 (2006) 25-64.</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

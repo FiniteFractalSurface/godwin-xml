@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="GOU02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Thomas</forename>
+                        <surname>Gould</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1766">
+                        <placeName/>
+                    </birth>
+                    <death when="11846"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Ed Pope Notes:  Gould 26.8.1797 calls / 27.8.1797 again / 7.7.1800 at Gould's (in
+                            Ireland). In Godwin's 1796 list for 1800 / 13.7.1800 at Grattan's /
+                            14.7.1800 again (?) / 15.7.1800 dines at Curran's and sleeps / 16.7.1800
+                            at Reeves's / 20.7.1800 at Webb's / 26.7.1800 at Curran's / 8.10.1800
+                            (in London) meet Goold, Dogherty, Burne / 11.10 meet Goold and Dogherty /
+                            18.10.1800 meet Goold / 13.1.1803 Goold adv at Perry's / 2.11.1833 Gould
+                            adv at theatre </p><p>Thomas Goold DNB 1766-1846 may have been all the above
+                            entries except the first two (before the 1796 list entry) and the last.
+                            For other possibilities see work notes below </p><p>Work notes Edward Thoroton
+                            Gould colonel of Notts militia of Paris France will PCC 1831 married
+                            12.12.1791 Ann Dormer, sister of Robert Knight's wife, was witness in
+                            Knight's crim con trial vs Col Fuller 1805 / William Gould printer Cope
+                            St Dublin / 1798 subscr to D R O'Conor James Goold Cloghakilty, Cork, and
+                            Francis, George, Edmond and Henry Goold, Cork / Geo Goold, Old Court, co.
+                            Cork = May 1802 Lady Charlotte Brown bau of Earl of Kenmare / Dublin
+                            Trades 1797 Eleanor Goold china and delph seller / Holdens 1805 London
+                            Francis Goold Esq, Dover St </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

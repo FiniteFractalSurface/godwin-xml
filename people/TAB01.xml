@@ -1,8 +1,43 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="TAB01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Benjamin</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Tabart</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1000"/><occupation xmlns="http://www.tei-c.org/ns/1.0">editor</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">St Clair suggests that Tabert employed Mary Jane to help him prepare  his children's books. 
-Mary Jane did so to make ends meet. Tabert is also mentioned in Locke and Marshall.</p><p xmlns="http://www.tei-c.org/ns/1.0">The most authoritive source on Tabart is from an introduction to the 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="TAB01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Benjamin</forename>
+                        <surname>Tabart</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation>editor</occupation>
+                    <occupation/>
+                    <note type="editorial"><p>St Clair suggests that Tabert employed Mary Jane to help him prepare  his children's books. 
+Mary Jane did so to make ends meet. Tabert is also mentioned in Locke and Marshall.</p><p>The most authoritive source on Tabart is from an introduction to the 
 'Hockiffe' digital media project that notes the Godwins 
 connection with Tabart and suggests Godwin's 
-possible involvement as an editor of Tabart's <title xmlns="http://www.tei-c.org/ns/1.0">Popular Stories</title>.  There is also a suggestion that 
+possible involvement as an editor of Tabart's <title>Popular Stories</title>.  There is also a suggestion that 
 Tabart may be a pseudonym for Sir Richard Philips, 
 but the character of Godwin's diary entries suggest otherwise.  The above site also shows the links between 
 Godwin and Lucy Aiken and Eliza Fenwick, both of whom worked for Tabart. </p>
@@ -18,7 +53,7 @@ the editor of the series was in fact
 William Godwin, novelist, radical political 
 philosopher and later publisher and 
 author of children's books. 
-A French edition of his <title xmlns="http://www.tei-c.org/ns/1.0">Fables 
+A French edition of his <title>Fables 
 Ancient and Modern</title> was advertised 
 as being by the 'Editor of Tabart's 
 Popular Stories'. If Godwin translated 
@@ -40,10 +75,10 @@ involved in some part of the
 editorial process.  However, 
 it is also possible that Mary 
 Jane Godwin, William's second wife,
- was the translator of his <title xmlns="http://www.tei-c.org/ns/1.0">Fables</title>, 
+ was the translator of his <title>Fables</title>, 
 a suggestion supported by a book 
 they published jointly in 1809,
- <title xmlns="http://www.tei-c.org/ns/1.0">Dramas for Children ... 
+ <title>Dramas for Children ... 
 by the Editor of Tabart's Popular Stories</title>. 
 
 AND ON TABART (also directly quoted from 
@@ -60,14 +95,14 @@ in a preface to one of Tabart's publications,
 complained that 'dragons and fairies, 
 giants and witches, have vanished from our 
 nurseries before the wand of reason' 
-(<title xmlns="http://www.tei-c.org/ns/1.0">Poetry for Children</title>, 1801, p.iii), 
+(<title>Poetry for Children</title>, 1801, p.iii), 
 and William Godwin was saying much 
 the same thing in the preface to his 
-<title xmlns="http://www.tei-c.org/ns/1.0">Bible Stories</title>, another Tabart production.
+<title>Bible Stories</title>, another Tabart production.
 Several of his own publications depict
  his business as a thoroughly successful 
 concern; the best of these is Eliza Fenwick's
-<title xmlns="http://www.tei-c.org/ns/1.0">Visits to the Juvenile Library; or, 
+<title>Visits to the Juvenile Library; or, 
 Knowledge Proved to be the Source of 
 Happiness</title> (1805) which includes 
 illustrations depicting Tabart's 
@@ -83,4 +118,14 @@ and
 adv. Miles, Letterman, Lackington, Harris, andc)
 
 
-  </note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">St Clair, p. 259.</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Locke, p. 212.</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Marshall, pp. 265 and 275.</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="journalism"><title xmlns="http://www.tei-c.org/ns/1.0">Quarterly Review</title> (1819).</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other">Hockliffe Project, http://www.cts.dmu.ac.uk/hockliffe/.</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-01-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-02-09" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-02-10" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-06-23" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-06-29" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-07-31" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-08-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-08-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-09-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-10-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-10-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-12-18" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"><date xmlns="http://www.tei-c.org/ns/1.0" when="1820-04-07" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+  </note>
+                    <bibl type="printedbook">St Clair, p. 259.</bibl>
+                    <bibl type="printedbook">Locke, p. 212.</bibl>
+                    <bibl type="printedbook">Marshall, pp. 265 and 275.</bibl>
+                    <bibl type="journalism"><title>Quarterly Review</title> (1819).</bibl>
+                    <bibl type="other">Hockliffe Project, http://www.cts.dmu.ac.uk/hockliffe/.</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

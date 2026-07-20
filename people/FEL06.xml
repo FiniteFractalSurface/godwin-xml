@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="FEL06" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Capt Joseph</forename>
+                        <surname>Fell</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1798"/>
+                    <occupation>OMilitary man</occupation>
+                    <note type="editorial">
+                        <p> In Army List Capt Joseph Fell was on half pay from 1795, then on
+                            1.1.1795 appointed Major 3rd Garrison battalion, vanished from Army List
+                            after 1808. Unlikely the same person as Joseph Fell (brother of Godwin's
+                            friend Fell, Ralph qv) ropemaker of Whitby bankrupt March 1804. Joseph
+                            Fell senior late Lt Col of East Essex Militia died at Somers Town
+                            15.12.1798. Fells associated with Hammersmith were / Frances Henrietta
+                            Fell widow will LCC 1792 Hammersmith, mentioned no relations but had
+                            married Thomas Fell 25.8.1750 of St Margt Lothbury Ldn at St Michael
+                            Bassishaw Ldn as F H Denning of Fulham / James Fell Land Tax Hammersmith
+                            1803-1806 </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

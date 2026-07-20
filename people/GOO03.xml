@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="GOO03" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>NAME</forename>
+                        <surname>Goodwin</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's notes: Goodwin 29.4.1800 at Foulkes's / 26.1.1812 at
+                            Collier's / 8.10.1814 J Goodwin calls Work notes Law List 1800 Harvey
+                            Goodwin attorney of King's Lynn will PCC 1819, George Goodwin of King's
+                            Lynn Poems 1798 dedicated to Richard Howard (1733 -1818 bro of Lord Bagot) of
+                            Ashtead Hall, Surrey perhaps same as Geo G adm Inner Temple 1804 father
+                            of Rev George Harvey Goodwin Alum Ox 1802-1838 / Law List 1800 John and
+                            Richard Goodwin attorneys of Ashbourne Derbys Richard's will PCC 1814 /
+                            Thomas Goodwyn lawyer of Greenwich Kent PCC 1826 not found in Inns of
+                            Court / Rev Samuel Charles Goodwin DCL Alum Ox 1762-1835 died Paris /
+                            Henry Goodwyn 1796 Brewer's assistant (tables) 15.12.1800 East
+                            Smithfield tables of Interest publ in Wm Nicholson's Journal Jan 1801
+                            vol 4 p433, will PCC 1805, 1824, Henry Goodwin 1809 Henry Goodwyn and Co
+                            brewers 21 Lower East Smithfield 1781-1791 / Thomas Goodwyn 1804
+                            Hampstead waters MRCSurgeons / Dr Edmund Goodwyn DNB 1756-1829 will PCC
+                            1829 book on respiration publ by Joseph Johnson 1788 / Dr Anthony
+                            Goodwin will PCC 1819 Derbyshire / Edward Goodwin will PCC 1816
+                            bookseller and stationer St Geo Han Sq / J Goodwin Brook St, Holborn
+                            printer imprint 1807 perhaps Jonas Goodwin appr Stationers Coy 1785 </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

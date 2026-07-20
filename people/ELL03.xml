@@ -1,4 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="ELL03" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0">Sir</roleName><forename xmlns="http://www.tei-c.org/ns/1.0">Henry</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Ellis</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1777-11-29"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1869-01-15"/><occupation xmlns="http://www.tei-c.org/ns/1.0">librarian</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Ellis began working for the British Museum in 1800 after several years at the Bodleian Library, Oxford. He was appointed keeper of printed books in 1806 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="ELL03" sex="1">
+                    <persName>
+                        <roleName>Sir</roleName>
+                        <forename>Henry</forename>
+                        <surname>Ellis</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1777-11-29">
+                        <placeName/>
+                    </birth>
+                    <death when="1869-01-15"/>
+                    <occupation>librarian</occupation>
+                    <note type="editorial">
+                        <p>Ellis began working for the British Museum in 1800 after several years at the Bodleian Library, Oxford. He was appointed keeper of printed books in 1806 
       and secretary to the trustees of the British Museum in 1814. He was later perceived to be ineffectual in his job and unsuited to transforming the British Museum from an elitist 
-      institution to one open to the general public.</p><p xmlns="http://www.tei-c.org/ns/1.0">There are over thirty entries to Ellis between 1802 and 1835, some with the initial H, some with a reference to Museum, and 
-    some with a reference to Westminister Abbey. We have assumed that all these references identify the same individual.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook"><title xmlns="http://www.tei-c.org/ns/1.0"/></bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-12-10" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-02-24" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-03-21" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-06-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-07-16" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-09-16" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-09-19" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-09-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-09-22" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-02-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-11-09" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-06-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-06-26" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-07-01" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-07-11" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-08-06" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-09-20" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-06-27" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-08-03" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-06-12" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-04-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-05-20" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"><date xmlns="http://www.tei-c.org/ns/1.0" when="1814-01-04" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"><date xmlns="http://www.tei-c.org/ns/1.0" when="1815-04-18" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1815-04-19" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-08-28" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-09-08" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-12-06" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-05-17" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-06-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-07-06" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-02-07" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-07-03" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-03-24" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+      institution to one open to the general public.</p>
+                        <p>There are over thirty entries to Ellis between 1802 and 1835, some with the initial H, some with a reference to Museum, and 
+    some with a reference to Westminister Abbey. We have assumed that all these references identify the same individual.</p>
+                    </note>
+                    <bibl type="printedbook">
+                        <title/>
+                    </bibl>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Person List</title>
+            <respStmt>
+               <resp>Researched by</resp>
+               <name>EP</name>
+            </respStmt>
+            <respStmt>
+               <resp>Encoded by</resp>
+               <name>SI</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Generated Data</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+   <body>
+   <listPerson>
+      <person xml:id="LEP01" sex="1">
+         <persName>
+            <forename>Benjamin</forename>
+            <surname>Lepard</surname>
+         </persName>
+         <birth when="1000"></birth>
+         <death when="1000"></death>
+         <occupation>Bookseller</occupation>
+         <note type="editorial">
+            <p>Benjamin Lepard was insured as a bookseller and stationer in London in 1807, having come from a Baptist family with several booksellers. He appears alongside other literary figures, including <persName key="HOD02">Hodgkins</persName> and was visited by Godwin several times between 1807-08. </p>
+            <p>There was no one called Lepard active in the law in 1807 so Benjamin seems the most likely individual here.</p>
+         </note>
+         <bibl type="website">Ed Pope History (01/08/2018)</bibl>
+         <bibl type="other">Wordsworth Trust - Bewick Collection: Benjamin Lepard and Thomas Bewick letters</bibl>
+      </person>
+   </listPerson>
+   </body>
+   </text>
+</TEI>

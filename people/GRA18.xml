@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="GRA18" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>NAME</forename>
+                        <surname>SURNAME</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>James Gray (will PCC 1796) of Lancaster Court was partner of James Perry
+                            in the Morning Chronicle, also the Star and Merton Mills. Left a book
+                            each of their choice from his library to Dr Burney of Greenwich, Prof
+                            Porson, Rev M Raine and J C Banks. His will also mentioned Humphrey
+                            Donaldson of Invalid Office and John Barnes stockbroker, and Gray's
+                            brother Alexander and sister Elspet, and Dr Carmichael Smyth of
+                            Charlotte St Bloomsbury who was presumably attending him in his final
+                            illness. Unmarried and shared house with Perry. Previously master at
+                            Charterhouse school. Good account of his life in Pryse Lockhart Gordon's
+                            Personal Memoirs vol 1 p 236-50 </p>
+                        <p> Grays on 1.5.1797 at Wilton's
+                            with Barnes may have been James Gray's brother and sister Alexander and
+                            Elspet mentioned in his will. In Godwin's 1796 list for 1787 after
+                            Perry, and in 1794 version inserted above before Perry.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

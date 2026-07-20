@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="FRI03" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Charles</forename>
+                        <surname>Frizell</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Lawyer</occupation>
+                    <note type="editorial">
+                        <p> Charles Frizell sub to Reports of Cases (in Irish courts) 1798, Charles
+                            Fraser Frizell, MRIA sub to Samuel Whyte 1795. C F Frizell, Beaufort
+                            Villa. nr Rathfarnham = Nov 1803 dau of late Geo Sedwith of
+                            Sedwithstown, co. Longford. Charles Frizell, Castle Kevin co. Wicklow =
+                            Oct 1792 Mary dau of Benjamin Ball at Season Park, co. Wicklow / Loftus
+                            Frizell sub to Bolingbroke 1793,. Henry Loftus Friizell = dau of
+                            Counsellor Lennon in Harcourt St, Dublin / Richard Frizell 60th foot =
+                            May 1791 Elinor dau of Dr Biston RN (Irish marriages)  </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

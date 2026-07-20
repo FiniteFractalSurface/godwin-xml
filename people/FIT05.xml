@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="FIT05" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Warren</forename>
+                        <surname>Fitzroy</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1768">
+                        <placeName/>
+                    </birth>
+                    <death when="1806"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Hon Warren Fitzroy 1768-1806 son of Charles Fitzroy, 1st Baron
+                            Southampton (PCC 1797) and his wife Anne (PCC 1807). 1783 at Glasgow
+                            pupil of Hugh Macleod who accused John Anderson of persecuting him.
+                            Imprisoned for debt 6.2.1794. Married 11.2.1794 Maria Theresa Josepha
+                            D'Isaac daughter of Andrew D'Isaac of Bonn. Charged 31.3.1794 with
+                            conspiracy to escape Kings Bench prison with Comte de Gelin and Louis de
+                            Roscaut. Prisoner description: 5ft 11ins, dark eyes, black hair, black
+                            complexion, age 28, born West Horsley nr Guildford. Died at Vienna May
+                            1806 (Bury and Norwich Post 4.6.1806) </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

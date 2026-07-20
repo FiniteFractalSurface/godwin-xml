@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WEL05" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Richard</forename>
+                        <surname>Wells</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName/>
+                    </birth>
+                    <death when="1803"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Richard Welles stationer of Cornhill from 1761, will PCC 1803. According
+                            to 'A Liberal Publisher' by Gerald P Tyson, Robert Welles was a
+                            character witness for Joseph Johnson at his trial and said he had known
+                            him 30 years. This was probably a mistake for Richard. In his will dated
+                            12.3.1803 and proved 13.6.1803 he made Joseph Johnson executor, to look
+                            after the interests of his natural daughter Mary Tomlinson by his
+                            housekeeper Mary Tomlinson at Union Row, Lion Square, Whitechapel. He
+                            was very likely all the entries at Johnson's. Henry Newnum and Welles were often at Johnson's
+                            together, but Ithe link is unclear. The Wells at
+                            Dealtry could have been Richard Welles but it seems less likely, and the
+                            Wells entries after his death were presumably not his family, unless his
+                            natural daughter assumed his surname. The Wells entries of 1804 could
+                            have referred to William Frederick Wells DNB 1764-1836 watercolour
+                            painter (and his daughter Clara?), William Charles Wells DNB 1767-1815
+                            physician and brother of Helena Wells DNB 1761-1824 author who became
+                            Mrs Whitford in 1801, or William Wells DNB 1768-1847 art collector, or
+                            even Nathaniel Wells DNB 1779-1852</p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

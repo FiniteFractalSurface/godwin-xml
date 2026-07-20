@@ -1,4 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="MUN01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Leonard</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Munnings</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1793-05-11"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Godwin visits Munnings in the New Jail on 5 April 1793 and sees 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="MUN01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Leonard</forename>
+                        <surname>Munnings</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName/>
+                    </birth>
+                    <death when="1793-05-11"/>
+                    <occupation/>
+                    <note type="editorial">
+                        <p>Godwin visits Munnings in the New Jail on 5 April 1793 and sees 
      ‘Munnings’s creditor’ the following day (which suggests that Munnings is in jail for debt). He visits him on 18 April and writes to S Munnings 
      on 23 April (whom we assume not to be identical to Munnings but a relative, and as such not coded, to whom Godwin is writing to seek help).  He calls again on Munnings on 26 April and on 1 and 9 May (the first being 
      identified as Adams Court, suggesting that he had been able to secure his release from 
@@ -6,5 +41,15 @@
      There is a letter from Godwin to Joseph Fawcett (c.1782-5) that refers to a meeting he is due to have with Leon Munnings Esq., who has also expressed a wish to see Fawcett.
      In her edition of the letters, Pamela Clemit notes that Godwin mentions meeting Mrs Alice Munnings 'and her unfortunate son, Leonard, an agreeable, lively, 
      well-bred and intelligent man', whom she takes to be the person imprisoned for debt in 1793.     
-     </p><p xmlns="http://www.tei-c.org/ns/1.0">Godwin notes his death on 11 May and this is the only occasion when he spells the name
-     without an 's' at the end, but it is followed by 'Munnings's funeral!' to underline Godwin's inconsistency! </p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">MS Abinger c.14, fol.56: May 1782-5</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Pamela Clemit ed.,<title xmlns="http://www.tei-c.org/ns/1.0">The Letters of William Godwin Vol 1: 1778-1797 </title>(Oxford, Oxford University Press, 2011) p. 17-8.</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook"><title xmlns="http://www.tei-c.org/ns/1.0">Collected Memirs and Novels of William Godwin</title> Vol 1, p. 43.</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-04-05" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-04-06" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-04-18" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-04-26" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-05-01" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-05-09" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-05-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-05-14" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+     </p>
+                        <p>Godwin notes his death on 11 May and this is the only occasion when he spells the name
+     without an 's' at the end, but it is followed by 'Munnings's funeral!' to underline Godwin's inconsistency! </p>
+                    </note>
+                    <bibl type="MS">MS Abinger c.14, fol.56: May 1782-5</bibl>
+                    <bibl type="printedbook">Pamela Clemit ed.,<title>The Letters of William Godwin Vol 1: 1778-1797 </title>(Oxford, Oxford University Press, 2011) p. 17-8.</bibl>
+                    <bibl type="printedbook"><title>Collected Memirs and Novels of William Godwin</title> Vol 1, p. 43.</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,7 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="SMI05" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">William</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Smith</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1756-09-22"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1835-05-31"/><occupation xmlns="http://www.tei-c.org/ns/1.0">politician</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Smith was a Dissenting politician who mixed in Godwin's circles. They did not appear to know each other intimately but there is a 
-  flurry of correspondence in 1808-1809, as well as some involvement with <persName xmlns="http://www.tei-c.org/ns/1.0" key="TAY06">Richard Taylor</persName>, the publisher, which suggests 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="SMI05" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>William</forename>
+                        <surname>Smith</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1756-09-22">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1835-05-31"/>
+                    <occupation>politician</occupation>
+                    <occupation/>
+                    <note type="editorial">
+                        <p>Smith was a Dissenting politician who mixed in Godwin's circles. They did not appear to know each other intimately but there is a 
+  flurry of correspondence in 1808-1809, as well as some involvement with <persName key="TAY06">Richard Taylor</persName>, the publisher, which suggests 
     that Godwin may have been planning to write a biography of him. This is supported, but not confirmed, by an entry 'Notes on W Smith' in the same period.  
-    Godwin notes his death in the diary in 1835 which corresponds with the date in the <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>.</p><p xmlns="http://www.tei-c.org/ns/1.0"> All 'W Smith's in the diary are taken to be this Smith with the exception of one in 1794 as Godwin does not meet William Smith until 1796, according to his
-  own records. The 1794 entry is an adv in conjunction with <persName xmlns="http://www.tei-c.org/ns/1.0" key="HOL01">Holcroft</persName> and could be the actor William Smith (1730-1819), though this remains conjecture.
- </p><p xmlns="http://www.tei-c.org/ns/1.0"> William Smith was involved in the subscription for Godwin with <persName xmlns="http://www.tei-c.org/ns/1.0" key="GRA01">Henry Grattan</persName> and 
-   <persName xmlns="http://www.tei-c.org/ns/1.0" key="SHA02">Richard Sharp</persName> according to Godwin's letter of 27 June 1808.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">MS. Abinger c. 10, fols. 69-72: 27 June 1808.</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-06-02" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-02-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-04-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-05-05" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-09-19" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-02-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-02-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-02-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-02-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-03-05" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-03-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-03-31" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-04-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-04-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-04-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-04-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-06-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-06-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-07-06" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-11-23" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-01-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-04-29" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"><date xmlns="http://www.tei-c.org/ns/1.0" when="1820-05-06" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-04-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-06-07" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-05-31" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    Godwin notes his death in the diary in 1835 which corresponds with the date in the <title>DNB</title>.</p>
+                        <p> All 'W Smith's in the diary are taken to be this Smith with the exception of one in 1794 as Godwin does not meet William Smith until 1796, according to his
+  own records. The 1794 entry is an adv in conjunction with <persName key="HOL01">Holcroft</persName> and could be the actor William Smith (1730-1819), though this remains conjecture.
+ </p>
+                        <p> William Smith was involved in the subscription for Godwin with <persName key="GRA01">Henry Grattan</persName> and 
+   <persName key="SHA02">Richard Sharp</persName> according to Godwin's letter of 27 June 1808.</p>
+                    </note>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                    <bibl type="MS">MS. Abinger c. 10, fols. 69-72: 27 June 1808.</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

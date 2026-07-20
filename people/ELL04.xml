@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="ELL04" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Henry</forename>
+                        <surname>Ellis</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1721">
+                        <placeName/>
+                    </birth>
+                    <death when="11806"/>
+                    <occupation>Colonial Administrator</occupation>
+                    <note type="editorial">
+                        <p> Henry Ellis (DNB 1721-1806). He was generally referred to in the
+                            newspapers as Governor Ellis although he had not been a colonial
+                            governor since 1763, and he was popular and a generous host (DNB).
+                            William Nicholson junior's memoir of his father (Bodleian MSS Don d175
+                            typescript e125 original) mentioned that one of his father's pupils was
+                            Henry Ellis DNB 1788-1855 diplomatist. If they were all pupils that
+                            might explain why Godwin put five names in brackets. We have
+                            coded all Ellises after these two as Henry Ellis DNB 1777-1869, which
+                            seems correct. (There was also George Ellis DNB 1753-1815 whose
+                            Specimens of English Poetry Godwin was reading in September 1801, and
+                            George Ellis bookbinder will PCC 1836 3 Chapter House Court, London)
+                        </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">DNB
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

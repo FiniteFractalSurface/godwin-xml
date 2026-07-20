@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Person List</title>
+            <respStmt>
+               <resp>Researched by</resp>
+               <name>EP</name>
+            </respStmt>
+            <respStmt>
+               <resp>Encoded by</resp>
+               <name>SI</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Generated data</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="HEA04" sex="1">
+               <persName>
+                  <roleName/>
+                  <forename>George</forename>
+                  <surname>Heath</surname>
+                  <addName/>
+               </persName>
+               <birth when="1779-06-27">
+                  <placeName/>
+               </birth>
+               <death when="1852-01-22"/>
+               <occupation>Lawyer</occupation>
+               <note type="editorial">
+                  <p>George Heath was the eldest son of <persName key="HEA02">James Heath</persName> and his first wife, Elizabeth Thomas. He was called to the bar in 1807 and later became a Serjeant at Law.</p>
+                  <p>He may not have been the Heath barrister of 1821 and 1824 as Godwin had probably known him from childhood and, you might think, would have used the initial G. However, in the absense of an alternative these entries have been coded as such.</p>
+               </note>
+               <bibl type="website">
+                  <title>Ed Pope History Entry 12/10/2017</title>
+               </bibl>
+               <bibl type="other"> 
+                  <title>DNB</title>
+               </bibl>
+               <bibl type="website">
+                  <title>https://jjhc.info/heathgeorge1852</title>
+               </bibl>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>
+
+

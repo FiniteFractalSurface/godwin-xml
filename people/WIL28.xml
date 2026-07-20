@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+                
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WIL28" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>George</forename>
+                        <surname>Wilkie</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="2000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="2020-12-31"/>
+                    <occupation>Bookseller</occupation>
+                    <note type="editorial">
+                        <p>George Wilkie bookseller of 57 Paternoster Row, with his brother Thomas Wilkie to 1797 and with John Robinson from 1806. Thomas Wilkie published the London Chronicle 1790-1807</p>
+                    </note>
+                </person>
+                </listPerson>
+        </body>
+    </text>
+</TEI>
+
+
+                

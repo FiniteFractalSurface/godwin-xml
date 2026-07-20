@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="GRE10" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>NAME</forename>
+                        <surname>Gregory</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Probably one of the four sons of Arthur Gregory of Stivichall (matric
+                            Univ Coll Oxford 1733 age 17, will PCC 1792) Gentleman Usher to King, Lt
+                            Col of Warwickshire Militia (London Chronicle 25.10.1791) who took part
+                            in the Warwick meeting against dissenters January 1790. His eldest son
+                            by his first wife Mary (nee Bowater, married 1739) was Arthur William;
+                            by his 2nd wife Ann (will PCC 1806) he had three more sons, Francis (of
+                            Baker Street 1796, will PCC 1833), Arthur Thomas and Robert, and four
+                            daughters Ann, Mary, Frances and Lucy. Robert was the only son who went
+                            to university (Oriel, Oxford 1790 age 18) his will PCC 1798 mentions his
+                            wife Hannah 20.8.1796 Robert Gregory captain East Indies army. Arthur
+                            senior is mentioned as Col Gregory in R A Johnson's letters to his
+                            sister Barbara (Bodl Ms Don - see Johnson, Robert Augustus). </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

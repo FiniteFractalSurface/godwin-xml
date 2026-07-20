@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WES09" sex="2">
+                    <persName>
+                        <roleName/>
+                        <forename>Penelope Sophia</forename>
+                        <surname>Weston</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1752">
+                        <placeName/>
+                    </birth>
+                    <death when="1827"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>enelope Sophia Weston 1752-1827 daughter of Edward Weston a merchant of
+                            Worcester who married Mary Jordan of Ludlow, he died in 1765, his will
+                            (PCC) mentioned wife Mary, son Joseph and daughter Penelope, and
+                            property in Richards Castle, Ludlow. Anna Seward (DNB 1742-1809) knew
+                            her by 1783 and in Oct 1785 Miss Weston was her guest (Seward letters i
+                            82; letters i 256 Seward described Ludlow circle to Dr Warner; letters i
+                            300 Seward visited Ludlow June 1787). In May 1786 Anna Seward
+                            breakfasted in London with Helen Maria Williams and with the Mathias
+                            family (Seward letters i 152) and that year Miss Weston of Ludlow
+                            subscribed to Miss Williams' poems. In Dec 1787 Seward wrote to Miss
+                            Wiliams "glad you like my friend Col Barry" (letters i 390) and Miss
+                            Weston's cousin Rev Dr Whalley visited Miss Williams when she was in
+                            Southampton. In Apr 1788 Seward introduced a Miss --- friend of Piozzi
+                            Siddons and Greatheeds to Miss Williams, so their friends were very much
+                            the same set, and Godwin met Barry and Piozzi at Miss Williams'. Miss
+                            Weston under her later married name Sophia Pennington can also be traced
+                            in letters of Hester Piozzi (online). By 1788 Miss Weston and her mother
+                            had moved to London. On 23.7.1789 Seward wrote to Miss Williams "you and
+                            Sophia expressed.." and there was an abortive plan for Miss Williams to
+                            visit Seward in Lichfield with Miss Weston and Albinia Mathias. In Aug
+                            1792 Seward and Miss Weston planned to visit the Whalleys at Langport,
+                            but on 27.12.1792 at Bath Penelope Sophia Weston married William
+                            Pennington, an American loyalist who had known her friend Jane Powell
+                            (QV*) in America and who became Master of Ceremonies at Hotwells Clifton
+                            for 28 years, and Seward and Sophia Pennington were estranged for 12
+                            years. </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

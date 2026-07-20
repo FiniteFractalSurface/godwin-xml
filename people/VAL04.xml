@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="VAL04" sex="2">
+                    <persName>
+                        <roleName/>
+                        <forename>Martha Carteretta</forename>
+                        <surname>Valpy/Straker</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1779">
+                        <placeName/>
+                    </birth>
+                    <death when="1815"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p> Martha Carteretta Valpy bapt 16.11.1779 St Mary's Suffolk dau of Richard
+                            and Martha Valpy, eldest dau of Richard Valpy DNB 1754-1836 and only child
+                            of his first marriage. She married 4.5.1804 in Hampshire, Thomas James
+                            Straker and went with him to Barbadoes. His will PCC 1814 late of
+                            Lisbonl proved by Henry Abbott attorney of Martha Cartaretta Straker who
+                            was in Barbadoes. Subscr to The Emigrant in London 1795 Rev Dr Valpy
+                            Reading, Miss Valpy Canonbury. She also subsribed to Mme Genlis' Annals
+                            of Virtue 1794 </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

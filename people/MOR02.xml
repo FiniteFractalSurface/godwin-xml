@@ -1,39 +1,75 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="MOR02" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0">Reverend</roleName><roleName xmlns="http://www.tei-c.org/ns/1.0">Dr</roleName><forename xmlns="http://www.tei-c.org/ns/1.0">Thomas</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Morgan</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1752"><placeName xmlns="http://www.tei-c.org/ns/1.0">Wales</placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1821-07-21"/><occupation xmlns="http://www.tei-c.org/ns/1.0">librarian</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">minister</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial">Not in <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>.
-    <p xmlns="http://www.tei-c.org/ns/1.0">Thomas Morgan was born in Langharn in South Wales, the only son of the Dissenting minister, Thomas Morgan. 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="MOR02" sex="1">
+                    <persName>
+                        <roleName>Reverend</roleName>
+                        <roleName>Dr</roleName>
+                        <forename>Thomas</forename>
+                        <surname>Morgan</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1752">
+                        <placeName>Wales</placeName>
+                    </birth>
+                    <death when="1821-07-21"/>
+                    <occupation>librarian</occupation>
+                    <occupation>minister</occupation>
+                    <note type="editorial">Not in <title>DNB</title>.
+    <p>Thomas Morgan was born in Langharn in South Wales, the only son of the Dissenting minister, Thomas Morgan. 
     He was educated at grammar schools in Batley and Leeds and attended Hoxton Academy when he was 15, and where it is likely he first met Godwin 
     (the 1796 diary list has Morgan alongside Kippis in 1773).   He left after six years and became minister to a congregation in Abingdon before moving to another
     congregation in Aliffe St, Goodman's Field in 1768. He became a member of the Dr WIlliams's Trust in 1783
-    and was appointed librarian in 1804. <title xmlns="http://www.tei-c.org/ns/1.0">The Gentleman's Magazine</title> (July-December 1821) notes that 'He was well acquainted with
+    and was appointed librarian in 1804. <title>The Gentleman's Magazine</title> (July-December 1821) notes that 'He was well acquainted with
     general literature, had a good knowledge of Books - was regular and punctual in his habits, and never absent 
     from his station during the hours of business, till a few days before his decease, when he was compelled
-    reluctantly to withdraw to a sick chamber, and lay his head on the pillow of death' (p. 181). His death was reported in <title xmlns="http://www.tei-c.org/ns/1.0">Jackson's Oxford
-        Journal</title> 28 July 1821; Godwin records Dr Thomas Morgan dies.. </p><p xmlns="http://www.tei-c.org/ns/1.0">He was made LLD by the University of Aberdeen in 1819. He also reviewed domestic and foreign literature 
-    for the <title xmlns="http://www.tei-c.org/ns/1.0">New Annual Register</title>. He was a very close friend of <persName xmlns="http://www.tei-c.org/ns/1.0" key="LIN01">Theophilus Lindsey </persName>whose death 
-      disturbed him significantly. All Dr Morgans and Morgans associated with the Red Cross Library have been coded as Thomas.</p><p xmlns="http://www.tei-c.org/ns/1.0">There are a number of other Morgans in the diary:</p><p xmlns="http://www.tei-c.org/ns/1.0"><persName xmlns="http://www.tei-c.org/ns/1.0" key="MOR03">G. Morgan</persName> appears in 1789. Godwin's 1796 Diary records meeting Morgan
+    reluctantly to withdraw to a sick chamber, and lay his head on the pillow of death' (p. 181). His death was reported in <title>Jackson's Oxford
+        Journal</title> 28 July 1821; Godwin records Dr Thomas Morgan dies.. </p><p>He was made LLD by the University of Aberdeen in 1819. He also reviewed domestic and foreign literature 
+    for the <title>New Annual Register</title>. He was a very close friend of <persName key="LIN01">Theophilus Lindsey </persName>whose death 
+      disturbed him significantly. All Dr Morgans and Morgans associated with the Red Cross Library have been coded as Thomas.</p><p>There are a number of other Morgans in the diary:</p><p><persName key="MOR03">G. Morgan</persName> appears in 1789. Godwin's 1796 Diary records meeting Morgan
     with Kippis, Rees and others in 1773 - when he enters the Hoxton Academy where George Cadogan
     Morgan was teaching. This 1789 reference is in association with Price and the Revolutionists and
-    is probably George Cadogan Morgan (see <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> - he was a nephew of Richard Price). The same pattern
-    is there in 1791. It is possible that Godwin reads Morgan's pamphlet <title xmlns="http://www.tei-c.org/ns/1.0">An address to the Jacobine
+    is probably George Cadogan Morgan (see <title>DNB</title> - he was a nephew of Richard Price). The same pattern
+    is there in 1791. It is possible that Godwin reads Morgan's pamphlet <title>An address to the Jacobine
     and other patriotic societies: urging the establishment of a republican form of government</title> in
     February 1796, since he cites 45 pages, and does not return to the text - and that was
     approximately the length of Morgan's pamphlet. G C Morgan dies in November 1798 but there is no
-    mention of his death in the Diary, and no change in the pattern of recording Morgans. </p><p xmlns="http://www.tei-c.org/ns/1.0"> William Morgan was a nephew of Richard Price and was a renowned host of radical figures.  His brother, <persName xmlns="http://www.tei-c.org/ns/1.0" key="MOR03">George Cadogan Morgan</persName>, also
+    mention of his death in the Diary, and no change in the pattern of recording Morgans. </p><p> William Morgan was a nephew of Richard Price and was a renowned host of radical figures.  His brother, <persName key="MOR03">George Cadogan Morgan</persName>, also
       appears in the diary.  The first  W Morgan appears in 1793 - this might be G C Morgan's brother, also radically inclined, and an
-      actuary who worked with (his uncle)<persName xmlns="http://www.tei-c.org/ns/1.0" key="RRI02"> Richard Price</persName> - see <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>. It seems probable that Godwin knew
+      actuary who worked with (his uncle)<persName key="RRI02"> Richard Price</persName> - see <title>DNB</title>. It seems probable that Godwin knew
       them both - but it is unclear what proportion of 'Morgan' entries the brothers account for. W
       Morgan's eldest son, also William, was also an actuary , working from at least 1817, although he
       died aged 28 in 1819. He was succeeded by his youngest brother Arthur. Morgan actuary has been coded as W Morgan; as have entries for W Morgan. In addition, there are a close set of entries in 1818 
-        that begin with W Morgan and continue as Morgan, which occur while Godwin is writing <title xmlns="http://www.tei-c.org/ns/1.0">Of Population</title> where it seems likely that
+        that begin with W Morgan and continue as Morgan, which occur while Godwin is writing <title>Of Population</title> where it seems likely that
         Godwin is consulting him on the statistics.
       All instances of G Morgan have been identified as George Cadogan Morgan as well as one instance of Morgan. 
-      All instances of 'Morgans' in the 1790s have been identified as either William and George Cadogan.</p><p xmlns="http://www.tei-c.org/ns/1.0"> There are a number of references to Morgans in relation to <persName xmlns="http://www.tei-c.org/ns/1.0" key="COL01">Coleridge</persName>. 
-    This seems to be <persName xmlns="http://www.tei-c.org/ns/1.0" key="MOR06 MOR07">Mary and John Morgan</persName> (d. end of
-    1819, beginning of 1820) and her sister <persName xmlns="http://www.tei-c.org/ns/1.0" key="BRE01">Charlotte Brent</persName>, who are old friends of Coleridge and who
+      All instances of 'Morgans' in the 1790s have been identified as either William and George Cadogan.</p><p> There are a number of references to Morgans in relation to <persName key="COL01">Coleridge</persName>. 
+    This seems to be <persName key="MOR06 MOR07">Mary and John Morgan</persName> (d. end of
+    1819, beginning of 1820) and her sister <persName key="BRE01">Charlotte Brent</persName>, who are old friends of Coleridge and who
     move to Calne with Coleridge in 1815 - hence the reference on 5 May 1817 Morgan of Calne - but
     this suggests that Godwin was not intimate with John Morgan and that we should not take the
     Morgan references in the Diary to be references to him except where stated - eg 10 March 1811;
     26 August 1811; 6 November 1811; 13 December 1812; 8 January 1813; 6 April 1813.  However, it also seems that 
-    the<persName xmlns="http://www.tei-c.org/ns/1.0" key="LAM01 LAM02"> Lambs</persName> become close to John Morgan, through Coleridge, and that we should code Morgans at
+    the<persName key="LAM01 LAM02"> Lambs</persName> become close to John Morgan, through Coleridge, and that we should code Morgans at
     Lambs accordingly (there is a confirming instance on 15.November 1816 when Morgan and Miss Brent
     are at Lambs's. This would include 23 May 1813; 3 April 1816; 8 May 1816; 3 June 1816; 20 July
     1816; 15.11.1816; 5.5.1817; 30. January 1818; 1 April 1818 (again with Miss Brent); 7 July 1818;
@@ -41,7 +77,7 @@
     August 1821 Godwin has to tea Morgan and Brent - the coincidence seems too striking - and this
     must refer to Mary Morgan and Charlotte Brent. If that is so, it might suggest that earlier
     entries of M Morgan might also be Mary., but there is nothing really to support this hypothesis
-    - he calls on M Morgan, and sees M Morgan with <persName xmlns="http://www.tei-c.org/ns/1.0" key="HON01">Hone</persName>.  As a result we have coded the later entries for Mary Morgan, but not the earlier.</p>
+    - he calls on M Morgan, and sees M Morgan with <persName key="HON01">Hone</persName>.  As a result we have coded the later entries for Mary Morgan, but not the earlier.</p>
     
     Thereafter the references in the Diary are often to W
     Morgan, on whom he calls several times. That this is William Morgan senr might be supported by
@@ -51,6 +87,11 @@
 
   
   
-  See <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>; <title xmlns="http://www.tei-c.org/ns/1.0">The Gentleman's Magazine</title> (July-December 1821) and <title xmlns="http://www.tei-c.org/ns/1.0">Jackson's Oxford Journal</title>, 28 July 1821.
+  See <title>DNB</title>; <title>The Gentleman's Magazine</title> (July-December 1821) and <title>Jackson's Oxford Journal</title>, 28 July 1821.
    
-  </note><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-03-23" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-07-21" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-08-02" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-12-18" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-06-26" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-07-21" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+  </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

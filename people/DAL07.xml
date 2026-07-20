@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name>TV</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="DAL07" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Carl Theodor Anton Maria von</forename>
+                        <surname>Dalberg</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1744-02-08">
+                        <placeName/>
+                    </birth>
+                    <death when="1817-02-10"/>
+                    <occupation>baron</occupation>
+                    <occupation>bishop</occupation>
+                    <note type="editorial">
+                        <p>Co-adjutor of Mentz &amp; Worms along with Prince Bishop of Constanz, was appointed by German diet in Nov 1794 to negotiate armistice with France, said in August 1796 to be at Geneva and in March 1798 at Vienna, hoping to become Archbishop of Vienna (British newspapers).</p>
+                        <p>1744 -1817 (Deutsche Biographisch Enzyklopade) Archbishop of Mainz, of Regensburg, Grand Duke of Frankfurt 1810-13 under Napoleon. Doesn't mention his English visit but says he was friends with Goethe, Schiller &amp; c</p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,17 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="PRE02" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Stephen</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Prentis</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1800-07"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1862-06-12"/><occupation xmlns="http://www.tei-c.org/ns/1.0">poet</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0"> There are two main Prentises in the diary both of whom appear for the first time in 1823 and are noted fairly frequently until Godwin's death.
-      They are E Prentis and Stephen Prentis, identified as the brothers <persName xmlns="http://www.tei-c.org/ns/1.0" key="PRE01">Edward Prentis</persName>(1797-1854), painter,  
-      and Stephen Prentis (1800-1862), poet. <lb xmlns="http://www.tei-c.org/ns/1.0"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="PRE02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Stephen</forename>
+                        <surname>Prentis</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1800-07">
+                        <placeName/>
+                    </birth>
+                    <death when="1862-06-12"/>
+                    <occupation>poet</occupation>
+                    <note type="editorial">
+                        <p> There are two main Prentises in the diary both of whom appear for the first time in 1823 and are noted fairly frequently until Godwin's death.
+      They are E Prentis and Stephen Prentis, identified as the brothers <persName key="PRE01">Edward Prentis</persName>(1797-1854), painter,  
+      and Stephen Prentis (1800-1862), poet. <lb/>
       Of the first ten references to Prentis, all in 1823, nine have no initial. The tenth entry, 22 December 1823 records, 
-      'M W S dines; adv. E &amp; Stephen Prentis, &amp; C Landseer.'   <lb xmlns="http://www.tei-c.org/ns/1.0"/>
+      'M W S dines; adv. E &amp; Stephen Prentis, &amp; C Landseer.'   <lb/>
       Given that Stephen's name has been recorded in full, we have taken E Prentise to be the more intimate contact and and therefore the 
       nine plain Prentis entries in 1823 and the numerous instances of Prentis without initial from 1824, have all been treated as Edward Prentis. 
-      !!! happy with this? !!!<lb xmlns="http://www.tei-c.org/ns/1.0"/>
+      !!! happy with this? !!!<lb/>
 
     From 1824 there are numerous references to E Prentis, Stephen Prentis and Prentis (no initial). There is also an H Prentis 
-    who may be a relative, although neither <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> entry mentions other siblings. 
+    who may be a relative, although neither <title>DNB</title> entry mentions other siblings. 
      We have made a key file each for E Prentis and S Prentis.
     Given that Stephen Prentis graduates from Cambridge only in 1824, it might be reasonable to assume that
     Prentis’s prior to that date are more likely to be E Prentis; and it also seems likely that H
     Prentis does not account for the plain Prentis entries, given his relatively infrequent appearance, his later appearance, 
     and the evidence in favour of ascribing these to E. Prentis.
-    There is no key file for H Prentis.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>. </bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"><date xmlns="http://www.tei-c.org/ns/1.0" when="1823-12-22" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-05-19" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"><date xmlns="http://www.tei-c.org/ns/1.0" when="1825-02-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1825-04-13" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-07-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-07-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-07-21" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-09-15" n="notVenue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-10-27" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"><date xmlns="http://www.tei-c.org/ns/1.0" when="1836-03-19" n="notVenue" type="ah"/></ab></ab></person></listPerson>
+    There is no key file for H Prentis.</p>
+                    </note>
+                    <bibl type="other"><title>DNB</title>. </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

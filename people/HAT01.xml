@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Person List</title>
+            <respStmt>
+               <resp>Researched by</resp>
+               <name>EP</name>
+            </respStmt>
+            <respStmt>
+               <resp>Encoded by</resp>
+               <name>SI</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Generated data</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="HAT01" sex="1">
+               <persName>
+                  <roleName/>
+                  <forename>John</forename>
+                  <surname>Hatchard</surname>
+                  <addName/>
+               </persName>
+               <birth when="1768-10-17">
+                  <placeName/>
+               </birth>
+               <death when="1849-06-21"/>
+               <occupation>Publisher</occupation>
+               <occupation>Bookseller</occupation>
+               <note type="editorial">
+                  <p>John Hatchard DNB 1756-1849</p>
+                  <p>John Hatchard was said to be a Tory bookseller, though he voted Fox and Tooke in 1796, but the Gardner in 1802, Hood in 1806 and Romilly and Maxwell in 1818. He married 11/7/1790 to Elizabeth (daughter of Thomas and Elizabeth Lambert). George and Thomas Hatchard were carpenters and chandlers of Castle Lane Westminster. Thomas voted Horne Took in 1790 and Hood in 1806, while George voted Hood in 1788, Fox and Gardner in 1796.</p>
+               </note>
+               <bibl type="other">
+                  <title>Ed Pope History Entry 26/07/2013</title>
+               </bibl>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>
+

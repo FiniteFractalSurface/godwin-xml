@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="VOG01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Albert/Abraham Levy Joel</forename>
+                        <surname>Vogel</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1796">
+                        <placeName/>
+                    </birth>
+                    <death when="1855"/>
+                    <occupation>Banker</occupation>
+                    <note type="editorial">
+                        <p> Probably Albert Vogel, whose buisiness affairs (Vogel and Company, were
+                            beginning to deteriorate and led to a sale of asssets by auction on 22
+                            August 1834. This does not seem a one-sided relationship - both men seem
+                            to be swiming against the tide! </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

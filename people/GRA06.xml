@@ -1,39 +1,60 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="GRA06" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">William</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Graham</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" notBefore="1792" notAfter="1793"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1827-11-28"/><occupation xmlns="http://www.tei-c.org/ns/1.0">journalist</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"> Graham, W. G. an American, who went to England at the age of seventeen,
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="GRA06" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>William</forename>
+                        <surname>Graham</surname>
+                        <addName/>
+                    </persName>
+                    <birth notBefore="1792" notAfter="1793">
+                        <placeName/>
+                    </birth>
+                    <death when="1827-11-28"/>
+                    <occupation>journalist</occupation>
+                    <note type="editorial"> Graham, W. G. an American, who went to England at the age of seventeen,
     was sponsored by a chance benefactor through an education and Cambridge and left him a legacy on
     his death. He eventually returned to America having lost his fortune and he became a journalist
-    for the newspaper <title xmlns="http://www.tei-c.org/ns/1.0">The Enquirer</title>. He was killed in a duel. <title xmlns="http://www.tei-c.org/ns/1.0">The Times</title>, 21 
+    for the newspaper <title>The Enquirer</title>. He was killed in a duel. <title>The Times</title>, 21 
     December 1827 and 25 December 1827. 
     
     Godwin records his death and the following entries could also refer to him:
   
-  26 -- graham
-  1789-04-20 1795-04-21 1802-10-03 1802-10-08 1802-11-19 1806-11-30 1807-03-08 1807-12-17 
-  1807-12-18 1808-08-13 1808-08-16 1808-08-18 1808-08-19 1811-08-21 1811-09-24 1811-10-04 
-  1814-05-11 1814-05-14 1815-02-05 1815-02-11 1815-03-16 1815-03-17 1823-09-27 1824-03-11 
-  1827-11-28 1828-08-01 
-  1 -- graham (glasgow)
-  1821-03-26 
-  1 -- graham (n and h)
-  1811-10-21 
-  1 -- graham of berwk
-  1810-07-19 
-  5 -- graham of glasgow
-  1814-05-13 1815-02-04 1817-04-09 1818-07-09 1819-03-17 
-  1 -- graham, edin
-  1824-08-12 
+   1823-09-27 1824-03-11 
   
-  <title xmlns="http://www.tei-c.org/ns/1.0">The Times</title> says that he did not arrive in England until he was 17 - so, around 1810 - and that he 
+  
+  <title>The Times</title> says that he did not arrive in England until he was 17 - so, around 1810 - and that he 
   arrived back in America in 1825. For some of these fifteen years he was studying in Cambridge
   and travelling on the continent. He also lived in London and worked as a parliamentary reporter.
   There is nothing to suggest that the Glasgow/Edinburgh entries refer to him and I don't think we 
-  have enough to link any of the plain Graham entries to him either. So, for now, only code his 
-  death.
-  
-  JG
-  
-  DOS COMMENT - Graham was also noted as one of the 'ablest theatre critics of the day'. Therefore it is possible that
-  some of the entries of 1823 and 1824 may be to him. This is supposition but it does seem unlikely that Godwin would have
+  have enough to link any of the plain Graham entries to him either. We have coded his death and London entries for 1823 and 1824 - these later are 
+ supposition but it does seem unlikely that Godwin would have
   noted his death unless he had met him.
   
-  See <title xmlns="http://www.tei-c.org/ns/1.0">The Times</title>, 21 December 1827 and 25 December 1827. 
-  </note><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"><date xmlns="http://www.tei-c.org/ns/1.0" when="1827-11-28" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+  See <title>The Times</title>, 21 December 1827 and 25 December 1827. 
+  </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

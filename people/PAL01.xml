@@ -1,12 +1,62 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="PAL01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Thomas Fyshe</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Palmer</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1747-07"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1802-06-02"/><occupation xmlns="http://www.tei-c.org/ns/1.0">Unitarian minister</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">reformer</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Only entries two entries, for the end of 1793 and and the beginning of 1794 are coded.  
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="PAL01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Thomas Fyshe</forename>
+                        <surname>Palmer</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1747-07">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1802-06-02"/>
+                    <occupation>Unitarian minister</occupation>
+                    <occupation>reformer</occupation>
+                    <note type="editorial">
+                        <p>Only entries two entries, for the end of 1793 and and the beginning of 1794 are coded.  
     Later entries that must refer to another Palmer, since Thomas Fyshe Palmer was put on 
     board a prison transport in February 1794 and never returned to Britain, dying in Guam 
     on his journey home after the expiration of his sentence for sedition. There is nothing to 
     suggest that the other Palmers in the diary have any connection to him.
-    </p><p xmlns="http://www.tei-c.org/ns/1.0">In Holcroft's journal there is a reference to Palmer junr (not related to T. F. Palmer) whom he identifies as the 
-      author of the epilogue to "Lovers' Vows" - a play by<persName xmlns="http://www.tei-c.org/ns/1.0" key="INC01"> Inchbald</persName>, based on a 
+    </p>
+                        <p>In Holcroft's journal there is a reference to Palmer junr (not related to T. F. Palmer) whom he identifies as the 
+      author of the epilogue to "Lovers' Vows" - a play by<persName key="INC01"> Inchbald</persName>, based on a 
       piece by the German dramatists Kotzebue, Godwin sees eight times between 1798 and 1827.
       This might be a reference to one of the eight children of John Palmer (1744–1798), actor. The modern edition of Inchbald's play 
-      identifies him as Thomas Palmer, of the Temple. Little is known of him.  </p><p xmlns="http://www.tei-c.org/ns/1.0">There is correspondence with  Elihu (or Elisha) Palmer (1764-1806), author of <title xmlns="http://www.tei-c.org/ns/1.0">Principles of Nature</title> 
-      who sends Godwin a copy of the second edition of his work with a letter in part praising <title xmlns="http://www.tei-c.org/ns/1.0">Political Justice</title>. 
-      Palmer spent his entire life in the United States.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">MS. Abinger c. 8, fols. 	22-3: May 1803</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Thomas Holcroft<title xmlns="http://www.tei-c.org/ns/1.0">The Life of Thomas Holcroft</title>volume 2  </bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Baines and Edward Burns (ed)., <title xmlns="http://www.tei-c.org/ns/1.0">Five Romantic Plays</title>Oxford, Oxford University Press,  2000  </bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-12-07" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-01-17" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+      identifies him as Thomas Palmer, of the Temple. Little is known of him.  </p>
+                        <p>There is correspondence with  Elihu (or Elisha) Palmer (1764-1806), author of <title>Principles of Nature</title> 
+      who sends Godwin a copy of the second edition of his work with a letter in part praising <title>Political Justice</title>. 
+      Palmer spent his entire life in the United States.</p>
+                    </note>
+                    <bibl type="MS">MS. Abinger c. 8, fols. 	22-3: May 1803</bibl>
+                    <bibl type="printedbook">Thomas Holcroft<title>The Life of Thomas Holcroft</title>volume 2  </bibl>
+                    <bibl type="printedbook">Baines and Edward Burns (ed)., <title>Five Romantic Plays</title>Oxford, Oxford University Press,  2000  </bibl>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

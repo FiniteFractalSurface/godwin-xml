@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>Rob Godwin</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="GWE01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Thomas</forename>
+                        <surname>Gwennap</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Art Dealer</occupation>
+                    <note type="editorial">
+                        <p>Thomas Gwennap, son of the Reverend Joseph Gwennap. It seems that William
+                            Godwin's father, the Reverend John Godwin of Guestwick, was a member of
+                            the Society for Propagating Religious Knowledge which he joined in 1767.
+                            Joseph Gwennap was also a member of that society. It was a well known
+                            dissenting organisation for publishing books for the poor. Joseph's uncle was Andrew
+                            Gifford who attended Samuel Jones' seminary in Tewkesbury alongside
+                            Edward Godwin, (William Godwin's grandfather). Gifford established a church in
+                            Holborn and Joseph attended that church. Joseph died in 1813 and the diary
+                            entry is for 1814 which makes it likely that it was his son Thomas in the
+                            diary. He lived in Piccadilly and was as an art-dealer.
+                            The name Gwennap is very rare in London, (common in the west country).
+                            Thomas Gwennap married the
+                            daughter of John Godwin of the Strand. It turns out that Joseph Gwennap
+                            opened his own baptist church in Piccadilly from 1783-1798. It was
+                            directly across the road from the home of the king's dentist, Charles
+                            Dumergue. Dumergue loaned John £200 against his life insurance policy in
+                            1800. What is also of passing interest is that Sir Walter Scott lived
+                            with Dumergue and met William Godwin through Charles Lamb. So John and William Godwin shared the mutual acquaintance of Hesther
+                            Piozzi and Samuel Lysons, and both families were associated with
+                            the Gwennaps. William met with one of the Burneys on
+                            that same day and John Godwin of
+                            the Strand published a book with illustrations by Edward Burney. His Cousin Frances Burney
+                            was keeper of the robes for Queen Charlotte and was a good friend of
+                            Hesther Piozzi, who wrote letters to Samuel Lysons when he was living
+                            with John in the Strand. I think that having Burney do the illustrations
+                            for his pocketbook may explain how John Godwin managed to get his royal
+                            charter as pocketbook maker to the Prince of Wales. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

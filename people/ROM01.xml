@@ -1,8 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="ROM01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0">Sir</roleName><forename xmlns="http://www.tei-c.org/ns/1.0">Samuel</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Romilly</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1757-03-01"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1818-11-02"/><occupation xmlns="http://www.tei-c.org/ns/1.0">lawyer</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">politician</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">   Sir Samuel Romilly (1757-1818), lawyer and politician. From a young age he expressed an interest in politics and political theory. 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="ROM01" sex="1">
+                    <persName>
+                        <roleName>Sir</roleName>
+                        <forename>Samuel</forename>
+                        <surname>Romilly</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1757-03-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1818-11-02"/>
+                    <occupation>lawyer</occupation>
+                    <occupation>politician</occupation>
+                    <note type="editorial">
+                        <p>   Sir Samuel Romilly (1757-1818), lawyer and politician. From a young age he expressed an interest in politics and political theory. 
     He supported radical reform  in France but his  enthusiasm for the revolution soon waned due to the
-    violence and atheism of the regime. Romilly entered Parliament in 1806. His social circles included <persName xmlns="http://www.tei-c.org/ns/1.0" key="LAN04">William Petty</persName> 
-   and <persName xmlns="http://www.tei-c.org/ns/1.0" key="BEN02">Jeremy Bentham</persName>.</p><p xmlns="http://www.tei-c.org/ns/1.0">Godwin's contact is almost exclusively through <persName xmlns="http://www.tei-c.org/ns/1.0" key="HOL02">Brand Hollis</persName>, and is
+    violence and atheism of the regime. Romilly entered Parliament in 1806. His social circles included <persName key="LAN04">William Petty</persName> 
+   and <persName key="BEN02">Jeremy Bentham</persName>.</p>
+                        <p>Godwin's contact is almost exclusively through <persName key="HOL02">Brand Hollis</persName>, and is
     largely restricted to 1789. However, there is a letter  from Romilly (written 2 March 1814) explaining that a loan
-    Godwin had proposed did not meet the solicitor's requirements.</p><p xmlns="http://www.tei-c.org/ns/1.0"> Shortly after the death of his wife, Romilly, plagued by concerns about his mental health, committed suicide at home in London by cutting his throat. 
+    Godwin had proposed did not meet the solicitor's requirements.</p>
+                        <p> Shortly after the death of his wife, Romilly, plagued by concerns about his mental health, committed suicide at home in London by cutting his throat. 
        Godwin records his death on 2 November 1818. 
-       </p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"><date xmlns="http://www.tei-c.org/ns/1.0" when="1789-01-05" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1789-03-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1789-05-30" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1789-12-22" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"><date xmlns="http://www.tei-c.org/ns/1.0" when="1791-03-28" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"><date xmlns="http://www.tei-c.org/ns/1.0" when="1818-11-02" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+       </p>
+                    </note>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

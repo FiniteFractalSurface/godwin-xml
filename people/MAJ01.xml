@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="MAJ01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Lewis</forename>
+                        <surname>Majendie</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1756">
+                        <placeName/>
+                    </birth>
+                    <death when="11833"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Lewis Majendie 1756-1833, younger brother of Henry William Majendie,
+                            bishop of Bangor DNB 1754-1830, married 1783 at St Marylebone Elizabeth
+                            Hoghton, granddaughter of Timothy Hollis' sister Elizabeth who married
+                            William Ashurst (d 1735), their daughter Elizabeth married Sir Henry
+                            Hoghton and died in childbed 1761, her daughter Elizabeth survived and
+                            married Lewis Majendie. Codicil to Timothy Hollis's will dated 16.5.85
+                            mentions his niece Elizabeth Majendie Hoghton.</p> <p>28.4.1789 Majendie at T Hollis and 5.5.1789.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

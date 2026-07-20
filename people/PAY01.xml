@@ -1,32 +1,81 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="PAY01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">John Howard</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Payne</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1791-06-09"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1852-04-10"/><occupation xmlns="http://www.tei-c.org/ns/1.0">actor</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">playwright</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">There are some entries in the 1790s to 'young Paynes' and to T and Ja Payne, but these finish in 1798. 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="PAY01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>John Howard</forename>
+                        <surname>Payne</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1791-06-09">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1852-04-10"/>
+                    <occupation>actor</occupation>
+                    <occupation>playwright</occupation>
+                    <note type="editorial"><p>There are some entries in the 1790s to 'young Paynes' and to T and Ja Payne, but these finish in 1798. 
   John Howard Payne, whose info has been entered in the fields above, came to England in 1813 
-  (<title xmlns="http://www.tei-c.org/ns/1.0">Encyclopedia Brittanica</title>). There is an early adv. entry for Paynes on 9 November 1815, but 
+  (<title>Encyclopedia Brittanica</title>). There is an early adv. entry for Paynes on 9 November 1815, but 
     since Payne never married (although he was in love for a time with Mary Shelley), this cannot refer to him.  
     And the entry in 1816 to Payne, Bookseller, also does not refer to him.The bookseller may be James Payne, 
     trading between 1802 and 1819 at 87 the Strand, the son of Thomas Payne, bookseller of 
-   Mews Gate. Moreover, this may be the Ja Payne (and the T and Ja Payne of the 1790s). </p><p xmlns="http://www.tei-c.org/ns/1.0">From 1817, references to Payne appear frequently, first encountered at Ogilvie's (American connection) and it is possible from this point
+   Mews Gate. Moreover, this may be the Ja Payne (and the T and Ja Payne of the 1790s). </p><p>From 1817, references to Payne appear frequently, first encountered at Ogilvie's (American connection) and it is possible from this point
   to take 'Payne' to refer to John Howard Payne.  However,  the initial entries in 1817 are to Payne 
   and H.Payne is used only from the middle of 1817, so earlier entries could refer to the bookseller.   However, this would imply a sudden increase in 
   contacts with the bookseller Payne at more or less the same time and in the same circles as Godwin becomes acquainted with J H Payne, and that seems too 
-  striking a coincidence. The presence of  Payne entries after J H Payne returns to America in 1832 relates to another Payne (probably <persName xmlns="http://www.tei-c.org/ns/1.0" key="PAY02">John 
+  striking a coincidence. The presence of  Payne entries after J H Payne returns to America in 1832 relates to another Payne (probably <persName key="PAY02">John 
     and Sarah Payne</persName>, but contacts are not extensive.
   We have, accordingly, coded instances of Payne after the beginning of 1817 as references to J H Payne where the context seems appropriate.  This means that 
   the first meeting with a Payne in 1817 is Godwin's first contact with JH Payne - 'sup at Ogilvie’s , 
   w. Verplank NS Bevan; adv. Payne' - whereas the first use of 'H Payne' is a '... calls n', is not taken to be the first mention of JH Payne in the diary. 
- The consistency in 1817 between the circles of H Payne and plain 'Payne'  weighs heavily in treating the entries as referring to a single person.</p><p xmlns="http://www.tei-c.org/ns/1.0">The entries in 1818 to Payne junr, on the steamboat to visit Mary Jane, remain unidentified.  It is possible that he is the son of a colleague of Godwin's, perhaps someone on the book trade. 
+ The consistency in 1817 between the circles of H Payne and plain 'Payne'  weighs heavily in treating the entries as referring to a single person.</p><p>The entries in 1818 to Payne junr, on the steamboat to visit Mary Jane, remain unidentified.  It is possible that he is the son of a colleague of Godwin's, perhaps someone on the book trade. 
  This might be James Payne.  However, the British Book Trades Index has James Payne ceasing activity (possibly dying) in 1819, and there is an entry to Payne bookseller in 1822.
- An alternative bookseller is Thomas Payne, trading from 1813-1850 with Henry Foss (however, there are no Foss entries in the diary)</p><p xmlns="http://www.tei-c.org/ns/1.0">The John Payne entry (1824-04-04) seems to be a reference to Lamb's cousin John Payne who married Sarah Burney, the daughter 
+ An alternative bookseller is Thomas Payne, trading from 1813-1850 with Henry Foss (however, there are no Foss entries in the diary)</p><p>The John Payne entry (1824-04-04) seems to be a reference to Lamb's cousin John Payne who married Sarah Burney, the daughter 
   of rear Admiral Burney, in April 1821. This may also account for the entries for  Mr and Mrs Payne and for subsequent 
-  entries in the diary to Payne(s). They have been given their own code.</p><p xmlns="http://www.tei-c.org/ns/1.0">Mary Shelley probably became acquainted with J H Payne in 1824, using his free theatre tickets. 'Unbeknownst to
+  entries in the diary to Payne(s). They have been given their own code.</p><p>Mary Shelley probably became acquainted with J H Payne in 1824, using his free theatre tickets. 'Unbeknownst to
   Mary he had been struck by her years before they met, when he glimpsed her at the theatre in the
   Marlow period, and more recently feared falling in love with her, since he knew her to be far above
-  him' (Emily W. Sunstein, <title xmlns="http://www.tei-c.org/ns/1.0">Mary Shelley: Romance and Reality</title>, p. 266).</p>
+  him' (Emily W. Sunstein, <title>Mary Shelley: Romance and Reality</title>, p. 266).</p>
 
   J H  Payne returns to the States in 1832. He served as an intermediary for Godwin with American publishers
-  for <title xmlns="http://www.tei-c.org/ns/1.0">Deloraine</title>, albeit unsuccessfully (see Payne's letter 30 November 1833)
+  for <title>Deloraine</title>, albeit unsuccessfully (see Payne's letter 30 November 1833)
    
 
   
- Rosa Pendelton Chiles's <title xmlns="http://www.tei-c.org/ns/1.0">John Howard Payne</title>, has insufficient detail to settle the identification of the entries in 1817. 
- </note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 14, fols. 21-2:  30 Nov. 1833</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">Encyclopedia Brittanica</title></bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Emily W. Sunstein, <title xmlns="http://www.tei-c.org/ns/1.0">Mary Shelley: Romance and Reality</title> 
-  (1989, paperback edn. Baltimore, Maryland: John Hopkins University Press, 1991); </bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Rosa Pendelton Chiles<title xmlns="http://www.tei-c.org/ns/1.0">John Howard Payne</title></bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-06-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-06-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-06-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-07-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-07-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-07-05" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-07-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-07-23" n="notVenue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-07-24" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-07-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-07-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-07-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-07-30" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-08-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-08-19" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-09-11" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"><date xmlns="http://www.tei-c.org/ns/1.0" when="1818-06-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1818-07-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1818-10-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1818-12-03" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-03-05" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-03-14" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"><date xmlns="http://www.tei-c.org/ns/1.0" when="1825-05-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1825-05-25" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1825-05-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1825-05-30" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1825-06-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1825-06-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1825-06-23" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1825-06-30" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1825-07-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1825-07-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1825-07-17" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"><date xmlns="http://www.tei-c.org/ns/1.0" when="1826-07-30" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1826-12-27" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"><date xmlns="http://www.tei-c.org/ns/1.0" when="1827-07-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1827-11-13" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1827-12-20" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-01-06" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-01-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-01-23" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-02-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-02-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-04-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-04-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-10-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-11-22" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"><date xmlns="http://www.tei-c.org/ns/1.0" when="1829-05-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1829-05-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1829-07-31" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1829-11-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1829-11-11" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-07-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-07-13" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-09-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-11-12" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-03-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-04-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-08-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-09-05" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-02-12" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-02-14" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-02-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-02-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-03-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-03-17" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-06-14" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-06-15" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-07-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-10-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-10-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-11-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-12-26" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-02-15" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+ Rosa Pendelton Chiles's <title>John Howard Payne</title>, has insufficient detail to settle the identification of the entries in 1817. 
+ </note>
+                    <bibl type="MS"> MS. Abinger c. 14, fols. 21-2:  30 Nov. 1833</bibl>
+                    <bibl type="other">
+                        <title>Encyclopedia Brittanica</title>
+                    </bibl>
+                    <bibl type="printedbook">Emily W. Sunstein, <title>Mary Shelley: Romance and Reality</title> 
+  (1989, paperback edn. Baltimore, Maryland: John Hopkins University Press, 1991); </bibl>
+                    <bibl type="printedbook">Rosa Pendelton Chiles<title>John Howard Payne</title></bibl>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

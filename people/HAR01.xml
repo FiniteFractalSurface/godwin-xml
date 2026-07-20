@@ -1,16 +1,66 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="HAR01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0">Colonel</roleName><forename xmlns="http://www.tei-c.org/ns/1.0">William</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Harwood</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1757-09-04"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1824-04-02"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">There are numerous 'Harwood' entries in the diary. 
-    According to <persName xmlns="http://www.tei-c.org/ns/1.0" key="HOL01">Thomas Holcroft's</persName><title xmlns="http://www.tei-c.org/ns/1.0">Life</title> his eldest daughter (who
-    would be <persName xmlns="http://www.tei-c.org/ns/1.0" key="HOL09">Ann</persName> by his first marriage, married Colonel Harwood in the 1790s (the diary records Harwood
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="HAR01" sex="1">
+                    <persName>
+                        <roleName>Colonel</roleName>
+                        <forename>William</forename>
+                        <surname>Harwood</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1757-09-04">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1824-04-02"/>
+                    <occupation/>
+                    <occupation/>
+                    <note type="editorial">
+                        <p>There are numerous 'Harwood' entries in the diary. 
+    According to <persName key="HOL01">Thomas Holcroft's</persName><title>Life</title> his eldest daughter (who
+    would be <persName key="HOL09">Ann</persName> by his first marriage, married Colonel Harwood in the 1790s (the diary records Harwood
     married on 3.4.1796 but the register of St Mary Woolnoth, London, record a marriage between Ann Holcroft and William Tooke Harwood on 25 June 1797). 
-    The <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> suggests that she was born around 1765, so she would have been
-    around 30 on her marriage. The index to Holcroft's <title xmlns="http://www.tei-c.org/ns/1.0">Life</title> has Colonel Wm Harwood, and identifies
+    The <title>DNB</title> suggests that she was born around 1765, so she would have been
+    around 30 on her marriage. The index to Holcroft's <title>Life</title> has Colonel Wm Harwood, and identifies
     him as a nephew of William Tooke, Horne Tooke's friend. This suggests that there are at least
     three different Harwoods - Colonel William Harwood, his wife Anne, and a third Harwood picked 
-    out by the diary: T Harwood. There is also one entry for E and M Harwood. </p><p xmlns="http://www.tei-c.org/ns/1.0">Godwin notes in the 1796 Diary that he
+    out by the diary: T Harwood. There is also one entry for E and M Harwood. </p>
+                        <p>Godwin notes in the 1796 Diary that he
     meets 'Harwood' for the first time in 1793. We have treated Harwood as Colonel Wiliam
     Harwood, and A Harwood (who frequently appears at Holcroft's) as his wife, nee Holcroft.  Colonel Harwood's parents were Thomas Harwood and Elizabeth 
     (née Tooke).  He seems to have been born in Norwich and his mother died in April 1797 - as is mentioned in a letter to Godwin from his mother (Abinger MS. c. 3, fol., 64)).
     T. Harwood is a distinct person, but there are too few entries to justify a code name. (There is some
-    suggestion that T Harwood comes from Norwich, which is where Godwin first notes meeting him)</p><p xmlns="http://www.tei-c.org/ns/1.0">Colonel Harwood seems to have had a natural daughter whom he acknowledged in his will as Mary Elizabeth, the wife of Charles Phillips, a surgeoon of Camden Town, whom she had married 
-    as St Marlebone on 18 September 1813.</p><p xmlns="http://www.tei-c.org/ns/1.0"> Godwin notes Col. Harwood's death on 2.4.1824.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Thomas Holcroft, <title xmlns="http://www.tei-c.org/ns/1.0">The life of Thomas Holcroft, continued by William Hazlitt</title>, ed. by Elbridge 
-  Colby, 2 vols (London: Constable &amp; Co., 1925)</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">Abinger MS. c. 3, fol. 64: 3 May 1797</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-03-24" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-05-19" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-06-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-06-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-07-03" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-11-01" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-04-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-06-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-07-17" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-07-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-07-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-07-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-10-23" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-11-04" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-06-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-06-28" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-02-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-05-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-08-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-08-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-09-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-09-13" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-10-12" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-10-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-11-29" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-02-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-03-04" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-05-24" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-09-25" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-01-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-03-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-03-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-04-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-04-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-04-14" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-04-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-05-02" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-05-03" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-05-05" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-05-06" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-07-23" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-12-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-12-30" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-03-02" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-01-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-03-19" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-02-03" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-03-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-03-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-03-23" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-03-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-03-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-03-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-04-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-04-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-04-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-09-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-10-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-12-02" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-01-05" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-01-06" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-01-19" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-11-11" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"><date xmlns="http://www.tei-c.org/ns/1.0" when="1819-06-18" n="venue" type="nah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-12-17" n="notVenue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-12-25" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-04-02" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    suggestion that T Harwood comes from Norwich, which is where Godwin first notes meeting him)</p>
+                        <p>Colonel Harwood seems to have had a natural daughter whom he acknowledged in his will as Mary Elizabeth, the wife of Charles Phillips, a surgeoon of Camden Town, whom she had married 
+    as St Marlebone on 18 September 1813.</p>
+                        <p> Godwin notes Col. Harwood's death on 2.4.1824.</p>
+                    </note>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                    <bibl type="printedbook">Thomas Holcroft, <title>The life of Thomas Holcroft, continued by William Hazlitt</title>, ed. by Elbridge 
+  Colby, 2 vols (London: Constable &amp; Co., 1925)</bibl>
+                    <bibl type="MS">Abinger MS. c. 3, fol. 64: 3 May 1797</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

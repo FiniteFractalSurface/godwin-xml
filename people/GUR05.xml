@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="GUR05" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Maria</forename>
+                        <surname>Gurney</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Perhaps the wife of John Gurney DNB 1768-1845 who was Maria daughter of
+                            William Hawes DNB 1736-1808. They were married at St Botolph without
+                            Bishopsgate on 11.12.1797, her first child was born 27.4.1799 and her
+                            second 16.8.1800. Most of the other Gurney wives would more likely have
+                            been in Norfolk. It could have been her mother-in-law Rebecca (nee
+                            Brodie) 1747-1814, but given the context of mrs Fancourt's the younger
+                            wife seems more likely. See Hawes for the visit of the miss Hawes' to
+                            Thelwall's in 1795, which suggests an adventurous spirit. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

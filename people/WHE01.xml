@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name>EP and MP</name>
+                </respStmt> 
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+        
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                
+                <person xml:id="WHE01" sex="2">
+                    <persName>
+                        <roleName/>
+                        <forename>Anna</forename>
+                        <surname>Doyle Wheeler</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1785">
+                        <placeName/>
+                    </birth>
+                    <death when="1848"/>
+                    <occupation>Feminist</occupation>
+                    <note type="editorial">
+                        <p>Irish radical, collaborator with William Thompson on <title xmlns="http://www.tei-c.org/ns/1.0">An Appeal from one
+                            Half of the Human Race to the Other</title>. LIved in Paris in the 1820s,
+                            returning to London where she was a meeting place for French Socialists
+                            and radicals. The dates fit with her times in London from the DNB
+                            article. The Wheeler at Lady Caroline Lamb's does not have a feminine
+                            title, but Godwin often dropped it especially for independent-minded
+                            women. It could also have been Mrs Wheeler's daughter Rosina, as Edward
+                            Bulwer Lytton was present and would propose to her the next month, see
+                            Rosina Bulwer Lytton DNB 1802-1882. The last entry above confirms the
+                            identity as she was with her uncle Sir John Doyle DNB 1756-1834</p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

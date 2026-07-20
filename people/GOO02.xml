@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="GOO02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>E</forename>
+                        <surname>Goodford</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Ed Pope Comments: I have a tentative suggestion as to this person's
+                            identity. The will of John Old Goodford of Yeovil PCC 1787 mentioned his
+                            wife Maria and his daughters Maria, Elizabeth, Harriot and Mary Ann. The
+                            will PCC 1828 dated 14.1.1828 of Elizabeth Bridger formerly Goodford of
+                            Romford but late of Windsor, wife of Lt Col James Paul Bridger,
+                            mentioned her mother Maria Goodfrod, her brother John Goodford of
+                            Clifton Cantelo and his wife Charlotte, her aunt Mrs Harbin, her friend
+                            John Frederick Pinney of Somerton, and her cousins Mary Ann wife of John
+                            Phelips, Caroline wife of Charles Phelips, and Elizabeth wife of Major
+                            Thomas Potter Miller. Her brother can be found in Charles Old Goodford
+                            DNB 1812-1884 headmaster as his father John Goodford of Yeovil died 1835
+                            whose wife was Charlotte dau of Montague Cholmeley (see Cholmeley). The
+                            will of her sister Maria Goodford spinster PCC 1816 and dated Sept 1812
+                            mentioned her sister Elizabeth Bridger, but I haven't found Elizabeth's
+                            marriage so cannot be sure she was still a spinster in 1802. The will of
+                            her mother Maria PCC 1847 mentioned her sister Mrs Rhoda Harbin. James
+                            Paul Bridger son of Colville of Old Shoreham, Sussex was admitted to
+                            Magdalen Hall Oxford in 1795 age 19, became a Lieutenant in 1809, served
+                            as a Major in the 12th Light Dragoons in the peninsula under Wellington,
+                            and died at Brighton in 1841. Several visitors to the Godwins who seem
+                            to have been connections of Mary Jane Godwin (see Napier, miss Walsh,
+                            Pester, Clement Poole) came from the Yeovil area. There were also
+                            Chancery cases involving Goodfords 1799-1805 which I haven't consulted (
+                            National Archives C12/257/40, C13/499/1 and 5). The later Bridger entries
+                            above I've included because they might be connected </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

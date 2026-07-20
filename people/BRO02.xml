@@ -1,5 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="BRO02" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Henry Peter</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Brougham</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/>Lord Brougham and Vaux </persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1778-09-19"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1868-05-07"/><occupation xmlns="http://www.tei-c.org/ns/1.0">lord chancellor</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Brougham was a lawyer who made his name by defending <persName xmlns="http://www.tei-c.org/ns/1.0" key="HUN01 HUN02">John and Leigh Hunt</persName>, charged with seditious libel, in 1811. He helped launch the 
-      <title xmlns="http://www.tei-c.org/ns/1.0">Edinburgh Review</title> in 1802 and contributed many articles to it. He became king's counsel in 1827 and lord chancellor in 1830.</p><p xmlns="http://www.tei-c.org/ns/1.0">Godwin noted visiting him on 30 January 1817 with <persName xmlns="http://www.tei-c.org/ns/1.0" key="SHE01">Percy Shelley</persName>, and <persName xmlns="http://www.tei-c.org/ns/1.0" key="SHE02">Mary Shelley's</persName><title xmlns="http://www.tei-c.org/ns/1.0">Journal</title> confirms this. The editors suggest that they may have been visiting over Shelley's
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="BRO02" sex="1">
+                    <persName><roleName/><forename>Henry Peter</forename><surname>Brougham</surname><addName/>Lord Brougham and Vaux </persName>
+                    <birth when="1778-09-19">
+                        <placeName/>
+                    </birth>
+                    <death when="1868-05-07"/>
+                    <occupation>lord chancellor</occupation>
+                    <note type="editorial">
+                        <p>Brougham was a lawyer who made his name by defending <persName key="HUN01 HUN02">John and Leigh Hunt</persName>, charged with seditious libel, in 1811. He helped launch the 
+      <title>Edinburgh Review</title> in 1802 and contributed many articles to it. He became king's counsel in 1827 and lord chancellor in 1830.</p>
+                        <p>Godwin noted visiting him on 30 January 1817 with <persName key="SHE01">Percy Shelley</persName>, and <persName key="SHE02">Mary Shelley's</persName><title>Journal</title> confirms this. The editors suggest that they may have been visiting over Shelley's
     Chancery case, or over concern for Leigh Hunt. The following day's entry seems to confirm the
     latter: ' P B S and L Hunt call: consultation; Brougham, B M , Wetherel, Horne, Longdil, L H and
     P B S' . There are then three more calls around this period. The next entries are for 1823 when
@@ -7,5 +38,15 @@
     collection. A similar spate of activity, including calls on Brougham takes place around April
     1827, in October 1828, then in 1830 when Brougham became Chancellor. He wrote to Brougham on several
     occasions, and then on 1 February 1832, where the letter survives. Godwin was
-    essentially pleading for a sinecure.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 20, fol. 53: 1 February 1832</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 20, fols. 3-4: 20 April 1827</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook"><title xmlns="http://www.tei-c.org/ns/1.0">The journals of Mary Shelley, 1814–1844</title>, ed. by Paula R. Feldman 
-    and Diana Scott-Kilvert, 2 vols (Oxford and New York: Oxford University Press; Clarendon Press, 1987)</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other">DNB</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-01-30" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-01-31" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-02-06" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-02-09" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"><date xmlns="http://www.tei-c.org/ns/1.0" when="1823-09-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1823-09-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1823-10-20" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"><date xmlns="http://www.tei-c.org/ns/1.0" when="1827-03-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1827-04-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1827-04-17" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1827-04-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1827-04-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1827-04-19" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1827-04-20" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1827-04-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1827-11-30" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-10-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-10-20" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-10-28" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-10-29" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-11-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-11-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-12-02" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-02-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-06-09" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-02-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-12-22" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-02-14" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-05-11" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    essentially pleading for a sinecure.</p>
+                    </note>
+                    <bibl type="MS"> MS. Abinger c. 20, fol. 53: 1 February 1832</bibl>
+                    <bibl type="MS"> MS. Abinger c. 20, fols. 3-4: 20 April 1827</bibl>
+                    <bibl type="printedbook"><title>The journals of Mary Shelley, 1814–1844</title>, ed. by Paula R. Feldman 
+    and Diana Scott-Kilvert, 2 vols (Oxford and New York: Oxford University Press; Clarendon Press, 1987)</bibl>
+                    <bibl type="other">DNB</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

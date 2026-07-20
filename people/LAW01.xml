@@ -1,23 +1,65 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="LAW01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0">Sir</roleName><forename xmlns="http://www.tei-c.org/ns/1.0">Thomas</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Lawrence</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1769-04-17"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1830-01-07"/><occupation xmlns="http://www.tei-c.org/ns/1.0">portrait painter</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">draughtsman</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">There are a number of Lawrences identified in the diary so attribution is difficult. Accordingly we have attributed contacts to three different Lawrences, as justified in the following discussion.  
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="LAW01" sex="1">
+                    <persName>
+                        <roleName>Sir</roleName>
+                        <forename>Thomas</forename>
+                        <surname>Lawrence</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1769-04-17">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1830-01-07"/>
+                    <occupation>portrait painter</occupation>
+                    <occupation>draughtsman</occupation>
+                    <note type="editorial">
+                        <p>There are a number of Lawrences identified in the diary so attribution is difficult. Accordingly we have attributed contacts to three different Lawrences, as justified in the following discussion.  
       In addition there are nineteen Lawrence entries that cannot be identified definitively as one of the following three individuals and which may be accessed by 
-      searching under  <persName xmlns="http://www.tei-c.org/ns/1.0" key="LAW99">Lawrence.</persName>.  Cases where we are sure that the entry does not refer to one of the three individuals have been left uncoded. </p><p xmlns="http://www.tei-c.org/ns/1.0">The most frequently mentioned Lawrence is the portrait painter and draghtsman,  Sir Thomas Lawrence, who sketched Godwin and <persName xmlns="http://www.tei-c.org/ns/1.0" key="HOL01">Holcroft</persName> at the Treason Trials of 1794, 
-      and for whom Godwin  sat in the 1790s. The key period of their association is in the decade of the 1790s.</p><p xmlns="http://www.tei-c.org/ns/1.0"><persName xmlns="http://www.tei-c.org/ns/1.0" key="LAW02">James (Chevalier) Lawrence</persName> was a writer and advocate of naturism.  He initially calls on Godwin in 1802.
-      but Godwin also meets him at the British Museum and in the company of <persName xmlns="http://www.tei-c.org/ns/1.0" key="BOI02">Boinville</persName> and <persName xmlns="http://www.tei-c.org/ns/1.0" key="NEW01">Newton
-      </persName>.  Lawrence is also consulted by <persName xmlns="http://www.tei-c.org/ns/1.0" key="SHE01">Shelley</persName>. The <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> suggests that he is largely out of the country from the mid-eighteen teens.</p><p xmlns="http://www.tei-c.org/ns/1.0"><persName xmlns="http://www.tei-c.org/ns/1.0" key="LAW03">Sir William Lawrence</persName> was a surgeon, and from 1815 Professor of anatomy and surgery at the 
-      Royal College of Surgeons in London.  He was consulted both by <persName xmlns="http://www.tei-c.org/ns/1.0" key="SHE02">Mary Shelley</persName> (in 1814) and 
-      <persName xmlns="http://www.tei-c.org/ns/1.0" key="SHE01">Percy Bysshe Shelley</persName> in 1815.  Godwin first notes 'Lawrence, surgeon' in his diary in 1812.</p><p xmlns="http://www.tei-c.org/ns/1.0">The vast majority of refs seem to be to the artist. This
+      searching under  <persName key="LAW99">Lawrence.</persName>.  Cases where we are sure that the entry does not refer to one of the three individuals have been left uncoded. </p>
+                        <p>The most frequently mentioned Lawrence is the portrait painter and draghtsman,  Sir Thomas Lawrence, who sketched Godwin and <persName key="HOL01">Holcroft</persName> at the Treason Trials of 1794, 
+      and for whom Godwin  sat in the 1790s. The key period of their association is in the decade of the 1790s.</p>
+                        <p><persName key="LAW02">James (Chevalier) Lawrence</persName> was a writer and advocate of naturism.  He initially calls on Godwin in 1802.
+      but Godwin also meets him at the British Museum and in the company of <persName key="BOI02">Boinville</persName> and <persName key="NEW01">Newton
+      </persName>.  Lawrence is also consulted by <persName key="SHE01">Shelley</persName>. The <title>DNB</title> suggests that he is largely out of the country from the mid-eighteen teens.</p>
+                        <p><persName key="LAW03">Sir William Lawrence</persName> was a surgeon, and from 1815 Professor of anatomy and surgery at the 
+      Royal College of Surgeons in London.  He was consulted both by <persName key="SHE02">Mary Shelley</persName> (in 1814) and 
+      <persName key="SHE01">Percy Bysshe Shelley</persName> in 1815.  Godwin first notes 'Lawrence, surgeon' in his diary in 1812.</p>
+                        <p>The vast majority of refs seem to be to the artist. This
       assumption is based both on the number of entries that are clearly to the artist ('Sit to
       Lawrence', 'Lawrence, pictures' etc) and the fact that these are not distinguished from other,
       not obviously artistic appearances, by the use of an initial. There is also a continuity in the
-      kind of conversations Godwin has when sitting to Lawrence and when seeing him socially. </p><p xmlns="http://www.tei-c.org/ns/1.0">However, St Clair indicates that James Lawrence is close to <persName xmlns="http://www.tei-c.org/ns/1.0" key="NEW01">John Frank Newton</persName>, 
+      kind of conversations Godwin has when sitting to Lawrence and when seeing him socially. </p>
+                        <p>However, St Clair indicates that James Lawrence is close to <persName key="NEW01">John Frank Newton</persName>, 
       so much so that it is likely that Lawrences recorded at Newton's are
       recorded as James  Lawrence, (although William Lawrence, surgeon is also
-      recorded at <persName xmlns="http://www.tei-c.org/ns/1.0" key="NEW01">Newton's</persName>, so that it is by no means certain which is being 
+      recorded at <persName key="NEW01">Newton's</persName>, so that it is by no means certain which is being 
       referred to when there is no initial). It also seems likely that it is 
       James  Lawrence on 15 April 1810, since this follows a number of mentions of James  Lawrence.  
       But  on 19 December 1813 and 27 December 1813 it is less clear. 
       Lawrences linked to the British Museum have also been identified as James Lawrence, given his writings, but
-      this is not certain.</p><p xmlns="http://www.tei-c.org/ns/1.0">Moreover, Thomas Lawrence was increasingly mirred in financial difficulties in the 1800s 
+      this is not certain.</p>
+                        <p>Moreover, Thomas Lawrence was increasingly mirred in financial difficulties in the 1800s 
       and lead an increasingly retiring private life, so that it seems likely that Godwin
       would have seen less of him and that Lawrence might increasingly have been 
       used to refer to another, probably James  Lawrence.  Godwin's contacts with Lawrence had dropped to 
@@ -27,9 +69,9 @@
       of the six 1810 entres are James  Lawrence, one of the others being with Newton 
       and likely to be James  Lawrence; the other being a 'call on Godwin' which is unusual 
       for Thomas Lawrence but which has been left as him.  So too has a Lawrence call in 1811, 
-      and one in 1812 with <persName xmlns="http://www.tei-c.org/ns/1.0" key="GOD05">Nathanial Godwin</persName>, but the identification is far from certain. In 1813 although 
+      and one in 1812 with <persName key="GOD05">Nathanial Godwin</persName>, but the identification is far from certain. In 1813 although 
       several of the entries are plain Lawrence these seem to refer to James  Lawrence, 
-      being mainly associated with <persName xmlns="http://www.tei-c.org/ns/1.0" key="NEW01">Newton</persName> or with the Museum.  There are no contacts in 1814.
+      being mainly associated with <persName key="NEW01">Newton</persName> or with the Museum.  There are no contacts in 1814.
       In 1815 the entries are plain Lawrence but refer to advs in the Museum or Red 
       Cross Library, and so are coded for James  Lawrence. Moreover, it is in 1815 that Thomas 
       Lawrence is knighted - and there is no reference to Sir Thomas Lawrence until 
@@ -38,31 +80,56 @@
       abroad between 1817 and 1820.  But this makes the entries between 1815-1821 very uncertain.
       The 1816 entry is an adv at the theatre, which has been left as Thomas Lawrence. 
       There is a call on Lawrence in April 1817 and the adv at the theatre in Dec 1817 
-      is compatible with Lawrence having been in England when <persName xmlns="http://www.tei-c.org/ns/1.0" key="AUG01">Princess Charlotte</persName>, 
+      is compatible with Lawrence having been in England when <persName key="AUG01">Princess Charlotte</persName>, 
       whose portrait he painted, died in November 1817. Thereafter he seems to have 
-      left for the continent and the suggestion is that he did not return 1820.  </p><p xmlns="http://www.tei-c.org/ns/1.0"> The <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> suggests that it is about this time that James  Lawrence also leaves  for the 
+      left for the continent and the suggestion is that he did not return 1820.  </p>
+                        <p> The <title>DNB</title> suggests that it is about this time that James  Lawrence also leaves  for the 
       continent and leads 'a roving life', but it is not clear whether this included occasional returns to Britain. 
       There is an entry for the surgeon in 1818 and an adv at the Theatre (this has been 
       coded as Thomas Lawrence); and then nothing until 1821, when Lawrence calls and Godwin then dines 
-      at his house with <persName xmlns="http://www.tei-c.org/ns/1.0" key="BOO01">Booth</persName>, Wilkins, <persName xmlns="http://www.tei-c.org/ns/1.0" key="HUN04">R Hunter </persName>and JL.   
+      at his house with <persName key="BOO01">Booth</persName>, Wilkins, <persName key="HUN04">R Hunter </persName>and JL.   
       This is unlikely to be Thomas Lawrence, not least because 
       it is in that year that he first enters 'sir T Lawrence' in the Diary (and that is an adv. at 
       the theatre);  Other Lawrences in 1821 are reasonably consistently associated with 
-      <persName xmlns="http://www.tei-c.org/ns/1.0" key="BOO01">Booth</persName>.  The 1822 Lawrence is at  <persName xmlns="http://www.tei-c.org/ns/1.0" key="BOI02">Boinville's</persName>, but also with 
-      Booth and with <persName xmlns="http://www.tei-c.org/ns/1.0" key="LAM06 LAM07">L and M 
-        Lamb </persName>(children of <persName xmlns="http://www.tei-c.org/ns/1.0" key="LAM05">Dr William Lamb</persName>).  There is then an absence until 1828 when 
-      there are two entries for Lawrence calling with <persName xmlns="http://www.tei-c.org/ns/1.0" key="GOD07">W</persName> (William Godwin junr).</p><p xmlns="http://www.tei-c.org/ns/1.0">Sir Thomas Lawrence died on 7 January 1830. The two subsequent references to 
+      <persName key="BOO01">Booth</persName>.  The 1822 Lawrence is at  <persName key="BOI02">Boinville's</persName>, but also with 
+      Booth and with <persName key="LAM06 LAM07">L and M 
+        Lamb </persName>(children of <persName key="LAM05">Dr William Lamb</persName>).  There is then an absence until 1828 when 
+      there are two entries for Lawrence calling with <persName key="GOD07">W</persName> (William Godwin junr).</p>
+                        <p>Sir Thomas Lawrence died on 7 January 1830. The two subsequent references to 
       Lawrence in 1830 are to his pictures, as is one reference in 1833.  There is also a Jas Lawrence entry in 1833 - 
       an adv linked to the Museum (which suggests a return of James  Lawrence). And 
-      in 1834 there is a single entry for a Lawrence when he dines at Woods, in a party including <persName xmlns="http://www.tei-c.org/ns/1.0" key="SHE02">Mary Shelley</persName> and 
-      <persName xmlns="http://www.tei-c.org/ns/1.0" key="SHE03">Percy junior</persName>.</p><p xmlns="http://www.tei-c.org/ns/1.0">  St Clair identifies James (Chevalier) Lawrence as a friend of <persName xmlns="http://www.tei-c.org/ns/1.0" key="BOI01">Mrs Boinville</persName> (p. 263, 338) 
+      in 1834 there is a single entry for a Lawrence when he dines at Woods, in a party including <persName key="SHE02">Mary Shelley</persName> and 
+      <persName key="SHE03">Percy junior</persName>.</p>
+                        <p>  St Clair identifies James (Chevalier) Lawrence as a friend of <persName key="BOI01">Mrs Boinville</persName> (p. 263, 338) 
       but suggests that Godwin knew him well having met him first in 1796 (there is an entry in the diary for 13 September 1796 
-      where he calls on Mr  J Lawrence), and seeing him regularly at the British Museum.  But the <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> suggests that 
-      James Lawrence had in fact lived entirely on the continent  between 1793 and 1800 so this Lawrence has been left uncoded.</p><p xmlns="http://www.tei-c.org/ns/1.0">On 16 September 1812 Godwin records seeing Jane, Captain Edwards, Lawrence and son, and others.  Neither Thomas or James 
+      where he calls on Mr  J Lawrence), and seeing him regularly at the British Museum.  But the <title>DNB</title> suggests that 
+      James Lawrence had in fact lived entirely on the continent  between 1793 and 1800 so this Lawrence has been left uncoded.</p>
+                        <p>On 16 September 1812 Godwin records seeing Jane, Captain Edwards, Lawrence and son, and others.  Neither Thomas or James 
       Lawrence married or, as 
       far as can be ascertained, had children.  Also William Lawrence (later Sir William) the radical surgeon did not marry until 1828, 
       and it is he that sems to be distinguished by Godwin as Lawrence,surgeon; he also has a brother Charles and it is likely 
       the two who are identified as W and C Lawrence in 1813.   But the Lawrence and son is probably an anomaly - someone Godwin met on 
       his travels, since it is during one of his trips to Minehead and Wales that they appear in the diary. This instance, and other Lawrences which could 
-      not be linked to one of the Lawrences above, have been left uncoded.</p><p xmlns="http://www.tei-c.org/ns/1.0">Godwin records his death.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">MS. Abinger c. 53, fols. 8-10, 16-17, 28-30, 43</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">MS. Abinger c. 54, fol..24</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">MS. Abinger c. 22, fol. 4</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">MS. Abinger c. 15, fol. 39</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">MS. Abinger c. 2, fol. 93</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">MS. Abinger c. 3, fols. 14, 18v-19r, 24</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">MS. Abinger c. 2, fol. 93</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">MS. Abinger c. 15, fols. 40-41</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">MS. Abinger c. 44, fol. 29</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">St Clair</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">D.E. Williams, <title xmlns="http://www.tei-c.org/ns/1.0">The Life and Correspondence of Sir Thomas Lawrence</title>, 2 vols. (London: Henry Colburn and Richard Bentley, 1831)
-  </bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-12-06" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-12-22" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-03-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-05-20" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-05-28" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-06-02" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-06-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-06-16" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-07-22" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-07-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-08-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-09-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-10-06" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-10-11" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-10-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-10-24" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-10-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-11-06" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-11-09" n="notVenue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-11-11" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-12-03" n="venue" type="nah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-04" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-30" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-02-17" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-04-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-05-05" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-05-13" n="notVenue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-05-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-05-21" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-06-27" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-09-14" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-11-03" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-11-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-12-16" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-02-20" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-02-25" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-03-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-04-26" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-07-12" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-09-03" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-11-20" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-11-23" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-12-06" n="venue" type="nah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-01-06" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-02-19" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-03-01" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-03-17" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-04-02" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-04-23" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-05-28" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-06-04" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-07-30" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-08-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-10-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-12-11" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-04-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-05-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-06-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-07-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-10-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-10-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-12-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-12-19" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-01-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-03-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-05-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-05-17" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-06-06" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-06-28" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-08-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-09-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-10-18" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-02-24" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-07-25" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-01-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-01-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-02-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-03-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-06-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-07-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-10-05" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-10-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-10-21" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-12-08" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-02-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-11-07" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-03-08" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-01-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-02-28" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-04-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-07-29" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-01-06" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-07-06" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"><date xmlns="http://www.tei-c.org/ns/1.0" when="1829-10-27" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-01-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-05-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-08-19" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-07-30" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+      not be linked to one of the Lawrences above, have been left uncoded.</p>
+                        <p>Godwin records his death.</p>
+                    </note>
+                    <bibl type="MS">MS. Abinger c. 53, fols. 8-10, 16-17, 28-30, 43</bibl>
+                    <bibl type="MS">MS. Abinger c. 54, fol..24</bibl>
+                    <bibl type="MS">MS. Abinger c. 22, fol. 4</bibl>
+                    <bibl type="MS">MS. Abinger c. 15, fol. 39</bibl>
+                    <bibl type="MS">MS. Abinger c. 2, fol. 93</bibl>
+                    <bibl type="MS">MS. Abinger c. 3, fols. 14, 18v-19r, 24</bibl>
+                    <bibl type="MS">MS. Abinger c. 2, fol. 93</bibl>
+                    <bibl type="MS">MS. Abinger c. 15, fols. 40-41</bibl>
+                    <bibl type="MS">MS. Abinger c. 44, fol. 29</bibl>
+                    <bibl type="printedbook">St Clair</bibl>
+                    <bibl type="printedbook">D.E. Williams, <title>The Life and Correspondence of Sir Thomas Lawrence</title>, 2 vols. (London: Henry Colburn and Richard Bentley, 1831)
+  </bibl>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

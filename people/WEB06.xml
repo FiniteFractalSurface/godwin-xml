@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WEB06" sex="2">
+                    <persName>
+                        <roleName/>
+                        <forename>Jane Wells</forename>
+                        <surname>Webb</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1807">
+                        <placeName/>
+                    </birth>
+                    <death when="1858-07-13"/>
+                    <occupation>Novelists</occupation>
+                    <note type="editorial">
+                        <p> Lisa Tutle writes: Jane Wells Webb was born 19 August 1807 in
+                            Warwickshire. Her father died, leaving her an orphan, in 1824, and she
+                            decided to try to support herself as a writer, moving to London in 1826,
+                            where she may have lived for a time in the household of the artist John
+                            Martin. I don't know how her connection to the Martins came about but
+                            their son, Leopold, wrote that his mother had been almost like a mother
+                            to Jane, who was one of several young female writers in whom she took a
+                            close personal interest. (Another was Emma Roberts; very likely the
+                            "Miss Roberts" from the entry dated 24 March 1834.) In 1827 Jane Webb's
+                            first novel was published: The Mummy! A Tale of the Twenty-Second
+                            Century. It was reprinted the following year (both times anonymously)
+                            and then in 1829 the three-volume Stories of a Bride as "by the
+                            authoress of The Mummy." </p><p>In February 1830 she met the horticulturist
+                            John Claudius Loudon, they were married in September and she abandoned
+                            fiction writing for helping her husband with his work, and writing (and,
+                            later illustrating) books about gardening, such as Gardening for Ladies
+                            (1840) which were extremely popular. She died 13 July 1858. I hope
+                            that's of interest. More about Mrs Loudon can be found in a 1961 biography by Bea Howe, Lady With Green
+                            Fingers) </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

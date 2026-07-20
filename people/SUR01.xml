@@ -1,10 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="SUR01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Thomas Skinner</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Surr</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1770-10"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1847-02-15"/><occupation xmlns="http://www.tei-c.org/ns/1.0">novelist</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0"> According to the <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>, Thomas Skinner Surr
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="SUR01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Thomas Skinner</forename>
+                        <surname>Surr</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1770-10">
+                        <placeName/>
+                    </birth>
+                    <death when="1847-02-15"/>
+                    <occupation>novelist</occupation>
+                    <occupation/>
+                    <note type="editorial">
+                        <p> According to the <title>DNB</title>, Thomas Skinner Surr
 (1770-1847), novelist,
 married Miss Griffiths, sister-in-law 
-of <persName xmlns="http://www.tei-c.org/ns/1.0" key="PHI01">Sir Richard Phillips</persName> (1767–1840). 
+of <persName key="PHI01">Sir Richard Phillips</persName> (1767–1840). 
 Surr (or the Surrs) appears with Philips regularly throughout the diary between 1801 and 1819 and in 1807 Godwin also reads Surr.
 At Philips's on 31 Aug 1806 Godwin dines with 'T Moore, Wolcot, Busby, Raymonds, Saxon, 
 Magnys, Cooper, Hardy and Surrs; adv.
  Thorntons, Browns, and Batty and Keys'.
-There is no mention of Surr in the Godwin biographies.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>.
-</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-11-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-12-20" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-04-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-05-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-07-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-08-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-08-17" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-10-24" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-12-17" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-04-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-07-17" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-10-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-10-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-12-18" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-01-06" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-01-19" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-03-31" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-04-14" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-07-19" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-02-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-08-31" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-12-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-12-11" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-05-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-06-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-12-30" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-01-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-05-01" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-02-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-02-17" n="notVenue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-02-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-02-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-03-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-08-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-09-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-11-21" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-11-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-11-30" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-12-06" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-12-19" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-12-22" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-01-02" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-01-23" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-02-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-03-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-03-23" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-03-31" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-05-03" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-05-10" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-05-25" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-05-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-05-31" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-06-01" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-06-05" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-06-12" n="notVenue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-07-24" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-02-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-11-16" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"><date xmlns="http://www.tei-c.org/ns/1.0" when="1815-08-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1815-11-23" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"><date xmlns="http://www.tei-c.org/ns/1.0" when="1819-03-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1819-06-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1819-10-03" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"><date xmlns="http://www.tei-c.org/ns/1.0" when="1820-09-20" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-04-29" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+There is no mention of Surr in the Godwin biographies.</p>
+                    </note>
+                    <bibl type="other"><title>DNB</title>.
+</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

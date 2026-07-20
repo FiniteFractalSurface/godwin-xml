@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="FOR04" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename/>
+                        <surname>Forbes</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p> There's an issue about whether entries to Forbes rather than Granard are
+                            referring to the same of different people. Ed Pope identifies the
+                            following possible candidates for Forbes.</p><p>Possibly George John
+                            Forbes, Viscount Forbes Hist of Parl 1785-1836, son of Earl Granard and
+                            nephew of Lord Moira, a Whig who went over to government around 1812
+                            except on the Catholic question where he always supported Catholic
+                            relief. Possibly Charles Fergusson Forbes DNB 1779-1852 surgeon or his
+                            father William Forbes 1753-1818 surgeon will PCC 1818 his widow's will
+                            PCC 1825 Elizabeth Forbes formerly Buxton. The family were Independents
+                            from Coggeshall, Essex and Charles's sister Anna married the Rev George
+                            Laurie in 1812 (see Laurie). There are probably other possibilities.
+                            </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

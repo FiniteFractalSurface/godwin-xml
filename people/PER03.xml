@@ -1,37 +1,85 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="PER03" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Joseph Clinton</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Robertson</surname><addName xmlns="http://www.tei-c.org/ns/1.0">pseudonym Sholto Percy</addName></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1788"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1852-09-22"/><occupation xmlns="http://www.tei-c.org/ns/1.0">journal editor</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">writer</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">This identification is doubtful, but there is an important issue about distinguishing the individual Percy from
-   Godwin's son-in-law <persName xmlns="http://www.tei-c.org/ns/1.0" key="SHE01">Percy Bysshe Shelley</persName>.</p><p xmlns="http://www.tei-c.org/ns/1.0">We currently have a tentative identification of Joseph Clinton
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="PER03" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Joseph Clinton</forename>
+                        <surname>Robertson</surname>
+                        <addName>pseudonym Sholto Percy</addName>
+                    </persName>
+                    <birth when="1788">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1852-09-22"/>
+                    <occupation>journal editor</occupation>
+                    <occupation>writer</occupation>
+                    <note type="editorial">
+                        <p>This identification is doubtful, but there is an important issue about distinguishing the individual Percy from
+   Godwin's son-in-law <persName key="SHE01">Percy Bysshe Shelley</persName>.</p>
+                        <p>We currently have a tentative identification of Joseph Clinton
   Robertson, pseud. Sholto Percy). But there is no hard evidence for any relationship and it is unusual for Godwin to refer
-  to anyone by their pseudonym. Moreover, the <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> suggests that
+  to anyone by their pseudonym. Moreover, the <title>DNB</title> suggests that
   Robertson didn't achieve literary success until the 1820s and didn't adopt the Sholto Percy
-  pseudonym until he began writing <title xmlns="http://www.tei-c.org/ns/1.0">The Percy Anecdotes</title> in 1821 - yet the majority of Godwin's refs to
+  pseudonym until he began writing <title>The Percy Anecdotes</title> in 1821 - yet the majority of Godwin's refs to
   a 'Percy' come several years before this.    There was both Reuben and Sholto Percy,
   Reuben being a pseudonym for Thomas Byerley - and there seems no reason to privilege Sholto over
-  Reuben. </p><p xmlns="http://www.tei-c.org/ns/1.0"> There are nine refs to Percy when Shelley and Mary are in Marlow. Six of them fall within a
+  Reuben. </p>
+                        <p> There are nine refs to Percy when Shelley and Mary are in Marlow. Six of them fall within a
   fornight in May 1817 . It is possible that this is a period when Shelley is back in London, but it is very odd
   for G to refer to someone by two different names, even if the way the two names crop up side by side is
   uncanny. We have left the following coded for Sholto or Reuben Percy
-  12.5.1817 'Write to Shelley .... Percy calls na' <lb xmlns="http://www.tei-c.org/ns/1.0"/>
-  13.5.1817 'Call on .... Percy (with Ogilvie)' <lb xmlns="http://www.tei-c.org/ns/1.0"/>
-  14.5.1817 'Percy  calls' <lb xmlns="http://www.tei-c.org/ns/1.0"/>
-  17.5.1817 'Percy calls' <lb xmlns="http://www.tei-c.org/ns/1.0"/>
-  21.5.1817 'Percy calls' <lb xmlns="http://www.tei-c.org/ns/1.0"/>
-  (23.5.1817 'Percy calls: Shelleys dine' <lb xmlns="http://www.tei-c.org/ns/1.0"/>
-    26.5.1817 'Percy calls .... Shelley departs' <lb xmlns="http://www.tei-c.org/ns/1.0"/>
-  (29.5.1817 'meet M and Percy' <lb xmlns="http://www.tei-c.org/ns/1.0"/>
-  4.7.1817 'Write to Shelley .... Percy calls' <lb xmlns="http://www.tei-c.org/ns/1.0"/>
-  17.1.1818 'Write to Shelley .... Percy calls' <lb xmlns="http://www.tei-c.org/ns/1.0"/>
-  28.1.1818 'Percy calls', has written to Shelley  the prev day. <lb xmlns="http://www.tei-c.org/ns/1.0"/>
- 27.12.1821, 28.12.1821, 2.1.1822 Shelleys are in Italy so cannot be PBS. <lb xmlns="http://www.tei-c.org/ns/1.0"/>
-  9.1.1826 Percy dines - no basis for thinking this is P S junior <lb xmlns="http://www.tei-c.org/ns/1.0"/>
+  12.5.1817 'Write to Shelley .... Percy calls na' <lb/>
+  13.5.1817 'Call on .... Percy (with Ogilvie)' <lb/>
+  14.5.1817 'Percy  calls' <lb/>
+  17.5.1817 'Percy calls' <lb/>
+  21.5.1817 'Percy calls' <lb/>
+  (23.5.1817 'Percy calls: Shelleys dine' <lb/>
+    26.5.1817 'Percy calls .... Shelley departs' <lb/>
+  (29.5.1817 'meet M and Percy' <lb/>
+  4.7.1817 'Write to Shelley .... Percy calls' <lb/>
+  17.1.1818 'Write to Shelley .... Percy calls' <lb/>
+  28.1.1818 'Percy calls', has written to Shelley  the prev day. <lb/>
+ 27.12.1821, 28.12.1821, 2.1.1822 Shelleys are in Italy so cannot be PBS. <lb/>
+  9.1.1826 Percy dines - no basis for thinking this is P S junior <lb/>
   Although there is something striking about the overlap for those few weeks in 1817, it seems highly improbable
   that Godwin is using both Percy and Shelley to refer to the same person.  Of particular note is that
   Shelley departs on 26 May 1817, but he meets Percy on 29 May, and MWS departs on 31 May.  This
   suggests that Shelley has left and that MWS stays on a few days, and that the Percy has no connection with
-  either. </p><p xmlns="http://www.tei-c.org/ns/1.0">1.1.1824, 31.1.1824 <persName xmlns="http://www.tei-c.org/ns/1.0" key="SHE03">Percy jr</persName> only four years old so very unlikely to be him as both
+  either. </p>
+                        <p>1.1.1824, 31.1.1824 <persName key="SHE03">Percy jr</persName> only four years old so very unlikely to be him as both
   are 'Percy calls' From 1826 Percy has been consistently coded as Percy jr, who is seven
   this year. I think this is right and that we have good grounds for thinking that from this point
-  on (around 100 refs 1826-36) Godwin uses Percy to refer to his grandson - for ex., appears with <persName xmlns="http://www.tei-c.org/ns/1.0" key="SHE02">MWS</persName>
+  on (around 100 refs 1826-36) Godwin uses Percy to refer to his grandson - for ex., appears with <persName key="SHE02">MWS</persName>
   in a lot of entries and we know that on 27.3.1828 'Percy to Slater' refs to Percy jr entering
   Edward Slater's Gentlemen's Academy, Church Street, Kensington. These entries 
   refer to Percy jr .  There are quite a lot of Percy entries dining alone with Godwin (at the Godwin's) but the majority of entries 
-  show a connection to Mary Wollstonecraft-Shelley. On that basis they should be coded for him, but not before 1826.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-05-12" n="notVenue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-05-13" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-05-14" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-05-17" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-05-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-05-23" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-05-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-05-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-07-04" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"><date xmlns="http://www.tei-c.org/ns/1.0" when="1818-01-17" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1818-01-28" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-12-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-12-28" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"><date xmlns="http://www.tei-c.org/ns/1.0" when="1822-01-02" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-01-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-01-31" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"><date xmlns="http://www.tei-c.org/ns/1.0" when="1826-01-09" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+  show a connection to Mary Wollstonecraft-Shelley. On that basis they should be coded for him, but not before 1826.</p>
+                    </note>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

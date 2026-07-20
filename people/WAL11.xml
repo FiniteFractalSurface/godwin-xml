@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>MP</resp>
+                    <name/>
+                </respStmt>
+
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WAL11" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>FIRSTNAME</forename>
+                        <surname>Walthausen</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName/>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p> This seems to be a family whom Godwin is trying to assist to secure a
+                            pension either for the mother, or to have it transferred to the children
+                            after the mother's demise. The mother, Sophie Henriette Christiane,
+                            Baroness Walthausen swore an affadavit on the 24th of December 1813 in
+                            Hanover (Einbeir), following the death of her husband Charles Frederick
+                            William de Walthausen, a Captain in the 8th Battalion of the line of the
+                            King's German legion, in Sicily on the 9th of April 1813, affirming the
+                            validity of their marriage (in 1803)and her status as a widow. The
+                            Lieutenant General supported the request. It is unclear how Godwin knew
+                            them and became involved, but the close succession of visiting; the
+                            correspondence with Basil Montague (a lawyer), Godwin's writing for
+                            the family, were all clearly part of a campaign to secure
+                            acknowledgement of the Captain's service and his widow's rights.
+                            received by </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

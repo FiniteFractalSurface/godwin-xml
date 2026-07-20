@@ -1,25 +1,77 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="POO01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Thomas</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Poole</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1766-11-14"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1837-09-08"/><occupation xmlns="http://www.tei-c.org/ns/1.0">tanner</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Probably Thomas Poole, (1766–1837), tanner and 
-friend of <persName xmlns="http://www.tei-c.org/ns/1.0" key="COL01">Samuel Taylor Coleridge</persName>. Poole appears about 150 times between 1802 and
-1834. </p><p xmlns="http://www.tei-c.org/ns/1.0">Poole initially appears with Coleridge and Godwin meets them on several occasions 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="POO01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Thomas</forename>
+                        <surname>Poole</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1766-11-14">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1837-09-08"/>
+                    <occupation>tanner</occupation>
+                    <note type="editorial">
+                        <p>Probably Thomas Poole, (1766–1837), tanner and 
+friend of <persName key="COL01">Samuel Taylor Coleridge</persName>. Poole appears about 150 times between 1802 and
+1834. </p>
+                        <p>Poole initially appears with Coleridge and Godwin meets them on several occasions 
 during what was probably a brief visit to London (perhaps en route to Europe) by Poole.  Godwin then writes to him twice that year.
 There is no entry for the following year.  The 1804 entries are plausibly linked to Coleridge. But there is no further Poole entry until 1811, 
-and this is then a Poole (probably with <persName xmlns="http://www.tei-c.org/ns/1.0" key="TAY01">John Taylor</persName>) at the theatre who is likely to be 
- John Poole the dramatist (whose <title xmlns="http://www.tei-c.org/ns/1.0">Hamlet Traverstie</title> had appeared in 1810).
-There are then a number of calls from and on Poole and some links with Poole at <persName xmlns="http://www.tei-c.org/ns/1.0" key="COL01">Coleridge's</persName> Lectures for 1812.  
+and this is then a Poole (probably with <persName key="TAY01">John Taylor</persName>) at the theatre who is likely to be 
+ John Poole the dramatist (whose <title>Hamlet Traverstie</title> had appeared in 1810).
+There are then a number of calls from and on Poole and some links with Poole at <persName key="COL01">Coleridge's</persName> Lectures for 1812.  
  That it is Coleridge suggests Thomas Poole, but 
-the <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> suggests that meetings between Coleridge and Poole after 1802 were few, and they seem to be linked to Somerset, not London.  
- On that basis it seems more likely that it is<persName xmlns="http://www.tei-c.org/ns/1.0" key="POO02"> John Poole</persName> to whom Godwin refers after 1810 and the entries have been coded as such.  See the letter from John Poole to 
+the <title>DNB</title> suggests that meetings between Coleridge and Poole after 1802 were few, and they seem to be linked to Somerset, not London.  
+ On that basis it seems more likely that it is<persName key="POO02"> John Poole</persName> to whom Godwin refers after 1810 and the entries have been coded as such.  See the letter from John Poole to 
  Godwin confirming arrangements for Godwin to eat a 'bad supper' with him on Thursday 26th. If this went ahead it seems to have been 
- on the 26th of September 1833. It is also clear from <persName xmlns="http://www.tei-c.org/ns/1.0" key="LAM01">Lamb's</persName> jounral that he knew John Poole in Paris in 1822 and there seems a link 
- at that time to the <persName xmlns="http://www.tei-c.org/ns/1.0" key="KEN01 HOL05 ">Kenneys</persName>, and many later entries are linked to the Kenneys.  Also, the Poole entries seem to match with Poole's stint in France.  
+ on the 26th of September 1833. It is also clear from <persName key="LAM01">Lamb's</persName> jounral that he knew John Poole in Paris in 1822 and there seems a link 
+ at that time to the <persName key="KEN01 HOL05 ">Kenneys</persName>, and many later entries are linked to the Kenneys.  Also, the Poole entries seem to match with Poole's stint in France.  
  Godwin also writes to Poole, and it is difficult to be certain that this is to J Poole, but he makes no effort to identify T Poole, and 
- that suggests that he thinks of the Poole entries after 1810 as the same person.  According to St Clair, Godwin approached Thomas Poole for money in 1812.</p><p xmlns="http://www.tei-c.org/ns/1.0">There is also one mention of a Sir W Poole (1825) and Edw Poole in 1831.
+ that suggests that he thinks of the Poole entries after 1810 as the same person.  According to St Clair, Godwin approached Thomas Poole for money in 1812.</p>
+                        <p>There is also one mention of a Sir W Poole (1825) and Edw Poole in 1831.
 
 There is also a wax portrait artist Poole – Thomas R. Poole (floruit 1787-1814) who is the artist of 4 portraits medallions in the National Portrait Gallery. But
-we have no basis for associating him with particular entries.</p><p xmlns="http://www.tei-c.org/ns/1.0">Among the Abinger Manusripts there is a printed proposal, dated 1828, to publish the Letters, Critical, Philological 
-and Literary of the Eighteenth Century, by <persName xmlns="http://www.tei-c.org/ns/1.0" key="POO03">Edward Richard Poole</persName>, BA, Trinity Hall, Cambridge. On the last 
+we have no basis for associating him with particular entries.</p>
+                        <p>Among the Abinger Manusripts there is a printed proposal, dated 1828, to publish the Letters, Critical, Philological 
+and Literary of the Eighteenth Century, by <persName key="POO03">Edward Richard Poole</persName>, BA, Trinity Hall, Cambridge. On the last 
 blank leaf Poole has written to Godwin, complicating matters by writing first horitontally across the page, 
 and then writing over that lengthways.  This seems to be the E. Poole whom Godwin first notes in 1828, and whom he seems to
 differentiate clearly from his older associate John Poole (whom he continus to see in theatrial circles, at the Kenney's, and so on).
-He continues to see E Poole occasionally until 1833.</p><p xmlns="http://www.tei-c.org/ns/1.0">Ct Poole 1803 (is not coded) and probably refers to a Captain Poole</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Mrs H. Sandford (Margaret E. Poole Sandford), <title xmlns="http://www.tei-c.org/ns/1.0">Thomas Poole and his friends</title>2 vols. (1888)</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">St Clair, p. 548.</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Richard Holmes<title xmlns="http://www.tei-c.org/ns/1.0">Coleridge: Darker Reflections</title>(London: HarperCollins, 1998).
- </bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">MS Abinger c. 15, fol. 66: n.d.</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-01-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-01-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-01-30" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-02-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-02-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-03-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-06-05" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-01-27" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-02-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-05-24" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+He continues to see E Poole occasionally until 1833.</p>
+                        <p>Ct Poole 1803 (is not coded) and probably refers to a Captain Poole</p>
+                    </note>
+                    <bibl type="printedbook">Mrs H. Sandford (Margaret E. Poole Sandford), <title>Thomas Poole and his friends</title>2 vols. (1888)</bibl>
+                    <bibl type="printedbook">St Clair, p. 548.</bibl>
+                    <bibl type="printedbook">Richard Holmes<title>Coleridge: Darker Reflections</title>(London: HarperCollins, 1998).
+ </bibl>
+                    <bibl type="MS">MS Abinger c. 15, fol. 66: n.d.</bibl>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

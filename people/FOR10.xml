@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="FOR10" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Elias</forename>
+                        <surname>Fordham</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Farmer</occupation>
+                    <note type="editorial">
+                        <p> This seems to be Elias Fordham of Cambridgeshire, but also of Royston,
+                            Herts. Ed Pope points towards a connection to Henry Crabve Robinson,
+                            through being witnesses to his brothers marriage. There is
+                            correspondence with Forham in the AAbinger collection - relating to
+                            Godwin giving an account, in November 1811,of what he sees as the
+                            different characters of Fanny and Mary Godwin. There is also a letter
+                            in 1822 commenting on a poem/tragedy written by Fordham. </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

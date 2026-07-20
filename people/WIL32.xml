@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WIL32" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>James</forename>
+                        <surname>Wilmot</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName/>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation>Stationer and bookseller</occupation>
+                    <note type="editorial">
+                        <p>James Wilmott and Robert Hill, stationers and booksellers 50 High-st
+                            Borough trading as Wilmott and Hill from 1801 to 1812 (bbti). The two
+                            Hills are coded to Thomas Hill in the GD website, but look closely at
+                            the syntax. Godwin would have had to cross London Bridge to make these
+                            calls. The next instances of Wilmot are all at Walking Stewart's, so
+                            quite likely to have been a different Wilmot </p></note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

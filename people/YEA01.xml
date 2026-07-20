@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+                
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="YEA01" sex="2">
+                    <persName>
+                        <roleName/>
+                        <forename>Ann</forename>
+                        <surname>Yearsley</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1753">
+                        <placeName/>
+                    </birth>
+                    <death when="1806"/>
+                    <occupation>Poet and deliverer of milk -- see DNB. Godwin calls on her while in Bristol.</occupation>
+                    <note type="editorial">
+                        <p>  </p>
+                    </note>
+                </person>
+                </listPerson>
+        </body>
+    </text>
+</TEI>
+
+
+                

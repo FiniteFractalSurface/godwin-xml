@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="FLI01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Peter</forename>
+                        <surname>Flindt</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Seaman</occupation>
+                    <note type="editorial">
+                        <p>Perhaps Capt Peter Flindt. Hull Packet 19.5.1801 and 26.5.1801 The Rostock
+                            hoy Anna Dorothea Capt Peter Flindt for Bremen is now loading and will
+                            sail the 28th instant, Daniel Boileau High St. Trewmans Exeter Flying
+                            Post 4.6.1807 430 bales of Spanish wools to be sold at Bordeaux cargo of
+                            Economie of Hamburg capt Flindt wrecked. Gustavus Flindt naturalised by
+                            Act of Parliament 1805 bankrupt of Old Broad St 1821 (Nat Arch B3/1721).
+                            George Flindt and Co merchants London Morning Post 10.12.1807 Caledonian
+                            Mercury 24.2.1812 and 29.2.1812 The Russian ship Fortuna, Flindt, from
+                            London to Charleston put into St Thomas's 7th ult with loss of bowsprit,
+                            foremast, mizenmast and maintopmast, also leaky. She was blown from the
+                            coast of America, has been condemned and sold. Morning Chronicle
+                            9.11.1812 Flindt v Reed, case re ship referred to. Lancaster Gazette
+                            29.5.1813 Hebe J L Flindt arrived from Rostock with wheat and oats.
+                            Morning Post 1.7.1818 Paul Anthony Flindt late of Bath died 28.6.1818.
+                            Just Peter Amelo Flindt from Finland naturalised 1845 (Nat Arch
+                            HO1/20/163) </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

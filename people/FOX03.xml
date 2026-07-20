@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>MP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="FOX03" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>William Johnson</forename>
+                        <surname>Fox</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1786">
+                        <placeName/>
+                    </birth>
+                    <death when="1864"/>
+                    <occupation>Orator, Minister, South Place Chapel, editor of the Unitarian
+                        Monthly Repository</occupation>
+                    <note type="editorial">
+                        <p> On 18 November 1827, Godwin notes 'hear Fox' - it is a Sunday. In 1835,
+                            one of the contacts is Fox (Finsbury), again on a Sunday, suggesting a
+                            service. This, and the circles in which he encounters Fox after 1827
+                            makes it likely that this is the Minister William Johnson Fox, who
+                            played a major role in Unitarian circles. </p>
+                        <p>See https://heritage.humanists.uk/william-johnson-fox/</p><p>DNB</p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

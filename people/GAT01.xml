@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="GAT01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Capt. John</forename>
+                        <surname>Gatecliff</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>shipowner</occupation>
+                    <note type="editorial">
+                        <p> Jackson's Oxford Journal 17.4.1802 Captain John Gatecliff of Hull = at
+                            Beverley Minster miss Atkinson of Beverly Park / Hull Packet 30.7.1805
+                            died 24.7.1805 aged 70 widow of Mr Gatecliff shipowner of Hull / 1807
+                            Captain Gatecliff captured by the French / a rare name so quite likely
+                            to have been the Captain from Hull. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other"><title/></bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

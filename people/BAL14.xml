@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Person List</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Generated data</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="BAL14" sex="1">
+               <persName>
+                  <roleName/>
+                  <forename>Edward</forename>
+                  <surname>Ball</surname>
+                  <addName/>
+               </persName>
+               
+               <birth when="1000-01-01">
+                  <placeName/>
+               </birth>
+               <death when="1000-01-01"/>
+               <occupation>Unknown</occupation>
+               <note type="editorial">
+                  <p>Edward Ball was a tenant of no. 20 on Primrose Street in 1803 and 1804. This was one of Wollstonecraft’s houses that Godwin was looking after. He was mentioned in Godwin’s letter to James Wollstonecraft on 5 September 1805 which says "Ball I have got rid of by the intervention of the Lord Mayor".
+                  </p>
+               </note>
+            </person> </listPerson>
+      </body>
+   </text>
+</TEI>

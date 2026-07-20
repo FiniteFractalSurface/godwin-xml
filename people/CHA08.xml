@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name></name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="CHA08" sex="1">
+                    <persName>
+                        <roleName>Sir</roleName>
+                        <forename>Francis Leggatt</forename>
+                        <surname>Chantry</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1781-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1841-12-31"/>
+                    <occupation>Sculptor</occupation>
+                    <note type="editorial">
+                        <p>Sir Chantry was the sone of a Shefffield carpenter.  He moved to London in 1802, where he was a sculptor and painter, and an exhibitor in the RA in 1804-7. 
+                            Increasngly focused on scuplture whose busts in cluded George III and John Philpot Curran. The latter currently resides in Oxford.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>DNB</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title></title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
+

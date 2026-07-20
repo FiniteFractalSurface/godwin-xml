@@ -1,12 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="BOD02" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Samuel</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Boddington</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1766-06-19"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1843-04-19"/><occupation xmlns="http://www.tei-c.org/ns/1.0">West Indies Merchant and Irish Politician</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Married to Grace Ashburner, whom he met 
-    at <persName xmlns="http://www.tei-c.org/ns/1.0" key="MOR03">George Cadogan Morgan's</persName> home; she later eloped with his cousin 
-    Benjamin Boddington.  After Grace's departure, their children lived for a time with the Morgans.</p><p xmlns="http://www.tei-c.org/ns/1.0">The Boddington family held large estates in the West Indies and Samuel had been left a fortune 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="BOD02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Samuel</forename>
+                        <surname>Boddington</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1766-06-19">
+                        <placeName/>
+                    </birth>
+                    <death when="1843-04-19"/>
+                    <occupation>West Indies Merchant and Irish Politician</occupation>
+                    <note type="editorial">
+                        <p>Married to Grace Ashburner, whom he met 
+    at <persName key="MOR03">George Cadogan Morgan's</persName> home; she later eloped with his cousin 
+    Benjamin Boddington.  After Grace's departure, their children lived for a time with the Morgans.</p>
+                        <p>The Boddington family held large estates in the West Indies and Samuel had been left a fortune 
      by his father who had been a director of the South Sea Company as well as a West India merchant 
-     with offices at Mark Lane.  After his wife left, Samuel approached his friend, <persName xmlns="http://www.tei-c.org/ns/1.0" key="SHA02">Richard Sharp</persName> (politician), 
+     with offices at Mark Lane.  After his wife left, Samuel approached his friend, <persName key="SHA02">Richard Sharp</persName> (politician), 
      a fellow Dissenter, fellow member of the Fishmongers' Company, and both mutual 
-     friends of <persName xmlns="http://www.tei-c.org/ns/1.0" key="ROG01">Samuel Rogers</persName>, asking if he would join him in business, 
+     friends of <persName key="ROG01">Samuel Rogers</persName>, asking if he would join him in business, 
     and eventually a West India company of Boddington, Sharp and Philips (George Philips) was established 
     at 17 Mark Lane. Both Boddington and Philips (later Sir George Philips) followed Sharp's example and became dissenting Whig members of Parliament. 
-  Boddington was Member of Parliament (MP) for Tralee from January to May 1807.</p><p xmlns="http://www.tei-c.org/ns/1.0">There is a question about the relationship between <persName xmlns="http://www.tei-c.org/ns/1.0" key="BOD01">John Boddington</persName> and Samuel.  Occasions linked to Amelia Alderson have been coded for John; occasions 
-  linked to Morgan, Sharp and Rogers have been linked to Samuel.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0"/></bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Mary Ann Constantine and Paul Frame (eds) <title xmlns="http://www.tei-c.org/ns/1.0">A World of New Ideas: The Travels 
-    of George Cadogan Morgan in France and of Richard Price Morgan in America</title>, Cardiff, University of Wales Press, 2012</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-07-29" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-02-16" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-02-12" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-06-09" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-01-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-10-10" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-11-09" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-08-03" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-02-25" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"><date xmlns="http://www.tei-c.org/ns/1.0" when="1814-05-19" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-04-01" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+  Boddington was Member of Parliament (MP) for Tralee from January to May 1807.</p>
+                        <p>There is a question about the relationship between <persName key="BOD01">John Boddington</persName> and Samuel.  Occasions linked to Amelia Alderson have been coded for John; occasions 
+  linked to Morgan, Sharp and Rogers have been linked to Samuel.</p>
+                    </note>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                    <bibl type="printedbook">Mary Ann Constantine and Paul Frame (eds) <title>A World of New Ideas: The Travels 
+    of George Cadogan Morgan in France and of Richard Price Morgan in America</title>, Cardiff, University of Wales Press, 2012</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name>Elliot Buck</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="MAC24" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Edward</forename>
+                        <surname>Mackmurdo</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1757">
+                        <placeName/>
+                    </birth>
+                    <death when="1817"/>
+                    <occupation>Printer</occupation>
+                    <note type="editorial">
+                        <p> This identification is tentative, however it can be assumed that 'MacMurdo' was a mispelling of Mackmurdo, owing to Edward Longdon Mackmurdo. </p>
+                    </note>
+                    <bibl type="other">
+                        <title>Ed Pope</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
+

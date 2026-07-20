@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Person List</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Generated data</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="BAK11" sex="1">
+               <persName>
+                  <roleName/>
+                  <forename>Robert</forename>
+                  <surname>Bakewell</surname>
+                  <addName/>
+               </persName>
+               
+               <birth when="1767">
+                  <placeName/>
+               </birth>
+               <death when="1843"/>
+               <occupation>mineral and land surveyor</occupation>
+               <note type="editorial">
+                  <p>Robert Bakewell was a mineral and land surveyor of Bury Street Saint James. He lived from 1767 to 1843, living in Hampstead at his time of death. His second wife was Esther, sister of Henry Hinckley who was one of Charles Aldis’ regular guests. His youngest son was Frederick Collier, born 1800. It is not confirmed that he was the guest at Mrs Gaskell.
+                  </p>
+               </note>
+            </person> </listPerson>
+      </body>
+   </text>
+</TEI>

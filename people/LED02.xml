@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Person List</title>
+            <respStmt>
+               <resp>Researched by</resp>
+               <name>EP</name>
+            </respStmt>
+            <respStmt>
+               <resp>Encoded by</resp>
+               <name>SI</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Generated Data</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="LED02" sex="1">
+               <persName>
+                  <forename>Edward</forename>
+                  <surname>Ledwich</surname>
+               </persName>
+               <birth when="1739-03-29">
+                  <placeName>Dublin</placeName> </birth>
+               <death when="1823-08-08"> 
+                  <placeName>Dublin</placeName></death>
+               <occupation>Antiquary</occupation>
+               <note type="editorial">
+                  <p>Edward Ledwich DNB 1739-1823</p>
+                  <p>Edward Ledwich lived mostly in Ireland. However, he spent time in London and in 1791 had joined the Whig Club of Gerrard Street, giving a London address. He was a Fellow of the Society of Antiquaries, alongside <persName key="NOR04">Northmore</persName> who he was often with when Godwin saw him.  </p>
+               </note>
+               <bibl type="website">Ed Pope History (04/08/2012)</bibl>
+               <bibl type="other">DNB</bibl>
+            </person>
+         </listPerson>
+      </body>   
+   </text>   
+</TEI>

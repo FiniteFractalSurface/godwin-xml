@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Person List</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Generated data</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="CRO10" sex="1">
+               <persName>
+                  <roleName/>
+                  <forename>George</forename>
+                  <surname>Croly</surname>
+                  <addName/>
+               </persName>
+               
+               <birth when="1780-08-17">
+                  <placeName/>
+               </birth>
+               <death when="1860-11-24"/>
+               <occupation>clergyman</occupation>
+               <occupation>writer</occupation>
+               <note type="editorial">
+                  <p>George Croly was born in Ireland, and was a writer and Anglican clergyman. He attended Trinity College Dublin and was an orator in the College Historical Society. He is best known for the supernatural novel, Tarry Thou Till I come, published in 1827. Whilst he was ordained into the Church of Ireland in 1804, he focused on writing. He moved to London in 1811, alongside his mother and siblings.
+                     Later in his life, he became a clergyman in 1832 in the parish of Romford in Essex and later in St Stephen Walbrook in London. Croly criticised Roman Catholicism throughout his life, advocating conversion to Protestantism, and was an imperialist.                         </p>
+               </note>
+            </person> </listPerson>
+      </body>
+   </text>
+</TEI>

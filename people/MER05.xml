@@ -1,8 +1,43 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="MER05" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Charles André </forename><surname xmlns="http://www.tei-c.org/ns/1.0">Mercier</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1741"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1823"/><occupation xmlns="http://www.tei-c.org/ns/1.0">engraver, art dealer, newspaper editor</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0"> Charles André Mercier is the brother of Louis Sebastian Mercier.
-  Holcroft met <persName xmlns="http://www.tei-c.org/ns/1.0">Charles André </persName>, 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="MER05" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Charles André </forename>
+                        <surname>Mercier</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1741">
+                        <placeName/>
+                    </birth>
+                    <death when="1823"/>
+                    <occupation>engraver, art dealer, newspaper editor</occupation>
+                    <note type="editorial">
+                        <p> Charles André Mercier is the brother of Louis Sebastian Mercier.
+  Holcroft met <persName>Charles André </persName>, 
   when Mercier was running a hotel in Paris in 1783. Charles André
     settled in England between 1795 and 1799, and his famiy seem to have remained in England until his return in 1802.  
-    Charles André's daughter <persName xmlns="http://www.tei-c.org/ns/1.0" key="HOL05">Louisa Mercier-Holcroft</persName>became Holcroft's fourth wife. 
+    Charles André's daughter <persName key="HOL05">Louisa Mercier-Holcroft</persName>became Holcroft's fourth wife. 
   Entries to Mercier are coded for Charles André rather than for his brother, except in 1791, when we know that 
   Charles André comes in October, but not in May. The May entries (coupled with the 
   rather unuaul prominence of the first entry 'Mercier arrives') suggests that these entries refeer to L S Mercier). Otherwise 
@@ -12,6 +47,15 @@
   The literature suggests that Charles André had at least three children, 
   Charles, Louisa and another daughter who married Charles-Michel Le Cronier and who settled in London.
   The other entries in the diary are to Charlotte, Charles, C,  T and E (1799), C and B (1803), B (1806), E (1809, 1812), and Ad. Mercier (1814).  We have coded the 
-  Charles and C entries as <persName xmlns="http://www.tei-c.org/ns/1.0" key="MER06">Mercier's son Charles</persName>.  At least one other may be Mercier's wife, and another may be the second daughter.
-  </p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other">Patrick Michel,<title xmlns="http://www.tei-c.org/ns/1.0">Le commerce du tableau à Paris dans le seconde moitié du XVIIIe siècle</title>(Villeneuve d'Ascq, 2008)</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">F. Baldenspperger, <title xmlns="http://www.tei-c.org/ns/1.0">Notes sur un frere de Sebastien Mercier</title>, <title xmlns="http://www.tei-c.org/ns/1.0">Revue d'histoire litteraire de la France</title>, 19 (1912) pp. 411-13</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">T. Vincent Benn, <title xmlns="http://www.tei-c.org/ns/1.0">Charles Andre Mercier et sa part aux ouvrages de son frere Lous Sebastien</title>, <title xmlns="http://www.tei-c.org/ns/1.0">Revue d'histoire litteraire de la France</title>
-  34, (1927) 582-88.</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"><date xmlns="http://www.tei-c.org/ns/1.0" when="1788-10-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1788-10-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1788-10-24" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1788-11-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1788-11-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1788-11-09" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"><date xmlns="http://www.tei-c.org/ns/1.0" when="1792-04-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1792-11-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1792-11-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1792-12-09" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-02-03" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-05-28" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-08-04" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-03-23" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-04-30" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-05-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-05-30" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-06-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-06-26" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-07-06" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-08-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-08-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-09-05" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-10-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-10-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-12-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-12-30" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-02-15" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-11-21" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-04-21" n="notVenue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-05-06" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-05-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-05-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-05-23" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-09-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-10-20" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-09-02" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"><date xmlns="http://www.tei-c.org/ns/1.0" when="1814-06-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1814-07-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1814-09-11" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"><date xmlns="http://www.tei-c.org/ns/1.0" when="1815-06-11" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"><date xmlns="http://www.tei-c.org/ns/1.0" when="1819-04-15" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+  Charles and C entries as <persName key="MER06">Mercier's son Charles</persName>.  At least one other may be Mercier's wife, and another may be the second daughter.
+  </p>
+                    </note>
+                    <bibl type="other">Patrick Michel,<title>Le commerce du tableau à Paris dans le seconde moitié du XVIIIe siècle</title>(Villeneuve d'Ascq, 2008)</bibl>
+                    <bibl type="printedbook">F. Baldenspperger, <title>Notes sur un frere de Sebastien Mercier</title>, <title>Revue d'histoire litteraire de la France</title>, 19 (1912) pp. 411-13</bibl>
+                    <bibl type="printedbook">T. Vincent Benn, <title>Charles Andre Mercier et sa part aux ouvrages de son frere Lous Sebastien</title>, <title>Revue d'histoire litteraire de la France</title>
+  34, (1927) 582-88.</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

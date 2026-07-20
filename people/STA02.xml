@@ -1,5 +1,48 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="STA02" sex="2"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0">Baroness</roleName><forename xmlns="http://www.tei-c.org/ns/1.0">Germaine</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Stael von Holstein</surname><addName xmlns="http://www.tei-c.org/ns/1.0"> Anne-Louise, née Necker, Germaine de Stael</addName></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1766-04-22"><placeName xmlns="http://www.tei-c.org/ns/1.0">France</placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1817-07-14"/><occupation xmlns="http://www.tei-c.org/ns/1.0">writer</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">intellectual</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Mme de Stael visits England in 1813. Her former lover Benjamin Constant
-    had begun a translation of <title xmlns="http://www.tei-c.org/ns/1.0">Political Justice</title> that was not completed and there is a suggestion
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="STA02" sex="2">
+                    <persName>
+                        <roleName>Baroness</roleName>
+                        <forename>Germaine</forename>
+                        <surname>Stael von Holstein</surname>
+                        <addName> Anne-Louise, née Necker, Germaine de Stael</addName>
+                    </persName>
+                    <birth when="1766-04-22">
+                        <placeName>France</placeName>
+                    </birth>
+                    <death when="1817-07-14"/>
+                    <occupation>writer</occupation>
+                    <occupation>intellectual</occupation>
+                    <note type="editorial">
+                        <p>Mme de Stael visits England in 1813. Her former lover Benjamin Constant
+    had begun a translation of <title>Political Justice</title> that was not completed and there is a suggestion
     that they had collaborated on this. It is notable that when Constant visits England 18 months
     later he does not meet Godwin and probably does not attempt to visit him - it is likely that Mme de Stael's correspondence 
-    gave clear guidance on who was, or was not, worth meeting!</p><p xmlns="http://www.tei-c.org/ns/1.0">Godwin also notes her death.</p></note><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-09-17" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-10-05" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-10-16" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-10-18" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-11-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-12-06" n="venue" type="nah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-07-15" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    gave clear guidance on who was, or was not, worth meeting!</p>
+                        <p>Godwin also notes her death.</p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

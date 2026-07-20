@@ -1,16 +1,62 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="WOL06" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Charles</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Wollstonecraft</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1770"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1817"/><occupation xmlns="http://www.tei-c.org/ns/1.0">soldier</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">farmer</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">businessman</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">army officer</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Brother of <persName xmlns="http://www.tei-c.org/ns/1.0" key="WOL01">Mary</persName>; identification doubtful.
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WOL06" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Charles</forename>
+                        <surname>Wollstonecraft</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1770">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1817"/>
+                    <occupation>soldier</occupation>
+                    <occupation>farmer</occupation>
+                    <occupation>businessman</occupation>
+                    <occupation>army officer</occupation>
+                    <note type="editorial">
+                        <p>Brother of <persName key="WOL01">Mary</persName>; identification doubtful.
     The Diary records three entries:  - one 1 May 1800 'theatre,
     w. Ml  and F and Cha W'   the second on 1 January 1806, 
-    which is ' Write to Chas Wt'; and a further 'write to' in April 1806.</p><p xmlns="http://www.tei-c.org/ns/1.0">According to Janet Todd's biography of Mary Wollstonecraft, Charles 
-  had been intended to go to America with <persName xmlns="http://www.tei-c.org/ns/1.0" key="BAR02">Joel Barlow</persName> and his wife.  
+    which is ' Write to Chas Wt'; and a further 'write to' in April 1806.</p>
+                        <p>According to Janet Todd's biography of Mary Wollstonecraft, Charles 
+  had been intended to go to America with <persName key="BAR02">Joel Barlow</persName> and his wife.  
   There was some delay, but he seems to be in America by 1792/3.
   There is correspondence with Wollstonecraft, informing her that he 
   had made his fortune, but he seems to have lost it subsequently through 
-  a calico venture with <persName xmlns="http://www.tei-c.org/ns/1.0" key="ROW01">Hamilton Rowan</persName>. He joined the American army in 1800.
+  a calico venture with <persName key="ROW01">Hamilton Rowan</persName>. He joined the American army in 1800.
   It is possible he visits London in 1800 and sees Godwin, and it seems 
   likely that it is to him Godwin writes in 1806. But there is no hard evidence 
   to support the attribution. For the second and third entries there is the characteristic use 
   of Wt by Godwin for his first wife's family.  But the first entry is not wholly 
   improbable - there is nobody else Godwin is seeing at that time to whom he 
   refers in any similar way - and Godwin would be most likely to use the 
-  forename and an abbreviated surname for someone who was family, even if a relative stranger.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Janet Todd, <title xmlns="http://www.tei-c.org/ns/1.0">Mary Wollstonecraft: A Revolutionary Life</title> (2000, paperback edn. London: Phoenix Press, 2001).</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-05-01" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-01-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-04-01" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+  forename and an abbreviated surname for someone who was family, even if a relative stranger.</p>
+                    </note>
+                    <bibl type="printedbook">Janet Todd, <title>Mary Wollstonecraft: A Revolutionary Life</title> (2000, paperback edn. London: Phoenix Press, 2001).</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

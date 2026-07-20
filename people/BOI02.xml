@@ -1,4 +1,93 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="BOI02" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Chastel</forename><surname xmlns="http://www.tei-c.org/ns/1.0">De Boinville</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1000"/><occupation xmlns="http://www.tei-c.org/ns/1.0">soldier</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">The Boinville family had a long association with the Godwins. Chastel de Boinville married <persName xmlns="http://www.tei-c.org/ns/1.0" key="BOI01">Harriet Boinville</persName> whose 
-      father had been involved in Godwin's and <persName xmlns="http://www.tei-c.org/ns/1.0" key="MAR01">Marshall's</persName> ventures in the West Indies in the 1780s. Harriet became an 
-      enthusiastic disciple of the New Philosophy and the families became close in the 1800s. The Boinvilles were close friends of the <persName xmlns="http://www.tei-c.org/ns/1.0" key="NEW01">Newtons</persName>, 
-      another family of fervent Godwinians.</p><p xmlns="http://www.tei-c.org/ns/1.0">For a fuller discussion see <persName xmlns="http://www.tei-c.org/ns/1.0" key="BOI01">Harriet Boinville</persName></p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">St Clair</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-05-08" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-10-21" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-01-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-01-28" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-04-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-04-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-07-06" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-07-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-10-13" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-10-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-10-31" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-12-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-12-11" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-04-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-05-19" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-09-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-10-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-10-30" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-10-31" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"><date xmlns="http://www.tei-c.org/ns/1.0" when="1822-03-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1822-03-20" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="BOI02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Jean Baptiste</forename>
+                        <surname>Boinville</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1757-07-15">
+                        <placeName>Metz, France </placeName>
+                    </birth>
+                    <death when="1813-02-17"/>
+                    <occupation>soldier</occupation>
+                    <note type="editorial">
+                        <p>The Boinville family had a long association with the Godwins. John
+                            Baptiste Boinville’s father-in-law, John Collins, had been involved in
+                            Godwin’s and Marshall’s ventures in the 1780s in the West Indies (see MS
+                            Abinger, 1784 letters). In 1793 Jean Baptiste eloped with Harriet
+                            Collins to Gretna Green, Scotland. He remarried her across the border in
+                            England, at the insistence of her father, to ensure the legality of any
+                            heirs. The couple had two children: Cornelia Boinville born in 1793 and
+                            Alfred Boinville born in 1795 (see biography of Harriet Boinville,
+                            17-19; 25-26, 33). </p>
+                            <p>Like his wife, Harriet Boinville, Jean Baptiste
+                            admired Godwin. Cornelia Newton and John Frank Newton (his wife’s sister
+                            and brother-in-law) were also fervent Godwinians (St. Clair, 263). Jean
+                            Baptiste’s important role in the French Revolution was closely connected
+                            to General Lafayette. He served as his aide-de-campe in the Paris
+                            National Guard and later went to London for him on a secret diplomatic
+                            mission (see Cameron, 244-245). While Lafayette was imprisoned in
+                            Austria for five years, Jean Baptiste was among the people who tried,
+                            without success, to win his release. He was freed in 1797 by Napoleon’s
+                            advancing armies. Jean Baptiste is mentioned by name in a letter of
+                            thanks Lafayette wrote from prison, now preserved in George Washington’s
+                            papers (see biography of Harriet Boinville, 38; Shelley and His Circle,
+                            III: 276). </p>
+                        <p>Jean Baptiste used Boinville (rather than Chastel de Boinville) the
+                            last name used by later generations of the family. See the memoir of his
+                            grandson Charles (Constable) as well as the letter Jean Baptiste wrote
+                            his compatriot Alexandre d’Arblay (MS Berg), congratulating him on his
+                            marriage to the writer Frances Burney. In 1810 and again in 1812, Jean
+                            Baptiste assisted Frances Burney d’Arblay in her efforts to leave Paris
+                            and return to England (see biography of Harriet Boinville, 62-63, 65-67;
+                            and Burney, 154, 133, 167). Jean Baptiste crossed the Channel many times
+                            during the French Revolutionary and Napoleonic Wars. Appointed Directeur
+                            de Vivres in Napoleon’s army, with responsibilities for provisioning the
+                            troops, he died after the retreat from Moscow as a prisoner-of war
+                            (Shelley and His Circle, 276). </p>
+                        <p>Bibliography MS Abinger c. 1, fols.
+                            16-18; Mrs. James M. Marshall to Godwin, 4 September 1874; Godwin’s
+                            reply, 6 September 1874. MS Berg. Original letter in French by Jean
+                            Baptiste Boinville to Alexandre d’Arblay, 24 September 1793. The Henry
+                            W. and Albert A. Berg Collection of English and American Literature, The
+                            New York Public Library, Astor, Lenox and Tilden Foundations. Burney,
+                            Fanny. Fanny Burney: Selected Letters and Journals, ed. Joyce Hemlow.
+                            Oxford University Press, 1987. Cameron, Kenneth Neill. The Young
+                            Shelley: Genesis of a Radical. Collier Books, 1992. Constable, Thomas.
+                            Memoir of the Reverend Charles A. Chastel de Boinville Compiled from his
+                            Journals and His Letters. London: James Nesbitt and Co., 1880. de
+                            Boinville, Barbara. At the Center of the Circle: Harriet de Boinville
+                            (1773-1847) and the Writers She Influenced During Europe’s Revolutionary
+                            Era. New Academia Publishing, 2023. Shelley and His Circle 1773-1822,
+                            ed. Kenneth Neill Cameron. Harvard University Press, 1970, vol. 3. St.
+                            Clair, William. The Godwins and The Shelleys: A Biography of a Family.
+                            Norton, 1989. </p>
+                    </note>
+                    <bibl type="printedbook">St Clair</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

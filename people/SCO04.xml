@@ -1,8 +1,54 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="SCO04" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Thomas Hobbes</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Scott</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1783-04-17"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1860-01-01"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Younger brother of Lady Oxford  (née Jane Scott, 1772-1824, married Edward Harley, 5th Earl of Oxford, in 1794), mother of one of Sir Francis Burdett's
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="SCO04" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Thomas Hobbes</forename>
+                        <surname>Scott</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1783-04-17">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1860-01-01"/>
+                    <occupation/>
+                    <occupation/>
+                    <note type="editorial">
+                        <p>Younger brother of Lady Oxford  (née Jane Scott, 1772-1824, married Edward Harley, 5th Earl of Oxford, in 1794), mother of one of Sir Francis Burdett's
     illegitimate children, brother of William Scott, against whom Burdett took out a law suit in
-    1811 for the recovery of a loan of £5,000.  </p><p xmlns="http://www.tei-c.org/ns/1.0">Hobbes Scott was a protege of Tooke's. He eventually 
-    became Archdeacon of New South Wales.  The entry in the <title xmlns="http://www.tei-c.org/ns/1.0">Australian Dictionary of Biography</title> for 
+    1811 for the recovery of a loan of £5,000.  </p>
+                        <p>Hobbes Scott was a protege of Tooke's. He eventually 
+    became Archdeacon of New South Wales.  The entry in the <title>Australian Dictionary of Biography</title> for 
         Thomas Hobbes Scott gives his date of birth as 1783 and suggests that 'when his father died in 1794, T. H. Scott received 
         no inheritance, but he went to France, became a vice-consul at Bordeaux and went bankrupt as a wine merchant. '  It seems improbable 
-        that he went to France at the age of 11, unless it was with his parents.  On the other hand, he had four brothers and it is possible that there is some confusion with the activities of these.</p><p xmlns="http://www.tei-c.org/ns/1.0">If he was born in 1783 then he is appearing at Horne Tooke's dinner table from the age of thirteen or fourteen (which is possible). 
-    The first two entries are to 'Scotts' and we are inferring his presence. His first clear identification is on2 July 1797. </p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">Australian Dictionary of Biography</title>, http://adbonline.anu.edu.au/</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">J. Ann Hone,  <title xmlns="http://www.tei-c.org/ns/1.0">For the Cause of Truth</title>, p. 141.</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-09-18" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-05-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-07-02" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-01-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-04-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-04-23" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-05-27" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-04-14" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-06-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-12-01" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-05-18" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-06-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-09-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-10-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-10-25" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-03-15" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-02-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-12-04" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-02-17" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-06-09" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-03-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-10-10" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-07-03" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+        that he went to France at the age of 11, unless it was with his parents.  On the other hand, he had four brothers and it is possible that there is some confusion with the activities of these.</p>
+                        <p>If he was born in 1783 then he is appearing at Horne Tooke's dinner table from the age of thirteen or fourteen (which is possible). 
+    The first two entries are to 'Scotts' and we are inferring his presence. His first clear identification is on2 July 1797. </p>
+                    </note>
+                    <bibl type="other"><title>Australian Dictionary of Biography</title>, http://adbonline.anu.edu.au/</bibl>
+                    <bibl type="printedbook">J. Ann Hone,  <title>For the Cause of Truth</title>, p. 141.</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

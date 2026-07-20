@@ -1,38 +1,89 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="PAR99" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0"/><surname xmlns="http://www.tei-c.org/ns/1.0">Parry</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1000"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">All but one of the entries for Parry is in the 1790s, starting in 1795 during Godwin's trip to Warwickshire. However,
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="PAR99" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename/>
+                        <surname>Parry</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName/>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation/>
+                    <note type="editorial">
+                        <p>All but one of the entries for Parry is in the 1790s, starting in 1795 during Godwin's trip to Warwickshire. However,
       Parry features in the 1796 lists under the year 1797. This might be a mistake: although 1797 is the first year with lots of contacts, 
       there are also several in 1795 and 1796. In fact, it suggests that  the 1797 entry demarcates a particularly distinguished Parry - in 
       which case this is likely to be Caleb Hillier Parry (because of the work with Jenner and Hunter, and his links with Burke). 
       This seems most probable - and suggests that we have at least three Parrys in the Diary: Dr Caleb Hillier Parry (1755-1822), his 
-      eldest son Charles Henry Parry (1779-1860), and a probably unrelated John Parry (dates unknown).</p><p xmlns="http://www.tei-c.org/ns/1.0"> It is not clear who the Parry of 1795 and 1796 is (associated in the 1795 entries with Warwickshire) and we do not know enough about John Parry to
+      eldest son Charles Henry Parry (1779-1860), and a probably unrelated John Parry (dates unknown).</p>
+                        <p> It is not clear who the Parry of 1795 and 1796 is (associated in the 1795 entries with Warwickshire) and we do not know enough about John Parry to
       say that he is a likely member of Parr's Wariwickshire circles, although that is possible.  If we assume this then it is possible that the 1797 
       entries are to a mix of  Caleb and Charles. Caleb's practice in Bath would 
       preclude long periods in London, but it does seem that he visits and is entertained by Hocroft, 
-      with whom he is in correspondence. Other entries may be to his son - who , although only 18, might have become involved in London political and literary circles. </p><p xmlns="http://www.tei-c.org/ns/1.0"> The entries after 1797 include many in conjunction with Holcroft and Holcroft's diary (after 1797) refers to Dr Parry,
+      with whom he is in correspondence. Other entries may be to his son - who , although only 18, might have become involved in London political and literary circles. </p>
+                        <p> The entries after 1797 include many in conjunction with Holcroft and Holcroft's diary (after 1797) refers to Dr Parry,
       with the substance of the entries making clear that he is the physician. Caleb's wife (Charles's
       mother) Sarah, was a sister of Edward Rigby, writer and doctor of Norwich, who is also in the diary. It 
       is clear that Godwin knows several members of the family . The index for the 1925 ed. of Holcroft's diary implies that John Parry and Parry Junr are the same person, but it 
       I think the editors have conflated two different people - a distinction which Holcroft's notation endeavours 
       seems clear they are not..  Indeed, Holcroft has entries that are clearly to J Parry  and, indeed, John Parry.  Similarly, Godwin has a few entries for J/Jas/Jo/John Parry but most are plain Parry. 
-    </p><p xmlns="http://www.tei-c.org/ns/1.0"> Holcroft's Diary does confirm Parry junr at Debrett's in July 1798 and later.  According to the <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>, 
+    </p>
+                        <p> Holcroft's Diary does confirm Parry junr at Debrett's in July 1798 and later.  According to the <title>DNB</title>, 
       he then studied 'at Göttingen—in 1799 he was one of Samuel Taylor Coleridge's companions in the Harz 
       Mountains'. Back in Britain, he lived in Edinburgh, Cirencester and Bath, which is where his father was
       based. He did not marry until 1809, so the frequent refs to 'Parrys' probably refer to his father and brothers,Frederick or William (although they are still rather young in the 1790s - 
       although William goers to sea at 13, so it may be that Parry encouraged a certain precocity and independence in his children. The two entries, in 1797 and 1798, for Mrs Parry, 
       are likely to Caleb's wife Sarah.  One dinner with Holdroft on
       23 November 1799, 'dine at Parry's, Hammersmith , w. mrs Rigby...' , suggests further proof of the identification
-      because of the Parry-Rigby link.</p><p xmlns="http://www.tei-c.org/ns/1.0"> 17 October 1799, 'Parry's (K B P) , w. H Tooke, Curran, Morgan + Malkin', refers to King's Bench Prison.  
+      because of the Parry-Rigby link.</p>
+                        <p> 17 October 1799, 'Parry's (K B P) , w. H Tooke, Curran, Morgan + Malkin', refers to King's Bench Prison.  
       In February 1799 Holcroft notes that Parry jun., is given to hope for a verdict in his favour by Erskine. 
       (Note, this is Parry jun. in Holcroft's Diary, not John Parry, which strongly suggests that John Parry is Parry jun.)).
       The True Briton (1793) (London, England), Tuesday, March 5, 1799, reports that John Parry, as the proprietor 
-      of <title xmlns="http://www.tei-c.org/ns/1.0">The Courier</title> had been found guilty of publishing a libel on the Emperor of Russia.  Parry then  
+      of <title>The Courier</title> had been found guilty of publishing a libel on the Emperor of Russia.  Parry then  
       seems to have been committed to the King's Bench Prison in May 1799 awaiting sentence, which was passed later than month, with 
       Parry being committed to the King's Bench Prison for 6 months (Morning Chronicle (London, England), Friday, May 31, 1799).  
       John Parry, then, is clearly in the Diary, the difficulty is separating out his entries from those to others.
-      It seems likely that references to Parry in 1799 will refer to J Parry (given Charles Parry's presence in Germany).</p><p xmlns="http://www.tei-c.org/ns/1.0">It might seem possible that John Parry is a continuing presence and that it is he (and possibly his wife, if he had one) that makes 
-      up the entries. But this makes the sudden introduction of the use of the forename John for some entries in 1799 very puzzling.</p><p xmlns="http://www.tei-c.org/ns/1.0">This suggests that there is a good deal of potential confusion over the entries and that references to 
+      It seems likely that references to Parry in 1799 will refer to J Parry (given Charles Parry's presence in Germany).</p>
+                        <p>It might seem possible that John Parry is a continuing presence and that it is he (and possibly his wife, if he had one) that makes 
+      up the entries. But this makes the sudden introduction of the use of the forename John for some entries in 1799 very puzzling.</p>
+                        <p>This suggests that there is a good deal of potential confusion over the entries and that references to 
       Parry should be treated with care.  What is surprising is how little attempt Godwin makes at differentiation between these contending Parrys.
       It is possible that this is because they are all related - that John might be a younger son of Jacob Parry (father to Caleb) and that 
       references to junr are in fact references to John (as Holcroft's Diary suggests).  If this is so then it seems less likely that Godwin would have met 
-      Charles. Like Holcroft, his contact may have been limited to the elder and younger brothers (if that is what they are) Caleb and John. </p><p xmlns="http://www.tei-c.org/ns/1.0">Because of the difficulty of clear identification and differentiation most Parry entries are coded for this generic file. Cases where a particular
-      identification seems more likely  are coded for the individuals but these need treating with caution and should be read alongside the generic entries. </p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Thomas Holcroft, <title xmlns="http://www.tei-c.org/ns/1.0">The life of Thomas Holcroft, continued by William 
-    Hazlitt</title>, ed. by Elbridge Colby, 2 vols (London: Constable &amp; Co., 1925) </bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Richard Holmes, <title xmlns="http://www.tei-c.org/ns/1.0">Coleridge: Early Visions</title> (London: Hodder and Stoughton, 1989)</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other">See <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-06-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-07-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-07-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-07-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-07-06" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-05-23" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-09-14" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-01-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-01-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-02-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-02-05" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-02-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-02-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-03-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-03-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-03-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-03-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-03-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-04-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-05-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-05-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-05-24" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-06-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-06-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-06-21" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-06-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-07-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-11-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-12-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-12-14" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-01-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-01-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-01-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-02-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-03-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-03-24" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-04-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-04-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-05-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-05-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-07-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-08-05" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-08-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-10-09" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-04-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-10-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-11-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-11-23" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-12-05" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-12-05" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+      Charles. Like Holcroft, his contact may have been limited to the elder and younger brothers (if that is what they are) Caleb and John. </p>
+                        <p>Because of the difficulty of clear identification and differentiation most Parry entries are coded for this generic file. Cases where a particular
+      identification seems more likely  are coded for the individuals but these need treating with caution and should be read alongside the generic entries. </p>
+                    </note>
+                    <bibl type="printedbook">Thomas Holcroft, <title>The life of Thomas Holcroft, continued by William 
+    Hazlitt</title>, ed. by Elbridge Colby, 2 vols (London: Constable &amp; Co., 1925) </bibl>
+                    <bibl type="printedbook">Richard Holmes, <title>Coleridge: Early Visions</title> (London: Hodder and Stoughton, 1989)</bibl>
+                    <bibl type="other">See <title>DNB</title></bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,6 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="HAM01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><forename xmlns="http://www.tei-c.org/ns/1.0">Archibald</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Hamilton</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1719"><placeName xmlns="http://www.tei-c.org/ns/1.0">Scotland</placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1793-03-09"/><occupation xmlns="http://www.tei-c.org/ns/1.0">printer</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">publisher</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Hamilton became the publisher of the <title xmlns="http://www.tei-c.org/ns/1.0">Critical Review</title> in 1758 and took over the journal's editorship from Tobias Smollett in 1763. He was friendly with 
-David Garrick, Samuel Johnson, and Oliver Goldsmith.</p><p xmlns="http://www.tei-c.org/ns/1.0">Although there are three Archibald Hamiltons, all of whom were printers, grandfather (d. 9 March 1793), father (who predeceases him, 6 October 1792) and two son (dates unknown: Archibald and Samuel), the identification 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="HAM01" sex="1">
+                    <persName>
+                        <forename>Archibald</forename>
+                        <surname>Hamilton</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1719">
+                        <placeName>Scotland</placeName>
+                    </birth>
+                    <death when="1793-03-09"/>
+                    <occupation>printer</occupation>
+                    <occupation>publisher</occupation>
+                    <note type="editorial">
+                        <p>Hamilton became the publisher of the <title>Critical Review</title> in 1758 and took over the journal's editorship from Tobias Smollett in 1763. He was friendly with 
+David Garrick, Samuel Johnson, and Oliver Goldsmith.</p>
+                        <p>Although there are three Archibald Hamiltons, all of whom were printers, grandfather (d. 9 March 1793), father (who predeceases him, 6 October 1792) and two son (dates unknown: Archibald and Samuel), the identification 
 can be ascertained by the entry of 28 Aug 1791 when Godwin notes
-his age being 71 - corresponding with the <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>.</p><p xmlns="http://www.tei-c.org/ns/1.0">Hamilton appears with <persName xmlns="http://www.tei-c.org/ns/1.0" key="ROB01">Robinson</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0" key="HOL01">Holcroft</persName> and 
-  <persName xmlns="http://www.tei-c.org/ns/1.0" key="NIC01">Nicholson</persName> but as the diary goes on the meetings seem to become less intimate and more related to business
-(letters and calls instead of dinners). For entries after Archibald Hamilton's death see <persName xmlns="http://www.tei-c.org/ns/1.0" key="HAM03">Samuel Hamilton</persName>.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"><date xmlns="http://www.tei-c.org/ns/1.0" when="1788-06-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1788-07-14" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1788-08-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1788-09-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1788-10-24" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1788-11-04" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1788-11-07" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1788-11-17" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1788-12-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1788-12-22" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"><date xmlns="http://www.tei-c.org/ns/1.0" when="1789-01-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1789-01-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1789-01-24" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1789-03-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1789-03-09" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1789-04-05" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1789-04-06" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1789-06-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1789-08-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1789-11-10" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"><date xmlns="http://www.tei-c.org/ns/1.0" when="1790-01-18" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1790-02-10" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"><date xmlns="http://www.tei-c.org/ns/1.0" when="1791-08-28" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+his age being 71 - corresponding with the <title>DNB</title>.</p>
+                        <p>Hamilton appears with <persName key="ROB01">Robinson</persName>, <persName key="HOL01">Holcroft</persName> and 
+  <persName key="NIC01">Nicholson</persName> but as the diary goes on the meetings seem to become less intimate and more related to business
+(letters and calls instead of dinners). For entries after Archibald Hamilton's death see <persName key="HAM03">Samuel Hamilton</persName>.</p>
+                    </note>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

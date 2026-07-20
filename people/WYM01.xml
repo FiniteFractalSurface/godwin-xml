@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WYM01" sex="2">
+                    <persName>
+                        <roleName/>
+                        <forename>FIRSTNAME</forename>
+                        <surname>Wyman</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName/>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>These entries can be read as Godwin wavering between using mrs or not for
+                            one female, or as alternating between a male and a female Wyman, in this
+                            case perhaps a widow and her stepson (see below).. Only London entry for
+                            Wyman in Holdens directory 1811 Francis Wyman calenderer 71 Queen-st
+                            Cheapside. (A calenderer smoothed paper or cloth by pressing it through
+                            rollers). SunFire: 1811 Mary Wyman and Henry Dover 19 Wellington-st
+                            Pentonville / 1821 Paul Wyman 1 King-st Goswell-st broker of household
+                            goods / 1824 William Wyman 87 Goswell-st silversmith Old Bailey
+                            11.4.1810 Robert Wyman shoemaker 51 Grays Inn-lane partner Joseph
+                            Hodges. </p>p><p> Francis Wyman married Mary Dover 1788 at Aston
+                            Birmingham. His will PCC 1792 callenderer of Queen-st Cheapside
+                            mentioned his wife Mary and son Francis John (1763-1845) </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

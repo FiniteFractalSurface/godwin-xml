@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Heron, Robert</title>
+            <respStmt>
+               <resp>Encoded by</resp>
+               <name>EP and SI</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Generated Data</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="HER02" sex="1">
+               <persName>
+                  <forename>Robert</forename>
+                  <surname>Heron</surname>
+               </persName>
+               <birth when="1764-11-06"><placeName>New Galloway, Kirkcudbrightshire</placeName></birth>
+               <death when="1807-04-13"><placeName>London, England</placeName></death>
+               <occupation>Writer</occupation>
+               <note type="editorial">
+                  <p>Robert Heron was a Scottish writer who moved to London in 1799 and was the Editor of Globe, British press and a parliamentary reporter. In 1806 he founded a newspaper called The Fame, which was unsuccessful. After spending time in Newgate prison for debt, he fell ill and died in St Pancras Hospital. </p>
+               </note>
+               <bibl type="website">Ed Pope History (1/11/2013)</bibl>
+               <bibl type="other">DNB</bibl>
+               <!--<ab type="appearancesInDiary" n="1803">
+                  <date when="1803-10-28" n="notVenue" type="ah"/>
+               </ab>
+               <ab type="appearancesInDiary" n="1805">
+                  <date when="1805-02-22" n="notVenue" type="ah"/>
+                  <date when="1805-02-27" n="notVenue" type="ah"/>
+               </ab>
+               <ab type="appearancesInDiary" n="1806">
+                  <date when="1806-09-18" n="notVenue" type="ah"/>
+               </ab>-->
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

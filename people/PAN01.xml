@@ -1,6 +1,54 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="PAN01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0">Sir</roleName><forename xmlns="http://www.tei-c.org/ns/1.0">Anthony</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Panizzi</surname><addName xmlns="http://www.tei-c.org/ns/1.0">Antonio Genesio Maria</addName></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1797-09-16"><placeName xmlns="http://www.tei-c.org/ns/1.0">Italy</placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1879-04-08"/><occupation xmlns="http://www.tei-c.org/ns/1.0">Italian emigre</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">reformer</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">teacher</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">librarian</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Antonio Genesio Maria
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="PAN01" sex="1">
+                    <persName>
+                        <roleName>Sir</roleName>
+                        <forename>Anthony</forename>
+                        <surname>Panizzi</surname>
+                        <addName>Antonio Genesio Maria</addName>
+                    </persName>
+                    <birth when="1797-09-16">
+                        <placeName>Italy</placeName>
+                    </birth>
+                    <death when="1879-04-08"/>
+                    <occupation>Italian emigre</occupation>
+                    <occupation>reformer</occupation>
+                    <occupation>teacher</occupation>
+                    <occupation>librarian</occupation>
+                    <note type="editorial">
+                        <p>Antonio Genesio Maria
     Panizzi went into exile in 1823, came to England, taught in Liverpool, 
     was befriended by William Roscoe, and then through Henry Brougham 
     was made Professor of Italian Literature in University of London in 1828. He
-    became librarian of the Britih Museum Library in 1857.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook"> Maurizio Isabella, <title xmlns="http://www.tei-c.org/ns/1.0">Risorgimento in Exile: Italian Émigrés and the Liberal International in the Post-Napoleonic 
-    Era</title> (Oxford: Oxford University Press, 2009) p. 239. </bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"><date xmlns="http://www.tei-c.org/ns/1.0" when="1829-04-07" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1829-04-11" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1829-04-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1829-10-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1829-10-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1829-11-17" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-01-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-06-23" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    became librarian of the Britih Museum Library in 1857.</p>
+                    </note>
+                    <bibl type="printedbook"> Maurizio Isabella, <title>Risorgimento in Exile: Italian Émigrés and the Liberal International in the Post-Napoleonic 
+    Era</title> (Oxford: Oxford University Press, 2009) p. 239. </bibl>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

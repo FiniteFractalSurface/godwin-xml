@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="BLA09" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Dr William</forename>
+                        <surname>Blackburne</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Doctor</occupation>
+                    <note type="editorial">
+                        <p>17.2.1789 Blackburne at Hollis' and 24.2.1789, 16.3.1789, Mr Blackburne
+                            22.4.1789 there, Dr Blackburne 1.5.1789 at House of Commons, Blackburne
+                            9.6.1789 and 19.1.1790 at Hollis', 14.1.1796 Blackburnes at Newton's.
+                            William Blackburne MD of Spring Gardens and Mr William Blackburn of St
+                            Olaves, Southwark both appear in a list of subscribers to Hackney
+                            College 1788. Dr B (Monk's Roll 25.10.1755 to 9.4.1835) was a member of
+                            the Unitarian Society 1791, and son of Francis Blackburne DNB 1705-87.
+                            Mr B was a surveyor and architect DNB 1750-90 and a member of the
+                            Society for the Abolition of the Slave Trade 1788.  </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

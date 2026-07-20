@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="VAN01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>George</forename>
+                        <surname>Vanderzee</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1766">
+                        <placeName/>
+                    </birth>
+                    <death when="1837"/>
+                    <occupation>Clerk and Antiquary</occupation>
+                    <note type="editorial">
+                        <p> George Vanderzee, side clerk, Kings Remembrancer's office, Exchequer,
+                            (La2w list 1800) became fellow of Society of Antiquaries 14.1.1796 of 2
+                            Brick Court, Middle Temple, married 24.5.1798 St Mary Newington Mary daughter
+                            of the late G D Hammond Esq of Lawling Hall, Essex. George Vanderzee buried
+                            10.4.1837 age 71 St Pancras will PCC 1837. His family of Billericay
+                            Essex, various PCC wills, James V attorney Billericay, Daniel V London
+                            merchant bankrupt 1803, John V master in Chancery 1793 etc. </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

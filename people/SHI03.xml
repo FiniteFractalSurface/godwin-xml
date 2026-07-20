@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="SHI03" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Wiliam Davies</forename>
+                        <surname>Shipley</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1745">
+                        <placeName/>
+                    </birth>
+                    <death when="1826"/>
+                    <occupation>Anglican clergyman</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope: 5.1.1789 Shipley at B Hollis' / 7.3.1789 there. Shipley was
+                            in 1794 version of Godwin's 1796 list at start of 1789 but left out of
+                            1796 version. William Davies Shipley DNB 1745-1826 Dean of St Asaph but
+                            a defender of dissent, or possibly his uncle William Shipley DNB
+                            1715-1803 but he lived in Maidstone and claimed to have hardly visited
+                            London between 1791 and 1796</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

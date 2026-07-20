@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="GAU01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Thomas</forename>
+                        <surname>Gaugain</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1756">
+                        <placeName/>
+                    </birth>
+                    <death when="1810"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p> Most likely Thomas Gaugain DNB 1756? - 1810? or his brother Peter John Gaugain DNB1762-1813 </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication, Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other"><title>DNB</title></bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

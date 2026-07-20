@@ -1,14 +1,62 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="MEY01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Anthony</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Meyler</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1000"/><occupation xmlns="http://www.tei-c.org/ns/1.0">lecturer</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">scientist, </occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Closely associated with <persName xmlns="http://www.tei-c.org/ns/1.0" key="CUR01">Curran</persName>.  Godwin seems to use Meyler/Dr Meyler interchangeably, he reads a text by him ('Meyler, cala'), and the contacts 
-    peak 1816-17. First seven contacts, 1809-12, are all letters. These are not in MS Abinger scans.  None of the evidence points to this being Richard Meyler, M.P.</p><p xmlns="http://www.tei-c.org/ns/1.0">This is someone who is not usually resident in London, but who Godwin corresponds with
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="MEY01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Anthony</forename>
+                        <surname>Meyler</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation>lecturer</occupation>
+                    <occupation>scientist, </occupation>
+                    <note type="editorial">
+                        <p>Closely associated with <persName key="CUR01">Curran</persName>.  Godwin seems to use Meyler/Dr Meyler interchangeably, he reads a text by him ('Meyler, cala'), and the contacts 
+    peak 1816-17. First seven contacts, 1809-12, are all letters. These are not in MS Abinger scans.  None of the evidence points to this being Richard Meyler, M.P.</p>
+                        <p>This is someone who is not usually resident in London, but who Godwin corresponds with
     and then who spends time in London autumn 1816-17. Given the frequent conjunction with Curran and Denis
     Lubé, it is perhaps likely to be someone Irish. Tentatively, we might identify this person as Anthony Meyler,
     who seems to have had diverse interests: in 1815 he lectured on electrochemistry at the Dublin Institution 
     (Enda Leaney, '“Evanescent Impressions”: Public Lectures and the Popularization of Science in Ireland, 
-    1770–1860', <title xmlns="http://www.tei-c.org/ns/1.0">Éire-Ireland</title>), 'in 1819, Dr. Anthony Meyler delivered a 
-    course of lectures on ventilation, and was invited to deliver another on meteorology' (<title xmlns="http://www.tei-c.org/ns/1.0">A History of the Royal
-    Dublin Society</title>, 1915), he published <title xmlns="http://www.tei-c.org/ns/1.0">Observations on Ventilation</title> (1822) and in 1838 published <title xmlns="http://www.tei-c.org/ns/1.0">Irish 
+    1770–1860', <title>Éire-Ireland</title>), 'in 1819, Dr. Anthony Meyler delivered a 
+    course of lectures on ventilation, and was invited to deliver another on meteorology' (<title>A History of the Royal
+    Dublin Society</title>, 1915), he published <title>Observations on Ventilation</title> (1822) and in 1838 published <title>Irish 
     Tranquillity Under Mr O'Connell</title>.  Meyler is clearly in the UK in 1816 and 1817. In 1816 he was appointed to give a course 
     of lectures on the Philosophy of Chemistry at the Russel Institution (see The Morning Chronicle (London, England), Monday, December 23, 1816). The first was 
     delivered on Friday 7 February 1817 to be followed by regular lectures on Tuesdays and Fridays.  Godwin does not seem to have attended,
-    perhaps because of the guinea and a half subscription required. The Morning Chronicle (London, England), Monday, April 14, 1817, declared the lectures a great success.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other">Enda Leaney, ‘“Evanescent Impressions”: Public Lectures and the Popularization of Science in Ireland, 1770–1860’ in <title xmlns="http://www.tei-c.org/ns/1.0">Éire-Ireland</title>, 
-  43.3/4 (Fall/Winter 2008) 157-82</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other">Henry Fitzpatrick Berry, <title xmlns="http://www.tei-c.org/ns/1.0">A History of the Royal Dublin Society</title> (London, 1915).</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="journalism"><title xmlns="http://www.tei-c.org/ns/1.0">Morning Chronicle</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-08-01" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-01-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-07-30" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-12-05" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-03-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-07-22" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-01-25" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-08-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-09-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-09-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-11-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-11-29" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-12-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-12-23" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-01-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-01-05" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-01-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-01-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-02-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-03-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-05-08" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    perhaps because of the guinea and a half subscription required. The Morning Chronicle (London, England), Monday, April 14, 1817, declared the lectures a great success.</p>
+                    </note>
+                    <bibl type="other">Enda Leaney, ‘“Evanescent Impressions”: Public Lectures and the Popularization of Science in Ireland, 1770–1860’ in <title>Éire-Ireland</title>, 
+  43.3/4 (Fall/Winter 2008) 157-82</bibl>
+                    <bibl type="other">Henry Fitzpatrick Berry, <title>A History of the Royal Dublin Society</title> (London, 1915).</bibl>
+                    <bibl type="journalism">
+                        <title>Morning Chronicle</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

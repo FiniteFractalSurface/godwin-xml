@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="GOR02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>NAME</forename>
+                        <surname>Gordon</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's notes: 19.2.1792 at Holcroft's / 29.9.1793 at Shield's /
+                            3.11.1793 and 24.11.1793 at Perry's / 30.11.1793 at Wright's / 4.12.1793
+                            at Holcroft's / 24.8.1794 at Gray's / 3.12.1795, 1.3.1796 and 8.4.1796 at
+                            John King's / 16.4.1796 at Perry's / 14.12.1796 at House of Commons /
+                            8.11.1797 at Holcroft's / 22.6.1798 at House of Commons / 28.12.1799 adv
+                            at Tobin's / 31.10.1800 Gordons at Northmore's / 3.7.1801 maj. Gordon and
+                            femme at Perry's. In these entries Gordon was with Perry 11 times,
+                            Holcroft 9 times, Porson 4 times, and Gray, Gillies and Barnes 3 times
+                            each. At King's, Tobin's and Northmore's he was not with any of his
+                            usual associates, but In the 3 entries at King's he was with Este 2
+                            times, which was also a newspaper connection. There was a Gordon in
+                            Godwin's 1796 list for 1787, also in the 1794 version. A Mr Gordon was a
+                            parliamentary debate reporter (along with Mr Gray) and sometime editor
+                            of the Gazetteer newspaper. Most reporters worked for several
+                            newspapers. Nat Arch C104/67 and  68 are the letters and books of the
+                            Gazetteer and from these I gleaned that Mr Gordon's first name was
+                            George. Boyle's 1792-4 has G Gordon Esq Parliament St. The subscription
+                            list to Watkin Tench's Complete Account ...of Port Jackson, NSW 1793
+                            included a George Gordon as well as James Gray, Lancaster Court; also
+                            John Barnes, Thavies Inn; William Gilles, Crutched Friars; Lt Col Hay,
+                            Leith Hall; all of whom may have been the people of those surnames
+                            associated with Perry in Godwin's diary. </p><p>The Gordon at King's on
+                            3.12.1795 when he was listed next to Housselaer (qv), was probably
+                            Walter Gordon soap maker of Lambeth Walk, Lambeth SunFire 1792, see Nat
+                            Arch C 13/2331/18 Haussoullier v Walter Gordon, John King, Daniel Lovell
+                            (qv) and others. The other two times Gordon was at King's, the
+                            newspaperman Charles Este was present, so it could have been George
+                            Gordon the reporter (see above) or Walter Gordon (who regularly
+                            advertised his Violet Soap in the Gazetteer, of which George Gordon had
+                            been editor). Pryse Lockhart Gordon DNB 1762-1845 in his Personal
+                            Memoirs p 261 mentioned his older brother George (born 1756) who was a
+                            member of a club with James Perry and Richard Porson. Pryse was in Italy
+                            from about 1797 until May 1801and may have been serving as a soldier in
+                            Scotland for most of the period 1792-7, but he knew James Perry and
+                            James Gray well so he may have been some of the above Gordons if on
+                            leave in that period. The entry of 5.7.1801 at Perry's of Major Gordon and
+                            femme almost certainly was Pryse and his new (second) wife Maria Ann.
+                            George son of Pryce Lockhart Gordon and Elizabeth Brown bapt 8.6.1794 St
+                            Nicholas Aberdeen / Maria Eliza dau of Price Locket and Maria Ann Gordon
+                            born 5.3.1812 bapt St Ann Soho 1.5.1812 15.8.1808 sup at mrs Topping's,
+                            w. mrs Gordon, C(harles) C(lairmont) and M(ary) J(ane) / 29.9.1812 sup at
+                            Topping's, w. M(ary) J(ane), and W Gordon / 12.1.1813 Toppings 3 and W
+                            Gordon dine / 26.12.1817 W Gordon calls 27.7.1811 Gordon calls /
+                            24.4.1816 theatre, w. Y(aniewicz)s, Duncan, Gordon andc (in Edinburgh)
+                        </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>MP</resp>
+                    <name/>
+                </respStmt>
+
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WHE05" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Charles</forename>
+                        <surname>Wheatstone</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1802">
+                        <placeName/>
+                    </birth>
+                    <death when="1875"/>
+                    <occupation>inventor and scientist</occupation>
+                    <note type="editorial">
+                        <p>Possibly Charles Wheatstone - an instrument maker, turned scientist,
+                            later knighted. Wheatsen and Wheatson, seem to be Godwin's early
+                            encounters - where he clearly has not grasped the spelling of the name
+                            (and its pronunication might well have been Wheatsen). The
+                            continuity between the Wheatsen entriees and the later Wheatstone ones - in
+                            terms of the circles in which he appears, around Martin and Pickering, make this unlikely to
+                            be coincidental and suggest these are the same person.</p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

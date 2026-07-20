@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="FOR07" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>FIRSTNAME</forename>
+                        <surname>Ford</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p> Perhaps Edward Ford DNB 1746-1809 surgeon in London 12.12.1806 E
+                            Topping, Smith and Ford sup / 29.3.1809 mrs Topping and miss Ford call /
+                            31.3.1809 dine at Hume's w. Ford / 26.7.1809 dine at Hume's w. Ford /
+                            27.4.1810 3 Boinvilles, 2 Hopwood, Ford and Eastwick dine / 3.3.1811 sup
+                            at mrs Topping's w. miss Ford / 12.7.1812 dine at Hume adv. mdms
+                            Hutchinson, Ford and Bye / 7.12.1812 sup at E Topping's w, miss Ford A
+                            common name and hard to identify. The above entries could all be one
+                            unmarried female sometimes with the "miss" and sometimes without. Or
+                            there could be separate Fords in the Topping and Hume circles, both
+                            female. Ford on its own occurs only once with Topping (the first entry
+                            above) but with Hume it occurs twice and once as mdms (which for Godwin
+                            could cover mrs and miss). </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

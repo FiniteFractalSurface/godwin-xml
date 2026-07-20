@@ -1,18 +1,62 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="BLA01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Arthur</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Blake</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1000"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0"> The references to 'Blake' in Godwin’s diary have caused some scholarly speculation and debate, and in such discussions Gilchrist’s 
-comment in his 1863 <title xmlns="http://www.tei-c.org/ns/1.0">Life of Blake</title> is often cited – that in 1791 Blake was "in the habit of meeting a remarkable coterie " at the weekly dinners of 
-    the bookseller <persName xmlns="http://www.tei-c.org/ns/1.0" key="JOH01">Joseph Johnson</persName>:" Hither came Drs Price and Priestley, and occasionally Blake; hither . . . Fuseli; hither precise doctrinaire Godwin . . . Him the author 
-    of the <title xmlns="http://www.tei-c.org/ns/1.0">Songs of Innocence</title> got on ill with, and liked worse.’  Erdman has shown in an August 1953 <title xmlns="http://www.tei-c.org/ns/1.0">Notes and Queries</title> that the first two 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="BLA01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Arthur</forename>
+                        <surname>Blake</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName/>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation/>
+                    <note type="editorial">
+                        <p> The references to 'Blake' in Godwin’s diary have caused some scholarly speculation and debate, and in such discussions Gilchrist’s 
+comment in his 1863 <title>Life of Blake</title> is often cited – that in 1791 Blake was "in the habit of meeting a remarkable coterie " at the weekly dinners of 
+    the bookseller <persName key="JOH01">Joseph Johnson</persName>:" Hither came Drs Price and Priestley, and occasionally Blake; hither . . . Fuseli; hither precise doctrinaire Godwin . . . Him the author 
+    of the <title>Songs of Innocence</title> got on ill with, and liked worse.’  Erdman has shown in an August 1953 <title>Notes and Queries</title> that the first two 
     references concern an Arthur Blake (distinguished in one instance by his first initial.  According to Erdman, Arthur Blake was a member of the London Society for 
-    Constitutional Information, and was also a friend of <persName xmlns="http://www.tei-c.org/ns/1.0" key="HOL01">Holcroft</persName>.  Three days before the entry ‘Call on Blake’, Holcroft wrote a 
+    Constitutional Information, and was also a friend of <persName key="HOL01">Holcroft</persName>.  Three days before the entry ‘Call on Blake’, Holcroft wrote a 
     letter from Newgate asking Godwin ‘to look up Wiliam Sharp and Arthur Blake  who 'did live in Devonshire Street') to get affidavits as to their testimony before the Privy Council concerning the S.C.I.’ 
-    (Erdman, p. 355).  According to Erdman’s research, the witness list for the trial includes Arthur Blake, of Devonshire Street, Portland-place (<title xmlns="http://www.tei-c.org/ns/1.0">Morning Post</title>, 1795, as cited in Erdman, p. 355). 
- However, the April 1797 entry listing a dinner at Johnson’s that included Blake (no initial) and <persName xmlns="http://www.tei-c.org/ns/1.0" key="FUS01">Fuseli</persName> is likely to be the poet 
-    <persName xmlns="http://www.tei-c.org/ns/1.0" key="BLA02">William</persName>.  Grignion, also mentioned in the list of diners, was also an engraver.  The sporadic use of the initial A to indicate Arthur Blake of Portland Place 
+    (Erdman, p. 355).  According to Erdman’s research, the witness list for the trial includes Arthur Blake, of Devonshire Street, Portland-place (<title>Morning Post</title>, 1795, as cited in Erdman, p. 355). 
+ However, the April 1797 entry listing a dinner at Johnson’s that included Blake (no initial) and <persName key="FUS01">Fuseli</persName> is likely to be the poet 
+    <persName key="BLA02">William</persName>.  Grignion, also mentioned in the list of diners, was also an engraver.  The sporadic use of the initial A to indicate Arthur Blake of Portland Place 
 strengthens this conjecture, particularly when Godwin uses this to differentiate A Blake from William Blake when listing dinners at Johnson’s 
 (as in April 1798) and an exhibition advenae on April 23, 1798.  The use of the initial is also confusing, since it appears with groups and at 
 times when ‘if the…entries had not been initialled otherwise, we would have surely guessed Blake.’ (Erdman, p. 355)  The two Blakes clearly traveled 
 in the same circles which accounts for Godwin’s use of the initial.  According to Erdman, the entry in 1797 corresponds with Blake’s period of intimacy with Fuseli 
 before his retirement when he was ‘hid’ (p. 355).  With this ongoing debate in mind, A Blake and Blake (no initial) have been coded as ‘Blake’, whereas only the entry 
-in 1797 has been indicated to be William.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other">Harold L. Bruce, ‘William Blake and Gilchrist’s Remarkable Coterie of Advanced 
-    Thinkers’, <title xmlns="http://www.tei-c.org/ns/1.0">Modern Philology</title>, Vol. 23, No. 3 (February 1926), 285-92.</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other">David V. Erdman, ‘“Blake” Entries in Godwin’s Diary’, <title xmlns="http://www.tei-c.org/ns/1.0">Notes and Queries</title> (August 1953), 354-56.</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">David V. Erdman, <title xmlns="http://www.tei-c.org/ns/1.0">Blake, Prophet 
-  Against Empire</title> (Princeton: Princeton University Press, 1954).</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-07-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-11-27" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-04-17" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-05-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-06-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-11-07" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-04-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-04-23" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-04-29" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-11-14" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+in 1797 has been indicated to be William.</p>
+                    </note>
+                    <bibl type="other">Harold L. Bruce, ‘William Blake and Gilchrist’s Remarkable Coterie of Advanced 
+    Thinkers’, <title>Modern Philology</title>, Vol. 23, No. 3 (February 1926), 285-92.</bibl>
+                    <bibl type="other">David V. Erdman, ‘“Blake” Entries in Godwin’s Diary’, <title>Notes and Queries</title> (August 1953), 354-56.</bibl>
+                    <bibl type="printedbook">David V. Erdman, <title>Blake, Prophet 
+  Against Empire</title> (Princeton: Princeton University Press, 1954).</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,15 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="GLE01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">James</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Glenie</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1750-10"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1817-11-23"/><occupation xmlns="http://www.tei-c.org/ns/1.0">soldier</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">mathematician</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Godwin entered him in the 1796 lists of first meetings under 1793. There are three entries:</p><p xmlns="http://www.tei-c.org/ns/1.0">24 September 1793: 'Dine at Jardine’s, with Glenie:'
-    4 February 1794: 'call on Perry; see Glenie:'
-    18 July 1800 (in Ireland): 'dine at Drennan's , w. C, Hinckes's, Holmes, Hartley, Orr, Caldwel, Glennie &amp; another:'</p><p xmlns="http://www.tei-c.org/ns/1.0">The <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> is vague about his movements, and implies that
-    he may still have been in New Brunswick during these years, where he had emigrated and been elected a 
-    representative of the house of assembly. However, the <title xmlns="http://www.tei-c.org/ns/1.0">Dictionary of Canadian Biography Online</title> is more detailed:</p><p xmlns="http://www.tei-c.org/ns/1.0">'Whether because of difficulties in his masting business or because of his determination to undermine Carleton, in 1793 Glenie 
-    returned to England; although re-elected to the assembly after its dissolution in December 1792, he was unable to attend the 
-    1793 or 1794 sessions.'</p><p xmlns="http://www.tei-c.org/ns/1.0"> Glenie was then back in New Brunswick in 1795. There is no reference to another visit to Europe around 1800 but the account suggests
-    that is plausible, as Glenie is conspiciously absent from politics in New Brunswick at this time:</p><p xmlns="http://www.tei-c.org/ns/1.0"> 'There was no assembly session in 1800 and Glenie busied himself with his duties as deputy surveyor of woods, duties that 
-    took on a new urgency as a result of the European situation .... Whether because of these activities, or perhaps because of 
-    disillusionment with his assembly colleagues, when the legislature met again in January 1801 Glenie was not present. He 
-    managed to appear for eight days at the tag-end of the thirty-two day session.'</p><p xmlns="http://www.tei-c.org/ns/1.0">Further evidence is given by Jane Rendall, 'The Political Reveries of Alexander 
-    Jardine, (1739?-1799)', which refers to Glenie's friendship with Jardine, at whose house Godwin meets Glenie:</p><p xmlns="http://www.tei-c.org/ns/1.0"> 'Jardine brought other friends, like James Glenie, the mathematicisn and by then New Brunswick radical, to their circle, and 
-    drew up a lost of potential members for a 'Select Club', a sociable academy for radical circles'.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">Dictionary of Canadian Biography Online</title>, www.biographi.ca</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Jane Rendall, 'The Political Reveries of Alexander 
-    Jardine, (1739?-1799)' in Malcolm Crook, William Doyle and Alan Forrest eds., <title xmlns="http://www.tei-c.org/ns/1.0">Enlightenment and Revolution: Essays in Honour 
-    of Norman Hampson</title> (Aldershot: Ashgate, 2004) 91-113.</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-09-24" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-02-04" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-07-18" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="GLE01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>James</forename>
+                        <surname>Glenie</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1750-10">
+                        <placeName/>
+                    </birth>
+                    <death when="1817-11-23"/>
+                    <occupation>soldier</occupation>
+                    <occupation>mathematician</occupation>
+                    <note type="editorial">
+                        <p>Godwin entered him in the 1796 lists of first meetings under 1793. There
+                            are three entries:</p>
+                        <p>24 September 1793: 'Dine at Jardine’s, with Glenie:' 4 February 1794:
+                            'call on Perry; see Glenie:' 18 July 1800 (in Ireland): 'dine at
+                            Drennan's , w. C, Hinckes's, Holmes, Hartley, Orr, Caldwel, Glennie
+                            &amp; another:'</p>
+                        <p>The <title>DNB</title> is vague about his movements, and implies that he
+                            may still have been in New Brunswick during these years, where he had
+                            emigrated and been elected a representative of the house of assembly.
+                            However, the <title>Dictionary of Canadian Biography Online</title> is
+                            more detailed:</p>
+                        <p>'Whether because of difficulties in his masting business or because of
+                            his determination to undermine Carleton, in 1793 Glenie returned to
+                            England; although re-elected to the assembly after its dissolution in
+                            December 1792, he was unable to attend the 1793 or 1794 sessions.'</p>
+                        <p> Glenie was then back in New Brunswick in 1795. There is no reference to
+                            another visit to Europe around 1800 but the account suggests that is
+                            plausible, as Glenie is conspiciously absent from politics in New
+                            Brunswick at this time:</p>
+                        <p> 'There was no assembly session in 1800 and Glenie busied himself with
+                            his duties as deputy surveyor of woods, duties that took on a new
+                            urgency as a result of the European situation .... Whether because of
+                            these activities, or perhaps because of disillusionment with his
+                            assembly colleagues, when the legislature met again in January 1801
+                            Glenie was not present. He managed to appear for eight days at the
+                            tag-end of the thirty-two day session.'</p>
+                        <p>Further evidence is given by Jane Rendall, 'The Political Reveries of
+                            Alexander Jardine, (1739?-1799)', which refers to Glenie's friendship
+                            with Jardine, at whose house Godwin meets Glenie:</p>
+                        <p> 'Jardine brought other friends, like James Glenie, the mathematicisn and
+                            by then New Brunswick radical, to their circle, and drew up a lost of
+                            potential members for a 'Select Club', a sociable academy for radical
+                            circles'.</p>
+                        <p>Ed Pope is justly sceptical about the 18 July 1800 meeting and the 1807
+                            meeting at Curran's) on the grounds that there is no evidence of Glennie
+                            having Irish connections (and we have not attributed those meeting to
+                            this person). Pope suggests 'Dr Glennie in 1807 may have been William
+                            Glennie, Doctor of Laws will PCC 1828. And his work notes identify:
+                            Irish marriages / Joseph Glenny of Gloucester St = 13.7.1793 M
+                            Boursiquet of Gt Britain St / Joseph Glenny, Summerhill = Feb 1806
+                            eldest dau of Rev Dr Moody, Dominick St </p>
+                    </note>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                    <bibl type="other"><title>Dictionary of Canadian Biography Online</title>,
+                        www.biographi.ca</bibl>
+                    <bibl type="printedbook">Jane Rendall, 'The Political Reveries of Alexander
+                        Jardine, (1739?-1799)' in Malcolm Crook, William Doyle and Alan Forrest
+                        eds., <title>Enlightenment and Revolution: Essays in Honour of Norman
+                            Hampson</title> (Aldershot: Ashgate, 2004) 91-113.</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

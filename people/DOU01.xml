@@ -1,8 +1,45 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="DOU01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Francis</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Douce</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1757-07-13"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1834-03-30"/><occupation xmlns="http://www.tei-c.org/ns/1.0">antiquary</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">collector</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Francis Douce was elected to the Society of Antiquaries in 1779 and he became keeper of manuscripts at the British Museum in 1807. He published 
-    <title xmlns="http://www.tei-c.org/ns/1.0">Illustrations of Shakespeare, and of Ancient Manners</title> in two volumes in 1807 and <title xmlns="http://www.tei-c.org/ns/1.0">The dance of death exhibited in elegant engravings 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="DOU01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Francis</forename>
+                        <surname>Douce</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1757-07-13">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1834-03-30"/>
+                    <occupation>antiquary</occupation>
+                    <occupation>collector</occupation>
+                    <note type="editorial">
+                        <p>Francis Douce was elected to the Society of Antiquaries in 1779 and he became keeper of manuscripts at the British Museum in 1807. He published 
+    <title>Illustrations of Shakespeare, and of Ancient Manners</title> in two volumes in 1807 and <title>The dance of death exhibited in elegant engravings 
     on wood, with a dissertation on the several representations of that subject</title> in 1833. He was a remarkable collector as his legacy to the Bodleian Library, 
     Oxford testifies, inclusive of thousands of books and prints, over a thousand drawings, hundreds of manuscripts, and various
-    coins and medals.</p><p xmlns="http://www.tei-c.org/ns/1.0">Douce’s interests 
+    coins and medals.</p>
+                        <p>Douce’s interests 
 and expertise in the occult were widely 
 known, and he was regularly consulted by 
 researchers and scholars. Godwin wrote to 
@@ -11,5 +48,19 @@ five times in 1833-4.  In a series of
 undated letters, Godwin requested to see a 
 series of manuscripts relating to his 
 book,
-<title xmlns="http://www.tei-c.org/ns/1.0">Lives of the Necromancers</title>, published 
-in 1834. </p><p xmlns="http://www.tei-c.org/ns/1.0">Godwin recorded his death.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 7, fols. 74-5: 2 November 1801</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 14, fols. 23-4: 1833</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 14, fol. 86: 4 December </bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">Bodleian MSS Douce 28, fols. 206-7</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-10-31" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-11-03 " n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-10-19" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-08-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-08-03" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-11-01" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-11-15" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-01-08" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-01-11" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-03-30" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+<title>Lives of the Necromancers</title>, published 
+in 1834. </p>
+                        <p>Godwin recorded his death.</p>
+                    </note>
+                    <bibl type="MS"> MS. Abinger c. 7, fols. 74-5: 2 November 1801</bibl>
+                    <bibl type="MS"> MS. Abinger c. 14, fols. 23-4: 1833</bibl>
+                    <bibl type="MS"> MS. Abinger c. 14, fol. 86: 4 December </bibl>
+                    <bibl type="MS">Bodleian MSS Douce 28, fols. 206-7</bibl>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

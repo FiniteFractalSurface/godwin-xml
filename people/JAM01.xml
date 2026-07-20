@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>James, Miss</title>
+            <respStmt>
+               <resp>Encoded by</resp>
+               <name>EP and SI</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt><p>Unpublished</p></publicationStmt>
+         <sourceDesc><p>Generated data</p></sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson xmlns="http://www.tei-c.org/ns/1.0">
+            <person xmlns="http://www.tei-c.org/ns/1.0" xml:id="JAM01" sex="2">
+               <persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0">Miss</roleName>
+                  <forename xmlns="http://www.tei-c.org/ns/1.0"></forename>
+                  <surname xmlns="http://www.tei-c.org/ns/1.0">James</surname></persName>
+               <birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"></birth>
+               <death xmlns="http://www.tei-c.org/ns/1.0" when="1000"></death>
+               <occupation xmlns="http://www.tei-c.org/ns/1.0">Translator</occupation>
+               <note xmlns="http://www.tei-c.org/ns/1.0" type="editorial">
+                  <p><persName key="ROB03">Henry Crabbe Robinson's</persName> diary for 26 October 1823 records a small party at Aders with  "a Miss James with Mrs Clarke" In a letter dated 10 January 1830 from Mrs Aders in London to HCR in Italy she reports:  "Sir T Lawrence is no more - he died (I think the servant said) on Thursday night at 9 o'clock, I went there yesterday with my friend Miss James, and could not resist the servant's offer to see his remains"</p>
+                  <p>Matilda Hill Clarke, in her will (PCC 1835) mentioned her friend Elizabeth Mary James spinster "now living with me" (1831). The friend of Mrs Aders in the letter of 1830 may or may not be the same person. An Elizabeth Mary James translated works of Madame Sillery from the French, published 1795, she was referred to by a reviewer as Mrs James (but the use of Mrs is standard). There were three unmarried sisters, the daughters of Thomas and Susannah James: the eldest was Elizabeth Mary born about 1775 in Bath, the second Emily born about 1782 in Batheaston, and the third Susan Deane born about 1788 in Bath. Thomas James, a banker of Bath died in 1788. His  will (PCC 1788) mentions his youngest daughter as she was not born when her grandfather made his will. The sisters were living together at Mortlake in the 1851 census and later at 3 Pembroke Villas Richmond where the two eldest were still living in the 1861 census. It seems likely they lived together all their lives.</p>
+               </note>
+               <bibl type="website">Ed Pope History (01/11/2015) </bibl>
+               <!--<ab type="appearancesInDiary" n="1793">
+                  <date when="1793-10-22" n="notVenue" type="ah"/>
+               </ab>
+               <ab type="appearancesInDiary" n="1833">
+                  <date when="1833-04-22" n="notVenue" type="ah"/>
+                  <date when="1833-10-23" n="notVenue" type="ah"/>
+               </ab>
+               <ab type="appearancesInDiary" n="1834">
+                  <date when="1834-08-03" n="notVenue" type="ah"/>
+                  <date when="1833-11-27" n="notVenue" type="ah"/>
+               </ab>
+               <ab type="appearancesInDiary" n="1735">
+                  <date when="1793-02-14" n="notVenue" type="ah"/>
+               </ab>-->
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

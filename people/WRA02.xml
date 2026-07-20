@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP and MP</resp>
+                    <name/>
+                </respStmt>
+
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WRA02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Francis</forename>
+                        <surname>Wrangham</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1769">
+                        <placeName/>
+                    </birth>
+                    <death when="1842"/>
+                    <occupation>Classicist</occupation>
+                    <note type="editorial">
+                        <p>Francis Wrangham DNB 1769-1842. Wrangham appears frequently in
+                            association with Basil Montagu (MON01)</p> <p> Brightwell: Memorials of A
+                            Opie p59. Seatonian prize. Married 1799 Yorkshire Agnes Creyke, she
+                            d.1800, 2ndly Dorothy Cayley 1801</p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

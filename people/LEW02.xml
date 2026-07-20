@@ -1,12 +1,49 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="LEW02" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0"/><surname xmlns="http://www.tei-c.org/ns/1.0">Lewis</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">There are a number of possibilities for Lewis in the diary. The entries are grouped around 1789/90; a larger group in the mid 1790s; a similar group from 1799-1803; and a group 1809-1813.
-  These may all be to the same Lewis, or may indicate different Lewises.</p><p xmlns="http://www.tei-c.org/ns/1.0">Sir Watkyn Lewes (1740?-1821) was an MP for the City of London and had served as Lord Mayor of
-      the city. Goodwin, <title xmlns="http://www.tei-c.org/ns/1.0">Friends of Liberty</title> notes his presence at the London Revolution
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="LEW02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename/>
+                        <surname>Lewis</surname>
+                        <addName/>
+                    </persName>
+                    <birth>
+                        <placeName/>
+                    </birth>
+                    <death/>
+                    <occupation/>
+                    <note type="editorial">
+                        <p>There are a number of possibilities for Lewis in the diary. The entries are grouped around 1789/90; a larger group in the mid 1790s; a similar group from 1799-1803; and a group 1809-1813.
+  These may all be to the same Lewis, or may indicate different Lewises.</p>
+                        <p>Sir Watkyn Lewes (1740?-1821) was an MP for the City of London and had served as Lord Mayor of
+      the city. Goodwin, <title>Friends of Liberty</title> notes his presence at the London Revolution
       Society meeting in November 1788. While Godwin does not mention meeting him there, this is not
       suprising as there were 300 attendees. Instances of Lewis between 1788-1791 have a high probablility of being 
     Sir Watkyn given the association with dissenting figures such as Helen Maria Williams, the Hollises, and Andrew Kippis.  
     An entry on the 14 May 1791 is also suggestive. After dinner at B. Hollis's, Godwin records
       'suspended for want of money. (Lewis.) Watkin Lewes was later imprisoned for debt so this may
-      refer to a suspension from the House of Commons for insolvency.</p><p xmlns="http://www.tei-c.org/ns/1.0">However, David Lewis, son of the dissenting minister Israel Lewis, may also be noted in the 1788-1791 period. 
+      refer to a suspension from the House of Commons for insolvency.</p>
+                        <p>However, David Lewis, son of the dissenting minister Israel Lewis, may also be noted in the 1788-1791 period. 
       There is little known about David Lewis, but he appears in the
       diary of Margaret Hazlitt. When the Hazlitts returned from America in 1787, they all stayed
       with the family of David Lewis in London for a few weeks. Lewis had been a close family friend
@@ -18,15 +55,27 @@
       102) According to Margaret Hazlitt, Lewis was close friends with David Williams (1738-1816)
       and the two men were very active in trying to get Hazlitt Sr. settled in a good congregation
       after his return from America. John Hazlitt and David Williams were part of Godwin's circle -
-      the <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> notes that David Williams met Godwin in 1792. David Lewis, as a close
-      friend of John Hazlitt and David Williams, may have been acquainted with Godwin also. </p><p xmlns="http://www.tei-c.org/ns/1.0">William Thomas Lewis, (1746-1812), actor and theatre manager, also appears in the diary. Godwin meets him
-    in January 1796 (Meet Lewis c.g.) when he probably told Godwin that Covent Garden would not stage <title xmlns="http://www.tei-c.org/ns/1.0">St Dunstan</title>. He may appear 
+      the <title>DNB</title> notes that David Williams met Godwin in 1792. David Lewis, as a close
+      friend of John Hazlitt and David Williams, may have been acquainted with Godwin also. </p>
+                        <p>William Thomas Lewis, (1746-1812), actor and theatre manager, also appears in the diary. Godwin meets him
+    in January 1796 (Meet Lewis c.g.) when he probably told Godwin that Covent Garden would not stage <title>St Dunstan</title>. He may appear 
     at later stages associated with Frederick Reynolds in 1800 and there are further meetings in that year which may
-    be related to the upcoming performance of <title xmlns="http://www.tei-c.org/ns/1.0">Antonio</title> (although this would be staged in Drury Lane).</p><p xmlns="http://www.tei-c.org/ns/1.0">A difficulty with the case of 'Lewis' in the diary is that Godwin notes meeting a new Lewis in 1795 in his
+    be related to the upcoming performance of <title>Antonio</title> (although this would be staged in Drury Lane).</p>
+                        <p>A difficulty with the case of 'Lewis' in the diary is that Godwin notes meeting a new Lewis in 1795 in his
       1796 list of acquaintances. This suggests that there are two 'main' Lewises. However, instances of Lewis both before and after this date mix in similar circles so 
       it is difficult to distinguish them on the basis of the date alone after 1795.  It does suggest, however, that the Lewises of 1788-1791 all relate to the same person - 
-      but it is unclear whether this is Watkyn, David, or indeed someone else entirely.</p><p xmlns="http://www.tei-c.org/ns/1.0">There are other instances of Lewis in the diary which have been left uncoded as we have a high degree of confidence that they are not any of the
+      but it is unclear whether this is Watkyn, David, or indeed someone else entirely.</p>
+                        <p>There are other instances of Lewis in the diary which have been left uncoded as we have a high degree of confidence that they are not any of the
     three Lewises noted above. These are: 'lewis, distiller' (21 August 1800); 'lewis cs' (31 January 1802); '(lewis) elephanta' (29 August 1811); 'al. lewis' 
-    (12 September 1812); and, 'Lewis' (10 October 1833).</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Albert Goodwin, <title xmlns="http://www.tei-c.org/ns/1.0">The friends of liberty: the English democratic movement in the age of the
-  French Revolution</title> (London: Hutchinson, 1979)</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook"><title xmlns="http://www.tei-c.org/ns/1.0">The Journal of Margaret Hazlitt: Recollections 
-  of England, Ireland, and America</title>, ed. and annotated by Ernest J. Moyne (Lawrence: University of Kansas Press, 1967).</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other">DNB</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"><date xmlns="http://www.tei-c.org/ns/1.0" when="1788-11-11" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"><date xmlns="http://www.tei-c.org/ns/1.0" when="1790-02-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1790-05-07" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"><date xmlns="http://www.tei-c.org/ns/1.0" when="1791-04-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1791-05-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1791-05-14" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1791-07-14" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-12-10" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-03-31" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-09-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-11-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-11-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-11-27" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-05-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-12-01" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-03-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-03-28" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-07-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-10-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-11-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-11-20" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-06-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-09-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-09-23" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-11-03" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-03-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-04-05" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-08-20" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-05-28" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-11-21" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-12-01" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-12-06" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-01-20" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-06-05" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-08-23" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-12-03" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-12-22" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-02-28" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-04-22" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-07-16" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-10-18" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-11-27" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-01-02" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-02-03" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-07-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-07-11" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-11-13" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-03-14" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-10-10" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    (12 September 1812); and, 'Lewis' (10 October 1833).</p>
+                    </note>
+                    <bibl type="printedbook">Albert Goodwin, <title>The friends of liberty: the English democratic movement in the age of the
+  French Revolution</title> (London: Hutchinson, 1979)</bibl>
+                    <bibl type="printedbook"><title>The Journal of Margaret Hazlitt: Recollections 
+  of England, Ireland, and America</title>, ed. and annotated by Ernest J. Moyne (Lawrence: University of Kansas Press, 1967).</bibl>
+                    <bibl type="other">DNB</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Person List</title>
+            <respStmt>
+               <resp>Researched by</resp>
+               <name>EP</name>
+            </respStmt>
+            <respStmt>
+               <resp>Encoded by</resp>
+               <name>SI</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Generated data</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="HAR14" sex="2">
+               <persName>
+                  <roleName/>
+                  <forename>Lydia</forename>
+                  <surname>Harvey</surname>
+                  <addName/>
+               </persName>
+               <birth when="1718">
+                  <placeName/>
+               </birth>
+               <death when="1804"/>
+               <occupation></occupation>
+               <note type="editorial">
+                  <p>Lydia Ives married Thomas Harvey (d.1772), who was Mayor of Norwich in 1748. Their son <persName key="HAR07">Thomas Harvey</persName> married <persName ref="HAR13">Ann Twiss</persName> in 1774 at Norwich.</p>
+                  <p>Thomas' older brother Robert Harvey married a Lydia Black and had a son, RObert, in 1736. That side of the family were Tories.</p>
+               </note>
+               <bibl type="other">
+                  <title>Ed Pope History Entry 29/10/2012</title>
+               </bibl>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

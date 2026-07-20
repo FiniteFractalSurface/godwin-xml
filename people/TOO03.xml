@@ -1,14 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="TOO03" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">William</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Tooke</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1719"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1802-09-25"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0"> Benefactor to <persName xmlns="http://www.tei-c.org/ns/1.0" key="TOO01">John Horne Tooke</persName> and active political
-    reformer. William Tooke was also the uncle of <persName xmlns="http://www.tei-c.org/ns/1.0" key="HAR01">Captain Harwood</persName>, who married the eldest daughter of
-    <persName xmlns="http://www.tei-c.org/ns/1.0" key="HOL01">Thomas Holcroft's</persName>, and his legacy to Harwood becomes the subject of a court case between
-    Harwood and Burdett for Horne Tooke. The case was eventually settled in favour of Burdett.</p><p xmlns="http://www.tei-c.org/ns/1.0">It seems likely that Godwin made Tooke’s
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="TOO03" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>William</forename>
+                        <surname>Tooke</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1719">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1802-09-25"/>
+                    <occupation/>
+                    <occupation/>
+                    <note type="editorial">
+                        <p> Benefactor to <persName key="TOO01">John Horne Tooke</persName> and active political
+    reformer. William Tooke was also the uncle of <persName key="HAR01">Captain Harwood</persName>, who married the eldest daughter of
+    <persName key="HOL01">Thomas Holcroft's</persName>, and his legacy to Harwood becomes the subject of a court case between
+    Harwood and Burdett for Horne Tooke. The case was eventually settled in favour of Burdett.</p>
+                        <p>It seems likely that Godwin made Tooke’s
     acquaintance in the 1790s, and would have been aware of him on the political scene before this. Entries for
     Tooke have been coded for William when the context makes it seem plausible, as in cases where he
     is dining at Horne Tooke’s; or when he is associated with Harwood, who lived with him prior to
-    his marriage to <persName xmlns="http://www.tei-c.org/ns/1.0" key="HOL09">Ann Holcroft</persName>. The 'Tooke' entries in 1790 are treated as being to Horne Tooke,
-    because we have independent collaboration for Horne Tooke's presence (see Bewley, <title xmlns="http://www.tei-c.org/ns/1.0">Gentleman Radical</title>). So too is the
+    his marriage to <persName key="HOL09">Ann Holcroft</persName>. The 'Tooke' entries in 1790 are treated as being to Horne Tooke,
+    because we have independent collaboration for Horne Tooke's presence (see Bewley, <title>Gentleman Radical</title>). So too is the
     1792 meeting with Paine, since Horne Tooke and Paine were in close collaboration at this period. In
-    contrast, the 1795 pair of dinners first at Batty's, then at Tooke's, involving <persName xmlns="http://www.tei-c.org/ns/1.0" key="BAT01">Batty</persName>, 
-    <persName xmlns="http://www.tei-c.org/ns/1.0" key="SMI03">Smirke</persName>,     <persName xmlns="http://www.tei-c.org/ns/1.0" key="ALD01">Amelia Alderson</persName>, 
+    contrast, the 1795 pair of dinners first at Batty's, then at Tooke's, involving <persName key="BAT01">Batty</persName>, 
+    <persName key="SMI03">Smirke</persName>,     <persName key="ALD01">Amelia Alderson</persName>, 
     and Miss Buck, are treated as referring to William Tooke, since it is not Horne Tooke's traditional night for
-    inviting guests, nor is it his traditional circle. </p><p xmlns="http://www.tei-c.org/ns/1.0">Godwin records his death.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">David and Christina Bewley, <title xmlns="http://www.tei-c.org/ns/1.0">Gentleman radical: a life of John Horne Tooke, 1736–1812</title> (London: Tauris Academic Studies, 1998), pp. 95-6.</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-05-19" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-05-11" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-05-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-06-03" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-04-17" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-06-19" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-07-02" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-04-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-05-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-07-29" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-06-16" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-05-18" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-06-28" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-08-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-09-25" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-04-04" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    inviting guests, nor is it his traditional circle. </p>
+                        <p>Godwin records his death.</p>
+                    </note>
+                    <bibl type="printedbook">David and Christina Bewley, <title>Gentleman radical: a life of John Horne Tooke, 1736–1812</title> (London: Tauris Academic Studies, 1998), pp. 95-6.</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

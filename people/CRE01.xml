@@ -1,5 +1,47 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="CRE01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0"/><surname xmlns="http://www.tei-c.org/ns/1.0">Creed</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1000"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Creed is currently unidentified.  There is no mention of this person in <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> or biographies. 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="CRE01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename/>
+                        <surname>Creed</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName/>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation/>
+                    <note type="editorial">
+                        <p>Creed is currently unidentified.  There is no mention of this person in <title>DNB</title> or biographies. 
   The pattern of contacts as recorded by Godwin suggests this is probably a business contact/someone in finance 
   or the book trade, rather than a friend - with most of the contacts being one-to-one and centering on 1810.
-  <title xmlns="http://www.tei-c.org/ns/1.0">The British Book Trade Index</title> has two Creeds listed as stationers, one of which probably succeeded the other, in London in 1799 but this
-  is probably not sufficient evidence, and the Abinger papers do not contain any further information.  There is also a G Creed who is a print seeler in 1819.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">The British Book Trade Index</title>, www.bbti.bham.ac.uk</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-01-24" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-03-13" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-07-26" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-09-29" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-11-06" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-12-07" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-01-06" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-02-17" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-05-19" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-05-31" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-06-05" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-06-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-06-30" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-07-14" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-07-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-07-24" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-07-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-08-28" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-11-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-11-16" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-11-29" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-12-07" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-12-19" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-02-26" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-09-14" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-10-05" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-02-15" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-06-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-06-20" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-03-23" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+  <title>The British Book Trade Index</title> has two Creeds listed as stationers, one of which probably succeeded the other, in London in 1799 but this
+  is probably not sufficient evidence, and the Abinger papers do not contain any further information.  There is also a G Creed who is a print seeler in 1819.</p>
+                    </note>
+                    <bibl type="other"><title>The British Book Trade Index</title>, www.bbti.bham.ac.uk</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

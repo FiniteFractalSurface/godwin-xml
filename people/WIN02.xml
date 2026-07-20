@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WIN02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Frans Carel</forename>
+                        <surname>Winckelmann</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1757">
+                        <placeName/>
+                    </birth>
+                    <death when="1820"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Ed Pope says: 29.1.1789 Winckelmann at B Hollis' / 20.4.1789 there. In
+                            Godwin's 1796 list for 1789. and in 1794 version. Subscribed to works of
+                            John Jebb 1787, mentioned in Brand Hollis' will (PCC 1804 dated
+                            2.11.1792) as 'Mr de Winckelmann lately living at Ipswich'. Saur,
+                            Deutsche Biographiscche Enzyklopadie has Frans Carel Philip Baron von
+                            Winckelmann 1757-1820 friend of Schiller, visited South Africa 1788/9
+                            and wrote report on police-free society of Xhosa, went to Ceylon (then a
+                            Dutch colony) in 1791 and was British prisoner of war there from 1796
+                            for 10 years, then became director of the Javanese timber forests and
+                            died there in 1820 </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Person List</title>
+            <respStmt>
+               <resp>Researched by</resp>
+               <name>EP</name>
+            </respStmt>
+            <respStmt>
+               <resp>Encoded by</resp>
+               <name>SI</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Generated data</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="HAR15" sex="2">
+               <persName>
+                  <roleName/>
+                  <forename></forename>
+                  <surname>Hart</surname>
+                  <addName/>
+               </persName>
+               <birth when="1000">
+                  <placeName/>
+               </birth>
+               <death when="1000"/>
+               <occupation></occupation>
+               <note type="editorial">
+                  <p>Godwin's references to 'Harts" clearly refers to Horne Tooke's daughters, Mary and Charlotte Hart, though possibly their mother was sometimes also included. The entry at Foulkes' in 1795 was the only singular one and the only one where Tooke wasn't there, with the fact Hart was not included after the mes suggesting a male (as such it has been left uncoded).</p>
+                  <p>Charlotte Hart died 24.6.1849 aged 74, whilst Mary Hart died 9.3.1857 aged 87.  </p>
+               </note>
+               <bibl type="other">
+                  <title>Ed Pope History Entry 20/08/2012</title>
+               </bibl>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

@@ -1,9 +1,56 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="PYE01" sex="2"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Henry James</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Pye</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1745-02-17"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1813-08-11"/><occupation xmlns="http://www.tei-c.org/ns/1.0">politician</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">poet</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Henry James Pye was elected MP for Berkshire in 1784 but retired from parliament in 1790. His loyalty to Pitt was rewarded with the poet 
-      laureateship which he held until his death. The <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> describes his poetry as 'mechanically competent' though 'never distinctive enough to be really bad'.  
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="PYE01" sex="2">
+                    <persName>
+                        <roleName/>
+                        <forename>Henry James</forename>
+                        <surname>Pye</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1745-02-17">
+                        <placeName/>
+                    </birth>
+                    <death when="1813-08-11"/>
+                    <occupation>politician</occupation>
+                    <occupation>poet</occupation>
+                    <note type="editorial">
+                        <p>Henry James Pye was elected MP for Berkshire in 1784 but retired from parliament in 1790. His loyalty to Pitt was rewarded with the poet 
+      laureateship which he held until his death. The <title>DNB</title> describes his poetry as 'mechanically competent' though 'never distinctive enough to be really bad'.  
       He was also a novelist, his works including two later anti-Jacobin novels, The Democrat (1795) and The Aristocrat (1799). 
-      </p><p xmlns="http://www.tei-c.org/ns/1.0">The identification is uncertain, but it is plausible. Godwin first mentions Pye in 1795 during his visit to Warwickshire: <lb xmlns="http://www.tei-c.org/ns/1.0"/>
+      </p>
+                        <p>The identification is uncertain, but it is plausible. Godwin first mentions Pye in 1795 during his visit to Warwickshire: <lb/>
     'Kennelworth-book-club, dine w. Parr , Greatheed, Wills, Johnson, Pye, col Staunton, and Sayer and 2 : Supper, talk of learning. Bayle, art: Spinosa.'
-    According to St Clair's <title xmlns="http://www.tei-c.org/ns/1.0">Reading Nation</title> this was the year in which the Kenilworth Book Club was founded.<lb xmlns="http://www.tei-c.org/ns/1.0"/>
-    The second occasion associates him with John Taylor and in his <title xmlns="http://www.tei-c.org/ns/1.0">Records of my Life</title>, Taylor recalls Pye with sympathy and affection.
-    </p><p xmlns="http://www.tei-c.org/ns/1.0">In the 1796 list Godwin noted meeting Pye in 1802 but it is at least possible that he simply forgot the earlier encounter or that Pye only became noteworthy in Godwin's 
-    mind by the time the second meeting took place.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>.</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook"> John Taylor, <title xmlns="http://www.tei-c.org/ns/1.0">Records of my Life</title>, 2 vols, (London 1832).</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">St Clair, <title xmlns="http://www.tei-c.org/ns/1.0">The Reading Nation in the Romantic Period</title>, (Cambridge: Cambridge University Press, 2004).</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-06-25" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-02-26" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    According to St Clair's <title>Reading Nation</title> this was the year in which the Kenilworth Book Club was founded.<lb/>
+    The second occasion associates him with John Taylor and in his <title>Records of my Life</title>, Taylor recalls Pye with sympathy and affection.
+    </p>
+                        <p>In the 1796 list Godwin noted meeting Pye in 1802 but it is at least possible that he simply forgot the earlier encounter or that Pye only became noteworthy in Godwin's 
+    mind by the time the second meeting took place.</p>
+                    </note>
+                    <bibl type="other"><title>DNB</title>.</bibl>
+                    <bibl type="printedbook"> John Taylor, <title>Records of my Life</title>, 2 vols, (London 1832).</bibl>
+                    <bibl type="printedbook">St Clair, <title>The Reading Nation in the Romantic Period</title>, (Cambridge: Cambridge University Press, 2004).</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="GRA08" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Robert</forename>
+                        <surname>Graham</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1741">
+                        <placeName/>
+                    </birth>
+                    <death when="1836"/>
+                    <occupation>Attorney</occupation>
+                    <note type="editorial">
+                        <p>Robert Graham admitted Inner Temple 8.4.1766, barrister at law subscr to
+                            HMWilliams' poems 1786 and Jebb's Works 1787, admitted Lincolns Inn 1793
+                            1st son of James of Dalston, Kings Counsel 1800, 6 Lincolns Inn Stone
+                            Bldgs, Prince of Wales' attorney-general, Recorder of Oakhampton,
+                            Counsel for Univ of Cambridge DNB1744-1836. Quite likely the 1789 entry
+                            possibly others.</p>
+                        <p>But also possible: Sir Bellingham Graham baronet, member of Friends to
+                            the People 1792 died 1796. Also: Thomas and James Graham 1800 Law List
+                            attornies 6 Lincolns Inn New Sq Thomas G of Lincolns Inn PCC 1813
+                            William G of Lincolns Inn PCC 1811 John Graham, sheriff's broker for
+                            Middlesex, 83 Chancery Lane James Graham Esq Boyle's 1792, 10 Lincolns
+                            Inn Fields, subscr to Aeneid 1794, adm Lincolns Inn 1780, Hist of Parl
+                            1753-1825 (father of Sandford 1778-1852 below) / 28.4.1801 Mrs G's rout
+                            Lincolns Inn Fields</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

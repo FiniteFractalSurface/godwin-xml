@@ -1,16 +1,64 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="WIL20" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">David</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Williams</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1738"><placeName xmlns="http://www.tei-c.org/ns/1.0">Waunwaelod</placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1816-06-29"/><occupation xmlns="http://www.tei-c.org/ns/1.0">political and religious theorist</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">founder of the Literary Fund</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Kegan Paul prints Godwin's autobiographical note for 1792, 'During this year I was in 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WIL20" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>David</forename>
+                        <surname>Williams</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1738">
+                        <placeName>Waunwaelod</placeName>
+                    </birth>
+                    <death when="1816-06-29"/>
+                    <occupation>political and religious theorist</occupation>
+                    <occupation>founder of the Literary Fund</occupation>
+                    <note type="editorial">
+                        <p>Kegan Paul prints Godwin's autobiographical note for 1792, 'During this year I was in 
     the singular situation of an author, possessing some degree of fame for a work still
     unfinished and unseen. I was introduced on this ground to Mr Mackintosh, David 
     Williams, Joel Balow and others, and with these gentlemen, together with Mr
     Nicholson and Mr Holcroft, had occasional meetings in which the principles of my 
     work were discussed.' (vol. 1, p. 71) David Williams's first meeting with Godwin is also
-    dated to 1792 in Williams's DNB entry. </p><p xmlns="http://www.tei-c.org/ns/1.0">There are many other Williams entries in the 1790s that are currently untagged, some of these may be David Williams, eg. <lb xmlns="http://www.tei-c.org/ns/1.0"/>
+    dated to 1792 in Williams's DNB entry. </p>
+                        <p>There are many other Williams entries in the 1790s that are currently untagged, some of these may be David Williams, eg. <lb/>
     
     15 December 1793: 'dine at Holcroft’s , with Mrs Jennings; adv. Thelwal, Vaughan, Williams, 
-    Stewart &amp; Jennings.'<lb xmlns="http://www.tei-c.org/ns/1.0"/> 
+    Stewart &amp; Jennings.'<lb/> 
          9 March 1794: 'dine w. Thomson, Holcroft, Gawler, Thelwal, Pearson, Fletcher, Williams, Joice 
-         &amp; Jones.' <lb xmlns="http://www.tei-c.org/ns/1.0"/>
-      17 September 1794: 'tea Hazlit's , w. H's, Hunters, Williams's &amp; mrs Thelwal, Hazlit junr &amp; Swannick.' <lb xmlns="http://www.tei-c.org/ns/1.0"/>
-      15 December 1794: 'dine at Hazlits , w. Holcrofts, Thelwals, Williams's, Foulkes's &amp; Hunter, T. Cooper, mrs Read' <lb xmlns="http://www.tei-c.org/ns/1.0"/>
-    2 June 1796: 'dine at Northcote's , w. Hoare, Williams &amp; Ne junr:'</p><p xmlns="http://www.tei-c.org/ns/1.0">These are not coded for David Williams but they are certainly possible instances of Godwin meeting him.
-    Godwin records reading Williams on political liberty in 1795 - <title xmlns="http://www.tei-c.org/ns/1.0">Letters on Political Liberty</title> (London, 1782).</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Charles Kegan Paul, <title xmlns="http://www.tei-c.org/ns/1.0">William Godwin: His Friends and Contemporaries</title>, 2 vols (London: H.S. King, 1876).</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"><date xmlns="http://www.tei-c.org/ns/1.0" when="1792-09-09" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-06-08" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+         &amp; Jones.' <lb/>
+      17 September 1794: 'tea Hazlit's , w. H's, Hunters, Williams's &amp; mrs Thelwal, Hazlit junr &amp; Swannick.' <lb/>
+      15 December 1794: 'dine at Hazlits , w. Holcrofts, Thelwals, Williams's, Foulkes's &amp; Hunter, T. Cooper, mrs Read' <lb/>
+    2 June 1796: 'dine at Northcote's , w. Hoare, Williams &amp; Ne junr:'</p>
+                        <p>These are not coded for David Williams but they are certainly possible instances of Godwin meeting him.
+    Godwin records reading Williams on political liberty in 1795 - <title>Letters on Political Liberty</title> (London, 1782).</p>
+                    </note>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                    <bibl type="printedbook">Charles Kegan Paul, <title>William Godwin: His Friends and Contemporaries</title>, 2 vols (London: H.S. King, 1876).</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

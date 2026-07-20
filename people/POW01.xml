@@ -1,29 +1,75 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="POW01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">William</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Powell</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1000"/><occupation xmlns="http://www.tei-c.org/ns/1.0">actor</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">prompter</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0"> William Powell, actor and theatre manager.<lb xmlns="http://www.tei-c.org/ns/1.0"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="POW01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>William</forename>
+                        <surname>Powell</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation>actor</occupation>
+                    <occupation>prompter</occupation>
+                    <note type="editorial">
+                        <p> William Powell, actor and theatre manager.<lb/>
       The Powel entries appear to cover more than one person.  The contacts fall into four main groups, two of which we have made 
-      identifications for with reasonable confidence while the remaining two groups of entries have been left uncoded.<lb xmlns="http://www.tei-c.org/ns/1.0"/>
+      identifications for with reasonable confidence while the remaining two groups of entries have been left uncoded.<lb/>
       
       In 1789, there are two very similar entries where Powel is present at a tea in the company of
-      <persName xmlns="http://www.tei-c.org/ns/1.0" key="WIL01">Helen Maria Williams</persName>.  We do not have sufficient evidence to identify this
+      <persName key="WIL01">Helen Maria Williams</persName>.  We do not have sufficient evidence to identify this
       Powel at.       The two entries suggest a connection with Weston, who might be the antiquary, clergyman and writer 
-      Stephen Weston (1747-1830), although we have no confirming evidence.  <lb xmlns="http://www.tei-c.org/ns/1.0"/>
+      Stephen Weston (1747-1830), although we have no confirming evidence.  <lb/>
       
       There is a group of entries 1793-6, where Powel appears as a member of radical circles, are likely to refer to
-      <persName xmlns="http://www.tei-c.org/ns/1.0" key="POW02">James Powell</persName>, the LCS member and spy (who was never identified by the LCS). Some of the events that he attends
+      <persName key="POW02">James Powell</persName>, the LCS member and spy (who was never identified by the LCS). Some of the events that he attends
       in 1794 and 1795 do seem to indicate intimate involvement in radical circles, therefore supporting the identification.
-      (See Mary Thale, <title xmlns="http://www.tei-c.org/ns/1.0">Selections from the Papers of the London Corresponding
-        Society</title>). See also the <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> entry for <persName xmlns="http://www.tei-c.org/ns/1.0" key="LEE04">Citizen Richard Lee</persName> who ran off with James 
+      (See Mary Thale, <title>Selections from the Papers of the London Corresponding
+        Society</title>). See also the <title>DNB</title> entry for <persName key="LEE04">Citizen Richard Lee</persName> who ran off with James 
       Powell's wife in December 1795, a year in which Lee and Powell seem to have had close contact.  The single entry for Gen. Powell in 1794 is not coded.
       
-      The contacts in 1800-1810, which seem clearly linked to the theatre, have been coded as <persName xmlns="http://www.tei-c.org/ns/1.0" key="POW01">William Powell</persName> (this entry).
+      The contacts in 1800-1810, which seem clearly linked to the theatre, have been coded as <persName key="POW01">William Powell</persName> (this entry).
       Godwin had some correspondence with William Powell, theatre manager of the Theatre Royal, 
       Drury Lane, in the early 1800s regarding his plays, but there is nothing in the letters that suggests any prior 
       intimacy or acquaintance. (Two letters in Abinger from 23 and 25 September 1801.)
       The 1801 entry recording a letter from Powel does match the correspondence extant from Powel. Interestingly, the diary suggests that Godwin's reply,
-      although catalogued as to Powel, seems, in fact, to have been sent to <persName xmlns="http://www.tei-c.org/ns/1.0" key="KEM01">Kemble</persName>.  The two 1810 entries 
-      are linked to<persName xmlns="http://www.tei-c.org/ns/1.0" key="COO01"> Cooper</persName>, who is visiting Britain in his role as theatre manager.
-      <lb xmlns="http://www.tei-c.org/ns/1.0"/>
-      The final group of contacts is in domestic circles (especially in association with <persName xmlns="http://www.tei-c.org/ns/1.0" key="KEN01">Kenney</persName>, in the 1820s.
+      although catalogued as to Powel, seems, in fact, to have been sent to <persName key="KEM01">Kemble</persName>.  The two 1810 entries 
+      are linked to<persName key="COO01"> Cooper</persName>, who is visiting Britain in his role as theatre manager.
+      <lb/>
+      The final group of contacts is in domestic circles (especially in association with <persName key="KEN01">Kenney</persName>, in the 1820s.
       The attribution of these later entries, is difficult.  It may be that this is a 
       continuation of contact with William Powell, or it may be Powell, Thomas (1776–c.1863), composer and instrumentalist who returns to London in 1826.
-      Due to lack of any supporting evidence, these entries remain uncoded.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Mary Thale ed., <title xmlns="http://www.tei-c.org/ns/1.0">Selections from the Papers of the London Corresponding 
-    Society 1792-99</title> (Cambridge: Cambridge University Press, ). <date xmlns="http://www.tei-c.org/ns/1.0" when="1983"/></bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">MS. Abinger c. 7,  fols 64r + 65v : 	23 Sept. 1801</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">MS. Abinger c. 7,  fols 64 + 65v :	25 Sept. 1801.</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>.</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-10-10" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-09-25" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-11-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-12-27" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+      Due to lack of any supporting evidence, these entries remain uncoded.</p>
+                    </note>
+                    <bibl type="printedbook">Mary Thale ed., <title>Selections from the Papers of the London Corresponding 
+    Society 1792-99</title> (Cambridge: Cambridge University Press, ). <date when="1983"/></bibl>
+                    <bibl type="MS">MS. Abinger c. 7,  fols 64r + 65v : 	23 Sept. 1801</bibl>
+                    <bibl type="MS">MS. Abinger c. 7,  fols 64 + 65v :	25 Sept. 1801.</bibl>
+                    <bibl type="other"><title>DNB</title>.</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="GRA09" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Aaron</forename>
+                        <surname>Graham</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Lawyer</occupation>
+                    <note type="editorial">
+                        <p>Ed Pope notes the following possibiliuties: Aaron Graham Esq 66 Gt
+                            Russell St Bloomsbury Boyle's 1792, subscr 1797 to 12 copies of Edm J
+                            Eyre's play, Justice at Hatton Garden 1800, lived Gunnersbury PCC 1819.
+                            Trustee of Drury Lane Theatre and friend of Richard Brinsley Sheridan
+                            DNB 1751-1816. See Nathaniel Conant DNB 1745-1822, Peter Heywood DNB
+                            1772-1831 (where Aaron Graham's brother is said to have been Col Graham
+                            of Stirlingshire) and Valentine Joyce DNB 1769-1800. Aaron Graham was
+                            probably all the Graham entries above in 1806 to 1808 except for
+                            4.10.1807 which may have been the same Graham as the two October 1811
+                            entries linked to North. </p><p>For Graham of Drury Lane see Bodleian Abinger
+                            c42 f27-8, c18 f83 and c10 f22 and 25 Sandford Graham Hist of Parl
+                            1788-1852 (son of James 1753-1825 above) friend of Byron MP from 1812
+                            married 1819 Thomas Graham Hist of Parl1748-1843 baron Lynedoch 1814
+                            Boyle's 1792 Mrs G 25 Orchard St / G Esq 43 Berkeley Sq / G Esq 5
+                            Portman St / G 56 Lower Gower St / G and Riseing 35 Leicester Sq / Boyle's
+                            1800 Mrs G 3 Upper Grosvenor St / Mrs G 3 Upper Brook St / Mrs G 29
+                            Lambs Conduit St / Dr Melville and Mrs G 34 Southampton St Covent Gdn /
+                            1793 subscr to Lucy Peacock Mrs G St Martin's La Clementina Graham DNB
+                            1782-1877 hostess and author / Janet Graham DNB 1723-1805 poet 1810 James
+                            Graham merchant of Berwick "author of several papers in various literary
+                            works, on Wool, Manufactures, Commerce, Cherters andc" assisting John
+                            Clennell in The New Agricultural and Commercial Magazine (Aberdeen Journal
+                            5.12.1810). A public monument praising him for "endeavouring to promote
+                            the civil and religious liberties of his country" (York Herald 5.6.1819)
+                            was erected at Berwick where he had been coroner, he died 21.6.1816 aged
+                            69. Other Berwick Grahams / William Graham son of William Graham of
+                            Berwick articled attorney 1785 / James Graham grocer and flaxdresser
+                            Berwick 1769 to 1811 bankrupt 1786 / John Graham baker Berwick premises
+                            burnt 1793 bankrupt 1802 1811 nearest in British Book Trades Index is
+                            George Graham printer 41 Poland St 1824 1834 Sir James Robert George
+                            Graham DNB 1792-1861 became 2nd bart 1824</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

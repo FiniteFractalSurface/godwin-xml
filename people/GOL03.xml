@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="GOL03" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Manasseh Isaac</forename>
+                        <surname>Goldston</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1821"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Goldston Primrose St Land Tax 1806 and 1807, Sun Fire 1808 Manasseh Isaac
+                            Goldston 20 Primrose St. Manasseh Isaac Goldston merchant Gt Prescot St,
+                            Goodmans Fields bankrupt 20.6.1811, cert granted 22.8.1811. Found guilty
+                            of forgery at Old Bailey 18.9.1821 and sentenced to death. Described as
+                            about 50, small, Jewish. 20 Primrose Street was one of the houses Godwin
+                            was managing for his Wollstonecraft sisters-in-law from which he had
+                            recently got rid of the previous tenant (see Pope comments for entry for Ball) </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

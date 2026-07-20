@@ -1,9 +1,56 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="ADD01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0"/><surname xmlns="http://www.tei-c.org/ns/1.0">Addington</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1000"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Unidentified. Addington is a personal acquaintance of Godwin’s and a 1797 letter from Godwin to Addington (no first name mentioned) 
-   reveals that there was some degree of upset with respect to Addington due to his dealings with <persName xmlns="http://www.tei-c.org/ns/1.0" key="FEN03">Mrs Fenwick</persName> and 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="ADD01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename/>
+                        <surname>Addington</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation/>
+                    <occupation/>
+                    <note type="editorial">
+                        <p>Unidentified. Addington is a personal acquaintance of Godwin’s and a 1797 letter from Godwin to Addington (no first name mentioned) 
+   reveals that there was some degree of upset with respect to Addington due to his dealings with <persName key="FEN03">Mrs Fenwick</persName> and 
    Mrs Vaughan (a friend of Eliza Fenwick, who seems to have lost her husband, and who may have had some involvement in helping Godwin and Mary Wollstonecraft
    in the later stages of her pregnancy and in the aftermath of the birth. But the precise context is unclear.  This seems to be the only existing correspondence 
    between the two in the Abinger papers.  The letter is noted in the penultimate Addington entry; and the last entry is an adv. There seems to 
-   have been no further communication.  </p><p xmlns="http://www.tei-c.org/ns/1.0">Addington appears with groups comprised of
- family and friends, such as <persName xmlns="http://www.tei-c.org/ns/1.0" key="GOD01">John Godwin</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0" key="MAR01">James Marshall</persName>, and 
-   <persName xmlns="http://www.tei-c.org/ns/1.0" key="REV02">William Reveley</persName>. The Fenwick letters to <persName xmlns="http://www.tei-c.org/ns/1.0" key="HAY01">Mary Hays</persName> make no mention of him.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">Abinger, Dep b. 227.7-69</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 55, fols. 44-5: 23 September 1797</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 22, fols. 53-4: 23 September 1797</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Eliza Fenwick, <title xmlns="http://www.tei-c.org/ns/1.0">The Fate of the Fenwicks; 
-     Letters to <persName xmlns="http://www.tei-c.org/ns/1.0" key="HAY01">Mary Hays</persName> (1798-1828)</title>, ed. by A.F. Wedd (London: Methuen, 1927)</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-06-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-06-30" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-07-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-07-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-07-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-07-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-07-23" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-07-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-08-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-08-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-08-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-08-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-08-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-09-23" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-11-19" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-12-01" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+   have been no further communication.  </p>
+                        <p>Addington appears with groups comprised of
+ family and friends, such as <persName key="GOD01">John Godwin</persName>, <persName key="MAR01">James Marshall</persName>, and 
+   <persName key="REV02">William Reveley</persName>. The Fenwick letters to <persName key="HAY01">Mary Hays</persName> make no mention of him.</p>
+                    </note>
+                    <bibl type="MS">Abinger, Dep b. 227.7-69</bibl>
+                    <bibl type="MS"> MS. Abinger c. 55, fols. 44-5: 23 September 1797</bibl>
+                    <bibl type="MS"> MS. Abinger c. 22, fols. 53-4: 23 September 1797</bibl>
+                    <bibl type="printedbook">Eliza Fenwick, <title>The Fate of the Fenwicks; 
+     Letters to <persName key="HAY01">Mary Hays</persName> (1798-1828)</title>, ed. by A.F. Wedd (London: Methuen, 1927)</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Person List</title>
+            <respStmt>
+               <resp>Researched by</resp>
+               <name>EP</name>
+            </respStmt>
+            <respStmt>
+               <resp>Encoded by</resp>
+               <name>SI</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Generated data</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="HEW02" sex="1">
+               <persName>
+                  <roleName/>
+                  <forename>William</forename>
+                  <surname>Hewerdine</surname>
+                  <addName/>
+               </persName>
+               <birth when="1763">
+                  <placeName/>
+               </birth>
+               <death when="1799"/>
+               <occupation>Songwriter</occupation>
+               <note type="editorial">
+                  <p>William Hewerdine was a songwriter who often sang at the Anacreontic Society with Dignum, who was at Wrights with him in 1793. His song satirising patriots was in the Public Advertiser 24/05/1792. He was often anti-radical and sand at Hood’s election dinners but, according to Pryse Lockhart Gordon’s Personal Memoirs, he did this only fo money and was a ‘double-tailer rat’. He was obituarised as ‘of facetious memory’. He was born in Stamford, Lincs, and died at Port Witham, Lincs (though Gordon suggested he died in Wales) and was buried in Lincoln.</p>
+                  <p> Hewerdine sent a puff to Isaac Swainson in 1789 praising his "Velno's" vegetable syrup. Wm H was also listed in 1789 as a Governor of the Western Dispensary, which was in his street: Charles St, Westminster. He acted one night in 1788 and got such bad reviews that he only appeared once more on London stage some years later.</p>
+               </note>
+               <bibl type="other">
+                  <title>Ed Pope History Entry 20/07/2012</title>
+               </bibl>
+               <bibl type="other">
+                  <title>Gale Databases’ Eighteenth Century Collections Online </title>
+               </bibl>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>
+

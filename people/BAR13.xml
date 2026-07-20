@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="BAR13" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Sarah</forename>
+                        <surname>Barker</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>In Ann Godwin's letter of 1796 (Abinger c.14 f112) she said of her son
+                            Joseph "his aunt Barker is a kept miss to Mr H Hall" and she said much
+                            the same in 1805 (Abinger c.9 f26). The context of both letters suggest
+                            that aunt Barker was not living in London. Thomas Barker married Sarah
+                            Jex at Kettlestone, Norfolk on 29.7.1777. Sarah, daughter of Robert and
+                            Mary Jex was baptised at St John Sepulchre Norwich on 1.6.1760, so she
+                            was probably 4 years younger than her niece Mary (see Godwin, Mary). In
+                            1805 Thomas Barker brought a suit in Chancery against Mark Butcher and
+                            others (Nat Arch C13/75/3) which mentioned that he had formerly kept the
+                            inn at Scole (half way between Ipswich and Norwich). Joseph Godwin of
+                            Bagnio Court renewed this suit in 1808, (Nat Arch C13/90/27) saying that
+                            Thomas Barker had died in July 1807 leaving a will giving his property
+                            to Joseph Godwin. A Thomas Barker aged 56 years from St Bartholomew's
+                            Hospital was buried on 3.7.1807 at St John Clerkenwell. In Godwin's
+                            diary 4.11.1795, 26.11.1795, 26.12.1799, 30.4.1800, and 22.12.1805 could
+                            have been Thomas Barker or his wife Sarah. 8.6.1811 was probably Sarah,
+                            presuming from Joseph Godwin's claim that Barker left no children. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

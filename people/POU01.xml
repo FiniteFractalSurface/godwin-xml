@@ -1,20 +1,65 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="POU01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0"/><surname xmlns="http://www.tei-c.org/ns/1.0">Pouncy</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="POU01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename/>
+                        <surname>Pouncy</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName> </placeName>
+                    </birth>
+                    <death/>
+                    <occupation/>
+                    <note type="editorial"><p>
 The Pouncys in the diary (initialled G and H) appear 76 times between 1816 and 1825. Therefore neither can be Benjamin Thomas Pouncy, 
-draughtsman and engraver, who died in 1799. Nor can we assume any connection to Benjamin Thomas  as his  <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> entry makes
+draughtsman and engraver, who died in 1799. Nor can we assume any connection to Benjamin Thomas  as his  <title>DNB</title> entry makes
   no reference to mariage or children. 
-  </p><p xmlns="http://www.tei-c.org/ns/1.0">Although Godwin writes letters to Pouncy, nothing appears in the collected letter files.</p><p xmlns="http://www.tei-c.org/ns/1.0">In an article from the <title xmlns="http://www.tei-c.org/ns/1.0">Examiner</title>, 16 September 1821, an artist
+  </p><p>Although Godwin writes letters to Pouncy, nothing appears in the collected letter files.</p><p>In an article from the <title>Examiner</title>, 16 September 1821, an artist
 Pouncy is mentioned along with Landseer, but works by artists living and deceased were
 exhibited, so this could well be a reference to
-Benjamin Thomas Pouncy.  Nothing is listed in the National Portrait Gallery.</p><p xmlns="http://www.tei-c.org/ns/1.0">The diary suggests that Pouncys might be associated with the Political Economy Club: <lb xmlns="http://www.tei-c.org/ns/1.0"/>
+Benjamin Thomas Pouncy.  Nothing is listed in the National Portrait Gallery.</p><p>The diary suggests that Pouncys might be associated with the Political Economy Club: <lb/>
 1821, April 30 'M. Marino, C. IX, st. 91. Seek H Pouncy . Political 
-Economy Club instituted. '<lb xmlns="http://www.tei-c.org/ns/1.0"/>
-The following day's entry reads: <lb xmlns="http://www.tei-c.org/ns/1.0"/>
-'Marino, st. 108. Call on G Pouncy '<lb xmlns="http://www.tei-c.org/ns/1.0"/>
+Economy Club instituted. '<lb/>
+The following day's entry reads: <lb/>
+'Marino, st. 108. Call on G Pouncy '<lb/>
 In fact, the Club records make no mention of Pouncy or Godwin, suggesting that there is no connection and that Godwin's
 mentioning of the club might be retrospective - or amatter for some feeling, given that a founder member was Malthus</p>
     
 The British Book Trades Index does list a Henry Pouncy, apprenticed in 1799 who died in 1857; and there are 
-various newspaper advertisements, for example, what seems to be a stationers  Pouncy and Son, at 65 Longacre, London, is listed in <title xmlns="http://www.tei-c.org/ns/1.0">The Times</title>.
+various newspaper advertisements, for example, what seems to be a stationers  Pouncy and Son, at 65 Longacre, London, is listed in <title>The Times</title>.
  
 
-  </note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook"><title xmlns="http://www.tei-c.org/ns/1.0">The Times</title> Tuesday, Sep 01, 1829</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook"><title xmlns="http://www.tei-c.org/ns/1.0">Examiner </title>, 16 September 1821</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook"><title xmlns="http://www.tei-c.org/ns/1.0">Political Economy Club, Centenary Volume</title>Lonon, MacMillan and Co. Ltd., 1921</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-12-23" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"><date xmlns="http://www.tei-c.org/ns/1.0" when="1818-01-01" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"><date xmlns="http://www.tei-c.org/ns/1.0" when="1819-10-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1819-11-29" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"><date xmlns="http://www.tei-c.org/ns/1.0" when="1820-05-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1820-05-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1820-05-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1820-06-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1820-07-04" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1820-08-09" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1820-10-10" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-01-12" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-02-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-04-30" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-05-01" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-05-10" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-09-17" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"><date xmlns="http://www.tei-c.org/ns/1.0" when="1822-02-13" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1822-06-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1822-06-27" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1822-07-17" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1822-09-03" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1822-11-27" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1822-11-28" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"><date xmlns="http://www.tei-c.org/ns/1.0" when="1823-02-20" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1823-02-27" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1823-03-04" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1823-03-12" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1823-04-26" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1823-05-07" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1823-06-03" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1823-06-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1823-08-07" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1823-08-14" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1823-09-03" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1823-10-02" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1823-11-14" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1823-11-15" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1823-12-02" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1823-12-11" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1823-12-15" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1823-12-16" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1823-12-19" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-01-09" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-01-22" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-01-23" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-02-11" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-02-19" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-02-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-02-27" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-03-03" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-05-06" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-05-14" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-05-20" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-05-29" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-06-03" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-06-04" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-06-10" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-06-11" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-06-16" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-06-26" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-06-30" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-08-06" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-10-30" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-11-01" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-11-03" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-11-13" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1824-12-21" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"><date xmlns="http://www.tei-c.org/ns/1.0" when="1825-01-27" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1825-02-05" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1825-02-09" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1825-02-14" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1825-02-17" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1825-02-26" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1825-02-28" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1825-04-30" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1825-05-18" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1825-05-19" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+  </note>
+                    <bibl type="printedbook"><title>The Times</title> Tuesday, Sep 01, 1829</bibl>
+                    <bibl type="printedbook"><title>Examiner </title>, 16 September 1821</bibl>
+                    <bibl type="printedbook"><title>Political Economy Club, Centenary Volume</title>Lonon, MacMillan and Co. Ltd., 1921</bibl>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,16 +1,61 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="GIL01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><forename xmlns="http://www.tei-c.org/ns/1.0">John</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Gillies</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1747-01-18"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1836-02-15"/><occupation xmlns="http://www.tei-c.org/ns/1.0">ancient historian</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">classical scholar</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">The appearances of Gillies (and Gillies’s) offer no real clue to the identity of this person – however, there’s a John Gillies in the <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> with appropriate dates 
-(1747–1836).   Gillies’s principal work was a history of Greece, but he  also translated two of Aristotle's works, <title xmlns="http://www.tei-c.org/ns/1.0">Nicomachean Ethics</title> and <title xmlns="http://www.tei-c.org/ns/1.0">Politics</title>. 
- According to the <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>, the ‘second edition of 1804 added a reply to criticism by the Platonist Thomas Taylor’.  Gillies’s earlier 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="GIL01" sex="1">
+                    <persName>
+                        <forename>John</forename>
+                        <surname>Gillies</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1747-01-18">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1836-02-15"/>
+                    <occupation>ancient historian</occupation>
+                    <occupation>classical scholar</occupation>
+                    <note type="editorial">
+                        <p>The appearances of Gillies (and Gillies’s) offer no real clue to the identity of this person – however, there’s a John Gillies in the <title>DNB</title> with appropriate dates 
+(1747–1836).   Gillies’s principal work was a history of Greece, but he  also translated two of Aristotle's works, <title>Nicomachean Ethics</title> and <title>Politics</title>. 
+ According to the <title>DNB</title>, the ‘second edition of 1804 added a reply to criticism by the Platonist Thomas Taylor’.  Gillies’s earlier 
 appearances tend to be at Paradise’s, and include this beguiling entry: Apr. 18. Su. Dine at Holcroft's : tea Paradise's, with sir R. A's Truchement , 
-B. Hollis, Rutledge, Planta, Nollekens, Hawkins, Gillies, Russian chaplain, Cyclops. '</p><p xmlns="http://www.tei-c.org/ns/1.0">The dates and the circles (Kippis, Planta, Hollis) do seem to match up - so that this identification can be considered probable.
+B. Hollis, Rutledge, Planta, Nollekens, Hawkins, Gillies, Russian chaplain, Cyclops. '</p>
+                        <p>The dates and the circles (Kippis, Planta, Hollis) do seem to match up - so that this identification can be considered probable.
 
-1788 - Dinner at Cadel's with Sheffield, Kippis, Fullaston, Reynolds.<lb xmlns="http://www.tei-c.org/ns/1.0"/>
-  1790 - tea Paradise's, with sir R. A's Truchement , B. Hollis, Rutledge, Planta, Nollekens, Hawkins, Gillies, Russian chaplain, Cyclops.<lb xmlns="http://www.tei-c.org/ns/1.0"/>
-  1790 - tea Paradise's, with. B. Hollis, others, and Gillies<lb xmlns="http://www.tei-c.org/ns/1.0"/>
-  1792 - tea Paradise's. with B. Hollis and others<lb xmlns="http://www.tei-c.org/ns/1.0"/>
-  1793 - Paradise's with Planta etc<lb xmlns="http://www.tei-c.org/ns/1.0"/>
-  1793 - Paradise's with Planta etc<lb xmlns="http://www.tei-c.org/ns/1.0"/>
-  1793 - Paradises's with etc<lb xmlns="http://www.tei-c.org/ns/1.0"/>
-  1793 - sup at Perry's with Porson, Holcrofts etc<lb xmlns="http://www.tei-c.org/ns/1.0"/>
-  1793 - Sup at Wrights with Holcroft, Porson, Perry, Dignum<lb xmlns="http://www.tei-c.org/ns/1.0"/>
-1794 - Sup at Perry's with Robinson, Agar, Bankes  advs</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"><date xmlns="http://www.tei-c.org/ns/1.0" when="1788-05-08" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"><date xmlns="http://www.tei-c.org/ns/1.0" when="1790-04-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1790-05-09" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"><date xmlns="http://www.tei-c.org/ns/1.0" when="1792-12-30" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-01-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-02-17" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-03-31" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-11-24" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-11-30" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-08-24" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-10-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-11-05" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-02-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-12-03" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-03-29" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-10-25" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-03-07" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-10-19" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-06-15" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"><date xmlns="http://www.tei-c.org/ns/1.0" when="1814-10-04" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+1788 - Dinner at Cadel's with Sheffield, Kippis, Fullaston, Reynolds.<lb/>
+  1790 - tea Paradise's, with sir R. A's Truchement , B. Hollis, Rutledge, Planta, Nollekens, Hawkins, Gillies, Russian chaplain, Cyclops.<lb/>
+  1790 - tea Paradise's, with. B. Hollis, others, and Gillies<lb/>
+  1792 - tea Paradise's. with B. Hollis and others<lb/>
+  1793 - Paradise's with Planta etc<lb/>
+  1793 - Paradise's with Planta etc<lb/>
+  1793 - Paradises's with etc<lb/>
+  1793 - sup at Perry's with Porson, Holcrofts etc<lb/>
+  1793 - Sup at Wrights with Holcroft, Porson, Perry, Dignum<lb/>
+1794 - Sup at Perry's with Robinson, Agar, Bankes  advs</p>
+                    </note>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

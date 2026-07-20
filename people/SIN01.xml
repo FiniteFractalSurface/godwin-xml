@@ -1,9 +1,46 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="SIN01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Charles</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Sinclair</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1000"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Defendent in Scottish Treason Trials, not in <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>.  
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="SIN01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Charles</forename>
+                        <surname>Sinclair</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName/>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation/>
+                    <occupation/>
+                    <note type="editorial">
+                        <p>Defendent in Scottish Treason Trials, not in <title>DNB</title>.  
     Sinclair was a young man when he was sent as a delegate to the November/December 1793 'British Convention of 
     the Delegates of the People, associated to obtain Universal Sufrage and Annual Parliaments'  held in Edinburgh.  
     Early in December a number of the delegates were arrested, their papers were confiscated, and their meetings were broken up as illegal and unconstitutional.
-    Sinclair, along with <persName xmlns="http://www.tei-c.org/ns/1.0" key="GER01">Gerrald</persName> and others, was indicted for sedition, but agreed to turn King's 
-    evidence. His companions were sentenced to varying periods of transportation. (See further, Goodwin, <title xmlns="http://www.tei-c.org/ns/1.0">The Friends of Liberty</title>)</p><p xmlns="http://www.tei-c.org/ns/1.0">According to the diary, Sinclair seems to be back in London on 23 December 1793 and also appears to be in London from 13 January 1794 
+    Sinclair, along with <persName key="GER01">Gerrald</persName> and others, was indicted for sedition, but agreed to turn King's 
+    evidence. His companions were sentenced to varying periods of transportation. (See further, Goodwin, <title>The Friends of Liberty</title>)</p>
+                        <p>According to the diary, Sinclair seems to be back in London on 23 December 1793 and also appears to be in London from 13 January 1794 
     until the end of the month. He then reappears in July of that year.   On many of these occasions he is in company with Gerrald, who was 
     sentenced in March 1794, but held in prison.
     Marshall notes, ‘All Godwin  could do after the trial was to write to
@@ -12,29 +49,43 @@ the discharged Charles Sinclair asking him to refute the accusation that he was 
     Sinclair’s character and whether he thinks there are grounds for seeing him as a spy.  
 There is no corresponding entry, 'write to Sinclair', in the diary  – however, Godwin sees him twice 
 around this time: Sinclair calls on Godwin on 13 December and the next day he is noted at Gerrald's with Foulkes and Taylor. These dates are
-noted incorrectly in the diary as 14 and 15 December.</p><p xmlns="http://www.tei-c.org/ns/1.0">Godwin sees Sinclair only once after this letter, in September 1795, at King's, suggesting that 
-their contact is broken following Godwin's assessment of Sinclair's character:   Godwin reported that he had heard <persName xmlns="http://www.tei-c.org/ns/1.0" key="TOO01">Horne Tooke</persName>
+noted incorrectly in the diary as 14 and 15 December.</p>
+                        <p>Godwin sees Sinclair only once after this letter, in September 1795, at King's, suggesting that 
+their contact is broken following Godwin's assessment of Sinclair's character:   Godwin reported that he had heard <persName key="TOO01">Horne Tooke</persName>
     repeatedly vindicate Sinclair's character against imputations of spying, but that Tooke's view had changed after his own imprisonment.  There is a suggestion that 
     Tooke felt Sinclair was trying to compromise him by asking his advice as to how he should conduct himself in Edinburgh, despite Tooke having strongly 
     advised him against going.  Godwin shares Tooke's suspicions and claims that he has raised these himself with Sinclair.  
-    The grounds for suspicion laid out in Godwin's 15 December 1794 letter to Sinclair are seven: <lb xmlns="http://www.tei-c.org/ns/1.0"/>
-   1. That Sinclair had been so eager for deputies to be sent from the Constitutional Society to the Scotch Convention.<lb xmlns="http://www.tei-c.org/ns/1.0"/>
-  2. That he was connected with the Duke of Richmond after he became a member of the Constitutional Society.<lb xmlns="http://www.tei-c.org/ns/1.0"/>
+    The grounds for suspicion laid out in Godwin's 15 December 1794 letter to Sinclair are seven: <lb/>
+   1. That Sinclair had been so eager for deputies to be sent from the Constitutional Society to the Scotch Convention.<lb/>
+  2. That he was connected with the Duke of Richmond after he became a member of the Constitutional Society.<lb/>
   3. That there was something mysterious about Sinclair's state of mind when in London prior to his trial, since, unlike Gerrald, he 
-  was not preoccupied with whether or not to attend.<lb xmlns="http://www.tei-c.org/ns/1.0"/>
-  4. That Sinclair has affected on many occasions an air of secrecy - no man is acquainted with his plans or mode of living.<lb xmlns="http://www.tei-c.org/ns/1.0"/>
-  5. That Sinclair was dismissed from the court which condemned Gerrald for a resolution of which Sinclair was the mover.<lb xmlns="http://www.tei-c.org/ns/1.0"/>
-  6. That there is an incident of a paper-hanger (reference unclear) that could justify prosecution.<lb xmlns="http://www.tei-c.org/ns/1.0"/>
-  7. That Tooke's character gives added weight to his suspicions. <lb xmlns="http://www.tei-c.org/ns/1.0"/>
-Given hindsight, we might want to add a concern that Sinclair is met with at Despard's on at least two occasions in 1794.</p><p xmlns="http://www.tei-c.org/ns/1.0">In July 1821 there are six entries to Sinclair, although these seem to be to Sir J Sinclair, noted as 'Sir J Sinclair' and 'sir Jno Sinclair' in
+  was not preoccupied with whether or not to attend.<lb/>
+  4. That Sinclair has affected on many occasions an air of secrecy - no man is acquainted with his plans or mode of living.<lb/>
+  5. That Sinclair was dismissed from the court which condemned Gerrald for a resolution of which Sinclair was the mover.<lb/>
+  6. That there is an incident of a paper-hanger (reference unclear) that could justify prosecution.<lb/>
+  7. That Tooke's character gives added weight to his suspicions. <lb/>
+Given hindsight, we might want to add a concern that Sinclair is met with at Despard's on at least two occasions in 1794.</p>
+                        <p>In July 1821 there are six entries to Sinclair, although these seem to be to Sir J Sinclair, noted as 'Sir J Sinclair' and 'sir Jno Sinclair' in
   the first two of these entries - a call on Godwin and a 'dine at'.
   The next two entries, 14 and 15 July 1821, give a page reference 'Letter to Sinclair, p. 4' and 'Sinclair, p. 7'. The final two entries are 'write to'.
   There are two letters in Abinger, 18 June and 16 July 1821 between Godwin and Sir John Sinclair that refer to pages sent from Sinclair to Godwin concerning
   a work on political economy and population. 
   Possibly this is Sir John Sinclair, the agricultural expert 
-and statistician (1754–1835) <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>. In Sinclair's letter, he notes his address as 17 Woodstock St, near Bond St, in London. However, according to the <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>, Sinclair was broke and 
+and statistician (1754–1835) <title>DNB</title>. In Sinclair's letter, he notes his address as 17 Woodstock St, near Bond St, in London. However, according to the <title>DNB</title>, Sinclair was broke and 
 had retired to Scotland (although there is evidence of an appearance at Holcombe Fair in July 1821).  
 There is a single entry in 1825 which may be the same Sinclair.  Due to lack of evidence, these entries are not coded.
-</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">MS Abinger c. 17, fols. 47-8: 15 Dec 1794.</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">MS Abinger c. 19, fols. 91-2: 18 June 1821.</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">MS Abinger c. 12, fols. 98-9: 16 July 1821.</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Marshall, p. 135. </bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Frederick Rosen, <title xmlns="http://www.tei-c.org/ns/1.0">Progress and Democracy: William Godwin’s Contribution to Political Philosophy</title> 
-    (New York: Garland, 1987), appendix E, pp. 284-5.</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Albert Goodwin, <title xmlns="http://www.tei-c.org/ns/1.0">The  Friends of Liberty: the English Democratic 
-    Movement in the age of the French Revolution</title> (London, 1979), pp. 296-306.</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-09-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-09-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-09-24" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-09-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-10-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-10-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-10-17" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-12-23" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-12-31" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-01-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-01-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-01-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-01-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-07-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-07-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-07-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-08-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-08-23" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-08-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-08-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-09-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-09-30" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-11-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-12-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-12-14" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-09-23" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+</p>
+                    </note>
+                    <bibl type="MS">MS Abinger c. 17, fols. 47-8: 15 Dec 1794.</bibl>
+                    <bibl type="MS">MS Abinger c. 19, fols. 91-2: 18 June 1821.</bibl>
+                    <bibl type="MS">MS Abinger c. 12, fols. 98-9: 16 July 1821.</bibl>
+                    <bibl type="printedbook">Marshall, p. 135. </bibl>
+                    <bibl type="printedbook">Frederick Rosen, <title>Progress and Democracy: William Godwin’s Contribution to Political Philosophy</title> 
+    (New York: Garland, 1987), appendix E, pp. 284-5.</bibl>
+                    <bibl type="printedbook">Albert Goodwin, <title>The  Friends of Liberty: the English Democratic 
+    Movement in the age of the French Revolution</title> (London, 1979), pp. 296-306.</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

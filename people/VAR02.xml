@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="VAR02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Samuel</forename>
+                        <surname>Vardon</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1776">
+                        <placeName/>
+                    </birth>
+                    <death when="1843"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p> Probably Samuel Vardon who married Charlotte Ling at Astbury Cheshire in
+                            1775, their children were baptised at St Anne Soho, He exhibited at the
+                            Royal Academy in 1772 at Mr Vardon's 41 Gracechurch St, in 1775 at 29
+                            Frith St Soho, in 1792 at 23 Soho Sq and in 1798 at 52 Devonshire St
+                            Queen Sq. Samuel Vardon goldsmith of Frith St voted Hood and Wray 1784.
+                            Samuel and Thomas Vardon were goldsmiths at 29 Frith St in 1790, Samuel
+                            and Thomas Vardon and John Stedman goldsmiths of New Bond St went
+                            bankrupt 29.6.1795 and gained their certificate by September 1795.
+                            Samuel Vardon was a buckle maker at 23 Soho Square. TV was presumably
+                            Thomas Vardon and Phs was Chandler's friend John Phillips. Charlotte the
+                            eldest daughter of Samuel and Charlotte, became Mrs Bence (see Bence,
+                            Charlotte). Samuel William son of Samuel Vardon silversmith of Tottenham
+                            Court Rd was apprenticed in the Framework Knitters company 1795, while a
+                            Samuel son of John Vardon of Bilston, Staffs boxmaker became a freeman
+                            of the Patternmakers company by redemption 6.10.1800. Samuel William
+                            Vardon was apparently the person laterknown as Samuel Arthur Vardon who
+                            died 10.5.1843 in his 67th year of 33 Oxford St, Hyde Park and The
+                            Cottage, Worth, Sussex. Thomas Vardon will PCC 1809 and John Vardon PCC
+                            1810 ironmongers of Gracechurch St were perhaps brothers of Samuel,
+                            certainly relatives. Thomas Vardon d1809 had a nephew Samuel and his son
+                            Thomas was father to Thomas Vardon DNB 1799-1867. The Thomas Vardon
+                            goldsmith may have been the same person as the goldsmith. </p>
+                        <p> It seems probable that Vardon in the 1830s is, as noted in the entry,
+                            Thomas Vardon, because of his connections to the Palace of Westminster
+                            is a relation. </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

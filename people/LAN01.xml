@@ -1,11 +1,46 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="LAN01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Joseph</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Lancaster</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1778-11-25"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1838-10-23"/><occupation xmlns="http://www.tei-c.org/ns/1.0">educationsist</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"> see <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>. 
-<p xmlns="http://www.tei-c.org/ns/1.0">Joseph Lancaster (1778-1838), educationalist, 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="LAN01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Joseph</forename>
+                        <surname>Lancaster</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1778-11-25">
+                        <placeName/>
+                    </birth>
+                    <death when="1838-10-23"/>
+                    <occupation>educationsist</occupation>
+                    <occupation/>
+                    <note type="editorial"> see <title>DNB</title>. 
+<p>Joseph Lancaster (1778-1838), educationalist, 
 pioneered the monitorial system of school discipline, in which a single teacher supervises vast numbers of children by 
 dividing the class up into small groups each taught by one of the older students. This was begun at his free school in Southwark,
- became well known with the publication of his <title xmlns="http://www.tei-c.org/ns/1.0">Improvements in Education as it Respects the Industrious Classes of the Community</title> (1803) 
+ became well known with the publication of his <title>Improvements in Education as it Respects the Industrious Classes of the Community</title> (1803) 
 and in 1805 led to Lancaster being given an admiring audience by George III. However, by the end of the decade he had been 
 imprisoned in the king’s bench debtors’ prison and spent much time on lecture tours in the provinces and Ireland to avoid re-arrest 
-by his creditors. Notice of another London lecture in the same month was given with the following advertisement in the <title xmlns="http://www.tei-c.org/ns/1.0">Morning Chronicle</title>:<lb xmlns="http://www.tei-c.org/ns/1.0"/> 
+by his creditors. Notice of another London lecture in the same month was given with the following advertisement in the <title>Morning Chronicle</title>:<lb/> 
 'The LONDON SOCIETY having resolved to establish a Free School, particularly for the Children of Jews, but also to be open to the Children of the Poor of other 
 Persuasions, residing in Spitalfields, and having adopted the Plan of Mr JOSEPH LANCASTER, they give notice, that THIS DAY a Lecture will be delivered at the above 
 place, by Mr. Lancaster, on the Advantages of Education in General, of his System in Particular. The different parts of the Lecture 
@@ -13,12 +48,18 @@ will be elucidated by many interesting facts; and the Principle of Order whereby
 will exemplify the practice of the Plan.—The Lecture will commence at Six o’clock precisely. The Doors will be opened at Half-past Five precisely.—The company of 
 respectable Jews, and Inhabitants of Spitalfields, is particularly requested; and such persons as may be desirous to attend the lecture
  are requested to apply at the Chapel House, in Brick-lane for tickets of admission, as no person will be admitted on that evening without a ticket.'
-</p><p xmlns="http://www.tei-c.org/ns/1.0">There are only a handful of mentions of Lancaster in the diary – Godwin attends his lecture in 1809 (see above).  He appears twice in 1810 – one call and a mention of 
-some kind of financial dealing (W. Call on Lancaster (£108..6.--).  According to the <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>, this was the year that a committee was formed under the presidency of the 
+</p><p>There are only a handful of mentions of Lancaster in the diary – Godwin attends his lecture in 1809 (see above).  He appears twice in 1810 – one call and a mention of 
+some kind of financial dealing (W. Call on Lancaster (£108..6.--).  According to the <title>DNB</title>, this was the year that a committee was formed under the presidency of the 
 duke of Kent including Allen and his friends, and various ‘educational enthusiasts’ including James Mill, Henry Brougham, and Samuel Whitbread, ‘who had introduced 
 a bill into parliament aiming to set up a national system of elementary schools based on Lancaster's system. This enlarged committee called 
-itself the Royal Lancasterian Institution for the Education of the Poor of Every Religious Persuasion.’   However, in 1809 there is also a mention of ‘Lancaster, broker’.</p><p xmlns="http://www.tei-c.org/ns/1.0">Because both Lancasters (the broker and Joseph the educationist) are mentioned within the space of a couple 
+itself the Royal Lancasterian Institution for the Education of the Poor of Every Religious Persuasion.’   However, in 1809 there is also a mention of ‘Lancaster, broker’.</p><p>Because both Lancasters (the broker and Joseph the educationist) are mentioned within the space of a couple 
 of years, there’s no clear-cut way to differentiate them, unless key-codes are created for the broker and the educationist, and the few mentions
  of fiscal dealings (as above) are separated. The mentions in 1805 are with Lamb, and Nelson, and in 1807 Godwin Calls on Skinner
  Street with Johnson , Philips (adv. Lancaster, Munday, Cobb and R Taylor) , Wolcot and Hippisley.
-</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="journalism"><title xmlns="http://www.tei-c.org/ns/1.0">Morning Chronicle</title>, 3 August 1809.</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-07-20" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-07-25" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-08-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-08-15" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-01-05" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-01-10" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-02-18" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-06-12" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+</p></note>
+                    <bibl type="journalism"><title>Morning Chronicle</title>, 3 August 1809.</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,5 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="SMI03" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0"/><surname xmlns="http://www.tei-c.org/ns/1.0">Smirke</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1000"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> has several possible identifications:
-<p xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="SMI03" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename/>
+                        <surname>Smirke</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation/>
+                    <occupation/>
+                    <note type="editorial"><title>DNB</title> has several possible identifications:
+<p>
 Smirke appears about 80 times between 1795
 and 1815, generally with artists or at art and exhibition
 related events.  However, in the early mentions (1775), Smirke
@@ -8,14 +43,14 @@ and A A.  By 1797 the Smirke circle
  seems to include Northcote and 
 Nicholson, and Godwin recorded a group in 1798 including
 Fordyce, Smirke, Nicholson, Dyson and Jas Wt dine; adv. H G and M J 
-(invités, Fuseli, Northcote, Este, Carlisle, Pinkerton and C Smith).</p><p xmlns="http://www.tei-c.org/ns/1.0">Joseph Farington recorded the following
-on Sunday, 16th December  1798:<lb xmlns="http://www.tei-c.org/ns/1.0"/>
+(invités, Fuseli, Northcote, Este, Carlisle, Pinkerton and C Smith).</p><p>Joseph Farington recorded the following
+on Sunday, 16th December  1798:<lb/>
 'Smirke dined with Godwin on Monday last.  Fuseli
 was invited, as was Northcote, but did not go.  Fuseli
 does not think Godwin at all an extra-ordinary man.  Horne Tooke says that in
-<title xmlns="http://www.tei-c.org/ns/1.0">Godwin's Political Justice</title> there is not a passage
-that has common sense in it.'<lb xmlns="http://www.tei-c.org/ns/1.0"/>  Unfortunately,
-we cannnot discern whether this was a first meeting or not. </p><p xmlns="http://www.tei-c.org/ns/1.0">According to the <title xmlns="http://www.tei-c.org/ns/1.0">Farington Diary</title>, the 
+<title>Godwin's Political Justice</title> there is not a passage
+that has common sense in it.'<lb/>  Unfortunately,
+we cannnot discern whether this was a first meeting or not. </p><p>According to the <title>Farington Diary</title>, the 
 Smirkes are a large family of artists including the 
 well-known painter Robert Smirke (1752-1845), his father Richard 'Dick' Smirke,
 Robert's daughter, the landscape painter Mary (fl. 1809-1818), Robert's son Edward (1795 - 1875) 
@@ -23,13 +58,20 @@ lawyer and antiquary, Robert's eldest
 son Richard (1778-1815), also an exhibiting RA artist, 
 Sir Robert Smirke (1781-1867), architect and second son of Robert Smirke
 the elder, Sydney Smirke (1798-1877) youngest brother and architect,
-and Thomas Smirke (another brother).</p><p xmlns="http://www.tei-c.org/ns/1.0">Farington also reveals that the Thursday dining group 
+and Thomas Smirke (another brother).</p><p>Farington also reveals that the Thursday dining group 
 in 1811 included Lawrence, Fuseli, and both Smirke's, which 
 indicates at least that father and sons were 
 traveling within the same social circle (although
 Godwin doesn't seem to have attended 
 any of these dinners).  It would
 be difficult to separate out which family 
-member Godwin was meeting. </p><p xmlns="http://www.tei-c.org/ns/1.0">We can guess that Godwin's R Smirke junr. is one of the
-brothers (either Robert jr. or Richard).</p><p xmlns="http://www.tei-c.org/ns/1.0">  He appears in the 1796 lists under 1795, which matches his first appearance in the diary.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>.</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook"><title xmlns="http://www.tei-c.org/ns/1.0">The diary of Joseph Farington</title>, ed. by Kenneth Garlick, Angus Macintyre, Kathryn Cave 
-    and Evelyn Newby, 17 vols (New Haven and London: Yale University Press, 1978–98), vol 3, p. 1113.</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-05-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-05-12" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-05-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-06-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-06-11" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-07-16" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-11-13" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-02-15" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-04-22" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-08-10" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-05-13" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-10-26" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-12-10" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-08-05" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-04-19" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-05-17" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-05-17" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-10-05" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-11-09" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-07-20" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-09-20" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-10-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-12-07" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-12-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-12-26" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-01-01" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-02-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-02-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-03-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-09-03" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-11-02" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-12-19" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1808-12-20" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-03-20" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-04-18" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-04-25" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-04-26" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-04-29" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-05-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-05-06" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-11-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-12-06" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-12-18" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-06-09" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-06-12" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-08-08" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-12-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-12-24" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-01-23" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-03-25" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-05-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-05-07" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-10-04" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-10-05" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-10-07" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-03-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-05-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-05-23" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-08-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-08-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-10-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-10-29" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-10-31" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-11-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-11-19" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-11-23" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-11-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-12-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-12-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-12-14" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-12-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-12-17" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"><date xmlns="http://www.tei-c.org/ns/1.0" when="1814-12-31" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-12-09" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"><date xmlns="http://www.tei-c.org/ns/1.0" when="1819-11-23" n="notVenue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1819-11-27" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+member Godwin was meeting. </p><p>We can guess that Godwin's R Smirke junr. is one of the
+brothers (either Robert jr. or Richard).</p><p>  He appears in the 1796 lists under 1795, which matches his first appearance in the diary.</p></note>
+                    <bibl type="other"><title>DNB</title>.</bibl>
+                    <bibl type="printedbook"><title>The diary of Joseph Farington</title>, ed. by Kenneth Garlick, Angus Macintyre, Kathryn Cave 
+    and Evelyn Newby, 17 vols (New Haven and London: Yale University Press, 1978–98), vol 3, p. 1113.</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

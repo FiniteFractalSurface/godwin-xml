@@ -1,8 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="BLE01" sex="2"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Marguerite</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Gardiner</surname><addName xmlns="http://www.tei-c.org/ns/1.0">née Power, Countess of Blessington</addName></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1789-09-01"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1849-06-04"/><occupation xmlns="http://www.tei-c.org/ns/1.0">author</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0"/><p xmlns="http://www.tei-c.org/ns/1.0">Lady Blessington was a socialite who held literary soirées in London which included <persName xmlns="http://www.tei-c.org/ns/1.0" key="MOO03">Thomas Moore</persName>, John Galt, and 
-      <persName xmlns="http://www.tei-c.org/ns/1.0" key="JER02">William Jerdan</persName>. At one of these events she met 
-    <persName xmlns="http://www.tei-c.org/ns/1.0" key="DOR01">Count D'Orsay</persName> with whom she was thereafter extremely close. She travelled to Italy in 1822 with her 
-    husband and she met <persName xmlns="http://www.tei-c.org/ns/1.0" key="BYR01">Lord Byron</persName> in 1832. Subsequently, she published <title xmlns="http://www.tei-c.org/ns/1.0">Journal of Conversations with Lord Byron</title>. 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="BLE01" sex="2">
+                    <persName>
+                        <roleName/>
+                        <forename>Marguerite</forename>
+                        <surname>Gardiner</surname>
+                        <addName>née Power, Countess of Blessington</addName>
+                    </persName>
+                    <birth when="1789-09-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1849-06-04"/>
+                    <occupation>author</occupation>
+                    <note type="editorial">
+                        <p/>
+                        <p>Lady Blessington was a socialite who held literary soirées in London which included <persName key="MOO03">Thomas Moore</persName>, John Galt, and 
+      <persName key="JER02">William Jerdan</persName>. At one of these events she met 
+    <persName key="DOR01">Count D'Orsay</persName> with whom she was thereafter extremely close. She travelled to Italy in 1822 with her 
+    husband and she met <persName key="BYR01">Lord Byron</persName> in 1832. Subsequently, she published <title>Journal of Conversations with Lord Byron</title>. 
       After her husband died, she returned to writing in the 1830s to supplement her income and published a number of 'silver-fork' novels. 
       Lady Blessington married her step-daughter to D'Orsay, but the couple became estranged, not wholly unrelated to the continuing
-      intimacy of her husband with her step-mother.</p><p xmlns="http://www.tei-c.org/ns/1.0">Godwin first meets her in 1834, where two early entries are to Blessinton.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Nick Foulkes, <title xmlns="http://www.tei-c.org/ns/1.0">Scandalous Society: Passion and 
-  Celebrity in the Nineteenth Century</title> (London: Abacus, 2004).</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-11-24" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-12-01" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-12-08" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-12-17" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-01-09" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-02-08" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-05-01" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-05-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-08-20" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"><date xmlns="http://www.tei-c.org/ns/1.0" when="1836-02-09" n="venue" type="ah"/></ab></ab></person></listPerson>
+      intimacy of her husband with her step-mother.</p>
+                        <p>Godwin first meets her in 1834, where two early entries are to Blessinton.</p>
+                    </note>
+                    <bibl type="printedbook">Nick Foulkes, <title>Scandalous Society: Passion and 
+  Celebrity in the Nineteenth Century</title> (London: Abacus, 2004).</bibl>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

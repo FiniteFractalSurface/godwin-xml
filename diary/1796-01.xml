@@ -1,46 +1,600 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.tei-c.org/ns/1.0" type="dMonth" xml:id="g1796-01"><ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-01"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-01">Jan. 1. 1796. F.</date><ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0616.html">Hume, p. 131</ref>: <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0619.html">Calonne, p. 42</ref>: <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0611.html">Cymbeline, acts 3 &amp; 4</ref>. <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="D">Dine at <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/KIN01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">King's</placeName></persName>, w. <persName xmlns="http://www.tei-c.org/ns/1.0">Franco's</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0">D<hi xmlns="http://www.tei-c.org/ns/1.0" rend="sup">r</hi>
-                     Howard</persName> &amp; <persName xmlns="http://www.tei-c.org/ns/1.0">A B</persName></seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="M">meet <persName xmlns="http://www.tei-c.org/ns/1.0">mrs Mackintosh</persName></seg>.</ab><ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-02"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-02">2. Sa.</date><ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0616.html">Hume, p. 200</ref>: <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0619.html">Calonne, p. 64</ref>: <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0611.html">Cymbeline, act. 5</ref>. <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="S">Sup at <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/NIC01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">Nicholson's</placeName></persName>, talk of <seg xmlns="http://www.tei-c.org/ns/1.0" type="dTopic">passions</seg></seg>.</ab><pb xmlns="http://www.tei-c.org/ns/1.0" n="e.202_0026r"/><ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-03"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-03">Jan. 3. Su.</date><ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0616.html">Hume, p. 231</ref>: <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0619.html">Calonne, p. 96</ref>. <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="BG"><persName xmlns="http://www.tei-c.org/ns/1.0">Sm.</persName> breakfasts</seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="D">dine at <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/HOL01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">Hts</placeName></persName>, w. <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/FOU01.html">Foulkes's</persName>,
-                     <persName xmlns="http://www.tei-c.org/ns/1.0">Hutchinson</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0">E M</persName> &amp; <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/COO05.html">E P C</persName>; <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="Adv">adv. <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/POW02.html">Powel</persName> &amp; <persName xmlns="http://www.tei-c.org/ns/1.0">Russel</persName></seg></seg>.</ab><ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-04"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-04">4. M.</date><ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0533.html">K John, act 1</ref>. <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="B">Breakfast
-                  w <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/CAR01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">Carlisle</placeName></persName></seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="C">call on <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/LAW01.html" type="nah"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">Lawrence</placeName></persName>, na</seg>, <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="C"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/MOO01.html" type="nah"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">Moore</placeName></persName> n</seg>, <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="C"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/MAC01.html" type="nah"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">Mackintosh</placeName></persName> n</seg>, <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="C"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/DEA01.html" type="nah"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">Dealtry</placeName></persName> n</seg>, <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="C"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/WOL02.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">Wolcot</placeName></persName></seg>, &amp; <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="C"><persName xmlns="http://www.tei-c.org/ns/1.0" type="nah"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">Crisp</placeName></persName> na</seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="D">dine at <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/OPI01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">Opie's</placeName></persName>, w <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/TAY01.html">Taylor</persName> &amp; <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/DYE01.html">Dyer</persName></seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="S">sup at <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/REV01|REV02.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">Reveley's</placeName></persName></seg>.</ab><ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-05"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-05">5. Tu.</date><ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0616.html">Hume, p. 310, fin</ref>: <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0533.html">K John, acts 2, 3, 4</ref>. <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="CG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/GOD01.html">J G</persName> calls</seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="TG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/FEN01.html">Fenwick</persName> at tea</seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="other"><orgName xmlns="http://www.tei-c.org/ns/1.0">Philomaths</orgName>, <seg xmlns="http://www.tei-c.org/ns/1.0" type="dTopic">drama</seg></seg>.</ab><ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-06"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-06">6. W.</date><ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0285.html">Hume's Essays, Vol. II, p. 168-196</ref>:
-                  <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0533.html">K Jn, act 5</ref>. <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="D">Dine at
-                     <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/KIN01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">King's</placeName></persName>, w <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/FEN01.html">Fenwick</persName> &amp; <persName xmlns="http://www.tei-c.org/ns/1.0">A
-                     B</persName></seg>.</ab><ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-07"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-07">7. Th.</date><ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0285.html">Hume, p. 234</ref>: <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0619.html">Calonne, p. 120</ref>: <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0106.html">Richard 2, act 1</ref>. <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="S">Sup at <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/BAT01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">Batty's</placeName></persName></seg>. <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0621.html">Thelwal's Preface</ref>; <ref xmlns="http://www.tei-c.org/ns/1.0" type="dWrote" subtype="write" target="/works/thel01.html">answer</ref>. <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="CG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/DYS01.html">Dyson</persName></seg> &amp; <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="CG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/WHI03.html">White</persName> call</seg>.</ab><ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-08"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-08">8. F.</date><ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0285.html">Hume, p. 258</ref>: <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0619.html">Calonne, p. 126</ref>. <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="DG"><persName xmlns="http://www.tei-c.org/ns/1.0">C</persName> dines</seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="Ta">tea <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/HAY01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">miss Hayes's</placeName></persName>, w. <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/HOL01.html">Ht</persName> &amp; <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/WOL01.html">Wolstencraft</persName></seg>. <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0106.html">Richard 2, act 2</ref>. <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="CG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/TUT01.html">Tuthil</persName> calls</seg>.</ab><ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-09"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-09">9. Sa.</date><ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0285.html">Hume, p. 284</ref>: <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0619.html">Calonne, p. 146</ref>: <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0106.html">Richard 2, act 3</ref>. <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="CG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/TUT01.html">Tuthil</persName></seg> &amp; <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="CG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/WED02.html">Wedgwood</persName> call</seg>; <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="TG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/MAR01.html">M</persName> &amp; <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/DYS01.html">Dyson</persName> at tea</seg>.</ab><pb xmlns="http://www.tei-c.org/ns/1.0" n="e.202_0026v"/><ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-10"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-10">Jan. 10. Su.</date><ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0285.html">Hume, p. 290</ref>. <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="BG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/SMI01.html">Smith</persName> breakfasts</seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="CG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/MOO02.html">M Moore</persName></seg>, <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="CG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/MAR01.html">M</persName></seg>, <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="CG"><persName xmlns="http://www.tei-c.org/ns/1.0">C</persName></seg> &amp; <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="CG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/ALL01.html">Allen</persName> call</seg>; talk of
-                  <seg xmlns="http://www.tei-c.org/ns/1.0" type="dTopic">anatomy</seg> &amp; <seg xmlns="http://www.tei-c.org/ns/1.0" type="dTopic">theatre</seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="D">dine at
-                     <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/HOL01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">Hts</placeName></persName>, w. <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/TUT01.html">Tuthil</persName>; <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="Adv">adv.
-                        <persName xmlns="http://www.tei-c.org/ns/1.0">mrs &amp; miss Banks</persName></seg></seg>. <emph xmlns="http://www.tei-c.org/ns/1.0" rend="deleted">meet Russel.</emph></ab><ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-11"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-11">11. M.</date><seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="C">Call on <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/ROB01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">Robinson</placeName></persName></seg>, <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="C"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/LIS01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">Lister</placeName></persName></seg>, <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="C"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/DAV02.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">Davis</placeName></persName></seg>, <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="C"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/MON01.html" type="nah"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">Montagu</placeName></persName> na</seg>, <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="C"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/INC01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">Inchbald</placeName></persName><seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="Adv"> adv <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/ROB01.html">Robinson</persName></seg></seg> &amp; <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="C"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/HOL01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">Ht</placeName></persName><seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="Adv"> adv <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/MER01.html">Merry</persName></seg></seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="D">dine at <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/KIN01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">King's</placeName></persName>, w. <persName xmlns="http://www.tei-c.org/ns/1.0">A B</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0">Belzunce</persName> &amp;
-                     <persName xmlns="http://www.tei-c.org/ns/1.0">Brook</persName></seg>. <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="M">meet <persName xmlns="http://www.tei-c.org/ns/1.0">Russel</persName></seg>. <add xmlns="http://www.tei-c.org/ns/1.0">40</add></ab><ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-12"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-12">12. Tu.</date><ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0285.html">Hume, p. 307</ref>. <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="CG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/ALL01.html">Allen</persName></seg>, <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="CG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/STO01.html">Stodart</persName></seg>, <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="CG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/HOL03.html">J Hollis</persName></seg> &amp; <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="CG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/OTT01.html">Otton</persName></seg> call; talk of <seg xmlns="http://www.tei-c.org/ns/1.0" type="dTopic">education</seg>, <seg xmlns="http://www.tei-c.org/ns/1.0" type="dTopic">volition</seg>,
-                 <seg xmlns="http://www.tei-c.org/ns/1.0" type="dTopic">matter</seg> &amp; <seg xmlns="http://www.tei-c.org/ns/1.0" type="dTopic">duplicity</seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="D">dine at
-                     <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/ROB01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">Robinson's</placeName></persName>, w <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/INC01.html">Inchbald</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/MER01.html">Merry</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/CHA06.html">Chalmers</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/HOL01.html">Ht</persName> &amp; <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/COO01.html">C</persName></seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="S"><orgName xmlns="http://www.tei-c.org/ns/1.0">Ph</orgName>. supper; <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="Adv">adv. <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/MER01.html">Merry</persName></seg></seg></ab><ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-13"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-13">13. W.</date><ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0285.html">Hume, p. 361, fin</ref>: <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0619.html">Calonne, p. 170</ref>. <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="Ta">Tea <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/MON01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">Montagu's</placeName></persName>, w. <persName xmlns="http://www.tei-c.org/ns/1.0">Wrangham</persName></seg>.</ab><ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-14"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-14">14. Th.</date><ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0285.html">Hume's Essays, Vol. II, p. 35</ref>. <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="CG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/DYS01.html">Dyson</persName> calls</seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="C">call
-                  on <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/MAC01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">Mackintosh</placeName></persName></seg>, <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="C"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/KEN04.html" type="nah"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">Kentish</placeName></persName> nah</seg> &amp; <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="C"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/HAY01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">miss Hayes</placeName></persName></seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="D">Dine at <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/NEW01|NEW04.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">Newton's</placeName></persName>, w. <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/WOL01.html">Wolstencraft</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/CHR03.html">mrs Christie</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/SMI01.html">Smith</persName>,
-                     <persName xmlns="http://www.tei-c.org/ns/1.0">Bell</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0">Croke</persName>,
-                     <persName xmlns="http://www.tei-c.org/ns/1.0">Lovel</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0">Bateman</persName>,
-                     <persName xmlns="http://www.tei-c.org/ns/1.0">Dalby</persName> &amp; <persName xmlns="http://www.tei-c.org/ns/1.0">Blackburnes</persName>; <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="Adv">adv. <persName xmlns="http://www.tei-c.org/ns/1.0">Bristow</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0">Wybourne</persName>
-                     &amp; <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/INC02.html">Incledon</persName></seg></seg>.</ab><ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-15"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-15">15. F.</date><ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0285.html">Hume, p. 42</ref>: <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0106.html">Richard 2, acts 4 &amp; 5</ref>. <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="C">Call on
-                     <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/HOL03.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">J Hollis</placeName></persName></seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="DG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/COO01.html">C</persName> dine[s?]</seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="TG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/DYS01.html">Dyson</persName> &amp; <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/KEA01.html">Kearsley</persName> at tea; talk of <seg xmlns="http://www.tei-c.org/ns/1.0" type="dTopic">Shakespear</seg></seg>.</ab><ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-16"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-16">16. Sa.</date><ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0285.html">Hume, p. 54</ref>. <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="CG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/MAR01.html">M</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0">C</persName></seg> &amp; <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="CG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/STO01.html">Stoddart</persName> call</seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="M">meet
-                     <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/MOO01.html">dr Moore</persName></seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="D">dine at <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/KIN01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">King's</placeName></persName></seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="Ta">tea <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/CAR01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">Carlisle's</placeName></persName>, w. <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/ALL01.html">Allens</persName>,
-                     <persName xmlns="http://www.tei-c.org/ns/1.0">Alexander</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/SHE11.html">Shee</persName>,
-                     <persName xmlns="http://www.tei-c.org/ns/1.0">Carr</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0">Crichton</persName>,
-                     <persName xmlns="http://www.tei-c.org/ns/1.0">Duppa</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0">Sloper</persName> &amp;
-                     <persName xmlns="http://www.tei-c.org/ns/1.0">Turner</persName></seg>.</ab><pb xmlns="http://www.tei-c.org/ns/1.0" n="e.202_0027r"/><ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-17"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-17">Jan. 17. Su.</date><ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0113.html">Henry 4, I, act 1</ref>. <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="BG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/SMI01.html">Smith</persName> breakfasts</seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="CG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/STO01.html">Stoddart</persName> calls</seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="C">call on <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/MAC01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">Mackintosh</placeName></persName></seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="D">dine at <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/HOL01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">Hts</placeName></persName>, w. <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/MER01.html">Merry</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0">EM</persName>
-                  &amp; <persName xmlns="http://www.tei-c.org/ns/1.0">T</persName>; <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="Adv">adv. <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/RIT01.html">Ritson</persName></seg></seg>.</ab><ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-18"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-18">18. M.</date><ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0113.html">Henry 4, I, act 2</ref>. <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="CG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/FEN01.html">Fenwick</persName> calls</seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="S">sup at
-                     <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/GOD04.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">miss G's</placeName></persName></seg>.</ab><ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-19"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-19">19. Tu.</date><ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0113.html">Henry 4, I, acts 3, 4, 5</ref>; <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0124.html">II, acts 1, 2</ref>: <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0622.html">Rabelais, p. 10</ref>. <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="C">Call on <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/FEN01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">Fenwick</placeName></persName></seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="other"><orgName xmlns="http://www.tei-c.org/ns/1.0">Philomaths</orgName>, <seg xmlns="http://www.tei-c.org/ns/1.0" type="dTopic">drama</seg></seg>. <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="CG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/GOD15.html">miss M G</persName> calls</seg>.</ab><ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-20"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-20">20. W.</date><ref xmlns="http://www.tei-c.org/ns/1.0" type="dWrote" subtype="write" target="/works/enqu01.html">Write 3 pages</ref>. <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0124.html">Henry 4, II, acts 3, 4</ref>. <emph xmlns="http://www.tei-c.org/ns/1.0" rend="brackets"><seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="C">Call on <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/INC01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">Inchbald</placeName></persName></seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="Ta">tea <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/HAY01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">Hayes's</placeName></persName>, w. <persName xmlns="http://www.tei-c.org/ns/1.0">Draper</persName> &amp; <persName xmlns="http://www.tei-c.org/ns/1.0">Brown</persName></seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="M">meet <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/LEW02.html">Lewis</persName> cg
-                  </seg>. <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="letterRecvd">[Letter from
-                     <persName xmlns="http://www.tei-c.org/ns/1.0">Westley</persName></ref></emph></ab><ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-21"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-21">21. Th.</date><ref xmlns="http://www.tei-c.org/ns/1.0" type="dWrote" subtype="write" target="/works/enqu01.html">Write p. 4, 5, 6/2</ref>. <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0285.html">Hume, p. 56</ref>: <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0124.html">Henry 4,
-                  II, act 5</ref>; <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0138.html">Henry 5, acts 1, 2,
-                  3</ref>. <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="C">Call on <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/LIS02.html" type="nah"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">Dan Lister</placeName></persName> n</seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="S">sup at <persName xmlns="http://www.tei-c.org/ns/1.0"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">Carr's</placeName></persName>, w. <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/CAR01.html">Carlisle</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/SHE11.html">Shee</persName> &amp; <persName xmlns="http://www.tei-c.org/ns/1.0">Littledale</persName></seg>.</ab><ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-22"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-22">22. F.</date><ref xmlns="http://www.tei-c.org/ns/1.0" type="dWrote" subtype="write" target="/works/enqu01.html">Write p. 6/2, 7, 8, 9</ref>. <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0285.html">Hume, p. 65</ref>: <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0124.html">Henry 5, act 4</ref>. <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="CG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/WED02.html">Wedgwood</persName> calls</seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="M">meet <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/BAN03.html">Banks</persName></seg> &amp; <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="M"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/FRE01.html">Frend</persName></seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="D">dine at <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/KIN01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">King's</placeName></persName>, w <persName xmlns="http://www.tei-c.org/ns/1.0">A B</persName> &amp; <persName xmlns="http://www.tei-c.org/ns/1.0">Steele</persName></seg>: <ref xmlns="http://www.tei-c.org/ns/1.0" type="dEntertainment" subtype="Theat" target="/plays/harl01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="DL"/>theatre, Harlequin Captive</ref>.</ab><ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-23"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-23">23. Sa.</date><ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0285.html">Hume, p. 100</ref>: <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0124.html">Henry 5, act 5</ref>. <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="CG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/HOL01.html">Ht</persName></seg> &amp; <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="CG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/FAW01.html">Fawcet</persName> call</seg>. <ref xmlns="http://www.tei-c.org/ns/1.0" type="dEntertainment" subtype="Theat" target="/plays/mant01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="DL"/>Theatre, Man of Ten Thousand; <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="Adv">adv.
-                        <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/GAL01.html">J G Jones</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/STO01.html">Stoddart</persName> &amp; <persName xmlns="http://www.tei-c.org/ns/1.0">Armstrong</persName></seg></ref>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="S">sup at <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/HOL01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">Ht's</placeName></persName></seg>.</ab><pb xmlns="http://www.tei-c.org/ns/1.0" n="e.202_0027v"/><ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-24"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-24">Jan. 24. Su.</date><ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0199.html">Merry Wives, acts 1 &amp; 2</ref> . <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="BG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/SMI01.html">Smith</persName> breakfasts</seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="CG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/STO01.html">Stoddart</persName> calls</seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="D">dine
-                  at <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/HOL01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">Ht's</placeName></persName>, w. <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/MER01.html">Merry</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0">T</persName>,
-                  &amp; <persName xmlns="http://www.tei-c.org/ns/1.0">A Mercier</persName>; <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="Adv">adv. <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/NIC01.html">Nicholsons</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0">Pinard</persName> &amp;
-                        <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/RIC04.html">H Richter</persName></seg></seg></ab><ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-25"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-25">25. M.</date><ref xmlns="http://www.tei-c.org/ns/1.0" type="dWrote" subtype="write" target="/works/enqu01.html">Write p. 10</ref>. <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0285.html">Hume, p. 113</ref>: <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0623.html">Wolstencraft's Travels, p. 78</ref>. <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="DG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/FAW01.html">Fawcet</persName> dines</seg>: <ref xmlns="http://www.tei-c.org/ns/1.0" type="dEntertainment" subtype="Theat" target="/plays/wayt01|sher01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="CG"/>Theatre, How to Get Married &amp; Merry
-                  Sherwood</ref>.</ab><ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-26"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-26">26. Tu.</date><ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0285.html">Hume</ref>: <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0623.html">Wolstencraft, p. 178</ref>. <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="TG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/DYS01.html">Dyson</persName> at tea</seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="other"><orgName xmlns="http://www.tei-c.org/ns/1.0">Philomaths</orgName>, <seg xmlns="http://www.tei-c.org/ns/1.0" type="dTopic">gratitude</seg></seg>.</ab><ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-27"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-27">27. W.</date><ref xmlns="http://www.tei-c.org/ns/1.0" type="dWrote" subtype="write" target="/works/enqu01.html">Write p. 11</ref>. <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0285.html">Hume</ref>: <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0623.html">Wolstencraft,
-                  p. 197</ref>. <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="CG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/FEN01.html">Fenwick</persName></seg> &amp; <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="CG"><persName xmlns="http://www.tei-c.org/ns/1.0">C</persName> call</seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="D">dine at <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/KIN01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">King's</placeName></persName>, w. <persName xmlns="http://www.tei-c.org/ns/1.0">A B</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/MER01.html">Merry</persName>,
-                     <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/EST01.html">Este</persName> &amp; <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/MAC14.html">Macdonnel</persName></seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="M">meet <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/NEW01.html">Newton</persName></seg> &amp; <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="M"><persName xmlns="http://www.tei-c.org/ns/1.0">Barnes</persName></seg>.</ab><ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-28"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-28">28. Th.</date><ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0285.html">Hume</ref>: <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0623.html">Wolstencraft, p. 232</ref>. <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="Cn">Call on <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/NOR01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">Northcote</placeName></persName>, w. <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/SMI01.html">Smith</persName> &amp;
-                     <persName xmlns="http://www.tei-c.org/ns/1.0">Jamieson</persName>; talk of <seg xmlns="http://www.tei-c.org/ns/1.0" type="dTopic">expression</seg> &amp;
-                     <seg xmlns="http://www.tei-c.org/ns/1.0" type="dTopic">players</seg>, <seg xmlns="http://www.tei-c.org/ns/1.0" type="dTopic"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/JOH01.html">Johnson</persName></seg>, <seg xmlns="http://www.tei-c.org/ns/1.0" type="dTopic"><persName xmlns="http://www.tei-c.org/ns/1.0">Raffael</persName></seg> &amp; <seg xmlns="http://www.tei-c.org/ns/1.0" type="dTopic"><persName xmlns="http://www.tei-c.org/ns/1.0">Garrick</persName></seg>, <ref xmlns="http://www.tei-c.org/ns/1.0" type="dEntertainment" subtype="Exhib" target="/events/ex0112.html">see Remb<hi xmlns="http://www.tei-c.org/ns/1.0" rend="sup">t</hi> &amp; Titian</ref></seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="DG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/STO01.html">Stoddart</persName> &amp; <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/ALL01.html">Allen</persName> dine; talk of <seg xmlns="http://www.tei-c.org/ns/1.0" type="dTopic">matrimony</seg> &amp; <seg xmlns="http://www.tei-c.org/ns/1.0" type="dTopic"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/BUR10.html">Burke</persName></seg></seg>.</ab><ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-29"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-29">29. F.</date><ref xmlns="http://www.tei-c.org/ns/1.0" type="dWrote" subtype="write" target="/works/enqu01.html">Write p. 12, 13</ref>. <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0285.html">Hume</ref>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="CG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/DYS01.html">Dyson</persName></seg>, <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="CG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/OTT01.html">Otton</persName></seg> &amp; <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="CG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/KEN04.html">Kentish</persName> call</seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="D">dine at
-                     <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/REV01|REV02.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">Reveley's</placeName></persName>, w. <persName xmlns="http://www.tei-c.org/ns/1.0">Etons</persName></seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="S">sup at <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/FOU01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">Foulkes's</placeName></persName>, w. <persName xmlns="http://www.tei-c.org/ns/1.0">Hovels</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0">Hutchinson</persName> &amp;
-                     <persName xmlns="http://www.tei-c.org/ns/1.0">Cooke</persName></seg>.</ab><ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-30"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-30">30. Sa.</date><seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="B">Breakfast at <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/LAW01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">Lawrence's</placeName></persName></seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="C">call on <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/KIN01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">King</placeName></persName></seg>, &amp; <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="C"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/INC01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">Inchbald</placeName></persName></seg>, <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="Adv">adv. <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/TWI02.html">R Twiss</persName>,
-                     <persName xmlns="http://www.tei-c.org/ns/1.0">Beck</persName> &amp; <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/COO05.html">miss Cooper</persName></seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="D">dine at <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/HOL01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">Ht's</placeName></persName>, w. <persName xmlns="http://www.tei-c.org/ns/1.0">T.</persName> &amp; <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/HOL10.html">mrs
-                     Cole</persName></seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="S">sup at <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/NIC01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">Nicholson's</placeName></persName></seg>.</ab><pb xmlns="http://www.tei-c.org/ns/1.0" n="e.202_0028r"/><ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-31"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-31">Jan. 31. Su.</date><seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="BG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/SMI01.html">Smith</persName> breakfasts</seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="D">dine at
-                     <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/TOO01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">Tooke's</placeName></persName>, w. <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/VAU99.html">Vaughan</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/BON03.html">Bonneys</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0">Brockbank</persName>,
-                     <persName xmlns="http://www.tei-c.org/ns/1.0">Perkins</persName> &amp; <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/WHI03.html">White</persName></seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="S">sup at <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/PER01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">Perry's</placeName></persName>, w. <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/POR01.html">Porson</persName> &amp; <persName xmlns="http://www.tei-c.org/ns/1.0">miss
-                     Grant</persName></seg>.</ab></div>
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="dMonth" xml:id="g1796-01">
+   <ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-01"><date
+         xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-01">Jan. 1. 1796. F.</date><ref
+         xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0616.html"
+         >Hume, p. 131</ref>: <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read"
+         target="/bibl/te0619.html">Calonne, p. 42</ref>: <ref xmlns="http://www.tei-c.org/ns/1.0"
+         type="dText" subtype="read" target="/bibl/te0611.html">Cymbeline, acts 3 &amp; 4</ref>.
+         <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="D">Dine at <persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/KIN01.html"><placeName
+               xmlns="http://www.tei-c.org/ns/1.0" type="venue">King's</placeName></persName>, w.
+            <persName xmlns="http://www.tei-c.org/ns/1.0">Franco's</persName>, <persName
+            xmlns="http://www.tei-c.org/ns/1.0">D<hi xmlns="http://www.tei-c.org/ns/1.0" rend="sup"
+               >r</hi> Howard</persName> &amp; <persName xmlns="http://www.tei-c.org/ns/1.0">A
+            B</persName></seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="M"
+         >meet <persName xmlns="http://www.tei-c.org/ns/1.0">mrs Mackintosh</persName></seg>.</ab>
+   <ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-02"><date
+         xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-02">2. Sa.</date><ref
+         xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0616.html"
+         >Hume, p. 200</ref>: <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read"
+         target="/bibl/te0619.html">Calonne, p. 64</ref>: <ref xmlns="http://www.tei-c.org/ns/1.0"
+         type="dText" subtype="read" target="/bibl/te0611.html">Cymbeline, act. 5</ref>. <seg
+         xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="S">Sup at <persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/NIC01.html"><placeName
+               xmlns="http://www.tei-c.org/ns/1.0" type="venue">Nicholson's</placeName></persName>,
+         talk of <seg xmlns="http://www.tei-c.org/ns/1.0" type="dTopic">passions</seg></seg>.</ab>
+   <pb xmlns="http://www.tei-c.org/ns/1.0" n="e.202_0026r"/>
+   <ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-03"><date
+         xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-03">Jan. 3. Su.</date><ref
+         xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0616.html"
+         >Hume, p. 231</ref>: <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read"
+         target="/bibl/te0619.html">Calonne, p. 96</ref>. <seg xmlns="http://www.tei-c.org/ns/1.0"
+         type="dMeal" subtype="BG"><persName xmlns="http://www.tei-c.org/ns/1.0">Sm.</persName>
+         breakfasts</seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="D">dine at
+            <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/HOL01.html"><placeName
+               xmlns="http://www.tei-c.org/ns/1.0" type="venue">Hts</placeName></persName>, w.
+            <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/FOU01.html"
+            >Foulkes's</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0"
+            >Hutchinson</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0">E M</persName>
+         &amp; <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/COO05.html">E P
+            C</persName>; <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="Adv"
+            >adv. <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/POW02.html"
+               >Powel</persName> &amp; <persName xmlns="http://www.tei-c.org/ns/1.0"
+               >Russel</persName></seg></seg>.</ab>
+   <ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-04"><date
+         xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-04">4. M.</date><ref
+         xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0533.html"
+         >K John, act 1</ref>. <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="B"
+         >Breakfast w <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/CAR01.html"
+               ><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue"
+            >Carlisle</placeName></persName></seg>: <seg xmlns="http://www.tei-c.org/ns/1.0"
+         type="dMeeting" subtype="C">call on <persName xmlns="http://www.tei-c.org/ns/1.0"
+            ref="/people/LAW01.html" type="nah"><placeName xmlns="http://www.tei-c.org/ns/1.0"
+               type="venue">Lawrence</placeName></persName>, na</seg>, <seg
+         xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="C"><persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/MOO01.html" type="nah"><placeName
+               xmlns="http://www.tei-c.org/ns/1.0" type="venue">Moore</placeName></persName>
+      n</seg>, <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="C"><persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/MAC01.html" type="nah"><placeName
+               xmlns="http://www.tei-c.org/ns/1.0" type="venue">Mackintosh</placeName></persName>
+         n</seg>, <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="C"><persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/DEA01.html" type="nah"><placeName
+               xmlns="http://www.tei-c.org/ns/1.0" type="venue">Dealtry</placeName></persName>
+         n</seg>, <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="C"><persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/WOL02.html"><placeName
+               xmlns="http://www.tei-c.org/ns/1.0" type="venue">Wolcot</placeName></persName></seg>,
+      &amp; <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="C"><persName
+            xmlns="http://www.tei-c.org/ns/1.0" type="nah"><placeName
+               xmlns="http://www.tei-c.org/ns/1.0" type="venue">Crisp</placeName></persName>
+         na</seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="D">dine at
+            <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/OPI01.html"><placeName
+               xmlns="http://www.tei-c.org/ns/1.0" type="venue">Opie's</placeName></persName>, w
+            <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/TAY01.html">Taylor</persName>
+         &amp; <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/DYE01.html"
+            >Dyer</persName></seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal"
+         subtype="S">sup at <persName xmlns="http://www.tei-c.org/ns/1.0"
+            ref="/people/REV01|REV02.html"><placeName xmlns="http://www.tei-c.org/ns/1.0"
+               type="venue">Reveley's</placeName></persName></seg>.</ab>
+   <ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-05"><date
+         xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-05">5. Tu.</date><ref
+         xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0616.html"
+         >Hume, p. 310, fin</ref>: <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText"
+         subtype="read" target="/bibl/te0533.html">K John, acts 2, 3, 4</ref>. <seg
+         xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="CG"><persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/GOD01.html">J G</persName> calls</seg>:
+         <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="TG"><persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/FEN01.html">Fenwick</persName> at
+         tea</seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="other"
+            ><orgName xmlns="http://www.tei-c.org/ns/1.0">Philomaths</orgName>, <seg
+            xmlns="http://www.tei-c.org/ns/1.0" type="dTopic">drama</seg></seg>.</ab>
+   <ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-06"><date
+         xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-06">6. W.</date><ref
+         xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0285.html"
+         >Hume's Essays, Vol. II, p. 168-196</ref>: <ref xmlns="http://www.tei-c.org/ns/1.0"
+         type="dText" subtype="read" target="/bibl/te0533.html">K Jn, act 5</ref>. <seg
+         xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="D">Dine at <persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/KIN01.html"><placeName
+               xmlns="http://www.tei-c.org/ns/1.0" type="venue">King's</placeName></persName>, w
+            <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/FEN01.html"
+            >Fenwick</persName> &amp; <persName xmlns="http://www.tei-c.org/ns/1.0">A
+         B</persName></seg>.</ab>
+   <ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-07"><date
+         xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-07">7. Th.</date><ref
+         xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0285.html"
+         >Hume, p. 234</ref>: <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read"
+         target="/bibl/te0619.html">Calonne, p. 120</ref>: <ref xmlns="http://www.tei-c.org/ns/1.0"
+         type="dText" subtype="read" target="/bibl/te0106.html">Richard 2, act 1</ref>. <seg
+         xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="S">Sup at <persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/BAT01.html"><placeName
+               xmlns="http://www.tei-c.org/ns/1.0" type="venue"
+      >Batty's</placeName></persName></seg>. <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText"
+         subtype="read" target="/bibl/te0621.html">Thelwal's Preface</ref>; <ref
+         xmlns="http://www.tei-c.org/ns/1.0" type="dWrote" subtype="write"
+         target="/works/thel01.html">answer</ref>. <seg xmlns="http://www.tei-c.org/ns/1.0"
+         type="dMeeting" subtype="CG"><persName xmlns="http://www.tei-c.org/ns/1.0"
+            ref="/people/DYS01.html">Dyson</persName></seg> &amp; <seg
+         xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="CG"><persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/WHI03.html">White</persName>
+      call</seg>.</ab>
+   <ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-08"><date
+         xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-08">8. F.</date><ref
+         xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0285.html"
+         >Hume, p. 258</ref>: <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read"
+         target="/bibl/te0619.html">Calonne, p. 126</ref>. <seg xmlns="http://www.tei-c.org/ns/1.0"
+         type="dMeal" subtype="DG"><persName xmlns="http://www.tei-c.org/ns/1.0">C</persName>
+         dines</seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="Ta">tea
+            <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/HAY01.html"><placeName
+               xmlns="http://www.tei-c.org/ns/1.0" type="venue">miss Hayes's</placeName></persName>,
+         w. <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/HOL01.html">Ht</persName>
+         &amp; <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/WOL01.html"
+            >Wolstencraft</persName></seg>. <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText"
+         subtype="read" target="/bibl/te0106.html">Richard 2, act 2</ref>. <seg
+         xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="CG"><persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/TUT01.html">Tuthil</persName>
+         calls</seg>.</ab>
+   <ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-09"><date
+         xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-09">9. Sa.</date><ref
+         xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0285.html"
+         >Hume, p. 284</ref>: <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read"
+         target="/bibl/te0619.html">Calonne, p. 146</ref>: <ref xmlns="http://www.tei-c.org/ns/1.0"
+         type="dText" subtype="read" target="/bibl/te0106.html">Richard 2, act 3</ref>. <seg
+         xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="CG"><persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/TUT01.html">Tuthil</persName></seg>
+      &amp; <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="CG"><persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/WED02.html">Wedgwood</persName>
+         call</seg>; <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="TG"><persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/MAR01.html">M</persName> &amp;
+            <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/DYS01.html">Dyson</persName>
+         at tea</seg>.</ab>
+   <pb xmlns="http://www.tei-c.org/ns/1.0" n="e.202_0026v"/>
+   <ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-10"><date
+         xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-10">Jan. 10. Su.</date><ref
+         xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0285.html"
+         >Hume, p. 290</ref>. <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="BG"
+            ><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/SMI01.html">Smith</persName>
+         breakfasts</seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="CG"
+            ><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/MOO02.html">M
+            Moore</persName></seg>, <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting"
+         subtype="CG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/MAR01.html"
+            >M</persName></seg>, <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting"
+         subtype="CG"><persName xmlns="http://www.tei-c.org/ns/1.0">C</persName></seg> &amp; <seg
+         xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="CG"><persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/ALL01.html">Allen</persName>
+      call</seg>; talk of <seg xmlns="http://www.tei-c.org/ns/1.0" type="dTopic">anatomy</seg> &amp;
+         <seg xmlns="http://www.tei-c.org/ns/1.0" type="dTopic">theatre</seg>: <seg
+         xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="D">dine at <persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/HOL01.html"><placeName
+               xmlns="http://www.tei-c.org/ns/1.0" type="venue">Hts</placeName></persName>, w.
+            <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/TUT01.html"
+         >Tuthil</persName>; <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="Adv"
+            >adv. <persName xmlns="http://www.tei-c.org/ns/1.0">mrs &amp; miss
+            Banks</persName></seg></seg>. <emph xmlns="http://www.tei-c.org/ns/1.0" rend="deleted"
+         >meet Russel.</emph></ab>
+   <ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-11"><date
+         xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-11">11. M.</date><seg
+         xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="C">Call on <persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/ROB01.html"><placeName
+               xmlns="http://www.tei-c.org/ns/1.0" type="venue"
+         >Robinson</placeName></persName></seg>, <seg xmlns="http://www.tei-c.org/ns/1.0"
+         type="dMeeting" subtype="C"><persName xmlns="http://www.tei-c.org/ns/1.0"
+            ref="/people/LIS01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue"
+               >Lister</placeName></persName></seg>, <seg xmlns="http://www.tei-c.org/ns/1.0"
+         type="dMeeting" subtype="C"><persName xmlns="http://www.tei-c.org/ns/1.0"
+            ref="/people/DAV02.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue"
+               >Davis</placeName></persName></seg>, <seg xmlns="http://www.tei-c.org/ns/1.0"
+         type="dMeeting" subtype="C"><persName xmlns="http://www.tei-c.org/ns/1.0"
+            ref="/people/MON01.html" type="nah"><placeName xmlns="http://www.tei-c.org/ns/1.0"
+               type="venue">Montagu</placeName></persName> na</seg>, <seg
+         xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="C"><persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/INC01.html"><placeName
+               xmlns="http://www.tei-c.org/ns/1.0" type="venue">Inchbald</placeName></persName><seg
+            xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="Adv"> adv <persName
+               xmlns="http://www.tei-c.org/ns/1.0" ref="/people/ROB01.html"
+            >Robinson</persName></seg></seg> &amp; <seg xmlns="http://www.tei-c.org/ns/1.0"
+         type="dMeeting" subtype="C"><persName xmlns="http://www.tei-c.org/ns/1.0"
+            ref="/people/HOL01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue"
+               >Ht</placeName></persName><seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting"
+            subtype="Adv"> adv <persName xmlns="http://www.tei-c.org/ns/1.0"
+               ref="/people/MER01.html">Merry</persName></seg></seg>: <seg
+         xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="D">dine at <persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/KIN01.html"><placeName
+               xmlns="http://www.tei-c.org/ns/1.0" type="venue">King's</placeName></persName>, w.
+            <persName xmlns="http://www.tei-c.org/ns/1.0">A B</persName>, <persName
+            xmlns="http://www.tei-c.org/ns/1.0">Belzunce</persName> &amp; <persName
+            xmlns="http://www.tei-c.org/ns/1.0">Brook</persName></seg>. <seg
+         xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="M">meet <persName
+            xmlns="http://www.tei-c.org/ns/1.0">Russel</persName></seg>. <add
+         xmlns="http://www.tei-c.org/ns/1.0">40</add></ab>
+   <ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-12"><date
+         xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-12">12. Tu.</date><ref
+         xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0285.html"
+         >Hume, p. 307</ref>. <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="CG"
+            ><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/ALL01.html"
+         >Allen</persName></seg>, <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting"
+         subtype="CG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/STO01.html"
+            >Stodart</persName></seg>, <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting"
+         subtype="CG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/HOL03.html">J
+            Hollis</persName></seg> &amp; <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting"
+         subtype="CG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/OTT01.html"
+            >Otton</persName></seg> call; talk of <seg xmlns="http://www.tei-c.org/ns/1.0"
+         type="dTopic">education</seg>, <seg xmlns="http://www.tei-c.org/ns/1.0" type="dTopic"
+         >volition</seg>, <seg xmlns="http://www.tei-c.org/ns/1.0" type="dTopic">matter</seg> &amp;
+         <seg xmlns="http://www.tei-c.org/ns/1.0" type="dTopic">duplicity</seg>: <seg
+         xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="D">dine at <persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/ROB01.html"><placeName
+               xmlns="http://www.tei-c.org/ns/1.0" type="venue">Robinson's</placeName></persName>, w
+            <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/INC01.html"
+            >Inchbald</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0"
+            ref="/people/MER01.html">Merry</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0"
+            ref="/people/CHA06.html">Chalmers</persName>, <persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/HOL01.html">Ht</persName> &amp;
+            <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/COO01.html"
+         >C</persName></seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="S"
+            ><orgName xmlns="http://www.tei-c.org/ns/1.0">Ph</orgName>. supper; <seg
+            xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="Adv">adv. <persName
+               xmlns="http://www.tei-c.org/ns/1.0" ref="/people/MER01.html"
+         >Merry</persName></seg></seg></ab>
+   <ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-13"><date
+         xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-13">13. W.</date><ref
+         xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0285.html"
+         >Hume, p. 361, fin</ref>: <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText"
+         subtype="read" target="/bibl/te0619.html">Calonne, p. 170</ref>. <seg
+         xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="Ta">Tea <persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/MON01.html"><placeName
+               xmlns="http://www.tei-c.org/ns/1.0" type="venue">Montagu's</placeName></persName>, w.
+            <persName xmlns="http://www.tei-c.org/ns/1.0">Wrangham</persName></seg>.</ab>
+   <ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-14"><date
+         xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-14">14. Th.</date><ref
+         xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0285.html"
+         >Hume's Essays, Vol. II, p. 35</ref>. <seg xmlns="http://www.tei-c.org/ns/1.0"
+         type="dMeeting" subtype="CG"><persName xmlns="http://www.tei-c.org/ns/1.0"
+            ref="/people/DYS01.html">Dyson</persName> calls</seg>: <seg
+         xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="C">call on <persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/MAC01.html"><placeName
+               xmlns="http://www.tei-c.org/ns/1.0" type="venue"
+         >Mackintosh</placeName></persName></seg>, <seg xmlns="http://www.tei-c.org/ns/1.0"
+         type="dMeeting" subtype="C"><persName xmlns="http://www.tei-c.org/ns/1.0"
+            ref="/people/KEN04.html" type="nah"><placeName xmlns="http://www.tei-c.org/ns/1.0"
+               type="venue">Kentish</placeName></persName> nah</seg> &amp; <seg
+         xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="C"><persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/HAY01.html"><placeName
+               xmlns="http://www.tei-c.org/ns/1.0" type="venue">miss
+         Hayes</placeName></persName></seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal"
+         subtype="D">Dine at <persName xmlns="http://www.tei-c.org/ns/1.0"
+            ref="/people/NEW01|NEW04.html"><placeName xmlns="http://www.tei-c.org/ns/1.0"
+               type="venue">Newton's</placeName></persName>, w. <persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/WOL01.html">Wolstencraft</persName>,
+            <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/CHR03.html">mrs
+            Christie</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0"
+            ref="/people/SMI01.html">Smith</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0"
+            >Bell</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0">Croke</persName>,
+            <persName xmlns="http://www.tei-c.org/ns/1.0">Lovel</persName>, <persName
+            xmlns="http://www.tei-c.org/ns/1.0">Bateman</persName>, <persName
+            xmlns="http://www.tei-c.org/ns/1.0">Dalby</persName> &amp; <persName
+            xmlns="http://www.tei-c.org/ns/1.0">Blackburnes</persName>; <seg
+            xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="Adv">adv. <persName
+               xmlns="http://www.tei-c.org/ns/1.0">Bristow</persName>, <persName
+               xmlns="http://www.tei-c.org/ns/1.0">Wybourne</persName> &amp; <persName
+               xmlns="http://www.tei-c.org/ns/1.0" ref="/people/INC02.html"
+            >Incledon</persName></seg></seg>.</ab>
+   <ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-15"><date
+         xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-15">15. F.</date><ref
+         xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0285.html"
+         >Hume, p. 42</ref>: <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read"
+         target="/bibl/te0106.html">Richard 2, acts 4 &amp; 5</ref>. <seg
+         xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="C">Call on <persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/HOL03.html"><placeName
+               xmlns="http://www.tei-c.org/ns/1.0" type="venue">J
+         Hollis</placeName></persName></seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal"
+         subtype="DG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/COO01.html"
+            >C</persName> dine[s?]</seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal"
+         subtype="TG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/DYS01.html"
+            >Dyson</persName> &amp; <persName xmlns="http://www.tei-c.org/ns/1.0"
+            ref="/people/KEA01.html">Kearsley</persName> at tea; talk of <seg
+            xmlns="http://www.tei-c.org/ns/1.0" type="dTopic">Shakespear</seg></seg>.</ab>
+   <ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-16"><date
+         xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-16">16. Sa.</date><ref
+         xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0285.html"
+         >Hume, p. 54</ref>. <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="CG"
+            ><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/MAR01.html">M</persName>,
+            <persName xmlns="http://www.tei-c.org/ns/1.0">C</persName></seg> &amp; <seg
+         xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="CG"><persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/STO01.html">Stoddart</persName>
+         call</seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="M">meet
+            <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/MOO01.html">dr
+            Moore</persName></seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal"
+         subtype="D">dine at <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/KIN01.html"
+               ><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue"
+            >King's</placeName></persName></seg>: <seg xmlns="http://www.tei-c.org/ns/1.0"
+         type="dMeal" subtype="Ta">tea <persName xmlns="http://www.tei-c.org/ns/1.0"
+            ref="/people/CAR01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue"
+               >Carlisle's</placeName></persName>, w. <persName xmlns="http://www.tei-c.org/ns/1.0"
+            ref="/people/ALL01.html">Allens</persName>, <persName
+            xmlns="http://www.tei-c.org/ns/1.0">Alexander</persName>, <persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/SHE11.html">Shee</persName>, <persName
+            xmlns="http://www.tei-c.org/ns/1.0">Carr</persName>, <persName
+            xmlns="http://www.tei-c.org/ns/1.0">Crichton</persName>, <persName
+            xmlns="http://www.tei-c.org/ns/1.0">Duppa</persName>, <persName
+            xmlns="http://www.tei-c.org/ns/1.0">Sloper</persName> &amp; <persName
+            xmlns="http://www.tei-c.org/ns/1.0">Turner</persName></seg>.</ab>
+   <pb xmlns="http://www.tei-c.org/ns/1.0" n="e.202_0027r"/>
+   <ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-17"><date
+         xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-17">Jan. 17. Su.</date><ref
+         xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0113.html"
+         >Henry 4, I, act 1</ref>. <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal"
+         subtype="BG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/SMI01.html"
+            >Smith</persName> breakfasts</seg>: <seg xmlns="http://www.tei-c.org/ns/1.0"
+         type="dMeeting" subtype="CG"><persName xmlns="http://www.tei-c.org/ns/1.0"
+            ref="/people/STO01.html">Stoddart</persName> calls</seg>: <seg
+         xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="C">call on <persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/MAC01.html"><placeName
+               xmlns="http://www.tei-c.org/ns/1.0" type="venue"
+         >Mackintosh</placeName></persName></seg>: <seg xmlns="http://www.tei-c.org/ns/1.0"
+         type="dMeal" subtype="D">dine at <persName xmlns="http://www.tei-c.org/ns/1.0"
+            ref="/people/HOL01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue"
+               >Hts</placeName></persName>, w. <persName xmlns="http://www.tei-c.org/ns/1.0"
+            ref="/people/MER01.html">Merry</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0"
+            >EM</persName> &amp; <persName xmlns="http://www.tei-c.org/ns/1.0">T</persName>; <seg
+            xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="Adv">adv. <persName
+               xmlns="http://www.tei-c.org/ns/1.0" ref="/people/RIT01.html"
+         >Ritson</persName></seg></seg>.</ab>
+   <ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-18"><date
+         xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-18">18. M.</date><ref
+         xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0113.html"
+         >Henry 4, I, act 2</ref>. <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting"
+         subtype="CG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/FEN01.html"
+            >Fenwick</persName> calls</seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal"
+         subtype="S">sup at <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/GOD04.html"
+               ><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">miss
+            G's</placeName></persName></seg>.</ab>
+   <ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-19"><date
+         xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-19">19. Tu.</date><ref
+         xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0113.html"
+         >Henry 4, I, acts 3, 4, 5</ref>; <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText"
+         subtype="read" target="/bibl/te0124.html">II, acts 1, 2</ref>: <ref
+         xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0622.html"
+         >Rabelais, p. 10</ref>. <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting"
+         subtype="C">Call on <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/FEN01.html"
+               ><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue"
+            >Fenwick</placeName></persName></seg>: <seg xmlns="http://www.tei-c.org/ns/1.0"
+         type="dMeeting" subtype="other"><orgName xmlns="http://www.tei-c.org/ns/1.0"
+            >Philomaths</orgName>, <seg xmlns="http://www.tei-c.org/ns/1.0" type="dTopic"
+            >drama</seg></seg>. <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting"
+         subtype="CG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/GOD15.html">miss M
+            G</persName> calls</seg>.</ab>
+   <ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-20"><date
+         xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-20">20. W.</date><ref
+         xmlns="http://www.tei-c.org/ns/1.0" type="dWrote" subtype="write"
+         target="/works/enqu01.html">Write 3 pages</ref>. <ref xmlns="http://www.tei-c.org/ns/1.0"
+         type="dText" subtype="read" target="/bibl/te0124.html">Henry 4, II, acts 3, 4</ref>. <emph
+         xmlns="http://www.tei-c.org/ns/1.0" rend="brackets"><seg
+            xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="C">Call on <persName
+               xmlns="http://www.tei-c.org/ns/1.0" ref="/people/INC01.html"><placeName
+                  xmlns="http://www.tei-c.org/ns/1.0" type="venue"
+            >Inchbald</placeName></persName></seg>: <seg xmlns="http://www.tei-c.org/ns/1.0"
+            type="dMeal" subtype="Ta">tea <persName xmlns="http://www.tei-c.org/ns/1.0"
+               ref="/people/HAY01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue"
+                  >Hayes's</placeName></persName>, w. <persName xmlns="http://www.tei-c.org/ns/1.0"
+               >Draper</persName> &amp; <persName xmlns="http://www.tei-c.org/ns/1.0"
+               >Brown</persName></seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting"
+            subtype="M">meet <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/LEW02.html"
+               >Lewis</persName> cg </seg>. <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText"
+            subtype="letterRecvd">[Letter from <persName xmlns="http://www.tei-c.org/ns/1.0"
+               >Westley</persName></ref></emph></ab>
+   <ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-21"><date
+         xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-21">21. Th.</date><ref
+         xmlns="http://www.tei-c.org/ns/1.0" type="dWrote" subtype="write"
+         target="/works/enqu01.html">Write p. 4, 5, 6/2</ref>. <ref
+         xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0285.html"
+         >Hume, p. 56</ref>: <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read"
+         target="/bibl/te0124.html">Henry 4, II, act 5</ref>; <ref
+         xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0138.html"
+         >Henry 5, acts 1, 2, 3</ref>. <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting"
+         subtype="C">Call on <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/LIS02.html"
+            type="nah"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue">Dan
+               Lister</placeName></persName> n</seg>: <seg xmlns="http://www.tei-c.org/ns/1.0"
+         type="dMeal" subtype="S">sup at <persName xmlns="http://www.tei-c.org/ns/1.0"><placeName
+               xmlns="http://www.tei-c.org/ns/1.0" type="venue">Carr's</placeName></persName>, w.
+            <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/CAR01.html"
+            >Carlisle</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0"
+            ref="/people/SHE11.html">Shee</persName> &amp; <persName
+            xmlns="http://www.tei-c.org/ns/1.0">Littledale</persName></seg>.</ab>
+   <ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-22"><date
+         xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-22">22. F.</date><ref
+         xmlns="http://www.tei-c.org/ns/1.0" type="dWrote" subtype="write"
+         target="/works/enqu01.html">Write p. 6/2, 7, 8, 9</ref>. <ref
+         xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0285.html"
+         >Hume, p. 65</ref>: <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read"
+         target="/bibl/te0124.html">Henry 5, act 4</ref>. <seg xmlns="http://www.tei-c.org/ns/1.0"
+         type="dMeeting" subtype="CG"><persName xmlns="http://www.tei-c.org/ns/1.0"
+            ref="/people/WED02.html">Wedgwood</persName> calls</seg>: <seg
+         xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="M">meet <persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/BAN03.html">Banks</persName></seg>
+      &amp; <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="M"><persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/FRE01.html">Frend</persName></seg>:
+         <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="D">dine at <persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/KIN01.html"><placeName
+               xmlns="http://www.tei-c.org/ns/1.0" type="venue">King's</placeName></persName>, w
+            <persName xmlns="http://www.tei-c.org/ns/1.0">A B</persName> &amp; <persName
+            xmlns="http://www.tei-c.org/ns/1.0">Steele</persName></seg>: <ref
+         xmlns="http://www.tei-c.org/ns/1.0" type="dEntertainment" subtype="Theat"
+         target="/plays/harl01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="DL"
+         />theatre, Harlequin Captive</ref>.</ab>
+   <ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-23"><date
+         xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-23">23. Sa.</date><ref
+         xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0285.html"
+         >Hume, p. 100</ref>: <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read"
+         target="/bibl/te0124.html">Henry 5, act 5</ref>. <seg xmlns="http://www.tei-c.org/ns/1.0"
+         type="dMeeting" subtype="CG"><persName xmlns="http://www.tei-c.org/ns/1.0"
+            ref="/people/HOL01.html">Ht</persName></seg> &amp; <seg
+         xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="CG"><persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/FAW01.html">Fawcet</persName>
+         call</seg>. <ref xmlns="http://www.tei-c.org/ns/1.0" type="dEntertainment" subtype="Theat"
+         target="/plays/mant01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="DL"
+         />Theatre, Man of Ten Thousand; <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting"
+            subtype="Adv">adv. <persName xmlns="http://www.tei-c.org/ns/1.0"
+               ref="/people/GAL01.html">J G Jones</persName>, <persName
+               xmlns="http://www.tei-c.org/ns/1.0" ref="/people/STO01.html">Stoddart</persName>
+            &amp; <persName xmlns="http://www.tei-c.org/ns/1.0">Armstrong</persName></seg></ref>:
+         <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="S">sup at <persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/HOL01.html"><placeName
+               xmlns="http://www.tei-c.org/ns/1.0" type="venue"
+      >Ht's</placeName></persName></seg>.</ab>
+   <pb xmlns="http://www.tei-c.org/ns/1.0" n="e.202_0027v"/>
+   <ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-24"><date
+         xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-24">Jan. 24. Su.</date><ref
+         xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0199.html"
+         >Merry Wives, acts 1 &amp; 2</ref> . <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal"
+         subtype="BG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/SMI01.html"
+            >Smith</persName> breakfasts</seg>: <seg xmlns="http://www.tei-c.org/ns/1.0"
+         type="dMeeting" subtype="CG"><persName xmlns="http://www.tei-c.org/ns/1.0"
+            ref="/people/STO01.html">Stoddart</persName> calls</seg>: <seg
+         xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="D">dine at <persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/HOL01.html"><placeName
+               xmlns="http://www.tei-c.org/ns/1.0" type="venue">Ht's</placeName></persName>, w.
+            <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/MER01.html">Merry</persName>,
+            <persName xmlns="http://www.tei-c.org/ns/1.0">T</persName>, &amp; <persName
+            xmlns="http://www.tei-c.org/ns/1.0">A Mercier</persName>; <seg
+            xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="Adv">adv. <persName
+               xmlns="http://www.tei-c.org/ns/1.0" ref="/people/NIC01.html">Nicholsons</persName>,
+               <persName xmlns="http://www.tei-c.org/ns/1.0">Pinard</persName> &amp; <persName
+               xmlns="http://www.tei-c.org/ns/1.0" ref="/people/RIC04.html">H
+            Richter</persName></seg></seg></ab>
+   <ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-25"><date
+         xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-25">25. M.</date><ref
+         xmlns="http://www.tei-c.org/ns/1.0" type="dWrote" subtype="write"
+         target="/works/enqu01.html">Write p. 10</ref>. <ref xmlns="http://www.tei-c.org/ns/1.0"
+         type="dText" subtype="read" target="/bibl/te0285.html">Hume, p. 113</ref>: <ref
+         xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0623.html"
+         >Wolstencraft's Travels, p. 78</ref>. <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal"
+         subtype="DG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/FAW01.html"
+            >Fawcet</persName> dines</seg>: <ref xmlns="http://www.tei-c.org/ns/1.0"
+         type="dEntertainment" subtype="Theat" target="/plays/wayt01|sher01.html"><placeName
+            xmlns="http://www.tei-c.org/ns/1.0" type="CG"/>Theatre, How to Get Married &amp; Merry
+         Sherwood</ref>.</ab>
+   <ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-26"><date
+         xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-26">26. Tu.</date><ref
+         xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0285.html"
+         >Hume</ref>: <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read"
+         target="/bibl/te0623.html">Wolstencraft, p. 178</ref>. <seg
+         xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="TG"><persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/DYS01.html">Dyson</persName> at
+         tea</seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="other"
+            ><orgName xmlns="http://www.tei-c.org/ns/1.0">Philomaths</orgName>, <seg
+            xmlns="http://www.tei-c.org/ns/1.0" type="dTopic">gratitude</seg></seg>.</ab>
+   <ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-27"><date
+         xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-27">27. W.</date><ref
+         xmlns="http://www.tei-c.org/ns/1.0" type="dWrote" subtype="write"
+         target="/works/enqu01.html">Write p. 11</ref>. <ref xmlns="http://www.tei-c.org/ns/1.0"
+         type="dText" subtype="read" target="/bibl/te0285.html">Hume</ref>: <ref
+         xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0623.html"
+         >Wolstencraft, p. 197</ref>. <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting"
+         subtype="CG"><persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/FEN01.html"
+            >Fenwick</persName></seg> &amp; <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting"
+         subtype="CG"><persName xmlns="http://www.tei-c.org/ns/1.0">C</persName> call</seg>: <seg
+         xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="D">dine at <persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/KIN01.html"><placeName
+               xmlns="http://www.tei-c.org/ns/1.0" type="venue">King's</placeName></persName>, w.
+            <persName xmlns="http://www.tei-c.org/ns/1.0">A B</persName>, <persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/MER01.html">Merry</persName>, <persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/EST01.html">Este</persName> &amp;
+            <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/MAC14.html"
+            >Macdonnel</persName></seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting"
+         subtype="M">meet <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/NEW01.html"
+            >Newton</persName></seg> &amp; <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting"
+         subtype="M"><persName xmlns="http://www.tei-c.org/ns/1.0">Barnes</persName></seg>.</ab>
+   <ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-28"><date
+         xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-28">28. Th.</date><ref
+         xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read" target="/bibl/te0285.html"
+         >Hume</ref>: <ref xmlns="http://www.tei-c.org/ns/1.0" type="dText" subtype="read"
+         target="/bibl/te0623.html">Wolstencraft, p. 232</ref>. <seg
+         xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="Cn">Call on <persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/NOR01.html"><placeName
+               xmlns="http://www.tei-c.org/ns/1.0" type="venue">Northcote</placeName></persName>, w.
+            <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/SMI01.html">Smith</persName>
+         &amp; <persName xmlns="http://www.tei-c.org/ns/1.0">Jamieson</persName>; talk of <seg
+            xmlns="http://www.tei-c.org/ns/1.0" type="dTopic">expression</seg> &amp; <seg
+            xmlns="http://www.tei-c.org/ns/1.0" type="dTopic">players</seg>, <seg
+            xmlns="http://www.tei-c.org/ns/1.0" type="dTopic"><persName
+               xmlns="http://www.tei-c.org/ns/1.0" ref="/people/JOH01.html"
+         >Johnson</persName></seg>, <seg xmlns="http://www.tei-c.org/ns/1.0" type="dTopic"><persName
+               xmlns="http://www.tei-c.org/ns/1.0">Raffael</persName></seg> &amp; <seg
+            xmlns="http://www.tei-c.org/ns/1.0" type="dTopic"><persName
+               xmlns="http://www.tei-c.org/ns/1.0">Garrick</persName></seg>, <ref
+            xmlns="http://www.tei-c.org/ns/1.0" type="dEntertainment" subtype="Exhib"
+            target="/events/ex0112.html">see Remb<hi xmlns="http://www.tei-c.org/ns/1.0" rend="sup"
+               >t</hi> &amp; Titian</ref></seg>: <seg xmlns="http://www.tei-c.org/ns/1.0"
+         type="dMeal" subtype="DG"><persName xmlns="http://www.tei-c.org/ns/1.0"
+            ref="/people/STO01.html">Stoddart</persName> &amp; <persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/ALL01.html">Allen</persName> dine; talk
+         of <seg xmlns="http://www.tei-c.org/ns/1.0" type="dTopic">matrimony</seg> &amp; <seg
+            xmlns="http://www.tei-c.org/ns/1.0" type="dTopic"><persName
+               xmlns="http://www.tei-c.org/ns/1.0" ref="/people/BUR10.html"
+         >Burke</persName></seg></seg>.</ab>
+   <ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-29"><date
+         xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-29">29. F.</date><ref
+         xmlns="http://www.tei-c.org/ns/1.0" type="dWrote" subtype="write"
+         target="/works/enqu01.html">Write p. 12, 13</ref>. <ref xmlns="http://www.tei-c.org/ns/1.0"
+         type="dText" subtype="read" target="/bibl/te0285.html">Hume</ref>: <seg
+         xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="CG"><persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/DYS01.html">Dyson</persName></seg>,
+         <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="CG"><persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/OTT01.html">Otton</persName></seg>
+      &amp; <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeeting" subtype="CG"><persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/KEN04.html">Kentish</persName>
+         call</seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="D">dine at
+            <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/REV01|REV02.html"><placeName
+               xmlns="http://www.tei-c.org/ns/1.0" type="venue">Reveley's</placeName></persName>, w.
+            <persName xmlns="http://www.tei-c.org/ns/1.0">Etons</persName></seg>: <seg
+         xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="S">sup at <persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/FOU01.html"><placeName
+               xmlns="http://www.tei-c.org/ns/1.0" type="venue">Foulkes's</placeName></persName>, w.
+            <persName xmlns="http://www.tei-c.org/ns/1.0">Hovels</persName>, <persName
+            xmlns="http://www.tei-c.org/ns/1.0">Hutchinson</persName> &amp; <persName
+            xmlns="http://www.tei-c.org/ns/1.0">Cooke</persName></seg>.</ab>
+   <ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-30"><date
+         xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-30">30. Sa.</date><seg
+         xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="B">Breakfast at <persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/LAW01.html"><placeName
+               xmlns="http://www.tei-c.org/ns/1.0" type="venue"
+         >Lawrence's</placeName></persName></seg>: <seg xmlns="http://www.tei-c.org/ns/1.0"
+         type="dMeeting" subtype="C">call on <persName xmlns="http://www.tei-c.org/ns/1.0"
+            ref="/people/KIN01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue"
+               >King</placeName></persName></seg>, &amp; <seg xmlns="http://www.tei-c.org/ns/1.0"
+         type="dMeeting" subtype="C"><persName xmlns="http://www.tei-c.org/ns/1.0"
+            ref="/people/INC01.html"><placeName xmlns="http://www.tei-c.org/ns/1.0" type="venue"
+               >Inchbald</placeName></persName></seg>, <seg xmlns="http://www.tei-c.org/ns/1.0"
+         type="dMeeting" subtype="Adv">adv. <persName xmlns="http://www.tei-c.org/ns/1.0"
+            ref="/people/TWI02.html">R Twiss</persName>, <persName
+            xmlns="http://www.tei-c.org/ns/1.0">Beck</persName> &amp; <persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/COO05.html">miss
+         Cooper</persName></seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="D"
+         >dine at <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/HOL01.html"><placeName
+               xmlns="http://www.tei-c.org/ns/1.0" type="venue">Ht's</placeName></persName>, w.
+            <persName xmlns="http://www.tei-c.org/ns/1.0">T.</persName> &amp; <persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/HOL10.html">mrs Cole</persName></seg>:
+         <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="S">sup at <persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/NIC01.html"><placeName
+               xmlns="http://www.tei-c.org/ns/1.0" type="venue"
+         >Nicholson's</placeName></persName></seg>.</ab>
+   <pb xmlns="http://www.tei-c.org/ns/1.0" n="e.202_0028r"/>
+   <ab xmlns="http://www.tei-c.org/ns/1.0" type="dDay" xml:id="g1796-01-31"><date
+         xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-31">Jan. 31. Su.</date><seg
+         xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="BG"><persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/SMI01.html">Smith</persName>
+         breakfasts</seg>: <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="D">dine at
+            <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/TOO01.html"><placeName
+               xmlns="http://www.tei-c.org/ns/1.0" type="venue">Tooke's</placeName></persName>, w.
+            <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/VAU99.html"
+            >Vaughan</persName>, <persName xmlns="http://www.tei-c.org/ns/1.0"
+            ref="/people/BON03.html">Bonneys</persName>, <persName
+            xmlns="http://www.tei-c.org/ns/1.0">Brockbank</persName>, <persName
+            xmlns="http://www.tei-c.org/ns/1.0">Perkins</persName> &amp; <persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/WHI03.html">White</persName></seg>:
+         <seg xmlns="http://www.tei-c.org/ns/1.0" type="dMeal" subtype="S">sup at <persName
+            xmlns="http://www.tei-c.org/ns/1.0" ref="/people/PER01.html"><placeName
+               xmlns="http://www.tei-c.org/ns/1.0" type="venue">Perry's</placeName></persName>, w.
+            <persName xmlns="http://www.tei-c.org/ns/1.0" ref="/people/POR01.html">Porson</persName>
+         &amp; <persName xmlns="http://www.tei-c.org/ns/1.0">miss Grant</persName></seg>.</ab>
+</div>

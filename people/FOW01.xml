@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="FOW01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>FIRSTNAME</forename>
+                        <surname>Fowden</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Reginald Fowden Lt 38th foot 28.9.1797 Capt 14.8.180, Reginald son of
+                            Reginald Fowden and Amelia Witherall born 23.11.1801 bapt 16.12.1801 St
+                            Anne Soho, Capt Reginald Fowden from half pay of 35th foot to 3rd foot
+                            11.2.1804, served till 1808, Reginald Fowden Esq of Cheadle subscr to
+                            novel by Henrietta Rouviere 1801, will PCC 1819 Reginald Fowden of Bath
+                            (seen) William Fowden ensign 3rd foot 10.10.1805, Elizabeth Ann dau of
+                            Wm and Anne Fowden bapt 14.8.1808 St James Piccy, will PCC 1849 William
+                            Fowden half pay Captain of Dragoons, Denbighshire Thomas Fowden's new
+                            invention of metallic paste (for army bread!) discussed in Committee of
+                            House of Commons 8.5.1800 The name Fowden found mostly in Lancs and N
+                            Wales </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

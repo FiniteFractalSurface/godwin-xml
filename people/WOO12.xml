@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP and MP</resp>
+                    <name/>
+                </respStmt>
+
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WOO12" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Thomas</forename>
+                        <surname>Woodcock</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName/>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Godwin meets Woodcock (probably not for the first time (but certainly the
+                            first since he started his Diary)at the funeral of Godwin's mother, Ann
+                            Godwin, who died on 13 August 1809. He also meets him with what seem to
+                            be Godwin's three brothers, the following day. All subsequent contact
+                            with Woodcock after this date is by letter, but no letters have
+                            subsequently been found.</p> <p>Thomas Woodcock of Briston (3 or 4 miles north
+                            of Wood Dalling) advertised in Norfolk Chronicle 18.11.1809 for all
+                            creditors and debtors of the late Mrs. Ann Godwin of Wood Dalling. In
+                            December 1809 he and Godwin's brother Philip Hull Godwin were the
+                            contacts for details of land to be sold at auction by James Woodcock. In
+                            1811 he subscribed 1 guinea to the Norfolk and Norwich Auxiliary Bible
+                            Society. Norfolk Chronicle 9.5.1812 death of Mr Thomas Woodcock,
+                            shopkeeper of Briston. Burial record at Briston, widower age 52.</p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

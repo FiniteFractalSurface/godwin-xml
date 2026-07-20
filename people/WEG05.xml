@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>MP</resp>
+                    <name/>
+                </respStmt>
+
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WEG05" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>F.M.</forename>
+                        <surname>Wegener</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName/>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation>Solicitor</occupation>
+                    <note type="editorial">
+                        <p> Probably F.M. Wegener, a solicitor in Wapping, London, who marries a Ms Abbott in October 1823, and has a son, born 8 June 1825. </p>
+                        <p>He seems close to Joseph Godwin (william's younger brother) who works in the vicinty, and it is possible that Wegener is acting for J. Godwin who seems to have been improisoned for debt in 1821 andd dies in 1825.</p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

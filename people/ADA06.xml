@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="ADA06" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>William Jones</forename>
+                        <surname>Adair</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1747">
+                        <placeName/>
+                    </birth>
+                    <death when="1837"/>
+                    <occupation>Lawyer</occupation>
+                    <note type="editorial">
+                        <p>Ed Pope: SOCIETY FOR CONSTITUTIONAL INFORMATION:
+                            William Jones Adair proposed member 27.5.1785 by John Horne Tooke 2nded
+                            John Paradise GODWIN DIARY: Adair 4.1.1789 at B Hollis' / 13.2.1790 at
+                            Anti-Tests / 23.5.1790 at Paradise's WJAdair appeared in Godwin's 1796
+                            list at start of 1789 so this must have been William Jones Adair, born
+                            about 1747 son of William and Margaret Jones of Pall Mall, went to
+                            Peterhouse Cambridge and Lincolns Inn, took surname Adair after
+                            inheriting £5000 from William Adair in 1783. He married Charlotte
+                            Harwood at St James Piccadilly in 1791. He appeared in the Law List as
+                            counsel at 3 Soho Sq from 1785 to 1800, he was on the electoral register
+                            there in 1802 and 1806, and Bury &amp; Norwich Post of 13.11.1811 reported
+                            his house broken into and robbed of goods worth over £800. He was
+                            probably the Adair at the Anti-Tests on 13.2.1790, (as the other contender, Serjeant James
+                            Adair (DNB 1743? - 1798) was an ambivalent Whig at best,) and Robert
+                            Adair (DNB 1763-1855) was probably abroad by then and also appeared in
+                            the 1796 list for 1796. The Adair at Paradise's on 23.5.1790 could have
+                            been James Adair as he was a Fellow of the Royal Society like most of
+                            Paradise's guests but if so he didn't make the 1796 list, and the fact
+                            that Paradise seconded W J Adair's membership of SCI in 1785 suggests
+                            they had some connection. William Adair had dropped the Jones before he
+                            was buried 24.3.1819 Norwich Cathedral age 70 will PCC 17.4.1820 of
+                            Trowse Newton, Norfolk. which mentioned his wife Charlotte, William
+                            Noble of Foley Pl Westminster, Robert Alderson of Norwich, Elizabeth
+                            Loose and her daughter Mary Ann, and was witnessed by P M Martineau and
+                            Daniel Bloom, handwriting sworn to by Richd Barwick of Mount Terr
+                            Lambeth gent and Wm Wade of Elizabeth Pl Lambeth </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

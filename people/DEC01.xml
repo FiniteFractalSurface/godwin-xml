@@ -1,11 +1,58 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="DEC01" sex="2"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Maria Theresa</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Kemble</surname><addName xmlns="http://www.tei-c.org/ns/1.0">née De Camp</addName></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1777-01-17"><placeName xmlns="http://www.tei-c.org/ns/1.0">Vienna</placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1838-09-03"/><occupation xmlns="http://www.tei-c.org/ns/1.0">actress</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Godwin enters De Camp in the 1796 lists under 1797 and there are ten entries
-    which refer to her:   The plural 'De Camps' probably includes her brother Vincent, also an actor. </p><p xmlns="http://www.tei-c.org/ns/1.0">There must be some uncertainty about the identification as Godwin fails to refer to her as 'Miss De Camp'
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="DEC01" sex="2">
+                    <persName>
+                        <roleName/>
+                        <forename>Maria Theresa</forename>
+                        <surname>Kemble</surname>
+                        <addName>née De Camp</addName>
+                    </persName>
+                    <birth when="1777-01-17">
+                        <placeName>Vienna</placeName>
+                    </birth>
+                    <death when="1838-09-03"/>
+                    <occupation>actress</occupation>
+                    <note type="editorial">
+                        <p>Godwin enters De Camp in the 1796 lists under 1797 and there are ten entries
+    which refer to her:   The plural 'De Camps' probably includes her brother Vincent, also an actor. </p>
+                        <p>There must be some uncertainty about the identification as Godwin fails to refer to her as 'Miss De Camp'
     and in the one entry after her 1806 marriage she is still De Camp, not Mrs Kemble. However, it seems likely 
     that the identification is correct: Maria Theresa's father died in 1787 and Vincent was not nearly as prominent 
     in the theatrical world as his sister. Maria Theresa achieved a high degree of fame in the 1790s - which helps 
     to explain why Godwin still refers to her by her maiden name in 1817. Several of the entries have a theatrical 
     context - theatre advs, Drury Lane green room - several are with Holcroft and there are also three in 1796-8 in 
     conjunction with Charles Kemble who she married in 1806 'after a lengthy courtship, and some delay given the 
-    disapproval of his family' (<title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>).</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Rebecca Jenkins, <title xmlns="http://www.tei-c.org/ns/1.0">Fanny Kemble: The Reluctant Celebrity</title> (London: 
-    Pocket Books, 2006, first published 2005)</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Deirdre David, <title xmlns="http://www.tei-c.org/ns/1.0">Fanny Kemble: A Performed Life</title> 
-    (Philadelphia: University of Pennsylvania Press, 2007).</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-09-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-11-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-11-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-12-24" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-01-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-12-03" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-01-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-02-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-11-14" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-02-05" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    disapproval of his family' (<title>DNB</title>).</p>
+                    </note>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                    <bibl type="printedbook">Rebecca Jenkins, <title>Fanny Kemble: The Reluctant Celebrity</title> (London: 
+    Pocket Books, 2006, first published 2005)</bibl>
+                    <bibl type="printedbook">Deirdre David, <title>Fanny Kemble: A Performed Life</title> 
+    (Philadelphia: University of Pennsylvania Press, 2007).</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

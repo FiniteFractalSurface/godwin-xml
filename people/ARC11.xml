@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Person List</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Generated data</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="ARC11" sex="1">
+               <persName>
+                  <roleName/>
+                  <forename>Jasper</forename>
+                  <surname>Archer</surname>
+                  <addName/>
+               </persName>
+               
+               <birth when="1815-07-14">
+                  <placeName/>
+               </birth>
+               <death when="1745-05-05"/>
+               <occupation>portrait painter</occupation>
+               <occupation>restorer</occupation>
+               <note type="editorial">
+                  <p>The visit to an Archer by Godwin and Richard Phillips was likely to Jasper Archer, a portrait painter and restorer of paintings. This is because, on the same day, the two also visited a Miller who is likely William Richard Beckford Miller, a skilled artist and seller of books, Sylvester and Edward Harding who were artists and publishers, and Philippe Tassaert who was a history painter. It is likely that Godwin and Phillips were in search of paintings during this day.
+                     Jasper Archer was the son of William of Carpenters Company, baptised 5 May 1745 at All Hallows the Great. He was apprenticed to Thomas Hassell of Skinner’s Company on 7 August 1759. He married Ann Howard at St Ann Aldersgate on 20 March 1768. He exhibited at the Free Society from 1779 to 1782 from 185 Fleet St, and at the Society of Artists 1790 from 66 Queen St Lincolns Inn Fields and in 1791 from 7 High St Bloomsbury. He was listed as a restorer of painting and a portrait painter at 108 Fleet Street in 1790, and in 1811 as an artist at High Street, Saint Giles. He eventually was buried at St Giles on 14 July 1815 at the age of 70.
+                  </p>
+               </note>
+            </person> </listPerson>
+      </body>
+   </text>
+</TEI>

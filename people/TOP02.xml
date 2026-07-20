@@ -1,10 +1,56 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="TOP02" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Edward</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Topham</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1751-06"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1820-04-26"/><occupation xmlns="http://www.tei-c.org/ns/1.0">journalist</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">playwright</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0"> The attribution is uncertain.  It is possible that this is Edward Topham or that it is 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="TOP02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Edward</forename>
+                        <surname>Topham</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1751-06">
+                        <placeName/>
+                    </birth>
+                    <death when="1820-04-26"/>
+                    <occupation>journalist</occupation>
+                    <occupation>playwright</occupation>
+                    <note type="editorial">
+                        <p> The attribution is uncertain.  It is possible that this is Edward Topham or that it is 
      John Topham (1746–1803), antiquary, who was Treasurer to the antiquary society at the end of 
     the 1780s and who was also involved in a good deal of philanthropic work.  The contacts are 
     all associated with dissent and there is nothing to suggest that either John or Edward Topham 
-    had dissenting links; indeed, the former becomes Librarian to the Archbishop of Canterbury in 1790. </p><p xmlns="http://www.tei-c.org/ns/1.0"> There is evidence that Edward Topham may have moved in Godwin's circles. Holcroft refers 
+    had dissenting links; indeed, the former becomes Librarian to the Archbishop of Canterbury in 1790. </p>
+                        <p> There is evidence that Edward Topham may have moved in Godwin's circles. Holcroft refers 
       to Topham in his memoirs, and he seems part of
     their broad circle. However, the three entries in Godwin's Diary are linkes to Kippis and Hollis,
     which is not Topham's usual more flamboyant world.   On the other hand, Topham had recently started a newspaper, The World, 
-    and Godwin seems to be connected to others involved in that enterprise, such as Este.</p><p xmlns="http://www.tei-c.org/ns/1.0">Since we know that Godwin's closest associate was linked to Edward Topham we have settled on this identification, but it is very tentative.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>.</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Thomas Holcroft, <title xmlns="http://www.tei-c.org/ns/1.0">The life of Thomas Holcroft, continued by William Hazlitt</title>, ed. by 
-  Elbridge Colby, 2 vols (London: Constable &amp; Co., 1925), vol 2, p. 247.</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"><date xmlns="http://www.tei-c.org/ns/1.0" when="1788-10-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1788-11-11" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"><date xmlns="http://www.tei-c.org/ns/1.0" when="1789-10-20" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    and Godwin seems to be connected to others involved in that enterprise, such as Este.</p>
+                        <p>Since we know that Godwin's closest associate was linked to Edward Topham we have settled on this identification, but it is very tentative.</p>
+                    </note>
+                    <bibl type="other"><title>DNB</title>.</bibl>
+                    <bibl type="printedbook">Thomas Holcroft, <title>The life of Thomas Holcroft, continued by William Hazlitt</title>, ed. by 
+  Elbridge Colby, 2 vols (London: Constable &amp; Co., 1925), vol 2, p. 247.</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

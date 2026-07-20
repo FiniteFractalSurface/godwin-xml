@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="GRI04" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Ralph</forename>
+                        <surname>Griffiths</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1720">
+                        <placeName/>
+                    </birth>
+                    <death when="1803"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Ralph Griffiths DNB 1720-1803 owner and editor of Monthly Review is
+                            suggested in the GD website by an event tag to the first entry.  Ralph Griffiths' son George Edward may have been meant
+                            on 31.1.1809 (see 15.1.1809 where Godwin was reviewing Sarah Trimmer
+                            (DNB 1741-1810)'s History of England for Children). The other entries
+                            could all be Ralph G or his wife Elizabeth (nee Clark) who died 1812 or
+                            his son who died unmarried 1828 aged 56, except the apothecary of 1810.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Person List</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Generated data</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="BAR16" sex="1">
+               <persName>
+                  <roleName/>
+                  <forename>Rev Joseph</forename>
+                  <surname>Barrett</surname>
+                  <addName/>
+               </persName>
+               
+               <birth when="1000-01-01">
+                  <placeName/>
+               </birth>
+               <death when="1850-01-01"/>
+               <occupation>reverand</occupation>
+               <note type="editorial">
+                  <p>Rev Joseph Barrett lived in 16 Devonport Street, Hyde Park.
+                  </p>
+               </note>
+            </person> </listPerson>
+      </body>
+   </text>
+</TEI>

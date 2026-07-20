@@ -1,8 +1,43 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="COB01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">William</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Cobbett</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1763-03-09"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1835-06-18"/><occupation xmlns="http://www.tei-c.org/ns/1.0">political writer</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">farmer</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="COB01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>William</forename>
+                        <surname>Cobbett</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1763-03-09">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1835-06-18"/>
+                    <occupation>political writer</occupation>
+                    <occupation>farmer</occupation>
+                    <note type="editorial">
    Godwin visited William Cobbett four times in 1811, during Cobbett's two year imprisonment in 
-   Newgate for seditious libel. The first visits are with <persName xmlns="http://www.tei-c.org/ns/1.0" key="CUR01"> John Philpot Curran</persName> (key=CUR01). 
+   Newgate for seditious libel. The first visits are with <persName key="CUR01"> John Philpot Curran</persName> (key=CUR01). 
   Other visitors to Cobbett whom Godwin records meeting at Newgate include Thomas Cochrane (1775-1860), naval officer and 
-  Westminster MP, and <persName xmlns="http://www.tei-c.org/ns/1.0" key="WOO02">Matthew Wood</persName> (1768-1843), sheriff of London.
+  Westminster MP, and <persName key="WOO02">Matthew Wood</persName> (1768-1843), sheriff of London.
 
 Other references to 'Cobbet' in the diary cannot be confirmed as the political journalist. A few can be confidently 
 identified as someone else - the 1799 reference is before William Cobbett's return from 
@@ -10,8 +45,18 @@ America and 'Cobbet mercer' in 1813 seems to refer to a textile merchant with th
 
 Godwin and Cobbett were united in their opposition to Malthusian political economy, 
 though writing at opposite ends of the anti-Malthusian alliance. Cobbett referred 
-in the <title xmlns="http://www.tei-c.org/ns/1.0">Political Register</title> to 'Mr Godwin, who has lived to the age of pretty near 
+in the <title>Political Register</title> to 'Mr Godwin, who has lived to the age of pretty near 
   four score I believe, and who has as much talent in his little finger as Malthus has in his whole body' (quoted in Locke)'.
 
 
-</note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">See Locke</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="journalism"><title xmlns="http://www.tei-c.org/ns/1.0">Cobbett's Weekly Political Register, 18 June 183.</title></bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other">James Grande, ‘Nineteenth-Century London in William Godwin’s Diary’, <title xmlns="http://www.tei-c.org/ns/1.0">Journal of Victorian Culture</title> 15.2, August 2010</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-10-24" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-10-29" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-12-03" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-12-18" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"><date xmlns="http://www.tei-c.org/ns/1.0" when="1813-12-04" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"><date xmlns="http://www.tei-c.org/ns/1.0" when="1814-01-10" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-07-08" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-06-18" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+</note>
+                    <bibl type="printedbook">See Locke</bibl>
+                    <bibl type="journalism">
+                        <title>Cobbett's Weekly Political Register, 18 June 183.</title>
+                    </bibl>
+                    <bibl type="other">James Grande, ‘Nineteenth-Century London in William Godwin’s Diary’, <title>Journal of Victorian Culture</title> 15.2, August 2010</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,6 +1,65 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="GOO01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0">Alderman</roleName><forename xmlns="http://www.tei-c.org/ns/1.0">Samuel</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Goodbehere</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1818-11-18"/><occupation xmlns="http://www.tei-c.org/ns/1.0">member of the Corporation of London for the Ward of Cheap</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0"><title xmlns="http://www.tei-c.org/ns/1.0">The Times</title>, reports his death on 20 November 1818, 'Alderman Goodbehere had been
-    for nearly thirty years a distinguished member of the Corporation of London', where
-    he was an ally of the radical Robert Waithman. The <title xmlns="http://www.tei-c.org/ns/1.0">Morning Chronicle</title>, 28 November 1818,
-    lists Waithman and Alderman Wood amongst those at his funeral. Godwin records
-    his death.  The identification is confirmed by 17 January 1815: 'Court of Aldermen; adv. Goodbehere, Reeves, 
-    Thos Bell and Line'. </p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="journalism"><title xmlns="http://www.tei-c.org/ns/1.0">The Times</title>, 20 November 1818</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="journalism"><title xmlns="http://www.tei-c.org/ns/1.0">Morning Chronicle</title>, 28 November 1818.</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-03-24" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-11-19" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1806-11-20" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-03-19" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-11-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-12-04" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-02-28" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-06-06" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1809-11-29" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-08-06" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"><date xmlns="http://www.tei-c.org/ns/1.0" when="1812-02-28" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"><date xmlns="http://www.tei-c.org/ns/1.0" when="1815-01-16" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1815-01-17" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"><date xmlns="http://www.tei-c.org/ns/1.0" when="1817-09-23" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"><date xmlns="http://www.tei-c.org/ns/1.0" when="1818-11-18" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="GOO01" sex="1">
+                    <persName>
+                        <roleName>Alderman</roleName>
+                        <forename>Samuel</forename>
+                        <surname>Goodbehere</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName/>
+                    </birth>
+                    <death when="1818-11-18"/>
+                    <occupation>member of the Corporation of London for the Ward of
+                        Cheap</occupation>
+                    <note type="editorial">
+                        <p><title>The Times</title>, reports his death on 20 November 1818,
+                            'Alderman Goodbehere had been for nearly thirty years a distinguished
+                            member of the Corporation of London', where he was an ally of the
+                            radical Robert Waithman. The <title>Morning Chronicle</title>, 28
+                            November 1818, lists Waithman and Alderman Wood amongst those at his
+                            funeral. Godwin records his death. The identification is confirmed by 17
+                            January 1815: 'Court of Aldermen; adv. Goodbehere, Reeves, Thos Bell and
+                            Line'. </p>
+                        <p>Ed Pope adds: 27.11.1795 Goodbehe at Crown and Anchor, This dinner at the
+                            Crown and Anchor wasn't advertised in the newspapers and seems to have
+                            been only attended by 15 or so people as Godwin lists names followed by
+                            "and 2" changed to 3 (or "and 3" changed to 2), but though it could be an
+                            anniversary celebration of the acquittals in the treason trials, Bonney
+                            and Tooke being present, it was more likely to be discussing the
+                            sedition bills, the hot topic of the day. The Crown and Anchor in the
+                            Strand was happy to host political associations of all stripes
+                            Goodbehere had been a common councilman for Cheap Ward since 1786 and on
+                            9.6.1796 he was one of the stewards at a dinner celebrating the election
+                            to Parliament of Alderman Combe, who had led the opposition to the
+                            sedition bills in Common Hall in November 1795. </p>
+                    </note>
+                    <bibl type="journalism"><title>The Times</title>, 20 November 1818</bibl>
+                    <bibl type="journalism"><title>Morning Chronicle</title>, 28 November
+                        1818.</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

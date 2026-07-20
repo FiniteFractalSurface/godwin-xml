@@ -1,15 +1,47 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="MER02" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Louis</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Mercier</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/>Sebastian</persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1740-06-06"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1814-04-25"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Mercier is a friend of <persName xmlns="http://www.tei-c.org/ns/1.0" key="HOL01">Holcroft's</persName>whom he met in London, probably during Mercier's visit in 1781, 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="MER02" sex="1">
+                    <persName><roleName/><forename>Louis</forename><surname>Mercier</surname><addName/>Sebastian</persName>
+                    <birth when="1740-06-06">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1814-04-25"/>
+                    <occupation/>
+                    <occupation/>
+                    <note type="editorial">
+                        <p>Mercier is a friend of <persName key="HOL01">Holcroft's</persName>whom he met in London, probably during Mercier's visit in 1781, 
     and who visits him again in the 1790s when in England.  
-    Probably through this Mercier, Holcroft met his brother, <persName xmlns="http://www.tei-c.org/ns/1.0">Charles André  Mercier</persName>, when he was running a hotel in Pais in 1783. Charles André  
+    Probably through this Mercier, Holcroft met his brother, <persName>Charles André  Mercier</persName>, when he was running a hotel in Pais in 1783. Charles André  
     settled in England between 1795 and 1799, and his famiy seem to have remained in England until his return in 1802.  
-    Charles André 's daughter <persName xmlns="http://www.tei-c.org/ns/1.0" key="HOL05">Louisa Mercier-Holcroft</persName>became Holcroft's fourth wife.  
+    Charles André 's daughter <persName key="HOL05">Louisa Mercier-Holcroft</persName>became Holcroft's fourth wife.  
     
-    Louis Sebastian Mercier was a prominent French writer, author of  <title xmlns="http://www.tei-c.org/ns/1.0">Tableau de Paris</title> etc . 
+    Louis Sebastian Mercier was a prominent French writer, author of  <title>Tableau de Paris</title> etc . 
     However, it is likely that not all the 'Mercier' entries  
     refer to him as he goes back to Paris (although they are consistent with him being imprisoned
     under the Terror).  The  later entries are more difficult positively to associate with him. Also,
     there seems to be an attempt to distinguish Charlotte, Charles, B and E Mercier, who all seem to
-    be linked with the Holcrofts. </p><p xmlns="http://www.tei-c.org/ns/1.0">The references to Mercier early in the
+    be linked with the Holcrofts. </p>
+                        <p>The references to Mercier early in the
     diary have been taken to refer consistently  to Mercier from Paris who was to become Holcroft's father in
     law, moreover, the other Merciers mentioned also seem to be closely linked with Holcroft, or
     with his daughter Fanny. This is not true of the entries for 1834 - for Mercier the painter,
@@ -17,7 +49,14 @@
     in 1814, one in 1815 and one in 1819, while L S Mercier dies in June 1814. This suggests that
     Godwin has started to use Mercier for a child or relative of LS, possibly from an earlier date.
     Nonetheless, the continuing proximity to and association with the Holcrofts and Kenney's suggest
-    that there is a close relationship between these different Merciers. </p><p xmlns="http://www.tei-c.org/ns/1.0"> All Merciers, other than those in 1834, have been coded under L S Mercier because of the links between them and Godwin  through Holcroft and his family; even though some are entries after Louis Mercier's death in 1814. 
-   The entries in 1834 to <persName xmlns="http://www.tei-c.org/ns/1.0" key="MER03">Mercier the painter</persName> have been coded separately as there is no evidence of a family connection.  This Mercier is a portrait painter of 28 Old Bond Street, London, whose work 
+    that there is a close relationship between these different Merciers. </p>
+                        <p> All Merciers, other than those in 1834, have been coded under L S Mercier because of the links between them and Godwin  through Holcroft and his family; even though some are entries after Louis Mercier's death in 1814. 
+   The entries in 1834 to <persName key="MER03">Mercier the painter</persName> have been coded separately as there is no evidence of a family connection.  This Mercier is a portrait painter of 28 Old Bond Street, London, whose work 
    is highly praised in an article in The Morning Post (London, England), Wednesday, April 23, 1834, and who achieves his portraits in a single sitting.  He brought a charge of assualt against 
-   one Maguire in 1834, reported in The Morning Chronicle (London, England), Wednesday, October 1, 1834</p></note><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"><date xmlns="http://www.tei-c.org/ns/1.0" when="1791-05-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1791-05-15" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+   one Maguire in 1834, reported in The Morning Chronicle (London, England), Wednesday, October 1, 1834</p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

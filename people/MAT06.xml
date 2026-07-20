@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="MAT06" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Fancis James</forename>
+                        <surname>Mathew</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1768">
+                        <placeName/>
+                    </birth>
+                    <death when="11833"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Edward Pope notes: One of the three Mathew brothers, immortalised by
+                            Cruikshank as the three Mr Wiggins's, probably the eldest Francis James
+                            1768-1833 styled Viscount Mathew (as son of Earl of Landaff), MP for
+                            Tipperary, Whig sympathies, married 10.7.1797 Gertrude Cecilia daughter
+                            and coheiress of John Latouche, (her cousin Elizabeth (died 1788) had
+                            married Robert Butler 3rd Earl of Lanesborough, the eldest son of John
+                            King's wife Lady Lanesborough) See History of Parliament. Or his brother
+                            Hon Montague James 1773-1819 unmarried also an Irish MP. The youngest
+                            brother was George Toby Skeffington died 1832. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

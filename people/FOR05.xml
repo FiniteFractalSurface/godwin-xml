@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="FOR05" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Georg</forename>
+                        <surname>Forster</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1754">
+                        <placeName/>
+                    </birth>
+                    <death when="1794"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p> Georg Adam Forster DNB 1754-94 son of Reinhold Forster DNB 1729-98. By
+                            this time the father was living in Germany but the son was on a journey
+                            whch he made into a book and which included a visit to England. Became a
+                            leading reformer in the Mainz Republic, and died in Paris during the
+                            revolution.</p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

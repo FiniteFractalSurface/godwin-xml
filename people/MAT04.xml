@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="MAT04" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Thomas James</forename>
+                        <surname>Matthias</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1753">
+                        <placeName/>
+                    </birth>
+                    <death when="1835"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>23.3.1789 Matthias at Miss Williams'. 1786 subscribers to HMWilliams
+                            poems Mrs M, Miss Albinia M, Miss C M, Thomas James M Esq (see Thomas
+                            James Matthias DNB 1753/4-1835). As this one was part of a female
+                            plural, either Marianne Nicholls (nee Popple) mother of TJM or (most
+                            likely) his sister Albinia, and/or other sisters. Rev Norton Nicholls
+                            (see 16.3.1789) left a legacy to TJM (PCC wills 1807). And see Weston
+                            (26.10.1788)</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

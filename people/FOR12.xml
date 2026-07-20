@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="FOR12" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>FIRSTNAME</forename>
+                        <surname>Forsaith</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1749">
+                        <placeName/>
+                    </birth>
+                    <death when="1797"/>
+                    <occupation> Minister of religion</occupation>
+                    <note type="editorial">
+                        <p> 5.11.1789 Forsaith at Rev Socy. Robert Forsaith (Surman index) 1749-97
+                            was an assistant minister at Norwich 1770-82 so Godwin may have
+                            recognized him from then. Then Classics tutor at Daventry 1785-9 and at
+                            Northampton 1790-7 </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

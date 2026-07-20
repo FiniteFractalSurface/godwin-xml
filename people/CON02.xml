@@ -1,7 +1,50 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="CON02" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Pierre</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Condé</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" notBefore="1767" notAfter="1768"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1840"/><occupation xmlns="http://www.tei-c.org/ns/1.0">printmaker</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">miniature painter</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial">
-  It is difficult to be wholly certain about the identification - the  <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> does confirm that Pierre Condé was in
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="CON02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Pierre</forename>
+                        <surname>Condé</surname>
+                        <addName/>
+                    </persName>
+                    <birth notBefore="1767" notAfter="1768">
+                        <placeName/>
+                    </birth>
+                    <death when="1840"/>
+                    <occupation>printmaker</occupation>
+                    <occupation>miniature painter</occupation>
+                    <note type="editorial">
+  It is difficult to be wholly certain about the identification - the  <title>DNB</title> does confirm that Pierre Condé was in
   London at the time (all 19 contacts 1802-5) and the context is often artistic (eg. calls in conjunction with
-    <persName xmlns="http://www.tei-c.org/ns/1.0" key="NOR01"> Northcote</persName>). However, this is also a period in which Godwin meets the <persName xmlns="http://www.tei-c.org/ns/1.0" key="CAR09">Abbé Carron</persName>
+    <persName key="NOR01"> Northcote</persName>). However, this is also a period in which Godwin meets the <persName key="CAR09">Abbé Carron</persName>
     who has links to Prince and Princess Condé, relatives of Louis Philippe II d'Orléans, known during the revolution as Philippe Egalité.  The circumstantial evidence, however, points to the artist.
 
-  </note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-11-25" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-11-26" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-11-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-12-10" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-12-11" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-12-17" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-01-17" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-02-18" n="notVenue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-02-20" n="notVenue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-02-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-02-26" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-03-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-03-07" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-03-13" n="notVenue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-03-14" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-03-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-03-28" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-05-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1805-08-08" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+  </note>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

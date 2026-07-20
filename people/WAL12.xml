@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP + MP</resp>
+                    <name/>
+                </respStmt>
+
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WAL12" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Count Ferdinand Ernst Graf</forename>
+                        <surname>Walstein</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1762">
+                        <placeName/>
+                    </birth>
+                    <death when="1823"/>
+                    <occupation>Army Officer</occupation>
+                    <note type="editorial">
+                        <p>German regiment of Walstein to West Indies (Telegraph 13.8.1796). Count
+                            Walstein in Fashionable News (Morning Post 23.4.1805 and others 1806 -7).
+                            Ferdinand Ernst Graf Waldstein 1762-1823 was in English military service
+                            from about 1795 till 1805 and remained in England for some years
+                            afterwards, best known as a composer and patron of music to whom
+                            Beethoven dedicated a sonata (Constant von Wurzbach, Biographisches
+                            Lexikon vol 51-2 p 231). He acted in private theatricals with the family
+                            of the ambassador Count Starhemberg at Twickenham in 1802 and 1803.
+                            Josef Karl Emanuel Graf von Waldstein 1755-1814 was his older brother
+                            and a patron of Casanova whom he made his librarian: another brother was
+                            a botanist but no mention of their having been in England. Eliza
+                            Walstein (Morning Herald 18.7.1800) a pupil of the singer Maria Dickons
+                            DNB c1774-1833 (nee Poole - she married Dickons at Liverpool in 1800)
+                            and said to have been a niece of the playwright Kotzebue, made her
+                            tragic debut as Calista at Liverpool 11.7.1800, then acted in Edinburgh
+                            till 1803, moved to Dublin and acted mostly in Ireland till 1820, with a
+                            season in London in 1814 during which she returned to Dublin as her
+                            mother was dying. Thomas Walstein Esq of Lower Mount St Dublin
+                            subscribed £3 to the O'Connell Fund 14.1.1831 </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="GEL01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>William</forename>
+                        <surname>Gell</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1777">
+                        <placeName/>
+                    </birth>
+                    <death when="11836"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>This was possibly William Gell DNB 1777-1836. Godwin noted on 1.12.1830
+                            reading his 1804 book on Troy / Anthony Gell (will PCC 15.4.1817) of
+                            Little Cloisters, Westminster-abbey, was coroner for Westminster until
+                            his death, when he was suceeded by (his son?) John Henry Gell, who in
+                            Holdens 1811 directory lived at Cheyne-walk Westmr / Thomas Gell grocer
+                            SunFire 1794 393 Oxford-st. / James Gell coal merchant SunFire 1797 6
+                            Sackville-st Piccadilly / Richard Gell cordwainer 52 King-st Westmr
+                            Coroners jury 1799 / Thomas Gell broker of Ratcliff will PCC 29.10.1839
+                        </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

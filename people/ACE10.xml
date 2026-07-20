@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="ACE10" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Giuseppe</forename>
+                        <surname>Acerbi</surname>
+                        <addName/>
+                    </persName>
+
+                    <birth when="1773-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1846-01-01"/>
+                    <occupation>Italian Traveller</occupation>
+                    <note type="editorial">
+                        <p> Giuseppe Acerbi was an Italian traveller in England c1800-1802. Godwin’s
+                            first misspelling is understandable. </p>
+                    </note>
+                </person>
+            </listPerson>
+
+        </body>
+    </text>
+</TEI>

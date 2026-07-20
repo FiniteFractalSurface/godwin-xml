@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="SWI01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Theophilius</forename>
+                        <surname>Swift</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1746">
+                        <placeName/>
+                    </birth>
+                    <death when="1815"/>
+                    <occupation>Writer</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope: 27.10.1788 Swift at Miss Williams' / 12.2.1790 again.
+                            Theophilus Swift DNB 1746-1815. See Letters of Anna Seward, ii 129, 285.
+                            Although Anna Seward doesn't appear in Godwin's diary she was close to H
+                            M Williams and introduced her friends to her, see Weston, Penelope
+                            Sophia and Powell, Jane. According to the DNB Swift lived in Dublin but
+                            his Female Parliament is prefaced 41 Wigmore St 1.5.1789, and he fought
+                            a duel with Colonel Lennox on the Uxbridge Road on 3.7.1789 </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

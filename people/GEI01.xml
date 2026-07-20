@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="GEI01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Constantine</forename>
+                        <surname>Geisweiler</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1850"/>
+                    <occupation>art dealer</occupation>
+                    <note type="editorial">
+                        <p>Constantine Geisweiler 42 Duke St, St James 1794 / 97 Jermyn St St James
+                            1796 / 18 Frith St Soho 1796 (Sun Fire) "and in trust for Christein de
+                            Mechel" dealer in prints and pictures, 1798 Sun Fire named pictures incl
+                            Earl Howe's Victory / (Christian de Mechel copper engraver Basel
+                            1737-1815) / 54 Pall Mall 1798 / 1799 St James Piccy Constantine
+                            Geisweiler married Maria Comtesse... / 42 Parliament St 1800 / letter to
+                            Sir Joseph Banks 1803 / Constantine Geisweiler buried St Anne Soho 1805
+                            (perhaps his son?) / Maria de Geisweiler Countess Dowager of Schalenburg
+                            lodging in Church St bur Kensington 24.2.1840 age 78 / 19.6.1850
+                            Constantine de Geisweiler late of Kensington deceased / 1841 census age
+                            73 Kensington House Lunatic Asylum (dr Francis Philp) / Court of Common
+                            Pleas 18.1.1800 Mrs Geisweiler witness single lady knew Lady Betty
+                            Teynham before 1775 (when she went abroad) and after 1780, her sister
+                            Mrs Byles. And see Holcroft's diary </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

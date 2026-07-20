@@ -1,8 +1,42 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="JAR02" sex="2"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Juana</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Jardine</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1000"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial">
-    Apparently <persName xmlns="http://www.tei-c.org/ns/1.0" key="JAR01">Major Jardine</persName> married a Spanish woman with whom he had at least five children,
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="JAR02" sex="2">
+                    <persName>
+                        <roleName/>
+                        <forename>Juana</forename>
+                        <surname>Jardine</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName/>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation/>
+                    <note type="editorial">
+    Apparently <persName key="JAR01">Major Jardine</persName> married a Spanish woman with whom he had at least five children,
     three of whom died in quick succession in 1792.  Jardine was appointed consul to 
     Galicia in 1791, leaving for the post in 1793;
-    Southey met them in 1795 when visiting the Iberian peninsular and refers to them both in his correspondence from this period and in his <title xmlns="http://www.tei-c.org/ns/1.0">Letters Written During a Short Residence in Spain and Portugal</title> (1797).
+    Southey met them in 1795 when visiting the Iberian peninsular and refers to them both in his correspondence from this period and in his <title>Letters Written During a Short Residence in Spain and Portugal</title> (1797).
     
     Jose Berenguel has suggested to us that:
    'Alexander's wife was called Juana and he met her during his service as an
@@ -15,4 +49,12 @@
     the peace between the two nations, his acquaintance with Jovellanos (a leading
     political figure of the Spanish enlightenment, a kind of local Dr. Johnson) and,
     last but not least, the Spanish origin of his wife.
-  </note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Robert Southey, <title xmlns="http://www.tei-c.org/ns/1.0">Letters Written During a Short Residence in Spain and Portugal</title>, London, 1797</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other">http://www.rc.umd.edu/editions/southey_letters/Part_One/HTML/letterEEd.26.partOneIntro.html</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other">Communication from Jose Berenguel</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-04-12" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-07-19" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-08-28" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-11-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-11-30" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-12-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-12-04" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-02-03" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-02-18" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-03-13" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-04-12" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-06-21" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+  </note>
+                    <bibl type="printedbook">Robert Southey, <title>Letters Written During a Short Residence in Spain and Portugal</title>, London, 1797</bibl>
+                    <bibl type="other">http://www.rc.umd.edu/editions/southey_letters/Part_One/HTML/letterEEd.26.partOneIntro.html</bibl>
+                    <bibl type="other">Communication from Jose Berenguel</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

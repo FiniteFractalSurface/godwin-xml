@@ -1,12 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="WHI09" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Edward</forename><surname xmlns="http://www.tei-c.org/ns/1.0">White</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1000"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"> 
-    E White first appears at <persName xmlns="http://www.tei-c.org/ns/1.0" key="LAM01">Lamb's</persName> ('sup at Lamb’s , w. E White, H Robinson and Telford'), the following
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WHI09" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Edward</forename>
+                        <surname>White</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName/>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation/>
+                    <note type="editorial"> 
+    E White first appears at <persName key="LAM01">Lamb's</persName> ('sup at Lamb’s , w. E White, H Robinson and Telford'), the following
     year includes, 'Sup at E White’s , w. Lambs, Philips, Talfourd, M Burney, Riddle and Ryal and 
     capt. Henney', and 'Lambs, Alsager, E White, H Robinson, Lubé and E Collins sup: invités 
     Ayrtons and Talfourd.' In 1821, 'Sup at E White’s , w. Lambs, Hazlit, Philips, Riddle, and 3 Whs.'
     So there is a clear link to Lamb and Lamb's letters include a reference to Edward White of the India House (Lamb to Peter Patmore, 19 July 1827).  A brief
-    account of White may be found in Cope's <title xmlns="http://www.tei-c.org/ns/1.0">Reminiscences</title>, 1891 (who says he first met White in Paris in 1832). White lived at one time at Chelsea, 
+    account of White may be found in Cope's <title>Reminiscences</title>, 1891 (who says he first met White in Paris in 1832). White lived at one time at Chelsea, 
     near the bridge, where Cope visited 
     him; but he probably died at Twickenham. 
- </note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Charles West Cope, <title xmlns="http://www.tei-c.org/ns/1.0">Reminiscences of Charles West Cope, 
-  R.A</title>, (London, Bentley, 1891), pp. 36-8</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Edward Gilpin Johnson (ed), <title xmlns="http://www.tei-c.org/ns/1.0">The Best Letters of Charles Lamb</title> (Chicago: A.C. McClurg and Company, 1892), p. 300
-  </bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-02-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1816-06-10" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"><date xmlns="http://www.tei-c.org/ns/1.0" when="1818-04-23" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1818-04-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1818-05-21" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1818-06-06" n="notVenue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1818-06-10" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1818-06-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1818-06-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1818-07-09" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"><date xmlns="http://www.tei-c.org/ns/1.0" when="1820-02-05" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1820-05-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1820-07-06" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1820-07-10" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1820-10-06" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-01-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-02-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-05-29" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1821-10-27" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"><date xmlns="http://www.tei-c.org/ns/1.0" when="1822-01-08" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1822-01-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1822-06-20" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1822-06-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1822-07-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1822-09-05" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"><date xmlns="http://www.tei-c.org/ns/1.0" when="1823-02-12" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1823-03-31" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1823-04-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1823-04-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1823-05-09" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1823-07-01" n="notVenue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1823-09-19" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"><date xmlns="http://www.tei-c.org/ns/1.0" when="1825-02-03" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-08-04" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+ </note>
+                    <bibl type="printedbook">Charles West Cope, <title>Reminiscences of Charles West Cope, 
+  R.A</title>, (London, Bentley, 1891), pp. 36-8</bibl>
+                    <bibl type="printedbook">Edward Gilpin Johnson (ed), <title>The Best Letters of Charles Lamb</title> (Chicago: A.C. McClurg and Company, 1892), p. 300
+  </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,13 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="WHI13" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Anthony</forename><surname xmlns="http://www.tei-c.org/ns/1.0">White</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1781-12-16"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1849-03-09"/><occupation xmlns="http://www.tei-c.org/ns/1.0">surgeon</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Anthony White, 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WHI13" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Anthony</forename>
+                        <surname>White</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1781-12-16">
+                        <placeName/>
+                    </birth>
+                    <death when="1849-03-09"/>
+                    <occupation>surgeon</occupation>
+                    <note type="editorial">
+                        <p>Anthony White, 
     a surgeon and pupil of Sir Anthony Carlisle, whom Godwin sees frequently at the end of his life. 
     White was renowned for ability and indolence!  The identification is tentative.  
-    Although White is not menioned as married in the <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>, 
+    Although White is not menioned as married in the <title>DNB</title>, 
     his will mentions a portrait of his 'late dear wife', which is said to have won George Dawe election to the Royal Academy. 
-  </p><p xmlns="http://www.tei-c.org/ns/1.0">It is possible that Godwin met Anthony White and sought consultation with him respecting Mary Jane. There seems some indiation of this rom the pattern of early entries.
-    </p><p xmlns="http://www.tei-c.org/ns/1.0">  It is possible that Anthony White has some relation to the <persName xmlns="http://www.tei-c.org/ns/1.0" key="WHI">James White of Isleworth</persName> and George White (see WHI01):
+  </p>
+                        <p>It is possible that Godwin met Anthony White and sought consultation with him respecting Mary Jane. There seems some indiation of this rom the pattern of early entries.
+    </p>
+                        <p>  It is possible that Anthony White has some relation to the <persName key="WHI">James White of Isleworth</persName> and George White (see WHI01):
       21.8.1833 'Dine at Ant. White’s, w. Geo. White and femme.'
       5.10.1834 'dine at A Whites, w. 2 James and 2 Geo. Whites, and Feetham.'
       30.11.1834 'dine at A White’s, w. frere and femme, G Whites, Chaffey, Maitland, and Peppercorn.'
       18.3.1835 'Call on Ant. White, confined one week.'
       26.7.1835 'sup at Ant. White’s, w. M J; adv. G White and femme, and Fincham.
-    However, Anthony White's brothers were named Robert, Christopher and Jordison.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0"/></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-06-25" n="notVenue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-08-21" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1833-09-13" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-01-23" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-02-08" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-07-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-07-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-07-22" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-08-04" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-10-05" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-11-18" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1834-11-30" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-03-18" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-03-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-03-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-04-02" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-07-25" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-07-26" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-08-01" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-08-02" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-08-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-10-17" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-11-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-11-12" n="venue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    However, Anthony White's brothers were named Robert, Christopher and Jordison.</p>
+                    </note>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

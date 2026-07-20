@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Person List</title>
+            <respStmt>
+               <resp>Researched by</resp>
+               <name>EP</name>
+            </respStmt>
+            <respStmt>
+               <resp>Encoded by</resp>
+               <name>SI</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Generated data</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="HAR12" sex="1">
+               <persName>
+                  <roleName/>
+                  <forename>Harry</forename>
+                  <surname>Knight</surname>
+                  <addName/>
+               </persName>
+               <birth when="1000-01-01">
+                  <placeName/>
+               </birth>
+               <death when="1000-12-31"/>
+               <occupation></occupation>
+               <note type="editorial">
+                  <p>Although Harry can be a surname, in this case it may refer to <persName key="KNI01">Robert Knight's</persName> younger brother Henry Raleigh Knight. He married Juliana Botti at St Geo Han Square in 1808 and had three children with her: Charles Raleigh, Juliana (1811-1854) and Caroline Emily.</p>
+               </note>
+               <bibl type="other">
+                  <title>Ed Pope History Entry 06/01/2013</title>
+               </bibl>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>
+

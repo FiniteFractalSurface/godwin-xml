@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name>EB</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="MAC25" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Leonard</forename>
+                        <surname>MacNally</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Lawyer, Playwrite, Politician, Government Informer</occupation>
+                    <note type="editorial">
+                        <p>Leonard MacNally was a Protestant Irish Republican turned British
+                            government paid informer. Prior to becoming an informer for the British
+                            Government in 1794, he had been a successful and loyal member of the
+                            Irish Unionists movement, aiding in the defence of many being prosecuted
+                            by the British government. However, after betraying the cause, he would
+                            regularly relay information and court tactics back to the British,
+                            hindering the movement and going undetected until after his death in
+                            1820. </p>
+                            
+                         <p>It is possible that he knew Godwin through connections with the
+                            Currans, with both parties being implicated at different times with
+                            Wolfe Tone.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="other">
+                        <title/> DNB, Ed Pope </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

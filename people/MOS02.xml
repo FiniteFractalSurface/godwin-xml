@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="MOS02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>NAME</forename>
+                        <surname>Moseley Mozley</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Bookseller</occupation>
+                    <note type="editorial">
+                        <p>Ed Pope: 12.7.1809 write to Moseley and c / 1.8.1809 write to Mozley and c /
+                            18.11.1809 call on Mozley and c / 19.1.1810 write to Mozley and c / 4.4.1810
+                            write to Mozley and c / 14.5.1810 write to Mozley and Withers, w.
+                            administrations. </p><p>Godwin wrote to several booksellers outside London on
+                            four of the dates above. On 18.11.1809 he called on Mozley and then 12
+                            booksellers in London. </p><p>Perhaps the provincial bookseller was visiting
+                            London, or perhaps Godwin called first on Jacob Mozley, slopseller 34
+                            Upper East Smithfield (near to Skinner-st) or on Morris Lewin Mozley,
+                            merchant and warehouseman of 40 Threadneedle-st and 20 Walbrook, bankrupt
+                            August 1810, at John's coffee house Cornhill in Holdens directory 1811,
+                            and in Kings Bench prison in 1812. He (or one of his relatives of the
+                            same name) was a watchmaker and jeweller in Liverpool in 1796 and Turkey
+                            and Levant Consul in Liverpool in 1821. But all the write to entries were
+                            probably Henry Mozley bookseller Gainsborough, moved to Derby 1815
+                            (bbti). </p><p>Also in bbti: Robert Mozley Sheffield bookseller, carver and
+                            gilder 1793 to 1797 and R Moseley Leeds engraver, printseller, carver and
+                            gilder 1809 to 1811, those two probably the same person or family. The
+                            administrations of 14.5.1810 applied presumably to Withers (qv) only.
+                        </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

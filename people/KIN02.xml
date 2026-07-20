@@ -1,4 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="KIN02" sex="2"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Margaret</forename><surname xmlns="http://www.tei-c.org/ns/1.0">King</surname><addName xmlns="http://www.tei-c.org/ns/1.0">Countess Mountcashell, Mrs Mason, Moore</addName></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1773"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1835-01-29"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial">This is Margaret King, the daughter of Lord and Lady Kingsborough who
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="KIN02" sex="2">
+                    <persName>
+                        <roleName/>
+                        <forename>Margaret</forename>
+                        <surname>King</surname>
+                        <addName>Countess Mountcashell, Mrs Mason, Moore</addName>
+                    </persName>
+                    <birth when="1773">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1835-01-29"/>
+                    <occupation/>
+                    <note type="editorial">This is Margaret King, the daughter of Lord and Lady Kingsborough who
     employed Wollstonecraft as a governess in the 1780s (ie Margaret was one of the Kingsborough
     daughters that Wollsonecraft looked after).  Godwin met her in Ireland in 1800 when 
     she was married to the Earl of Mountcashell, with whom she had several children.
@@ -7,11 +41,18 @@
     On a visit to the continent in 1805 she separated from her husband and cohabited with an 
     exiled Irishman, George Tighe, after which she asked to be known as Mrs Mason. 
     (St Clair, 292-3).  In 1807 she  came to London and wrote for the Juvenile Library. George 
-    Tighe became known as Mr Mason. Her most famous work was <title xmlns="http://www.tei-c.org/ns/1.0">Advice to Young Mothers on the Physical Education of Children</title>, which is still in
+    Tighe became known as Mr Mason. Her most famous work was <title>Advice to Young Mothers on the Physical Education of Children</title>, which is still in
     print, and OLIS and Amazon give the author of this as Margaret King Moore - so, as well as the
     28 references to 'C Mountcashell' between 1800 and 1814, Godwin may refer to her by some of these
-    other names. See the entry in Appendix II, <title xmlns="http://www.tei-c.org/ns/1.0">The Journals of Mary Shelley</title>, eds., Feldman and 
+    other names. See the entry in Appendix II, <title>The Journals of Mary Shelley</title>, eds., Feldman and 
     Scott-Kilvert, and the note on her death on p. 545.
  
-  </note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">St Clair</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook"><title xmlns="http://www.tei-c.org/ns/1.0">The journals of Mary Shelley, 1814–1844</title>, ed. by Paula R. Feldman and Diana 
-    Scott-Kilvert, 2 vols (Oxford and New York: Oxford University Press; Clarendon Press, 1987)</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-07-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-07-13" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-07-20" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-07-21" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-07-28" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-08-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-08-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-11-30" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-06-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-09-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-10-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-10-06" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-10-22" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-11-15" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-11-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-11-21" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-03-26" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-07-09" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-07-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-07-23" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-07-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-07-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-09-25" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-09-28" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-10-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-10-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-10-06" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-10-11" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-10-12" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-10-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-10-18" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-10-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-10-21" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-10-22" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-10-23" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-10-24" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-03-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-05-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-05-23" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-07-01" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"><date xmlns="http://www.tei-c.org/ns/1.0" when="1814-08-07" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+  </note>
+                    <bibl type="printedbook">St Clair</bibl>
+                    <bibl type="printedbook"><title>The journals of Mary Shelley, 1814–1844</title>, ed. by Paula R. Feldman and Diana 
+    Scott-Kilvert, 2 vols (Oxford and New York: Oxford University Press; Clarendon Press, 1987)</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name></name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="GRA16" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Samuel Frederick</forename>
+                        <surname>Gray</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1766">
+                        <placeName/>
+                    </birth>
+                    <death when="1828"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Frances (nee Wade) 1738-1801 in Samuel Gray DNB 1739-1771 may have been the Mrs Gray at Nicholson's in 1801and her son Samuel Frederick Gray DNB 1766-1828 could have been the Gray of 1813. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title></title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
+

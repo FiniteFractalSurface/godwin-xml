@@ -1,32 +1,77 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="WAL01" sex="0"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">M</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Walsh</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1000"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">The identification of Walsh is uncertain, although it seems clear that there are several in the diary:</p><p xmlns="http://www.tei-c.org/ns/1.0">11 -- miss walsh<lb xmlns="http://www.tei-c.org/ns/1.0"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WAL01" sex="0">
+                    <persName>
+                        <roleName/>
+                        <forename>M</forename>
+                        <surname>Walsh</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation/>
+                    <occupation/>
+                    <note type="editorial"><p>The identification of Walsh is uncertain, although it seems clear that there are several in the diary:</p><p>11 -- miss walsh<lb/>
   1802-09-25 1802-09-29 1803-11-18 1804-02-22 1804-03-04 1804-03-07 1804-03-11 1804-03-29
   1804-04-17 1808-05-23 1809-11-12 </p>
     
-    M Walsh<lb xmlns="http://www.tei-c.org/ns/1.0"/>
+    M Walsh<lb/>
    1809-12-08  1809-12-17 1809-12-27  1810-01-14 1810-01-16  1810-02-07  1810-03-25  1810-05-02  1810-06-11 
   
-   <p xmlns="http://www.tei-c.org/ns/1.0"> 9 -- f walsh<lb xmlns="http://www.tei-c.org/ns/1.0"/>
+   <p> 9 -- f walsh<lb/>
   1808-01-19 1808-01-19 1809-03-28 1812-11-01 1812-11-05 1814-03-28 1815-12-13 1817-12-09 
   1819-07-20 
-  1 -- f walsh, custom house<lb xmlns="http://www.tei-c.org/ns/1.0"/>
+  1 -- f walsh, custom house<lb/>
   1819-07-17 
-  1 -- frank walsh<lb xmlns="http://www.tei-c.org/ns/1.0"/>
-  1812-04-17</p><p xmlns="http://www.tei-c.org/ns/1.0">18 -- walsh<lb xmlns="http://www.tei-c.org/ns/1.0"/>
+  1 -- frank walsh<lb/>
+  1812-04-17</p><p>18 -- walsh<lb/>
   1804-03-24 1806-06-26 1806-07-30 1807-10-29 1807-10-30 1807-11-02 1807-11-03 1807-11-27 
   1807-11-30 1807-12-01 1809-03-15 1811-03-10 1811-03-28 1812-07-12 1813-02-07 1813-03-28 
   1813-11-08 1814-12-14 
-  1 -- walshes<lb xmlns="http://www.tei-c.org/ns/1.0"/>
+  1 -- walshes<lb/>
   1814-03-18 
-  2 -- walsh’s<lb xmlns="http://www.tei-c.org/ns/1.0"/>
-  1806-07-05 1806-07-10 </p><p xmlns="http://www.tei-c.org/ns/1.0"> We can discount :<lb xmlns="http://www.tei-c.org/ns/1.0"/>
+  2 -- walsh’s<lb/>
+  1806-07-05 1806-07-10 </p><p> We can discount :<lb/>
     'Walsh and Nisbet, Sale' on 14.12.1814, which refers to the disputed ownership of 41 Skinner Street - see
   Locke, p. 297.  Walsh and Nesbitt had been the stockbrokers who won the Skinner St properties in
   a lottery. They had then gone bankrupt before taking possession and the ownership of the properties was subsequently unclear.
-  Godwin's note is to the sale of the properties by the trustees of Walsh and Nesbitt - see the <title xmlns="http://www.tei-c.org/ns/1.0">Morning
+  Godwin's note is to the sale of the properties by the trustees of Walsh and Nesbitt - see the <title>Morning
   Chronicle</title> on 1 December 1814 for the advertised sale, the advertisement included a reference to 'No. 41 .... Mr. Godwin, a
-  yearly tenant'. </p><p xmlns="http://www.tei-c.org/ns/1.0">Of the several Walshes in the diary, it is poossible that Miss Walsh and M Walsh are identical - entries for the fomer cease 
+  yearly tenant'. </p><p>Of the several Walshes in the diary, it is poossible that Miss Walsh and M Walsh are identical - entries for the fomer cease 
   after 12 November 1809 and begin for the latter on 28 December 1809.   All the entries for M. Walsh are 'Write to' , save one in which 'Write to'
   is crossed out; and one of the Miss Walsh entries are also letters. There does not seem to be any over-lap between F and M Walsh. 
   On 7.2.1813 Walsh dines at Godwin's with Robert Owen and on 28.3.1813 he is invited to dinner 
   at G's, alongside Owen, A Newton and D Lamb but is unable to make it. On 28.3.1814, when 
-  several others are dining at Godwin's, he adds 'adv F Walsh and D Lamb'. </p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Locke </bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="journalism"><title xmlns="http://www.tei-c.org/ns/1.0">Morning Chronicle</title>, 1 December 1814.</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-01-14" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-01-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-02-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-03-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-05-02" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-06-11" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+  several others are dining at Godwin's, he adds 'adv F Walsh and D Lamb'. </p></note>
+                    <bibl type="printedbook">Locke </bibl>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                    <bibl type="journalism"><title>Morning Chronicle</title>, 1 December 1814.</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

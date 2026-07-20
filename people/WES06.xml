@@ -1,17 +1,61 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="WES06" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Thomas</forename><surname xmlns="http://www.tei-c.org/ns/1.0">West</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1000"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">In 1804, Godwin 
-    writes to Thomas West on behalf of <persName xmlns="http://www.tei-c.org/ns/1.0" key="GOD02">Jo Godwin</persName>. He does so very shortly 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WES06" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Thomas</forename>
+                        <surname>West</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName/>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation/>
+                    <note type="editorial">
+                        <p>In 1804, Godwin 
+    writes to Thomas West on behalf of <persName key="GOD02">Jo Godwin</persName>. He does so very shortly 
     before a trip to the south coast, where he then calls on West in or near Lewes, 
     and then exchanges letters and calls over the next few days.  Prior to 1804 
     most contact with West is through Jo Godwin, so we assume some consistency here.
     Subsequent contact is almost entirely correspondence.
-    The context for this contact is as follows: Godwin and his brother <persName xmlns="http://www.tei-c.org/ns/1.0" key="GOD02">Joseph</persName> 
-    are closely connected in an affair involving <persName xmlns="http://www.tei-c.org/ns/1.0" key="GOD06">Harriet Godwin</persName> between 23 February and 27 February 1804 
+    The context for this contact is as follows: Godwin and his brother <persName key="GOD02">Joseph</persName> 
+    are closely connected in an affair involving <persName key="GOD06">Harriet Godwin</persName> between 23 February and 27 February 1804 
     involving Thomas West and Lewes.  Thomas West had earlier expressed interest in Harriet, but in June 1803 he had married Ms Lucy Dallas, 
     the sister of Sir George Dallas.
     On 17 January 1804 Harriet ran off with Thomas West, to Lewes, where West held a post in the army.
     Godwin and Joseph (Harriet's father) went to Lewes but did not see West until they arranged for Lord Craven, the colonel of West's regiment, to summon him.  They were still denied access to Harriet. The 
     affadavit to Judge Grose was to bring Harriet before him.  Harriet, however, remained with West.  On 13 April Godwin and 
-    Mary Jane visited <persName xmlns="http://www.tei-c.org/ns/1.0" key="WES07">Mrs Lucy West</persName> and her mother <persName xmlns="http://www.tei-c.org/ns/1.0" key="DAL05">Mrs Dallas</persName>.
+    Mary Jane visited <persName key="WES07">Mrs Lucy West</persName> and her mother <persName key="DAL05">Mrs Dallas</persName>.
 West entries post 1804 are not coded since there is no clear connection with Jo Godwin or Harriet.  The vast majority of such entries refer to letters.   
     It is possible that later references to Ht West are in fact references to Harriet Godwin and they have been coded as such.  Mrs West in 1804 is West's wife and has been coded separately.
-        </p><p xmlns="http://www.tei-c.org/ns/1.0">We have identified two meetings with Benjamin West and three plausible attributions concerning <persName xmlns="http://www.tei-c.org/ns/1.0" key="WES04">Benjamin West's</persName> son <persName xmlns="http://www.tei-c.org/ns/1.0" key="WES05">Raphael</persName>. </p><p xmlns="http://www.tei-c.org/ns/1.0">. Mrs West (1794) have not been coded. Nor has, 1811, West of Cork.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">National Archive KB1/32/4 f. 107. </bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-12-10" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-12-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1801-12-26" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-06-30" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-01-03" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-02-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-02-23" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-02-23" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-02-24" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-02-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-02-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-02-26" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-02-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1804-03-03" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+        </p>
+                        <p>We have identified two meetings with Benjamin West and three plausible attributions concerning <persName key="WES04">Benjamin West's</persName> son <persName key="WES05">Raphael</persName>. </p>
+                        <p>. Mrs West (1794) have not been coded. Nor has, 1811, West of Cork.</p>
+                    </note>
+                    <bibl type="MS">National Archive KB1/32/4 f. 107. </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

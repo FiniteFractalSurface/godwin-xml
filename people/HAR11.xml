@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Person List</title>
+            <respStmt>
+               <resp>Researched by</resp>
+               <name>EP</name>
+            </respStmt>
+            <respStmt>
+               <resp>Encoded by</resp>
+               <name>SI</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Generated data</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="HAR11" sex="1">
+               <persName>
+                  <roleName/>
+                  <forename>Samuel</forename>
+                  <surname>Harmer</surname>
+                  <addName/>
+               </persName>
+               <birth when="1000">
+                  <placeName/>
+               </birth>
+               <death when="1808-12-31"/>
+               <occupation>Attorney</occupation>
+               <note type="editorial">
+                  <p>Samuel Harmer was apprenticed in 1742 to John Cooper, attorney of Norwich, Harmer was listed in Bailey's 1784 as attorney of Cockey Lane, Norwich.</p>
+                  <p>Harmer died 31/12/1808 aged nearly 80. His newspaper obituary said he was for many years the speaker of Common Council.</p>
+               </note>
+               <bibl type="other">
+                  <title>Ed Pope History Entry 29/10/2012</title>
+               </bibl>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

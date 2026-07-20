@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Person List</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Generated data</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="BAG11" sex="1">
+               <persName>
+                  <roleName/>
+                  <forename>Samuel</forename>
+                  <surname>Bagster</surname>
+                  <addName/>
+               </persName>
+               
+               <birth when="1772-01-01">
+                  <placeName/>
+               </birth>
+               <death when="1851-01-01"/>
+               <occupation>bookseller</occupation>
+               <note type="editorial">
+                  <p>Samuel Bagster, 1772-1851, was a bookseller apprenticed to Otridge in St Clement Danes at a price of £100 in 1787. His parents were George, 1739-1820, and his mother Mary Denton. He married Emma Birch in 1797 and took apprentice with John Lepard in 1804. He was a bookseller between 1802 and 1811 at 81 Strand.
+                     He was the founder of the publisher Bagster and Sons. In 1816, Bagster bought out the English polyglot version of the Bible which was a success.
+                  </p>
+               </note>
+            </person> </listPerson>
+      </body>
+   </text>
+</TEI>

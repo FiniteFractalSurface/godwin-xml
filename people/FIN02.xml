@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="FIN02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>FIRSTNAME</forename>
+                        <surname>Finch</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p> Probably there were three sets of Finch here, that of 1812 in Salisbury,
+                            that of the two 1805 entries and the two 1824 entries all connected to
+                            Godwin's brothers, and the others all connected to Lofft. GD website
+                            says that Capel Lofft's wife was Sarah Watson, but she was Sarah
+                            Watson Finch (corrected), daughter of Joseph Finch merchant of Cambridge. She was
+                            baptised 17.12.1780 at St Benedict's Cambridge dau of Joseph and Sarah and
+                            married Lofft there 10.3.1802. Her siblings were Joseph bapt 1771,
+                            Thomas bapt 1773, John bapt 1774, Maria bapt 1777, Henry bapt 1779,
+                            Robert Watson bapt 1782, Charles Edward bapt 1784 Charlotte bapt 1787
+                            Frederic bapt 1792 and George bapt 1796. Their mother Sarah Finch died
+                            in her 82nd year at St Andrew's St Cambridge (Bury and Norwich Post
+                            10.8.1831) her will widow of Trompington St Cambridge PCC 1831 mentioned
+                            sons John and Henry, eldest dau Maria and youngest dau Charlotte. Charles
+                            Edward Finch studied at Cambridge (Alum Cantab) and died 1818, he was
+                            probably the two 1808 entries above when he was 24, SL was his sister
+                            Mrs Sarah Lofft or more likely her 6 year old daughter Sarah. The
+                            Salisbury Finches may have been the family of William Finch, doctor of
+                            medicine of Salisbury, (not in Monk's Roll) his will PCC 1848. For
+                            Thomas Finch will PCC 1810, employer of Godwin's brother, see Godwin,
+                            John. The 1805 entries were shortly before John Godwin died, and the
+                            1824 entries were when Joseph Godwin was in debtors' prison, and may
+                            have referred to Thomas Finch's son Thomas, see my entry for Newman </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

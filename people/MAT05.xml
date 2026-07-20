@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>Nicholas Roe/Ed Pope</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="MAT05" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>William</forename>
+                        <surname>Mathews</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1769">
+                        <placeName/>
+                    </birth>
+                    <death when="1801"/>
+                    <occupation>Collaborated with Wordsworth on The Philanthropist</occupation>
+                    <note type="editorial">
+                        <p> The entry for 15 August 1795 has ‘Wordsworth and Matthews call, nah’.
+                            This ‘Matthews’ was most likely Wordsworth’s acquaintance William Mathews (one ‘t’) (1769-1801), the son of a London
+                            book-seller and medicine vendor and brother of Charles Mathews
+                            (1776-1835) the famous comic actor. Acquainted with Wordsworth at
+                            Cambridge, they collaborated on a projected periodical The
+                            Philanthropist in 1794. 
+                            We have only coded those 'Matthews' as William when there is a clear link to Wordsworth. Further details, Letters of William and
+                            Dorothy Wordsworth, ed. E. de Selincourt, 2nd edn, The Early Years,
+                            1787-1805, rev. C. L. Shaver (Oxford, 1967), 48 fn.  </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

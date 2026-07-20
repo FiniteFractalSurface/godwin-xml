@@ -1,18 +1,64 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="PRI02" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Richard</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Price</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1723-02-23"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1791-04-19"/><occupation xmlns="http://www.tei-c.org/ns/1.0">philosopher</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">demographer</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">reformer</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial">Godwin records his death.
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="PRI02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Richard</forename>
+                        <surname>Price</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1723-02-23">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1791-04-19"/>
+                    <occupation>philosopher</occupation>
+                    <occupation>demographer</occupation>
+                    <occupation>reformer</occupation>
+                    <note type="editorial">Godwin records his death.
   
- <p xmlns="http://www.tei-c.org/ns/1.0">The attribution of the early Price entries to Richard Price is reasonably certain.  But Price dies in 1791 and there are a further
-   twenty three entries ranging from 1796 to 1825. These have not currently been coded.</p><p xmlns="http://www.tei-c.org/ns/1.0"> Later entries may be references to the another Richard Price recorded in the <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> (literary scholar, 1790-1833) but this has not been confirmed. <lb xmlns="http://www.tei-c.org/ns/1.0"/>
+ <p>The attribution of the early Price entries to Richard Price is reasonably certain.  But Price dies in 1791 and there are a further
+   twenty three entries ranging from 1796 to 1825. These have not currently been coded.</p><p> Later entries may be references to the another Richard Price recorded in the <title>DNB</title> (literary scholar, 1790-1833) but this has not been confirmed. <lb/>
    Of the unidentified Prices, all after 1791, there are two instances of 'Ralph Price', 
   19 of 'Price' and two of 'R Price'. Most are after 1811 and refer to calls, and are not helpful in identifying him. The R Price entires that are 
-  potentially useful are: <lb xmlns="http://www.tei-c.org/ns/1.0"/>
-  27 December 1814  'Clerk from Ralph Price calls'<lb xmlns="http://www.tei-c.org/ns/1.0"/>
-  10 April 1815 'Message from R Price' <lb xmlns="http://www.tei-c.org/ns/1.0"/>
-  4 November 1820 'Write to R Price' <lb xmlns="http://www.tei-c.org/ns/1.0"/>
+  potentially useful are: <lb/>
+  27 December 1814  'Clerk from Ralph Price calls'<lb/>
+  10 April 1815 'Message from R Price' <lb/>
+  4 November 1820 'Write to R Price' <lb/>
   Also, in Abinger from 9 May 1827 there is a letter from to Price (no forename/initial) about Kean's Othello, protesting at the casting of Mr
   Wallack as Iago and asking Price to switch the part to someone else - but it does not seem to have been 
-  written to someone with whom Godwin was intimate. The <title xmlns="http://www.tei-c.org/ns/1.0">Morning Chronicle</title> shows that <persName xmlns="http://www.tei-c.org/ns/1.0" key="KEA05">Kean</persName>
-  and Wallack were in the Drury Lane production of Othello (<title xmlns="http://www.tei-c.org/ns/1.0">Morning Chronicle</title>, 15 June 1827) and the implication 
+  written to someone with whom Godwin was intimate. The <title>Morning Chronicle</title> shows that <persName key="KEA05">Kean</persName>
+  and Wallack were in the Drury Lane production of Othello (<title>Morning Chronicle</title>, 15 June 1827) and the implication 
    therefore is that Price was the manager of Drury Lane - the letter contains references to 'your
   theatre' and to Price as 'director over a considerable part of our public amusements'. However, he has still not been identified,
   the letter is not mentioned in the diary and he is anyway not certain to be the same person as the post-1791 
-  mentions of Price listed above. </p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">MS. Abinger c. 20, fol. 5: 9 May 1827.</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="journalism"><title xmlns="http://www.tei-c.org/ns/1.0">Morning Chronicle</title>, 15 June 1827.</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"><date xmlns="http://www.tei-c.org/ns/1.0" when="1789-03-03" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1789-04-14" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1789-09-25" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1789-11-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1789-12-08" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1789-12-22" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"><date xmlns="http://www.tei-c.org/ns/1.0" when="1790-03-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1790-06-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1790-07-14" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1790-11-04" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1790-11-04" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"><date xmlns="http://www.tei-c.org/ns/1.0" when="1791-01-11" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1791-04-19" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1791-05-01" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+  mentions of Price listed above. </p></note>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                    <bibl type="MS">MS. Abinger c. 20, fol. 5: 9 May 1827.</bibl>
+                    <bibl type="journalism"><title>Morning Chronicle</title>, 15 June 1827.</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

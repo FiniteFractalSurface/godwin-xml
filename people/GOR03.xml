@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="GOR03" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Richard</forename>
+                        <surname>Gore</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1735">
+                        <placeName/>
+                    </birth>
+                    <death when="1807"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Ed Pope: Gore 29.12.1799 at Lanesborough's / 19.1.1800 again / 21.1.1800 Goire at
+                            John King's An Irish landed family, from Hist of Irish Parliament there
+                            was John Gore 1735+-1814, Hon Richard Gore 1735/40 - 1807 (this one
+                            perhaps the best candidate for dinner at King's as his estate was
+                            hard-pressed), William Gore 1744-1815, and William Gore 1767-1832.
+                            Edward Gore was custos brevium at £600 p.a. from 1782-1800. Francis Gore
+                            was Lt Governor of Grenada 1791. Boyle's Court Guide of 1800 had Thomas
+                            Gore 6 Queen St Mayfair / Miss Gore 17 Lower Brook St / Christopher Gore
+                            Esq 20 Cumberland Place, Oxford St / Mrs Gore 1 Spanish Place,
+                            Manchester Sq / Charles Gore Esq 6 Fitzroy St / Sir Booth Gore, Baronet,
+                            9 Russell Place, Tottenmam Court Rd </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

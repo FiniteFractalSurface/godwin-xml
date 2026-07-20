@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="ADA17" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>William</forename>
+                        <surname>Adamson</surname>
+                        <addName/>
+                    </persName>
+
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-01-01"/>
+                    <occupation>preacher</occupation>
+                    <note type="editorial">
+                        <p>William Adamson of Dublin was proposed for the Society for Constitutional
+                            Information (SCI) by John Farnell Tuffin on 2 November 1792 and seconded
+                            by William Tooke. In 1773, William Adamson of the Carpenters Company in
+                            Dublin voted for Redmond Morres as MP for Dublin City. He subscribed to
+                            Reverand Henry Murray of Dublin’s “Evidences of the Jewish and Christian
+                            revelations” in 1790. He was also an Irish subscriber to Olaudah Equiano
+                            1793. He was also mentioned in the Methodist “Minutes of some late
+                            conversations” on 30 July 1785, the minister of Gospel at North Shields’
+                            “Eight Discourses” on 8 April 1789, and William Myles 1799 notes
+                            described him as having been a preacher since 1783 but had departed from
+                            the work. </p>
+                    </note>
+                </person>
+            </listPerson>
+
+        </body>
+    </text>
+</TEI>

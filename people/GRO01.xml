@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="GRO01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>C</forename>
+                        <surname>Gros</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Author; compiler</occupation>
+                    <note type="editorial">
+                        <p>C Gros was co-author with C V Lavoisne of A New Genealogical, Historical
+                            and Chronological Atlas 1807 London published by J Barfield 91 Wardour
+                            St, and he edited and revised various works of French grammar especially
+                            the works of Jean Baptiste Perrin which ran to many editions through the
+                            19th century. </p> <p>Given Godwin's publishing interests, this Gros is a likely match.</p>
+                        <p> Other possibilities include: Louis Gros gent was insured Sun Fire 1806 at 29 Little
+                            Marybone St and at 7 Thayer St Manchester Sq from 1807 to 1815 as a
+                            milliner and dealer in artificial flowers, lace modes and perfumery. In
+                            Holdens 1811 Philip le Gros was a jeweller at 12 Panton St Haymarket,
+                            William le Gros Esq was of Chigwell, Essex, and Mr Richard le Gros was
+                            at 177 Leadenhall St. Peter Joseph le Gros clock and mathematical
+                            instrument maker of Upper Crown St Soho took an apprentice in 1826 </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

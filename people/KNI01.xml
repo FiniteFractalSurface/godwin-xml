@@ -1,12 +1,46 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="KNI01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Robert</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Knight</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1000"/><occupation xmlns="http://www.tei-c.org/ns/1.0">MP </occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="KNI01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Robert</forename>
+                        <surname>Knight</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation>MP </occupation>
+                    <note type="editorial">
     Rpobert Knight was an MP and an associate of Horne Tooke and was linked to the Whigs. It seems probable
     that the Knights recorded at Horne Tooke's or Debrett's are Robert Knight, and there are also a number of
     entries that include some part of the first name. (Godwin notes in the 1796 Diary that he met Rt
     Knight in 1793) Both sets have been accordingly coded as this Knight. It is possible that
-    Godwin also knew Richard Payne Knight, MP, <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>, but there is nothing in the Diary that
+    Godwin also knew Richard Payne Knight, MP, <title>DNB</title>, but there is nothing in the Diary that
     identifies this Knight distinctively (and no entry in the 1796 list).
     
-    However,  according to the 1796 list Godwin met <persName xmlns="http://www.tei-c.org/ns/1.0" key="KNI02">T(homas) Knight</persName>, <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>, the actor (who features also in <title xmlns="http://www.tei-c.org/ns/1.0">The Life of Thomas Holcroft</title>) in
+    However,  according to the 1796 list Godwin met <persName key="KNI02">T(homas) Knight</persName>, <title>DNB</title>, the actor (who features also in <title>The Life of Thomas Holcroft</title>) in
     1792 - the entry is to Mr and Mrs Knight . We have worked on the presumption that  it is Thomas Knight who accounts for a number of the plain 'Knight' entries, and on
     whom Godwin calls and who calls on him, between 1792 and 1798.  From 1798 there are more frequent references to 'T Knight'  and references to 'Rt Knight' are also more common.  
     Where there is considerable uncertainty about the identity of a 'Knight' it  has been left uncoded. The Knight recorded in 1807 with Wolcot, and the Mrs
@@ -16,5 +50,11 @@
   Also unbcoded are the Knight entries on Godwin's 1795 trip to Warwickshire.
    
   
-  </note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Thomas Holcroft, <title xmlns="http://www.tei-c.org/ns/1.0">The life of Thomas Holcroft, continued by William Hazlitt</title>, ed. by Elbridge 
-    Colby, 2 vols (London: Constable and Co., 1925).</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-03-24" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-05-19" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-12-13" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-03-14" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-03-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-03-13" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-03-15" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-05-23" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1797-06-02" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"><date xmlns="http://www.tei-c.org/ns/1.0" when="1798-12-31" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"><date xmlns="http://www.tei-c.org/ns/1.0" when="1799-02-22" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-01-21" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-02-27" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+  </note>
+                    <bibl type="printedbook">Thomas Holcroft, <title>The life of Thomas Holcroft, continued by William Hazlitt</title>, ed. by Elbridge 
+    Colby, 2 vols (London: Constable and Co., 1925).</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

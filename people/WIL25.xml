@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WIL25" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Samuel</forename>
+                        <surname>Wilcocke</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName/>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Priscilla Ray, younger sister of Grace Mary Cooper, married Samuel
+                            Wilcock on 25.8.1767 at St George Gravesend. As well as 2 children who
+                            died in infancy, they baptised 3 chidren at Princes Street Independent
+                            Chapel, Gravesend: Theodosia Catherine on 20.6.1768; Samuel Hull on
+                            30.9.1770; and Ray on 28.8.1774. In Godwin's diary Samuel Hull and a
+                            sister (perhaps Theodosia) appeared, and George (probably another son of
+                            Samuel and Priscilla). At Samuel Wilcock's ordination in 1762 the charge
+                            was given by Thomas Gibbons (DNB 1720-1785). Wilcock was minister at
+                            Gravesend till 1775 when he became minister of the Scots Church at
+                            Myddleburg in the Netherlands and returned to England when it was taken
+                            by the French in 1794. He was buried at Hackney St Leonard on 28.1.1804
+                            of Kingsland Road aged 70, his widow Priscilla was buried there
+                            23.3.1805 of St Luke's, Middlesex aged 59.</p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

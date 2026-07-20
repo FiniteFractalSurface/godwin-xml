@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="ALD15" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Christopher</forename>
+                        <surname>Alderson</surname>
+                        <addName/>
+                    </persName>
+
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1810-12-31"/>
+                    <occupation>merchant</occupation>
+                    <note type="editorial">
+                        <p> Christopher Alderson was a merchant of Lawrence Lane in 8 November 1782,
+                            proposed 8 November 1782 by Joseph Brown of Gracechurch Street, and
+                            seconded by Richard Sharp of Fish Street Hill. In 1766, he became a
+                            partner of John Story, warehouseman, Lawrence Lane. He was an East India
+                            merchant in Lawrence Lane in 1789. By 6 October 1792 he was on the
+                            Hackney Committee for the Association to Defend Liberty and Property
+                            against Republicans and Levellers (Oracle 7 October 1792). He was buried
+                            31 December 1810, St John Hackney, age 85. His will, PCC 1811, indicates
+                            that he lived in Homerton. His probable birthplace is Askrigg,
+                            Yorkshire; one of his executors was John Pearson of Lawrence Lane,
+                            warehouseman. </p>
+                    </note>
+                </person>
+            </listPerson>
+
+        </body>
+    </text>
+</TEI>

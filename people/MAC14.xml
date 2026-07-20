@@ -1,9 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="MAC14" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">D. E.</forename><surname xmlns="http://www.tei-c.org/ns/1.0">MacDonnell</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1000"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1808"/><occupation xmlns="http://www.tei-c.org/ns/1.0">newspaper editor</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0"> (fl. 1791-1808).   D.E. MacDonnell was an Irish journalist and lawyer.  He was, successively, editor of the <title xmlns="http://www.tei-c.org/ns/1.0">Morning Post </title>(probably), <title xmlns="http://www.tei-c.org/ns/1.0">Gazetteer</title>, and <title xmlns="http://www.tei-c.org/ns/1.0">Telegraph</title>, 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="MAC14" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>D. E.</forename>
+                        <surname>MacDonnell</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName/>
+                    </birth>
+                    <death when="1808"/>
+                    <occupation>newspaper editor</occupation>
+                    <note type="editorial">
+                        <p> (fl. 1791-1808).   D.E. MacDonnell was an Irish journalist and lawyer.  He was, successively, editor of the <title>Morning Post </title>(probably), <title>Gazetteer</title>, and <title>Telegraph</title>, 
     in the period 1791-6.  He was a founding member of Society of the Friends of the People in April 1792. Almost certainly the same D. E. MacDonnell of the Middle Temple who 
-    compiled <title xmlns="http://www.tei-c.org/ns/1.0">A Dictionary of the Quotations in Most Frequent Use</title>, 5th ed (1809) He was a signatory of declaration of the Society of the Friends of the People April 11th 1792, 
-    but was omitted, like <persName xmlns="http://www.tei-c.org/ns/1.0" key="MER01">Robert Merry</persName>, from version of their Address printed on April 30th.  From February 1793 he became editor of <title xmlns="http://www.tei-c.org/ns/1.0">Gazeteer </title> until 
-    the following December, whereupon he took on the editorship of the <title xmlns="http://www.tei-c.org/ns/1.0">Telegraph.</title> The minute books of the <title xmlns="http://www.tei-c.org/ns/1.0">Gazeteer</title> suggest he took a tour of the 
-    continent to gather information on the war in the summer of 1794. <persName xmlns="http://www.tei-c.org/ns/1.0" key="TAY01">John Taylor</persName> gives an account of his role as go-between with Merry after the poet 
-    insulted him as ‘reptile oculist’ in the <title xmlns="http://www.tei-c.org/ns/1.0">Telegraph</title>on  4  November 1795 believing him to be the author of a violent attack on the Drury Lane production of Venice 
+    compiled <title>A Dictionary of the Quotations in Most Frequent Use</title>, 5th ed (1809) He was a signatory of declaration of the Society of the Friends of the People April 11th 1792, 
+    but was omitted, like <persName key="MER01">Robert Merry</persName>, from version of their Address printed on April 30th.  From February 1793 he became editor of <title>Gazeteer </title> until 
+    the following December, whereupon he took on the editorship of the <title>Telegraph.</title> The minute books of the <title>Gazeteer</title> suggest he took a tour of the 
+    continent to gather information on the war in the summer of 1794. <persName key="TAY01">John Taylor</persName> gives an account of his role as go-between with Merry after the poet 
+    insulted him as ‘reptile oculist’ in the <title>Telegraph</title>on  4  November 1795 believing him to be the author of a violent attack on the Drury Lane production of Venice 
     Preserved for its ‘democratic principles’ (II, 272). MacDonnel challenged Taylor to a duel, but then backed down. Merry then confessed to the authorship, 
-    claiming to have been in drink when he composed the paragraph. </p><p xmlns="http://www.tei-c.org/ns/1.0">MacDonnell features (twice) in the 1796 list, once crossed out - both entries being for 1795.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Robert L. Haig,<title xmlns="http://www.tei-c.org/ns/1.0">The Gazetteer 1735-1797</title>Carbondale, Il., Southern Illinois University Press, 1960, pp. 232-239 and 250-3</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">L. Werkmeister,<title xmlns="http://www.tei-c.org/ns/1.0">The London Daily Press, 1772-1792</title>Lincoln, University of Nebraska Press, 1963 , pp. 343, 355 </bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">L. Werkmeister,<title xmlns="http://www.tei-c.org/ns/1.0">A Newspaper History of England, 1792-3</title> Lincoln, University of Nebraska Press, 1967 , pp. 37, 76, 168, 169</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">    John Taylor,<title xmlns="http://www.tei-c.org/ns/1.0">Records of My Life,</title>  II, 272-8</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-11-23" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-01-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-03-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-05-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-12-24" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"><date xmlns="http://www.tei-c.org/ns/1.0" when="1807-10-17" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    claiming to have been in drink when he composed the paragraph. </p>
+                        <p>MacDonnell features (twice) in the 1796 list, once crossed out - both entries being for 1795.</p>
+                    </note>
+                    <bibl type="printedbook">Robert L. Haig,<title>The Gazetteer 1735-1797</title>Carbondale, Il., Southern Illinois University Press, 1960, pp. 232-239 and 250-3</bibl>
+                    <bibl type="printedbook">L. Werkmeister,<title>The London Daily Press, 1772-1792</title>Lincoln, University of Nebraska Press, 1963 , pp. 343, 355 </bibl>
+                    <bibl type="printedbook">L. Werkmeister,<title>A Newspaper History of England, 1792-3</title> Lincoln, University of Nebraska Press, 1967 , pp. 37, 76, 168, 169</bibl>
+                    <bibl type="printedbook">    John Taylor,<title>Records of My Life,</title>  II, 272-8</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

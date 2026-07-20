@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="SPI01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Thomas</forename>
+                        <surname>Spilsbury</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1795"/>
+                    <occupation>Printer</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope: Spilsbury 6.5.1792; 16.5.1792; and 20.6.1794 - this last a
+                            call by Godwin followed by his call on Dorset the next day. Thomas
+                            Spilsbury printer of Snow Hill (see Cooper, John Robinson). He died
+                            1795. See the will PCC 1800 of his son Thomas, whose brothers William
+                            and Charles continued the printing business until 1803, then Charles
+                            alone. 25.5.1809 Spilsbury calls / 21.6.1809 again / 28.11.1809 call on
+                            Spilsbury William and Charles Spilsbury were in dispute in Chancery in
+                            1807. In 1808 Charles Spilsbury was the printer of Lloyd's Evening Post
+                            (see Nat Arch TS11/44/162 and Sun 6.7.1808) and in 1810 he went
+                            bankrupt. Godwin had moved in 1807 to Skinner-st very near his printshop
+                            in Angel-court. There was also a Lucas Ward Spilsbury grocer and tea
+                            dealer of 85 St John-st, near to Godwin </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

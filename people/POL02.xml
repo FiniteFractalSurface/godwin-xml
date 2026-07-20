@@ -1,13 +1,61 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="POL02" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Gaetano</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Polidori</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1764"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1853"/><occupation xmlns="http://www.tei-c.org/ns/1.0">physician</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">writer</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">There are two references to Polidori in the diary in 1802 and 1829.  These cannot refer to John Polidori, 
-    (1795–1821), physician and writer and the friend of <persName xmlns="http://www.tei-c.org/ns/1.0" key="BYR01">Byron</persName> 
-      and <persName xmlns="http://www.tei-c.org/ns/1.0" key="SHE01">Shelley</persName> as he was seven years old at the time of the earlier entry and was dead by 1829.
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="POL02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Gaetano</forename>
+                        <surname>Polidori</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1764">
+                        <placeName> </placeName>
+                    </birth>
+                    <death when="1853"/>
+                    <occupation>physician</occupation>
+                    <occupation>writer</occupation>
+                    <note type="editorial">
+                        <p>There are two references to Polidori in the diary in 1802 and 1829.  These cannot refer to John Polidori, 
+    (1795–1821), physician and writer and the friend of <persName key="BYR01">Byron</persName> 
+      and <persName key="SHE01">Shelley</persName> as he was seven years old at the time of the earlier entry and was dead by 1829.
    The entries probably refer to his father the Italian writer, Gaetano Polidori (1764–1853). 
-   According to St Clair, Polidori senior helped Godwin with his <title xmlns="http://www.tei-c.org/ns/1.0">Life of Chaucer</title> - the 1802 entry includes De Ocheda, a prominent librarian and perhaps 
-      someone Godwin identified as a useful source for his research. Later, <title xmlns="http://www.tei-c.org/ns/1.0">The Vampyre</title>, a short story written by John Polidori but 
+   According to St Clair, Polidori senior helped Godwin with his <title>Life of Chaucer</title> - the 1802 entry includes De Ocheda, a prominent librarian and perhaps 
+      someone Godwin identified as a useful source for his research. Later, <title>The Vampyre</title>, a short story written by John Polidori but 
       attributed to Byron,
    was published with a letter from Geneva as a preface. In it were mentioned Shelley,
-   <persName xmlns="http://www.tei-c.org/ns/1.0" key="SHE02">Mary Wollstonecraft Shelley</persName> and <persName xmlns="http://www.tei-c.org/ns/1.0" key="CLA03">Clair Clairmont</persName>. The piece fuelled scandalous rumours and, 
-   at Godwin's urging, Polidori senior intervened to have the offending passage withdrawn.</p><p xmlns="http://www.tei-c.org/ns/1.0">According to the <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> Gaetano Polidori had set up a small press where he published a range of material, including some of his own work and 
+   <persName key="SHE02">Mary Wollstonecraft Shelley</persName> and <persName key="CLA03">Clair Clairmont</persName>. The piece fuelled scandalous rumours and, 
+   at Godwin's urging, Polidori senior intervened to have the offending passage withdrawn.</p>
+                        <p>According to the <title>DNB</title> Gaetano Polidori had set up a small press where he published a range of material, including some of his own work and 
  some of the early poetry of his grandchildren Dante Gabriel 
       Rossetti (1828–1882) and Christina Rossetti (1830–1894). In 1828 Godwin seeks Polidori 
-    and finds him with Magnani and Rosetti (senior).</p><p xmlns="http://www.tei-c.org/ns/1.0">  Polidori appears in the 1796 list for 1802.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">St Clair, p. 406.</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-04-08" n="venue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-04-12" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-04-15" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-04-19" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-04-21" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1802-10-15" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"><date xmlns="http://www.tei-c.org/ns/1.0" when="1803-10-14" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"><date xmlns="http://www.tei-c.org/ns/1.0" when="1829-08-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1829-09-01" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    and finds him with Magnani and Rosetti (senior).</p>
+                        <p>  Polidori appears in the 1796 list for 1802.</p>
+                    </note>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                    <bibl type="printedbook">St Clair, p. 406.</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

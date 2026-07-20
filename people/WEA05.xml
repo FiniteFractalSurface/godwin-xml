@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WEA05" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>FIRSTNAME</forename>
+                        <surname>Weale</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000">
+                        <placeName/>
+                    </birth>
+                    <death when="1000"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>William St Clair in The Godwins and the Shelleys speculates that Weale,
+                            being someone Godwin probably met through Mrs Godwin (nee Mary Jane
+                            Vial) may have anglicised his name from Vial, and that miss Weale could
+                            have been the future wife Godwin later met as Mrs Clairmont (although
+                            never having married she was in fact Miss Vial). Miss Weale was
+                            presumably a friend of Mary Elizabeth Robinson's and may not have been
+                            related to the Weale of 1812 to 1818, but that Weale or at least his
+                            family, can be identified by the two Carlton entries above.. The will
+                            PCC 1794 of William Weale of St Pancras mentioned his sister Tabitha
+                            widow of John Mansell, and Sarah Ann, wife of Joseph Carlton and aunt
+                            and guardian of William Weale's daughter Ann. Mrs Carlton took
+                            administaration of William Weale's estate in 1802, the executors having
+                            died. The will PCC 1813 of James Weale upholsterer of 18 Edward St,
+                            Portman Sq mentioned his sister Ann Carlton, his daughter Louisa, and
+                            his sons James and Daniel. Tabitha Weale was baptised 4.11.1750 at St
+                            John Wapping, dau of James, blockmaker of Wapping and Tabitha. Sarah Ann
+                            Weale was baptised 14.5.1752 at St John Wapping dau of James and Sarah,
+                            and her brother Daniel was baptised there in 1753. The will PCC 1818 of
+                            Daniel Weale, upholsterer of Edward St Portman Sq mentioned his brother
+                            James of York St Bldgs New Rd gent, his brother-in-law Joseph Carlton of
+                            Clarendon St Somers Town, and his sister Louisa wife of Joseph Carlton.
+                            This would have been the son of the Joseph Carlton who married Sarah Ann
+                            Weale, he married Louisa Weale (his cousin) at St Marylebone on
+                            9.8.1813. At a guess he was the Carlton who visited the Godwins, and the
+                            Weale was most likely his brother-in-law James, the brother of Daniel,
+                            as he visited the Godwins twice after Daniel's will was proved on
+                            23.7.1818. Miss Weale of 1800 could have been Louisa or her cousin Ann,
+                            or of some other Weale family.</p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

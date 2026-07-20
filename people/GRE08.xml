@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="GRE08" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Elizabeth</forename>
+                        <surname>Greene</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Ed Pope notes: The will PCC 1800 of Elizabeth Greene widow of Norwich
+                            mentioned John Greene Baseley (see my entry for Baseley) without saying
+                            what their relationship was. She gave her birth date as 23.9.1726. She
+                            also mentioned John Hooke Greene (died 1.9.1838 age 82 will PCC 1838),
+                            Elizabeth Greene, Harriet Ann Boyd and Charlotte Hemming (will PCC 1817)
+                            children of Rev John Greene rector of Hunworth and Stody (instituted there
+                            1761, perhaps John Greene will PCC 1786 clerk of Norwich Cathedral?).
+                        </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

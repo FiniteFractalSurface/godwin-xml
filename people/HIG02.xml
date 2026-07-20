@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Person List</title>
+            <respStmt>
+               <resp>Researched by</resp>
+               <name>EP</name>
+            </respStmt>
+            <respStmt>
+               <resp>Encoded by</resp>
+               <name>SI</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Generated data</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="HIG02" sex="1">
+               <persName>
+                  <roleName/>
+                  <forename>Samuel</forename>
+                  <surname>Highley</surname>
+                  <addName/>
+               </persName>
+               <birth when="1000">
+                  <placeName/>
+               </birth>
+               <death when="1000"/>
+               <occupation>Bookseller</occupation>
+               <note type="editorial">
+                  <p>This was probably Samuel Highley, a medical bookseller who in 1809 was based at 24 Fleet-st. Godwin recalls calling on Highley in a string of calls on booksellers.</p>
+               </note>
+               <bibl type="other">
+                  <title>Ed Pope History Entry 13/03/2021</title>
+               </bibl>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

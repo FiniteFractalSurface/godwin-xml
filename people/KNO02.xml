@@ -1,14 +1,62 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="KNO02" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">James Sheridan</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Knowles</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1784-05-12"><placeName xmlns="http://www.tei-c.org/ns/1.0">Ireland</placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1862-11-30"/><occupation xmlns="http://www.tei-c.org/ns/1.0"/><occupation xmlns="http://www.tei-c.org/ns/1.0">playwright</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">See for a full discussion the entry for <persName xmlns="http://www.tei-c.org/ns/1.0" key="KNO01">John Knowles</persName> who accounts for most of the Knowles entries in the diary.</p><p xmlns="http://www.tei-c.org/ns/1.0"> Those which we believe relate to James Sheridan Knowles are restricted to entries after 1828.</p><p xmlns="http://www.tei-c.org/ns/1.0"> The <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title> suggests that  James     Sheridan Knowles was not well-known and settled in London until the 1820s - before that he was studying
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="KNO02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>James Sheridan</forename>
+                        <surname>Knowles</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1784-05-12">
+                        <placeName>Ireland</placeName>
+                    </birth>
+                    <death when="1862-11-30"/>
+                    <occupation/>
+                    <occupation>playwright</occupation>
+                    <note type="editorial">
+                        <p>See for a full discussion the entry for <persName key="KNO01">John Knowles</persName> who accounts for most of the Knowles entries in the diary.</p>
+                        <p> Those which we believe relate to James Sheridan Knowles are restricted to entries after 1828.</p>
+                        <p> The <title>DNB</title> suggests that  James     Sheridan Knowles was not well-known and settled in London until the 1820s - before that he was studying
     medicine in Aberdeen, involved in Irish and provincial theatre etc. From 1828 G occasionally distinguishes
     S/Shn/Sheridan Knowles, but the great majority of entries to Knowles come before 1820 and do not have an initial.  This suggests that it is the later Sheridan Knowles entries that are being distinguished 
     so as not to be confused with the more longstanding John Knowles entries.
-    This gives over two hundred entries for John Knowles and only seven for Sheridan:<lb xmlns="http://www.tei-c.org/ns/1.0"/>
-    9.1.1828 'Dine at Kenney's, w. Sheridan Knowles....' <lb xmlns="http://www.tei-c.org/ns/1.0"/>
-    On the 25th of the same month, 'meet S Knowles'<lb xmlns="http://www.tei-c.org/ns/1.0"/>
-    23.12.1831 'Meet  'Sh.n Knowles' <lb xmlns="http://www.tei-c.org/ns/1.0"/>
-    30.3.1832 'S Knowles calls'<lb xmlns="http://www.tei-c.org/ns/1.0"/>
-    8.4.1832 'Call on S Knowles n (adv. pere and 2)<lb xmlns="http://www.tei-c.org/ns/1.0"/>
-    26.4.1832 'meet Sheridan Knowles'<lb xmlns="http://www.tei-c.org/ns/1.0"/>
-    6.11.1835 'Meet Sheridan Knowles'<lb xmlns="http://www.tei-c.org/ns/1.0"/></p><p xmlns="http://www.tei-c.org/ns/1.0"> 15.10.1827 'Knowles senr' appears as a theatre adv, appears in the same context 1.5.1832 and 10.4.1833: 
+    This gives over two hundred entries for John Knowles and only seven for Sheridan:<lb/>
+    9.1.1828 'Dine at Kenney's, w. Sheridan Knowles....' <lb/>
+    On the 25th of the same month, 'meet S Knowles'<lb/>
+    23.12.1831 'Meet  'Sh.n Knowles' <lb/>
+    30.3.1832 'S Knowles calls'<lb/>
+    8.4.1832 'Call on S Knowles n (adv. pere and 2)<lb/>
+    26.4.1832 'meet Sheridan Knowles'<lb/>
+    6.11.1835 'Meet Sheridan Knowles'<lb/></p>
+                        <p> 15.10.1827 'Knowles senr' appears as a theatre adv, appears in the same context 1.5.1832 and 10.4.1833: 
       this cannot be John Knowles's father (also John, shipwright, d. 1814) but has been coded as James Sheridan 
-      Knowles's father James Knowles (1759-1840), schoolmaster and lexicographer. </p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-01-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1828-01-25" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-12-23" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-03-30" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-04-08" n="venue" type="nah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-04-26" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-11-06" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+      Knowles's father James Knowles (1759-1840), schoolmaster and lexicographer. </p>
+                    </note>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

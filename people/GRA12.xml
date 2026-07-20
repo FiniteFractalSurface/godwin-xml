@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="GRA12" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>William</forename>
+                        <surname>Graves</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Shortly before Aaron Burr had to leave England in April 1809, Godwin
+                            wrote a number of names and addresses in the flyleaf of his diary vol 15
+                            he'd begun in February (where they are transcribed on GD website but not
+                            coded). Four of them Godwin noted in his diary in the week he last saw
+                            Burr. Graves of Walbrook wasn't listed in directories but appeared in
+                            Land Tax lists. A William Meeker Graves son of William and Elizabeth was
+                            born in Walbrook in 1808 and died 9 weeks later, as recorded in the
+                            register of the Fenchurch-st Quaker meeting, but stating that Graves was
+                            not a member. William P Meeker was also in Godwin's list of Burr's
+                            contacts, though he never appeared in the diary. William Parsons Meeker
+                            merchant of Basinghall-st, London, partner with Samuel Denman at
+                            Philadelphia, was a bankrupt in 1808 (Manchester Mercury 18.10.1808).
+                            His genteel furniture and effects at Basinghall-st were auctioned
+                            (Morning Chronicle 21.12.1808). He got his certificate on 8.4.1809,
+                            dividends were being paid up until 1834. The bankruptcy papers are one
+                            of those that survive at Kew (Nat Arch B3/3214 not seen). According to
+                            Ancestry, Meeker was born 1769, married Elizabeth Vandenbrandt, and died
+                            at sea in 1812. The "seek Zoust" of 1809 was Godwin looking for a print
+                            of Shakespeare by Gerard de Zoust (or Soest d. 1681) and he called at
+                            several printsellers with his wife. </p><p>According to DNB Graves family per.
+                            c. 1812-1892, Robert Graves (d.1825) had a print shop in Pall Mall, but
+                            it didn't appear in any directories, still I reckon "Grave's" referred
+                            to him.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

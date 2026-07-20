@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="FRE04" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>William James</forename>
+                        <surname>French</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p> Ben Ross Schneider, "Wordswoth's Cambridge Education" suggests this may
+                            be Richard Forrester French, admitted Trinity Hall 1787, because he is
+                            the only contemporary French in Alum Cantab, and if he is not a
+                            Cambridge man he is the odd one out at the meeting of 27.2.1798, (though
+                            nor were Holcroft and Godwin Cambridge men).</p> <p>In fact there is another
+                            possible French in Alum Cantab, William James son of James French
+                            schoolmaster admitted Trinity 1784, schoolmaster of Bow d. 1808. </p>
+                        <p>Richard Forrester French changed his name to Richard F Forester in 1797, was admitted at
+                            Christ's Hospital 12.6.1806, became a doctor and practised in Derby, his
+                            will PCC 1844. Mary Forrester widow PCC 1799, his father Richard of
+                            Derby PCC 1801 Joseph Fawcett's wife was Charlotte French but her father
+                            Rev John French schoolmaster of Ware died (PCC 1782) and her (only?)
+                            brother Baron French died 1791. Wm French surgeon Harpur St UBD 1791
+                        </p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

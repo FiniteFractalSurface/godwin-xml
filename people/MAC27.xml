@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name>EB</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="MAC27" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>David</forename>
+                        <surname>MacPherson</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1746-10-26">
+                        <placeName/>
+                    </birth>
+                    <death when="1816-08-01"/>
+                    <occupation>Historian, Land Surveyor</occupation>
+                    <note type="editorial">
+                        <p> David MacPherson was a historian and land surveyor who emigrated to
+                            America in the 1790s. Ed Pope notes that he was a friend of Ritsons,
+                            which explains his connection to Godwin. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="other">
+                        <title/> DNB, Ed Pope
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

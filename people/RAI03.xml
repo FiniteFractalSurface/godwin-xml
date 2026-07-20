@@ -1,9 +1,54 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="RAI03" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Jonathan</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Raine</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1763"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1831"/><occupation xmlns="http://www.tei-c.org/ns/1.0">lawyer</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">politician</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="RAI03" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Jonathan</forename>
+                        <surname>Raine</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1763">
+                        <placeName/>
+                    </birth>
+                    <death when="1831"/>
+                    <occupation>lawyer</occupation>
+                    <occupation>politician</occupation>
+                    <note type="editorial">
+                        <p>
     Barrister and a member of parliament from 1802 to 1807 and 
-    again from 1812 to 1831. Brother of <persName xmlns="http://www.tei-c.org/ns/1.0" key="RAI02">Matthew Raine</persName>, (1760-1811) headmaster of Charterhouse School, who also appears in the diary.<lb xmlns="http://www.tei-c.org/ns/1.0"/>
-    He appears three times 1795. On 27 February he is noted at <persName xmlns="http://www.tei-c.org/ns/1.0" key="FRE01">Frend's</persName> among a large group including Horne Tooke, Wordswoth and Dyer. 
-    Then later that year Godwin dines with him twice, first at     <persName xmlns="http://www.tei-c.org/ns/1.0" key="">Montagu's</persName> on 18 November then
-    on  29 November, 'Dine at <persName xmlns="http://www.tei-c.org/ns/1.0" key="BAN04">Bankes's</persName>, w. Porson, + Jo Raine; talk of Yorke's sentence'. According 
-    to the <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>, <persName xmlns="http://www.tei-c.org/ns/1.0" key="POR01">Porson</persName> was at school with Jonathan Raine and was a close friend of his brother Matthew.<lb xmlns="http://www.tei-c.org/ns/1.0"/>
+    again from 1812 to 1831. Brother of <persName key="RAI02">Matthew Raine</persName>, (1760-1811) headmaster of Charterhouse School, who also appears in the diary.<lb/>
+    He appears three times 1795. On 27 February he is noted at <persName key="FRE01">Frend's</persName> among a large group including Horne Tooke, Wordswoth and Dyer. 
+    Then later that year Godwin dines with him twice, first at     <persName key="">Montagu's</persName> on 18 November then
+    on  29 November, 'Dine at <persName key="BAN04">Bankes's</persName>, w. Porson, + Jo Raine; talk of Yorke's sentence'. According 
+    to the <title>DNB</title>, <persName key="POR01">Porson</persName> was at school with Jonathan Raine and was a close friend of his brother Matthew.<lb/>
  The fourth and final entry is much later, 30 December 1811, 'Write to Jonathan Raine'.
-</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-02-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-11-18" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1795-11-29" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"><date xmlns="http://www.tei-c.org/ns/1.0" when="1811-12-30" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+</p>
+                    </note>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

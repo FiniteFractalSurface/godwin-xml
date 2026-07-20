@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="BUR13" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Edward Francisco</forename>
+                        <surname>Burney</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1760">
+                        <placeName/>
+                    </birth>
+                    <death when="1848"/>
+                    <occupation>Designer</occupation>
+                    <note type="editorial">
+                        <p>Edward Francisco Burney DNB 1760-1848. At that time a designer was an
+                            artist who made drawings for engravers and this is just what E F Burney
+                            did. After this call Godwin then called on Burney's cousin Martin Burney
+                        </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

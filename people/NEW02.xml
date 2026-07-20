@@ -1,11 +1,60 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="NEW02" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0">Reverend</roleName><forename xmlns="http://www.tei-c.org/ns/1.0">Samuel</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Newton</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1732"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1810-10-12"/><occupation xmlns="http://www.tei-c.org/ns/1.0">Dissenting Minister</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">Samuel Newton was Godwin's tutor before he attended Hoxton.  
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="NEW02" sex="1">
+                    <persName>
+                        <roleName>Reverend</roleName>
+                        <forename>Samuel</forename>
+                        <surname>Newton</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1732">
+                        <placeName/>
+                    </birth>
+                    <death when="1810-10-12"/>
+                    <occupation>Dissenting Minister</occupation>
+                    <note type="editorial">
+                        <p>Samuel Newton was Godwin's tutor before he attended Hoxton.  
     They had a difficult relationship, about which Godwin gives some information in his autobiographical notes. 
-    Godwin writes to him in 1793 saying that he has heard that Newton has been disparaging <title xmlns="http://www.tei-c.org/ns/1.0">Political Justice</title>.
+    Godwin writes to him in 1793 saying that he has heard that Newton has been disparaging <title>Political Justice</title>.
     Newton replies saying that he is very much in support of many sections of the book but not all, and in a later letter he rather neatly undercuts Godwin's 
-    position by saying that he finds Hume and other writers to sure of their own opninions.</p><p xmlns="http://www.tei-c.org/ns/1.0">After this correspondence, in the summer of 1794, Godwin visits Norwich, and it is possible that the Newton recorded 
+    position by saying that he finds Hume and other writers to sure of their own opninions.</p>
+                        <p>After this correspondence, in the summer of 1794, Godwin visits Norwich, and it is possible that the Newton recorded 
     there is Samuel Newton, although they meet more than we might think would please Godwin, and in the company of Alderson and Merry, which means we cannot be certain of the identification.   
     It does not seem likely that this Newton would account for the London entries in 1795, but 
     he might well account for references to Newton on his trip to Norwich in 1796. (Note that Newton is 
-    also the name of a village close to Norwich - in 1796 Godwin walks to Newton). Entries in the diary have been coded accordingly.</p><p xmlns="http://www.tei-c.org/ns/1.0"> Jewson writes that Newton 'seems not to have taken an active part in political affairs' (Jewson, <title xmlns="http://www.tei-c.org/ns/1.0">Jacobin City</title>, p.137), he was involved in Norwich networks of dissenters, which is the context
-    he appears in when G is in Norwich.</p><p xmlns="http://www.tei-c.org/ns/1.0">Godwin notes his death in 1810 at the age of 78.</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">C.B. Jewson, <title xmlns="http://www.tei-c.org/ns/1.0">The Jacobin City: A Portrait of Norwich in its Reaction to the French Revolution 
-    1788-1802</title> (Glasgow: Blackie, 1975)</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook"><title xmlns="http://www.tei-c.org/ns/1.0">The Collected Novels and Memoirs of William Godwin</title> Volume 1, (Pickering and Chatto, London, 1992  </bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS"> MS. Abinger c. 17, fol. 32:	?Dec. [1793]</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">MS. Abinger c. 2, fols. 35-6: 4 Dec. 1793</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="MS">MS. Abinger c.2, fols. 37-8:  14 Dec..1793</bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"><date xmlns="http://www.tei-c.org/ns/1.0" when="1793-12-22" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-06-27" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1794-07-02" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-07-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1796-08-03" n="venue" type="nah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"><date xmlns="http://www.tei-c.org/ns/1.0" when="1810-10-12" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+    also the name of a village close to Norwich - in 1796 Godwin walks to Newton). Entries in the diary have been coded accordingly.</p>
+                        <p> Jewson writes that Newton 'seems not to have taken an active part in political affairs' (Jewson, <title>Jacobin City</title>, p.137), he was involved in Norwich networks of dissenters, which is the context
+    he appears in when G is in Norwich.</p>
+                        <p>Godwin notes his death in 1810 at the age of 78.</p>
+                    </note>
+                    <bibl type="printedbook">C.B. Jewson, <title>The Jacobin City: A Portrait of Norwich in its Reaction to the French Revolution 
+    1788-1802</title> (Glasgow: Blackie, 1975)</bibl>
+                    <bibl type="printedbook"><title>The Collected Novels and Memoirs of William Godwin</title> Volume 1, (Pickering and Chatto, London, 1992  </bibl>
+                    <bibl type="MS"> MS. Abinger c. 17, fol. 32:	?Dec. [1793]</bibl>
+                    <bibl type="MS">MS. Abinger c. 2, fols. 35-6: 4 Dec. 1793</bibl>
+                    <bibl type="MS">MS. Abinger c.2, fols. 37-8:  14 Dec..1793</bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

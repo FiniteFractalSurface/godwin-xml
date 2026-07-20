@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="FOU02" sex="2">
+                    <persName>
+                        <roleName/>
+                        <forename>Philippa</forename>
+                        <surname>Foulkes</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>See also John Foulkes - the husband from whom she was estranged. </p><p>See Ed
+                            Pope's article: from my article Godwin,the Reveleys and the Jenningses,
+                            see blog/articles section and notes 13 and 14 of that article. There was
+                            also a sub-plot around the Foulkeses: on 25th October 1794 Godwin supped
+                            at Foulkes' and noted "demele de me" ; on 29th
+                            December, just as the intrigues were coming to a head, he called on her
+                            but she wasn't in; on 27th July and 6th September 1795 (as P Foulkes,
+                            i.e. Philippa) she turned up at Holcroft's, as she did again on 29th
+                            August 1798; Godwin called on her 30th September; she was at Holcroft's
+                            on 17th March 1799, Godwin called on her on 30th April 1800 and she
+                            returned the call the next day. </p><p> Phil;ippa Foulkes obtained a legal separation from her
+                            husband on the grounds of his great cruelty and adultery in December
+                            1802 on appeal to Doctors Commons , so this seems to be another case of
+                            Godwin (and perhaps Holcroft) consoling ladies in "intellectual
+                            distress", as Mary Wollstonecraft put it. The depositions in the Bishop
+                            of London's court (London Metropolitan Archives DL/C/288 f239) show that
+                            Mrs Foulkes moved out of her husband's house on 6th October 1800 after a
+                            long period of sleeping separately and communicating only by hostile
+                            notes. According to the artist John Raphael Smith's deposition, Mrs
+                            Foulkes was "peevish, fretful and quarrelsome" and used to harrass and
+                            provoke Foulkes for what Smith thought very trivial causes; they had
+                            nearly parted in 1798, and from 1799 she began to complain of his
+                            absence from home. Smith and others had intervened to settle disputes,
+                            usually at her entreaty, but it turned out that from about 1799 Foulkes
+                            was keeping a mistress in Kentish Town where they went by the name of Mr
+                            and Mrs Fox. His mistress, as his will implied, became the mother of his
+                            five children and lived with him till his death in 1821. Mrs Foulkes
+                            seems to have had no children and lived till 1840.</p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

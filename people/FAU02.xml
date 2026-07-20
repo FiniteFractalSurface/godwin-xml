@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>MP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="FAU02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Thomas</forename>
+                        <surname>Faulder</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1789">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Lawyer/Agent</occupation>
+                    <note type="editorial">
+                        <p> Son of Robert Faulder bookseller 46 New Bond-st. Robert Faulder was
+                            buried 21.7.1815 His eldest son Joseph was executor of his will along
+                            with James White. Thomas, (baptised 8 December 1789) accounts for the T.
+                            Faulder entries in the Diary. It is possible that the 'Faulder attny' entries refer to Thomas - since
+                            it seems possible that Thomas Faulder went on to become an agent for a canal company in Middlesex in 1860, but we have left these uncoded.</p>
+                    </note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

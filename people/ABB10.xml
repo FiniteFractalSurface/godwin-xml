@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="ABB10" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>James</forename>
+                        <surname>Abbott</surname>
+                        <addName/>
+                    </persName>
+
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-01-01"/>
+                    <occupation>Oilman</occupation>
+                    <note type="editorial">
+                        <p>One James Abbott lived on 32 Poland Street, according to the rate books
+                            for 1787-8. A James Abbott married Sarah on 6 September 1785 at St
+                            George Hanover Square. They had a son, William James, who was baptised
+                            on 4 December 1785 at St James. These dates overlap with another James
+                            Abbott, who married Elizabeth Ann Matthews (possibly signed ‘Mattheis’)
+                            on 9 September 1785. A witness was Peter Giffith. Both parties were of
+                            that parish and the marriage was by banns. Their children were baptised
+                            in St James: Louisa Ann 1790, Mary 1791 (possibly not Ann Elizabeth’s
+                            child as she was born only 7 months after Louisa Ann), Elizabeth Ann
+                            1794, George 1800, and Ann, born Fulham 1803 (from a user-submitted tree
+                            on Ancestry). A Prerogative Court of Canterbury (PCC) will of a James
+                            Abbott, oilman of Bedford Street, Holborn, was proved on 25 August 1798
+                            (dated 5 June 1798). The will mentioned his wife Elizabeth and was sworn
+                            to by James Bayley, perfumer, and William Bennett, gentleman, both of St
+                            Marylebone. There may be two or three different James Abbotts in these
+                            records. </p>
+                    </note>
+                </person>
+            </listPerson>
+
+        </body>
+    </text>
+</TEI>

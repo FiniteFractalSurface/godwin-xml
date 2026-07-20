@@ -1,6 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="CUN01" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Allan</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Cunningham</surname><addName xmlns="http://www.tei-c.org/ns/1.0">Hidallan</addName></persName><birth xmlns="http://www.tei-c.org/ns/1.0" when="1784-12-07"><placeName xmlns="http://www.tei-c.org/ns/1.0"/></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1842-10-29"/><occupation xmlns="http://www.tei-c.org/ns/1.0">songwriter</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">poet</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0"> Godwin read Cunningham's <title xmlns="http://www.tei-c.org/ns/1.0">Lives of the
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>EP</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="CUN01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Allan</forename>
+                        <surname>Cunningham</surname>
+                        <addName>Hidallan</addName>
+                    </persName>
+                    <birth when="1784-12-07">
+                        <placeName/>
+                    </birth>
+                    <death when="1842-10-29"/>
+                    <occupation>songwriter</occupation>
+                    <occupation>poet</occupation>
+                    <note type="editorial">
+                        <p> Godwin read Cunningham's <title>Lives of the
 Most Eminent British Painters</title> just prior to meeting him for the first time. They meet on thirteen occasions between 1830 and 1835, mainly 
-  in artistic circles associated with <persName xmlns="http://www.tei-c.org/ns/1.0" key="PIC01">Pickersgill</persName> and <persName xmlns="http://www.tei-c.org/ns/1.0" key="MAR03">Martin</persName>.</p><p xmlns="http://www.tei-c.org/ns/1.0">In addition, Ralph Thomas wrote a journal entry in 1832 describing a gathering at the painter <persName xmlns="http://www.tei-c.org/ns/1.0" key="MAR03">John Martin’s</persName> with 'Hogg, the Ettrick 
+  in artistic circles associated with <persName key="PIC01">Pickersgill</persName> and <persName key="MAR03">Martin</persName>.</p>
+                        <p>In addition, Ralph Thomas wrote a journal entry in 1832 describing a gathering at the painter <persName key="MAR03">John Martin’s</persName> with 'Hogg, the Ettrick 
   Shepherd, Mrs Burns and captain Burns, the youngest son of the poet, Allan
   Cunningham and wife,  Godwin, Pringle – and about a score more….'  - and goes on to describe the evening, full of singing of Burns songs, encores,
-  and toasts!</p></note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="printedbook">Mary Lucy Pendered, <title xmlns="http://www.tei-c.org/ns/1.0">John Martin, painter: His Life and Times</title> (London: Hurst and Blackett, 1923), p. 177.</bibl><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-07-01" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1830-08-08" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-03-06" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-03-14" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1831-04-03" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-01-09" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-01-16" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-04-29" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1832-05-28" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-03-14" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-04-07" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-08-30" n="notVenue" type="ah"/><date xmlns="http://www.tei-c.org/ns/1.0" when="1835-09-04" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
+  and toasts!</p>
+                    </note>
+                    <bibl type="printedbook">Mary Lucy Pendered, <title>John Martin, painter: His Life and Times</title> (London: Hurst and Blackett, 1923), p. 177.</bibl>
+                    <bibl type="other">
+                        <title>DNB</title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
