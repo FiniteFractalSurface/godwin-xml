@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="AND03" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Dr James</forename>
+                        <surname>Anderson</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Ed Pope suggests: "Dr Anderson" wasn't noted in the diary till
+                            20.11.1796, but his position in the 1796 list suggests he was the
+                            Anderson and sons at Miss Godwin's on 30.9.1795. He was probably James
+                            Anderson DNB 1739-1808, author of Recreations in Agriculture and the
+                            magazine The Bee. Three of his sons were Alexander b.1769, George 1773 -
+                            1817 and John DNB b.1775. George Anderson's will PCC 1817 of St Martins
+                            Lane Cannon St merchant and ships chandler, brother Alexander Seton (he
+                            changed his name on receiving an inheritance from his mother's family)
+                            brother James Anderson partner Charles Laing (see Laing, Charles) dated
+                            22.3.1815. Morning Chronicle 15.1.1817 died 10.1.at West Ham from a fall
+                            from a gig, Fellow of Linnaean Society, deep botanical research. This
+                            family seem to account for 20.7.1795 and all Andersons between 18.9.1795
+                            and 4.4.1797.
+                        We have coded them all under this persname because they are part of the same family and not always easily distinguished.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

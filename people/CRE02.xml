@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="CRE02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Philip Champion de</forename>
+                        <surname>Crespigny</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1738">
+                        <placeName/>
+                    </birth>
+                    <death when="1803"/>
+                    <occupation>Lawyer and politician</occupation>
+                    <note type="editorial">
+                        <p>Perhaps Philip Champion de Crespigny Hist of Parl d.1803 noted as a man
+                            of fashion and about 70 years old by 1800. His brother Sir Claude
+                            Champion de Crespigny born 1734 will PCC 1818 had "the honour of
+                            receiving the Prince Regent" (Burke's Peerage de Crespigny) at his
+                            Camberwell home (and so perhaps the most likely companion of the
+                            Prince's ex-mistress Mary Robinson) made a baronet 1805. He married Mary
+                            Clarke 1764. Their sons Claude d.1813, Sir William will PCC 1830,
+                            Augustin will PCC 1826, all in Royal Navy, Heaton d 1858, Herbert Joseph
+                        </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

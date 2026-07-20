@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="CRO12" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Woodhouse</forename>
+                        <surname>Crompton</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1770">
+                        <placeName/>
+                    </birth>
+                    <death when="1808"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Ed Pope: Probably Woodhouse Crompton a student of New College, Hackney from Sept
+                            1789, subscribed to the expenses of Hardy's trial 27.3.1795, his will
+                            PCC 23.2.1808 of Warwick. His father was Samuel Crompton (will PCC 1787
+                            formerly of Gainsborough, Lincs but now of Clapham) and his mother was
+                            Hannah nee Woodhouse (will PCC 1817 widow of Clapham) who may have been
+                            the Mrs Crompton 16.3.1789 at Miss Williams'. Woodhouse was born
+                            15.11.1771 and bapt 22.12.1771 at Gainsborough Presbyterian. He married
+                            Mary Twamley on 11.11.1797 at St Thomas, Dudley. Their children were
+                            Mary, Samuel, Elizabeth Ann, Frances ad John Woodhouse. He was buried at
+                            Warwick Presbyterian on 28.10.1807 aged 36 so the last two entries above
+                            cannot be him. His brother John William Crompton proved his will in
+                            London on 23.2.1808 and was maybe accompanied by his wife, Martha
+                            Webster whom he married at St Martin, Birmingham on 13.10.1801.
+                            Woodhouse left a widow Mary, mother Hannah and sister Dorothea.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

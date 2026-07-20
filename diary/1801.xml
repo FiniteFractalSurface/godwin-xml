@@ -808,7 +808,7 @@
                             type="dText" subtype="read" target="/bibl/te1211.html">Percy, Vol. III,
                             p. 150</ref>. <seg type="dMeeting" subtype="CG"><persName
                                 ref="/people/TOB02.html">Tobin</persName></seg> &amp; <seg
-                            type="dMeeting" subtype="CG"><persName>Cerbre</persName> call</seg>:
+                                    type="dMeeting" subtype="CG"><persName ref="/people/ACE10.html">Cerbre</persName> call</seg>:
                             <seg type="dMeal" subtype="DG"><persName ref="/people/MAR01.html"
                                 >M</persName> dines</seg>: <seg type="dMeeting" subtype="C">call on
                                 <persName ref="/people/TAY06.html"><placeName type="venue">R
@@ -1048,7 +1048,7 @@
                             type="dText" subtype="read" target="/bibl/te1226.html">Hume, Vol. II, p.
                             125</ref>. <seg type="dMeal" subtype="D">Dine at <persName
                                 ref="/people/TOB01|TOB02.html"><placeName type="venue"
-                                    >Tobin's</placeName></persName>, w. <persName>Acerbi</persName>,
+                                    >Tobin's</placeName></persName>, w. <persName ref="/people/ACE10.html">Acerbi</persName>,
                                 <persName ref="/people/LES02.html">Leslie </persName>&amp; <persName
                                 ref="/people/WHI03.html">White</persName>; <seg type="dMeeting"
                                 subtype="Adv">adv. <persName ref="/people/DAV03.html"
@@ -1496,7 +1496,7 @@
                                 ref="/people/HOL03.html"><placeName type="venue"
                                 >Hollis</placeName></persName></seg>: <persName
                             ref="/people/MAR01.html">M </persName>sups. <seg type="dMeeting"
-                            subtype="CG"><persName>Anderson </persName>calls</seg>.</ab>
+                                subtype="CG"><persName ref="/people/AND03.html">Anderson </persName>calls</seg>.</ab>
                     <ab type="dDay" xml:id="g1801-05-22"><date when="1801-05-22">22. F.</date><ref
                             type="dWrote" subtype="write" target="/works/parr01.html">Answer, p.
                             47/2</ref>. <seg type="dMeeting" subtype="CG"><persName
@@ -1718,7 +1718,7 @@
                             <seg type="dMeeting" subtype="M">meet <persName ref="/people/FEL01.html"
                                 >Fell </persName></seg>&amp; <seg type="dMeeting" subtype="M"
                                 ><persName ref="/people/REY99.html">Reynolds</persName></seg>: <seg
-                            type="dMeal" subtype="TG"><persName>Anderson</persName> at tea</seg>:
+                                    type="dMeal" subtype="TG"><persName ref="/people/AND03.html">Anderson</persName> at tea</seg>:
                             <seg type="dMeal" subtype="S">sup at <persName ref="/people/KEI01.html"
                                     ><placeName type="venue">Keir's</placeName>,</persName> w.
                                 <persName>R K</persName> &amp; <persName>Hardy
@@ -1761,7 +1761,7 @@
                                 >Ritson</placeName></persName></seg>: <seg type="dMeeting"
                             subtype="M">meet <persName ref="/people/PHI01.html"
                             >Philips</persName></seg>: <seg type="dMeal" subtype="Ta">tea
-                                    <persName><placeName type="venue"
+                                <persName ref="/people/AND03.html"><placeName type="venue"
                                 >Anderson's</placeName></persName></seg>: <seg type="dMeal"
                             subtype="S">sup at <persName ref="/people/CAR01.html"><placeName
                                     type="venue">Carlisle's</placeName></persName>, w. <persName
@@ -1938,7 +1938,7 @@
                             <ref type="dText" subtype="cala" target="/bibl/te1242.html">St Palaye,
                             çala</ref>. <seg type="dMeeting" subtype="CG"><persName
                                 ref="/people/CLA01.html">Clairmont</persName> calls</seg>: <seg
-                            type="dMeal" subtype="TG"><persName>Anderson</persName> at
+                                    type="dMeal" subtype="TG"><persName ref="/people/AND03.html">Anderson</persName> at
                             tea</seg>:<seg type="dMeal" subtype="S"> sup at <persName
                                 ref="/people/REY03|REY99.html"><placeName type="venue"
                                     >Reynolds's</placeName></persName>, w.
@@ -2335,7 +2335,7 @@
                                     ><placeName type="venue">Hill</placeName></persName>; <seg
                                 type="dMeeting" subtype="Adv">adv. <persName
                                     ref="/people/QUI01.html">Quin</persName>,
-                                    <persName>Adams</persName> &amp;
+                                        <persName ref="/people/ADA15.html">Adams</persName> &amp;
                                 <persName>Bellingham</persName></seg></seg>: <seg type="dMeal"
                             subtype="S">sup at <persName ref="/people/CLA01.html"><placeName
                                     type="venue">C<hi rend="sup"
@@ -2392,7 +2392,7 @@
                             type="dMeeting" subtype="CG"><persName>mrs Harwood</persName></seg>,
                             <seg type="dMeeting" subtype="CG"><persName ref="/people/FLE01.html"
                                 >Fletchers</persName></seg> &amp; <seg type="dMeeting" subtype="CG"
-                                ><persName>John Anderson</persName> call</seg>: <seg type="dMeal"
+                                    ><persName ref="/people/AND03.html">John Anderson</persName> call</seg>: <seg type="dMeal"
                             subtype="DG"><persName>mrs Harwood</persName> dines</seg>.</ab>
                     <ab type="dDay" xml:id="g1801-08-08"><date when="1801-08-08">8. Sa.</date><ref
                             type="dText" subtype="read" target="/bibl/te1269.html">Tibullus, Eleg.

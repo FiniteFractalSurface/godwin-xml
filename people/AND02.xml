@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="AND02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Jack </forename>
+                        <surname>Anderson</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Ed Pope, speculates (this is by his own admission): All the Anderson
+                            entries at King's referred, I presume, to someone other than Dr G Anderson, due to there
+                            being two entries in the 1796 list. This was possibly the person
+                            referred to in Thomas Martyn's "King of the Swindlers" (1798) as Jack
+                            An-r-n not long out of clerkship c.1781 Jack A-d-n "attorney-general to
+                            frail sisterhood" and master of ceremonies at the "hop" in Queen St,
+                            Golden Square c.1783. This hop was also referrred to in Harris's List of
+                            Covent Garden Ladies. Between the two appearances at King's, and before
+                            Godwin seems to have met Dr James Anderson, Godwin was three times at
+                            his, and he called on Godwin three times. Though an attorney/pimp might
+                            not be an unexpected visitor at King's, such a friendship with Godwin
+                            might seem a little surprising. Of course, Martyn's description of him
+                            might have been malicious. There was a John Anderson attorney Oxford St
+                            in Law List 1782 at Broad St Carnaby Market in 1790 and at Golden Square
+                            1792 to 1799, and a James Anderson attorney in Marylebone from 1792 to
+                            1799. It's also interesting that after meeting the other Andersons
+                            Godwin seems to have seen no more of him, though this is all very
+                            speculative </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

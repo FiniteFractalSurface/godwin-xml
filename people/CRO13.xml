@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="CRO13" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Hannah</forename>
+                        <surname>Crompton</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Ed Pope suggests: Perhaps Hannah, widow of Samuel Crompton of Clapham who
+                            subscribed £50 to Hackney College 1788 (his will PCC 1787, hers PCC
+                            1817) see her son Crompton, Woodhouse. She was born Hannah Woodhouse and
+                            married Samuel Crompton on 4.5.1769 at St Bartholomew the Great, London.
+                            They had another son John William and two daughters, Elizabeth Ann and
+                            Dorothea, who might also be possibles at Miss Williams as Godwin used
+                            the female plural 'mes'. Mrs Crompton of Clapham subscribed to Enfield's
+                            Sermons 1778, Hood's sermons 1782, The Village Maid an opera by a young
+                            lady 1792, Winterbotham's America 1795, and Artless Tales by Mrs Ives
+                            Hurry 1808. Other possible Cromptons are Elizabeth, wife of Thomas
+                            Crompton rector of Cranworth, Norfolk, who subscribed 1795 to Poems by
+                            Sarah Spence of Bury, and who is mentioned along with T J Matthias in
+                            the will PCC 1809 of Rev Nicholls (see Nicholls, Norton) whose mother
+                            Jane (nee Floyer) may have been the female Nichols at miss Williams on
+                            16.3.1789, Rev Nicholls himself having no wife or sisters. Or perhaps
+                            female relatives of Benjamin and James Crompton, of a paper and carpet
+                            warehouse Caring Cross who joined the Whig club in 1784; of James
+                            Crompton in 1798 Law List, notary public of 14, Tooke's Court, Cursitor
+                            St, and attorney to the Lord Mayor's Court Office, Royal Exchange; of
+                            James Crompton Esq freeholder of Middlesex in interest of Sir Francis
+                            Burdett 1804; of Peter Crompton, MD of Derby who subscribed to Jebb's
+                            Works 1787; of Dr Crompton of Eaton, Liverpool who subscribed 1812 for
+                            Mr White, Liberty of the Press; </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

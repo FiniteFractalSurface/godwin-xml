@@ -1544,7 +1544,7 @@
                                     E</placeName></persName></seg>: <ref type="dEvent"
                             subtype="PersEvent" target="/events/pe0303.html"><persName
                                 ref="/people/SHE01.html">Shelley</persName> departs</ref>. <seg
-                            type="dMeeting" subtype="CG"><persName>Anderson (Pershore)</persName>
+                                    type="dMeeting" subtype="CG"><persName ref="/people/AND04.html">Anderson (Pershore)</persName>
                             calls</seg>.</ab>
                     <ab type="dDay" xml:id="g1817-05-27"><date when="1817-05-27">27. Tu.</date><ref
                             type="dWrote" subtype="write" target="/works/mand01.html">Mandeville, p.
@@ -1805,7 +1805,7 @@
                             type="dMeeting" subtype="CG"><persName ref="/people/LAM01.html"
                                 >Lamb</persName></seg>, <seg type="dMeeting" subtype="CG"><persName
                                 ref="/people/TAY02.html">Taylor pere</persName></seg>, <seg
-                            type="dMeeting" subtype="CG"><persName>Anderson</persName></seg> &amp;
+                                    type="dMeeting" subtype="CG"><persName  ref="/people/AND04.html">Anderson</persName></seg> &amp;
                             <seg type="dMeeting" subtype="CG"><persName ref="/people/OGI01.html"
                                 >Ogilvie</persName> call</seg>: <seg type="dMeeting" subtype="C"
                             >call on <persName ref="/people/HUM01.html"><placeName type="venue"

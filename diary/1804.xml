@@ -2705,7 +2705,7 @@
                         <persName ref="/people/KNA01.html">L K</persName></seg> &amp; <seg
                      type="dMeeting" subtype="M"><persName>M A M</persName></seg>.</ab>
                <ab type="dDay" xml:id="g1804-08-24"><date when="1804-08-24">24. F.</date><seg
-                     type="dMeeting" subtype="CG"><persName>Anderson (Iniq.)</persName> calls</seg>:
+                     type="dMeeting" subtype="CG"><persName ref="/people/AND01.html">Anderson (Iniq.)</persName> calls</seg>:
                      <seg type="dMeeting" subtype="C">call on <persName ref="/people/ROB99.html"
                            ><placeName type="venue">Robinsons</placeName></persName></seg>: <seg
                      type="dMeal" subtype="DG"><persName ref="/people/WOL03.html">Wts</persName>
@@ -3025,7 +3025,7 @@
                <pb n="e.207_0023v"/>
                <ab type="dDay" xml:id="g1804-09-23"><date when="1804-09-23">Sep. 23. Su.</date><ref
                      type="dWrote" subtype="revised" target="/works/faul02.html">Camilla,
-                     revise</ref>. <seg type="dMeeting" subtype="CG"><persName/>Anderson</seg>, <seg
+                     revise</ref>. <seg type="dMeeting" subtype="CG"><persName ref="/people/AND01.html">Anderson</persName></seg>, <seg
                      type="dMeeting" subtype="CG"><persName>J</persName></seg>, <seg type="dMeeting"
                      subtype="CG"><persName>C</persName></seg> &amp; <seg type="dMeeting"
                      subtype="CG"><persName>V Napier</persName> call</seg>: <seg type="dMeeting"
@@ -3256,7 +3256,7 @@
                <ab type="dDay" xml:id="g1804-10-11"><date when="1804-10-11">11. Th.</date><ref
                      type="dWrote" subtype="write" target="/works/flee01.html">Fleetwood, p.
                      169</ref>. <ref type="dWrote" subtype="letter">Write to
-                        <persName>Crompton</persName></ref>. <ref type="dText" subtype="read"
+                        <persName ref="/people/CRO12.html">Crompton</persName></ref>. <ref type="dText" subtype="read"
                      target="/bibl/te1508.html">Macilente, acts 3, 4</ref>. <seg type="dMeeting"
                      subtype="C">Call on <persName ref="/people/HAZ01.html"><placeName type="venue"
                            >Hazlit</placeName></persName></seg>: <ref type="dEntertainment"

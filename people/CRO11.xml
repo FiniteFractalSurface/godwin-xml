@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="CRO11" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Alexander</forename>
+                        <surname>Crombie</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1760">
+                        <placeName/>
+                    </birth>
+                    <death when="1840"/>
+                    <occupation>Philologist and Schoolmaster</occupation>
+                    <note type="editorial">
+                        <p>2In 1794 Godwin reads 'An Essay on
+                            Philosophical Necessity' by Alexander Crombie. The later Crombie entries - 2.11.1809 write to,
+                            29.12.1809 at Joseph Johnson's funeral, 28.1.1810 write to, 24.1.1811
+                            calls, 25.1.1811 at Joseph (jr) Johnson's, 17.4.1811 adv at theatre,
+                            21.12.1826 adv at Museum - probably all referred to the author of that
+                            text, Rev Alexander Crombie DNB 1760-1840, Doctor of Laws, who kept an
+                            academy at Newington Green 1792 with Rev James Lindsay and at Highgate
+                            1795, in 1823 was late of Greenwich, now of Cadogan Pl, Sloane St,
+                            elected FRS 1829, will PCC 1840 of St Marylebone </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

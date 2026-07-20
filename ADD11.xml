@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="ADD11" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Philip</forename>
+                        <surname>Addington</surname>
+                        <addName/>
+                    </persName>
+
+                    <birth when="1771">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-01-01"/>
+                    <occupation>apprentice</occupation>
+                    <note type="editorial">
+                        <p>Philip Addington was the youngest child of Stephen Addington, who was an
+                            Independent minister, and Agnes whom he had married in 1752. Philip
+                            Addington was apprenticed in the Stationers Company in 1785. His eldest
+                            brother Samuel Reymes Addington was born at Market Harborough,
+                            Leicestershire in 1754, married Sarah, daughter of Reverand Richard
+                            Winter, at Holborn in 1776, married secondly Hannah Watson at
+                            Kidderminster in 1783. His will Prerogative Canterbury Court 1785
+                            haberdasher of Milk Street, London. Another brother Stephen born 1757
+                            was a silkweaver of Queen St, Cheapside who went bankrupt in 1783.
+                            Another brother John born 1762 was apprenticed 1774 to John Symonds
+                            apothecary of Kidderminster and became a surgeon in Spital Square London
+                            his will PCC 1839. Philip Addington was next heard of on 10 January 1797
+                            as a bankrupt haberdasher of Hereford. Then in the Times of 11 September
+                            1797, John Vaughan of Ashperton Herefordshire placed an ad that his wife
+                            Priscilla had eloped from him without just cause and that no-one should
+                            credit her on his account. From Godwin's letter of 23 September 1797, it
+                            is clear that it was Addington who had eloped with Priscilla Vaughan and
+                            from Godwin's correspondence of 4 July 1797 and 7 July 1797 with his
+                            wife Mary Wollstonecraft, it appears that the Godwins spent some time
+                            reading Mrs Vaughan's letters, presumably written to Addington as they
+                            were to return them to him. (The GD website has coded these letters to a
+                            pamphlet by Benjamin Vaughan titled Letters etc. te 0764). Priscilla
+                            Pynock had married John Vaughan on 24 September 1791 at Ledbury,
+                            Herefordshire, and the will of Richard Pynock PCC 1803 left provision
+                            for Philip Addington Vaughan, his grandson in Jamaica, and made his
+                            son-in-law John Vaughan executor. His will did not mention his daughter
+                            Priscilla, or Philip Addington. Philip, son of Philip Addington and
+                            Priscilla, was baptised 3 November 1798 at Kingston, Jamaica. More on
+                            this extraordinary story under Vaughan, Priscilla. There is not any
+                            solid proof that the Philip Addington who eloped with Mrs Vaughan was
+                            the same as the son of Stephen Addington but the name is not common. The
+                            trade of haberdasher was also his older brother's and the family
+                            connections with Kidderminster and Market Harborough seem to make
+                            Ledbury less unlikely. </p>
+                    </note>
+                </person>
+            </listPerson>
+
+        </body>
+    </text>
+</TEI>

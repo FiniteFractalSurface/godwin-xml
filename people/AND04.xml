@@ -10,7 +10,7 @@
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by</resp>
-                    <name/>
+                    <name></name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -24,30 +24,31 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="ALE12" sex="2">
+                <person xml:id="AND04" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>Mes</forename>
-                        <surname>Alexander</surname>
+                        <forename>NAME</forename>
+                        <surname>Anderson</surname>
                         <addName/>
                     </persName>
-
-                    <birth when="1760-08-24">
+                    <birth when="1000-01-01">
                         <placeName/>
                     </birth>
-                    <death when="1000-01-01"/>
-                    <occupation>Unknown</occupation>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
                     <note type="editorial">
-                        <p>The letters of Joanna Baillie online mention two spinster sisters that
-                            the Baillie sisters had known many years, whose brother was Chief Baron
-                            William Alexander (18 May 1755 – 20 June 1842). This could be one or both of a
-                            Christian woman who died unmarried 25 February 1846 at 84 years, or Jane
-                            who died unmarried on 7 February 1843 at Dover aged 77. Both women left
-                            PCC wills. It is possible that it is this Alexander (William) that is associated with Helen Maria Williams in the early 1790s.</p>
+                        <p>26.5.1817 Anderson (Pershore) - there are some births and marriages of Andersons at Pershore / 10.5.1823 Anderson (bookseller) may be William Anderson bookseller of 184 Piccadilly.</p>
                     </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title></title>
+                    </bibl>
                 </person>
             </listPerson>
-
         </body>
     </text>
 </TEI>
+

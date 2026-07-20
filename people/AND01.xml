@@ -10,7 +10,7 @@
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by</resp>
-                    <name/>
+                    <name></name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -24,31 +24,31 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="ABB11" sex="1">
+                <person xml:id="AND01" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>John</forename>
-                        <surname>Abbott</surname>
+                        <forename>William</forename>
+                        <surname>Anderson</surname>
                         <addName/>
                     </persName>
-
-                    <birth when="1000">
+                    <birth when="1000-01-01">
                         <placeName/>
                     </birth>
-                    <death when="1000"/>
-                    <occupation>Money Scrivener</occupation>
+                    <death when="1000-12-31"/>
+                    <occupation>Writer</occupation>
                     <note type="editorial">
-                        <p> John Abbott appears at 6 Poland Street in the rate books of 1774.
-                            According to the Daily Advertiser on 25 July 1774, his assignees were
-                            handling the sale of his effects and lease, suggesting that he was
-                            declared bankrupt in 1774. He is described as a money scrivener, living
-                            in St James parish on the east side of Poland Street near Great
-                            Marlborough Street. Listed in the Law List of 1779 as John Abbot of
-                            Poland Street. </p>
+                        <p>Fl. 1797-1832.  24.8.1804 was William Anderson fl.1797-1832 who wrote Iniquity of Banking which Godwin read on 15 and 16.1.1797 / 8.11.1804 probably referred to text te1519 Godwin was studying at the British Museum  </p>
                     </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title></title>
+                    </bibl>
                 </person>
             </listPerson>
-
         </body>
     </text>
 </TEI>
+
