@@ -6,7 +6,7 @@
 
 # Function defined start
 setnewfiledir () { # this makes it so that the script works in both the outside directory and inside /people
-    if ( echo "$PWD" | grep -Eq 'test1$' ); then newfile="./people/$work"
+    if ( echo "$PWD" | grep -Eq "$repoName$" ); then newfile="./people/$work"
     elif ( echo "$PWD" |  grep -Eq 'people$' ); then newfile="./$work"
     fi
 }
@@ -28,15 +28,16 @@ slowexit () {
 
 # Variable declarations start
 templatefilename="AApersonTemplate.xml"
-# repo="test1" # TODO unused variable, maybe in the future
+repoName=$(basename "$(git rev-parse --show-toplevel)")
+# repo="godwin-xml" # TODO unused variable, maybe in the future
 # Variable declarations end
 
 cd "$(dirname "$0")" || slowexit # For the sake of double-click run
 
 if uname -s | grep -q "Darwin"; then echo "Current operating system is OSX. This script is completely untested on OSX and you may encounter wild and fantastical errors. Proceed at your own risk."; fi
 
-if ( echo "$PWD" | grep -q '.*test1$' ) && ( echo "$PWD" | grep -q '.*people$' ); then # Error condition 1: Is the working directory correct? Valid working directories are test1 or people
-    echo "You're not in the right directory. Please change directory to either test1 or people."
+if ( echo "$PWD" | grep -q ".*$repoName$" ) && ( echo "$PWD" | grep -q '.*people$' ); then # Error condition 1: Is the working directory correct? Valid working directories are godwin-xml or people
+    echo "You're not in the right directory. Please change directory to either godwin-xml or people."
     slowexit
 fi
 
@@ -72,7 +73,7 @@ elif ( echo "$work" | grep -Eq '^[A-Z]{3}$' ); then
 elif ( echo "$work" | grep -Eq '^[A-Z]{3}[0-9]{2}\.xml$' ); then # this is for input that's a persid + .xml extension
     setnewfiledir
     persid=${newfile%.xml} && persid=${persid##*/}
-elif ( echo "$PWD" | grep -Eq 'people$' ) || ( echo "$PWD" | grep -Eq 'test1$' ); then # below is for backwards compatibility with primitive workflow that deals with raw file paths; kinda bork
+elif ( echo "$PWD" | grep -Eq 'people$' ) || ( echo "$PWD" | grep -Eq "$repoName" ); then # below is for backwards compatibility with primitive workflow that deals with raw file paths; kinda bork
     newfile="$work"
     persid=${newfile%.xml} && persid=${persid##*/} # extracts the code id from the filename, since they are one in the same.
 else
@@ -100,7 +101,7 @@ if [ -f "$newfile" ]; then
     new=$(echo "$persid" | grep -Eo '[0-9]{2}$') # basically only exists so the failure scenario can take place
 
     printf "\033[1;33mFile already exists\033[0m! Attempting to fix filename to not conflict. "
-    if echo "$PWD" | grep -Eq 'test1$' ; then
+    if echo "$PWD" | grep -Eq "$repoName$" ; then
         if [ ! "$(uname -o)" = "GNU/Linux" ]; then echo "If you're stuck on this, please be patient and let it run its course. This can occur the first time the script used after starting the operating system."; fi
         switch2="people/"
     elif echo "$PWD" | grep -Eq 'people$' ; then
