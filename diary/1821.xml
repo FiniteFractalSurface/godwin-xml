@@ -385,7 +385,7 @@
                      >W</placeName></persName></seg>: <seg type="dMeeting" subtype="C">call on
                         <persName ref="/people/JON03.html"><placeName type="venue">D<hi rend="sup"
                               >r</hi> Jones</placeName></persName></seg>: <seg type="dMeeting"
-                     subtype="CG"><persName type="nah">mrs Beresford</persName> calls <hi rend="sup"
+                                 subtype="CG"><persName ref="/people/BER03.html" type="nah">mrs Beresford</persName> calls <hi rend="sup"
                         >n</hi></seg>.</ab>
                <ab type="dDay" xml:id="g1821-02-20"><date when="1821-02-20">20. Tu.</date><ref
                      type="dWrote" subtype="revised" target="/works/popu01.html">Malthus,
@@ -425,7 +425,7 @@
                      dines</seg>.</ab>
                <ab type="dDay" xml:id="g1821-02-26"><date when="1821-02-26">26. M.</date><ref
                      type="dText" subtype="read" target="/bibl/te2762.html">De Divinatione, p. 255,
-                     fin</ref>. <seg type="dMeal" subtype="DG"><persName>M<hi rend="sup">rs</hi>
+                     fin</ref>. <seg type="dMeal" subtype="DG"><persName ref="/people/BER03.html">M<hi rend="sup">rs</hi>
                         &amp; Miss Beresford</persName> dine</seg>.</ab>
                <ab type="dDay" xml:id="g1821-02-27"><date when="1821-02-27">27. Tu.</date><ref
                      type="dEvent" subtype="PersEvent" target="/events/pe0340.html"><persName
@@ -766,7 +766,7 @@
                      83</ref>. <ref type="dWrote" subtype="letter">Write to <persName
                         ref="/people/WED01.html">Wedgwood</persName></ref>. <ref type="dText"
                      subtype="read" target="/bibl/te2764.html">Marino, st. 155</ref>. <seg
-                     type="dMeeting" subtype="CG"><persName type="nah">Beresfords</persName><hi
+                        type="dMeeting" subtype="CG"><persName ref="/people/BER03.html" type="nah">Beresfords</persName><hi
                         rend="sup">n</hi></seg>, <seg type="dMeeting" subtype="CG"><persName>H
                         Smith</persName> (on <persName ref="/people/CLA01.html"><seg type="dTopic">M
                            J</seg></persName>)</seg> &amp; <seg type="dMeeting" subtype="CG"

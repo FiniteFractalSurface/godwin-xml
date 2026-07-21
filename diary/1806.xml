@@ -152,7 +152,7 @@
                             type="dWrote" subtype="letter">Write to <persName
                                 ref="/people/WED01.html">Wedgwood</persName></ref>. <seg
                             type="dMeal" subtype="DG"><persName>Stephenson</persName>,
-                                <persName>Beresford</persName> &amp; <persName
+                                    <persName ref="/people/BER03.html">Beresford</persName> &amp; <persName
                                 ref="/people/ROW01|ROW02.html">2 Rowans</persName> dine; <seg
                                 type="dMeeting" subtype="Adv">adv. <persName
                                     ref="/people/BOA01.html">Boaden</persName>,
@@ -213,7 +213,7 @@
                             type="dMeal" subtype="Ta">Tea <persName ref="/people/ROW01|ROW02.html"
                                     ><placeName type="venue">Rowan's</placeName></persName>, w.
                                 <persName>Brackenburys</persName>, <persName>Petries</persName>,
-                                <persName>Snows</persName>, <persName>Beresfords</persName> &amp;
+                                <persName>Snows</persName>, <persName ref="/people/BER03.html">Beresfords</persName> &amp;
                                 <persName ref="/people/FAG01.html">Fagan</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1806-01-18"><date when="1806-01-18">18. Sa.</date><ref
                             type="dWrote" subtype="write" target="/works/hyed01.html">Eng<hi
@@ -242,7 +242,7 @@
                                 James Le Bath</persName>,<persName ref="/people/PLU03.html"> 3
                                 Plunkets</persName>, <persName>4 Bells</persName>,<persName
                                 ref="/people/MON01.html"> Montagu</persName>{,} <persName>miss
-                                Collins</persName>{,} &amp; <persName>S Beresford</persName>; <seg
+                                    Collins</persName>{,} &amp; <persName ref="/people/BER03.html">S Beresford</persName>; <seg
                                 type="dMeeting" subtype="Adv">adv. <persName>capt. Mills</persName>
                                 &amp; <persName>Truman</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1806-01-21"><date when="1806-01-21">21. Tu. </date><ref
@@ -1444,7 +1444,7 @@
                                 ref="/people/LAM01.html"><placeName type="venue"
                                 >Lamb</placeName></persName></seg>: <seg type="dMeal" subtype="DG"
                                 ><persName ref="/people/ROW02.html">mrs &amp; miss Rowan</persName>,
-                                <persName>mrs Beresford</persName>, <persName
+                                    <persName ref="/people/BER03.html">mrs Beresford</persName>, <persName
                                 ref="/people/PER01|PER02.html">Perrys</persName>, <persName
                                 ref="/people/TRO01.html">Trotters</persName>, <persName
                                 ref="/people/NOR01.html">Northcote</persName>, <persName
@@ -1552,7 +1552,7 @@
                             >Virgil, II, 267</ref>. <seg type="dMeeting" subtype="C">Call on
                                     <persName><placeName type="venue"
                                 >Spurrier</placeName></persName></seg>: <seg type="dMeal"
-                            subtype="D">dine at <persName><placeName type="venue">S
+                                    subtype="D">dine at <persName ref="/people/BER03.html"><placeName type="venue">S
                                     Beresford’s</placeName></persName>, w. <persName
                                 ref="/people/ROW01|ROW02.html">Rowans</persName>,
                                 <persName>Snows</persName>, <persName>Bassanet</persName> &amp;
@@ -1839,7 +1839,7 @@
                                 M</persName></seg>: <seg type="dMeal" subtype="S">sup at <persName
                                 ref="/people/ROW01|ROW02.html"><placeName type="venue"
                                     >Rowans</placeName></persName>, w.
-                                <persName>Beresfords</persName> &amp; <persName
+                                    <persName ref="/people/BER03.html">Beresfords</persName> &amp; <persName
                                 ref="/people/CLA01.html">M J</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1806-06-20"><date when="1806-06-20">20. F.</date><ref
                             type="dWrote" subtype="cala" target="/works/pant01.html">Pantheon,
@@ -2678,7 +2678,7 @@
                                 ><persName ref="/people/JOH01.html"><placeName type="venue"
                                     >Johnson</placeName></persName></seg> (<placeName>Purser’s
                             Cross</placeName>; <seg type="dMeeting" subtype="Adv">adv. <persName
-                                ref="/people/FUS01.html">Fuseli</persName> &amp; <persName>miss
+                                    ref="/people/FUS01.html">Fuseli</persName> &amp; <persName ref="/people/BER03.html">miss
                                 Beresford</persName></seg>).</ab>
                     <pb n="e.208_0030v"/>
                     <ab type="dDay" xml:id="g1806-09-21"><date when="1806-09-21">Sep. 21. Su.
@@ -3045,7 +3045,7 @@
                                     type="venue">Johnson’s</placeName></persName>, w. <persName
                                 ref="/people/FUS01.html">Fuseli</persName> &amp; <persName
                                 ref="/people/BON01.html">Bonnycastle</persName></seg>. <seg
-                            type="dMeeting" subtype="CG"><persName>M<hi rend="sup">es</hi>
+                                    type="dMeeting" subtype="CG"><persName ref="/people/BER03.html">M<hi rend="sup">es</hi>
                                 Beresford</persName></seg> &amp; <seg type="dMeeting" subtype="CG"
                                 ><persName type="nah"> Snow</persName> call <hi rend="sup"
                             >n</hi></seg>: <seg type="dMeal" subtype="TG"><persName

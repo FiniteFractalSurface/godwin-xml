@@ -348,7 +348,7 @@
                             type="dMeal" subtype="D">dine at <persName><placeName type="venue"
                                     >Hawthorn</placeName></persName>, w. <persName
                                 ref="/people/PLU03.html">Plunket</persName>, <persName>Hamilton j<hi
-                                    rend="sup">r</hi></persName>, <persName>2 Beresfords</persName>
+                                        rend="sup">r</hi></persName>, <persName ref="/people/BER03.html">2 Beresfords</persName>
                             &amp; <persName ref="/people/CLA01.html">M J.</persName><ref
                                 type="dEvent" subtype="PersEvent" target="/events/pe0001.html"
                                     ><persName ref="/people/LIN02.html">Linnel</persName>, 1<hi
@@ -574,7 +574,7 @@
                     <ab type="dDay" xml:id="g1808-03-02"><date when="1808-03-02">2. W.</date><seg
                             type="dMeeting" subtype="CG"><persName ref="/people/TAY06.html">R
                                 Taylor</persName> calls</seg>, &amp; <seg type="dMeeting"
-                            subtype="CG"><persName>Beresfords</persName></seg>: <seg type="dMeeting"
+                                    subtype="CG"><persName ref="/people/BER03.html">Beresfords</persName></seg>: <seg type="dMeeting"
                             subtype="M">meet <persName>mrs C<hi rend="sup">l</hi>
                             Smith</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1808-03-03"><date when="1808-03-03">3. Th. </date><seg
@@ -770,7 +770,7 @@
                                     ref="/people/SHA02.html">Sharp</persName></seg></seg>: <ref
                             type="dWrote" subtype="letter">write to <persName
                                 ref="/people/WHI04.html">Whitbread</persName></ref>. <seg
-                            type="dMeeting" subtype="CG"><persName>M<hi rend="sup">rs</hi>Beresford
+                                    type="dMeeting" subtype="CG"><persName ref="/people/BER03.html">M<hi rend="sup">rs</hi>Beresford
                             </persName>calls</seg>.</ab>
                     <ab type="dDay" xml:id="g1808-03-24"><date when="1808-03-24">24. Th.</date><ref
                             type="dWrote" subtype="write" target="/works/hyed01.html">England, p.
@@ -2035,7 +2035,7 @@
                             call</seg>.</ab>
                     <ab type="dDay" xml:id="g1808-08-09"><date when="1808-08-09">9. Tu.</date><ref
                             type="dText" subtype="read" target="/bibl/te1719.html">Life of Swift, p.
-                            143</ref>. <seg type="dMeeting" subtype="CG"><persName>M<hi rend="sup"
+                            143</ref>. <seg type="dMeeting" subtype="CG"><persName ref="/people/BER03.html">M<hi rend="sup"
                                     >rs</hi> Beresford</persName> calls</seg>.</ab>
                     <ab type="dDay" xml:id="g1808-08-10"><date when="1808-08-10">10. W.</date><ref
                             type="dText" subtype="read" target="/bibl/te1719.html">Swift, p.
@@ -3212,7 +3212,7 @@
                                 ref="/people/TUR01.html">T T </persName>sup</seg>. <ref type="dText"
                             subtype="letterRecvd">Letter from <persName><placeName type="venue"
                                     >Winchester</placeName></persName></ref>. <seg type="dMeeting"
-                            subtype="M">meet <persName>mrs Beresford</persName></seg>.</ab>
+                                        subtype="M">meet <persName ref="/people/BER03.html">mrs Beresford</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1808-12-15"><date when="1808-12-15">15. Th.</date><ref
                             type="dWrote" subtype="write" target="/works/sepu01.html">Monuments, 1
                             1/2 pages</ref>. <ref type="dWrote" subtype="letter">Write to <persName
