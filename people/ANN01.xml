@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="ANN01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>William </forename>
+                        <surname>Annis</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Painter</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's comments: William Thomas Annis painter exhibited landscapes
+                            at the Royal Academy 1799-1800 from 46 Poland St, 1801 from 47 Poland
+                            St, 1802 and 1806 from Church Row Hampstead, !810-11 from High St
+                            Hampstead. He published in 1802 a mezzotint engraving by himself after
+                            John Opie of Mary Wollstonecraft Godwin so was more likely Godwin's
+                            Annis than John Annis (below). He married Ann Day 2.7.1803 at St Pancras
+                            and their daughter Margaret born 26.7.1804 was baptised 15.2.1822 at
+                            Cross St Swedenborgian chapel, Hatton Garden. </p>
+                        <p>A William Annis of
+                            Belicourt Pl was buried 13.4.1825 age 53 at St James Clerkenwell. </p>
+                        <p>John
+                            Annis painter exhibited Royal Academy 1796 from 27 Berwick St, 1797 from
+                            21 Warwick St, 1798-1800 from 13 Little Titchfield St. He was buried
+                            23.11.1838 at St Marylebone age 62 of Little Titchfield St and his son
+                            John William Annis continued to live as a plumber at 13 Little
+                            Titchfield St in the censuses of 1851, 1861 and 1871, though he was
+                            declared bankrupt in 1864. John Annis had married Elizabeth Boyes
+                            30.3.1799 at St Marylebone, his children Elizabeth Morrell bapt 1800
+                            married 25.8.1821 William Butler Guy of Hurley, Berks, George William
+                            bapt 1803, Mary Matilda born c 1805 unmarried governess in 1861 census,
+                            John William bapt 10.2.1807 and Charlotte Emma bapt 28.3.1815 when her
+                            father's occupation was given as Trade (all these bapts at St
+                            Marylebone), she married 2.12.1840 All Saints Langham Pl Charles George
+                            Daniels, father's occupation plumber. The album of Charissima Emma Annis
+                            13 Little Titchfield St is in Westminster Archives (Acc 1396) with
+                            material relating to Carlo Giorgio Danieli, picture restorer and artist
+                            of 81 Newman St.. John Annis' wife Elizabeth was buried 25.4.1850 at St
+                            Marylebone age 74 of Little Titchfield St</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

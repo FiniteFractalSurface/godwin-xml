@@ -136,7 +136,7 @@
                             subtype="D">dine at <persName ref="/people/HOL01.html"><placeName
                                     type="venue">Holcroft's</placeName></persName>, w. <persName
                                 ref="/people/FOU01.html">Foulkes's</persName> &amp;
-                                <persName>Armstrong</persName>; <seg type="dMeeting" subtype="Adv"
+                                <persName ref="/people/ARM02.html">Armstrong</persName>; <seg type="dMeeting" subtype="Adv"
                                 >adv. <persName ref="/people/DYS01.html"
                             >Dyson</persName></seg></seg>. <seg type="dMeeting" subtype="CG"
                                 ><persName ref="/people/WHI03.html">White</persName>
@@ -4143,7 +4143,7 @@
                                     <persName ref="/people/OBR01.html">O' Brien</persName>,
                                     <persName ref="/people/MOO06.html">C Moore</persName>, <persName
                                     ref="/people/BOA01.html">Boaden</persName> &amp;
-                                    <persName>Armstrong</persName></seg></seg>. Call on <persName
+                                    <persName ref="/people/ARM02.html">Armstrong</persName></seg></seg>. Call on <persName
                             ref="/people/MON01.html"><placeName type="venue"
                             >Montagu</placeName></persName>, <seg type="dMeeting" subtype="Adv">adv.
                                 <persName>Butler</persName></seg>, &amp; <seg type="dMeeting"

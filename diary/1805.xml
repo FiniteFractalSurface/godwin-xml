@@ -407,7 +407,7 @@
                     <ab type="dDay" xml:id="g1805-01-28"><date when="1805-01-28">28. M. </date><ref
                             type="dWrote" subtype="write" target="/works/flee01.html">Fleetwood, p.
                             275/4</ref>. <seg type="dMeeting" subtype="CG"
-                                ><persName>Annis</persName> calls</seg>: <seg type="dMeeting"
+                                ><persName ref="/people/ANN01.html">Annis</persName> calls</seg>: <seg type="dMeeting"
                             subtype="C">call on <persName ref="/people/TAY06.html"><placeName
                                     type="venue">Taylor</placeName></persName></seg>, <seg
                             type="dMeeting" subtype="C"><persName ref="/people/GOD02.html"
@@ -618,7 +618,7 @@
                             type="dWrote" subtype="revised" target="/works/flee01.html">Fleetwood, 2
                             pages; revise</ref>. <ref type="dText" subtype="read"
                             target="/bibl/te1541.html">A Mowbray, p. 237; Vol. II, p. 132</ref>.
-                            <seg type="dMeeting" subtype="CG"><persName>Annis</persName></seg> &amp;
+                        <seg type="dMeeting" subtype="CG"><persName ref="/people/ANN01.html">Annis</persName></seg> &amp;
                             <seg type="dMeeting" subtype="CG"><persName>Darnel</persName>
                         call</seg>: <seg type="dMeal" subtype="S">sup at <persName
                                 ref="/people/FEN01|FEN03.html"><placeName type="venue"
@@ -1668,7 +1668,7 @@
                                         ref="/people/SHE11.html">Shee</persName>) <persName
                                         ref="/people/MAN01.html">Manning</persName>, <persName
                                         ref="/people/DAW01|DAW02.html">Dawes</persName>,
-                                        <persName>Annis</persName>, <persName
+                                        <persName ref="/people/ANN01.html">Annis</persName>, <persName
                                         ref="/people/HAZ01.html">Hazlit</persName>,
                                         <persName>Christal</persName> &amp; <persName
                                         ref="/people/HAY02.html"

@@ -24,25 +24,27 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="ANT01" sex="1">
+                <person xml:id="ATK01" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>John</forename>
-                        <surname>Anthony</surname>
+                        <forename>NAME</forename>
+                        <surname>Atkinson</surname>
                         <addName/>
                     </persName>
                     <birth when="1000-01-01">
                         <placeName/>
                     </birth>
-                    <death when="1800"/>
+                    <death when="1000-12-31"/>
                     <occupation>OCCUPATION</occupation>
                     <note type="editorial">
-                        <p>See Ed Pope: 24.1.1789 Anthony at Hollis' and 14.9.1790 there. Also 11.11.1795 yg
-                            Anthonies, 25.11.1795, 18.4.1796 WA, 19.5.1796, 21.11.1796, 14.11.1797
-                            and 19.4.1798. John Anthony married Timothy Hollis's niece Hannah,
-                            sister of John Hollis. His will (PCC 1800 gent of Beaconsfield) mentions
-                            his children William and Elizabeth, brothers Charles and Samuel and
-                            sister Susanna Montgomery. </p>
+                        <p>As Ed Pope points out: This is 2a very common name, 74 entries in London Trades 1811 (only one
+                            from book trades, Edw. Atkinson, printer, 2 Greystock-pl, Fetter-la /
+                            one schoolmaster Geo. Atkinson, academy, 105 Fenchurch-st) and 37
+                            entries in the Court directory. Just possibly Joseph Atkinson DNB
+                            1743-1818 playwright Godwin may have met in Ireland in 1800 (see my
+                            entry for Atkinson, Capt.). Or William Atkinson DNB 1774/5-1839
+                            architect or John Augustus Atkinson DNB 1774x6-1830 painter and
+                            engraver</p>
                     </note>
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,

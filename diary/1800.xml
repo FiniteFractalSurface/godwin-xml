@@ -2308,11 +2308,11 @@
                <ab type="dDay" subtype="NotLon" xml:id="g1800-07-03"><date when="1800-07-03">3.
                      Th.</date><ref type="dText" subtype="read" target="/bibl/te1090.html">Love of
                      Fame, Sat. I</ref>. <seg type="dMeeting" subtype="other">Introd, <persName>D<hi
-                           rend="sup">r</hi> Burke</persName>, <persName>capt. Atkinson</persName>
+                              rend="sup">r</hi> Burke</persName>, <persName ref="/people/ATK02.html">capt. Atkinson</persName>
                      &amp; <persName>Bushe</persName></seg>: <seg type="dMeal" subtype="D">dine at
                            <persName><placeName type="venue">Colles's</placeName></persName>, w.
                         <persName ref="/people/CUR01.html">Cs</persName>, <persName>Burro<hi
-                              rend="sup">s</hi></persName>, <persName ref="/people/ARC10.html">Arch</persName>, <persName
+                              rend="sup">s</hi></persName>, <persName>Arch</persName>, <persName
                         ref="/people/RID02.html">Ridgway</persName>, <persName>Cogan</persName>,
                      &amp;c</seg>. <add><ref type="dEvent" subtype="PersEvent"
                         target="/events/pe0109.html"><persName ref="/people/DYS01.html"
@@ -2374,7 +2374,7 @@
                <ab type="dDay" subtype="NotLon" xml:id="g1800-07-08"><date when="1800-07-08">8. Tu.
                      F.</date><ref type="dText" subtype="read" target="/bibl/te0802.html">Queen, C.
                      V</ref>. <seg type="dMeeting" subtype="CG"><persName ref="/people/GRA02.html"
-                        >Granard</persName></seg> &amp; <seg type="dMeeting" subtype="CG"><persName
+                           >Granard</persName></seg> &amp; <seg type="dMeeting" subtype="CG"><persName ref="/people/ATK01.html"
                         type="nah">Atkinson</persName> call <hi rend="sup">n</hi></seg>: <ref
                      type="dEvent" subtype="other"><placeName>K B</placeName>, <persName>M<hi
                            rend="sup">c</hi>grain</persName> v. <persName>Armstrong</persName></ref>
@@ -2471,7 +2471,7 @@
                         subtype="M"><persName ref="/people/LED02.html">Ledwick</persName></seg>: <seg type="dMeeting"
                      subtype="C">call on <persName><placeName type="venue">E
                         B</placeName></persName></seg> &amp; <seg type="dMeeting" subtype="C"
-                           ><persName><placeName type="venue">Atkinson</placeName></persName><hi
+                           ><persName ref="/people/ATK01.html"><placeName type="venue">Atkinson</placeName></persName><hi
                         rend="sup">n</hi></seg>: <seg type="dMeal" subtype="DG"><persName
                         ref="/people/CUR01.html"><placeName type="venue"
                            >Rathfarnham</placeName></persName>; <persName ref="/people/GOU02.html">Gould</persName>,

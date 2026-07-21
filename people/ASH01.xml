@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="ASH01" sex="1">
+                    <persName>Dr <roleName/>
+                        <forename>Edward</forename>
+                        <surname>Ash</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1765">
+                        <placeName/>
+                    </birth>
+                    <death when="1829-03-29"/>
+                    <occupation>Physician</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's Note: Ash 15.11.1804 at H Rowan's / call on Ash 20.5.1808 /
+                            21.5.1808 again / 31.5.1808 again / 7.6.1808 Ash calls / 14.6.1808 meet
+                            Ash / 18.6.1808 Ash calls / 9.7.1808 again / 8.8.1808 again / 24.9.1808
+                            again / 22.10.1808 again / 25.10.1808 meet Ash / 15.3.1809 Ash calls /
+                            11.9.1809 again / 16.5.1811 again / 2.8.1811 again Dr Edward Ash died
+                            29.3.1829 age 65 (Monk's Roll). Godwin wrote a description of his
+                            symptoms dated 21.5.1808 (Bodleian Abinger c10 f64-5) that gave Ash's
+                            address as Argyll St. Holdens directory 1811 Dr Ash, MD, 11 Argyle-st.
+                            Only the first entry above was likely to have been someone else, though
+                            it might of course have been the doctor. Isaac Ashe was an actor who
+                            published a poem at Bath in 1816 (O'Donoghue Poets of Ireland). Thomas
+                            Ashe DNB 1770-1835 Irish army officer and writer. Andrew Ashe Dict Irish
+                            Biog 1756x1759-1838 flautist. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1094,7 +1094,7 @@
                     <ab type="dDay" xml:id="g1808-04-26"><date when="1808-04-26">26. Tu.</date><seg
                             type="dMeeting" subtype="C">Call on <persName ref="/people/PHI01.html"
                                     ><placeName type="venue">Philips</placeName></persName>; <seg
-                                type="dMeeting" subtype="Adv">adv. <persName>Atkinson</persName>,
+                                        type="dMeeting" subtype="Adv">adv. <persName ref="/people/ATK01.html">Atkinson</persName>,
                                     <persName>James</persName> &amp; <persName
                                     ref="/people/GIL02.html">Gillet</persName></seg></seg>: <seg
                                         type="dMeeting" subtype="M">meet <persName ref="/people/HUT02.html">Hutchins</persName></seg>:
@@ -1151,7 +1151,7 @@
                                 >T T</persName></seg>: <seg type="dMeal" subtype="D">dine at
                                 <persName ref="/people/PHI01.html"><placeName type="venue"
                                     >Philips’s, Hampstead</placeName></persName>, w.
-                                <persName>Atkinson</persName>, <persName>Carr</persName>, <persName
+                                    <persName ref="/people/ATK01.html">Atkinson</persName>, <persName>Carr</persName>, <persName
                                 ref="/people/WOL02.html">Wolcot</persName>, <persName
                                 ref="/people/BAT01.html">Batty jun<hi rend="sup">r</hi></persName>
                             &amp; <persName ref="/people/SUR01.html">Surrs</persName></seg>.</ab>
@@ -1289,7 +1289,7 @@
                                     Tho<hi rend="sup">s</hi> More, &amp;c</seg>)</seg>: <seg
                             type="dMeeting" subtype="C">call on <persName ref="/people/NOR01.html"
                                     ><placeName type="venue">Northcote</placeName></persName></seg>,
-                            <seg type="dMeeting" subtype="C"><persName><placeName type="venue"
+                        <seg type="dMeeting" subtype="C"><persName ref="/people/ASH01.html"><placeName type="venue"
                                     >Ash</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="Cn"><persName ref="/people/CAR01.html" type="nah"><placeName
                                     type="venue">Carlisle</placeName></persName><hi rend="sup"
@@ -1298,14 +1298,14 @@
                                 type="nah">T T </persName>calls <hi rend="sup">n</hi></seg>: <seg
                             type="dMeal" subtype="SG"><persName ref="/people/HAZ01.html">Hazlit
                             </persName>sups</seg>.<ref type="dWrote" subtype="letter"> Write to
-                                <persName>Ash</persName></ref> &amp; <ref type="dWrote"
+                                <persName ref="/people/ASH01.html">Ash</persName></ref> &amp; <ref type="dWrote"
                             subtype="letter"><persName>H T</persName></ref>. <seg type="dMeeting"
                             subtype="CG"><persName ref="/people/LAM01|LAM02.html" type="nah"
                                 >Lambs</persName> call <hi rend="sup">n</hi></seg>.</ab>
                     <ab type="dDay" xml:id="g1808-05-21"><date when="1808-05-21">21. Sa.</date><ref
                             type="dWrote" subtype="letter">Write to <persName>G
                             Walker</persName></ref>. <seg type="dMeeting" subtype="C">Call on
-                                    <persName><placeName type="venue"
+                                <persName ref="/people/ASH01.html"><placeName type="venue"
                             >Ash</placeName></persName></seg> &amp; <seg type="dMeeting" subtype="C"
                                 ><persName ref="/people/CAR01.html" type="nah"><placeName
                                     type="venue">Carlisle</placeName></persName><hi rend="sup"
@@ -1389,7 +1389,7 @@
                                     <persName ref="/people/TUR01.html">T
                         T</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1808-05-31"><date when="1808-05-31">31. Tu. </date><seg
-                            type="dMeeting" subtype="C">Call on <persName><placeName type="venue"
+                            type="dMeeting" subtype="C">Call on <persName ref="/people/ASH01.html"><placeName type="venue"
                                     >Ash</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName ref="/people/NOR01.html"><placeName type="venue"
                                     >Northcote</placeName></persName>; <seg type="dMeeting"
@@ -1453,7 +1453,7 @@
                     <ab type="dDay" xml:id="g1808-06-07"><date when="1808-06-07">7. Tu.</date><ref
                             type="dWrote" subtype="letter">Write to <persName
                                 ref="/people/SMI05.html">W Smith</persName></ref>. <seg
-                            type="dMeeting" subtype="CG"><persName>Ash</persName> calls</seg>: <seg
+                                    type="dMeeting" subtype="CG"><persName ref="/people/ASH01.html">Ash</persName> calls</seg>: <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/MAR01.html"
                                 >M</persName>, from <seg type="dTopic"><persName
                                     ref="/people/SHA02.html">Sharp</persName></seg></seg>.</ab>
@@ -1517,7 +1517,7 @@
                                 ref="/people/PER01.html">Perry</persName></seg> &amp; <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/DAW01.html">Dawe
                             </persName>call</seg>: <seg type="dMeeting" subtype="M">meet
-                                <persName>Ash</persName></seg>.<ref type="dWrote" subtype="letter">
+                                <persName ref="/people/ASH01.html">Ash</persName></seg>.<ref type="dWrote" subtype="letter">
                             Write to <persName ref="/people/LOF01.html">Lofft</persName></ref>.</ab>
                     <ab type="dDay" xml:id="g1808-06-15"><date when="1808-06-15">15. W. </date><seg
                             type="dMeeting" subtype="C">Call on <persName ref="/people/FUS01.html"
@@ -1544,7 +1544,7 @@
                             sups</seg>. <ref type="dEvent" subtype="Accts">Accounts</ref>.</ab>
                     <ab type="dDay" xml:id="g1808-06-18"><date when="1808-06-18">18. Sa.</date><ref
                             type="dText" subtype="cala" target="/bibl/te1523.html">Donne,
-                        çala</ref>. <seg type="dMeeting" subtype="CG"><persName>Ash</persName>
+                            çala</ref>. <seg type="dMeeting" subtype="CG"><persName ref="/people/ASH01.html">Ash</persName>
                             calls</seg>. <ref type="dEvent" subtype="Accts">Accounts</ref>.</ab>
                     <pb n="e.209_0031r"/>
                     <ab type="dDay" xml:id="g1808-06-19"><date when="1808-06-19">June 19.
@@ -1748,7 +1748,7 @@
                     <ab type="dDay" xml:id="g1808-07-09"><date when="1808-07-09">9. Sa. </date><ref
                             type="dWrote" subtype="letter">Write to <persName
                                 ref="/people/ROW01.html">H Rowan</persName></ref>. <seg
-                            type="dMeeting" subtype="CG"><persName>Ash</persName></seg>, <seg
+                                    type="dMeeting" subtype="CG"><persName ref="/people/ASH01.html">Ash</persName></seg>, <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/BOO01.html"
                                 >Booth</persName></seg> &amp; <seg type="dMeeting" subtype="CG"
                                 ><persName ref="/people/MAN03.html">Manning</persName>
@@ -2030,7 +2030,7 @@
                             M.</date><seg type="dMeeting" subtype="Do"><placeName>Greenwich
                                 stage</placeName>, w. <persName ref="/people/KNO01.html"
                                 >Knowles</persName></seg>: <seg type="dMeeting" subtype="CG"
-                                ><persName>Ash</persName></seg> &amp;<seg type="dMeeting"
+                                    ><persName ref="/people/ASH01.html">Ash</persName></seg> &amp;<seg type="dMeeting"
                             subtype="CG"><persName ref="/people/GOD05.html">N G</persName>
                             call</seg>.</ab>
                     <ab type="dDay" xml:id="g1808-08-09"><date when="1808-08-09">9. Tu.</date><ref
@@ -2460,7 +2460,7 @@
                             type="dMeeting" subtype="CG"><persName ref="/people/MAC04.html"
                                 >Macmillan</persName></seg>, <seg type="dMeeting" subtype="CG"
                                 ><persName>Langslow</persName></seg>, <seg type="dMeeting"
-                            subtype="CG"><persName>Ash</persName></seg>, <seg type="dMeeting"
+                                    subtype="CG"><persName ref="/people/ASH01.html">Ash</persName></seg>, <seg type="dMeeting"
                             subtype="CG"><persName ref="/people/TUR01.html" type="nah">T
                                 T</persName></seg><hi rend="sup">na</hi> &amp; <seg type="dMeeting"
                             subtype="CG"><persName>Parsons’s</persName> call</seg>: <ref
@@ -2709,7 +2709,7 @@
                     <ab type="dDay" xml:id="g1808-10-22"><date when="1808-10-22">22. Sa.</date><seg
                             type="dMeeting" subtype="C"> Call on <persName ref="/people/HAZ01.html"
                                     ><placeName type="venue">Hazlit</placeName></persName></seg>:
-                            <seg type="dMeeting" subtype="CG"><persName type="nah">Ash</persName>
+                        <seg type="dMeeting" subtype="CG"><persName  ref="/people/ASH01.html" type="nah">Ash</persName>
                             calls <hi rend="sup">na</hi></seg>.</ab>
                     <pb n="e.209_0040r"/>
                     <ab type="dDay" xml:id="g1808-10-23"><date when="1808-10-23">Oct. 23.
@@ -2744,7 +2744,7 @@
                                     ref="/people/MAR01.html"> M</persName>, Mourning Bride</seg>;
                                 <seg type="dMeeting" subtype="Adv">adv. <persName
                                     ref="/people/BOD01.html">Boddington</persName></seg></ref>: <seg
-                            type="dMeeting" subtype="M">meet <persName>Ash</persName></seg>.</ab>
+                                        type="dMeeting" subtype="M">meet <persName ref="/people/ASH01.html">Ash</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1808-10-26"><date when="1808-10-26">26. W.</date><ref
                             type="dWrote" subtype="letter"> Write to <persName
                                 ref="/people/RIC01.html">Rickman</persName></ref>. <ref

@@ -342,7 +342,7 @@
                             />Theatre, Man of Ten Thousand; <seg type="dMeeting" subtype="Adv">adv.
                                     <persName ref="/people/GAL01.html">J G Jones</persName>,
                                     <persName ref="/people/STO01.html">Stoddart</persName> &amp;
-                                    <persName>Armstrong</persName></seg></ref>: <seg type="dMeal"
+                                <persName ref="/people/ARM02.html">Armstrong</persName></seg></ref>: <seg type="dMeal"
                             subtype="S">sup at <persName ref="/people/HOL01.html"><placeName
                                     type="venue">Ht's</placeName></persName></seg>.</ab>
                     <pb n="e.202_0027v"/>
@@ -2242,7 +2242,7 @@
                                     >Debrett's</placeName></persName>, <persName
                                 ref="/people/LAU01.html">Lauderdale</persName>, <persName
                                 ref="/people/BAR03.html">Barry</persName>,
-                                <persName>Armstrong</persName> &amp; <persName
+                                <persName ref="/people/ARM02.html">Armstrong</persName> &amp; <persName
                                 ref="/people/HOL01.html">Ht</persName></seg>: <seg type="dMeal"
                             subtype="D">dine at <persName ref="/people/KIN01.html"><placeName
                                     type="venue">King's</placeName></persName>, w. <persName
@@ -5523,7 +5523,7 @@
                             <seg type="dMeal" subtype="D">dine <persName ref="/people/HOL01.html"
                                     ><placeName type="venue">Hts</placeName></persName>, w.
                                 <persName ref="/people/BAL02.html">Ballandine</persName> &amp;
-                                <persName>Armstrong</persName>; <seg type="dMeeting" subtype="Adv"
+                                <persName ref="/people/ARM02.html">Armstrong</persName>; <seg type="dMeeting" subtype="Adv"
                                 >adv. <persName ref="/people/RIC04.html">H R</persName><hi
                                     rend="sup">r</hi></seg></seg>: <seg type="dMeal" subtype="S">sup
                             at <persName ref="/people/ROB04.html"><placeName type="venue">mrs

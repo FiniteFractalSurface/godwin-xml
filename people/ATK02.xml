@@ -10,7 +10,7 @@
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by</resp>
-                    <name/>
+                    <name></name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -24,35 +24,31 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="ANT01" sex="1">
-                    <persName>
+                <person xml:id="ATK02" sex="1">
+                    <persName>Capt
                         <roleName/>
-                        <forename>John</forename>
-                        <surname>Anthony</surname>
+                        <forename>Joseph</forename>
+                        <surname>Atkinson</surname>
                         <addName/>
                     </persName>
                     <birth when="1000-01-01">
                         <placeName/>
                     </birth>
-                    <death when="1800"/>
-                    <occupation>OCCUPATION</occupation>
+                    <death when="1000-12-31"/>
+                    <occupation>Poet and dramatist</occupation>
                     <note type="editorial">
-                        <p>See Ed Pope: 24.1.1789 Anthony at Hollis' and 14.9.1790 there. Also 11.11.1795 yg
-                            Anthonies, 25.11.1795, 18.4.1796 WA, 19.5.1796, 21.11.1796, 14.11.1797
-                            and 19.4.1798. John Anthony married Timothy Hollis's niece Hannah,
-                            sister of John Hollis. His will (PCC 1800 gent of Beaconsfield) mentions
-                            his children William and Elizabeth, brothers Charles and Samuel and
-                            sister Susanna Montgomery. </p>
+                        <p>Met on Gowin's Irish visit: Ed Pope notes: Joseph Atkinson Dict Irish Biog c1743-1818 Captain, poet & dramatist, friend of Thomas Moore. His address in 1800, along with John Atkinson, was Usher's Island, Dublin</p>
                     </note>
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
                         Publisher, year</bibl>
                     <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
                     <bibl type="other">
-                        <title/>
+                        <title></title>
                     </bibl>
                 </person>
             </listPerson>
         </body>
     </text>
 </TEI>
+

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="ARM02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>John</forename>
+                        <surname>Armstrong</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1771">
+                        <placeName/>
+                    </birth>
+                    <death when="1797"/>
+                    <occupation>Theatre Critic</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope: May have been John Armstrong DNB 1771-97 who was listed by
+                            Anthony Pasquin as the theatre critic of the Morning Chronicle who would
+                            therefore have been in context at Perry's and the theatre, and probably
+                            wrote political reports as well, hence Debrett's and the House of
+                            Commons. However according to the DNB he died in Scotland in 1797 so he
+                            cannot have been at Holcroft's on 24.8.1798, and Holcroft's diary of
+                            1798 referred to Mr Armstrong's opinions on his health. This might have
+                            been either Charles Armstrong, listed in Medical Society 1779, surgeon
+                            Gt Russell St, Bloomsbury, his will PCC 1815, buried St James Piccadilly
+                            28.1.1815 Dr Charles Armstrong from Ealing age 65 ceremony performed by
+                            J Armstrong; or Thomas Armstrong surgeon, will PCC 1830, buried St
+                            Marylebone 7.1.1830 of Baker St age 67. The entries at Holcroft's in
+                            1793 and 1795 could also have been the surgeon, but in the letter of 1799
+                            from James Ballantyne to Godwin (Abinger c5 f11-12) he says he was
+                            introduced to Holcroft's by the late Mr Armstrong. 8.7.1800 Kings Bench
+                            McGrain v Armstrong (in Ireland) John Armstrong signed declaration of
+                            Friends to Liberty of Press 1792, Rev John Armstrong MA Temple
+                            subscribed to Towers 1795 Boyle's 1792 A Armstrong Esq 52 Wimpole St /
+                            Armstrong Esq 10 Percy St </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

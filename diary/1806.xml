@@ -1192,7 +1192,7 @@
                             <seg type="dMeeting" subtype="M">meet <persName>S
                             Burnel</persName></seg> &amp; <seg type="dMeeting" subtype="M"><persName
                                 ref="/people/WEB01.html">Webb</persName></seg>. <seg type="dMeeting"
-                            subtype="Adv">adv. <persName>Annis</persName></seg>.</ab>
+                                    subtype="Adv">adv. <persName ref="/people/ANN01.html">Annis</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1806-04-23"><date when="1806-04-23">23. W.</date><ref
                             type="dWrote" subtype="write" target="/works/pant01.html">Pantheon, p.
                             28/2</ref>. <seg type="dMeeting" subtype="C">Call on <persName
@@ -1343,7 +1343,7 @@
                                     type="dMeeting" subtype="Adv">adv. <persName
                                         ref="/people/PER01.html">Perry</persName>, <persName
                                         ref="/people/TAY01.html">J Taylor</persName>,
-                                        <persName>Annis</persName> (<persName
+                                        <persName ref="/people/ANN01.html">Annis</persName> (<persName
                                         ref="/people/WIL03.html">Wilkie</persName>) &amp; <persName
                                         ref="/people/MUL01.html"
                             >Mulready</persName></seg></seg></ref>: <seg type="dMeal" subtype="SG"
