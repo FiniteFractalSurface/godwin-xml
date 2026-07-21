@@ -2462,7 +2462,7 @@
                             III</ref>. <seg type="dMeal" subtype="DG"><persName
                                 ref="/people/BOA01.html">Four Boadens</persName> dine; <seg
                                 type="dMeeting" subtype="Adv">adv. <persName>E Joyce</persName>,
-                                    <persName>C Colnet</persName>, <persName>Essex</persName> &amp;
+                                    <persName ref="/people/COL10.html">C Colnet</persName>, <persName>Essex</persName> &amp;
                                     <persName ref="/people/SHE05.html"
                             >Sheffields</persName></seg></seg>.</ab>
                     <pb n="e.208_0029r"/>
@@ -2588,7 +2588,7 @@
                                 <persName ref="/people/BRO01.html">W C Brown</persName>, <persName
                                 ref="/people/TUR01.html">T Turner</persName>, <persName
                                 ref="/people/FEN03|FEN04.html">E Fks</persName>, <persName
-                                ref="/people/CLA01.html">M J</persName>, <persName>E
+                                    ref="/people/CLA01.html">M J</persName>, <persName ref="/people/COL10.html">E
                                 Colnet</persName>, <persName ref="/people/IML01.html">F</persName>,
                                 <persName ref="/people/CLA02.html">C</persName> &amp; <persName
                                 ref="/people/CLA03.html">J</persName></seg>: <seg type="dMeeting"
@@ -3371,8 +3371,7 @@
                     <ab type="dDay" xml:id="g1806-11-27"><date when="1806-11-27">27. Th.</date><seg
                             type="dMeeting" subtype="Do"><placeName>Westminster Hall</placeName>, w.
                                 <persName ref="/people/NIC01.html">Nicholson</persName> &amp;
-                                <persName ref="/people/HAY02.html">Hayward</persName></seg>: <seg
-                            type="dMeeting" subtype="See"><persName>Abbey</persName></seg>: <seg
+                                <persName ref="/people/HAY02.html">Hayward</persName></seg>: <placeName>Abbey</placeName>: <seg
                             type="dMeeting" subtype="C">call on <persName ref="/people/FEN03.html"
                                     ><placeName type="venue">E Fk</placeName></persName>; <seg
                                 type="dMeeting" subtype="Adv">adv. <persName

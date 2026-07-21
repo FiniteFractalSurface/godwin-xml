@@ -1327,7 +1327,7 @@
                                 ref="/people/WED02.html">T W</persName></ref> &amp; <ref
                             type="dWrote" subtype="letter"><persName>C S</persName></ref>. <ref
                             type="dText" subtype="read" target="/bibl/te1546.html">Inchbald, V.
-                            II</ref>. <seg type="dMeal" subtype="DG"><persName>A &amp; F
+                                II</ref>. <seg type="dMeal" subtype="DG"><persName ref="/people/ROW03.html">A &amp; F
                                     Rowan</persName>, <persName ref="/people/BER03.html">S Beresford</persName>, &amp;
                                 <persName>miss Eastwick</persName> dine</seg>: <seg type="dMeeting"
                             subtype="CG"><persName>Devoy</persName> calls</seg>.</ab>
@@ -1518,7 +1518,7 @@
                                 ref="/people/GOD16.html">P G</persName> &amp; <persName
                                 ref="/people/FOR03.html">Yates</persName> dine; <seg type="dMeeting"
                                 subtype="Adv">adv. <persName ref="/people/FEN01.html">Fk</persName>,
-                                    <persName>Snagg</persName> &amp; <persName>young
+                                    <persName>Snagg</persName> &amp; <persName ref="/people/ROW03.html">young
                                     Rowans</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1805-04-16"><date when="1805-04-16">16. Tu. </date><ref
                             type="dText" subtype="read" target="/bibl/te0855.html">Pinkerton</ref>
@@ -1615,7 +1615,7 @@
                             15/2</ref>. <ref type="dText" subtype="read" target="/bibl/te1556.html"
                             >Bailly, p. 441, fin</ref>. <seg type="dMeal" subtype="SG"><seg
                                 type="dMeal" subtype="TG"><persName ref="/people/WAK01.html"
-                                    >Wakes</persName>, <persName ref="/people/ROW01|ROW02.html">4
+                                    >Wakes</persName>, <persName ref="/people/ROW01|ROW02|ROW03 .html">4
                                         Rowans</persName>, &amp; <persName ref="/people/BER03.html">2 Beresfords</persName> tea
                                 &amp; supper</seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1805-04-26"><date when="1805-04-26">26. F. </date><ref
@@ -1708,7 +1708,7 @@
                                     ref="/people/LEA01.html">Lea</persName></seg></seg>: <ref
                             type="dEntertainment" subtype="Theat" target="/plays/firs01.html"
                                 ><placeName type="DL"/>theatre, 1/5 First Love</ref>:<seg
-                            type="dMeal" subtype="S">sup at <persName ref="/people/ROW01|ROW02.html"
+                                    type="dMeal" subtype="S">sup at <persName ref="/people/ROW01|ROW02|ROW03.html"
                                     ><placeName type="venue">Rowan’s</placeName></persName>, w.
                                 <persName ref="/people/CLA01.html">M J</persName></seg>. <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/HAZ01.html"
@@ -1776,7 +1776,7 @@
                                 subtype="Adv">adv. <persName ref="/people/HOA01.html"
                                     >Hoare</persName> &amp; <persName ref="/people/BAT01.html"
                                     >Batty</persName></seg></ref>: <seg type="dMeal" subtype="S">sup
-                            at <persName ref="/people/ROW01|ROW02.html"><placeName type="venue"
+                                        at <persName  ref="/people/ROW01|ROW02|ROW03.html"><placeName type="venue"
                                     >Rowan’s</placeName></persName>, w. <persName
                                 ref="/people/CLA01.html">M J</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1805-05-11"><date when="1805-05-11">11. Sa. </date><ref
@@ -1892,7 +1892,7 @@
                                     type="venue">H Tookes</placeName></persName>, w. <persName
                                 ref="/people/LEM01.html">Le Maitre</persName> &amp; <persName>P
                                 Courtney</persName></seg>: <seg type="dMeal" subtype="S">sup at
-                                <persName ref="/people/ROW01|ROW02.html"><placeName type="venue">H
+                                    <persName ref="/people/ROW01|ROW02|ROW03.html"><placeName type="venue">H
                                     Rowan’s</placeName></persName>, w. <persName>miss
                                 Hamilton</persName> &amp; <persName ref="/people/CLA01.html">M
                                 J</persName></seg>. <seg type="dMeeting" subtype="CG"><persName
@@ -2499,7 +2499,7 @@
                     <pb n="e.207_0044v"/>
                     <ab type="dDay" xml:id="g1805-07-14"><date when="1805-07-14">July 14. Su.
                             </date><seg type="dMeal" subtype="TG"><persName
-                                ref="/people/ROW01|ROW02.html">5 Rowans</persName> at
+                                    ref="/people/ROW01|ROW02|ROW03.html">5 Rowans</persName> at
                         tea</seg>.</ab>
                     <ab type="dDay" xml:id="g1805-07-15"><date when="1805-07-15">15. M. </date><ref
                             type="dText" subtype="read" target="/bibl/te1569.html">Cowley, vs.
@@ -2541,7 +2541,7 @@
                                 Walker</persName>, <persName>D<hi rend="sup">r</hi>
                                 Edwards</persName>, <persName ref="/people/HUN07.html">capt.
                                 Hunter</persName> &amp; <persName>Canton</persName></seg>: <seg
-                            type="dMeal" subtype="DG"><persName>A &amp; F Rowan</persName>
+                                    type="dMeal" subtype="DG"><persName ref="/people/ROW03.html">A &amp; F Rowan</persName>
                             dine</seg>.</ab>
                     <ab type="dDay" xml:id="g1805-07-18"><date when="1805-07-18">18. Th.</date><ref
                             type="dText" subtype="cala" target="/bibl/te1573.html">Pope, çala</ref>.

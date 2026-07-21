@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="COL10" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Family</forename>
+                        <surname>Colnet</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>We have coded all 'Colnets' the same as they seem to be members of the same family - and it
+                            is often very unclear exactly to whom Godwin is referring. </p>
+                        <p>Ed Pope's discussion
+                            of this is informative: Isaac John Price Colnett born 1753 son of Isaac
+                            Colnett ironmonger and tyre-smith of Whitechapel, went to Magdalen Hall
+                            Oxford, BA 1778, married 31.8.1780 at Stepney Margaret Harvy. He was
+                            perpetual curate of Waltham Abbey and lecturer of Whitechapel,
+                            subscribed to Lavater 1789, chaplain in Bombay 1792, buried at Waltham
+                            Abbey 7.3.1801. His father died soon after him, making his will (PCC
+                            23.5.1801) after his son's death, and left some money in nine parts to
+                            his daughter in law Margaret and each of her eight children. Three of
+                            her children I found infant burials for before their father's death, I
+                            found eight other baptisms, two of which I found no trace of after their
+                            baptism, Julia bapt 11.12.1782, and Emily born 17.3.1786, bapt
+                            20.6.1786. The other six were Anna Maria, Mary Anna, Caroline and
+                            Katherine, all four bapt together 21.5.1795, Edwin born 3.3.1789 bapt
+                            7.4.1789, and Margaret Chinnery bapt 4.7.1800. The Gents Mag 1801 p284
+                            told of their hardship and mentioned eight children and a ninth
+                            expected. This last must have been Isaac Thomas Kesteven born 1801 bapt
+                            9.10.1808 St Pancras. All the others were baptised at Waltham Abbey. An
+                            ad in the Morn Chron 27.2.1802 listed orphans of clergymen placed in
+                            schools by a charity, one was Caroline Colnett age 9yrs 2mos, to a
+                            school at Lisson Green. The Gents Mag 1802 p979 announced the death of
+                            the eldest son, who was subject to fits, at his mother's house in
+                            Paddington, and added that a subscription for them had raised nearly
+                            £1000 and that two of the daughters had been found apprenticeships. The
+                            youngest, Isaac was buried at Waltham Abbey age 19 on 28.11.1820.
+                            Margaret Chinnery married on 16.2.1824 at Marylebone Charles Andrew
+                            Girardot. None of the four girls baptised together in 1795 married, all
+                            had death notices in the newspapers, Anna Maria (called the eldest) in
+                            1833, Mary Anna (called eldest surviving) in 1862, Katherine in 1863 and
+                            Caroline in 1871. I've not found them much in the censuses, only Mary
+                            Anna in 1851 as instructress and Catherine in 1861 as retired teacher.
+                            An Edwin Colnett is in the death registers for Oct 1842 at Pancras, but
+                            Edwin was the oldest son I found a baptism for, so may have been the one
+                            who died in 1802. I couldn't find a burial record for their mother
+                            Margaret but my guess is she died before 1806 when her children began
+                            visiting Godwin. If she'd appeared in Godwin's diary it would probably
+                            have been as Mrs Colnet not Margt Colnet. If C Colnet was Caroline she
+                            was only 13 the first time she turned up at dinner - but perhaps her
+                            older sister Emily age 20 was already acting as a helper to Godwin's
+                            wife and didn't get mentioned except when the family went out together,
+                            mostly as E C. Why there were no more Colnets after 1823 I've no idea.
+                            In Capel Lofft's letter of 2.3.1807 (MS Abinger c.10 f.29v) to Godwin,
+                            he spoke favourably of Miss Colnet. Lofft's visit was on 25.2.1807 till
+                            the next day which indicates Miss C was present in the household when
+                            not mentioned in the diary. This was presumably Emily Colnett.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -34,7 +34,7 @@
                                     >Bain</placeName></persName></seg>: <seg type="dMeal"
                             subtype="TG"><persName ref="/people/ROB02.html">mesd<hi rend="sup"
                                     >s</hi> Robinson</persName>, <persName ref="/people/HOG03.html"
-                                >Williams</persName> &amp; <persName>C Colnet</persName> at
+                                        >Williams</persName> &amp; <persName ref="/people/COL10.html">C Colnet</persName> at
                             tea</seg>.</ab>
                     <ab type="dDay" xml:id="g1823-01-02"><date when="1823-01-02">2. Th.</date><seg
                             type="dMeeting" subtype="C">Call on <persName><placeName type="venue"
@@ -92,7 +92,7 @@
                                 ref="/people/BOO01.html">Booth</persName> calls</seg>: <seg
                             type="dMeeting" subtype="C">call on <persName><placeName type="venue">
                                     Jackson (Fladgate)</placeName></persName></seg>: <seg
-                            type="dMeal" subtype="DG"><persName>C Colnet</persName>
+                                        type="dMeal" subtype="DG"><persName ref="/people/COL10.html">C Colnet</persName>
                         dines</seg>.</ab>
                     <ab type="dDay" xml:id="g1823-01-09"><date when="1823-01-09">9. Th.</date><ref
                             type="dText" subtype="read" target="/bibl/te2811.html">Castruccio, p.
@@ -3209,7 +3209,7 @@
                             subtype="revised" target="/works/comm01.html">Commonwealth,
                         revise</ref>. <ref type="dEntertainment" subtype="Theat"
                             target="/plays/caiu01.html"><placeName type="DL"/>Theatre,
-                            Gracchus</ref>. <seg type="dMeal" subtype="DG"><persName>C
+                            Gracchus</ref>. <seg type="dMeal" subtype="DG"><persName ref="/people/COL10.html">C
                                 Colnet</persName> dines</seg>.</ab>
                     <ab type="dDay" xml:id="g1823-11-29"><date when="1823-11-29"><emph
                                 rend="deleted">30.</emph> 29. Sa.</date><ref type="dWrote"

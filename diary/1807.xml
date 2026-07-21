@@ -164,7 +164,7 @@
                                 ><persName ref="/people/WRO01.html" type="nah">Wroughton</persName>
                             calls <hi rend="sup">n</hi></seg>: <seg type="dMeal" subtype="DG"
                                 ><persName ref="/people/TAY13.html">Sarah Taylor</persName> &amp;
-                                <persName>3 Colnets</persName> dine</seg>: <ref
+                                <persName ref="/people/COL10.html">3 Colnets</persName> dine</seg>: <ref
                             type="dEntertainment" subtype="Theat" target="/plays/alar01.html"
                                 ><placeName type="DL"/>theatre, False Alarms, act 2</ref>. <seg
                             type="dMeeting" subtype="M">Meet <persName ref="/people/EST01.html"
@@ -1785,7 +1785,7 @@
                                 ref="/people/IML01.html">F</persName>, <persName
                                 ref="/people/SHE02.html">M</persName>, <persName
                                 ref="/people/CLA03.html">J</persName>, <persName
-                                ref="/people/GOD07.html">W</persName>, &amp; <persName>miss Colnet
+                                    ref="/people/GOD07.html">W</persName>, &amp; <persName ref="/people/COL10.html">miss Colnet
                             </persName>(chairing <persName ref="/people/BUR02.html">sir F. B<hi
                                     rend="sup">t</hi></persName>.); <seg type="dMeeting"
                                 subtype="Adv">adv. <persName ref="/people/DIB01.html"
@@ -2443,7 +2443,7 @@
                             Su.</date><seg type="dMeal" subtype="DG"><persName
                                 ref="/people/FEN03|FEN04.html">E Fks</persName> &amp; <persName
                                 ref="/people/TUR01.html">T T</persName> dine; <seg type="dMeeting"
-                                subtype="Adv">adv. <persName>C Colnet</persName></seg></seg>.</ab>
+                                    subtype="Adv">adv. <persName ref="/people/COL10.html">C Colnet</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1807-08-31"><date when="1807-08-31">31. M.</date><seg
                             type="dMeeting" subtype="CG"><persName ref="/people/HOD02.html"
                                 >Hodgkins</persName> calls</seg>: <seg type="dMeeting" subtype="C"
