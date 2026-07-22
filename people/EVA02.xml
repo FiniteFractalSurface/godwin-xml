@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="EVA02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Richard</forename>
+                        <surname>Evans</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>For a full discussion of the Evans entries see EVA01.xml.
+                            Ed Pope notes: In Godwin's 1796 list for 1774, added in smaller letters,
+                            not in 1794 version In Godwin's autobiographical notes (Bodleian Library
+                            microfilm Duke MF 75) he wrote "metaphysical correspondence with Evans"
+                            which comes after "Lowestoft - Howe" and so the correspondence dated to
+                            1777. The nearest Richard Evans, by date, in the Surman Index lived
+                            1737-1824 and was minister at Appledore Devon from 1759-1819 so this one
+                            may have been his son. </p><p> Ed notes that Godwin had a schoolfriend
+                            Richard Evans - if he were the son of the 1937-1824 Evans this might
+                            just work!</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

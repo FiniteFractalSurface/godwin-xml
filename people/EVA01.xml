@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="EVA01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Joseph Jeffries</forename>
+                        <surname>Evans</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Merchant/Minister</occupation>
+                    <note type="editorial">
+                        <p>Evans - like Smith - raises many problems. Ed Pope has done a good deal
+                            of forensic work trying to distinguish different Evans's - a problem
+                            because Godwin does not seem to be consistent at to the use of initials,
+                            or additional references. We have added below Ed's analysis from which
+                            the following is a brief extract suggesting reasons to identift this
+                            individual. We are acting in this way across all the Evans entries - in
+                            so far as is possible! </p>
+                        <p> So the extract is: Joseph Jeffries Evans was buried 31.12.1812 at
+                            Bunhill Fields, his will PCC 1813. I found a refernce (currently lost)
+                            to him as Rev Joseph Jeffries Evans. If he was a minister as well as a
+                            merchant all these 1809-1811 entries could have referred to him. John
+                            Evans DNB 1767-1827 was a Baptist minister and schoolmaster in London
+                            from 1795 to 1825, in Alan Ruston's unitarianhistory.org.uk he is noted
+                            as a Doctor of Laws (though the DNB doesn't mention this) so he could
+                            have been the rev Evans of 1810 and/or the dr Evans of 1821as well as
+                            some of the plain Evans entries. Also the calls on Evans or some of them
+                            could have been on London booksellers like Thomas Evans 79 Long-lane
+                            Smithfield, Robert Harding Evans 26 Pall Mall (both in Holdens directory
+                            1811) or the write to entries could be to provincial booksellers such as
+                            John Evans in Bristol.</p>
+                        <p>The full version from Ed Pope is: Bearing in mind that Evans was a very
+                            common name, the paragraphs below give a framework for guesswork Mr
+                            Evans 15.5.1791 tea at Godwin's / 28.1.1794 Evans at Muir's === these
+                            two entries or either of them could have been Godwin's schoolfriend
+                            Richard Evans (qv) 3.2.1804 Evans at Hamilton Rowan's === see Joshua
+                            Evans 1824 below for one possible 8.1.1806 Evans at Joseph Johnson's /
+                            6.11.1807 again === 16.1.1806 Evanss at Jeremiah Joyce's === 24.4.1809
+                            Evans calls / 26.7.1809 call on Evans (Mullet) / 21.11.1809 call on
+                            Evans / 8.2.1810 Evans at tea / 22.3.1810 call on Evans / 5.6.1810 rev
+                            Evans calls / 8.6.1810 call on Evans / 30.6.1810 again / 23.1.1811 again
+                            / 18.4.1811 again / 19.6.1811 write to Evans / 20.6.1811 again /
+                            21.6.1811 again / 25.10.1811 calls === Evans (Mullet) was perhaps Joseph
+                            Jeffries Evans merchant of St Mary Axe bapt Bristol 1768 son of Caleb and
+                            Sarah who married 23.2.1796 at St Botolph Bishopsgate Mary Ann Mullett
+                            with consent of her father Thomas Mullett (qv). Among their children
+                            were Frederic Mullet Evans printer 1804-1861 and Thomas Mullett Evans
+                            solicitor will PCC 1834 Bristol. Joseph Jeffries Evans was buried
+                            31.12.1812 at Bunhill Fields, his will PCC 1813. I found a refernce
+                            (currently lost) to him as Rev Joseph Jeffries Evans. If he was a
+                            minister as well as a merchant all these 1809-1811 entries could have
+                            referred to him. John Evans DNB 1767-1827 was a Baptist minister and
+                            schoolmaster in London from 1795 to 1825, in Alan Ruston's
+                            unitarianhistory.org.uk he is noted as a Doctor of Laws (though the DNB
+                            doesn't mention this) so he could have been the rev Evans of 1810 and/or
+                            the dr Evans of 1821as well as some of the plain Evans entries. Also the
+                            calls on Evans or some of them could have been on London booksellers
+                            like Thomas Evans 79 Long-lane Smithfield, Robert Harding Evans 26 Pall
+                            Mall (both in Holdens directory 1811) or the write to entries could be
+                            to provincial booksellers such as John Evans in Bristol. 1.7.1813 Evans
+                            of Aldgate calls / 25.8.1813 call on Evans / 26.8.1813 again / 8.1.1814
+                            John Evans (Bristol) au soir / 9.1.1814 Evans (Bristol) adv at dinner /
+                            9.2.1814 write to Evans, Camberwell / 11.2.1814 call on Evans /
+                            13.2.1814 again / 22.7.1814 again / 5.5.1815 Evans call, from Hamilton
+                            === Evans of Aldgate may have been J Evans linendraper of Aldgate
+                            bankrupt 1814 or John Evans will PCC 1829 grocer and tea dealer of 82
+                            Aldgate. John Evans of Bristol could have been John Evans DNB 1784-1831
+                            Unitarian minister and schoolmaster who was educated by John Prior
+                            Estlin (qv) or John Evans DNB 1774-1828 (at that time proprietor of the
+                            Bristol Mercury). Evans of Camberwell may have been John Clark Evans
+                            brewer of Camberwell Green and Peacocks Wharf, Montague Close, Southwark
+                            (Sun Fire 1807) who married 29.9.1810 at St Andrew's Holborn Sarah
+                            Dunster of Hertford, their children were baptised in Hertford in 1813
+                            and 1814 and John Clark Evans seems to have been a brewery manager in
+                            Hertford in 1827 (reference lost) OR Edward Evans of Kent Road
+                            Camberwell will PCC 1830 a Yeoman of the Guard wife Mary Ann father
+                            Edward aunt Elizabeth Roberts aunt Catherine Marshall exec Wm Wear
+                            Marshall sister in law Elizabeth Vaux OR George Evans of Peckham
+                            Camberwell will PCC 1833 wife Mary (nee Mendham married 1782 St Stephen
+                            Walbrook their son Robert Mendham Evans died 1878 bapt 1803 Independent
+                            Chapel Tooting) brother in law John Mendham OR Sarah Evans widow of
+                            Camberwell will PCC 1831 late husband John Evans (who married 20.8.1801
+                            of St John Zachary bach at Camberwell St Giles Sarah Gastineau otp sp
+                            and died 1805) There was also Ann Evans spinster of Camberwell will PCC
+                            1805 sister Eleanor Peacock 17.2.1817 seek Evans / 18.2.1817 call on
+                            Evans / 19.2.1817 meet Evans / 1.6.1817 call on Evans, Dulwich /
+                            15.6.1817 write to Evans / 16.11.1817 call on Evans / 4.12.1817 write to
+                            Evans / 13.12.1817 letter from Evans / 24.12.1817 call on Evans /
+                            2.1.1818 write to Evans === Bodleian Abinger c42 f120v Godwin's letter
+                            to his wife of 2.6.1817 referred to his visit to Evans at Dulwich as on
+                            1.6.1817 above. Godwin said that by an unlucky accident they had lost
+                            the East-India Chambers (mentioned in diary 12.5.1817) but that he still
+                            had two negotiations on foot, and had gone to Mr Evans in Dulwich (who
+                            was very encouraging) before dining with Walking Stewart and then going
+                            to see the other party after dinner., who, from the diary entry, must
+                            have been Turnbull, who appeared in the diary ten times in May and early
+                            June 1817. The only Evans I found in any way linked to Dulwich was John
+                            Evans 1787-1865 wholesale druggist of 62 Wood Street Cheapside, one of
+                            whose children was baptised in Dulwich in 1827 4.3.1820 Evans's, Pall
+                            Mall (Skelton) / 17.5.1820 meet J Evans / 18.7.1821 meet dr Evans /
+                            25.9.1822 R Evans calls === The first of these entries probably referred
+                            to Robert Harding Evans DNB 1778-1857 bookseller of Pall Mall, and
+                            Skelton was probably the book Godwin wanted to find or maybe sell (he
+                            noted reading Skelton only in 1810 and 1813 and owned one of his books
+                            at his death). The last entry, R Evans was quite likely him as well. The
+                            painter Richard Evans DNB 1783? - 1871 was probably still in Rome in
+                            1822. Dr Evans could have been John Evans DNB 1767-1827 (see the 1809-10
+                            entries above) or Thomas Evans doctor of medicine of Stockwell Park
+                            House, Surrey will PCC 1857 11.5.1824 call on Joshua Evans / 14.5.1824 J
+                            Evans calls, from Murray / 9.6.1824 call on Joshua Evans / 16.6.1824
+                            again / 18.6.1824 again / 27.6.1824 Evans calls / 19.7.1824 Evans of
+                            Tavistock calls / 28.7.1824 call on Jos. Evans / 29.7.1824 again /
+                            28.9.1824 call on Jno Evans / 20.10.1824 call on J Evans / 22.10.1824
+                            call on J Evans, adv Hone / 7.12.1824 John Evans calls / 26.12.1824 call
+                            on John Evans / 27.12.1824 John Evans calls / 2.1.1825 call on John
+                            Evans / 5.1.1825 John Evans calls / 6.1.1825 call on Joshua Evans and Jno
+                            Evans / 8.1.1825 call on Joshua Evans / 10.1.1825 write to Joshua Evans
+                            / 15.1.1825 call John Evans / 8.2.1825 Jno Evans calls / 14.2.1825 again
+                            / 20.2.1825 call on John Evans / 22.1.1825 John Evans calls / 23.3.1825
+                            John Evans calls (not in) call on do. / 26.3.1825 Jno Evans calls /
+                            27.3.1825 call on John Evans / 8.4.1825 John Evans call / 17.4.1825 call
+                            on John Evans / 7.5.1825 John Evans calls / 25.3.1826 Evans at
+                            Basinghall St / 22.12.1826 again / 8.10.1827 call on John Evans ===
+                            Joshua Evans 1782-1864 Boase Modern English Biography Supplement was a
+                            commissioner of bankruptcy from 1832 when the court of bankruptcy was
+                            set up. 2nd son of Hampden Evans (died 1820, possibly the Evans at
+                            Rowan's in 1804) of Portrane, Dublin, Trin Coll Dublin, barrister Inner
+                            Temple 1816. He was probably all the Joshua and Jos entries above, all
+                            of which were calls by Godwin except the last (write to on 10.1.1825).
+                            The first meeting of creditors for Godwin's bankruptcy was on 26.3.1825
+                            so Godwin may have been consulting Evans on whether to declare himself
+                            bankrupt. An Evans was present at the two meetings for dividends at
+                            Basinghall St in 1826 but he was more likely a creditor. Evans of
+                            Tavistock in 1824 was probably William Evans 1772-1847
+                            unitarianhistory.org.uk minister at Tavistock 1794 to 1841, and this was
+                            probably a one-off visit. The call on John Evans in 1827 was referred to
+                            in Bodleian Abinger c47 f126 Godwin's letter to his daughter Mary
+                            Shelley of 9.10.1827 saying he called yesterday, as Mary had suggested,
+                            on young Evans who said he had better go to the Jews. Other words in
+                            this letter confirm the impression that Godwin had been asking to borrow
+                            money. He may have been the same person as the J, Jno and John Evans
+                            entries of 1824 and 1825 which continued past Godwin's three creditor
+                            meetings at Guildhall though no Evans attended them. The entry of
+                            14.5.1824 Evans calls from Murray echoed the entry of 5.3.1815 Evans
+                            calls from Hamilton and this person may have been a publisher's clerk or
+                            manager. The J, Jno and John Evans entries of 1824 and 1825 made a pattern
+                            of calls only, but both ways. The adv Hone of 22.10.1824 was probably
+                            William Hone DNB 1780-1842 which suggests someone in the book trade.
+                            There seem to have been three John Evans printers in London between 1815
+                            and 1830. 1) John Evans of 26 Queen St Haymarket 1816-1821, identified
+                            in one source with John Evans DNB 1774-1828 but DNB says he only came to
+                            London in the year of his death. 2) John Evans of Long Lane Smithfield
+                            printer and medicine vendor will PCC 1820 succeeded by Charles Evans will
+                            PCC 1828 and John Edward Evans from 1829 to 1839 perhaps will PCC 1835
+                            victualler Strand. 3) John Evans of Budge Row Walbrook 1804 to 1825 in
+                            partnership with William Joseph Ruffy 1811 perhaps his successor John
+                            Evans wholesale stationer of Budge Row 1839 to 1846 will PCC 1851
+                            17.4.1831 Evans (Euston St) au soir / 27.4.1831 Evans calls / 24.7.1831
+                            Cooke Evans and Osler (Birmingham) call / 30.7.1831 Osler and Evans sup /
+                            22.9.1831 Osler and Evans sup; talk of suicide / 6.10.1831 Geo Evans sups
+                            / 16.10.1831 miss Evans sups === This may have been John Evans DNB
+                            1784-1831 again (see 1814 above) he kept a school in Drummond St Euston
+                            Sq after he moved to London in his last years, and he died in December
+                            1831. For Osler see Abraham Follett Osler DNB 1808-1903. For Geo Evans
+                            consider the soldier and radical MP George de Lacy Evans DNB 1787-1870
+                            but this seems unlikely, also Geo Evans of Peckham will PCC 1833 see
+                            above 28.12.1833 A Evans dines / 28.11.1835 again / 29.11.1835 again /
+                            30.11.1835 A Evans (and Emily) call / 31.12.1835 A Evans dines / 20.1.1836
+                            A Evans au soir / 9.3.1836 mrs Brookes (Evans) calls === </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

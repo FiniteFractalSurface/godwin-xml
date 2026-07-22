@@ -136,7 +136,7 @@
                                     type="venue">Cherry</placeName></persName></seg>: <seg
                             type="dMeal" subtype="DG"><persName ref="/people/BOO01.html"
                                 >Booth</persName> dines</seg>: <seg type="dMeeting" subtype="Aus"
-                                ><persName>John Evans <placeName type="venue"
+                                    ><persName  ref="/people/EVA04.html">John Evans <placeName type="venue"
                                 >(Bristol)</placeName></persName> au soir</seg>.</ab>
                     <pb n="e.213_0012r"/>
                     <ab type="dDay" xml:id="g1814-01-09"><date when="1814-01-09">Jan. 9.
@@ -148,7 +148,7 @@
                                 ref="/people/BOO01.html">Booth</persName> dines;<seg type="dMeeting"
                                 subtype="Adv"> adv. <persName ref="/people/HAM02.html"
                                     >Hamond</persName>, <persName ref="/people/WAL10.html"
-                                    >Waller</persName>, &amp; <persName> Evans <placeName
+                                        >Waller</persName>, &amp; <persName  ref="/people/EVA04.html"> Evans <placeName
                                         type="venue">(Bristol)</placeName></persName></seg></seg>:
                             <seg type="dMeeting" subtype="C">call on <persName
                                 ref="/people/PLA02.html"><placeName type="venue"
@@ -574,7 +574,7 @@
                             subtype="CG"><persName>Gill</persName> calls</seg>.</ab>
                     <ab type="dDay" xml:id="g1814-02-09"><date when="1814-02-09">9. W. </date><ref
                             type="dWrote" subtype="letter">Write to
-                        <persName>Evans</persName></ref>, <ref type="dWrote" subtype="write"
+                            <persName  ref="/people/EVA04.html">Evans</persName></ref>, <ref type="dWrote" subtype="write"
                                 ><persName>Camberwel</persName></ref>. <ref type="dText"
                             subtype="read" target="/bibl/te2182.html">Mornay, c. 14</ref>. <seg
                             type="dMeeting" subtype="C"> Call on <persName><placeName type="venue"
@@ -593,7 +593,7 @@
                     <ab type="dDay" xml:id="g1814-02-11"><date when="1814-02-11">11. F.</date><ref
                             type="dText" subtype="cala" target="/bibl/te1975.html">Holyday,
                             çala</ref>. <seg type="dMeeting" subtype="C">Call on
-                                    <persName><placeName type="venue"
+                                <persName  ref="/people/EVA04.html"><placeName type="venue"
                             >Evans</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName ref="/people/HUM01.html"><placeName type="venue"
                                     >Hume</placeName></persName></seg>: <seg type="dMeeting"
@@ -618,7 +618,7 @@
                     <ab type="dDay" xml:id="g1814-02-13"><date when="1814-02-13">Feb. 13. Su.
                             </date><ref type="dText" subtype="read" target="/bibl/te0740.html"
                             >Cibber, p. 62</ref>. <seg type="dMeeting" subtype="C">Call on
-                                    <persName><placeName type="venue"
+                                <persName  ref="/people/EVA04.html"><placeName type="venue"
                             >Evans</placeName></persName></seg>, &amp; <seg type="dMeeting"
                             subtype="Cn">for <seg type="dTopic"><persName ref="/people/CLA02.html">C
                                     C</persName></seg>, on <persName ref="/people/PLA02.html"
@@ -2545,7 +2545,7 @@
                                 ref="/people/CLA03.html">Jane</persName></seg>;<ref type="dText"
                             subtype="letterRecvd"> letter fr. <persName ref="/people/CLA03.html"
                                 >do</persName></ref>. <seg type="dMeeting" subtype="C">Call on
-                                    <persName><placeName type="venue"
+                                    <persName  ref="/people/EVA04.html"><placeName type="venue"
                             >Evans</placeName></persName></seg>: <seg type="dMeal" subtype="DG"
                                 ><persName ref="/people/ELW01.html">S E</persName> dines</seg>.<ref
                             type="dWrote" subtype="letter"> Write to <persName

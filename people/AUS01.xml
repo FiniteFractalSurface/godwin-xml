@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="AUS01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>William</forename>
+                        <surname>Austen</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1733-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1821"/>
+                    <occupation>Artist</occupation>
+                    <note type="editorial">
+                        <p>A possible candidate for the 1798 entry at Chandler's, because Chandler
+                            was an artist, would have been William Austin DNB 1721? or 1733-1820. He
+                            exhibited at the RA 1776 from a Knightsbridge address; a satirical print
+                            of 1784 suggested he lived or traded at Rodney Place; he exhibited RA
+                            1785 from 41 St James St and 1786 from 195 Piccadilly. </p>
+                        <p>We have coded only the dates for 1796-1803 - and it is possible that
+                            these refer to a younger member of the family.</p>
+                        <p>F Austin jr and miss Christina Austin exhibited at Free Society/Society
+                            of Artists 1783-91 and miss Christina Austin at RA 1792 -7 from 19
+                            Denmark St Soho. Christiana Austin spinster of Elysium Row Fulham her
+                            will (London Consistory) dated 25.6.1839 proved 27.1.1842, she died
+                            31.12.1840 leaving portraits of her mother and father, a miniature of
+                            her sister playing the harp, and mentioning her cousin Rebecca Marks of
+                            25 Elizabeth Place nr Rising Sun, Kennington Cross and her good friend
+                            Mrs Jane Bullock. 1841 census Elysium Row Christiana Austin age 60
+                            artist, Jane Bullock age 65 independent means. A Christiana Austin aged
+                            88 was buried at Fulham 24.10.1813. Rebecca Marks Sun Fire 1828 at 25
+                            Elizabeth Place, Sun Fire 1834 widow at 12 Princes Rd, 1841 census at
+                            Princes Rd Lambeth age 75, buried St Mary Lambeth 6.9.1849 age 86. A
+                            Rebecca baptised 3.9.1760 St Saviour Denmark Hill dau of Richard Marks a
+                            painter and Sarah but Sun Fire 1834 said widow.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

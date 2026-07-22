@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="BAC01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>John</forename>
+                        <surname>Bacon</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Sculptor</occupation>
+                    <note type="editorial">
+                        <p>Ed Pope notes: 10.12.1795 Godwin calls on / then no Bacon till 1822 see
+                            letter from Samuel Parr to Godwin (Abinger c.2 f.136-7) dated
+                            16.12.1795. John Bacon DNB 1740-1799 was working on the sculpture of Dr
+                            Samuel Johnson in St Paul's cathedral for which Dr Samuel Parr had
+                            written the inscription. Parr asked Godwin to check on it for him. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

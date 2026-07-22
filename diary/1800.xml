@@ -101,7 +101,7 @@
                         ref="/people/LON02.html"><placeName type="venue"
                         >Longman</placeName></persName></seg>: <seg type="dMeeting" subtype="See"
                         ><persName>C</persName></seg> &amp; <seg type="dMeeting" subtype="See"
-                        ><persName>H Willis</persName></seg>: <seg type="dMeal" subtype="D">dine at
+                           ><persName  ref="/people/WIL34.html">H Willis</persName></seg>: <seg type="dMeal" subtype="D">dine at
                         <persName type="nah" ref="/people/FAN01.html"><placeName type="venue"
                            >Fancourt's</placeName></persName>, w. <persName ref="/people/NOR01.html"
                         >Northcote</persName>, <persName ref="/people/MAC19">Macquin</persName> &amp; <persName
@@ -512,7 +512,7 @@
                         ><placeName type="CG"/><seg type="dMeeting" subtype="Do">theatre, w.
                            <persName ref="/people/ELW01.html">S Elwes</persName>, Plough &amp;
                         Raymond &amp; Agnes; <seg type="dMeeting" subtype="Adv">adv.
-                              <persName>Willis's</persName>, <persName>Walker</persName> &amp;
+                           <persName  ref="/people/WIL34.html">Willis's</persName>, <persName>Walker</persName> &amp;
                               <persName ref="/people/MAR01.html">M</persName></seg></seg></ref>:
                      <seg type="dMeal" subtype="S">sup</seg>. <ref type="dWrote" subtype="letter"
                      >Write to <persName ref="/people/WED02.html">T Wedgwood</persName></ref>.</ab>
@@ -1971,7 +1971,7 @@
                      (incog)</seg> &amp; <seg type="dMeeting" subtype="C"><persName><placeName
                            type="venue">Colman</placeName></persName> (d<hi rend="sup"
                   >o</hi>)</seg>: <seg type="dMeeting" subtype="M">meet
-                     <persName>Willis</persName></seg>, <seg type="dMeeting" subtype="M"><persName
+                     <persName  ref="/people/WIL34.html">Willis</persName></seg>, <seg type="dMeeting" subtype="M"><persName
                         ref="/people/STE01.html">Stewart</persName></seg>, <seg type="dMeeting"
                      subtype="M"><persName ref="/people/CAR01.html">Carlisle</persName></seg> &amp;
                      <seg type="dMeeting" subtype="M"><persName ref="/people/BOU02.html"
@@ -2094,7 +2094,7 @@
                            <persName ref="/people/MAR01.html">M</persName>, <persName
                            ref="/people/REV01.html">M R</persName>, <persName
                            ref="/people/ROB05.html">M E R</persName>, <persName
-                           ref="/people/FEN01.html">F</persName> &amp; <persName>Cha.
+                              ref="/people/FEN01.html">F</persName> &amp; <persName  ref="/people/WIL34.html">Cha.
                            Willis</persName></seg></ref>. <seg type="dMeeting" subtype="CG"
                         ><persName ref="/people/TOB02.html">Tobin</persName></seg> &amp; <seg
                      type="dMeeting" subtype="CG"><persName ref="/people/CUX01.html" type="nah">S
@@ -2240,7 +2240,7 @@
                      acts 3 &amp; 4</ref>. <seg type="dMeeting" subtype="C">Call on <persName
                         ref="/people/NOR01.html"><placeName type="venue"
                         >Northcote</placeName></persName></seg>: meet <seg type="dMeeting"
-                     subtype="M"><persName>A W</persName></seg>, <seg type="dMeeting" subtype="M"
+                           subtype="M"><persName  ref="/people/WIL34.html">A W</persName></seg>, <seg type="dMeeting" subtype="M"
                         ><persName ref="/people/UND01.html">Underwood</persName></seg>, <seg
                            type="dMeeting" subtype="M"><persName ref="/people/HEN04.html">Henley</persName></seg>, <seg
                      type="dMeeting" subtype="M"><persName ref="/people/REY99.html"
@@ -3438,7 +3438,7 @@
                         <persName ref="/people/ELW01.html"><placeName type="venue">S
                         E's</placeName></persName>, w. <persName ref="/people/IML01.html"
                         >F</persName> &amp; <persName ref="/people/SHE02.html">M</persName></seg>.
-                     <seg type="dMeeting" subtype="CG"><persName>A Willis</persName>
+                  <seg type="dMeeting" subtype="CG"><persName  ref="/people/WIL34.html">A Willis</persName>
                   calls</seg>.</ab>
                <ab type="dDay" xml:id="g1800-10-15"><date when="1800-10-15">15. W.</date><ref
                      type="dText" subtype="read" target="/bibl/te1142.html">Warton's History, Diss.

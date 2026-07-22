@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="EVA04" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>John</forename>
+                        <surname>Evans</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1784">
+                        <placeName/>
+                    </birth>
+                    <death when="1831"/>
+                    <occupation>Dissenting Minister</occupation>
+                    <note type="editorial">
+                        <p>Beware the plurality of Evans's! (see EVA01).  Ed Pope suggests: 9.1.1814 Evans (Bristol) adv at dinner / 9.2.1814 write
+                            to Evans, Camberwell / 11.2.1814 call on Evans / 13.2.1814 again /
+                            22.7.1814 again. John Evans of Bristol could have been John Evans DNB
+                            1784-1831 Unitarian minister and schoolmaster who was educated by John
+                            Prior Estlin (qv) or John Evans DNB 1774-1828 (at that time proprietor
+                            of the Bristol Mercury).</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

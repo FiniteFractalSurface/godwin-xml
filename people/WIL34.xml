@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WIL34" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Anne (and Charles)</forename>
+                        <surname>Willis</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Schoolmistress</occupation>
+                    <note type="editorial">
+                        <p>Ed Pope notes: See Abinger c17 f106v flyer dated 12.7.1800 College House
+                            Preparatory Boarding School Church Lane Hammersmith for boys aged 3-8
+                            Mrs Anne Willis. 7 out of first 11 entries associated with James
+                            Marshall (M in diary) </p>
+                        <p>We have coded all entries to Anne, AW and Charles under this entry
+                            between 1797 and 1801. This laves some entries for willis from 1819,1830
+                            and 1831.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -72,7 +72,7 @@
                                 ref="/people/MAR01.html"><placeName type="venue"
                                 >M's</placeName></persName>, w. <persName
                                 ref="/people/FEL01|FEL02.html">Fells</persName>, <persName
-                                ref="/people/LAM02.html">M Lamb</persName>, <persName>Cha.
+                                    ref="/people/LAM02.html">M Lamb</persName>, <persName  ref="/people/WIL34.html">Cha.
                                 Willis</persName>, <persName ref="/people/HIL02.html">E Hill
                                 junr</persName>, <persName>L</persName>, <persName
                                 ref="/people/IML01.html">F</persName> &amp; <persName
@@ -207,7 +207,7 @@
                                 E</persName></seg> &amp; <seg type="dMeeting" subtype="CG"
                                 ><persName>m. Mills</persName> call</seg>: <seg type="dMeal"
                             subtype="TG"><persName ref="/people/JON01.html">L J</persName> &amp;
-                                <seg type="dMeal" subtype="TG"><persName>Cha. Willis</persName> at
+                                    <seg type="dMeal" subtype="TG"><persName  ref="/people/WIL34.html">Cha. Willis</persName> at
                                 tea</seg></seg>: <seg type="dMeal" subtype="SG"><persName
                                 ref="/people/FEL01.html">Fell</persName> sups</seg>.</ab>
                     <ab type="dDay" xml:id="g1801-01-20"><date when="1801-01-20">20. Tu. </date><ref
@@ -606,7 +606,7 @@
                             type="dText" subtype="read" target="/bibl/te1194.html">Deaf &amp; Dumb,
                             acts 1, 2, 3</ref>: <ref type="dText" subtype="read"
                             target="/bibl/te1195.html">Romeo, act 1</ref>. <seg type="dMeeting"
-                            subtype="CG"><persName>A W </persName>calls</seg>: <seg type="dMeal"
+                                subtype="CG"><persName  ref="/people/WIL34.html">A W </persName>calls</seg>: <seg type="dMeal"
                             subtype="DG"><persName ref="/people/SMA01.html">Smart</persName> &amp;
                                 <persName ref="/people/MAR01.html">M </persName>dine; <seg
                                 type="dMeeting" subtype="Adv">adv. <persName
@@ -757,7 +757,7 @@
                             88</ref>, <ref type="dText" subtype="read" target="/bibl/te1209.html"
                             >Epithalam.</ref>, <ref type="dText" subtype="read"
                             target="/bibl/te1210.html">M Hubberd, vs. 420</ref>. <seg type="dMeal"
-                            subtype="TG"><persName>A W</persName> at tea</seg>: <seg type="dMeal"
+                                subtype="TG"><persName  ref="/people/WIL34.html">A W</persName> at tea</seg>: <seg type="dMeal"
                             subtype="S">sup at <persName ref="/people/RIC01.html"><placeName
                                     type="venue">Rickman's</placeName></persName>, w. <persName
                                 ref="/people/DAV03.html">Davy</persName>, <persName
@@ -835,7 +835,7 @@
                             <seg type="dMeeting" subtype="CG"><persName ref="/people/ELW01.html">S
                                 E</persName></seg>&amp; <seg type="dMeeting" subtype="CG"
                                 ><persName>S Goldsmith</persName> call</seg>: <seg type="dMeeting"
-                            subtype="other"><persName>A W</persName><foreign> àprès
+                                    subtype="other"><persName  ref="/people/WIL34.html">A W</persName><foreign> àprès
                             souper</foreign></seg>.</ab>
                     <pb n="e.205_0024r"/>
                     <ab type="dDay" xml:id="g1801-03-22"><date when="1801-03-22">Mar. 22.
@@ -1023,7 +1023,7 @@
                             target="/bibl/te1226.html">Hume, Vol. I, p. 231-342</ref>. <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/TOB02.html"
                                 >Tobin</persName></seg> &amp; <seg type="dMeeting" subtype="CG"
-                                ><persName>A W</persName> call</seg>.</ab>
+                                    ><persName  ref="/people/WIL34.html">A W</persName> call</seg>.</ab>
                     <ab type="dDay" xml:id="g1801-04-08"><date when="1801-04-08">8. W. </date><ref
                             type="dText" subtype="read" target="/bibl/te1226.html">Hume, p.
                             471</ref>. <seg type="dMeeting" subtype="C">Call on <persName
@@ -1973,7 +1973,7 @@
                             type="dMeeting" subtype="CG"><persName ref="/people/LAM01.html"
                                 >Lamb</persName></seg>, <seg type="dMeeting" subtype="CG"><persName
                                 ref="/people/BUR07.html">Burnet</persName></seg> &amp; <seg
-                            type="dMeeting" subtype="CG"><persName type="nah">A W</persName> call
+                                    type="dMeeting" subtype="CG"><persName   ref="/people/WIL34.html" type="nah">A W</persName> call
                                 <hi rend="sup">n</hi></seg>.</ab>
                     <ab type="dDay" xml:id="g1801-06-30"><date when="1801-06-30">30. Tu.
                         </date>Sheridan's Swift, p. 76. <seg type="dMeal" subtype="D">Dine at
@@ -2404,7 +2404,7 @@
                     <ab type="dDay" xml:id="g1801-08-09"><date when="1801-08-09">Aug. 9. Su.
                             </date><ref type="dWrote" subtype="letter">Write to <persName
                                 ref="/people/MAR01.html">M</persName></ref> &amp; <ref type="dWrote"
-                            subtype="letter"><persName>Willis</persName></ref>. <ref type="dText"
+                                    subtype="letter"><persName  ref="/people/WIL34.html">Willis</persName></ref>. <ref type="dText"
                             subtype="read" target="/bibl/te1269.html">Tibullus, Eleg. 5</ref>: <ref
                             type="dText" subtype="read" target="/bibl/te1261.html">Confessions, p.
                             185</ref>. <seg type="dMeeting" subtype="M">Meet <persName

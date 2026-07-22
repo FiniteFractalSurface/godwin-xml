@@ -293,7 +293,7 @@
                                     Smith</persName>, <persName ref="/people/DYS01.html"
                                     >Dyson</persName>, <persName ref="/people/MAR01.html"
                                     >M</persName>, <persName ref="/people/OPI01.html"
-                                    >Opie</persName>, <persName>Willis</persName>, <persName
+                                        >Opie</persName>, <persName  ref="/people/WIL34.html">Willis</persName>, <persName
                                     ref="/people/PAR99|PAR06|PAR05.html">Parrys</persName>,
                                     <persName ref="/people/WEB01.html">Webb</persName> &amp;
                                     <persName>Coventry</persName></seg></ref>.</ab>
@@ -543,7 +543,7 @@
                             type="dMeal" subtype="D">dine at <persName ref="/people/CHA01.html"
                                     ><placeName type="venue">Chandler's</placeName></persName>, w.
                                 <persName ref="/people/PHI02.html">Philips</persName> &amp;
-                                <persName>Austin</persName>; <seg type="dMeeting" subtype="Adv">adv.
+                                        <persName ref="/people/AUS01.html">Austin</persName>; <seg type="dMeeting" subtype="Adv">adv.
                                     <persName>Mackin</persName> &amp;
                                     <persName ref="/people/FLE01.html">Fletcher</persName></seg></seg>: <ref
                             type="dEntertainment" subtype="Theat" target="/plays/whee01.html"

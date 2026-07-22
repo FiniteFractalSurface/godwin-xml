@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="EVA03" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>John</forename>
+                        <surname>Evans</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1787">
+                        <placeName/>
+                    </birth>
+                    <death when="1865"/>
+                    <occupation>Druggist</occupation>
+                    <note type="editorial">
+                        <p>Ed Pope notes: 17.2.1817 seek Evans / 18.2.1817 call on Evans / 19.2.1817
+                            meet Evans / 1.6.1817 call on Evans, Dulwich / 15.6.1817 write to Evans
+                            / 16.11.1817 call on Evans / 4.12.1817 write to Evans / 13.12.1817
+                            letter from Evans / 24.12.1817 call on Evans / 2.1.1818 write to Evans
+                            All coded to this identity. 
+                            === Bodleian Abinger c42 f120v Godwin's letter to his wife of 2.6.1817
+                            referred to his visit to Evans at Dulwich as on 1.6.1817 above. Godwin
+                            said that by an unlucky accident they had lost the East-India Chambers
+                            (mentioned in diary 12.5.1817) but that he still had two negotiations on
+                            foot, and had gone to Mr Evans in Dulwich (who was very encouraging)
+                            before dining with Walking Stewart and then going to see the other party
+                            after dinner., who, from the diary entry, must have been Turnbull, who
+                            appeared in the diary ten times in May and early June 1817. The only
+                            Evans I found in any way linked to Dulwich was John Evans 1787-1865
+                            wholesale druggist of 62 Wood Street Cheapside, one of whose children
+                            was baptised in Dulwich in 1827 </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
