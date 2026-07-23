@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="TAY17" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Archibald William</forename>
+                        <surname>Tayler</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1759">
+                        <placeName/>
+                    </birth>
+                    <death when="1814"/>
+                    <occupation>Land owner and member of the armed forces</occupation>
+                    <note type="editorial">
+                        <p> Archdale Wilson Tayler (1759-1814) and his wife Frances Elizabeth née
+                            Hall (1766/7-1845). A W Tayler was a country landowner until forced to
+                            go into the army, having been ruined by his agentThe couple had
+                            seventeen children. (john Frederick Taylor (1802-1889)was a
+                            watercolourist and etcher. A younger brother, William Tayler, became
+                            commissioner of Patna in India, and an uncle, Charles Henry Hall, was
+                            dean of Christ Church, Oxford.</p>
+                        <p>That there were so many children makes the difficulty of identifying
+                            particular individuals challenging. It looks like Godwin first meets a
+                            Tayler in the form of T. Tayloer in 1811 and there is then a spate of
+                            contact with the father and a C Taylor, a Fra Taylor and a Miss Taylor.  They all appear in a rather short window.
+                        We have given all these the same code as the father.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
