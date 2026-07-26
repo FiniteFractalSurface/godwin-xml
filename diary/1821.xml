@@ -2360,7 +2360,7 @@
                <ab type="dDay" xml:id="g1821-10-18"><date when="1821-10-18">18. Th.</date><ref
                      type="dText" subtype="read" target="/bibl/te2791.html">Innamorato, 1/2 C.
                      IV</ref>. <seg type="dMeeting" subtype="CG"><persName ref="/people/MAR01.html"
-                        >M</persName>, from <seg type="dTopic"><persName>Baldwin</persName></seg>,
+                           >M</persName>, from <seg type="dTopic"><persName ref="/people/BAL15.html">Baldwin</persName></seg>,
                      calls</seg>: <seg type="dMeeting" subtype="C">call on <persName
                         ref="/people/HAY02.html"><placeName type="venue"
                         >Hayward</placeName></persName></seg> &amp; <seg type="dMeeting" subtype="C"
@@ -2375,7 +2375,7 @@
                      C. V, st. 36</ref>. <ref type="dWrote" subtype="letter">Write to <persName
                         ref="/people/ROS01.html">Rosser</persName></ref>. <seg type="dMeeting"
                      subtype="CG"><persName ref="/people/MAR01.html">M</persName> calls from <seg
-                        type="dTopic"><persName>Baldwin</persName></seg></seg>; &amp; <seg
+                        type="dTopic"><persName ref="/people/BAL15.html">Baldwin</persName></seg></seg>; &amp; <seg
                      type="dMeeting" subtype="CG"><persName>H Palmer</persName></seg>: <seg
                      type="dMeeting" subtype="C">call on <persName ref="/people/HAY02.html"
                            ><placeName type="venue">Hayward</placeName></persName></seg>.</ab>
@@ -2492,7 +2492,7 @@
                      type="dWrote" subtype="letter">Write to <persName ref="/people/SHE02.html">M W
                         S</persName></ref>. <ref type="dText" subtype="read"
                      target="/bibl/te2791.html">Innamorato, C. XIII, fin; C. XIV, st. 47</ref>. <seg
-                     type="dMeeting" subtype="C">Call on <persName><placeName type="venue"
+                        type="dMeeting" subtype="C">Call on <persName ref="/people/BAL15.html"><placeName type="venue"
                            >Baldwin</placeName></persName></seg>, <seg type="dMeeting" subtype="C"
                         ><persName ref="/people/VAL01.html"><placeName type="venue"
                            >Valpy</placeName></persName> (<seg type="dMeeting" subtype="Adv">adv.
@@ -2560,7 +2560,7 @@
                      fin; C. XX</ref>. <seg type="dMeeting" subtype="C">Call on <persName
                         ref="/people/REE01.html"><placeName type="venue">O
                         Rees</placeName></persName></seg> &amp; <seg type="dMeeting" subtype="C"
-                           ><persName><placeName type="venue">Baldwin</placeName></persName> (<ref
+                           ><persName ref="/people/BAL15.html"><placeName type="venue">Baldwin</placeName></persName> (<ref
                         type="dWrote" subtype="other" target="/works/grec02.html"><seg type="dTopic"
                            >Greece, subscribe</seg></ref>)</seg>: <seg type="dMeeting" subtype="M"
                      >meet <persName ref="/people/LAW99.html">Lawrence</persName></seg>: <ref
@@ -2571,7 +2571,7 @@
                <ab type="dDay" xml:id="g1821-11-06"><date when="1821-11-06"> 6. Tu.</date><ref
                      type="dText" subtype="read" target="/bibl/te2791.html">Innamorato, 1/2 C.
                      XXI</ref>: <ref type="dText" subtype="read" target="/bibl/te2793.html"
-                     >Douglas</ref>. <seg type="dMeeting" subtype="C">Call on <persName><placeName
+                        >Douglas</ref>. <seg type="dMeeting" subtype="C">Call on <persName ref="/people/BAL15.html"><placeName
                            type="venue">Baldwin</placeName></persName></seg>, <seg type="dMeeting"
                      subtype="C"><persName ref="/people/WHI02.html"><placeName type="venue"
                            >Whitaker</placeName></persName></seg>, <seg type="dMeeting" subtype="C"

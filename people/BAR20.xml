@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="BAR20" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>John</forename>
+                        <surname>Barnes</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Stockbroker</occupation>
+                    <note type="editorial">
+                        <p>Ed Pope writes: The four appearances in 1793 and 1794 were all associated
+                            with Perry (and other associates of Perry's like Gordon and Gillies).
+                            Barnes also appeared in 1798 at a Masquerade with Perry. Five out of six
+                            entries in 1795 and early 1796 were associated with Newton. So possibly
+                            there were two Barnes, or maybe Barnes developed a friendship with
+                            Newton. But the Barnes at Perry's is likely to have been John Barnes,
+                            stockbroker who was executor of the 1796 will of Perry's partner James
+                            Gray. A John Barnes signed the Declaration of the Friends to the Liberty
+                            of the Press (Dec 1792 - Mar 1793) and also that of the Society of the
+                            Friends to the People 11.4.1792.</p>
+                        <p>In 10.2.1794 a John Barnes (presumably not the stockbroker) was keeper of
+                            a coffee house in Compton Street where the London Corresponding Society
+                            met (Thale), but in general Godwin did not socialise much with the LCS
+                            members. And a John Barnes attorney was in the 1798 Law List. A John
+                            Barnes stockbroker of Cornhill died in 1782 but his will (PCC) mentions
+                            no son, or relative called John. </p>
+                        <p>There is a long break in contact - between 1798 and 1811, and we have not
+                            coded Barnes after 1810 as this Barnes.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

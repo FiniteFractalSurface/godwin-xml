@@ -1159,7 +1159,7 @@
                                 ref="/people/KIN01.html"><placeName type="venue"
                                 >King's</placeName></persName>, w. <persName>Brook</persName>,
                                 <persName ref="/people/NEW01|NEW04.html">Newtons</persName> &amp;
-                                <persName>Barnes</persName>; <seg type="dMeeting" subtype="Adv">adv.
+                                <persName ref="/people/BAR20.html">Barnes</persName>; <seg type="dMeeting" subtype="Adv">adv.
                                     <persName>Neale</persName></seg>, talk of <seg type="dTopic"
                                 >libels</seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1795-03-27"><date when="1795-03-27">27. F.</date><ref
@@ -2589,7 +2589,7 @@
                     <ab type="dDay" xml:id="g1795-07-12"><date when="1795-07-12">July 12.
                             Su.</date><ref type="dText" subtype="read" target="/bibl/te0590.html"
                             >Demouriez, p. 94, fin</ref>. <seg type="dMeeting" subtype="C">Call on
-                                    <persName><placeName type="venue"
+                                <persName ref="/people/BAR20.html"><placeName type="venue"
                             >Barnes</placeName></persName></seg>, <seg type="dMeeting" subtype="C"
                                 ><persName ref="/people/MAC01.html" type="nah"><placeName
                                     type="venue">Mackintosh</placeName></persName> nah</seg>, <seg
@@ -2894,7 +2894,7 @@
                             subtype="read" target="/bibl/te0509.html">P de B, p. 118, fin</ref>.
                             <seg type="dMeeting" subtype="CG"><persName ref="/people/NEW01.html"
                                 >Newton</persName></seg> &amp; <seg type="dMeeting" subtype="CG"
-                                ><persName>Barnes</persName></seg> call. <seg type="dMeal"
+                                    ><persName ref="/people/BAR20.html">Barnes</persName></seg> call. <seg type="dMeal"
                             subtype="S">sup at <persName ref="/people/HOL01.html"><placeName
                                     type="venue">Hts</placeName></persName>, w. <persName
                                 ref="/people/RIC04.html">H Richter</persName></seg>.</ab>
@@ -4636,7 +4636,7 @@
                             331, fin</ref>. <seg type="dMeeting" subtype="C">Call on <persName
                                 ref="/people/INC01.html"><placeName type="venue"
                                     >Inchbald</placeName></persName></seg>: <seg type="dMeeting"
-                            subtype="CG"><persName>Barnes</persName> calls</seg>: <seg type="dMeal"
+                                        subtype="CG"><persName ref="/people/BAR20.html">Barnes</persName> calls</seg>: <seg type="dMeal"
                             subtype="D">dine at <persName ref="/people/NEW01|NEW04.html"><placeName
                                     type="venue">Newton's</placeName></persName>, w. <persName ref="/people/ADA15.html">Adams
                                 jun</persName>, <persName ref="/people/MAR01.html"

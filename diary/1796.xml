@@ -390,7 +390,7 @@
                                 >Este</persName> &amp; <persName ref="/people/MAC14.html"
                                 >Macdonnel</persName></seg>: <seg type="dMeeting" subtype="M">meet
                                 <persName ref="/people/NEW01.html">Newton</persName></seg> &amp;
-                            <seg type="dMeeting" subtype="M"><persName>Barnes</persName></seg>.</ab>
+                        <seg type="dMeeting" subtype="M"><persName ref="/people/BAR20.html">Barnes</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1796-01-28"><date when="1796-01-28">28. Th.</date><ref
                             type="dText" subtype="read" target="/bibl/te0285.html">Hume</ref>: <ref
                             type="dText" subtype="read" target="/bibl/te0623.html">Wolstencraft, p.
@@ -629,7 +629,7 @@
                                 subtype="Adv">adv. <persName ref="/people/DAV02.html"
                                     >Davis</persName></seg></seg>: <seg type="dMeeting" subtype="M"
                             >meet <persName ref="/people/NEW01.html">Newton</persName></seg> &amp;
-                            <seg type="dMeeting" subtype="M"><persName>Barnes</persName></seg>.</ab>
+                        <seg type="dMeeting" subtype="M"><persName ref="/people/BAR20.html">Barnes</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1796-02-13"><date when="1796-02-13">13. Sa.</date><ref
                             type="dText" subtype="read" target="/bibl/te0629.html">Angelina, p.
                             60</ref>. <seg type="dMeeting" subtype="C">Call on <persName
@@ -2347,7 +2347,7 @@
                     <ab type="dDay" xml:id="g1796-05-23"><date when="1796-05-23">23. M.</date><ref
                             type="dText" subtype="read" target="/bibl/te0663.html">Paysan, Pt II/2,
                             III</ref>. <seg type="dMeeting" subtype="CG"
-                            ><persName>Barnes</persName></seg> &amp; <seg type="dMeeting"
+                                ><persName ref="/people/BAR20.html">Barnes</persName></seg> &amp; <seg type="dMeeting"
                             subtype="CG"><persName>Younger</persName> call</seg>: <seg
                             type="dMeeting" subtype="See"><persName ref="/people/DEB01.html"
                                     ><placeName type="venue">Debrett's</placeName></persName>,
@@ -2876,7 +2876,7 @@
                                     type="venue">Wt's</placeName></persName>; <seg type="dMeeting"
                                 subtype="Adv">adv. <persName ref="/people/TWI01.html"
                                     >Twiss</persName></seg></seg>: <seg type="dMeeting" subtype="CG"
-                                ><persName>Barnes</persName> calls</seg>.</ab>
+                                        ><persName ref="/people/BAR20.html">Barnes</persName> calls</seg>.</ab>
                     <ab type="dDay" xml:id="g1796-06-29"><date when="1796-06-29">29. W.</date><ref
                             type="dText" subtype="read" target="/bibl/te0676.html">Pol. Justice, p.
                             195</ref>: <ref type="dText" subtype="read" target="/bibl/te0420.html"
@@ -3821,7 +3821,7 @@
                             type="dWrote" subtype="write" target="/works/enqu01.html">Essays, p.
                             86/2, 87, 88</ref>. <ref type="dText" subtype="read"
                             target="/bibl/te0699.html">Terence, Adelphi, acts 1, 2</ref>. <seg
-                            type="dMeeting" subtype="CG"><persName>Barnes</persName></seg>, <seg
+                                type="dMeeting" subtype="CG"><persName ref="/people/BAR20.html">Barnes</persName></seg>, <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/STO01.html"
                                 >Stoddart</persName></seg> &amp; <seg type="dMeeting" subtype="CG"
                                 ><persName ref="/people/BRO01.html">W C Brown</persName> call</seg>:
@@ -3850,7 +3850,7 @@
                             subtype="read" target="/bibl/te0689.html">D'Orleans, p. 392; Vol. III,
                             p. 36</ref>. <seg type="dMeal" subtype="BG"><persName
                                 ref="/people/GOD01.html">J G</persName> breakfasts</seg>: <seg
-                            type="dMeeting" subtype="CG"><persName>Barnes</persName></seg> &amp;
+                                    type="dMeeting" subtype="CG"><persName ref="/people/BAR20.html">Barnes</persName></seg> &amp;
                             <seg type="dMeeting" subtype="CG"><persName ref="/people/COO01.html"
                                 >Cooper</persName> call</seg>: <seg type="dMeal" subtype="TG"
                                 ><persName ref="/people/FEN01.html">Fenwick</persName> at tea</seg>.
@@ -5007,7 +5007,7 @@
                                     <persName ref="/people/HOL01.html">Ht</persName></ref></seg>:
                             <seg type="dMeal" subtype="S">sup at <persName ref="/people/TWI01.html"
                                     ><placeName type="venue">Twiss's</placeName></persName></seg>:
-                            <seg type="dMeeting" subtype="M">meet <persName>Barnes</persName></seg>
+                        <seg type="dMeeting" subtype="M">meet <persName ref="/people/BAR20.html">Barnes</persName></seg>
                         &amp; <seg type="dMeeting" subtype="M"
                         ><persName>Major</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1796-10-27"><date when="1796-10-27">27. Th.</date><ref

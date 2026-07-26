@@ -3254,7 +3254,7 @@
                                 <persName ref="/people/PER01.html"><placeName type="venue"
                                     >Perry’s</placeName></persName>;<seg type="dMeeting"
                                 subtype="Adv"> adv. <persName ref="/people/GOR02.html">Gordon
-                                    </persName>&amp;<persName> Barnes</persName></seg></seg></ab>
+                                </persName>&amp;<persName ref="/people/BAR20.html"> Barnes</persName></seg></seg></ab>
                     <pb n="e.201_0015v"/>
                     <ab type="dDay" xml:id="g1793-11-04"><date when="1793-11-04">5. M.</date><ref
                             type="dEvent" subtype="PersEvent" target="/events/pe0495.html"/><ref
@@ -3513,7 +3513,7 @@
                             at <persName ref="/people/PER01.html"><placeName type="venue"
                                     >Perry’s</placeName></persName>, w. <persName
                                 ref="/people/POR01.html">Porson</persName>,
-                                <persName>Barnes</persName>, <persName ref="/people/GOR02.html"
+                                    <persName ref="/people/BAR20.html">Barnes</persName>, <persName ref="/people/GOR02.html"
                                 >Gordon</persName>, <persName ref="/people/GIL01.html"
                                 >Gillies</persName>, <persName>Call<hi rend="sup">d</hi></persName>
                             &amp; <persName ref="/people/HOL01.html"
@@ -3579,7 +3579,7 @@
                                 <persName>Johnstone</persName>, <persName ref="/people/PER01.html"
                                 >Perry</persName>, <persName ref="/people/GOR02.html"
                                 >Gordon</persName>, <emph rend="deleted">Dignum, Johnstone,
-                                </emph><persName>Bell</persName>,<persName> Barnes</persName>,
+                                </emph><persName>Bell</persName>,<persName ref="/people/BAR20.html"> Barnes</persName>,
                                 <persName ref="/people/GIL01.html">Gillies</persName>,
                                 <persName>Stow</persName> &amp;
                         <persName>Tanner</persName>.</seg></ab>

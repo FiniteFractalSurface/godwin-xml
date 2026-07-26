@@ -2690,7 +2690,7 @@
                                 ref="/people/CON01.html">Constable</persName></ref>. <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/LAM01.html"
                                 >Lamb</persName> calls</seg>: <seg type="dMeeting" subtype="C">call
-                            on <emph rend="deleted">A </emph><persName><placeName type="venue"
+                                    on <emph rend="deleted">A </emph><persName><placeName ref="/people/ATC01.html" type="venue"
                                     >Atcheson</placeName></persName></seg>: <seg type="dMeal"
                             subtype="S">sup at <persName ref="/people/ELW01.html"><placeName
                                     type="venue">S E’s</placeName></persName>, w. <persName
@@ -2716,7 +2716,7 @@
                             type="dWrote" subtype="write" target="/works/mand01.html">Mandeville, p.
                             84</ref>. <ref type="dText" subtype="read" target="/bibl/te0636.html"
                             >Hermsprong, p. 134</ref>. <seg type="dMeeting" subtype="CG"
-                                ><persName>Atcheson</persName></seg> &amp; <seg type="dMeeting"
+                                ><persName ref="/people/ATC01.html">Atcheson</persName></seg> &amp; <seg type="dMeeting"
                             subtype="CG"><persName ref="/people/BOT01.html">Botwright</persName>
                             call</seg>. <placeName>St John’s Road</placeName>.</ab>
                 </div>
@@ -2784,8 +2784,8 @@
                             subtype="letter"><persName>Goldsmiths</persName></ref>.</ab>
                     <ab type="dDay" xml:id="g1816-10-08"><date when="1816-10-08">8. <emph
                                 rend="deleted">W</emph>. Tu.</date><ref type="dText" subtype="cala"
-                            target="/bibl/te1758.html">Fool of Quality, çala</ref>. <seg
-                            type="dMeeting" subtype="CG">Atcheson calls.</seg>: <seg type="dMeeting"
+                                    target="/bibl/te1758.html">Fool of Quality, çala</ref>. <persName ref="/people/ATC01.html">
+                            type="dMeeting" subtype="CG"> Atcheson </persName> calls: <seg type="dMeeting"
                             subtype="C">call on <placeName>Featherstone Buildings</placeName></seg>,
                             <seg type="dMeeting" subtype="C"><persName><placeName type="venue"
                                     >Horncastle</placeName></persName></seg> &amp; <seg
@@ -2833,7 +2833,7 @@
                                 ref="/people/SHE01.html">P B S</persName></ref>. <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/CUR04.html"
                                 type="nah">W Curran</persName><hi rend="sup">n</hi></seg>, <seg
-                            type="dMeeting" subtype="CG"><persName>Atcheson</persName></seg> &amp;
+                                    type="dMeeting" subtype="CG"><persName ref="/people/ATC01.html">Atcheson</persName></seg> &amp;
                             <seg type="dMeeting" subtype="CG"><persName ref="/people/BOT01.html"
                                     >Botw<hi rend="sup">t</hi></persName> call</seg>: <seg
                             type="dMeeting" subtype="C">call on <persName ref="/people/HUM01.html"
@@ -2845,7 +2845,7 @@
                             subtype="CG"><persName>Staveley</persName> calls</seg>.</ab>
                     <ab type="dDay" xml:id="g1816-10-15"><date when="1816-10-15">15. Tu.</date><ref
                             type="dText" subtype="read" target="/bibl/te2453.html">Scarron, p.
-                            24</ref>. <seg type="dMeeting" subtype="C">Call on <persName><placeName
+                            24</ref>. <seg type="dMeeting" subtype="C">Call on <persName ref="/people/ATC01.html"><placeName
                                     type="venue">Atcheson</placeName></persName></seg>: <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/BOT01.html"
                                 type="nah">Botwright</persName> calls <hi rend="sup">n</hi></seg>:
@@ -2867,7 +2867,7 @@
                     <ab type="dDay" xml:id="g1816-10-17"><date when="1816-10-17">17. Th.</date><ref
                             type="dText" subtype="cala" target="/bibl/te2454.html">Winchester,
                             çala</ref>. <seg type="dMeeting" subtype="CG"
-                                ><persName>Atcheson</persName> calls</seg>: <seg type="dMeal"
+                                ><persName ref="/people/ATC01.html">Atcheson</persName> calls</seg>: <seg type="dMeal"
                             subtype="D">dine at <persName ref="/people/CUR01.html">Curran’s,
                                     <placeName type="venue"
                         >Brompton</placeName></persName></seg>.</ab>
@@ -2875,7 +2875,7 @@
                             type="dWrote" subtype="write" target="/works/mand01.html">Mandeville, 2
                             pp</ref>. <ref type="dText" subtype="read" target="/bibl/te2455.html"
                             >Locrine, acts 1 &amp; 2</ref>. <seg type="dMeeting" subtype="C">Call on
-                                    <persName><placeName type="venue"
+                                <persName ref="/people/ATC01.html"><placeName type="venue"
                                 >Atcheson</placeName></persName></seg>: <seg type="dMeal"
                             subtype="SG"><persName ref="/people/CUR04.html">W Curran</persName>
                             sups</seg>. <ref type="dEvent" subtype="PersHlth"
@@ -2955,7 +2955,7 @@
                             type="dText" subtype="read" target="/bibl/te0345.html">Timon</ref>: <ref
                             type="dText" subtype="cala" target="/bibl/te2453.html">Scarron,
                             çala</ref>. <seg type="dMeeting" subtype="CG"
-                                ><persName>Atcheson</persName></seg> &amp; <seg type="dMeeting"
+                                ><persName ref="/people/ATC01.html">Atcheson</persName></seg> &amp; <seg type="dMeeting"
                             subtype="CG"><persName>Elston</persName> call</seg>: <seg type="dMeal"
                             subtype="TG"><persName ref="/people/BOT01.html">Botwright</persName> at
                             tea</seg>.</ab>

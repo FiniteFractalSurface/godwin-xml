@@ -547,7 +547,7 @@
                         ref="/people/BOO01.html">Booth</persName> at tea</seg>: <ref
                      type="dEntertainment" subtype="Theat" target="/plays/game01.html"><placeName
                         type="CG"/>theatre, Gamester; <seg type="dMeeting" subtype="Adv"> adv.
-                           <persName>Bacon</persName></seg></ref>.<ref type="dEvent" subtype="Temp">
+                           <persName ref="/people/BAC01.html">Bacon</persName></seg></ref>.<ref type="dEvent" subtype="Temp">
                      56 / 61 ½ </ref></ab>
                <ab type="dDay" xml:id="g1830-02-26"><date when="1830-02-26">26. F. </date><ref
                      type="dWrote" subtype="write" target="/works/thou01.html">Talents, p. 17</ref>.

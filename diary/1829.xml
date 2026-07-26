@@ -492,7 +492,7 @@
                      target="/bibl/te3184.html">R Dalton, p. 343</ref>. <ref type="dEntertainment"
                      subtype="Theat" target="/plays/pete02.html"><placeName type="DL"/>Theatre,
                      Peter the Great; <seg type="dMeeting" subtype="Adv">adv.
-                           <persName>Bacon</persName></seg></ref>. <ref type="dEvent" subtype="Temp"
+                        <persName ref="/people/BAC01.html">Bacon</persName></seg></ref>. <ref type="dEvent" subtype="Temp"
                      >53 ½ / 56</ref></ab>
                <pb n="e.223_0031v"/>
                <ab type="dDay" xml:id="g1829-02-22"><date when="1829-02-22">Feb. 22. Su. </date><ref
@@ -885,7 +885,7 @@
                            >Baber</persName></seg></ref>. <seg type="dMeal" subtype="TG"><persName
                         ref="/people/SHE02.html">M W S</persName> &amp;<persName
                         ref="/people/CLA03.html"> Jane</persName> at tea</seg>; <ref type="dEvent"
-                     subtype="PersEvent" target="/events/pe0430.html"><persName><placeName
+                           subtype="PersEvent" target="/events/pe0430.html"><persName ref="/people/BAL15.html"><placeName
                            type="venue">Baldwin</placeName></persName> w. <persName
                         ref="/people/CLA01.html">M J</persName></ref>. <ref type="dEntertainment"
                      subtype="Theat" target="/plays/mywi01.html"><placeName type="DL"/>Theatre, My
@@ -3120,7 +3120,7 @@
                <ab type="dDay"><ref type="dEntertainment" subtype="Theat"
                      target="/plays/nigh01.html"><placeName type="CG"/>theatre, Wedding Night; <seg
                         type="dMeeting" subtype="Adv">adv. <persName ref="/people/AYR01.html"
-                           >Ayrton</persName> &amp; <persName>Bacon</persName></seg></ref>.<ref
+                           >Ayrton</persName> &amp; <persName ref="/people/BAC01.html">Bacon</persName></seg></ref>.<ref
                      type="dEvent" subtype="Temp"> 49 / 53</ref></ab>
                <ab type="dDay" xml:id="g1829-11-18"><date when="1829-11-18">18. W.</date><ref
                      type="dWrote" subtype="write" target="/works/clou01.html">Delamere, p.
