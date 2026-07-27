@@ -10,7 +10,7 @@
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by</resp>
-                    <name></name>
+                    <name/>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -24,33 +24,36 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="BEA03" sex="1">
+                <person xml:id="BAR21" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>Thomas Richard </forename>
-                        <surname>Beaumont</surname>
+                        <forename>Chapman</forename>
+                        <surname>Barber</surname>
                         <addName/>
                     </persName>
                     <birth when="1000-01-01">
                         <placeName/>
                     </birth>
                     <death when="1000-12-31"/>
-                    <occupation>OCCUPATION</occupation>
+                    <occupation>Solicitor</occupation>
                     <note type="editorial">
-                        <p>Thomas Richard Beaumont of 26 Old Burlington Street, who was made a
-                            mamber of the Society for Constitutional Information in 1792, seconded
-                            by Horne Tooke. Mrs Beaumont is likely maried to this Beaumont and is coded as such. </p>
+                        <p>This is someone on whom Godwin calls, but who never calls on Godwin and is very rarely
+                            seen at the houses of others, strongly suggesting a professional
+                            relationship. One candidate for this is Chapman Barber, a solicitor of
+                            44 Chancery Lane. Godwin's first contact with him, suggests he was
+                            visiting a number of people in the same or adjacent locations, around
+                            the East End of the City. The identification of Barber is speculative but the pattern of visiting
+                            does look very consistent, so that (even if not this Barber) we are dealing with a single individual.</p>
                     </note>
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
                         Publisher, year</bibl>
                     <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
                     <bibl type="other">
-                        <title></title>
+                        <title/>
                     </bibl>
                 </person>
             </listPerson>
         </body>
     </text>
 </TEI>
-

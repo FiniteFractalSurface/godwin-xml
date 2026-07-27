@@ -43,7 +43,7 @@
                                     ><placeName type="venue">J Collier</placeName></persName></seg>:
                             <seg type="dMeeting" subtype="CG"><persName ref="/people/ROB03.html"
                                 type="nah">H Robinson</persName> calls <hi rend="sup">n</hi></seg>:
-                            <seg type="dMeal" subtype="SG"><persName>Baron</persName> sups</seg>.
+                        <seg type="dMeal" subtype="SG"><persName ref="/people/BAR22.html">Baron</persName> sups</seg>.
                             <ref type="dText" subtype="letterRecvd">Letter from <persName>P
                                 Nicholson</persName></ref>.</ab>
                     <ab type="dDay" xml:id="g1820-01-03"><date when="1820-01-03">3. M.</date><ref
@@ -110,7 +110,7 @@
                             Su.</date><ref type="dText" subtype="cala" target="/bibl/te2697.html"
                             >Dante, çala</ref>. <ref type="dText" subtype="read"
                             target="/bibl/te2696.html">Ivanhoe, Vol. III</ref>. <seg type="dMeeting"
-                            subtype="CG"><persName type="nah">Baron</persName> calls <hi rend="sup"
+                                subtype="CG"><persName ref="/people/BAR22.html" type="nah">Baron</persName> calls <hi rend="sup"
                                 >na</hi></seg>. Walk.</ab>
                     <ab type="dDay" xml:id="g1820-01-10"><date when="1820-01-10">10. M.</date><ref
                             type="dText" subtype="read" target="/bibl/te2637.html">Ariosto, st.
@@ -613,7 +613,7 @@
                             type="dText" subtype="read" target="/bibl/te0090.html">Tasso, st.
                             50</ref>. <seg type="dMeeting" subtype="CG"
                             ><persName>Tjarts</persName></seg> &amp; <seg type="dMeeting"
-                            subtype="CG"><persName type="nah">Baron</persName> call <hi rend="sup"
+                                subtype="CG"><persName ref="/people/BAR22.html" type="nah">Baron</persName> call <hi rend="sup"
                                 >na</hi></seg>: <seg type="dMeeting" subtype="CG"><persName
                                 ref="/people/HOL17.html">T Ht</persName> calls</seg>: <seg
                             type="dMeeting" subtype="C">call on <persName><placeName type="venue"
@@ -661,7 +661,7 @@
                             9</ref>: <seg type="dMeeting" subtype="C">call on <persName
                                 ref="/people/GOD05.html" type="nah"><placeName type="venue">N
                                     G</placeName></persName><hi rend="sup">n</hi></seg>: <seg
-                            type="dMeal" subtype="SG"><persName>Baron</persName> sups</seg>. <ref
+                                        type="dMeal" subtype="SG"><persName ref="/people/BAR22.html">Baron</persName> sups</seg>. <ref
                             type="dEvent" subtype="Death"><persName ref="/people/WHI01.html">James
                                 White</persName> dies </ref>.</ab>
                     <ab type="dDay" xml:id="g1820-03-13"><date when="1820-03-13">13. W.</date><ref
@@ -740,7 +740,7 @@
                             çala</ref>. <seg type="dMeeting" subtype="C">Call on <persName
                                 ref="/people/BOO01.html"><placeName type="venue"
                                 >Booth</placeName></persName></seg>: <seg type="dMeeting"
-                            subtype="CG"><persName>Baron</persName> calls</seg>.</ab>
+                                    subtype="CG"><persName ref="/people/BAR22.html">Baron</persName> calls</seg>.</ab>
                     <ab type="dDay" xml:id="g1820-03-20"><date when="1820-03-20">20. M.</date><ref
                             type="dWrote" subtype="write" target="/works/popu01.html"> Malthus, 1
                             page</ref>; <ref type="dWrote" subtype="revised"

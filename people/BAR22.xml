@@ -10,7 +10,7 @@
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by</resp>
-                    <name></name>
+                    <name/>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -24,11 +24,11 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="BEA03" sex="1">
+                <person xml:id="BAR22" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>Thomas Richard </forename>
-                        <surname>Beaumont</surname>
+                        <forename>NAME</forename>
+                        <surname>Baron</surname>
                         <addName/>
                     </persName>
                     <birth when="1000-01-01">
@@ -37,20 +37,21 @@
                     <death when="1000-12-31"/>
                     <occupation>OCCUPATION</occupation>
                     <note type="editorial">
-                        <p>Thomas Richard Beaumont of 26 Old Burlington Street, who was made a
-                            mamber of the Society for Constitutional Information in 1792, seconded
-                            by Horne Tooke. Mrs Beaumont is likely maried to this Beaumont and is coded as such. </p>
+                        <p>We have no ositive identification of this person, but it sems clear from
+                            the pattern of visits that, with the possible xception of 1795, which we
+                            have not coded, this is single individual - and someone with some
+                            connections with the children of John Philip Curran - especially Amelia
+                            and William. Baron always visits Godwin - not the other way round, which suggests that he does not have his own establishment. And his visits are all in 1818-1820.  </p>
                     </note>
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
                         Publisher, year</bibl>
                     <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
                     <bibl type="other">
-                        <title></title>
+                        <title/>
                     </bibl>
                 </person>
             </listPerson>
         </body>
     </text>
 </TEI>
-

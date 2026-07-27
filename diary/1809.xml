@@ -1169,7 +1169,7 @@
                                     type="venue">Johnson’s</placeName></persName>, w. <persName
                                 ref="/people/BON01.html">Bonnycastle</persName>, <persName
                                 ref="/people/KNO01.html">Knowles</persName>,
-                                <persName>Beaufort</persName> &amp; <persName>H
+                                        <persName ref="/people/BEA04.html">Beaufort</persName> &amp; <persName>H
                             Edgworth</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1809-04-29"><date when="1809-04-29">29. Sa.</date><ref
                             type="dWrote" subtype="write" target="/works/rome02.html">Rome, p.
@@ -3016,7 +3016,7 @@
                                 ref="/people/CUR01.html"><placeName type="venue"
                                     >Curran’s</placeName></persName>, w. <persName
                                 ref="/people/HUT02.html">Hutchins</persName>,
-                                <persName>Bell</persName>, <persName ref="/people/JEN05.html"
+                                <persName ref="/people/BEL04.html">Bell</persName>, <persName ref="/people/JEN05.html"
                                 >Jennings</persName>, <persName>R C</persName> &amp; <persName
                                 ref="/people/TUR01.html">T T</persName>; <seg type="dMeeting"
                                 subtype="Inv">invités <persName ref="/people/WOL02.html"
@@ -3426,7 +3426,7 @@
                             >Ward</placeName></persName></seg>, <seg type="dMeeting" subtype="C"
                                     ><persName><placeName type="venue"
                             >Evans</placeName></persName></seg>, <seg type="dMeeting" subtype="C"
-                                    ><persName><placeName type="venue"
+                                ><persName ref="/people/BEL04.html"><placeName type="venue"
                             >Bell</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName ref="/people/SUR01.html"><placeName type="venue"
                                     >Surr</placeName></persName></seg>: <seg type="dMeeting"

@@ -395,7 +395,7 @@
                                 ref="/people/MOO01.html">Moore</persName>, <persName
                                 ref="/people/ROB01.html">Robinson</persName>, <persName
                                 ref="/people/JOH01.html">Johnson</persName>, <emph rend="deleted"
-                                >&amp; </emph><persName>Bell</persName> &amp; <persName>miss
+                                    >&amp; </emph><persName ref="/people/BEL04.html">Bell</persName> &amp; <persName>miss
                                 Christie</persName>, talk of <seg type="dTopic"
                         >passions</seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1794-02-04"><date when="1794-02-04">4. Tu.</date><ref
@@ -548,7 +548,7 @@
                                 type="dTopic">indolence</seg></seg>: <seg type="dMeeting"
                             subtype="C">call on <persName ref="/people/MAC01.html"><placeName
                                     type="venue">Mackintosh</placeName></persName>, <seg
-                                type="dMeeting" subtype="Adv">adv. <persName>Bell</persName> &amp;
+                                        type="dMeeting" subtype="Adv">adv. <persName ref="/people/BEL04.html">Bell</persName> &amp;
                                     <persName ref="/people/COO05.html">miss
                             C.</persName></seg></seg>; &amp; <seg type="dMeeting" subtype="C"
                                 ><persName ref="/people/WEB01.html" type="nah"><placeName
@@ -666,7 +666,7 @@
                         >Revise</ref>. <ref type="dText" subtype="read" target="/bibl/te0469.html"
                             >Udolpho, p. 760</ref>. <seg type="dMeeting" subtype="CG"><persName
                                 ref="/people/RIT01.html">Ritson</persName> calls</seg>: <seg
-                            type="dMeal" subtype="D">dine at <persName><placeName type="venue"
+                                    type="dMeal" subtype="D">dine at <persName ref="/people/BEL04.html"><placeName type="venue"
                                     >Bell's</placeName></persName>, w. <persName
                                 ref="/people/MAC01.html">Mackintosh</persName>, <persName
                                 ref="/people/POR01.html">Porson</persName>, <persName>dr
@@ -834,7 +834,7 @@
                                 >Gawler</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName ref="/people/SCO02.html"><placeName type="venue">A
                                     Scott</placeName></persName></seg> &amp; <seg type="dMeeting"
-                            subtype="C"><persName type="nah"><placeName type="venue"
+                                        subtype="C"><persName ref="/people/BEL04.html" type="nah"><placeName type="venue"
                                     >Bell</placeName></persName></seg>, nah <seg type="dMeeting"
                             subtype="C"><persName ref="/people/INC01.html"><placeName type="venue"
                                     >Inchbald</placeName></persName></seg> &amp; <seg

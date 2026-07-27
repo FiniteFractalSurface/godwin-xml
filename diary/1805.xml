@@ -1355,7 +1355,7 @@
                                     >Philips’s</placeName></persName>, w. <persName
                                 ref="/people/PRA01.html">Pratt</persName>, <persName
                                 ref="/people/ALM01.html">Almon</persName>,
-                                <persName>Beaufort</persName>, <persName>Carr</persName>,
+                                <persName ref="/people/BEA04.html">Beaufort</persName>, <persName>Carr</persName>,
                                 <persName>Medland</persName>, <persName ref="/people/TAY06.html">R
                                 Taylor</persName> &amp; <persName ref="/people/SUR01.html"
                                 >Surrs</persName></seg>.</ab>
@@ -1794,7 +1794,7 @@
                                 ref="/people/JOH01.html"><placeName type="venue"
                                     >Johnson’s</placeName></persName>, w. <persName
                                 ref="/people/EDG01.html">Edgworth</persName>,
-                                <persName>Beaufort</persName> &amp; <persName
+                                <persName ref="/people/BEA04.html">Beaufort</persName> &amp; <persName
                                 ref="/people/MAL01.html">Malthus</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1805-05-13"><date when="1805-05-13">13. M.</date><ref
                             type="dWrote" subtype="letter">Write to <persName
@@ -1878,7 +1878,7 @@
                                 ref="/people/MUL01.html">Mulready</persName> calls</seg>: <seg
                             type="dMeal" subtype="DG"><persName ref="/people/EDG01.html"
                                 >Edgworth</persName>, <persName ref="/people/RIC01.html"
-                                >Rickman</persName>, <persName>Beaufort</persName>, <persName
+                                    >Rickman</persName>, <persName ref="/people/BEA04.html">Beaufort</persName>, <persName
                                 ref="/people/NOR01.html">Northcote</persName>, <persName
                                 ref="/people/HOA01.html">Hoare</persName> &amp; <persName
                                 ref="/people/ROW01.html">H Rowan </persName><emph rend="deleted"
@@ -2154,7 +2154,7 @@
                                     ><placeName type="venue">H Tooke’s</placeName></persName>, w.
                                 <persName ref="/people/BOS02.html">Bosville</persName>, <persName
                                 ref="/people/EDG01.html">Edgworth</persName>,
-                                <persName>Beaufort</persName>, <persName ref="/people/BOD02.html"
+                                <persName ref="/people/BEA04.html">Beaufort</persName>, <persName ref="/people/BOD02.html"
                                     >Boddington</persName>, <persName ref="/people/FRE04.html">French</persName>, <persName
                                 ref="/people/SCO04|SCO05.html">Scotts</persName>, <persName>P
                                 Courtney</persName>, <persName ref="/people/FEN03.html">E

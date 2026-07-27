@@ -654,7 +654,7 @@
                             type="dMeal" subtype="D">dine at <persName ref="/people/JOH01.html"
                                     ><placeName type="venue">Johnson’s</placeName></persName>, w.
                                 <persName ref="/people/FUS01.html">Fuseli</persName>,
-                                <persName>Beaufort</persName> &amp; <persName>H
+                                        <persName ref="/people/BEA04.html">Beaufort</persName> &amp; <persName>H
                             Edgworth</persName></seg>. <ref type="dText" subtype="read"
                             target="/bibl/te1681.html">Ulysses, p. 123</ref>.</ab>
                     <ab type="dDay" xml:id="g1808-03-12"><date when="1808-03-12">12. Sa.</date><ref

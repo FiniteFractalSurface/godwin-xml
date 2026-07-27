@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="BEL04" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>John</forename>
+                        <surname>Bell</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1745">
+                        <placeName/>
+                    </birth>
+                    <death when="1831"/>
+                    <occupation>Printer</occupation>
+                    <note type="editorial">
+                        <p>Ed Pope suggests:
+                            Maybe John Bell DNB 1745-1831 printer and bookseller, in Strand 1772-83,
+                            published Oracle from 1784 (James Mackintosh was foreign editor),
+                            published World 1787-9, libel on Foot Guards 7.1.1792, bankrupt 1793,
+                            certificate 1797. Maybe Hugh Bell born Dublin 1750? 1761? son of
+                            Alexander and Margaret Bell, merchant in London dissolved partnership with
+                            Archibald Redfoord 1782, married 1.11.1782 at Bermondsey Bethia dau of
+                            Robert Bell of Blackheath (he d.1806), merchant of Winchester St
+                            bankrupt 1783, children Willam born 1786 / Robert / Amelia bapt 1790 of
+                            Lambs Conduit St / Louisa bapt 1791 / Henrietta bapt 1793 / Anna Maria
+                            bapt 1795 of Putney / Hamilton Arthur bapt 1801. Hugh Bell of 40
+                            Charterhouse Sq arrested on suspicion of high treason 7.3.1798 and
+                            discharged same day. Along with George Smith (qv) he went £2500 bail for
+                            Roger O'Connor 24.1.1801. At the Old Bailey 3.5.1802 he was one of the
+                            friends (along with Mr Higginson, Mr Frederic O'Connor and the Marquis
+                            of Thomond) of James Townsend to swear to his insanity as defence
+                            against a capital charge of fraud. Moved to Aldersgate St 1804. He died
+                            10.3.1815 Merton, Devon, his will PCC 1815 mentioned wife Bethia, dau
+                            Anna Maria, sons Robert and William merchants, nephew Edward Bell,
+                            partner Joseph Higginson and friend Johnson Lawson of Coleman St
+                            merchant. See Courtenay, Philip who married Bell's daughter Louisa in
+                            1812 and for Bell's inclusion in the list of friends in the will of John
+                            Warner, Philip Courtenay's natural or adoptive father. Dr Bell
+                            13.12.1799 was mentioned as the bearer of the letter to Godwin from
+                            James Ballantyne (Bodleian Abinger c5 f11-12) and as an admirer of
+                            Godwin, about to set out with the Jamaica fleet. Since Ballantyne's
+                            letter was dated 14.11.1799 Kelso, this may have been James Bell,
+                            physician to Kelso Dispensary who wrote a gynaecological paper in
+                            Medical Facts 1800 but i've found no reference to his appointment to the
+                            Navy or his subsequent fate. The Dr Bell in Dublin was quite likely
+                            another person, there were Drs Thomas Bell senior and junior in Ireland
+                            at the time, among others. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

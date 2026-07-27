@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="BAI11" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>William</forename>
+                        <surname>Bain</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Naval captain</occupation>
+                    <note type="editorial">
+                        <p>This is a one-sided relationship - Bain is always the venue. This
+                            probably because he is related to Godwin's business concerns, and that
+                            suggests that this might well be William Bain, who was the Captain of a
+                            The City of Edinburgh, a packet ship that ploughed its way between London and Leith, and which may have
+                            been crucial for the sending of books to Murray in Edinburgh.
+                            A young artist, named Bain, who executed a medallion from Chantry's bust
+                            of Sir Walter Scott, is mentioned in the Morning Chronicle for March 12,
+                            1823, which is praised for preserving the resemblance, being executed in
+                            the best possible taste and distinguished for its breadth and
+                            simplicity. There is also a Joseph Bain, printer of A Few Words
+                            respecting the Probability of a Revelation of the Nature and Will of the
+                            Deity (1824). But we think William Bain is the more likely recipient of
+                            Godwin's regular calls in this period! </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -10,7 +10,7 @@
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by</resp>
-                    <name></name>
+                    <name/>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -24,33 +24,32 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="BEA03" sex="1">
+                <person xml:id="KNY01" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>Thomas Richard </forename>
-                        <surname>Beaumont</surname>
+                        <forename>William</forename>
+                        <surname>Knyvett</surname>
                         <addName/>
                     </persName>
-                    <birth when="1000-01-01">
+                    <birth when="1779">
                         <placeName/>
                     </birth>
-                    <death when="1000-12-31"/>
-                    <occupation>OCCUPATION</occupation>
+                    <death when="1856"/>
+                    <occupation>Musician</occupation>
                     <note type="editorial">
-                        <p>Thomas Richard Beaumont of 26 Old Burlington Street, who was made a
-                            mamber of the Society for Constitutional Information in 1792, seconded
-                            by Horne Tooke. Mrs Beaumont is likely maried to this Beaumont and is coded as such. </p>
+                        <p>Charles Knyvett DNB 1773-1852 Musician, son of Charles Knyvett DNB 1752-1822 organist of Chapel Royal from 1796. Charles junr 
+                            married 1795 Jane Laney; two other soncs were William Knyvett DNB 1779-1856 married 1801
+                            Sarah Laney (see Laney), and Henry Knyvett 1773-1844 army officer</p>
                     </note>
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
                         Publisher, year</bibl>
                     <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
                     <bibl type="other">
-                        <title></title>
+                        <title/>
                     </bibl>
                 </person>
             </listPerson>
         </body>
     </text>
 </TEI>
-

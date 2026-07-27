@@ -415,7 +415,7 @@
                                 ref="/people/FOU01.html"><placeName type="venue"
                                     >Foulkes's</placeName></persName>, w.
                                 <persName>Parker</persName>, <persName>Paterson</persName>,
-                                <persName>Bell</persName> &amp;
+                                    <persName ref="/people/BEL04.html">Bell</persName> &amp;
                         <persName>Whitfield</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1795-02-02"><date when="1795-02-02">2. Tu.</date><ref
                             type="dEvent" subtype="PersEvent" target="/events/pe0495.html"/><seg
@@ -4149,7 +4149,7 @@
                                 <persName>Butler</persName></seg>, &amp; <seg type="dMeeting"
                             subtype="C"><persName ref="/people/PER01.html"><placeName type="venue"
                                     >Perry</placeName></persName>, <seg type="dMeeting"
-                                subtype="Adv">adv. <persName>Bell</persName></seg></seg>.</ab>
+                                        subtype="Adv">adv. <persName ref="/people/BEL04.html">Bell</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1795-11-24"><date when="1795-11-24">24. Tu. </date><ref
                             type="dWrote" subtype="revised" target="/works/cale01.html"
                         >Revise</ref>. <ref type="dText" subtype="read" target="/bibl/te0487.html"
@@ -4642,7 +4642,7 @@
                                 jun</persName>, <persName ref="/people/MAR01.html"
                                 >Marshal</persName>, <persName ref="/people/SMI01.html"
                                 >Smith</persName>, <persName ref="/people/CHR02.html"
-                                >Christie</persName>, <persName>Bell</persName>,
+                                    >Christie</persName>, <persName ref="/people/BEL04.html">Bell</persName>,
                                 <persName>Crokes</persName>, <persName>Wybournes</persName> &amp;
                                 <persName>miss Dives</persName>; <seg type="dMeeting" subtype="Adv"
                                     >adv<persName> Lovel</persName>; talk of <seg type="dTopic"

@@ -10,7 +10,7 @@
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by</resp>
-                    <name></name>
+                    <name/>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -24,33 +24,35 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="BEA03" sex="1">
+                <person xml:id="BEA04" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>Thomas Richard </forename>
-                        <surname>Beaumont</surname>
+                        <forename>Daniel Augustus</forename>
+                        <surname>Beaufort</surname>
                         <addName/>
                     </persName>
-                    <birth when="1000-01-01">
+                    <birth when="1739">
                         <placeName/>
                     </birth>
-                    <death when="1000-12-31"/>
+                    <death when="1821"/>
                     <occupation>OCCUPATION</occupation>
                     <note type="editorial">
-                        <p>Thomas Richard Beaumont of 26 Old Burlington Street, who was made a
-                            mamber of the Society for Constitutional Information in 1792, seconded
-                            by Horne Tooke. Mrs Beaumont is likely maried to this Beaumont and is coded as such. </p>
+                        <p>EdPope suggests: Beaufort 31.3.1805 at Philips / 12.5.1805 at Joseph
+                            Johnson's (and Edgworth) / 18.5.1805 dines (and Edgworth) / 9.6.1805 at
+                            Tooke's (and Edgworth) / 11.3.1808 at Joseph Johnson's (and H Edgworth) /
+                            28.4.1809 again Probably Daniel Augustus Beaufort DNB 1739-1821 whose
+                            daughter Frances Ann married Richard Lovell Edgeworth DNB 1744-1817 at
+                            St Anne Dublin on 31.5.1798 or perhaps his son Francis DNB 1774-1857</p>
                     </note>
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
                         Publisher, year</bibl>
                     <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
                     <bibl type="other">
-                        <title></title>
+                        <title/>
                     </bibl>
                 </person>
             </listPerson>
         </body>
     </text>
 </TEI>
-

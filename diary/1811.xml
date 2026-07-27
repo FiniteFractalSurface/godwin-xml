@@ -2534,7 +2534,7 @@
                                     ><placeName type="venue">Davison</placeName></persName></seg>,
                             <seg type="dMeeting" subtype="C"><persName><placeName type="venue"
                                     >Wade</placeName></persName></seg>, <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                        subtype="C"><persName ref="/people/BAR21.html"><placeName type="venue"
                                 >Barber</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName ref="/people/KNO01.html"><placeName type="venue"
                                     >Knowles</placeName></persName></seg> &amp; <seg type="dMeeting"

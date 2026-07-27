@@ -1772,9 +1772,9 @@
                            >Ollier</placeName></persName></seg>, <seg type="dMeeting" subtype="C"
                         ><persName ref="/people/ROT01.html" type="nah"><placeName type="venue"
                            >Rothwel</placeName></persName><hi rend="sup">na</hi></seg>, &amp; <seg
-                     type="dMeeting" subtype="C"><persName><placeName type="venue"
+                              type="dMeeting" subtype="C"><persName ref="/people/BAI11.html"><placeName type="venue"
                         >Bain</placeName></persName> ; <seg type="dMeeting" subtype="Adv">adv.
-                           <persName>Knyvet</persName></seg></seg>: <seg type="dMeeting" subtype="M"
+                           <persName ref="/people/KNY01.html">Knyvet</persName></seg></seg>: <seg type="dMeeting" subtype="M"
                      >meet <persName ref="/people/PHI01.html">sir R Phillips</persName></seg>. <ref
                      type="dEvent" subtype="Temp">60 / 65</ref></ab>
                <ab type="dDay" xml:id="g1830-06-24"><date when="1830-06-24">24. Th. </date><ref
@@ -3162,7 +3162,7 @@
                      <ref type="dText" subtype="read" target="/bibl/te3272.html">Homer, v.
                   215</ref>. <seg type="dMeeting" subtype="M">Meet <persName
                         ref="/people/AYR01.html">Ayrton</persName></seg>: <seg type="dMeeting"
-                     subtype="C">call on <persName><placeName type="venue"
+                           subtype="C">call on <persName ref="/people/BAI11.html"><placeName type="venue"
                         >Bain</placeName></persName></seg>: <ref type="dEntertainment"
                      subtype="Theat" target="/plays/napl01.html"><placeName type="CG"/>theatre,
                      Carnival of Naples; <seg type="dMeeting" subtype="Adv">adv. <persName

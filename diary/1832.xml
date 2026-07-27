@@ -1131,7 +1131,7 @@
                                 ref="/people/JER02.html">Jerdan</persName>, <persName
                                 ref="/people/BOD02.html">Boddington</persName>, <persName
                                 ref="/people/MOO03.html">T Moore</persName></seg>.
-                                <add><persName>Bell</persName></add><ref type="dEvent"
+                        <add><persName ref="/people/BEL04.html">Bell</persName></add><ref type="dEvent"
                             subtype="Temp">55 / 58</ref></ab>
                     <ab type="dDay" xml:id="g1832-04-02"><date when="1832-04-02">2. M.</date><ref
                             type="dWrote" subtype="write" target="/works/delo01.html">Deloraine, p.

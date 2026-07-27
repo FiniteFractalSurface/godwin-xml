@@ -220,7 +220,7 @@
                                 ref="/people/WOL01.html">Wolstencraft</persName>, <persName
                                 ref="/people/CHR03.html">mrs Christie</persName>, <persName
                                 ref="/people/SMI01.html">Smith</persName>,
-                            <persName>Bell</persName>, <persName>Croke</persName>,
+                            <persName ref="/people/BEL04.html">Bell</persName>, <persName>Croke</persName>,
                                 <persName>Lovel</persName>, <persName>Bateman</persName>,
                             <persName>Dalby</persName> &amp; <persName  ref="/people/BLA09.html">Blackburnes</persName>;
                                 <seg type="dMeeting" subtype="Adv">adv.
@@ -750,7 +750,7 @@
                                     ><placeName type="venue">miss
                             Mansel's</placeName></persName></seg>: <seg type="dMeal" subtype="S">sup
                             at <persName><placeName type="venue">Carr's</placeName></persName>, w.
-                                <persName>Bell</persName> &amp; <persName ref="/people/AIK02.html"
+                                <persName ref="/people/BEL04.html">Bell</persName> &amp; <persName ref="/people/AIK02.html"
                                 >Aikin jun<hi rend="sup">r</hi></persName></seg>. <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/GOD01.html">J
                                 G</persName> calls</seg>.</ab>
@@ -5143,7 +5143,7 @@
                             type="dEntertainment" subtype="Theat" target="/plays/meas01.html"
                                 ><placeName type="DL"/>Theatre, Measure for Measur{e;} <seg
                                 type="dMeeting" subtype="Adv">adv.
-                            <persName>Bell</persName></seg></ref>.</ab>
+                                    <persName ref="/people/BEL04.html">Bell</persName></seg></ref>.</ab>
                     <ab type="dDay" xml:id="g1796-11-06"><date when="1796-11-06">Nov. 6.
                             Su.</date><pb n="e.203_0004v"/><ref type="dWrote" subtype="write"
                             target="/works/enqu01.html">Essays, p. 134-137</ref>. <ref type="dText"
