@@ -24,29 +24,30 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="BAR22" sex="1">
+                <person xml:id="BIN02" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>NAME</forename>
-                        <surname>Baron</surname>
+                        <forename>John P</forename>
+                        <surname>Binham</surname>
                         <addName/>
                     </persName>
-                    <birth when="1000-01-01">
+                    <birth when="1771">
                         <placeName/>
                     </birth>
-                    <death when="1000-12-31"/>
+                    <death when="1847"/>
                     <occupation>OCCUPATION</occupation>
                     <note type="editorial">
-                        <p>We have no ositive identification of this person, but it sems clear from
-                            the pattern of visits that, with the possible xception of 1795, which we
-                            have not coded, this is single individual - and someone with some
-                            connections with the children of John Philip Curran - especially Amelia
-                            and William. Baron always visits Godwin - not the other way round, which
-                            suggests that he does not have his own establishment. And his visits are
-                            all in 1818-1820. It is possible that this is an Irishman who is in
-                            London for a finite period, and comes across Godwin through the Currans. 
-                            No record in the Dictionary of Irish Biography.
-                        </p>
+                        <p>Ed Pope writes: The letter of 9.9.1806 John P Binham to Godwin from 1,
+                            Evesham Buildings (Bodl MS Abinger c.10 f.4) mentioned his temporary
+                            engagement with Mr Phillips (presumably the publisher Richard Phillips).
+                            John Pearson Binham son of Richard and Esther his wife born 20.7.1771
+                            (Quaker Devon East Division). John Binham [married at St] Pancras 5.7.1807 Maria
+                            Ballanger. Elizabeth born 24.11.1807 at Somers Town to John Pearson
+                            Binham and Maria wits at birth Ann Ballanger, Mary Ann Lovell, Esther
+                            Maria born 15.8.1812 at Somers Town of same parents wits Mary Ann
+                            Townsend, Louisa Ballanger (Quaker London and Middlesex meeting - not a
+                            member). 1841 census 30 Wych St John Binham accountant age 65. John
+                            Pearson Binham bur 15.5.1847 age 76 St Dunstan i t West</p>
                     </note>
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,

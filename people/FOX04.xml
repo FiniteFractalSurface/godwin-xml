@@ -10,7 +10,7 @@
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by</resp>
-                    <name/>
+                    <name></name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -24,39 +24,31 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="BAR22" sex="1">
+                <person xml:id="FOX04" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>NAME</forename>
-                        <surname>Baron</surname>
+                        <forename>Henry</forename>
+                        <surname>Holland</surname>
                         <addName/>
                     </persName>
-                    <birth when="1000-01-01">
+                    <birth when="1773">
                         <placeName/>
                     </birth>
                     <death when="1000-12-31"/>
                     <occupation>OCCUPATION</occupation>
                     <note type="editorial">
-                        <p>We have no ositive identification of this person, but it sems clear from
-                            the pattern of visits that, with the possible xception of 1795, which we
-                            have not coded, this is single individual - and someone with some
-                            connections with the children of John Philip Curran - especially Amelia
-                            and William. Baron always visits Godwin - not the other way round, which
-                            suggests that he does not have his own establishment. And his visits are
-                            all in 1818-1820. It is possible that this is an Irishman who is in
-                            London for a finite period, and comes across Godwin through the Currans. 
-                            No record in the Dictionary of Irish Biography.
-                        </p>
+                        <p>Ed Pope: Henry Fox 3rd baron Holland DNB 1773 -</p>
                     </note>
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
                         Publisher, year</bibl>
                     <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
                     <bibl type="other">
-                        <title/>
+                        <title></title>
                     </bibl>
                 </person>
             </listPerson>
         </body>
     </text>
 </TEI>
+
