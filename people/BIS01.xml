@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="BIS01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Henry</forename>
+                        <surname>Bishop</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Musician</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope, who says: 2.1.1790 hear Bishop at Holcroft's / 7.7.1791
+                            again. Given Holcroft's many musical guests and the phrase 'hear Bishop'
+                            this may have been Henry Bishop, dancing master and violinist (see
+                            below) rather than listening to a bishop's sermon as suggested by the
+                            event tag (although Godwin earlier noted 'see bishop Newton' and 'hear
+                            bishop Horsley' both times he used a small b). Aickin the actor and
+                            Otley who was often at Holcroft's musical gatherings were perhaps less
+                            likely to go hear a sermon - and the second 'hear Bishop' was with
+                            Clementi, Shield and Bossy, all musicians. There was also a Bishop
+                            17.12.1793 visiting Muir and Reid on the hulks at Woolwich /11.10.1795
+                            adv at Holcroft's (the violinist?) / 28.8.1798 meet Fuseli and Bishop /
+                            20.2.1801 meet Bishop / 5.9.1801 again / 12.10.1811 Bishops at Collier's
+                            / 8.9.1815 S(arah) E(lwes) and Bishop dine / 26.1.1826 at Lady Caroline
+                            Lamb's / 29.1.1826 again.</p><p>Mrs Bishop and E Bishop were all Mary
+                            Wollstonecraft's sister Eliza and so may have been some of the Bishops
+                            listed above. A Samuel Bishop signed the declaration of Friends to
+                            Liberty of Press 1792. We have coded only those most closely connected to Holcroft. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

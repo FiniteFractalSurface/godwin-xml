@@ -2390,7 +2390,7 @@
                             type="dEvent" subtype="PersHlth" target="/events/he0000.html"
                             >Languor</ref>. <ref type="dText" subtype="read"
                             target="/bibl/te0844.html">Cellini, p. 126</ref>. <seg type="dMeeting"
-                            subtype="CG"><persName>Betham</persName> calls</seg>: <seg
+                                subtype="CG"><persName ref="/people/BET03.html">Betham</persName> calls</seg>: <seg
                             type="dMeeting" subtype="C">call on <persName ref="/people/GOD02.html"
                                     ><placeName type="venue">Jo G</placeName></persName></seg>: <seg
                             type="dMeeting" subtype="Sk">seek <persName ref="/people/WHI07.html"

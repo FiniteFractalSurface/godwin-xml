@@ -459,7 +459,7 @@
                                 ref="/people/PER01.html">Perry</persName>, <persName
                                 ref="/people/GRA18.html">Gray</persName>, <persName
                                 ref="/people/GOR02.html">Gordon</persName>,
-                                <persName>Bicknel</persName> &amp; <persName
+                                    <persName ref="/people/BIC02.html">Bicknel</persName> &amp; <persName
                                 ref="/people/FEN01.html">Fenwick</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1792-02-20"><date when="1792-02-20">20. M.</date><ref
                             type="dEntertainment" subtype="Theat" target="/plays/road01.html"
@@ -1853,7 +1853,7 @@
                                     ref="/people/SHI01.html">Shield</persName>,
                                     <persName>Damen</persName>, <persName>maj. Waller</persName>,
                                     <persName>Otley</persName> &amp;
-                                <persName>Bicknel</persName></seg>: Quartets</ref>.</ab>
+                                    <persName ref="/people/BIC02.html">Bicknel</persName></seg>: Quartets</ref>.</ab>
                     <ab type="dDay" xml:id="g1792-07-07"><date when="1792-07-07">7. Sa.</date><ref
                             type="dWrote" subtype="notes" target="/works/poli01.html">Notes</ref>.
                             <ref type="dText" subtype="read" target="/bibl/te0178.html">Finish Burke

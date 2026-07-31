@@ -1579,7 +1579,7 @@
                      subtype="read" target="/bibl/te1596.html">A Cunningham, Vol. III, p. 158</ref>.
                      <seg type="dMeeting" subtype="C">Call on <persName ref="/people/REY05.html"
                            ><placeName type="venue">F Reynolds</placeName></persName>;<seg
-                        type="dMeeting" subtype="Adv"> adv. <persName>Bernal</persName></seg></seg>:
+                              type="dMeeting" subtype="Adv"> adv. <persName ref="/people/BER04.html">Bernal</persName></seg></seg>:
                      <seg type="dMeal" subtype="D">dine at <persName><placeName type="venue"
                            >Highgate</placeName></persName>; <seg type="dMeeting" subtype="Adv">
                         Adv. <persName ref="/people/BLA07.html">Blatspeils</persName> &amp;
@@ -1610,7 +1610,7 @@
                      fin</ref>. <seg type="dMeeting" subtype="C">Call on<persName
                         ref="/people/WOO03.html" type="nah"><placeName type="venue"> mrs
                            Wood</placeName></persName><hi rend="sup">n</hi></seg> &amp; <seg
-                     type="dMeeting" subtype="C"><persName type="nah"><placeName type="venue"
+                              type="dMeeting" subtype="C"><persName ref="/people/BER04.html" type="nah"><placeName type="venue"
                            >Bernal</placeName></persName><hi rend="sup">n</hi></seg>: <seg
                      type="dMeeting" subtype="CG"><persName ref="/people/HUD01.html"
                         >Hudson</persName> calls</seg>. <ref type="dText" subtype="letterRecvd"
@@ -2696,7 +2696,7 @@
                         type="nah"><placeName type="venue">H Holm</placeName></persName><hi
                         rend="sup">n</hi></seg>: <seg type="dMeal" subtype="D">dine at<persName
                         ref="/people/REY05.html"><placeName type="venue">F
-                        R’s</placeName></persName>, w. <persName>Bernal</persName>,
+                           R’s</placeName></persName>, w. <persName ref="/people/BER04.html">Bernal</persName>,
                         <persName>Lane</persName> &amp; <persName ref="/people/WAT03.html"
                         >Watts</persName></seg>. <ref type="dEvent" subtype="Temp"> 62 ½ /
                   65</ref></ab>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="BET03" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>William</forename>
+                        <surname>Betham</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1749">
+                        <placeName/>
+                    </birth>
+                    <death when="1839"/>
+                    <occupation>Schoolmaster and Antiquary</occupation>
+                    <note type="editorial">
+                        <p>See ODNB - A schoolmaster in Suffolk, which might account for the pattern
+                            of visits, when his antiquarian interests drew him to London. His
+                            daughter Mary Matilda Betham (1776-1852) was a miniaturist and woman of
+                            letters and a freind of the Lambs, Coleridge and others. But it seems
+                            likely that Godwin was meeting her father. There is one Mrs Betham which
+                            we have coded under this name (in 1823), alongside a 'Bethams'. Betham married Mary Planque
+                            (1752/3–1839), daughter of William Damant, of Eye, Suffolk, and widow of
+                            Whittocke Planque. They had fifteen children.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

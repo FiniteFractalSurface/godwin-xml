@@ -183,7 +183,7 @@
                             type="dWrote" subtype="cala" target="/works/comm01.html">Commonwealth,
                             çala</ref>. <ref type="dText" subtype="read" target="/bibl/te2637.html"
                             >Ariosto, st. 105</ref>. <seg type="dMeeting" subtype="CG"
-                                ><persName>Betham</persName> calls</seg>:<seg type="dMeeting"
+                                ><persName ref="/people/BET03.html">Betham</persName> calls</seg>:<seg type="dMeeting"
                             subtype="C"> call on <persName ref="/people/ROD01.html"><placeName
                                     type="venue">T Rodd</placeName></persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1822-01-19"><date when="1822-01-19">19. Sa. </date><ref
@@ -3233,7 +3233,7 @@
                                     type="venue">Macgowan</placeName></persName></seg>: <seg
                             type="dMeal" subtype="DG"><persName ref="/people/BOT01.html">B<hi
                                     rend="sup">t</hi></persName> at tea</seg>: <seg type="dMeal"
-                            subtype="SG"><persName>Betham</persName> sups</seg>.</ab>
+                                        subtype="SG"><persName ref="/people/BET03.html">Betham</persName> sups</seg>.</ab>
                     <ab type="dDay" xml:id="g1822-12-03"><date when="1822-12-03">3. Tu. </date><ref
                             type="dText" subtype="read" target="/bibl/te2697.html">Dante, C.
                             VII</ref>. <seg type="dMeeting" subtype="CG"><persName
@@ -3339,7 +3339,7 @@
                             >Boccaccio, p. 199</ref>. <seg type="dMeeting" subtype="C">Call on
                                 <persName ref="/people/WAL02.html"><placeName type="venue"
                                     >Wallace</placeName></persName></seg>, <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                        subtype="C"><persName ref="/people/BET03.html"><placeName type="venue"
                                 >Betham</placeName></persName></seg>, <seg type="dMeeting"
                                     subtype="C"><persName ref="/people/BAI11.html"><placeName type="venue"
                                 >Bain</placeName></persName></seg>, &amp; <seg type="dMeeting"

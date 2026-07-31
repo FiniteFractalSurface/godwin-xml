@@ -1543,7 +1543,7 @@
                                 ><persName ref="/people/BAR03.html">col. Barry</persName></seg>
                         &amp; <seg type="dMeeting" subtype="CG"><persName ref="/people/WEB01.html"
                                 >Webb</persName> call</seg>: <ref type="dText" subtype="letterRecvd"
-                            >message <persName>B H</persName></ref>: <seg type="dMeal" subtype="Ta"
+                                    >message <persName ref="/people/HOL02.html">B H</persName></ref>: <seg type="dMeal" subtype="Ta"
                             >tea <persName ref="/people/HOL01.html"><placeName type="venue"
                                     >Hts</placeName></persName>, w. <persName
                                 ref="/people/SHI01.html">Shield</persName>, <persName
@@ -3567,7 +3567,7 @@
                                 ref="/people/REY03.html">miss Mansel</persName>,
                                 <persName>Major</persName>, <persName>Leftley</persName> &amp;
                                 <persName ref="/people/TUT01.html">Tuthil</persName>; <seg
-                                type="dMeeting" subtype="Adv">adv. <persName>Bishop</persName>,
+                                    type="dMeeting" subtype="Adv">adv. <persName ref="/people/BIS01.html">Bishop</persName>,
                                 &amp; <persName>Jay</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1795-10-12"><date when="1795-10-12">12. M. </date><ref
                             type="dText" subtype="read" target="/bibl/te0612.html">Gregory, p.
