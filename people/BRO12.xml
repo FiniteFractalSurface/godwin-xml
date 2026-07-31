@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="BRO12" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>NAME</forename>
+                        <surname>Brookes</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>This entry covers a number of possibilities. Moreover, it is worth
+                            considering the comments in the entry for William Henry Brooke.</p> 
+                        <p>Ed
+                        Pope has identified a number of possibilities: Brookes's 23.4.1801 at
+                        Goldsmith's / 12.1.1805 call on Brookes / 22.1.1805 C Brookes calls /
+                        27.3.1811 call on Brookes / 2.1.1813 call on Brooks / 6.1.1813 Brookes jr
+                        calls / 11.5.1813 call on Brookes / 31.5.1814 write to Brooks / 8.5.1815
+                        seek Brookes / 9.5.1815 again / 30.6.1815 again / 15.9.1815 again /
+                        16.9.1815 again / 29.2.1816 call on Brookes / 23.8.1816 again / 15.7.1818
+                        call on Brookes, banker / 16.7.1821 call on Brookes and Co / 23.6.1828 call on
+                        Brooks (W and P) / 22.12.1828 Brooks, stationer calls / 25.6.1832 Brookes at
+                        Martin's / 6.8.1832 again / 28.10.1833 again / 7.4.1835 again / 9.3.1836 mrs
+                        Brookes (Evans) calls. 
+                        </p><p>Entry of 22.12.1828 was perhaps John Brooks wholesale
+                        stationer 421 Oxford St 1812-1838. Entry of 15.7.1818 was perhaps Brookes,
+                        Son and Dixon bankers 25 Chancery Lane, 1818 (1810 Dawson, Brooks, Son and
+                        Dixon, 1828-41 Dixon, Son and Brooks). From a case of forgery by a 13 year old
+                        errand boy at the Old Bailey on 20.4.1814 the bankers were George and John
+                        Brooks (George Brook(e)s will perhaps PCC 1832 of Leicester Square or PCC
+                        1817 of Twickenham / John Dixon banker of Chancery Lane will PCC 1844 /
+                        Francis Henry Brooks of Chancery Lane will PCC 1857). For the entry of
+                        22.1.1805 possible PCC wills (Caleb Brooks 1808 coal merchant St Marylebone
+                        / Charles Brooks 1809 St Clement Danes / Charles James Brooks 1822 stationer
+                        35 Henry St Pentonville / Charles Thomas Brooks 1823 linendraper St
+                        Marylebone / Cordell Brooks 1842 Boulogne). The four entries of 1832 to 1835
+                        were probably plurals of Brooke (qv) </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

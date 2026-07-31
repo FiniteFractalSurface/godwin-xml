@@ -135,7 +135,7 @@
                                 <persName ref="/people/CUN01.html">A Cunninghm</persName>, <persName
                                 ref="/people/LAN07.html">C Landseer</persName>, <persName
                                 ref="/people/PIC02.html">Picken </persName>&amp;
-                                <persName>Brooke</persName>, <persName>Burns jun<hi rend="sup"
+                                <persName ref="/people/BRO11.html">Brooke</persName>, <persName>Burns jun<hi rend="sup"
                                     >r</hi></persName></seg>. 49 ½ / 54 ½ </ab>
                     <ab type="dDay" xml:id="g1832-01-10"><date when="1832-01-10">10. Tu.</date><ref
                             type="dWrote" subtype="write" target="/works/delo01.html">Deloraine, p.
@@ -382,7 +382,7 @@
                                     <persName ref="/people/LAN08.html">Edwin
                                 Landseer</persName></seg></seg>. <add>\ <persName
                                 ref="/people/FOG01.html">Foggo</persName>,
-                                <persName>Brooke</persName></add>. <ref type="dEvent" subtype="Temp"
+                                    <persName ref="/people/BRO11.html">Brooke</persName></add>. <ref type="dEvent" subtype="Temp"
                             >51 / 53 ½</ref></ab>
                     <ab type="dDay" xml:id="g1832-01-31"><date when="1832-01-31">31. Tu.</date><ref
                             type="dWrote" subtype="write" target="/works/delo01.html">Deloraine, p.
@@ -764,7 +764,7 @@
                                 <persName>Sigmond</persName>, <persName ref="/people/KNO01.html"
                                 >Knowles</persName>, <persName>Wilshen</persName>,
                                     <persName>Emersons</persName>, <persName ref="/people/BRI01.html">Britton</persName>,
-                                <persName>Roscoe</persName>, <persName>Brooke</persName></seg>. <ref
+                                    <persName>Roscoe</persName>, <persName ref="/people/BRO11.html">Brooke</persName></seg>. <ref
                             type="dEvent" subtype="Temp">51 / 57</ref></ab>
                     <ab type="dDay" xml:id="g1832-03-05"><date when="1832-03-05">5. M. </date><ref
                             type="dWrote" subtype="write" target="/works/delo01.html">Deloraine, p.
@@ -851,7 +851,7 @@
                                 ref="/people/CAU01.html">Caunter m</persName>,
                                 <persName>Macallum</persName>, <persName>Thomas</persName>,
                                 <persName ref="/people/LAN09.html">3 Landseers</persName>,
-                                <persName>Brooke</persName> (<persName ref="/people/MAR03.html"
+                                        <persName ref="/people/BRO11.html">Brooke</persName> (<persName ref="/people/MAR03.html"
                                 type="nah">Martin</persName> absent),
                             <persName>Burlowe</persName></seg>. <ref type="dEvent" subtype="Temp">49
                             / 52 ½ </ref></ab>
@@ -1300,7 +1300,7 @@
                                 >prof. Miller</persName>, <persName ref="/people/CAU01.html"
                                 >Caunters</persName>, <persName>Stebbing</persName>, <persName
                                 ref="/people/LAN02.html">Landseer</persName>,
-                                <persName>Thomas</persName>, <persName>Brooke</persName>,
+                                <persName>Thomas</persName>, <persName ref="/people/BRO11.html">Brooke</persName>,
                                 <persName>Wilkins lithog<hi rend="sup">r</hi></persName>,
                                 <persName>York</persName></seg>. <ref type="dEvent" subtype="Temp"
                             >61 / 65 ½</ref></ab>
@@ -2073,7 +2073,7 @@
                                 >Uwinses</persName>, <persName type="nah">Iris </persName><hi
                                 rend="sup">n</hi> (<seg type="dTopic">Sterne &amp; Voltaire</seg>)
                                 <persName>Macroon</persName>, <persName>Thomas</persName>,
-                                <persName>Brookes</persName>, <persName ref="/people/CAU01.html"
+                                    <persName ref="/people/BRO12.html">Brookes</persName>, <persName ref="/people/CAU01.html"
                                 >Caunter,</persName><persName>Stebbing</persName></seg>. <ref
                             type="dEvent" subtype="Temp">65 / 68 ½ </ref></ab>
                     <ab type="dDay" xml:id="g1832-06-26"><date when="1832-06-26">26. Tu.</date><ref
@@ -2506,7 +2506,7 @@
                                 <persName>Wheatsen</persName>, <persName>m<hi rend="sup">lle</hi>
                                 Osborne</persName>, <persName>Emiliani</persName>,
                                 <persName>Regondi</persName>,
-                            <persName>Brookes</persName></seg>.<ref type="dEvent" subtype="Temp"> 65
+                                <persName ref="/people/BRO12.html">Brookes</persName></seg>.<ref type="dEvent" subtype="Temp"> 65
                             ½ / 70</ref></ab>
                     <ab type="dDay" xml:id="g1832-08-07"><date when="1832-08-07">7. Tu.</date><ref
                             type="dWrote" subtype="write" target="/works/delo01.html">Deloraine, p.
@@ -3227,7 +3227,7 @@
                                     >Martin’s</placeName></persName>, w. <persName
                                 ref="/people/LAN07.html">C Landseer</persName>,
                                 <persName>Hanton</persName>, <emph rend="deleted"
-                                >&amp;</emph><persName>Brooke</persName> &amp;
+                                    >&amp;</emph><persName ref="/people/BRO11.html">Brooke</persName> &amp;
                                 <persName>Macfarlane</persName>; <seg type="dMeeting" subtype="Adv"
                                 >adv. <persName ref="/people/CAU01.html">Caunter &amp;
                                         <foreign>femme</foreign></persName></seg></seg>. <ref

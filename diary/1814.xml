@@ -1136,7 +1136,7 @@
                                     type="venue">Place</placeName></persName></seg>: <seg
                             type="dMeal" subtype="TG"><persName ref="/people/POO02.html"
                                 >Poole</persName> at tea</seg>. <seg type="dMeeting" subtype="See"
-                                ><persName>G Brodie</persName>, <seg type="dTopic">from <persName>W
+                                    ><persName ref="/people/BRO08.html">G Brodie</persName>, <seg type="dTopic">from <persName>W
                                     Dawson</persName></seg>, calls</seg>.</ab>
                     <ab type="dDay" xml:id="g1814-03-28"><date when="1814-03-28">28. M.</date><ref
                             type="dText" subtype="read" target="/bibl/te1458.html">Montaigne, p.
@@ -1229,7 +1229,7 @@
                                 ref="/people/CLA03.html">J</persName> &amp; <persName
                                 ref="/people/GOD07.html">W</persName>; <seg type="dMeeting"
                                 subtype="Adv">adv. <persName>Cordry</persName></seg></seg>: <seg
-                            type="dMeeting" subtype="CG"><persName>Brodie</persName>
+                                    type="dMeeting" subtype="CG"><persName ref="/people/BRO07.html">Brodie</persName>
                         calls</seg>.</ab>
                     <ab type="dDay" xml:id="g1814-04-04"><date when="1814-04-04">4. M. </date><ref
                             type="dWrote" subtype="letter">Write to <persName
@@ -1446,7 +1446,7 @@
                                 ><persName ref="/people/CON01.html">Constable</persName></seg>, <seg
                             type="dMeeting" subtype="C"><persName><placeName type="venue"
                                     >Fleming</placeName></persName></seg> &amp; <seg type="dMeeting"
-                            subtype="CG"><persName>Brodie</persName> call</seg>.</ab>
+                                        subtype="CG"><persName ref="/people/BRO07.html">Brodie</persName> call</seg>.</ab>
                     <pb n="e.213_0019v"/>
                     <ab type="dDay" xml:id="g1814-04-24"><date when="1814-04-24">Apr. 24.
                             Su.</date><ref type="dText" subtype="read" target="/bibl/te2191.html"
@@ -1478,7 +1478,7 @@
                             >Lett</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName ref="/people/BAL01.html"><placeName type="venue"
                                     >Ballachey</placeName></persName></seg>: <seg type="dMeal"
-                            subtype="DG"><persName>Brodie</persName> dines</seg>.</ab>
+                                        subtype="DG"><persName ref="/people/BRO07.html">Brodie</persName> dines</seg>.</ab>
                     <ab type="dDay" xml:id="g1814-04-27"><date when="1814-04-27">27. W. </date><ref
                             type="dText" subtype="read" target="/bibl/te2191.html">Coer de Lion, p.
                             10</ref>. <seg type="dMeeting" subtype="C">Call on <persName><placeName

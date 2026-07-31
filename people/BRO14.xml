@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="BRO14" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Timothy</forename>
+                        <surname>Brown</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope: On 6.10.1804 Godwin noted writing to Tim. Brown and on
+                            9.10.1804 got a letter from him and replied. These letters seem very
+                            likely to be the ones in draft or fair copy in Bodleian Abinger c.18
+                            f.37, On one side of the sheet Godwin reminded an old acquaintance of
+                            many agreeable hours passed in his company (Godwin thought in 1794) in
+                            the vicinity of the Strand, and proceeded to ask him for financial help,
+                            which was clearly rejected, (he compared Godwin to a bankrupt who ran
+                            off with another man's wife - see Addington, Philip who was just that)
+                            but Godwin fired off a reply, copied on the other side and dated
+                            9.10.1804. So it seems likely that the Brown Godwin met at Gray's on
+                            24.8.1794 was Timothy Brown, hop merchant of St Mary Hill from 1780,
+                            governor of St Thomas's Hospital, partner in Samuel Whitbread's brewery
+                            1810. James Gray's house was in Lancaster Court, Strand. Timothy Brown
+                            subscribed to Robert Robinson (Eccles Res) 1792 and Winterbotham's
+                            America 1795, Joseph Towers 1796, Thomas Belsham 1800 and joined the
+                            Unitarian Society in 1793. Possibly he was also the prison visitor above
+                            but that seems less likely, Godwin's "many hours" may have been a slight
+                            exaggeration, or Timothy may have been some of the later Brown entries.
+                            See also 19.7.1801 write Tim Brown p2. And see George Cannon DNB
+                            1789-1854, James Baverstock DNB 1741-1815, Richard Fenton DNB
+                            1761/2-1815 and Robert Waithman DNB 1764-1833 for mentions of Brown's
+                            freethinking set at Peckham Lodge c. 1812. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

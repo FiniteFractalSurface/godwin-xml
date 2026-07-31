@@ -1069,7 +1069,7 @@
                             White</placeName></persName></seg>, <seg type="dMeeting" subtype="C"
                                 ><persName ref="/people/CLE02.html"><placeName type="venue">Clennel
                                     engraver</placeName></persName></seg>, &amp; <seg
-                            type="dMeeting" subtype="C"><persName><placeName type="venue"
+                                        type="dMeeting" subtype="C"><persName ref="/people/BRO12.html"><placeName type="venue"
                                     >Brookes</placeName></persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1811-03-28"><date when="1811-03-28">28. Th.</date><ref
                             type="dText" subtype="read" target="/bibl/te0966.html">Maximin, act
@@ -2262,7 +2262,7 @@
                             type="dWrote" subtype="letter">Write to <persName
                                 ref="/people/ARN01.html">Arnot</persName></ref>, <ref type="dWrote"
                                     subtype="letter"><persName ref="/people/BAK10.html">Baker</persName></ref>, <ref type="dWrote"
-                            subtype="letter"><persName>Brodie</persName></ref>, <ref type="dWrote"
+                                        subtype="letter"><persName ref="/people/BRO07.html">Brodie</persName></ref>, <ref type="dWrote"
                             subtype="letter"><persName>Merridew</persName></ref>, <ref type="dWrote"
                                 subtype="letter"><persName ref="/people/BAR18.html">Barrat</persName></ref>, <ref type="dWrote"
                             subtype="letter"><persName>Charnley</persName></ref> &amp; <ref
@@ -3000,7 +3000,7 @@
                                 ref="/people/HUM01.html"><placeName type="venue"
                                 >Hume</placeName></persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1811-09-20"><date when="1811-09-20">20. F.</date><ref
-                            type="dWrote" subtype="letter">Write to <persName>Brodie</persName>,
+                            type="dWrote" subtype="letter">Write to <persName ref="/people/BRO07.html">Brodie</persName>,
                                 <seg type="dTopic">for <persName ref="/people/CLA02.html">C
                                     C</persName></seg></ref>. <ref type="dText" subtype="read"
                             target="/bibl/te1474.html">Defensio Sec., p. 26</ref>. <seg

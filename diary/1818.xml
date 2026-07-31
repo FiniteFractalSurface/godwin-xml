@@ -837,7 +837,7 @@
                             type="dText" subtype="read" target="/bibl/te2576.html">Appius, acts 1,
                             2, 3</ref>. <seg type="dMeeting" subtype="CG"><persName
                                 ref="/people/JON02.html">M Jones</persName></seg> &amp; <seg
-                            type="dMeeting" subtype="CG"><persName>miss E Brown</persName>
+                                    type="dMeeting" subtype="CG"><persName ref="/people/BRO16.html">miss E Brown</persName>
                             call</seg>: <ref type="dEvent" subtype="Lect"
                             target="/events/le0020.html"><seg type="dMeeting" subtype="Do"><persName
                                     ref="/people/HAZ01.html">Hazlit</persName>, w. <persName
@@ -1072,7 +1072,7 @@
                                 ref="/people/HAY02.html">Hayward</persName></seg>, <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/WIL33.html"
                                 >Willats</persName></seg> &amp; <seg type="dMeeting" subtype="CG"
-                                ><persName>Henrietta Brown</persName> call</seg>.</ab>
+                                    ><persName ref="/people/BRO16.html">Henrietta Brown</persName> call</seg>.</ab>
                     <ab type="dDay" xml:id="g1818-04-21"><date when="1818-04-21">21. Tu.</date><ref
                             type="dText" subtype="read" target="/bibl/te2582.html">Nugæ</ref>, <ref
                             type="dText" subtype="read" target="/bibl/te2583.html">Buck</ref>, &amp;
@@ -1830,7 +1830,7 @@
                             30/2</ref>. <ref type="dText" subtype="read" target="/bibl/te1485.html"
                             >Ludlow, p. 670</ref>. <seg type="dMeeting" subtype="CG"
                                 ><persName>Henderson</persName> calls</seg>: <seg type="dMeeting"
-                            subtype="C">call on <persName><placeName type="venue">Brookes,
+                                    subtype="C">call on <persName ref="/people/BRO12.html"><placeName type="venue">Brookes,
                                     banker</placeName></persName></seg>: <seg type="dMeeting"
                             subtype="M">meet <persName ref="/people/OGI01.html"
                             >Ogilvie</persName></seg>: <seg type="dMeeting" subtype="See"><persName

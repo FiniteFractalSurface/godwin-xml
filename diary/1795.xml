@@ -606,7 +606,7 @@
                             >Lauderdale, p. 318, fin</ref>. <seg type="dMeal" subtype="D">Dine at
                                 <persName ref="/people/GER01.html"><placeName type="venue"
                                     >Gerald's</placeName></persName>; <seg type="dMeeting"
-                                subtype="Adv">adv. <persName>Brown</persName></seg></seg>: <seg
+                                        subtype="Adv">adv. <persName ref="/people/BRO13.html">Brown</persName></seg></seg>: <seg
                             type="dMeal" subtype="Ta">tea <persName ref="/people/POW02.html"
                                     ><placeName type="venue">Powel's</placeName></persName>, w.
                                 <persName>Major</persName>, <persName>Walker</persName>, <persName
@@ -975,7 +975,7 @@
                                 >Gerald</placeName></persName>; <seg type="dMeeting" subtype="Adv"
                                 >adv. <persName ref="/people/MAC03.html">Macdonald</persName>,
                                     <persName ref="/people/SCO02.html">Scott</persName>,
-                                    <persName>Brown</persName>, <persName>Bur<emph rend="deleted"
+                                    <persName ref="/people/BRO13.html">Brown</persName>, <persName>Bur<emph rend="deleted"
                                         >don</emph>gh</persName>, <persName>Walker</persName> &amp;
                                     <persName ref="/people/DES01.html">d'Espard jun</persName><hi
                                     rend="sup">r</hi></seg></seg>: <seg type="dMeal" subtype="D"
@@ -1692,7 +1692,7 @@
                                     type="venue">Tooke's</placeName></persName>, w. <persName
                                 ref="/people/VAU99.html">Vaughan</persName>, <persName>J
                                 Williams</persName>, <persName>Walker</persName>,
-                                <persName>Brown</persName>, <persName>Kennedy</persName> &amp;
+                                <persName ref="/people/BRO13.html">Brown</persName>, <persName>Kennedy</persName> &amp;
                                 <persName ref="/people/HEP01.html">Hepburn</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1795-05-04"><date when="1795-05-04">4. M.</date><ref
                             type="dText" subtype="read" target="/bibl/te0571.html">Hermippus, ça
@@ -1874,7 +1874,7 @@
                                     ><placeName type="venue">miss Hayes's</placeName></persName>, w.
                                 <persName ref="/people/FRE01.html">Frend</persName>, <persName
                                 ref="/people/DYE01.html">Dyer</persName>,
-                            <persName>Brown</persName>, <persName>Brooke</persName>, &amp;c.; talk
+                                        <persName ref="/people/BRO15.html">Brown</persName>, <persName ref="/people/BRO09.html">Brooke</persName>, &amp;c.; talk
                             of <seg type="dTopic">God</seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1795-05-15"><date when="1795-05-15">15. F.</date><ref
                             type="dWrote" subtype="write" target="/works/poli01.html">Write 3
@@ -2596,7 +2596,7 @@
                                     type="venue">Mackintosh</placeName></persName> nah</seg>, <seg
                             type="dMeeting" subtype="C"><persName ref="/people/FOU01.html"
                                 type="nah"><placeName type="venue">Foulkes</placeName></persName>
-                            nah </seg>, <seg type="dMeeting" subtype="C"><persName><placeName
+                                        nah </seg>, <seg type="dMeeting" subtype="C"><persName ref="/people/BRO15.html"><placeName
                                     type="venue">mrs Brown</placeName></persName></seg>, &amp; <seg
                             type="dMeeting" subtype="C"><persName ref="/people/INC01.html"
                                     ><placeName type="venue">Inchbald</placeName></persName></seg>:
@@ -2969,7 +2969,7 @@
                                 >King's</placeName></persName>, w. <persName
                                 ref="/people/WOL02.html">Wolcot</persName>, <emph rend="deleted"
                                 >&amp; </emph><persName>m<hi rend="sup">es</hi> Gardners</persName>,
-                            &amp; <persName>Brown</persName>; <ref type="dEvent" subtype="PersEvent"
+                            &amp; <persName ref="/people/BRO13.html">Brown</persName>; <ref type="dEvent" subtype="PersEvent"
                                 target="/events/pe0001.html">retort</ref>.</seg><seg type="dMeeting"
                             subtype="CG"><persName ref="/people/WOR01.html"
                             >Wordsworth</persName></seg> &amp; <seg type="dMeeting" subtype="CG"
@@ -3655,7 +3655,7 @@
                             type="dMeeting" subtype="C">call on <persName ref="/people/KNI02.html"
                                     ><placeName type="venue">Knight</placeName></persName>, <seg
                                 type="dMeeting" subtype="Adv">adv.
-                            <persName>Brown</persName></seg></seg>: <seg type="dMeal" subtype="D"
+                                        <persName ref="/people/BRO15.html">Brown</persName></seg></seg>: <seg type="dMeal" subtype="D"
                             >dine at <persName ref="/people/HOL01.html"><placeName type="venue"
                                     >Hts</placeName></persName>, w. <persName
                                 ref="/people/POR01.html">Porson</persName>, <persName
@@ -4273,7 +4273,7 @@
                             subtype="Ta">tea <persName ref="/people/HAY01.html"><placeName
                                     type="venue">miss Hayes's</placeName></persName>, w. <persName
                                 ref="/people/HOL01.html">Ht </persName>&amp;
-                                <persName>Brown</persName>; talk of <seg type="dTopic">causes</seg>,
+                                    <persName ref="/people/BRO15.html">Brown</persName>; talk of <seg type="dTopic">causes</seg>,
                             &amp;c</seg>: <seg type="dMeal" subtype="S">sup at <persName
                                 ref="/people/FOU01.html"><placeName type="venue"
                                     >Foulkes's</placeName></persName></seg>.</ab>

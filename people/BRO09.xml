@@ -10,7 +10,7 @@
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by</resp>
-                    <name/>
+                    <name></name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -24,39 +24,32 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="MER07" sex="2">
+                <person xml:id="BRO09" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>Elizabeth Benigna</forename>
-                        <surname>Mercier</surname>
+                        <forename>John Moore</forename>
+                        <surname>Brooke</surname>
                         <addName/>
                     </persName>
-                    <birth when="1000-01-01">
+                    <birth when="1757-06-10">
                         <placeName/>
                     </birth>
                     <death when="1000-12-31"/>
-                    <occupation>OCCUPATION</occupation>
+                    <occupation>Clergyman</occupation>
                     <note type="editorial">
-                        <p>Including E Mercier aand B mercier. See Ed Pope: See also Mercier, B
-                            which could have been the same person. Elizabeth Benigna Mercier =
-                            Daniel Dowling 1814 St Pancras. Dowling was an Irish schoolmaster and
-                            author of books on mathematics. He was bankrupt at Devonshire-st
-                            Queen-sq in 1813, then master of Mansion House Academy, Highgate till
-                            1818, moved to Upper Mall Hammersmith, and to Dublin by 1838. Their
-                            daughter Fanny Elizabeth died 1828 age 13. Charles Hutton son of Daniel
-                            and Elizabeth Dowling bapt St Pancras 1822. Her second entry above is the
-                            eve of Louisa Mercier's wedding to Holcroft. See also Marshall, Mrs for
-                            EM entries in 1804 and 1806. </p>
+                        <p> We thgink this may be the son of Frances Brooke whose death Godwin notes in 1789. 
+                        We have no basis for identifying the Brooke of 1809.</p>
                     </note>
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
                         Publisher, year</bibl>
                     <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
                     <bibl type="other">
-                        <title/>
+                        <title></title>
                     </bibl>
                 </person>
             </listPerson>
         </body>
     </text>
 </TEI>
+

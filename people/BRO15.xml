@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="BRO15" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Michael</forename>
+                        <surname>Brown</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1818"/>
+                    <occupation>Clergyman</occupation>
+                    <note type="editorial">
+                        <p> See Ed Pope: there was another set of Browns who look like having been
+                            one person, because he was 4 times at Mary Hays'. The first time he was
+                            there with Dyer, who had been with Brown at Newgate on 24.10.1794, so
+                            one might guess he was the same person as the prison visitor. But there
+                            was another Brown more likely to have been a regular at miss Hays and
+                            that was Michael Brown, pastor and friend to her and her family (M
+                            Brooks, Correspondence of Mary Hays) He was buried at Maze Pond Baptist
+                            chapel 30.1.1818 age 72 of Gedling St and the will PCC 1818 of Rev
+                            Michael Brown of 15 Gedling St Bermondsey mentioned his wife Charlotte,
+                            her son Michael and daughter Elizabeth (Mrs Howard) dated 7,12,1816. But
+                            Mary Hays also corresponded with Robert Robinson DNB 1735-1790 and with
+                            his daughter Mary (or Maria Josepha) who married Samuel Brown, wine
+                            merchant of Love Lane, Eastcheap. Samuel Brown was buried at Bunhill
+                            Fields 28.2.1823 age 74 and his wife was buried there 22.6.1827 age 61,
+                            both of St Mary Hill so perhaps connected to Timothy Brown. Another
+                            Brown connected to Mary Hays was Stephen Weever Browne (qv) who appeared
+                            in Godwin's diary on 3.12.1797.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

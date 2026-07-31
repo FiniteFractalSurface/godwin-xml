@@ -1190,7 +1190,7 @@
                             target="/bibl/te2302.html">Funeral Sermon for Observator, pp.
                         28</ref>.</ab>
                     <ab type="dDay" xml:id="g1815-05-08"><date when="1815-05-08">8. M.</date><seg
-                            type="dMeeting" subtype="Sk">Seek <persName>Brookes</persName></seg>:
+                            type="dMeeting" subtype="Sk">Seek <persName ref="/people/BRO12.html">Brookes</persName></seg>:
                             <seg type="dMeeting" subtype="C">call on <persName
                                 ref="/people/LON02.html"><placeName type="venue"
                                 >Longman</placeName></persName></seg>.</ab>
@@ -1198,7 +1198,7 @@
                             type="dWrote" subtype="letter">Write to <persName
                                 ref="/people/BUR06.html">Burney</persName></ref>. <seg
                             type="dMeeting" subtype="Sk">Seek <persName>Silver</persName></seg>
-                        &amp; <seg type="dMeeting" subtype="Sk"><persName>Brookes</persName></seg>:
+                        &amp; <seg type="dMeeting" subtype="Sk"><persName ref="/people/BRO12.html">Brookes</persName></seg>:
                             <seg type="dMeeting" subtype="C">call on <persName
                                 ref="/people/POO02.html"><placeName type="venue"
                                 >Poole</placeName></persName></seg> &amp; <seg type="dMeeting"
@@ -1620,7 +1620,7 @@
                             type="dMeeting" subtype="C">call on <persName><placeName type="venue"
                                     >Blacket</placeName></persName></seg>: <seg type="dMeeting"
                             subtype="Sk">seek <persName>Silver</persName></seg> &amp; <seg
-                            type="dMeeting" subtype="Sk"><persName>Brookes</persName></seg>.</ab>
+                                type="dMeeting" subtype="Sk"><persName ref="/people/BRO12.html">Brookes</persName></seg>.</ab>
                 </div>
                 <div type="dMonth" xml:id="g1815-07">
                     <ab type="dDay" xml:id="g1815-07-01"><date when="1815-07-01">July 1.
@@ -2228,7 +2228,7 @@
                             subtype="C"><persName><placeName type="venue"
                                 >Richards</placeName></persName></seg>: <seg type="dMeeting"
                             subtype="Sk">seek <persName>Thomson</persName></seg>, <seg
-                            type="dMeeting" subtype="Sk"><persName>Brookes</persName></seg>, <seg
+                                type="dMeeting" subtype="Sk"><persName ref="/people/BRO12.html">Brookes</persName></seg>, <seg
                             type="dMeeting" subtype="Sk"><persName ref="/people/DAV01.html"
                                 >Davison</persName></seg>, <seg type="dMeeting" subtype="Sk"
                                 ><persName>Silver</persName></seg> &amp; <seg type="dMeeting"
@@ -2250,7 +2250,7 @@
                                     <persName><placeName type="venue"
                             >Wishart</placeName></persName></seg>: <seg type="dMeeting" subtype="Sk"
                             >seek <persName ref="/people/LAM03.html">Lambert</persName></seg>, <seg
-                            type="dMeeting" subtype="Sk"><persName>Brookes</persName></seg>, <seg
+                                type="dMeeting" subtype="Sk"><persName ref="/people/BRO12.html">Brookes</persName></seg>, <seg
                             type="dMeeting" subtype="Sk"><persName>Silver</persName></seg> &amp;
                             <seg type="dMeeting" subtype="Sk"
                                 ><persName ref="/people/FAU03.html">Faulder</persName></seg>.</ab>

@@ -89,12 +89,12 @@
                             type="dText" subtype="read" target="/bibl/te1964.html">Persiles, p.
                             399</ref>. <seg type="dMeeting" subtype="CG"><persName
                                 ref="/people/MOR08.html">Morgan</persName></seg> &amp; <seg
-                            type="dMeeting" subtype="CG"><persName type="nah">Brookes j<hi
+                                    type="dMeeting" subtype="CG"><persName ref="/people/BRO12.html" type="nah">Brookes j<hi
                                     rend="sup">r</hi></persName><hi rend="sup">na</hi> call</seg>:
                             <seg type="dMeeting" subtype="C">call on <persName
                                 ref="/people/PLA02.html"><placeName type="venue"
                                 >Place</placeName></persName></seg> &amp; <seg type="dMeeting"
-                            subtype="C"><persName type="nah"><placeName type="venue"
+                                    subtype="C"><persName ref="/people/BRO12.html" type="nah"><placeName type="venue"
                                     >Brookes</placeName></persName>. <hi rend="sup"
                         >na</hi></seg></ab>
                     <ab type="dDay" xml:id="g1813-01-07"><date when="1813-01-07">7. Th.</date><ref

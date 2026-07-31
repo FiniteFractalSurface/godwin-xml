@@ -24,36 +24,36 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="MER07" sex="2">
+                <person xml:id="BRO08" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>Elizabeth Benigna</forename>
-                        <surname>Mercier</surname>
+                        <forename>George</forename>
+                        <surname>Brodie</surname>
                         <addName/>
                     </persName>
-                    <birth when="1000-01-01">
+                    <birth when="1786">
                         <placeName/>
                     </birth>
-                    <death when="1000-12-31"/>
-                    <occupation>OCCUPATION</occupation>
+                    <death when="1867"/>
+                    <occupation>Historian</occupation>
                     <note type="editorial">
-                        <p>Including E Mercier aand B mercier. See Ed Pope: See also Mercier, B
-                            which could have been the same person. Elizabeth Benigna Mercier =
-                            Daniel Dowling 1814 St Pancras. Dowling was an Irish schoolmaster and
-                            author of books on mathematics. He was bankrupt at Devonshire-st
-                            Queen-sq in 1813, then master of Mansion House Academy, Highgate till
-                            1818, moved to Upper Mall Hammersmith, and to Dublin by 1838. Their
-                            daughter Fanny Elizabeth died 1828 age 13. Charles Hutton son of Daniel
-                            and Elizabeth Dowling bapt St Pancras 1822. Her second entry above is the
-                            eve of Louisa Mercier's wedding to Holcroft. See also Marshall, Mrs for
-                            EM entries in 1804 and 1806. </p>
+                        <p>Godwin distinguishes a few entries in fair number to 'Brodie', which we
+                            have mostly attributed to Eilliam Bird Brodie the Salisbury bookseller
+                            and MP, to 'G. Brodie.' This looks likely to be George Brodie the
+                            historian of the History of the British Empire from Accession of Charles
+                            I to Restoration' - a topic close to Godwin's interests in the
+                            Commonwealth, and he can be seen reading the book in 1822 and (we
+                            judge), then writing to G. Brodie (in 1822 and 1823) who was based in
+                            Scotland (for at least some time - he moved to London at some point only
+                            after his marriage in 1823), to relay his views. </p><p>There is a
+                            brither, Alexander Brodie (1785-1858), who wrote a history of the Roman
+                            Republic, but we think was not resident in England.</p>
                     </note>
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
                         Publisher, year</bibl>
                     <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
-                    <bibl type="other">
-                        <title/>
+                    <bibl type="other"> ODNB <title/>
                     </bibl>
                 </person>
             </listPerson>

@@ -298,7 +298,7 @@
                                 subtype="Ta">tea <persName ref="/people/HAY01.html"><placeName
                                         type="venue">Hayes's</placeName></persName>, w.
                                     <persName>Draper</persName> &amp;
-                                <persName>Brown</persName></seg>: <seg type="dMeeting" subtype="M"
+                                            <persName ref="/people/BRO15.html">Brown</persName></seg>: <seg type="dMeeting" subtype="M"
                                 >meet <persName ref="/people/LEW02.html">Lewis</persName> cg </seg>.
                                 <ref type="dText" subtype="letterRecvd">[Letter from
                                     <persName>Westley</persName></ref></emph></ab>
@@ -2597,7 +2597,7 @@
                                 ref="/people/HAY01.html"><placeName type="venue"
                                 >Hayes's</placeName></persName>, w. <persName
                                 ref="/people/WOL01.html">Wolstencraft</persName>, <persName
-                                ref="/people/ALD02.html">A A</persName>, <persName>Brown</persName>,
+                                    ref="/people/ALD02.html">A A</persName>, <persName ref="/people/BRO15.html">Brown</persName>,
                                 <persName ref="/people/TOO02.html">Tookes</persName> &amp; <persName
                                 ref="/people/HAY01.html">Hayes's</persName></seg>: <seg type="dMeal"
                             subtype="BG"><persName ref="/people/SMI01.html">Smith</persName>
