@@ -2361,7 +2361,7 @@
                         ref="/people/MAR01.html">M</persName>, <persName ref="/people/PIN02.html">A
                            P </persName>&amp; <persName  ref="/people/WIL34.html">Cha Willis</persName> dine; <seg
                         type="dMeeting" subtype="Adv">adv. <persName ref="/people/FEN03.html">mes
-                           Fenwick </persName> &amp; <persName>Braddock</persName></seg></seg>: <seg
+                           Fenwick </persName> &amp; <persName ref="/people/BRA02.html">Braddock</persName></seg></seg>: <seg
                      type="dMeeting" subtype="CG"><persName ref="/people/ADD11.html"
                         >Addington</persName> calls</seg>.</ab>
                <ab type="dDay" xml:id="g1797-07-17"><date when="1797-07-17">17. M.</date><ref
@@ -2562,7 +2562,7 @@
                      >Gregory's Comparative View, p. 82</ref>. <seg type="dMeeting" subtype="C">Call
                      on <persName ref="/people/PIN02.html"><placeName type="venue">A
                         P</placeName></persName></seg>. <seg type="dMeal" subtype="TG"><persName
-                        ref="/people/FEN01|FEN03.html">Fenwicks</persName> &amp; <persName>E
+                              ref="/people/FEN01|FEN03.html">Fenwicks</persName> &amp; <persName ref="/people/BRA02.html">E
                         Braddock</persName> at tea</seg>. <ref type="dText" subtype="read"
                      target="/bibl/te0776.html">Rhadamiste, act 1</ref>.</ab>
                <ab type="dDay" xml:id="g1797-08-08"><date when="1797-08-08">8. Tu.</date><ref
@@ -3264,7 +3264,7 @@
                      type="dMeeting" subtype="C">Call on <persName ref="/people/FEN01.html"
                            ><placeName type="venue">Fenwick</placeName></persName>; <seg
                         type="dMeeting" subtype="Adv">adv. <persName ref="/people/HAY01.html">M Hays
-                        </persName>&amp; <persName>E Braddock</persName></seg></seg>: <seg
+                        </persName>&amp; <persName ref="/people/BRA02.html">E Braddock</persName></seg></seg>: <seg
                      type="dMeeting" subtype="CG"><persName>Stirley</persName> calls</seg>.</ab>
                <ab type="dDay" xml:id="g1797-10-27"><date when="1797-10-27">27. F.</date><ref
                      type="dText" subtype="read" target="/bibl/te0786.html">I's Letters</ref>. <seg
@@ -3480,7 +3480,7 @@
                         ref="/people/JON02.html">M J</persName>, <persName ref="/people/JON01.html"
                         >L J</persName>, <persName ref="/people/DYS01.html">Dyson</persName>,
                         <persName ref="/people/FEN01|FEN03.html"> Fenwicks</persName> &amp;
-                        <persName>Braddock</persName>; <seg type="dMeeting" subtype="Adv">adv.
+                           <persName ref="/people/BRA02.html">Braddock</persName>; <seg type="dMeeting" subtype="Adv">adv.
                            <persName ref="/people/ADD11.html">Addington</persName></seg></seg>.
                         <add><ref type="dEvent" subtype="Weath">snow</ref></add></ab>
                <ab type="dDay" xml:id="g1797-11-20"><date when="1797-11-20">20. M.</date><ref
@@ -3787,7 +3787,7 @@
                      type="dText" subtype="read" target="/bibl/te0803.html">Love Triumphant,
                      fin</ref>. <seg type="dMeal" subtype="DG"><persName
                         ref="/people/FEN01|FEN03.html">Fenwicks</persName> dine; <seg
-                        type="dMeeting" subtype="Adv">adv. <persName>E
+                           type="dMeeting" subtype="Adv">adv. <persName ref="/people/BRA02.html">E
                      Braddock</persName></seg></seg>.</ab>
                <ab type="dDay" xml:id="g1797-12-22"><date when="1797-12-22">22. F.</date><ref
                      type="dWrote" subtype="write" target="/works/anto01.html"> Alonzo, p. 26,

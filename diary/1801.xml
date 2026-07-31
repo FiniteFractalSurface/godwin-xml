@@ -936,7 +936,7 @@
                             at <persName ref="/people/CAR01.html"><placeName type="venue"
                                     >Carlisle's</placeName></persName>, w. <persName
                                 ref="/people/PLU02.html">B Plumptre</persName> &amp;
-                                <persName>Bloxam</persName></seg>.</ab>
+                                    <persName ref="/people/BLO02.html">Bloxam</persName></seg>.</ab>
                 </div>
                 <div type="dMonth" xml:id="g1801-04">
                     <ab type="dDay" xml:id="g1801-04-01"><date when="1801-04-01"> Apr. 1.
@@ -2358,7 +2358,7 @@
                                 rend="sup">e</hi> I, p. 26</ref>. <seg type="dMeal" subtype="D">Dine
                             at <persName ref="/people/CAR01.html"><placeName type="venue"
                                     >Carlisle's</placeName></persName>, w.
-                                <persName>Bloxam</persName>, <persName>miss Cruickshank</persName>
+                                    <persName ref="/people/BLO02.html">Bloxam</persName>, <persName>miss Cruickshank</persName>
                             &amp; <persName ref="/people/PLU01.html">A
                         Plumptre</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1801-08-05"><date when="1801-08-05">5. W.</date><seg
@@ -3285,7 +3285,7 @@
                             type="dText" subtype="read" target="/bibl/te1308.html">Petrarque, p.
                             230</ref>. <ref type="dWrote" subtype="letter">Write to <persName
                                 ref="/people/DOU01.html">Douce</persName></ref>. <seg
-                            type="dMeeting" subtype="CG"><persName>E W Brayley</persName>
+                                    type="dMeeting" subtype="CG"><persName ref="/people/BRA05.html">E W Brayley</persName>
                             calls</seg>.</ab>
                     <ab type="dDay" xml:id="g1801-11-04"><date when="1801-11-04">4. W. </date><ref
                             type="dWrote" subtype="write" target="/works/chau01.html">Write Chaucer,

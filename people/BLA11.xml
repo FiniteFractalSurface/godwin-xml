@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="BLA11" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Hugh</forename>
+                        <surname>Blair</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1718">
+                        <placeName/>
+                    </birth>
+                    <death when="1800"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's suggestion: Most likely Hugh Blair DNB 1718-1800 though I
+                            have no evidence he was in London at this time; or less likely William
+                            Blair DNB 1766-1822 surgeon and methodist. It needs to be someone famous
+                            enough to talk about and include in the 1796 list. The later Blair from
+                            16.1.1794 at Richard Johnson's (see Blair, Alexander) was a relative of
+                            the host and unlikely to have been this Blair. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -33,7 +33,7 @@
                                 ref="/people/WOL02.html">Wolcot</persName>, <persName
                                 ref="/people/AIK01.html">Aikin</persName>, <persName
                                 ref="/people/HOL01.html">Ht</persName>, <persName>Steven</persName>,
-                                <persName>Bradley</persName>, <persName ref="/people/BUS01.html"
+                                <persName ref="/people/BRA03.html">Bradley</persName>, <persName ref="/people/BUS01.html"
                                 >Busby</persName>, <persName>Skinner</persName> &amp;
                                 <persName>Owen</persName>; <seg type="dMeeting" subtype="Adv">adv.
                                     <persName ref="/people/REI01.html"
@@ -281,7 +281,7 @@
                                     type="venue">Philips</placeName></persName>; <seg
                                 type="dMeeting" subtype="Adv">adv. <persName
                                     ref="/people/HUR01.html">Hurst</persName> &amp;
-                                    <persName>Britton</persName></seg></seg>: <seg type="dMeeting"
+                                        <persName ref="/people/BRI01.html">Britton</persName></seg></seg>: <seg type="dMeeting"
                             subtype="C">call on <persName ref="/people/VAN01.html"><placeName
                                     type="venue">Vandersee</placeName></persName>,
                                 <placeName>Exchequer Office</placeName></seg>: <ref
@@ -1319,7 +1319,7 @@
                                     >Boaden</persName>, <persName ref="/people/TAY01.html">J
                                     Taylor</persName>, <persName ref="/people/ALD02.html">A
                                     Opie</persName>, <persName ref="/people/BAT01.html"
-                                    >Batty</persName>, <persName>Britton</persName> &amp;
+                                        >Batty</persName>, <persName ref="/people/BRI01.html">Britton</persName> &amp;
                                     <persName>4 Smiths</persName></seg></ref>: <seg type="dMeal"
                             subtype="S">sup at <persName ref="/people/HOL03.html"><placeName
                                     type="venue">J Hollis's</placeName></persName></seg>.</ab>

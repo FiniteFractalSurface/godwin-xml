@@ -1046,7 +1046,7 @@
                             <seg type="dMeeting" subtype="See"><persName ref="/people/MAC04.html"
                                 >Macmillan</persName></seg>, <seg type="dMeeting" subtype="See"
                                 ><persName ref="/people/CUR03.html">Curtis</persName></seg>, <seg
-                            type="dMeeting" subtype="See"><persName>Bonsor</persName></seg>, <seg
+                                    type="dMeeting" subtype="See"><persName ref="/people/BON07.html">Bonsor</persName></seg>, <seg
                             type="dMeeting" subtype="See"><persName ref="/people/TAY06.html">R
                                 Taylor</persName></seg>, <seg type="dMeeting" subtype="See"
                                 ><persName ref="/people/DAV01.html">Davison</persName></seg>, <seg
@@ -1249,7 +1249,7 @@
                                 >Northcote</placeName></persName><hi rend="sup">n</hi></seg>
                             &amp;<seg type="dMeeting" subtype="C"><persName ref="/people/TAY01.html"
                                     ><placeName type="venue">J Taylor</placeName></persName></seg>:
-                            <seg type="dMeeting" subtype="M">meet <persName>Black</persName></seg>:
+                        <seg type="dMeeting" subtype="M">meet <persName ref="/people/BLA10.html">Black</persName></seg>:
                             <seg type="dMeal" subtype="DG"><persName>H M</persName>
                         dines</seg>.</ab>
                     <ab type="dDay" xml:id="g1825-04-26"><date when="1825-04-26">26. Tu.</date><seg
@@ -1613,7 +1613,7 @@
                             type="dWrote" subtype="write" target="/works/comm01.html">Commonwealth,
                             p. 429/2</ref>. <ref type="dText" subtype="read"
                             target="/bibl/te2828.html">Bandello, p. 254</ref>. <seg type="dMeeting"
-                            subtype="C">Call on <persName><placeName type="venue"
+                                subtype="C">Call on <persName ref="/people/BON07.html"><placeName type="venue"
                                 >Bonsor</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName ref="/people/TAY06.html" type="nah"><placeName
                                     type="venue">R Taylor </placeName></persName><hi rend="sup"
@@ -2487,7 +2487,7 @@
                                 People</ref></ref>. <seg type="dMeeting" subtype="CG"><persName
                                 ref="/people/WHI06.html">White <placeName type="venue">(Islew<hi
                                         rend="sup">th</hi></placeName></persName> calls</seg>: <seg
-                            type="dMeeting" subtype="M">meet <persName>Black</persName></seg> &amp;
+                                            type="dMeeting" subtype="M">meet <persName ref="/people/BLA10.html">Black</persName></seg> &amp;
                             <seg type="dMeeting" subtype="M"><persName ref="/people/MON01.html">B
                                 Montagu</persName></seg>:<seg type="dMeal" subtype="DG"><persName
                                 ref="/people/SHE02.html">M W S</persName> dines; <seg
@@ -2581,7 +2581,7 @@
                     <ab type="dDay" xml:id="g1825-09-07"><date when="1825-09-07">7. W. </date><ref
                             type="dWrote" subtype="write" target="/works/comm01.html">Commonwealth,
                             p. 510/2</ref>. <seg type="dMeeting" subtype="Sk">Seek
-                                <persName>Black</persName></seg>: <seg type="dMeeting" subtype="C"
+                                <persName ref="/people/BLA10.html">Black</persName></seg>: <seg type="dMeeting" subtype="C"
                             >call on <persName ref="/people/GOD07.html"><placeName type="venue"
                                     >W</placeName></persName> (<placeName>King Street,
                                 Soho</placeName>)</seg>, <seg type="dMeeting" subtype="C"><persName
@@ -2951,7 +2951,7 @@
                                 ref="/people/NOR01.html"><placeName type="venue"
                                     >Northcote</placeName></persName>; <seg type="dMeeting"
                                 subtype="Adv">adv. <persName>Sr W Poole</persName></seg></seg>: <seg
-                            type="dMeeting" subtype="M">meet <persName>Black</persName></seg>: <seg
+                                    type="dMeeting" subtype="M">meet <persName ref="/people/BLA10.html">Black</persName></seg>: <seg
                             type="dMeal" subtype="DG"><persName ref="/people/SHE02.html">M W
                                 S</persName> dines; <seg type="dMeeting" subtype="Adv">adv.
                                     <persName ref="/people/GOD07.html"

@@ -671,7 +671,7 @@
                             Su.</date><ref type="dText" subtype="read" target="/bibl/te1752.html"
                             >Buchanan, p. 275</ref>. <seg type="dMeeting" subtype="CG"><persName
                                 ref="/people/GRA01.html">Grattan</persName></seg> &amp; <seg
-                            type="dMeeting" subtype="CG"><persName>E Mercier</persName> call</seg>:
+                                    type="dMeeting" subtype="CG"><persName ref="/people/MER07.html">E Mercier</persName> call</seg>:
                             <seg type="dMeeting" subtype="C">call on <persName
                                 ref="/people/HOL01.html"><placeName type="venue"
                                 >Ht</placeName></persName>; <seg type="dMeeting" subtype="Adv">adv.
@@ -885,7 +885,7 @@
                             type="dMeal" subtype="S">sup at <persName ref="/people/HOL05.html"
                                     ><placeName type="venue">L Ht’s</placeName></persName>, w.
                                 <persName ref="/people/CLA01.html">M J</persName>; <seg
-                                type="dMeeting" subtype="Adv">adv. <persName>E M<hi rend="sup"
+                                    type="dMeeting" subtype="Adv">adv. <persName ref="/people/MER07.html">E M<hi rend="sup"
                                         >r</hi></persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1809-04-04"><date when="1809-04-04">4. Tu.</date><ref
                             type="dWrote" subtype="write" target="/works/rome02.html">Rome, p.
@@ -1016,8 +1016,8 @@
                                     >Thelwal’s</placeName></persName>, w. <persName
                                 ref="/people/NIC01.html">Nicholson</persName>, <persName
                                 ref="/people/WOL02.html">Wolcot</persName>,
-                                <persName>Mortimer</persName>, <persName>Soane</persName>,
-                                <persName>Brittons</persName> &amp; <persName>miss
+                                    <persName>Mortimer</persName>, <persName ref="/people/SOA01.html">Soane</persName>,
+                                    <persName ref="/people/BRI01.html">Brittons</persName> &amp; <persName>miss
                             Pate</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1809-04-14"><date when="1809-04-14">14. F.</date><seg
                             type="dMeeting" subtype="C">Call on <persName ref="/people/ROB99.html"
@@ -1498,7 +1498,7 @@
                             Su.</date><ref type="dWrote" subtype="write" target="/works/rome02.html"
                             >Rome, p. 120</ref>. <seg type="dMeal" subtype="SG"><seg type="dMeal"
                                 subtype="TG"><persName ref="/people/HOL05.html">L Ht</persName>
-                                &amp; <persName>E Mercier</persName> at tea &amp; sup; <seg
+                                    &amp; <persName ref="/people/MER07.html">E Mercier</persName> at tea &amp; sup; <seg
                                     type="dMeeting" subtype="Adv">adv. <persName
                                         ref="/people/HAZ01.html"
                         >Hazlit</persName></seg></seg></seg>.</ab>
@@ -1630,7 +1630,7 @@
                             Su.</date><ref type="dWrote" subtype="write" target="/works/myli01.html"
                             >Preface to Dictionary, pp. 5</ref>. <seg type="dMeal" subtype="DG"
                                 ><persName ref="/people/HOL05.html">L Ht</persName> &amp;
-                                <persName>E Mercier</persName> dine</seg>: <seg type="dMeeting"
+                                <persName ref="/people/MER07.html">E Mercier</persName> dine</seg>: <seg type="dMeeting"
                             subtype="CG"><persName ref="/people/GOD02.html">Jo G</persName>
                             calls</seg>.</ab>
                     <ab type="dDay" xml:id="g1809-06-12"><date when="1809-06-12">12. M.</date><ref
@@ -2719,7 +2719,7 @@
                                     >Wilmot</placeName></persName></seg>, <seg type="dMeeting"
                                         subtype="C"><persName ref="/people/ARC10.html"><placeName type="venue"
                                 >Arch</placeName></persName></seg>, <seg type="dMeeting" subtype="C"
-                                    ><persName><placeName type="venue"
+                                    ><persName ref="/people/BLA10.html"><placeName type="venue"
                             >Black</placeName></persName></seg>, <seg type="dMeeting" subtype="C"
                                     ><persName><placeName type="venue"
                             >Newman</placeName></persName></seg>, <seg type="dMeeting" subtype="C"
@@ -3195,7 +3195,7 @@
                                     ><placeName type="venue">Longdil</placeName></persName></seg>,
                             <seg type="dMeeting" subtype="C"><persName><placeName type="venue"
                                     >Ward</placeName></persName></seg> &amp; <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                        subtype="C"><persName ref="/people/BRA04.html"><placeName type="venue"
                                 >Branston</placeName></persName></seg>: <seg type="dMeeting"
                             subtype="CG"><persName ref="/people/GOD02.html">Jo G</persName></seg>
                         &amp; <seg type="dMeeting" subtype="CG"><persName ref="/people/TUR01.html">T
@@ -3328,7 +3328,7 @@
                                     >Richardsons</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName><placeName type="venue"
                                 >Boosey</placeName></persName></seg>, <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                    subtype="C"><persName ref="/people/BLA10.html"><placeName type="venue"
                                 >Black</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName><placeName type="venue"
                                 >Whitrow</placeName></persName></seg>, <seg type="dMeeting"
@@ -3442,7 +3442,7 @@
                             type="dWrote" subtype="letter">Write to <persName
                                 ref="/people/SMI03.html">Smirke</persName></ref>. <ref type="dText"
                             subtype="read" target="/bibl/te1770.html">Galindo, pp. 80</ref>. <seg
-                            type="dMeeting" subtype="C">Call on <persName><placeName type="venue"
+                                type="dMeeting" subtype="C">Call on <persName ref="/people/BRA04.html"><placeName type="venue"
                                     >Branston</placeName></persName></seg> &amp; <seg
                             type="dMeeting" subtype="C"><persName><placeName type="venue"
                                     >Rhodes</placeName></persName></seg>: <seg type="dMeeting"
@@ -3571,7 +3571,7 @@
                             F.</date><seg type="dMeeting" subtype="C">Call on <persName
                                 ref="/people/LEW02.html" type="nah"><placeName type="venue"
                                     >Lewis</placeName></persName><hi rend="sup">n</hi></seg> &amp;
-                            <seg type="dMeeting" subtype="C"><persName><placeName type="venue"
+                        <seg type="dMeeting" subtype="C"><persName ref="/people/BRA04.html"><placeName type="venue"
                                     >Branston</placeName></persName></seg>: <seg type="dMeeting"
                             subtype="CG"><persName ref="/people/GOD15.html">M Bailey</persName>
                             calls</seg>: <seg type="dMeal" subtype="SG"><persName

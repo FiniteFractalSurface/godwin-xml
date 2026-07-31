@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="BRA04" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Robert</forename>
+                        <surname>Branston/Bramston</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1778">
+                        <placeName/>
+                    </birth>
+                    <death when="1827"/>
+                    <occupation>Engraver</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope: Branston was probably Robert Branston 1778-1827 in DNB
+                            Branston family, engravers, who perhaps made some wood engravings for
+                            the Godwins' Juvenile Library. His address in Holdens directory 1811 was
+                            East India Chambers, Leadenhall-st. The only other Branstons in London
+                            in Holdens 1811 were a baronet, an Esq, a Mrs, a shoemaker and a
+                            cabinetmaker. In the following list, we have included all Bramston
+                            entries in square brackets in case this was Godwin's spelling mistake.
+                            The only Bramstons in London in Holdens 1811 were a barrister John
+                            Bramston, and John William Simcoe Bramston 1758-1818 of Somerset-pl,
+                            Auditor of the Duchy of Lancaster and Commissioner of Appeals in the
+                            Excise. </p>
+                        <p>24.9.1808 Branston calls / 25.9.1808 call on Branston / 27.10.1808 again
+                            / 28.10.1808 Branston calls / [31.10.1808 call on Bramston] / 16.11.1808
+                            call on Branston / 21.11.1808 again / 24.11.1808 Branston calls /
+                            25.11.1808 again / 28.11.1808 call on Branston, w. T(homas) T(urner) /
+                            1.12.1808 Branston calls / 2.12.1808 Branston calls (not seen) /
+                            6.12.1808 call on Branston / 7.12.1808 Branston calls / 10.12.1808 call
+                            on Branston / 7.11.1809 call on Branston / 22.11.1809 again / 1.12.1809
+                            again / 26.3.1811 Branston calls (not seen) / 3.4.1811 Branston calls /
+                            [22.3.1814 call on Rodd; adv. Bramston] / [29.4.1814 call on Bramston,
+                            w. T R(od)d]</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

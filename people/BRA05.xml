@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="BRA05" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Edward Wedlake</forename>
+                        <surname>Brayley</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1773">
+                        <placeName/>
+                    </birth>
+                    <death when="1854"/>
+                    <occupation>Topographer</occupation>
+                    <note type="editorial">
+                        <p>Ed Pope: Edward Wedlake Brayley DNB 1773-1854 SWEDENBORGIANS: Edward
+                            William Brayley (DNB 1801/2-1870) was a Swedenborgian, at least in 1824,
+                            which is not mentioned in his DNB article (Intellectual Repository
+                            1824/5 p183) </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

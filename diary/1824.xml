@@ -641,7 +641,7 @@
                                 ><placeName type="CG"/>theatre, Pride have a Fall; <seg
                                 type="dMeeting" subtype="Adv">adv.
                                     <persName ref="/people/GRA06.html">Graham</persName></seg></ref>: <seg type="dMeeting"
-                            subtype="M">meet <persName>Black</persName></seg>. <ref type="dWrote"
+                                        subtype="M">meet <persName ref="/people/BLA10.html">Black</persName></seg>. <ref type="dWrote"
                             subtype="letter">Write to <persName>E of <placeName type="venue"
                                     >Ashburnham</placeName></persName></ref>.</ab>
                     <ab type="dDay" xml:id="g1824-03-12"><date when="1824-03-12">12. F.</date><ref
@@ -1113,7 +1113,7 @@
                             >Exhibition; <seg type="dMeeting" subtype="Adv">adv. <persName
                                     ref="/people/PRE01.html">E Prentis</persName> &amp; <persName
                                     ref="/people/LAN07.html">C Landseer</persName></seg></ref>: <seg
-                            type="dMeeting" subtype="C">call on <persName><placeName type="venue"
+                                        type="dMeeting" subtype="C">call on <persName ref="/people/BLA10.html"><placeName type="venue"
                                     >Black</placeName></persName>, &amp; <seg type="dMeeting"
                                 subtype="See">at <persName ref="/people/HAY02.html"
                                     >Hayward’s</persName></seg></seg>: <ref type="dEvent"
@@ -1639,7 +1639,7 @@
                             157</ref>. <seg type="dMeeting" subtype="Do">Walk w. <persName
                                 ref="/people/SHE02.html">M W S</persName> (talk of <seg
                                 type="dTopic"><foreign>ci-devant</foreign></seg>)</seg>: <seg
-                            type="dMeeting" subtype="C">call on <persName><placeName type="venue"
+                                    type="dMeeting" subtype="C">call on <persName ref="/people/BRI01.html"><placeName type="venue"
                                     >Britton</placeName></persName></seg>: <seg type="dMeal"
                             subtype="TG"><persName>Burnet</persName> &amp;
                                 <persName>Douglas</persName> at tea</seg>. <ref
@@ -2256,7 +2256,7 @@
                             type="dWrote" subtype="letter"><persName ref="/people/BOO01.html"
                                 >Booth</persName></ref> &amp; <ref type="dWrote" subtype="letter"
                                 ><persName ref="/people/DAV01.html">Davison</persName></ref>. <seg
-                            type="dMeeting" subtype="M">meet <persName>Black</persName></seg>.</ab>
+                                    type="dMeeting" subtype="M">meet <persName ref="/people/BLA10.html">Black</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1824-08-27"><date when="1824-08-27">27. F.</date><ref
                             type="dWrote" subtype="letter">Write to <persName
                                 ref="/people/CAN01.html">Canning</persName></ref>. <ref

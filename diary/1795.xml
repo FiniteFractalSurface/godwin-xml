@@ -1151,7 +1151,7 @@
                                 ref="/people/RIT01.html"><placeName type="venue"
                                 >Ritson</placeName></persName></seg>: <seg type="dMeal" subtype="DG"
                                 ><persName ref="/people/FEN01.html">Fenwicks</persName> &amp;
-                                <persName>miss H. Braddock</persName> dine</seg>. <ref type="dText"
+                                    <persName ref="/people/BRA02.html">miss H. Braddock</persName> dine</seg>. <ref type="dText"
                             subtype="read" target="/bibl/te0519.html">Virgil, 508</ref>.</ab>
                     <ab type="dDay" xml:id="g1795-03-26"><date when="1795-03-26">26. Th.</date><ref
                             type="dWrote" subtype="revised" target="/works/poli01.html"

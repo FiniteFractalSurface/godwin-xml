@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="BRA02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>E and H</forename>
+                        <surname>Braddocks</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope: Mostly in company of Fenwicks. On 26.4.1760 at St Anne
+                            Limehouse George Braddock of that parish married Mary Pierce widow of St
+                            George Middlesex there, they baptised three daughters there Elizabeth in
+                            1761, Ann in 1762 and Henrietta in 1764, their father's trade being
+                            given as shipwright or mariner and their address as Princes Square. The
+                            will of Mary Pierce (PCC 1764) dated 1762 named her daughter-in-law Mary
+                            wife of George Braddock and her daughter Elizabeth, and a codicil dated
+                            1764 named Mary Braddock widow and her daughter Ann. In subscriber lists
+                            there was a miss Eliza Braddock of Princes Square 1781, a miss Braddock
+                            Axminster 1791 and a miss Braddock Exeter 1793. On 29.7.1795 J Tucker
+                            wrote a somewhat flirtatious letter to Godwin, from Whitestone (near
+                            Exeter) and sent by the hand of Thomas Cooper, in which she mentioned
+                            Mrs Cole's and Miss Braddock's conversations on Godwin's reasons for not
+                            employing a servant, adding that Miss Braddock "enumerated your virtues
+                            with something of enthusiasm" (Ms Abinger c.2 f106-7). There is
+                            (according to Lissa Paul, whose book on Eliza Fenwick should soon be
+                            published) an unpublished fragment of a letter from Eliza Fenwick to
+                            Mary Hays on 30.8.1799 where she said that Miss Braddock had opened a
+                            very little shop in Woodstock Street, Oxford Road. On 26.7.1800 Eliza
+                            Fenwick wrote a letter from New Park, Axminster (Wedd, The Fate of the
+                            Fenwicks letter X); the will of John Harvey Pierce of New Park Axminster
+                            Devon (PCC 1818) mentioned his half sister Henrietta Braddock now living
+                            at Thomas Gisborne's, tobacconist of Whitechapel. In the 1851 census
+                            Edward Pierce age 51 nurseryman born Axminster Devon was living at
+                            Hendford Hill, Yeovil with his aunt Henrietta Braddock aged 86 born
+                            London. Her death was registered in the last quarter of 1852 at Yeovil.
+                            The Braddocks do not seem to have had a brother so the Braddock jr may
+                            mean Henrietta </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

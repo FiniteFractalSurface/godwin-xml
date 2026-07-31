@@ -59,9 +59,9 @@
                <ab type="dDay" xml:id="g1831-01-04"><date when="1831-01-04">4. Tu.</date><ref
                      type="dText" subtype="read" target="/bibl/te3355.html">Homer, v. 544</ref>:
                      <ref type="dText" subtype="read" target="/bibl/te3366.html">Byron, p.
-                  234</ref>. <seg type="dMeeting" subtype="C">Call on <persName><placeName
+                        234</ref>. <seg type="dMeeting" subtype="C">Call on <persName ref="/people/BRA05.html"><placeName
                            type="venue">Brayley</placeName></persName> (<seg type="dMeeting"
-                        subtype="Adv">adv. <persName>Britton</persName> &amp;
+                              subtype="Adv">adv. <persName ref="/people/BRI01.html">Britton</persName> &amp;
                            <persName>Jones</persName></seg>)</seg> &amp; <seg type="dMeeting"
                      subtype="C"><persName><placeName type="venue"
                      >Levison</placeName></persName></seg>: <seg type="dMeal" subtype="DG"><persName
@@ -353,7 +353,7 @@
                         >Maugham’s</placeName></persName>, w. <persName ref="/people/WIL30.html"
                         >Wilks</persName>, <persName>Le Moores</persName>,
                      <persName>Holm</persName>, <persName>Stuart</persName> &amp;
-                        <persName>Dowling</persName></seg>. <ref type="dEvent" subtype="Temp">42 ½ /
+                           <persName ref="/people/MER07.html">Dowling</persName></seg>. <ref type="dEvent" subtype="Temp">42 ½ /
                      46 ½</ref></ab>
                <ab type="dDay" xml:id="g1831-02-02"><date when="1831-02-02">2. W.</date><ref
                      type="dWrote" subtype="write" target="/works/thou01.html">Matter, p. 14, &amp;
@@ -834,7 +834,7 @@
                         ref="/people/CAU01.html">Caunter</persName>, <persName>Stebbing</persName>,
                         <persName ref="/people/FOG01.html">Foggo</persName>, <persName
                         ref="/people/TAY01.html">J Taylor</persName>, <persName
-                        ref="/people/PIC02.html">Picken</persName>, <persName>Britton</persName>,
+                           ref="/people/PIC02.html">Picken</persName>, <persName ref="/people/BRI01.html">Britton</persName>,
                         <persName>Pine</persName></seg>. <add><ref type="dEvent" subtype="Publ"
                         target="/events/pa0163.html">First Reading</ref>.</add><ref type="dEvent"
                      subtype="Temp">55 / 59</ref></ab>
@@ -1663,7 +1663,7 @@
                      753</ref>: <ref type="dText" subtype="read" target="/bibl/te3388.html">Vidocq,
                      p. 60</ref>. <seg type="dMeeting" subtype="CG"><persName
                         ref="/people/GOD07.html">W</persName> calls</seg>: <seg type="dMeeting"
-                     subtype="M">meet <persName>Black</persName></seg>. <ref type="dEvent"
+                           subtype="M">meet <persName ref="/people/BLA10.html">Black</persName></seg>. <ref type="dEvent"
                      subtype="Temp">67 / 71 ½</ref></ab>
                <ab type="dDay" xml:id="g1831-05-26"><date when="1831-05-26">26. Th.</date><ref
                      type="dEvent" subtype="PersHlth" target="/events/he0000.html">Indisposed</ref>.
@@ -1890,7 +1890,7 @@
                         >Martin</persName>, <persName ref="/people/ROT01.html">Rothwel</persName>,
                         <persName ref="/people/PIC01.html">Pickersgil</persName>, <persName
                            ref="/people/HUN01.html">L Hunt</persName>, <persName ref="/people/CRO10.html">Croly</persName>,
-                        <persName>Britton</persName>, <persName>Clint</persName>, <persName
+                        <persName ref="/people/BRI01.html">Britton</persName>, <persName>Clint</persName>, <persName
                         ref="/people/HOP01.html">W Hopwood</persName>, <persName
                         ref="/people/UWI01.html">Uwins &amp; 2</persName>, &amp; <persName>D<hi
                            rend="sup">r</hi> Stuart</persName></seg>. <seg type="dMeeting"
@@ -2978,7 +2978,7 @@
                         ref="/people/GRE01.html">E Grey</persName>, on <seg type="dTopic">a
                         Representation</seg></ref>. <ref type="dText" subtype="cala"
                      target="/bibl/te3402.html">Homer, çala</ref>. <seg type="dMeeting" subtype="C"
-                     >Call on <persName><placeName type="venue">Brayley</placeName></persName>; <seg
+                        >Call on <persName ref="/people/BRA05.html"><placeName type="venue">Brayley</placeName></persName>; <seg
                         type="dMeeting" subtype="Adv">adv. <persName>Heath
                      senior</persName></seg></seg>. <ref type="dEvent" subtype="Temp">64 ½ /
                      68</ref></ab>

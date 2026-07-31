@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="SOA01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>John </forename>
+                        <surname>Soane</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1753">
+                        <placeName/>
+                    </birth>
+                    <death when="1837"/>
+                    <occupation>Architect</occupation>
+                    <note type="editorial">
+                        <p>DNB - Ed Pope notes: Probably John Soane DNB 1753-1837 particularly the
+                            1809 entry at Thelwall's. According to the DNB Thelwall in 1809
+                            established an institute in Lincolns Inn Fields, where Soane's famous
+                            house was. John Britton was a close friend of John Soane. In
+                            December1813 they both joined the Grand Master's Lodge of the
+                            Freemasons, along with the barrister James Agar. They had both become
+                            successful from humble origins, which would have appealed to Thelwall.
+                            Soane, jr was probably George Soane DNB 1789-1860 who fell out seriously
+                            with his father.</p> <p>Godwin also writes to Soane seeking a position for his son William.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

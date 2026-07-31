@@ -2614,7 +2614,7 @@
                                 ref="/people/JAR01.html">Jardine</persName> calls, talk of <seg
                                 type="dTopic"><persName ref="/people/BUR05.html"
                                 >Burney</persName></seg> &amp; <seg type="dTopic"
-                                    ><persName>Blair</persName></seg></seg>. <ref type="dText"
+                                    ><persName ref="/people/BLA11.html">Blair</persName></seg></seg>. <ref type="dText"
                             subtype="read" target="/bibl/te0237.html">Rousseau à Malesherbes, 36
                             pages</ref>.</ab>
                     <ab type="dDay" xml:id="g1792-09-27"><date when="1792-09-27">27. Th.</date><ref
@@ -3306,7 +3306,7 @@
                     <ab type="dDay" xml:id="g1792-12-14"><date when="1792-12-14">14. F.</date><ref
                             type="dWrote" subtype="write" target="/works/poli01.html">Write 8
                             pages</ref>. <seg type="dMeeting" subtype="CG"
-                                ><persName>Blair</persName> calls, talk of <seg type="dTopic"
+                                ><persName ref="/people/BLA11.html">Blair</persName> calls, talk of <seg type="dTopic"
                                 >revolutions</seg> &amp; <seg type="dTopic"
                                     ><persName>Helvetius</persName></seg></seg>. <ref type="dText"
                             subtype="read" target="/bibl/te0269.html">Mably, 27 pages</ref>: <ref

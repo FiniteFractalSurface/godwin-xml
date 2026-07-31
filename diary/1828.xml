@@ -2457,7 +2457,7 @@
        subtype="read" target="/bibl/te0519.html">Virgil, v. 760</ref>. <ref type="dEntertainment"
        subtype="Museo" target="/events/mu0001.html"><placeName>Museum</placeName>; <ref type="dText"
         subtype="read" target="/bibl/te3155.html">Bernard</ref></ref>: <seg type="dMeeting"
-       subtype="C">call on <persName><placeName type="venue">Brayley</placeName></persName></seg>:
+          subtype="C">call on <persName ref="/people/BRA05.html"><placeName type="venue">Brayley</placeName></persName></seg>:
        <seg type="dMeeting" subtype="CG"><persName ref="/people/SHE02.html">M W S</persName>
        calls</seg>: <seg type="dMeal" subtype="S">sup at <persName><placeName type="venue">C
          Jones’s</placeName></persName>, w. <persName ref="/people/KEN01|HOL05.html"
@@ -2515,7 +2515,7 @@
        64</ref></ab>
      <ab type="dDay" xml:id="g1828-10-17"><date when="1828-10-17">17. F.</date><ref type="dWrote"
        subtype="other" target="/works/comm01.html">Proofs</ref>. <ref type="dWrote" subtype="letter"
-       >Write to <persName>Black</persName></ref>. <seg type="dMeal" subtype="DG"><persName
+         >Write to <persName ref="/people/BLA10.html">Black</persName></ref>. <seg type="dMeal" subtype="DG"><persName
         ref="/people/SHE02.html">M W S</persName>, <persName ref="/people/CLA02.html">C C</persName>
        &amp; <persName>J C</persName> dine</seg>. <ref type="dEvent" subtype="Temp">60 /
       64</ref></ab>
@@ -2884,7 +2884,7 @@
        subtype="read" target="/bibl/te0519.html">Virgil, v. 402</ref>. <ref type="dEntertainment"
        subtype="Museo" target="/events/mu0001.html"><placeName>Museum</placeName>; <ref type="dText"
         subtype="read" target="/bibl/te2915.html">Dugdale</ref></ref>: <seg type="dMeeting"
-       subtype="C">call on <persName><placeName type="venue">Brayley</placeName></persName></seg>
+          subtype="C">call on <persName ref="/people/BRA05.html"><placeName type="venue">Brayley</placeName></persName></seg>
        &amp;<seg type="dMeeting" subtype="C"><persName ref="/people/COL02.html"><placeName
          type="venue">Colburn</placeName></persName> ; <seg type="dMeeting" subtype="Adv">adv.
          <persName ref="/people/OLL01.html">Ollier</persName></seg></seg>. <ref type="dEvent"
@@ -2894,7 +2894,7 @@
        subtype="read" target="/bibl/te0519.html">Virgil, v. 569</ref>. <ref type="dEntertainment"
        subtype="Museo" target="/events/mu0001.html"><placeName>Museum</placeName>; <ref type="dText"
         subtype="read" target="/bibl/te3165.html">W Peck, Axholme</ref></ref>: <seg type="dMeeting"
-       subtype="C">call on <persName><placeName type="venue">Britton</placeName></persName></seg>:
+          subtype="C">call on <persName ref="/people/BRI01.html"><placeName type="venue">Britton</placeName></persName></seg>:
        <seg type="dMeeting" subtype="CG"><persName ref="/people/MAR01.html">M</persName> calls; <seg
         type="dMeeting" subtype="Adv">adv. <persName ref="/people/CLA03.html">Jane</persName> &amp;
          <persName ref="/people/GOD07.html">W</persName></seg></seg>: <seg type="dMeal" subtype="TG"
@@ -3012,7 +3012,7 @@
        type="dMeal" subtype="BG"><persName ref="/people/PIL01.html">P P</persName> breakfasts</seg>:
        <ref type="dEntertainment" subtype="Museo" target="/events/mu0001.html"
         ><placeName>Museum</placeName>; <ref type="dText" subtype="read" target="/bibl/te3168.html"
-        >Eugene</ref></ref>: <seg type="dMeeting" subtype="C">call on <persName><placeName
+          >Eugene</ref></ref>: <seg type="dMeeting" subtype="C">call on <persName ref="/people/BRA05.html"><placeName
          type="venue">Brayley</placeName></persName></seg>, <seg type="dMeeting" subtype="C"
         ><persName ref="/people/COL02.html" type="nah"><placeName type="venue">Colburn <hi
           rend="sup">na</hi></placeName></persName></seg>, &amp; <seg type="dMeeting" subtype="C"

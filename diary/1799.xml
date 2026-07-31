@@ -655,7 +655,7 @@
                            type="venue">Ht's</placeName></persName>, w. <persName
                         ref="/people/BAR01.html">Barry</persName>,<persName ref="/people/STO01.html"
                         > Stoddart</persName>, <persName ref="/people/HOL05.html">L</persName> &amp;
-                        <persName>E Mercier</persName>;<seg type="dMeeting" subtype="Adv"> adv.
+                           <persName ref="/people/MER07.html">E Mercier</persName>;<seg type="dMeeting" subtype="Adv"> adv.
                            <persName>T M</persName> &amp; <persName>Spurling</persName></seg></seg>:
                      <seg type="dMeeting" subtype="CG"><persName ref="/people/DIB01.html"
                         >Dibbin</persName></seg>, <seg type="dMeeting" subtype="CG"><persName
@@ -1031,7 +1031,7 @@
                            >Fawcets</persName></seg></seg>:<seg type="dMeeting" subtype="C"> call on
                         <persName ref="/people/FEN03.html"><placeName type="venue">E
                         F</placeName></persName>; <seg type="dMeeting" subtype="Adv">adv.
-                           <persName>E Braddock</persName></seg></seg>.</ab>
+                           <persName ref="/people/BRA02.html">E Braddock</persName></seg></seg>.</ab>
                <ab type="dDay" xml:id="g1799-04-10"><date when="1799-04-10">10. W.</date><ref
                      type="dWrote" subtype="letter"> Write to <persName ref="/people/WED02.html"
                         >Wedgwood</persName></ref>. <ref type="dText" subtype="read"
@@ -1387,7 +1387,7 @@
                      <ref type="dText" subtype="cala" target="/bibl/te0964.html">Bladon's Trials for
                      A. Vol. 7, çala</ref>.<seg type="dMeal" subtype="D"> Dine at <persName
                         ref="/people/HOL01|HOL05.html"><placeName type="venue"
-                        >Ht's</placeName></persName>, w. <persName>T &amp; E
+                           >Ht's</placeName></persName>, w. <persName ref="/people/MER07.html">T &amp; E
                      Mercier</persName></seg>:<seg type="dMeal" subtype="S"> sup at <persName
                         ref="/people/ALD02|OPI01.html"><placeName type="venue"
                         >Opie's</placeName></persName>, w. <persName ref="/people/ALD04.html"
@@ -1455,7 +1455,7 @@
                         ref="/people/JON01.html"> L J</persName> dine; <seg type="dMeeting"
                         subtype="Adv">adv. <persName ref="/people/HOL01|HOL05.html">Hts</persName>,
                            <persName ref="/people/FEN01|FEN03.html">Fenwicks</persName>,
-                           <persName>Jones's</persName> &amp; <persName>E
+                           <persName>Jones's</persName> &amp; <persName ref="/people/BRA02.html">E
                      Braddock</persName></seg></seg>.</ab>
                <ab type="dDay" xml:id="g1799-05-20"><date when="1799-05-20">20. M.</date><ref
                      type="dEntertainment" subtype="Exhib" target="/events/ex0021.html">Milton
@@ -2067,7 +2067,7 @@
                      subtype="D">dine at <persName ref="/people/GOD04.html"><placeName type="venue"
                            >H G's</placeName></persName>, w. <persName
                         ref="/people/FEN01|FEN03.html">Fenwicks</persName>, <persName
-                        ref="/people/DYS01.html">Dyson</persName>, <persName>E Braddock</persName>
+                           ref="/people/DYS01.html">Dyson</persName>, <persName ref="/people/BRA02.html">E Braddock</persName>
                      &amp; <persName ref="/people/JON01.html">L J</persName>; <seg type="dMeeting"
                         subtype="Adv">adv. <persName ref="/people/DIB01.html"
                         >Dibbin</persName></seg></seg>: <seg type="dMeal" subtype="SG"><persName
@@ -2746,7 +2746,7 @@
                         ref="/people/FAN01.html"> ><placeName type="venue">O
                         Fancourt's</placeName></persName></seg>:<seg type="dMeeting" subtype="CG"
                         ><persName ref="/people/FEL01.html" type="nah"> Fell</persName> calls <hi
-                        rend="sup">n</hi></seg>: <seg type="dMeeting" subtype="CG"><persName
+                           rend="sup">n</hi></seg>: <seg type="dMeeting" subtype="CG"><persName ref="/people/BRA02.html"
                         type="nah">E &amp; H Braddock </persName><hi rend="sup">n</hi></seg>.</ab>
                <ab type="dDay" xml:id="g1799-09-11"><date when="1799-09-11">11. W. </date><ref
                      type="dText" subtype="read" target="/bibl/te0994.html">Arnot's
@@ -3906,7 +3906,7 @@
                         ref="/people/WHI12.html">major White</persName></seg>: <seg type="dMeal"
                      subtype="S">sup at <persName ref="/people/FEN01|FEN03.html"><placeName
                            type="venue">Fenwick's</placeName></persName>, w.
-                        <persName>Braddocks</persName></seg>: <seg type="dMeeting" subtype="CG"
+                           <persName ref="/people/BRA02.html">Braddocks</persName></seg>: <seg type="dMeeting" subtype="CG"
                         ><persName ref="/people/TOB02.html" type="nah">Tobin</persName><hi
                         rend="sup">n</hi></seg> &amp; <seg type="dMeeting" subtype="CG"><persName
                         ref="/people/GOD02.html">Jo G </persName>call</seg>.<seg type="dMeeting"
@@ -4004,7 +4004,7 @@
                            ><persName><placeName type="venue">Lanesborough's</placeName></persName>,
                      w. <persName>Milton</persName>, <persName ref="/people/WAT01.html"
                         >Landaff</persName>, <persName>Laval</persName>, <persName ref="/people/GOR03.html">Gore</persName>,
-                        <persName>Elisée</persName>, <persName>Boisgelin</persName>, <persName
+                           <persName>Elisée</persName>, <persName  ref="/people/BOI05.html">Boisgelin</persName>, <persName
                         ref="/people/DAV02.html">Davis</persName>, <persName>Atty</persName>,
                         <persName>Consit</persName>, <persName>Pinkards</persName>,
                         <persName>Campbels</persName>, <persName ref="/people/GRA02.html"

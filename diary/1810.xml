@@ -447,7 +447,7 @@
                                     ><placeName type="venue">Mills</placeName></persName></seg>,
                             <seg type="dMeeting" subtype="C"><persName ref="/people/BEN01.html"
                                     ><placeName type="venue">Bensley</placeName></persName></seg>
-                        &amp; <seg type="dMeeting" subtype="C"><persName><placeName type="venue"
+                        &amp; <seg type="dMeeting" subtype="C"><persName ref="/people/BON07.html"><placeName type="venue"
                                     >Bonsor</placeName></persName></seg>: <seg type="dMeeting"
                             subtype="CG"><persName ref="/people/MAR01.html">M</persName>
                         calls</seg>: <seg type="dMeal" subtype="DG"><persName
@@ -507,7 +507,7 @@
                             type="dMeeting" subtype="Cn">Call on <persName ref="/people/MIL01.html"
                                     ><placeName type="venue">Miles</placeName></persName> (w.
                                 <persName ref="/people/PLA02.html">Place</persName>)</seg>, <seg
-                            type="dMeeting" subtype="C"><persName><placeName type="venue"
+                                    type="dMeeting" subtype="C"><persName ref="/people/BON07.html"><placeName type="venue"
                                     >Bonsor</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName ref="/people/TAB01.html" type="nah"><placeName
                                     type="venue">Tabart</placeName></persName><hi rend="sup"
@@ -1433,7 +1433,7 @@
                                 >Surr</placeName></persName>; <seg type="dMeeting" subtype="Adv"
                                 >adv. <persName ref="/people/PHI01.html"
                             >Phillips</persName></seg></seg>. <seg type="dMeeting" subtype="M">meet
-                                <persName>B Mercier</persName></seg> &amp; <seg type="dMeeting"
+                                <persName ref="/people/MER07.html">B Mercier</persName></seg> &amp; <seg type="dMeeting"
                             subtype="M"><persName ref="/people/PLA02.html"
                         >Place</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1810-05-04"><date when="1810-05-04">4. F.</date><ref
@@ -3366,7 +3366,7 @@
                             type="dMeeting" subtype="M">Meet <persName ref="/people/COU01.html"
                                 >Courtenay</persName></seg>, <seg type="dMeeting" subtype="M"
                                 ><persName ref="/people/JOH02.html">J Johnson</persName></seg> &amp;
-                            <seg type="dMeeting" subtype="M"><persName>Britton</persName></seg>:
+                        <seg type="dMeeting" subtype="M"><persName ref="/people/BRI01.html">Britton</persName></seg>:
                             <seg type="dMeeting" subtype="C">call on <persName
                                 ref="/people/HUM01.html"><placeName type="venue"
                                 >Hume</placeName></persName></seg>: <seg type="dMeeting"
@@ -4119,7 +4119,7 @@
                                 <persName ref="/people/HUM01|HUM02.html"><placeName type="venue"
                                     >Hume’s</placeName></persName>, w. <persName
                                 ref="/people/CLA01.html">M J</persName>, <persName>mrs
-                                Thomson</persName>, <persName>B Mercier</persName> &amp;
+                                    Thomson</persName>, <persName ref="/people/MER07.html">B Mercier</persName> &amp;
                                 <persName>capt. Kemp</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1810-12-26"><date when="1810-12-26">26. W.</date><ref
                             type="dText" subtype="cala" target="/bibl/te1853.html">Tacitus,

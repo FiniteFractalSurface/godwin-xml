@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="BRA03" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Thomas</forename>
+                        <surname>Bradley</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Physician</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope: Thomas Bradley DNB 1751?-1813 Quaker physician was editor of
+                            the Medical and Physical Journal published by Richard Phillips. Boyle's
+                            1800 Dr Thos B 3 Delahay St Westminster, Holdens 1811 Pall Mall Court.
+                            DNB (from Gents Mag 84/1) says he died St Georges Fields at the close of
+                            1813 (which might suggest he was in King's Bench Prison).but Thomas
+                            Bradley MD of Manchester Buildings age 64 was buried at St Margaret's
+                            Westminster on 27.11.1813. I found about 8 possible Thomas Bradley
+                            marriages but couldn't identify if any of them were his. He probably
+                            only accounted for the first three entries above. In relation to the
+                            1810 entry, Godwin noted 17.7.1810 and 13.8.1810 Kerr calls, as well as
+                            two later Kerr entries. J Kerr was a bookseller in Holborn Hill in 1810
+                            (British Book Trades Index). In relation to the 1814 entry Godwin noted
+                            9.3.1813 call on Harrison, Bermondsey and 13.3.1813 Harrison calls. The
+                            last entry above is 20 years further on so probably not related to any
+                            earlier ones. </p>
+                   <p>We have coded only the earlier entries (not 1835).</p> </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

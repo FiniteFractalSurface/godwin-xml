@@ -743,7 +743,7 @@
                             subtype="Theat" target="/plays/morv01|turn03.html"><placeName type="DL"
                             /> theatre, w. <persName>M M</persName>, M[or?]ville &amp; Turn
                             Out.</ref><emph rend="faint"><ref type="dEvent" subtype="other"
-                                    ><persName>Bradley</persName> absent</ref></emph></ab>
+                                    ><persName ref="/people/BRA03.html">Bradley</persName> absent</ref></emph></ab>
                     <ab type="dDay" xml:id="g1812-03-10"><date when="1812-03-10">10. Tu. </date><ref
                             type="dText" subtype="read" target="/bibl/te1975.html">Persius, Sat.
                             III</ref>. <seg type="dMeeting" subtype="CG"><persName
@@ -1809,7 +1809,7 @@
                                     type="venue">Kenny’s</placeName></persName>, w.
                                 <persName>Masquerier</persName>, <persName ref="/people/CLA01.html"
                                 >M J</persName>, <persName ref="/people/IML01.html">F</persName>
-                            &amp; <persName>E Mercier</persName></seg>. <seg type="dMeeting"
+                                &amp; <persName ref="/people/MER07.html">E Mercier</persName></seg>. <seg type="dMeeting"
                             subtype="CG"><persName type="nah">Eton</persName> calls <hi rend="sup"
                                 >n</hi></seg>.</ab>
                     <ab type="dDay" xml:id="g1812-06-15"><date when="1812-06-15">15. M. </date><ref
@@ -2547,7 +2547,7 @@
                                     >Toppings</placeName></persName></seg>: <seg type="dMeal"
                             subtype="DG"><persName ref="/people/KEN01|HOL05.html"
                                 >Kennies</persName>,<persName ref="/people/CUR02.html"> A
-                                Curran</persName> &amp; <persName>E Mercier</persName>
+                                    Curran</persName> &amp; <persName ref="/people/MER07.html">E Mercier</persName>
                         dine</seg></ab>
                     <ab type="dDay" xml:id="g1812-08-27"><date when="1812-08-27">27. Th. </date><ref
                             type="dWrote" subtype="letter">Write to <persName

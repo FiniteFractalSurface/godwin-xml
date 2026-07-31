@@ -2119,7 +2119,7 @@
                             <seg type="dMeal" subtype="BG"><persName ref="/people/SMI01.html"
                                 >Smith</persName> bs</seg>: <seg type="dMeal" subtype="D">dine at
                                 <persName ref="/people/HOL01.html"><placeName type="venue"
-                                    >Ht's</placeName></persName>, w. <persName>E
+                                        >Ht's</placeName></persName>, w. <persName ref="/people/MER07.html">E
                             Mercier</persName></seg>: <seg type="dMeal" subtype="S">sup at <persName
                                 ref="/people/FOU01.html"><placeName type="venue"
                                     >Foulkes's</placeName></persName>, w. <persName
@@ -4474,8 +4474,8 @@
                                 ref="/people/WIL20.html">D Williams</persName>, Dirom, <persName
                                 ref="/people/KNI02.html">T Knight</persName>, <persName
                                 ref="/people/INC01.html">Inchbald</persName>, Tooke, <persName
-                                ref="/people/SHA01.html">W Sharp</persName><emph rend="deleted"
-                                >eng</emph>, Blair</p>
+                                    ref="/people/SHA01.html">W Sharp</persName><emph rend="deleted"
+                                        >eng</emph>,<persName ref="/people/BLA11.html">Blair sc</persName> </p>
                         <p rend="centered">1793</p>
                         <p><persName ref="/people/BAN03.html">Banks sc</persName>, <persName
                                 ref="/people/BUR13.html">Burney</persName>, <persName
@@ -4753,7 +4753,7 @@
                             type="dMeeting" subtype="M">Meet <persName ref="/people/ALL01.html"
                                 >Allen</persName></seg>, <seg type="dMeeting" subtype="M"><persName
                                 ref="/people/STO01.html">Stoddart</persName></seg>, <seg
-                            type="dMeeting" subtype="M"><persName>Bloxam</persName></seg>, <seg
+                                    type="dMeeting" subtype="M"><persName ref="/people/BLO02.html">Bloxam</persName></seg>, <seg
                             type="dMeeting" subtype="M"><persName ref="/people/MOO01.html"
                                 >Moore</persName></seg> &amp; <seg type="dMeeting" subtype="M"
                                     ><persName ref="/people/BEA03.html">Beaumont</persName></seg>: <seg type="dMeeting"
@@ -5154,7 +5154,7 @@
                             type="dMeeting" subtype="CG"><persName>miss Jones</persName></seg>, <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/ALL01.html"
                                 >Allen</persName></seg>, <seg type="dMeeting" subtype="CG"
-                                ><persName>Bloxam</persName></seg> &amp; <seg type="dMeeting"
+                                    ><persName ref="/people/BLO02.html">Bloxam</persName></seg> &amp; <seg type="dMeeting"
                             subtype="CG"><persName ref="/people/GOD09.html">Jno G</persName>
                             call</seg>: <seg type="dMeal" subtype="D">dine at <persName
                                 ref="/people/HOL01.html"><placeName type="venue"
@@ -5248,7 +5248,7 @@
                                     >Hayes's</placeName></persName>; <persName
                                 ref="/people/TOO02.html">Tookes</persName>, <persName
                                 ref="/people/ALL01.html">Allen</persName>,
-                                <persName>Bloxam</persName>, <persName>Crawford</persName>,
+                                        <persName ref="/people/BLO02.html">Bloxam</persName>, <persName>Crawford</persName>,
                                 <persName ref="/people/HAM08.html">miss Hamilton</persName> &amp; <persName
                                 ref="/people/WOL01.html">Wt</persName></seg>: <seg type="dMeeting"
                             subtype="See"><foreign>chez <persName ref="/people/WOL01.html"
@@ -5643,7 +5643,7 @@
                                     <persName><placeName type="venue">R.
                                 Johnson's</placeName></persName>, w. <persName
                                 ref="/people/MAC01.html">Mackintosh</persName> &amp;
-                                <persName>Blairs</persName></seg>: <seg type="dMeeting"
+                                <persName ref="/people/BLA12.html">Blairs</persName></seg>: <seg type="dMeeting"
                             subtype="See"><foreign>chez <persName ref="/people/WOL01.html"
                                     >elle</persName></foreign>;--. <emph rend="deleted"
                             >Mar</emph></seg></ab>
@@ -5656,7 +5656,7 @@
                                 ><placeName type="DL"/>theatre, Merchant of Venice; <seg
                                 type="dMeeting" subtype="See"><persName ref="/people/LAW01.html"
                                     >Lawrence</persName> &amp;
-                            <persName>Bloxam</persName></seg></ref>: <seg type="dMeeting"
+                                    <persName ref="/people/BLO02.html">Bloxam</persName></seg></ref>: <seg type="dMeeting"
                             subtype="See"><foreign>chez <persName ref="/people/WOL01.html"
                                     >elle</persName></foreign></seg>.</ab>
                     <ab type="dDay" xml:id="g1796-12-17"><date when="1796-12-17">17. Sa.</date><ref

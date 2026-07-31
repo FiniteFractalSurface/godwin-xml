@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="BRI01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Jon</forename>
+                        <surname>Britton</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1771">
+                        <placeName/>
+                    </birth>
+                    <death when="1857"/>
+                    <occupation>Antiquary</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope: Very likely John Britton DNB 1771-1857 antiquary,
+                            topographer and draughtsman, exhibited Royal Academy 1799 from Islington
+                            Rd, 1800 to 1819 from 18 Wilderness Row, Goswell St. His wife Mary (née
+                            Morgan?) at Thelwall's dinner 1809 after Holcroft's memorial drink, Sir
+                            John Soane also present, friend of Britton. Brayley was Britton's main
+                            colleague. See entries for Soane and Brayley </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

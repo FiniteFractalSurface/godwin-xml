@@ -728,7 +728,7 @@
                                     >Hume’s</placeName></persName>, w. <persName>Listons</persName>,
                                 <persName ref="/people/LAM01|LAM02.html">Lambs</persName>, <persName
                                 ref="/people/HAZ01|HAZ02.html">Hazlits</persName>, <persName
-                                ref="/people/BUR03.html">M Burney</persName>, <persName>B
+                                    ref="/people/BUR03.html">M Burney</persName>, <persName ref="/people/MER07.html">B
                                 Mercier</persName> &amp; <persName>mrs Thomson</persName>, <persName
                                 ref="/people/CLA01.html">M J</persName>, <persName
                                 ref="/people/MAR01.html">M</persName> &amp; <persName
@@ -1499,7 +1499,7 @@
                             target="/bibl/te2104.html">Duellum Musicum, pp. 52</ref>.<seg
                             type="dMeeting" subtype="C"> Call on <persName ref="/people/ALD01.html"
                                     ><placeName type="venue">Aldis</placeName></persName></seg>:
-                            <seg type="dMeeting" subtype="CG"><persName>E Mercier</persName>
+                        <seg type="dMeeting" subtype="CG"><persName ref="/people/MER07.html">E Mercier</persName>
                             calls</seg>.</ab>
                     <ab type="dDay" xml:id="g1813-05-27"><date when="1813-05-27">27. Th.</date><ref
                             type="dText" subtype="read" target="/bibl/te0211.html">Toland, Life of
@@ -2065,7 +2065,7 @@
                                     >Kenney’s</placeName></persName>, w. <persName
                                 ref="/people/CLA01.html">M J</persName>; <seg type="dMeeting"
                                 subtype="Adv">adv. <persName ref="/people/CUR02.html">A
-                                    Curran</persName> &amp; <persName>E
+                                    Curran</persName> &amp; <persName ref="/people/MER07.html">E
                             Mercier</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1813-07-19"><date when="1813-07-19">19. M.</date><ref
                             type="dText" subtype="read" target="/bibl/te2130.html">Flatman</ref>
@@ -2088,7 +2088,7 @@
                             type="dWrote" subtype="letter"><persName ref="/people/BOI01.html">H
                                 Boinville</persName></ref>. <ref type="dText" subtype="cala"
                             target="/bibl/te2129.html">Baker, çala</ref>. <seg type="dMeal"
-                            subtype="DG"><persName>E Mercier</persName>, &amp; <persName
+                                subtype="DG"><persName ref="/people/MER07.html">E Mercier</persName>, &amp; <persName
                                 ref="/people/HOL17.html">T</persName> &amp; <persName
                                 ref="/people/HOL07.html">H Ht</persName> dine; <seg type="dMeeting"
                                 subtype="Adv">adv. <persName ref="/people/HOL05.html">L
@@ -3265,7 +3265,7 @@
                                 rend="sup">n</hi> (<placeName>Hackney</placeName>)</seg>, <seg
                             type="dMeeting" subtype="C"><persName><placeName type="venue"
                                     >Newcome</placeName></persName></seg>, <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                        subtype="C"><persName ref="/people/BON07.html"><placeName type="venue"
                                 >Bonsor</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName ref="/people/MAC04.html"><placeName type="venue"
                                     >Macmillan</placeName></persName></seg>.</ab>
@@ -3435,7 +3435,7 @@
                             Curran</persName></seg>, <seg type="dMeeting" subtype="CG"><persName
                                 ref="/people/ELW01.html">S E</persName></seg>, <seg type="dMeeting"
                             subtype="CG"><persName ref="/people/HAM02.html">Hamond</persName></seg>,
-                            <seg type="dMeeting" subtype="CG"><persName>E Mercier</persName></seg>,
+                        <seg type="dMeeting" subtype="CG"><persName ref="/people/MER07.html">E Mercier</persName></seg>,
                             <seg type="dMeeting" subtype="CG"><persName>Char.
                             Nicholson</persName></seg> &amp; <seg type="dMeeting" subtype="CG"
                                 ><persName ref="/people/MAR01.html">M</persName> call</seg>. <ref

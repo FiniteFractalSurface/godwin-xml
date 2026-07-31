@@ -425,7 +425,7 @@
                             subtype="CG"><persName ref="/people/MAR01.html">M</persName>
                         calls</seg>: <seg type="dMeeting" subtype="M">meet <persName
                                 ref="/people/KEN01.html">Kenney</persName></seg> &amp; <seg
-                            type="dMeeting" subtype="M"><persName>Soane, jun<hi rend="sup"
+                                    type="dMeeting" subtype="M"><persName ref="/people/SOA01.html">Soane, jun<hi rend="sup"
                                 >r</hi></persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1826-02-15"><date when="1826-02-15">15. W.</date><ref
                             type="dWrote" subtype="revised" target="/works/comm01.html"
@@ -627,7 +627,7 @@
                             >Commonwealth, revise</ref>.<seg type="dMeal" subtype="DG"><persName
                                 ref="/people/SHE02.html"> M W S</persName> &amp; <persName
                                 ref="/people/GOD07.html">W</persName> dine</seg>: <seg
-                            type="dMeeting" subtype="C">call on <persName><placeName type="venue"
+                                    type="dMeeting" subtype="C">call on <persName ref="/people/BLA10.html"><placeName type="venue"
                                     >Black</placeName></persName></seg>: <seg type="dMeeting"
                             subtype="Aus"><persName ref="/people/MAR01.html">M</persName> au
                             soir</seg>.</ab>
@@ -663,7 +663,7 @@
                             Vol. III, çala</ref>.<ref type="dEntertainment" subtype="Museo"
                             target="/events/mu0001.html">Museum; <ref type="dText" subtype="read"
                                 target="/bibl/te2943.html">Pennant</ref></ref>. <ref type="dWrote"
-                            subtype="letter">Write to <persName>Black</persName></ref>. <seg
+                                    subtype="letter">Write to <persName ref="/people/BLA10.html">Black</persName></ref>. <seg
                             type="dMeeting" subtype="C">Call on <persName ref="/people/SHE02.html"
                                     ><placeName type="venue">M W S</placeName></persName>; <seg
                                 type="dMeeting" subtype="Adv">adv. <persName>mrs L
@@ -1998,7 +1998,7 @@
                                 ref="/people/SHE02.html">M W S </persName>at tea</seg>. <seg
                             type="dMeeting" subtype="CG"><persName>Gibson</persName>
                             calls</seg>:<seg type="dMeeting" subtype="M"> meet
-                                <persName>Black</persName></seg>.</ab>
+                                <persName ref="/people/BLA10.html">Black</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1826-08-04"><date when="1826-08-04">4. F.</date><ref
                             type="dWrote" subtype="write" target="/works/comm01.html">Commonwealth,
                             p. 88/2</ref>.<ref type="dEntertainment" subtype="Museo"
@@ -2282,7 +2282,7 @@
                                 type="dText" subtype="read" target="/bibl/te2980.html"
                                 >Newspapers</ref></ref>. <ref type="dText" subtype="read"
                             target="/bibl/te0310.html">Suetonius, §. 48</ref>. <seg type="dMeeting"
-                            subtype="C">Call on <persName>Britton</persName>, for <persName><seg
+                                subtype="C">Call on <persName ref="/people/BRI01.html">Britton</persName>, for <persName><seg
                                     type="dTopic">col. Drummond</seg></persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1826-09-08"><date when="1826-09-08">8. F. </date><ref
                             type="dWrote" subtype="write" target="/works/comm01.html">Commonwealth,
@@ -2299,9 +2299,9 @@
                             type="dWrote" subtype="write" target="/works/comm01.html">Commonwealth,
                             p. 122</ref>. <ref type="dText" subtype="read"
                             target="/bibl/te0310.html">Suetonius, §. 54</ref>. <seg type="dMeeting"
-                            subtype="C">Call on <persName><placeName type="venue"
+                                subtype="C">Call on <persName ref="/people/BRI01.html"><placeName type="venue"
                                     >Britton</placeName></persName>;<seg type="dMeeting"
-                                subtype="Adv"> adv. <persName>Brayley</persName></seg></seg>.</ab>
+                                        subtype="Adv"> adv. <persName ref="/people/BRA05.html">Brayley</persName></seg></seg>.</ab>
                     <pb n="e.222_0006v"/>
                     <ab type="dDay" xml:id="g1826-09-10"><date when="1826-09-10">Sep. 10. Su.
                             </date><ref type="dWrote" subtype="write" target="/works/comm01.html"
@@ -2325,7 +2325,7 @@
                             target="/bibl/te0310.html"> Suetonius, §. 68</ref>. <ref
                             type="dEntertainment" subtype="Museo" target="/events/mu0001.html"
                             >Museum</ref>: <seg type="dMeeting" subtype="C">call on
-                                    <persName><placeName type="venue"
+                                <persName ref="/people/BRA05.html"><placeName type="venue"
                             >Brayley</placeName></persName></seg>: <seg type="dMeal" subtype="SG"
                                 ><persName ref="/people/KNA01.html">L K</persName> sups; <seg
                                 type="dMeeting" subtype="Adv">adv. <persName

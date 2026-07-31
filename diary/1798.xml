@@ -103,7 +103,7 @@
                                     ><placeName type="venue">Ht's</placeName></persName>, w.
                                 <persName ref="/people/COL08|HOL10.html">Coles</persName>, <persName
                                 ref="/people/FEN01|FEN03.html">Fenwicks</persName>,
-                                <persName>Braddocks</persName>, <persName>Kingslake</persName>,
+                                    <persName ref="/people/BRA02.html">Braddocks</persName>, <persName>Kingslake</persName>,
                                 <emph rend="deleted">&amp;</emph><persName ref="/people/REV01.html"
                                 >M R</persName>, &amp; <persName ref="/people/TOB02.html"
                                 >Tobin</persName></seg>: <seg type="dMeeting" subtype="See"
@@ -115,7 +115,7 @@
                             <seg type="dMeal" subtype="D">dine at <persName
                                 ref="/people/FEN01|FEN03.html"><placeName type="venue"
                                     >Fenwks</placeName></persName>, w.
-                                <persName>Braddocks</persName>; <seg type="dMeeting" subtype="Adv"
+                                <persName ref="/people/BRA02.html">Braddocks</persName>; <seg type="dMeeting" subtype="Adv"
                                 >adv. <emph rend="deleted">M R &amp;</emph><persName
                                     ref="/people/DYS01.html">Dyson</persName> &amp; <persName
                                     ref="/people/REV01|REV02.html"
@@ -148,7 +148,7 @@
                                 ref="/people/FEN01|FEN03.html"><placeName type="venue"
                                     >Fenwick's</placeName></persName>, w. <persName
                                 ref="/people/FAW01|FAW02.html">Fawcets</persName>,
-                                <persName>Braddocks</persName> &amp; <persName
+                                <persName ref="/people/BRA02.html">Braddocks</persName> &amp; <persName
                                 ref="/people/REV01.html">M R</persName>; <seg type="dMeeting"
                                 subtype="Adv">adv. <persName>Tucker</persName></seg></seg>: <ref
                             type="dEntertainment" subtype="Theat" target="/plays/secr01.html"
@@ -2039,7 +2039,7 @@
                                 ref="/people/MAR01.html">M</persName>, &amp;c</seg>: <seg
                             type="dMeeting" subtype="M">meet <persName>Burrel</persName></seg>:
                             <emph rend="deleted">Ritson <hi rend="sup">n</hi> &amp;</emph><seg
-                            type="dMeeting" subtype="CG"><persName> Braddocks</persName>
+                                type="dMeeting" subtype="CG"><persName ref="/people/BRA02.html"> Braddocks</persName>
                         call</seg>.</ab>
                     <ab type="dDay" xml:id="g1798-06-18"><date when="1798-06-18">18. M.</date><ref
                             type="dWrote" subtype="write" target="/works/leon01.html">Adept, p.

@@ -2712,7 +2712,7 @@
        subtype="write" target="/works/comm01.html">Commonwealth, p. 180/2</ref>. <ref type="dText"
        subtype="read" target="/bibl/te0063.html">Livy, c. 29</ref>. <ref type="dEntertainment"
        subtype="Museo" target="/events/mu0001.html"><placeName>Museum</placeName></ref>. <seg
-       type="dMeeting" subtype="M">Meet <persName>Black</persName></seg> &amp; <seg type="dMeeting"
+         type="dMeeting" subtype="M">Meet <persName ref="/people/BLA10.html">Black</persName></seg> &amp; <seg type="dMeeting"
        subtype="M"><persName>Hardwick</persName></seg>: <seg type="dMeeting" subtype="C">call on
         <persName ref="/people/REY99.html" type="nah"><placeName type="venue"
         >Reynolds</placeName></persName><hi rend="sup">n</hi></seg>.</ab>

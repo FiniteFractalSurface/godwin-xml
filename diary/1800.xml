@@ -86,7 +86,7 @@
                         type="dMeeting" subtype="Adv">adv. <persName ref="/people/GRA02.html"
                            >Granard</persName>, <persName>Tyson</persName>,
                            <persName>Pinkard</persName>, <persName ref="/people/DAV02.html">2
-                           Davis's</persName> &amp; <persName>Boisgelin</persName></seg></seg>. <ref
+                              Davis's</persName> &amp; <persName  ref="/people/BOI05.html">Boisgelin</persName></seg></seg>. <ref
                      type="dWrote" subtype="letter">Write to <persName>Dewar</persName></ref>.</ab>
                <ab type="dDay" xml:id="g1800-01-06"><date when="1800-01-06">6. M.</date><ref
                      type="dText" subtype="read" target="/bibl/te1027.html">Sophonisba, acts 2, 3,
@@ -241,7 +241,7 @@
                         ref="/people/DAV02.html">Davis's</persName>, <persName
                         ref="/people/PHI02.html">Philips</persName>, <persName>Campbels</persName>,
                            <persName>Pink<hi rend="sup">ds</hi></persName>,
-                        <persName>Boisgelin</persName>, <emph rend="deleted"
+                        <persName  ref="/people/BOI05.html">Boisgelin</persName>, <emph rend="deleted"
                            >//</emph><persName ref="/people/GOR03.html">Gore</persName>, &amp; <persName>la
                      Chaussée</persName></seg></ab>
                <ab type="dDay" xml:id="g1800-01-20"><date when="1800-01-20">20. M.</date><ref
@@ -264,7 +264,7 @@
                         >Barry</placeName></persName></seg>: <seg type="dMeal" subtype="D">dine at
                         <persName ref="/people/KIN01.html"><placeName type="venue"
                            >King's</placeName></persName>, w. <persName ref="/people/GRA02.html"
-                        >Granard</persName>, <persName>Boisgelin</persName> &amp; <persName>St
+                              >Granard</persName>, <persName  ref="/people/BOI05.html">Boisgelin</persName> &amp; <persName>St
                         Hermine</persName>; <seg type="dMeeting" subtype="Adv">adv.
                            <persName ref="/people/GOR03.html">Goire</persName> &amp; <persName ref="/people/DAV02.html"
                            >Davis</persName></seg></seg>. <emph rend="red"><ref type="dEvent"
@@ -343,7 +343,7 @@
                            <persName ref="/people/DAV02.html">Davis's</persName>, <persName
                            ref="/people/PHI02.html">Philips</persName>,
                         <persName>Dorroty</persName>, <persName>Abbot</persName>,
-                           <persName>Boisgelin</persName>, <persName>de Bath</persName> &amp;
+                           <persName  ref="/people/BOI05.html">Boisgelin</persName>, <persName>de Bath</persName> &amp;
                            <persName>Consit</persName></seg></seg>. <seg type="dMeeting"
                      subtype="CG"><persName ref="/people/GOD09.html">J J G</persName> calls</seg>.
                      <seg type="dMeeting" subtype="See"><persName>Pinkard</persName></seg>.</ab>
@@ -497,7 +497,7 @@
                            <persName>Gardners</persName>, <persName>Tyson</persName>,
                            <persName>Penny</persName>, <persName>c<hi rend="sup">n</hi>
                            Gardner</persName>, <persName>Pilkingtons</persName>,
-                           <persName>Derville</persName>, <persName>Boisgelin</persName>, <persName
+                           <persName>Derville</persName>, <persName  ref="/people/BOI05.html">Boisgelin</persName>, <persName
                            ref="/people/DAV02.html">Davis's</persName>, <persName>Abbot</persName>,
                            <persName>Dogherty</persName>, <persName>Consit</persName> &amp;
                            <persName ref="/people/PHI02.html">Philips</persName></seg></seg>.</ab>
@@ -916,7 +916,7 @@
                         Arbre</persName>, <persName>Jobson</persName>,
                      <persName>Dogherty</persName>, <persName>Consit</persName> &amp;
                         <persName>Tyson</persName>{;} <seg type="dMeeting" subtype="Adv">adv.
-                           <persName>St Hermine</persName>, <persName>Boisgelin</persName>,
+                           <persName>St Hermine</persName>, <persName  ref="/people/BOI05.html">Boisgelin</persName>,
                            <persName>Campbel</persName> &amp; <persName ref="/people/ROG02.html"
                            >Rogers jun<hi rend="sup">r</hi></persName></seg></seg>.</ab>
                <ab type="dDay" xml:id="g1800-03-17"><date when="1800-03-17">17. M.</date><ref
@@ -1619,7 +1619,7 @@
                            Robinson's</placeName></persName>, w. <persName ref="/people/NOR01.html"
                         >Northcote</persName>, <persName ref="/people/CAR01.html"
                         >Carlisle</persName>, <persName ref="/people/FEN01|FEN03.html"
-                        >Fenwicks</persName> &amp; <persName>E Braddock</persName>.</seg></ab>
+                           >Fenwicks</persName> &amp; <persName ref="/people/BRA02.html">E Braddock</persName>.</seg></ab>
                <ab type="dDay" xml:id="g1800-05-10"><date when="1800-05-10">10. Sa.</date><ref
                      type="dText" subtype="read" target="/bibl/te0934.html">King &amp; No King, acts
                      1 &amp; 2</ref>. <seg type="dMeal" subtype="DG"><persName
@@ -3871,7 +3871,7 @@
                            >Carlisle's</placeName></persName>, w. <persName ref="/people/WED02.html"
                         >T W</persName>, <persName>Smiths</persName>
                      (<persName>Stockwell</persName>), <persName>Pearson</persName>,
-                        <persName>Courayer</persName>, <persName>Bloxam</persName>, <persName
+                           <persName>Courayer</persName>, <persName ref="/people/BLO02.html">Bloxam</persName>, <persName
                         ref="/people/WHI03.html">White</persName> &amp; <persName
                         ref="/people/KNO05.html">mrs Knowles</persName></seg>{.} <add><emph
                         rend="small"><persName>Carlisle sen<hi rend="sup"

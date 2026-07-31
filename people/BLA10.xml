@@ -10,7 +10,7 @@
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by</resp>
-                    <name></name>
+                    <name/>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -27,28 +27,41 @@
                 <person xml:id="BLA10" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>NAME</forename>
-                        <surname>SURNAME</surname>
+                        <forename>A and J</forename>
+                        <surname>Black</surname>
                         <addName/>
                     </persName>
                     <birth when="1000-01-01">
                         <placeName/>
                     </birth>
                     <death when="1000-12-31"/>
-                    <occupation>OCCUPATION</occupation>
+                    <occupation>Booksellers</occupation>
                     <note type="editorial">
-                        <p> </p>
+                        <p>See Ed Pope: A and J Black booksellers 7 Leadenhall-st from 1800 to 1822
+                            trading as Black, Kingsbury and Parry from 1807 to 1812 (bbti). We have
+                            coded Black uder this identity only to 1822. We think it is likely he
+                            continued in business but, while early entries are connected to the
+                            viscinity of other booksellerss, this is more difficult to establish for
+                            later entries. </p>
+                        <p>Some of the 'Black' entries are likely to have been John Black
+                            (1783-1855), ODNB a translator, Greek scholar, and eventually editor of
+                            the Morning Chronicle. Acccording to the ODNB he moved to London only in
+                            1810 but it is unclear if that was his first visit, or how much
+                            confidence we should place on that date. It is very likely that he
+                            appeared in Godwin's networks at some point. But he is not identified
+                            distinctly from the 1809 Black. </p>
+                        <p>We have coded all black's under this identity - while emphasising that we
+                            cannot be certain whether there arre in fact two Blacks involved, only one, or several.</p>
                     </note>
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
                         Publisher, year</bibl>
                     <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
                     <bibl type="other">
-                        <title></title>
+                        <title/>
                     </bibl>
                 </person>
             </listPerson>
         </body>
     </text>
 </TEI>
-

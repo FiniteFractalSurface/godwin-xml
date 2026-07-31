@@ -562,7 +562,7 @@
                             <seg type="dMeeting" subtype="C">call on <persName
                                 ref="/people/CAR01.html"><placeName type="venue"
                                     >Carlisle</placeName></persName> (<seg type="dMeeting"
-                                subtype="Adv">adv. <persName>Bloxam</persName></seg>)</seg> &amp;
+                                        subtype="Adv">adv. <persName ref="/people/BLO02.html">Bloxam</persName></seg>)</seg> &amp;
                             <seg type="dMeeting" subtype="C"><persName><placeName type="venue"
                                     >Dickins</placeName></persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1805-02-07"><date when="1805-02-07">7. Th. </date><ref
@@ -1747,7 +1747,7 @@
                             <seg type="dMeeting" subtype="Cn"><persName ref="/people/CLA01.html"
                                 /><persName ref="/people/CAR01.html"><placeName type="venue"
                                     >Carlisle</placeName></persName>; adv. <seg type="dMeeting"
-                                subtype="Adv"><persName>Bloxam</persName></seg></seg>.</ab>
+                                        subtype="Adv"><persName ref="/people/BLO02.html">Bloxam</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1805-05-07"><date when="1805-05-07">7. Tu.</date><ref
                             type="dText" subtype="read" target="/bibl/te0884.html">Gibbon, Chap.
                             XVI</ref>, &amp;c. <seg type="dMeal" subtype="SG"><persName
@@ -3014,7 +3014,7 @@
                                     >Carlisle</placeName></persName>, for <seg type="dTopic"
                                     ><persName ref="/people/CLA01.html">M J</persName></seg>; <emph
                                 rend="deleted">&amp;</emph><seg type="dMeeting" subtype="Adv"> adv.
-                                    <persName>Bloxam</persName> &amp; <persName>miss
+                                    <persName ref="/people/BLO02.html">Bloxam</persName> &amp; <persName>miss
                                     Standert</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1805-08-27"><date when="1805-08-27">27. Tu. </date><ref
                             type="dWrote" subtype="revised" target="/works/hyed01.html">England, 1/2

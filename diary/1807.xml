@@ -188,7 +188,7 @@
                                     ><placeName type="venue">Davison</placeName></persName></seg>,
                             <seg type="dMeeting" subtype="C"><persName ref="/people/LAM02.html"
                                     ><placeName type="venue">M Lamb</placeName></persName></seg>
-                        &amp; <seg type="dMeeting" subtype="C"><persName><placeName type="venue"
+                        &amp; <seg type="dMeeting" subtype="C"><persName ref="/people/BRI01.html"><placeName type="venue"
                                     >Britton</placeName></persName></seg>: <ref
                             type="dEntertainment" subtype="Theat" target="/plays/alar01.html"
                                 ><placeName type="DL"/>theatre, False Alarms</ref>. <seg
@@ -294,7 +294,7 @@
                                 <persName ref="/people/BUR02.html">Burdet</persName>, <emph
                                 rend="deleted">&amp;</emph><persName ref="/people/PAU02.html"
                                 >Paul</persName> &amp; <persName>P Courtenay</persName></seg>: <seg
-                            type="dMeeting" subtype="M">meet <persName>Britton</persName></seg>
+                                    type="dMeeting" subtype="M">meet <persName ref="/people/BRI01.html">Britton</persName></seg>
                         &amp; <seg type="dMeeting" subtype="M"
                             ><persName ref="/people/BER03.html">Beresfords</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1807-01-26">
@@ -2396,7 +2396,7 @@
                                     ><placeName type="venue">E Fk</placeName></persName>; for <seg
                                 type="dTopic"><persName ref="/people/CLA01.html">M
                                 J</persName></seg>; <seg type="dMeeting" subtype="Adv">adv.
-                                    <persName>Braddock jun<hi rend="sup"
+                                    <persName ref="/people/BRA02.html">Braddock jun<hi rend="sup"
                             >r</hi></persName></seg></seg>. <ref type="dText" subtype="read"
                             target="/bibl/te1670.html">Woodland, Vol. II</ref>.</ab>
                     <ab type="dDay" xml:id="g1807-08-26"><date when="1807-08-26">26. W.</date><ref
@@ -3678,7 +3678,7 @@
                                 ref="/people/MUL01.html">Mulready</persName> sups</seg>.</ab>
                     <ab type="dDay" xml:id="g1807-12-21"><date when="1807-12-21">21. M.</date><ref
                             type="dEvent" subtype="PersEvent" target="/events/pe0179.html"
-                            >Advertisement, Shopman</ref>; <persName>Bradley</persName>, &amp;c:
+                            >Advertisement, Shopman</ref>; <persName ref="/people/BRA03.html">Bradley</persName>, &amp;c:
                             <seg type="dMeal" subtype="DG"><persName ref="/people/FEN03|FEN04.html"
                                 >E Fks</persName>, <persName ref="/people/DAW01|DAW02.html">2
                                 Dawes</persName>, <persName ref="/people/MUL01.html">2

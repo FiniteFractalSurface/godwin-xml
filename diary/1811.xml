@@ -1053,7 +1053,7 @@
                             type="dWrote" subtype="letter">Write to <persName
                                 ref="/people/KIN02.html">C Mountcashel</persName></ref>. <ref
                             type="dText" subtype="read" target="/bibl/te1875.html">Battle of Books,
-                            pp. 50</ref>. <seg type="dMeeting" subtype="CG"><persName type="nah"
+                                    pp. 50</ref>. <seg type="dMeeting" subtype="CG"><persName ref="/people/BRA04.html" type="nah"
                                 >Branston</persName> calls <hi rend="sup">n</hi></seg>, &amp; <seg
                             type="dMeeting" subtype="CG"><persName>Phipps</persName></seg>: <seg
                             type="dMeeting" subtype="M">meet <persName ref="/people/KNO01.html"
@@ -1147,7 +1147,7 @@
                                 ref="/people/NEW01.html">Newton</persName></seg>, <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/WHI01.html"
                                 >White</persName></seg> &amp; <seg type="dMeeting" subtype="CG"
-                                ><persName type="nah">Branston</persName><hi rend="sup">n</hi>
+                                    ><persName ref="/people/BRA04.html" type="nah">Branston</persName><hi rend="sup">n</hi>
                             call</seg>; &amp; <seg type="dMeeting" subtype="CG"><persName
                                 ref="/people/GOD02.html">Jo G</persName></seg>: <seg type="dMeal"
                             subtype="SG"><persName ref="/people/FEN04.html">E Fk j<hi rend="sup"
@@ -1453,7 +1453,7 @@
                                     >Humes</placeName></persName>, w. <persName>C &amp; E
                                 Pulman</persName> &amp; <persName ref="/people/CLA01.html">M
                                 J</persName>; <seg type="dMeeting" subtype="Adv">adv. <persName
-                                    ref="/people/HOL05.html">L Ht</persName> &amp; <persName>B
+                                        ref="/people/HOL05.html">L Ht</persName> &amp; <persName ref="/people/MER07.html">B
                                     Mercier</persName></seg></seg>. <emph rend="red"><ref
                                 type="dEvent" subtype="Publ" target="/events/pu0137.html">Battle of
                                     <placeName>Fuentes d’Onoro</placeName></ref>.</emph></ab>
@@ -3989,7 +3989,7 @@
                                     Sharp</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName ref="/people/TIP02.html"><placeName type="venue"
                                     >Tipper</placeName></persName></seg>, <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                        subtype="C"><persName ref="/people/BLA10.html"><placeName type="venue"
                                 >Black</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName ref="/people/PAR99.html"><placeName type="venue"
                                     >Parry</placeName></persName></seg>, &amp; <seg type="dMeeting"
