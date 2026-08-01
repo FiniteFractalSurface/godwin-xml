@@ -24,10 +24,9 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="BRO16" sex="1">
+                <person xml:id="BRO17" sex="1">
                     <persName>
-                        <roleName/>
-                        <forename>Elizabeth Cullen </forename>
+                        <roleName/>Lady <forename/>
                         <surname>Brown</surname>
                         <addName/>
                     </persName>
@@ -37,10 +36,13 @@
                     <death when="1000-12-31"/>
                     <occupation>OCCUPATION</occupation>
                     <note type="editorial">
-                        <p>See Ed Pope: Ellen Brown, miss E Brown, and Henrietta Brown (probably two (or three) 
-                            of the four sisters, daughters of John Brown DNB 1733-1788.  Miss E Brown was
-                            possibly Ellen or Elizabeth Cullen Brown sister of William Cullen Brown who wrote
-                            a novel published in 1819. </p>
+                        <p>See Ed Pope's comment: Lady Charlotte Brown, eldest dau of Earl of
+                            Kenmare = May 1802 George Goold, Old Court, Cork / Margaret (nee
+                            Lorinan) = c1792 John Edmond Browne 1748-1835 created Baronet 1797, she
+                            died 1843 will PCC 1844 of Holles St Dublin / Marion nee Henderson =
+                            1798 Sir James Brown Brown. These three seem the only possibles from
+                            Burke's Peerage and lists of knights, the last was Scottish so less likely
+                            as this was probably a mainly Irish gathering </p>
                     </note>
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,

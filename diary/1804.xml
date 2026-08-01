@@ -413,7 +413,7 @@
                         type="dMeeting" subtype="Adv">adv. <persName>Ridout</persName></seg></seg>:
                      <seg type="dMeal" subtype="D">dine at <persName ref="/people/ROW01|ROW02.html"
                            ><placeName type="venue">H Rowan's</placeName></persName>, w. <persName>O
-                        Byrne</persName>, <persName>Castle Brown</persName>, <emph rend="deleted"
+                              Byrne</persName>, <persName ref="/people/BRO21.html">Castle Brown</persName>, <emph rend="deleted"
                            >&amp;</emph><persName>Evans</persName> &amp; <persName ref="/people/BER03.html">Mrs
                         Beresford</persName></seg>: <seg type="dMeal" subtype="DG"><persName
                         ref="/people/FEN01|FEN03.html">Fks</persName> &amp;
@@ -633,7 +633,7 @@
                            >Jo G's</placeName></persName>, w. <persName ref="/people/MAR01.html"
                         >M</persName></seg>. <seg type="dMeeting" subtype="M">meet <persName
                         ref="/people/ROW01.html">H Rowan</persName></seg> &amp; <seg type="dMeeting"
-                     subtype="M"><persName>Castle Brown</persName></seg>.</ab>
+                           subtype="M"><persName ref="/people/BRO21.html">Castle Brown</persName></seg>.</ab>
                <ab type="dDay" subtype="NotLon" xml:id="g1804-02-23"><date when="1804-02-23">23.
                      Th.</date><seg type="dMeeting" subtype="Do">Coach, <placeName>Golden Cross, C
                         C</placeName>, w. <persName ref="/people/GOD02.html">Jo G</persName></seg>:
@@ -3722,7 +3722,7 @@
                <ab type="dDay" xml:id="g1804-11-18"><date when="1804-11-18">Nov. 18. Su.</date><ref
                      type="dWrote" subtype="write" target="/works/flee01.html">Fleetwood, 1/2
                      page</ref>. <seg type="dMeeting" subtype="CG"><persName>Frank</persName>
-                     calls</seg>: <seg type="dMeal" subtype="DG"><persName>D<hi rend="sup">r</hi>
+                        calls</seg>: <seg type="dMeal" subtype="DG"><persName ref="/people/BRO01.html">D<hi rend="sup">r</hi>
                         Brown</persName> &amp; <persName ref="/people/WOL03.html">Ja<hi rend="sup"
                            >s</hi> Wt</persName> dine</seg>.</ab>
                <ab type="dDay" xml:id="g1804-11-19"><date when="1804-11-19">19. M.</date><ref

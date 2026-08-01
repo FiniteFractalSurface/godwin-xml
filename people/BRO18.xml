@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="BRO18" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>NAME</forename>
+                        <surname>Brown</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>For cases of Brown not otherwise identified that appear berween 1796 and
+                            1816 we refer readers to the discussion by Ed Pope: 2.8.1796 TO
+                            17.3.1815 In August 1796 Godwin first noted W C Brown who was clearly
+                            William Cullen Brown, surgeon and son of the more famous John Brown DNB
+                            1735-88. Between then and W C Brown's death on 1.1.1816 (which Godwin
+                            did not note) there were 37 W C Brown entries in the diary and 13
+                            entries which are clearly identifiable as someone else - 4 Tim Brown
+                            (see above) 4 Castle Brown (qv), 2 Gunter Brown (see above) 1 S W Brown
+                            (qv) 1 Lady Brown (qv), and 1 Ford Brown (qv). None of these are listed
+                            above. In that same period (1796 to 1815) there were 9 other plain Brown
+                            entries, some of which could have been W C Brown. It seems unlikely that
+                            Godwin was reserving plain Brown for a particular person as there were
+                            very few of these entries and no clear Brown had been established by the
+                            entries before 1796. First of all there was a Mrs Brown in 1802 at
+                            Fell's, who may have been the same person Godwin noted twice in 1795,
+                            caliing on her once and seeing her once at John King's. Or those three
+                            could each have been a different person. Then there was a Brown calls in
+                            1802, and a Dr Brown dines on 18.11.1804. This last one I suspect was
+                            William Cullen Brown, because two days before W C Brown had called for
+                            the first time in 18 months and on the intervening day Godwin read Life
+                            of Brown, which the GD website tags as te1520 unable to identify. W C
+                            Brown got his MD at Edinburgh in 1802 and his collection of his father's
+                            works with a memoir by him was published in 1804 so Godwin's use of Dr
+                            Brown perhaps showed a sense of approval at his friend's achievements.
+                            However the next two entries above, Browns at Philips in 1805 and 1806,
+                            are unlikely to have been him. He doesn't seem to have married until
+                            22.2.1810 to Marianne Watt at Woolwich. And in a letter to Godwin dated
+                            1.9.1806, (Bodleian Abinger c10 f2-3), the day after Godwin saw Browns
+                            at Phillips', W C Brown apologised for missing a dinner invitation the
+                            week before last. This also casts doubt on the Brown at Phillips in
+                            1807, who was there along with Batty as the Browns were in the previous
+                            two years, three of the five times Godwin saw a Batty there. The Brown
+                            at Johnson's in 1807 could have been W C Brown as it was Johnson who
+                            published his collection of his father's works. Then there was a Brown
+                            sups in December 1807 which could have been W C Brown, and a write to
+                            Brown in March 1808 which came near the start of an absence of more than
+                            a year of seeing W C Brown. Finally the 2 Browns of 1813 dining with 5
+                            Humes could well have been W C Brown and his wife. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

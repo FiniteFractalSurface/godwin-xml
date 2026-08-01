@@ -24,23 +24,24 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="BRO16" sex="1">
+                <person xml:id="BRO20" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>Elizabeth Cullen </forename>
+                        <forename>Thomas Gunther</forename>
                         <surname>Brown</surname>
                         <addName/>
                     </persName>
-                    <birth when="1000-01-01">
+                    <birth when="1756">
                         <placeName/>
                     </birth>
-                    <death when="1000-12-31"/>
-                    <occupation>OCCUPATION</occupation>
+                    <death when="1834"/>
+                    <occupation>Writer and Army officer</occupation>
                     <note type="editorial">
-                        <p>See Ed Pope: Ellen Brown, miss E Brown, and Henrietta Brown (probably two (or three) 
-                            of the four sisters, daughters of John Brown DNB 1733-1788.  Miss E Brown was
-                            possibly Ellen or Elizabeth Cullen Brown sister of William Cullen Brown who wrote
-                            a novel published in 1819. </p>
+                        <p>See Ed Pope's comment: Thomas Gunter Browne, who was at Tooke's as Gunter
+                            Brown on 2.9.1798, 14.4.1799 and 22.8.1802, and whose work Godwin had
+                            read on 31.12.1795. From Alum Cantab, he was born 3.11.1756 Antigua, was
+                            a scholar from Westminster School to Trinity Cambridge but joined army
+                            instead 1777-1783, lived later in France and died 1834 </p>
                     </note>
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,

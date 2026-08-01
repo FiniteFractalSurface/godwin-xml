@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="BRO21" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Thomas Wogan / Castle Brown</forename>
+                        <surname>Browne </surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1758">
+                        <placeName/>
+                    </birth>
+                    <death when="1812"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's cnote: Probably Thomas Wogan Browne 1758-1812 son of
+                            Michael Browne and Catherine Wogan of Castle Browne, Co. Kildare. Raised
+                            a Catholic he converted to the established chuech on his marriage to
+                            Sarah Pierson 1.12.1785. He lived at Castle Browne from 1788 and in 1794
+                            offered to act as bondsman for Archibald Hamilton Rowan DNB 1751-1834
+                            when Rowan was imprisoned for sedition. Browne was a captain in the
+                            yeoman cavalry and his commission was withdrawn by the government who
+                            suspected him of being a United Irish leader. He committed suicide in
+                            1812 and his younger brother Michael an officer in the Saxon service
+                            sold Castle Browne to the Jesuits. It is now Clongowes Wood College. See
+                            rds.ie (the website of the Royal Dublin Society) and turtlebunbury.com.
+                            Pn 3.6.1800 Godwin was on his journey from Dublin to Carlow and Castle
+                            Browne was not far out of his way, a few miles north of Naas which he
+                            noted passing through the next day</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
