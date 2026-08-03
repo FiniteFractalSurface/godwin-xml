@@ -4332,7 +4332,7 @@
                                     >Davis</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName ref="/people/RIT01.html"><placeName type="venue"
                                     >Ritson</placeName></persName></seg>: <seg type="dMeal"
-                            subtype="DG"><persName>C.</persName> dines</seg>. <seg type="dMeeting"
+                                        subtype="DG"><persName ref="/people/COO01.html">C.</persName> dines</seg>. <seg type="dMeeting"
                             subtype="other"><orgName>Philomaths</orgName>, <seg type="dTopic"
                                 >love</seg></seg>. <ref type="dWrote" subtype="corr"
                             target="/works/poli01.html">Correct Vol. II</ref></ab>
@@ -4413,7 +4413,7 @@
                                 >Perry</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1794-12-31"><date when="1794-12-31">31. W.</date><ref
                             type="dWrote" subtype="revised" target="/works/poli01.html"
-                        >Revise</ref>. <seg type="dMeal" subtype="DG"><persName>C</persName>
+                            >Revise</ref>. <seg type="dMeal" subtype="DG"><persName ref="/people/COO01.html">C</persName>
                             dines</seg>: <seg type="dMeal" subtype="Ta">tea <persName
                                 ref="/people/BAR06.html"><placeName type="venue">mrs
                                     Barbauld's</placeName></persName>, talk of <seg type="dTopic"

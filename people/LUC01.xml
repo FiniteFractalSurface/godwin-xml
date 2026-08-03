@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="LUC01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Margaret and Lucas</forename>
+                        <surname>SURNAME</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's note - we have altered the entry to follow his suggestion:
+                            Though possibly the Mart above referred to Margaret Jones whom Godwin
+                            had already met in Bath it seems more probable her first visit to Godwin
+                            in London was on 6.10.1797 when she was named in full. Notes and
+                            Observations to the Studley Memorials by Henry Reveley 1788-1875 (see
+                            Shelley and His Circle x 1136) identify a deaf-mute Lucas of about
+                            Reveley's age as son of Margaret, Godwin's housekeeper before he moved
+                            to the Polygon (6.4.1797 shortly after his marriage to Mary
+                            Wollstonecraft). Marguerite was the name of the nursemaid Wollstonecraft
+                            found in Paris in 1794 and Godwin seems to have referred to her as
+                            Margaret in two of his letters to Wollstonecraft (13.7.1796 and
+                            19.8.1796). But by his letter of 13.11.1796 Abinger c40 f94 he was
+                            referring to her as Marguerite. At St Pancras 30.12.1799 Jean Joseph
+                            Robette bach otp married Marguerite Journee sp otp by banns, wits W
+                            Monet, Ann Cosdale. (Janet Todd in Collected Letters of Mary
+                            Wollstonecraft has her indexed as Fournée). John Arrowsmith bach of
+                            Paris married 21.3.1822 at St Geo Han Sq Fanny Robette a minor with
+                            consent of her father Joseph, who was a witness along with Harriet
+                            Ducross, F Gealer, Laura Lecrirang, Pietro Larray, John Lavanchy and John
+                            Gale. In the 1841 census J Robette age 70 male servant was in the
+                            household of Vincent Duncan age 59 of Cavendish Square, Marguerite
+                            Robette of Charlotte St Portland Pl was buried at St Pancras 14.12.1847
+                            age 78. In the 1851 census J Robette widower age 80 born China was
+                            living in Portland Place and Joseph Robette of Charlotte St Portland
+                            Place was buried at St Pancras 26.3.1861 age 95. In the 1851 census a
+                            Lucas Davies age 64 born Lewisham grocer of Thorn St Reading and his
+                            daughter Mary were both marked as deaf and dumb. If that was Lucas and
+                            the age correct he would have been about 11 in 1798 on going to school
+                            and a year or two older than Henry Reveley. The letter of 3.7.1802 from
+                            James Marshall to Godwin (Abinger c7 f129) gave the impression that
+                            Lucas was more Marshall's responsibility than Godwin's (Marshall was
+                            perhaps his father?). The L of 7.1.1800 may have been Lucas. The congé
+                            (leavetaking) of Cooper and Marguerite on 1.4.1802 could have meant many
+                            things. Thomas Abthorpe Cooper (American National Biog 1775-1849) was in
+                            America from 1796 until Jan 1803. Marguerite was a character in Godwin's
+                            book St Leon. Cooper was supposedly the name of Godwin's maid (Winifred
+                            F Courtney, Young Charles Lamb p299 and note 1- referring to Charles
+                            Lamb's letter to Godwin of 4.12.1800). If this entry referred to her it
+                            seems to have been the only time she was mentioned in Godwin's diary. In
+                            Charlotte Gordon's Romantic Outlaws (2015) p29 it says that Godwin's
+                            second wife (whom he married on 21.12.1801) fired the "beloved nurse,
+                            Marguerite, as well as Godwin's maids and the cook". I'm not sure of the
+                            source of this but that is perhaps what the congé referred to. Her book
+                            also says on p368 that Henry Reveley was "around the same age" as Fanny
+                            Imlay, in fact it would have been a seven year old boy playing with a
+                            girl of two, though that is quite probable. 29.1.1808 Lucas adv. at
+                            Philips / 29.7.1808 again / 22.7.1811 write to Lucas and Meyler / 5.1.1817
+                            dine at Stewart's; adv. Lucas and Meyler, and concert These could all be the
+                            deaf mute Lucas but it seems unlikely he would arrive by chance at
+                            Richard Phillips'. The combination of Lucas and Meyler on two occasions is
+                            striking but probably coincidence as Godwin was writing to Meyler before
+                            and after 1811, and GD website has a good identity with Dr Anthony
+                            Meyler. Holdens 1811 has 43 Lucas in trades and 21 in court. W Lucas
+                            surgeon, Hatton Court, Threadneedle-st / Wm Lucas surgeon Great
+                            James-st, Bedford-row / John Lucas, bookseller, 27 Gt Quebec-st, New-rd
+                            (Holdens 1811). William Meyler bookseller printer and medicine vendor,
+                            Bath will PCC 1821.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

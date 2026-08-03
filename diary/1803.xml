@@ -1307,7 +1307,7 @@
                             Su.</date><ref type="dWrote" subtype="write" target="/works/chau01.html"
                             >Chaucer, 4 pages</ref>. <seg type="dMeeting" subtype="CG"><persName
                                 ref="/people/SMA01.html">Smart</persName> calls</seg>: <seg
-                            type="dMeal" subtype="DG"><persName>Lucas</persName> dines</seg>: <seg
+                                    type="dMeal" subtype="DG"><persName ref="/people/LUC01.html">Lucas</persName> dines</seg>: <seg
                             type="dMeeting" subtype="M">meet <persName ref="/people/WAK01.html"
                                 >Wake</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1803-05-02"><date when="1803-05-02">2. M.</date><ref
@@ -2736,7 +2736,7 @@
                             >Granger</ref></ref>: <seg type="dMeeting" subtype="C">call on <persName
                                 ref="/people/KNA01.html"><placeName type="venue">L
                                 Knapp</placeName></persName>; <seg type="dMeeting" subtype="Adv"
-                                >adv. <persName>C</persName> &amp; <persName
+                                    >adv. <persName>C</persName> &amp; <persName
                                     ref="/people/HIL02.html">E Hills</persName></seg></seg>: <seg
                             type="dMeal" subtype="S">sup at <persName ref="/people/PHI01.html"
                                     ><placeName type="venue">Philip'ss, Haverstock

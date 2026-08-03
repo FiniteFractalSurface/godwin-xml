@@ -1178,7 +1178,7 @@
           <ab type="dDay" xml:id="g1819-05-16"><date when="1819-05-16">May 16. Su. </date><ref
               type="dText" subtype="read" target="/bibl/te0310.html">Suetonius</ref>, <ref
               type="dText" subtype="read" target="/bibl/te2664.html"
-              ><persName>Burton</persName></ref>, <ref type="dText" subtype="cala"
+                ><persName ref="/people/BUR17.html">Burton</persName></ref>, <ref type="dText" subtype="cala"
               target="/bibl/te1458.html">Montaigne, çala</ref>. <seg type="dMeeting" subtype="CG"
                 ><persName ref="/people/ROS01.html">Rosser</persName> calls</seg>.</ab>
           <ab type="dDay" xml:id="g1819-05-17"><date when="1819-05-17">17. M.</date><ref
@@ -2574,7 +2574,7 @@
           <ab type="dDay" xml:id="g1819-10-25"><date when="1819-10-25">25. M.</date><ref
               type="dText" subtype="read" target="/bibl/te2637.html">Ariosto, st. 80</ref>. <seg
               type="dMeeting" subtype="CG"><persName ref="/people/BOT01.html">Botwright</persName>
-              calls</seg>: <seg type="dMeal" subtype="DG"><persName>C</persName> &amp; <persName
+                calls</seg>: <seg type="dMeal" subtype="DG"><persName ref="/people/COO01.html">C</persName> &amp; <persName
                 ref="/people/BAX01.html">R Baxter</persName> dine; <seg type="dMeeting"
                 subtype="Adv">adv. <persName ref="/people/BOO01.html"
             >Booth</persName></seg></seg>.</ab>
@@ -2637,7 +2637,7 @@
                   type="venue">Keir</placeName></persName></seg>:<ref type="dEntertainment"
               subtype="Theat" target="/plays/road01.html"><placeName type="CG"/> theatre, Road to
               Ruin</ref>. <seg type="dMeeting" subtype="CG"><persName>Johnstone</persName></seg>
-            &amp; <seg type="dMeeting" subtype="CG"><persName>Burton</persName> call</seg>.</ab>
+            &amp; <seg type="dMeeting" subtype="CG"><persName ref="/people/BUR17.html">Burton</persName> call</seg>.</ab>
           <ab type="dDay" xml:id="g1819-11-03"><date when="1819-11-03">3. W. </date><ref
               type="dText" subtype="read" target="/bibl/te2637.html">Ariosto, st. 55</ref>. <seg
               type="dMeeting" subtype="C"> Call on <persName ref="/people/BOO01.html"><placeName
@@ -2686,7 +2686,7 @@
                   ref="/people/KEI01.html">Keir</persName> tea &amp; supper</seg></seg>: <ref
               type="dEntertainment" subtype="Theat" target="/plays/king02.html"><placeName/>theatre,
               1/4 Richard III (<persName ref="/people/KEA03.html">Kean</persName>)</ref>. <seg
-              type="dMeal" subtype="DG"><persName>C</persName> &amp; <persName
+                type="dMeal" subtype="DG"><persName ref="/people/COO01.html">C</persName> &amp; <persName
                 ref="/people/BAX01.html">R Baxter</persName> dine</seg>.</ab>
           <ab type="dDay" xml:id="g1819-11-09"><date when="1819-11-09">9. Tu. </date><ref
               type="dWrote" subtype="revised" target="/works/popu01.html">Malthus, revise</ref>.

@@ -3617,7 +3617,7 @@
                                 >Curtis</placeName></persName></seg>, <seg type="dMeeting"
                                     subtype="C"><persName ref="/people/GAL03.html"><placeName type="venue"
                                 >Gale</placeName></persName></seg> &amp; <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                    subtype="C"><persName ref="/people/COO01.html"><placeName type="venue"
                             >C</placeName></persName></seg>, <seg type="dMeeting" subtype="C"
                                 ><persName ref="/people/PLA02.html"><placeName type="venue"
                                     >Place</placeName></persName></seg> &amp; <seg type="dMeeting"
@@ -3916,7 +3916,7 @@
                                 Rees</persName></seg>)</seg>, <seg type="dMeeting" subtype="CG"
                                 ><persName>Law</persName></seg>, <seg type="dMeeting" subtype="CG"
                                     ><persName ref="/people/GAL03.html">Gale</persName></seg> &amp; <seg type="dMeeting"
-                            subtype="CG"><persName>C</persName></seg>, &amp; <seg type="dMeeting"
+                                        subtype="CG"><persName ref="/people/COO01.html">C</persName></seg>, &amp; <seg type="dMeeting"
                             subtype="CG"><persName>Cradock</persName></seg> &amp; <seg
                             type="dMeeting" subtype="CG"><persName>Joy</persName></seg>: <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/ROB03.html">H

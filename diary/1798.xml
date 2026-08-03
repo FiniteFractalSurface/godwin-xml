@@ -203,7 +203,7 @@
                             Country Girl, &amp; Bluebeard; <seg type="dMeeting" subtype="Adv">adv.
                                     <persName ref="/people/NEW01.html"
                         >Newton</persName></seg></ref>. <ref type="dEvent" subtype="PersEvent"
-                            target="/events/pe0001.html"><persName>Lucas</persName> to
+                            target="/events/pe0001.html"><persName ref="/people/LUC01.html">Lucas</persName> to
                         school</ref>.</ab>
                     <ab type="dDay" xml:id="g1798-01-17"><date when="1798-01-17">17. W.</date><seg
                             type="dMeeting" subtype="CG"><persName ref="/people/DYS01.html"
@@ -910,7 +910,7 @@
                                 >Tuthil</persName> &amp; <persName ref="/people/COO05.html">E P
                                 C</persName>; <seg type="dMeeting" subtype="Adv">adv. <persName
                                     ref="/people/STO01.html">Stoddart</persName>,
-                                    <persName>Burrel</persName> &amp; <persName
+                                    <persName ref="/people/BUR19.html">Burrel</persName> &amp; <persName
                                     ref="/people/ALD02.html">A A</persName></seg></seg>. <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/REV01.html">M
                                 R</persName> calls</seg>.</ab>
@@ -1687,7 +1687,7 @@
                             type="dEntertainment" subtype="Theat" target="/plays/elop01.html"
                                 ><placeName type="DL"/>Theatre, She's Eloped; <seg type="dMeeting"
                                 subtype="Adv">adv. <persName ref="/people/NEW01.html"
-                                    >Newton</persName>, <persName>Burrel</persName> &amp; <persName
+                                    >Newton</persName>, <persName ref="/people/BUR19.html">Burrel</persName> &amp; <persName
                                     ref="/people/PAR99.html">Parry</persName></seg></ref>: <seg
                             type="dMeal" subtype="SG"><persName ref="/people/DYS01.html"
                                 >Dyson</persName> sups</seg>.</ab>
@@ -2037,7 +2037,7 @@
                             subtype="D">Dine at <persName ref="/people/GOD04.html"><placeName
                                     type="venue">H G's</placeName></persName>, w. <persName
                                 ref="/people/MAR01.html">M</persName>, &amp;c</seg>: <seg
-                            type="dMeeting" subtype="M">meet <persName>Burrel</persName></seg>:
+                                    type="dMeeting" subtype="M">meet <persName ref="/people/BUR19.html">Burrel</persName></seg>:
                             <emph rend="deleted">Ritson <hi rend="sup">n</hi> &amp;</emph><seg
                                 type="dMeeting" subtype="CG"><persName ref="/people/BRA02.html"> Braddocks</persName>
                         call</seg>.</ab>
@@ -2320,7 +2320,7 @@
                             type="dMeal" subtype="D">dine at <persName ref="/people/HOL01.html"
                                     ><placeName type="venue">Ht's</placeName></persName>, w.
                                 <persName ref="/people/FOU01.html">Foulkes</persName> &amp;
-                                <persName>Burrel</persName>; <seg type="dMeeting" subtype="Adv">adv.
+                                        <persName ref="/people/BUR19.html">Burrel</persName>; <seg type="dMeeting" subtype="Adv">adv.
                                     <persName ref="/people/GEI01.html">Geisweiler</persName> &amp; <persName
                                     ref="/people/STO01.html">Stoddart</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1798-07-09"><date when="1798-07-09">9. M.</date><ref
@@ -2501,7 +2501,7 @@
                             type="dMeal" subtype="Ta">Tea <persName ref="/people/SMI02.html"
                                     ><placeName type="venue">Cha Smith's</placeName></persName>, w.
                                 <persName>W</persName>, <persName>G</persName>,
-                                <persName>C</persName> &amp; <persName ref="/people/HOL01.html"
+                                <persName ref="/people/COO01.html">C</persName> &amp; <persName ref="/people/HOL01.html"
                                 >Ht</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1798-07-25"><date when="1798-07-25">25. W.</date><ref
                             type="dWrote" subtype="write" target="/works/leon01.html">St Leon, p.
@@ -4063,7 +4063,7 @@
                             subtype="D">Dine at <persName ref="/people/HOL01.html"><placeName
                                     type="venue">Ht's</placeName></persName>, w. <persName
                                 ref="/people/FOU01.html">Foulkes's</persName>,
-                                <persName>Burrel</persName> &amp;
+                                <persName ref="/people/BUR19.html">Burrel</persName> &amp;
                             <persName>Spurling</persName></seg>: <seg type="dMeal" subtype="Ta">tea
                                     <persName><placeName type="venue">O
                                 Fancourt's</placeName></persName>, w. <persName

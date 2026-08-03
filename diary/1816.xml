@@ -80,7 +80,7 @@
                                     ><placeName type="venue">Miles</placeName></persName></seg>,
                         <seg type="dMeeting" subtype="C"><persName ref="/people/BAR21.html"><placeName type="venue"
                                     >Barber</placeName></persName></seg>, <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                        subtype="C"><persName ref="/people/COO09.html"><placeName type="venue"
                                 >Cooper</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName ref="/people/GOD02.html"><placeName type="venue"
                                     >Jo G</placeName></persName></seg>: <seg type="dMeeting"
@@ -454,7 +454,7 @@
                                     >Alsager’s</placeName></persName>, w. <persName
                                 ref="/people/HAZ01.html">Hazlitt</persName>, <persName
                                 ref="/people/ROB03.html">H Robinson</persName> &amp;
-                                <persName>Burrell</persName></seg>.</ab>
+                                    <persName ref="/people/BUR19.html">Burrell</persName></seg>.</ab>
                     <pb n="e.214_0029v"/>
                     <ab type="dDay" xml:id="g1816-02-11"><date when="1816-02-11">Feb. 11.
                             Su.</date><ref type="dText" subtype="read" target="/bibl/te2378.html">K
@@ -1147,14 +1147,14 @@
                                 <persName ref="/people/MIL03.html">R Miller</persName>)</seg> &amp;
                             <seg type="dMeeting" subtype="Cn"><persName ref="/people/YAN01.html"
                                     ><placeName type="venue">Yaniewicz</placeName></persName> (w.
-                                <persName>C</persName>.)</seg>: <seg type="dMeal" subtype="D">dine
+                                <persName ref="/people/COO01.html">C</persName>.)</seg>: <seg type="dMeal" subtype="D">dine
                             at <persName ref="/people/BOS03.html"><placeName type="venue"
                                     >Boswell’s</placeName></persName>, w. <persName
                                 ref="/people/MAC11.html">Mackenzie &amp;
                                 <foreign>fille</foreign></persName>, <persName
                                 ref="/people/JEF01.html">Jeffery</persName>,
                                 <persName>Brewster</persName>, <persName>Coventry</persName>,
-                                <persName>L</persName> &amp; <persName>C</persName>; <seg
+                                    <persName>L</persName> &amp; <persName ref="/people/COO01.html">C</persName>; <seg
                                 type="dMeeting" subtype="Inv">invité
                                 <persName>Cranston</persName></seg></seg>.</ab>
                     <ab type="dDay" subtype="NotLon" xml:id="g1816-04-20"><date when="1816-04-20"
@@ -1758,7 +1758,7 @@
                             9</ref>. <seg type="dMeeting" subtype="C">Call on <persName
                                 ref="/people/HUM01.html"><placeName type="venue"
                                 >Hume</placeName></persName></seg> &amp; <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                    subtype="C"><persName ref="/people/COO09.html"><placeName type="venue"
                                 >Cooper</placeName></persName> bb</seg>.</ab>
                     <ab type="dDay" xml:id="g1816-06-19"><date when="1816-06-19">19. W.</date><ref
                             type="dWrote" subtype="write" target="/works/mand01.html">Mandeville, p.
@@ -2356,7 +2356,7 @@
                                     Taylor</placeName></persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1816-08-23"><date when="1816-08-23">23. F.</date><ref
                             type="dText" subtype="read" target="/bibl/te2444.html">Holcroft, Vol.
-                            III</ref>. <seg type="dMeeting" subtype="C">Call on <persName><placeName
+                            III</ref>. <seg type="dMeeting" subtype="C">Call on <persName ref="/people/COO09.html"><placeName
                                     type="venue">Cooper</placeName></persName></seg>, <seg
                             type="dMeeting" subtype="C"><persName ref="/people/THE02.html"
                                     ><placeName type="venue">Theobald</placeName></persName></seg>,
@@ -2439,7 +2439,7 @@
                             subtype="CG"><persName>Skirving</persName></seg> &amp; <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/BAR05.html"
                                 >Barham</persName> call</seg>: <seg type="dMeal" subtype="DG"
-                                ><persName>mrs Cooper</persName> of
+                                    ><persName ref="/people/COO09.html">mrs Cooper</persName> of
                                 <placeName>Cheltenham</placeName> dines</seg> &amp; <seg
                             type="dMeeting" subtype="Sleeps"><persName>sleeps</persName></seg>. <seg
                             type="dMeeting" subtype="C">Call on <persName ref="/people/BIS02.html"

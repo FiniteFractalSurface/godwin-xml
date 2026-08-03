@@ -559,7 +559,7 @@
                         M</persName>, <persName ref="/people/CAR01.html"
                         >Carlisle</persName>,<persName ref="/people/BAT01.html"> Batty</persName>,
                         <persName ref="/people/STO01.html">Stoddart</persName>,
-                        <persName>Burrel</persName> &amp;<persName ref="/people/FEL01.html">
+                        <persName ref="/people/BUR19.html">Burrel</persName> &amp;<persName ref="/people/FEL01.html">
                         Fell</persName></ref> : <seg type="dMeeting" subtype="C">call on<persName
                         ref="/people/FEN03.html" type="nah"><placeName type="venue"> E
                         F</placeName></persName><hi rend="sup">n</hi></seg>, <seg type="dMeeting"
@@ -635,7 +635,7 @@
                         >Mackintosh</placeName></persName>;<persName ref="/people/BOA01.html">
                         Boaden</persName>, <persName ref="/people/CAR01.html"
                         >Carlisle</persName>,<persName ref="/people/STO01.html">
-                     Stoddart</persName>, <persName>Burrel</persName>, <persName>C M</persName>,
+                           Stoddart</persName>, <persName ref="/people/BUR19.html">Burrel</persName>, <persName>C M</persName>,
                         <persName>C M</persName>, <persName ref="/people/ALL02.html"
                         >Allens</persName> &amp; <persName ref="/people/FEL01.html"
                      >Fell</persName></seg>: <ref type="dEntertainment" subtype="Theat"
@@ -1087,7 +1087,7 @@
                         &amp; <persName ref="/people/GAW03.html">H Gawler</persName></seg></seg>:
                      <seg type="dMeeting" subtype="M"> meet <persName>miss Laney</persName></seg>:
                      <seg type="dMeal" subtype="SG"><persName ref="/people/MAR01.html">M</persName>
-                     sups</seg>: <seg type="dMeeting" subtype="Sleeps"><persName>Lucas</persName>
+                        sups</seg>: <seg type="dMeeting" subtype="Sleeps"><persName ref="/people/LUC01.html">Lucas</persName>
                      sleeps</seg>.</ab>
                <ab type="dDay" xml:id="g1799-04-15"><date when="1799-04-15">15. M.</date><ref
                      type="dText" subtype="read" target="/bibl/te0342.html">Duplicity, act 5</ref>.
@@ -1519,7 +1519,7 @@
                            rend="sup">r</hi></persName> &amp; <persName>Hussey</persName></seg>:
                      <seg type="dMeeting" subtype="M">meet <persName ref="/people/STO01.html">
                         Stodart</persName></seg> &amp; <seg type="dMeeting" subtype="M"
-                        ><persName>Burrel</persName></seg>.</ab>
+                           ><persName ref="/people/BUR19.html">Burrel</persName></seg>.</ab>
                <ab type="dDay" xml:id="g1799-05-25"><date when="1799-05-25">25. Sa.</date><ref
                      type="dWrote" subtype="write" target="/works/leon01.html">St Leon, p.
                   100</ref>. <seg type="dMeeting" subtype="CG"><persName ref="/people/GOD01.html">J
@@ -1867,7 +1867,7 @@
                      sale</ref>: <ref type="dEntertainment" subtype="Theat"
                      target="/plays/inkl01|fort02.html"><placeName type="HM"/>theatre, 1/6 Inkle
                      &amp; Yariso, &amp; Fortune's Frolic</ref>. <ref type="dEvent"
-                     subtype="PersEvent" target="/events/pe0001.html"><persName>Lucas</persName>
+                        subtype="PersEvent" target="/events/pe0001.html"><persName ref="/people/LUC01.html">Lucas</persName>
                      from school</ref>.</ab>
                <ab type="dDay" xml:id="g1799-06-21"><date when="1799-06-21">21. F.</date><ref
                      type="dWrote" subtype="write" target="/works/leon01.html">Revise</ref>. <ref
@@ -1893,7 +1893,7 @@
                         <persName>mrs Delany</persName></seg>: <seg type="dMeeting" subtype="M">
                      meet <persName ref="/people/MAC19.xml">Macquin</persName></seg>: <ref type="dEntertainment"
                      subtype="Theat" target="/plays/unkn35.html"><placeName type="RC"/>Circus, the
-                     Season, w. <persName>C</persName> &amp; <persName>O</persName></ref></ab>
+                        Season, w. <persName ref="/people/COO01.html">C</persName> &amp; <persName>O</persName></ref></ab>
                <pb n="e.204_0026r"/>
                <ab type="dDay" xml:id="g1799-06-23">F.<date when="1799-06-23">June 23. Su.
                      </date><ref type="dWrote" subtype="write" target="/works/leon01.html">St Leon,
@@ -1996,7 +1996,7 @@
                      target="/plays/juan01|unkn08|unkn11.html"><placeName type="SW"/><seg
                         type="dMeeting" subtype="Do"><placeName>Sadler's Wells</placeName>,
                            w.<persName ref="/people/JON01.html"> L J</persName>,
-                           <persName>Lucas</persName> &amp; <persName ref="/people/IML01.html"
+                        <persName ref="/people/LUC01.html">Lucas</persName> &amp; <persName ref="/people/IML01.html"
                            >Fanny</persName></seg> ; <seg type="dMeeting" subtype="Adv">adv.
                            <foreign>12 ans</foreign></seg>: <seg type="dMeal" subtype="SG"><persName
                            ref="/people/MAR01.html">M</persName> sups</seg>. Van Moritz, 1/2 Don
@@ -3770,7 +3770,7 @@
                         >Fuselis</persName> &amp; <persName>mrs Parke</persName>; <seg
                         type="dMeeting" subtype="Adv">adv. <persName ref="/people/EDG02.html"
                            >Edgworth jr.</persName></seg></seg><emph rend="small"><ref type="dEvent"
-                        subtype="PersEvent"><persName> Marguerite Journée</persName> married to
+                                 subtype="PersEvent"><persName ref="/people/LUC01.html"> Marguerite Journée</persName> married to
                            <persName>Jo. Robette</persName></ref></emph></ab>
                <ab type="dDay" xml:id="g1799-12-11"><date when="1799-12-11">11. W.</date><ref
                      type="dWrote" subtype="revised" target="/works/leon01.html">Revise p. <emph

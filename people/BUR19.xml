@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="BUR19" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>John Palfrey </forename>
+                        <surname>Burrell</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1773">
+                        <placeName/>
+                    </birth>
+                    <death when="1859"/>
+                    <occupation>Lawyer</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope: Robinson made a friendship with Burrell based partly on
+                            their both having been enthusiastic radicals and both having changed
+                            their views (Morley p115). 11.6.1813 Burrell warned Robinson who was
+                            just beginning his career at the bar, that he had been at the bar 8
+                            years and still had no practise. On 21.11.1821 "I went with Burrell to
+                            Aders" "A musical company - much fine musick which I could not
+                            comprehend and some that I enjoyed sincerely. We staid to supper and
+                            Burrell who took a slight part in the performances of the Evening
+                            thanked me as we parted for the introduction, but how he or they in fact
+                            like each other I cannot tell". On 12.12.1821 re: Nicolas Mori (DNB
+                            1796/7-1839) musician "Burrel says he is only a fine performer and stops
+                            short of genius and is not to be compared with Philippi (right name?)"
+                            and on 23.1.1822 Burrell was at the Aders along with "musical people"
+                            Like the entries of 1815 and 1816 at Alsager's in Godwin's diary above
+                            (which correspond with HCR diary, Morley pp178-9), this cannot have been
+                            Henry Burrell the barrister, who died in 1814. though Burrell is
+                            referred to as a barrister in notes to Hazlitt's Works vol 3 p296. The
+                            only other barrister it could have been was John Palfrey Burrell,
+                            youngest son of Palfrey George Burrell of Alnwick, Northumberland (will
+                            PCC 1820). He was admitted Grays Inn 1795, called to bar 1805, police
+                            magistrate 1833-1851, died unmarried 11.7.1859 age 86 (Boase, Morning
+                            Post 15.7.1859). He was criticised by the Morning Chronicle in 1847 for
+                            signing a warrant for felony against a 5 year old boy. He edited (1849)
+                            a book of reports from the battle of Waterloo. I have found no evidence
+                            to connect him with an earlier radicalism or with musical interests.
+                            Godwin often saw Burrell at lectures and Burrell was said to have edited
+                            one of Hazlitt's lectures for him (Morley p60). Since John Palfrey
+                            Burrell never married, and his mother died in 1802, and his father's
+                            will 1820 mentioned no daughters, it is unlikely that Miss and Mrs
+                            Burrell in Godwin's diary were his relations. (And they come in the
+                            company of Sarah Elwes who has very few friends, and thse of
+                            long-standing). Henry B barrister Lincolns Inn PCC 1814 / William B of
+                            Bloomspark Northumberland, JP PCC 1850, married Eleanor Forster in
+                            Northumberland in 1804. these two were brothers. T Burrell subscribed to
+                            Norwich Public Library in 1796. George Burrell librarian of Liverpool
+                            Athenaeum 1809, 1822. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

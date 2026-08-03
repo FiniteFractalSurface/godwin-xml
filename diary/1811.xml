@@ -1563,7 +1563,7 @@
                                     >c</hi>murdo</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName><placeName type="venue"
                                 >Ward</placeName></persName></seg> &amp; <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                    subtype="C"><persName ref="/people/COO09.html"><placeName type="venue"
                                 >Cooper</placeName></persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1811-05-15"><date when="1811-05-15">15. W.</date><seg
                             type="dMeeting" subtype="CG"><persName ref="/people/ROB03.html">H
@@ -2541,7 +2541,7 @@
                             subtype="C"><persName ref="/people/HUM01.html"><placeName type="venue"
                                     >Hume</placeName></persName></seg>: <seg type="dMeeting"
                             subtype="Sk">seek <persName>Martineau</persName></seg> &amp; <seg
-                            type="dMeeting" subtype="Sk"><persName>Cooper</persName></seg>: <seg
+                                type="dMeeting" subtype="Sk"><persName ref="/people/COO09.html">Cooper</persName></seg>: <seg
                             type="dMeal" subtype="DG"><persName ref="/people/TUR01.html">T
                                 T</persName> dines</seg>.</ab>
                     <ab type="dDay" xml:id="g1811-08-10"><date when="1811-08-10">10. Sa.</date><ref

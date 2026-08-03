@@ -1054,7 +1054,7 @@
                                 rend="sup">d</hi>, B. III, IV</ref>. <seg type="dMeeting"
                             subtype="C">Call on <persName ref="/people/PHI01.html"><placeName
                                     type="venue">Philips</placeName></persName>; <seg
-                                type="dMeeting" subtype="Adv">adv. <persName>Cooper</persName>,
+                                        type="dMeeting" subtype="Adv">adv. <persName ref="/people/COO09.html">Cooper</persName>,
                                     <persName ref="/people/MUR01.html">Murray</persName> &amp;
                                     <persName ref="/people/CON01.html"
                             >Constable</persName></seg></seg>.</ab>
@@ -1377,7 +1377,7 @@
                                 Jones</persName>, <persName ref="/people/CLA01.html">M J</persName>,
                                 <persName ref="/people/IML01.html">F</persName>, <persName
                                 ref="/people/SHE02.html">M</persName> &amp;
-                            <persName>C</persName></seg>.</ab>
+                                        <persName ref="/people/COO01.html">C</persName></seg>.</ab>
                     <pb n="e.209_0003r"/>
                     <ab type="dDay" xml:id="g1807-05-24"><date when="1807-05-24">May 24.
                             Su.</date><seg type="dMeeting" subtype="CG"><persName
@@ -2173,7 +2173,7 @@
                                 ref="/people/TUR01.html">T T</persName>, <persName
                                 ref="/people/CLA01.html">M J</persName>, <persName>E C</persName>,
                                 <persName ref="/people/IML01.html">F</persName> &amp;
-                                <persName>C</persName> dine at <placeName>S S</placeName></seg>:
+                                    <persName ref="/people/COO01.html">C</persName> dine at <placeName>S S</placeName></seg>:
                             <ref type="dEvent" subtype="PersEvent" target="/events/pe0162.html"
                                 ><persName>Jo. Hodgkins</persName> in possession</ref>.</ab>
                     <pb n="e.209_0008v"/>
@@ -3641,7 +3641,7 @@
                             target="/plays/faul02.html"><placeName type="DL"/><seg type="dMeeting"
                                 subtype="Do"> theatre, w. <persName ref="/people/TUR01.html">T
                                     T</persName>, <persName ref="/people/IML01.html">F</persName>,
-                                    <persName>C</persName> &amp; <persName ref="/people/SHE02.html"
+                                <persName ref="/people/COO01.html">C</persName> &amp; <persName ref="/people/SHE02.html"
                                     >M</persName></seg></ref>: <seg type="dMeal" subtype="SG"
                                 ><persName ref="/people/TUR01.html">T T</persName> &amp;
                                         <persName ref="/people/BRO18.html">Brown</persName> sup; <seg type="dMeeting" subtype="Adv"

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="COO09" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Thomas </forename>
+                        <surname>Cooper</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's suggestions: conge of Cooper and Marguerite 1.4.1802 /
+                            23.3.1805 call on Morgan with Philips adv Cooper / 30.10.1805 Cooper at
+                            Joseph Johnson's / 31.8.1806 Cooper at Philips / 17.4.1807 again /
+                            1.6.1808 call on Cooper with M(ary) J(ane) / 9.12.1809 call on T Cooper
+                            / 29.1.1810 call on Theobald and Ward adv Cooper / 20.3.1810 call on
+                            Cooper, OSSH / 22.3.1810 call on Cooper / 14.9.1810 M (from Cooper) /
+                            26.10.1810 call on Cooper, bb / 21.11.1810 call on Theobald and Cooper /
+                            23.11.1810 call on Cooper, S S H, and Ward / 14.5.1811 call on Ward and
+                            Cooper / 9.8.1811 seek Cooper / 3.11.1813 call on Cooper and Place /
+                            20.11.1813 M(ary) J(ane) calls on Cooper / 27.11.1813 call on Cooper and
+                            Place / 24.12.1814 C(harles) C(lairmont) from Cooper / 1.4.1815 call on
+                            Cooper / 24.10.1815 call on Cooper and Barber / 6.1.1816 call on Barber and
+                            Cooper / 18.6.1816 call on Cooper, bb / 23.8.1816 call on Cooper and
+                            Theobald / 30.8.1816 mrs Cooper of Cheltenham dines and sleeps / 19.6.1817
+                            write to A Cooper / 24.12.1817 mrs Cooper and E Collins dine / 10.12.1818
+                            call on Cooper / 9.3.1818 again / 19.5.1818 again / 10.1.1821 Cooper
+                            tragn at Aldis's / 9.7.1822 call on Cooper and Barber / 19.8.1822 again /
+                            2.1.1823 again / 17.8.1824 again / 31.12.1824 again / 2.8.1826 Cooper at
+                            Aldis's / 16.8.1827 mrs and miss Cooper at Aldis's / 24.6.1828 meet Kenney
+                            and Cooper, DL / 3.11.1831 call on C P Cooper / 4.11.1831 again /
+                            5.11.1831 again / 7.11.1831 call on C P Cooper, explain / 26.1.1833
+                            Coopers at Aldis's.
+                            </p><p>For the first entry above see my entry for Margaret and
+                            Lucas. The entries above are all those Cooper entries which I don't
+                            think referred to Thomas Abthorpe Cooper (qv) or his relatives, or to
+                            James Fenimore Cooper. In the second entry above, in 1805, Morgan has
+                            been coded to Dr Thomas Morgan of the Red Cross Library, but I think it
+                            was more likely William Morgan DNB 1750-1833 because his assistant
+                            actuary at the Society for Equitable Assurances was Thomas Cooper, and
+                            Godwin went to Morgan's with Richard Phillips, then two days later on
+                            27.3.1805 called on Phillips and then EAO (Eqitable Assurance Office?).
+                            A Short Account of the Society was published as early as 1776 with the
+                            names of Morgan and Cooper. (There was also one edition where the date of
+                            publication was written as 1713, obviously in error, and the names of
+                            Morgan and Cooper were at the foot of a meeting of the Court of Directors
+                            in 1771, though Morgan didn't start there until 1774). This Thomas
+                            Cooper may have been a relative of Thomas Cooper DNB 1759-1839, who
+                            lived at Bolton, Lancs before he went to America in 1794 (see my entry
+                            for Cooper, Thomas in SCI dataset), because the will proved PCC 5.2.1838
+                            of Thomas Cooper of Bolton le Moors, Lancs said he was formerly of the
+                            Society for Equitable Assurances London. The will mentioned his wife
+                            Sarah. no children, a sister and a nephew. This person may also have
+                            been the T Cooper of 1809 (especially as Godwin called on Equitable four
+                            days later), but the Cooper at Richard Phillips DNB 1767-1840 publisher
+                            in 1806 and 1807 was perhaps more likely Samuel Cooper DNB 1780-1848
+                            surgeon whose First Lines of Surgery was published by Phillips in 1807.
+                            The 1805 entry at Johnson's and the call of 1808 by Godwin and his wife
+                            were perhaps the surgeon as well. Thomas Abthorpe Cooper was in America
+                            from 1796 until Jan 1803 then again from Nov 1804 till July 1810. From
+                            1810 to 1824 the main Cooper was probably William Cooper whose will PCC
+                            1833 described him as a broker of Old South Sea House, London. He can be
+                            identified by OSSH, SSH, bb (for bill broker), and by adjacent calls on
+                            Ward (qv), Theobald (known by his first entry 16.6.1809 to have been a
+                            bill-broker), Francis Place DNB 1771-1854, and Barber (Stephen Barber
+                            broker of 7, Cowper's Court, Cornhill from 1814). While Thomas Abthorpe
+                            Cooper was in England from about July 1810 to Feb 1811 (he arrived
+                            28.3.1811 at New York) there were two entries above that were certainly
+                            William Cooper (bb and SSH) and one call next to Theobald on 21.11.1810
+                            which was probably him, though the call by Cooper on 22.11.1810 was
+                            probably Thomas Abthorpe Cooper, the bill broker probably never called
+                            on Godwin. Another Cooper appeared at Aldis's in 1821, 1826 and 1833,
+                            identified the first time as Cooper tragn (tragedian) and was probably
+                            John Cooper DNB 1793-1870. The Mrs and Miss Cooper of 1827 at Aldis's were
+                            perhaps his wife whom he married in 1825, and a sister or illegitimate
+                            daughter. The meet Cooper, DL of 24.6.1828, coded in GD website to
+                            Thomas Abthorpe Cooper, was probably John Cooper as well. DL generally
+                            stood in Godwin's diary for Drury Lane Theatre where John Cooper had
+                            first acted in London. Though I don't have a date for Thomas Abthorpe
+                            Cooper's return to America, his last previous appearance in the diary
+                            was on 3.3.1828, followed by three entries for James Fenimore Cooper, so
+                            I expect Thomas A Cooper had already returned to America. One more
+                            Cooper was four entries in 1831 all identified as C P Cooper, which was
+                            very likely Charles Purton Cooper DNB 1793-1873. Three other entries
+                            that I haven't dealt with were Mrs Cooper of Cheltenham in 1816, write
+                            to A Cooper in 1817 and Mrs Cooper and E Collins (wrongly transcribed in
+                            GD website as E Colfins) dine in 1817. The A Cooper written to may have
+                            been a child of Thomas A Cooper in America. A Mrs Cooper kept a school
+                            at Charlton House, nr Cheltenham (Jacksons Oxford Journal 17.1.1818).
+                            Mrs Cooper of the Priory was leaving Cheltenham (Morning Post 24.5.1823)
+                        </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

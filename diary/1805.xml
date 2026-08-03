@@ -1069,7 +1069,7 @@
                                     >Combe</placeName></persName></seg>: <seg type="dMeeting"
                             subtype="M">meet <persName ref="/people/SHA99.html"
                             >Sharpe</persName></seg>, <seg type="dMeeting" subtype="M"
-                                ><persName>Burrel</persName></seg> &amp; <seg type="dMeeting"
+                                ><persName ref="/people/BUR19.html">Burrel</persName></seg> &amp; <seg type="dMeeting"
                             subtype="M"><persName ref="/people/WOR05.html"
                             >Wordsworth</persName></seg>:<seg type="dMeal" subtype="Ta"> tea at
                                 <persName ref="/people/TUR01.html"><placeName type="venue"
@@ -1254,7 +1254,7 @@
                             subtype="Cn">call on <persName ref="/people/MOR02.html"><placeName
                                     type="venue">Morgan</placeName></persName>, w.<persName
                                 ref="/people/PHI01.html"> Philips</persName>; <seg type="dMeeting"
-                                subtype="Adv">adv. <persName>Cooper</persName></seg></seg>: <ref
+                                    subtype="Adv">adv. <persName ref="/people/COO09.html">Cooper</persName></seg></seg>: <ref
                             type="dEntertainment" subtype="Theat" target="/plays/haml01.html"
                                 ><placeName type="DL"/><seg type="dMeeting" subtype="Do">theatre,
                                 3/5 Hamlet, w. <persName ref="/people/CLA01.html">M
@@ -3821,7 +3821,7 @@
                                     ><placeName type="venue">Johnson’s</placeName></persName>, w.
                                 <persName ref="/people/FUS01.html">Fuseli</persName>, <persName
                                 ref="/people/BON01.html">Bonnycastle</persName>,
-                                <persName>Cooper</persName> &amp; <persName ref="/people/EAT01.html"
+                                    <persName ref="/people/COO09.html">Cooper</persName> &amp; <persName ref="/people/EAT01.html"
                                 >Eaton</persName></seg>: <seg type="dMeal" subtype="SG"><persName
                                 ref="/people/LAM01|LAM02.html">Lambs</persName>, <persName
                                 ref="/people/MAN01.html">Manning</persName> &amp; <persName

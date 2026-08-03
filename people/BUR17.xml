@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="BUR17" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Charles</forename>
+                        <surname>Burton</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1760">
+                        <placeName/>
+                    </birth>
+                    <death when="1847"/>
+                    <occupation>Lawyer/Judge</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope: There were a number of prominent people named Burton in
+                            Ireland in 1800 (Sir Charles Burton baronet of Polarton, co. Carlow son
+                            of Sir Charles Hist Irish Parl 1702-1775 / Francis Burton Dict Irish
+                            Biog d.1828 surgeon / William Henry Burton Dict Irish Biog 1739-1818 /
+                            Francis Nathaniel Nurton Hist Irish Parl 1766-1832) but this is likely
+                            to have been Charles Burton 1760-1847 (Judges in Ireland, E Elrington
+                            Ball, vol2 p341) who became Curran's chief assistant (see L Hale, John
+                            Philpot Curran pp87-8, 273). We have not included under this entry the Burton of
+                            1814 associated with Godwin's financial affairs, but the entries of
+                            October 1817 around Curran's death were very likely Charles Burton
+                            again, the last two entries in 1819 and 1832 are not so likely to
+                            have been him. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

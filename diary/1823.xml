@@ -39,7 +39,7 @@
                     <ab type="dDay" xml:id="g1823-01-02"><date when="1823-01-02">2. Th.</date><seg
                             type="dMeeting" subtype="C">Call on <persName ref="/people/BAR21.html"><placeName type="venue"
                                     >Barber</placeName></persName></seg>, <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                        subtype="C"><persName ref="/people/COO09.html"><placeName type="venue"
                                 >Cooper</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName ref="/people/BOT01.html"><placeName type="venue"
                                         >B<hi rend="sup">t</hi></placeName></persName></seg> &amp;

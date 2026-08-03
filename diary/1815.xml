@@ -859,7 +859,7 @@
                             subtype="C"><persName ref="/people/POO02.html" type="nah"><placeName
                                     type="venue">Poole <hi rend="sup"
                             >n</hi></placeName></persName></seg>, <seg type="dMeeting" subtype="C"
-                                    ><persName><placeName type="venue"
+                                ><persName ref="/people/COO09.html"><placeName type="venue"
                             >Cooper</placeName></persName></seg>, <seg type="dMeeting" subtype="C"
                                 ><persName ref="/people/GOD05.html"><placeName type="venue">N
                                     G</placeName></persName></seg>, <seg type="dMeeting" subtype="C"
@@ -2586,7 +2586,7 @@
                             subtype="letter">Write to <persName ref="/people/HAM03.html"
                                 >Hamilton</persName></ref> &amp; <ref type="dWrote" subtype="letter"
                                 ><persName ref="/people/SHA02.html">R Sharp</persName></ref>. <seg
-                            type="dMeeting" subtype="C">Call on <persName><placeName type="venue"
+                                    type="dMeeting" subtype="C">Call on <persName ref="/people/COO09.html"><placeName type="venue"
                                     >Cooper</placeName></persName></seg>, <seg type="dMeeting"
                                         subtype="C"><persName ref="/people/BAR21.html"><placeName type="venue"
                                 >Barber</placeName></persName></seg>, <seg type="dMeeting"
@@ -3107,7 +3107,7 @@
                                     type="venue">Alsager</placeName></persName>, w. <persName
                                 ref="/people/LAM01|LAM02.html">Lambs</persName>, <persName
                                 ref="/people/HAZ01.html">Hazlit</persName>,
-                                <persName>Burrel</persName>, <persName ref="/people/ROB03.html">H
+                                    <persName ref="/people/BUR19.html">Burrel</persName>, <persName ref="/people/ROB03.html">H
                                 Robinson</persName>, <persName ref="/people/AYR01.html"
                                 >Ayrton</persName>, <persName>Slegg</persName> &amp; <persName
                                 ref="/people/COU02.html">Coulson</persName></seg>.</ab>

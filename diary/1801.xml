@@ -44,7 +44,7 @@
                             type="dEntertainment" subtype="Theat" target="/plays/merc01|anon01.html"
                                 ><placeName type="CG"/><seg type="dMeeting" subtype="Do">theatre,
                                 Shylock &amp; Harlequin's Tour, w. <persName
-                                    ref="/people/SHE02.html">M</persName>, <persName>L</persName>
+                                    ref="/people/SHE02.html">M</persName>, <persName ref="/people/LUC01.html">L</persName>
                                 &amp; <persName ref="/people/IML01.html"
                         >F</persName></seg></ref>.</ab>
                     <ab type="dDay" xml:id="g1801-01-03"><date when="1801-01-03">3. Sa. </date><ref
@@ -74,7 +74,7 @@
                                 ref="/people/FEL01|FEL02.html">Fells</persName>, <persName
                                     ref="/people/LAM02.html">M Lamb</persName>, <persName  ref="/people/WIL34.html">Cha.
                                 Willis</persName>, <persName ref="/people/HIL02.html">E Hill
-                                junr</persName>, <persName>L</persName>, <persName
+                                    junr</persName>, <persName ref="/people/LUC01.html">L</persName>, <persName
                                 ref="/people/IML01.html">F</persName> &amp; <persName
                                 ref="/people/SHE02.html">M</persName>; <seg type="dMeeting"
                                 subtype="Adv">adv. <persName ref="/people/HIL02.html">H
@@ -1870,7 +1870,7 @@
                     <ab type="dDay" xml:id="g1801-06-21"><date when="1801-06-21">June 21. Su.
                             </date><ref type="dText" subtype="read" target="/bibl/te1244.html"
                             >Mallet, Preface; pp. 56</ref>. <seg type="dMeeting" subtype="M">Meet
-                                <persName>Burrel</persName></seg> &amp; <seg type="dMeeting"
+                                <persName ref="/people/BUR19.html">Burrel</persName></seg> &amp; <seg type="dMeeting"
                             subtype="M"><persName ref="/people/TOB01.html">J Tobin</persName></seg>:
                             <persName ref="/people/GOD04.html">H G</persName> &amp; <persName
                             ref="/people/JON01.html">L J </persName>dine; <seg type="dMeeting"
@@ -1891,7 +1891,7 @@
                                 ref="/people/TOB01|TOB02.html"><placeName type="venue"
                                     >Tobin's</placeName></persName>, w. <persName
                                 ref="/people/DAV03.html">Davy</persName>, <persName>Maton</persName>
-                            &amp; <persName>Burrel</persName>; <seg type="dMeeting" subtype="Adv"
+                            &amp; <persName ref="/people/BUR19.html">Burrel</persName>; <seg type="dMeeting" subtype="Adv"
                                 >adv. <persName ref="/people/RIC01.html">Rickman</persName>; talk of
                                     <seg type="dTopic">Gowrie</seg> &amp; <seg type="dTopic"
                                     >poetry</seg></seg></seg>.</ab>
@@ -2049,7 +2049,7 @@
                                 type="dMeeting" subtype="Do"><placeName>Astley's,</placeName> w.
                                     <persName ref="/people/CLA01.html">Cl<hi rend="sup"
                                     >ts</hi></persName>,<persName ref="/people/SHE02.html">
-                                    M</persName>, <persName> L</persName>, <persName
+                                        M</persName>, <persName ref="/people/LUC01.html"> L</persName>, <persName
                                     ref="/people/IML01.html">F</persName> &amp; <persName
                                     ref="/people/MAR01.html">M</persName></seg>; Darby &amp; Joan,
                             Abercrombie, &amp; Puss in Boots</ref>.</ab>

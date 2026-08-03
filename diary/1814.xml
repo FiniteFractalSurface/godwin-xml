@@ -737,7 +737,7 @@
                                 >Hill</placeName></persName></seg>, <seg type="dMeeting" subtype="C"
                                 ><persName ref="/people/BAL01.html"><placeName type="venue"
                                     >Ballachey</placeName></persName></seg>, <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                        subtype="C"><persName ref="/people/BUR18.html"><placeName type="venue"
                                 >Burton</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName ref="/people/PLA02.html"><placeName type="venue"
                                     >Place</placeName></persName></seg>: <seg type="dMeeting"
@@ -846,7 +846,7 @@
                                 ><persName ref="/people/MAR01.html">M</persName></seg> &amp; <seg
                             type="dMeeting" subtype="CG"><persName type="nah">Gen
                                 White</persName><hi rend="sup">n</hi> call</seg>: <seg
-                            type="dMeeting" subtype="Cn">call on <persName><placeName type="venue"
+                                    type="dMeeting" subtype="Cn">call on <persName ref="/people/BUR18.html"><placeName type="venue"
                                     >Burton</placeName></persName>, w. <persName
                                 ref="/people/PLA02.html">Place</persName></seg>, <seg
                             type="dMeeting" subtype="C"><persName ref="/people/MAR01.html"
@@ -879,7 +879,7 @@
                                 ref="/people/SHE01.html">Shelley</persName></ref>. <seg
                             type="dMeeting" subtype="C">Call on <persName ref="/people/BAL01.html"
                                     ><placeName type="venue">Ballachey</placeName></persName></seg>,
-                            <seg type="dMeeting" subtype="C"><persName type="nah"><placeName
+                        <seg type="dMeeting" subtype="C"><persName ref="/people/BUR18.html" type="nah"><placeName
                                     type="venue">Burton</placeName></persName><hi rend="sup"
                             >n</hi></seg> &amp; <seg type="dMeeting" subtype="Cn"><persName
                                 ref="/people/POO02.html"><placeName type="venue"
@@ -1666,7 +1666,7 @@
                             type="dEvent" subtype="PersEvent" target="/events/pe0251.html"><persName
                                 ref="/people/MAR01.html">M</persName> to <persName
                                 ref="/people/NAS01.html">Nash</persName> &amp;
-                                <persName>Burton</persName></ref>:<seg type="dMeeting" subtype="Cn">
+                                    <persName ref="/people/BUR18.html">Burton</persName></ref>:<seg type="dMeeting" subtype="Cn">
                             call, w. <persName ref="/people/MAR01.html">d<hi rend="sup"
                                 >o</hi></persName>, on <persName ref="/people/PLA02.html"><placeName
                                     type="venue">Place</placeName></persName></seg>: <seg
@@ -1716,7 +1716,7 @@
                                 ref="/people/MAR01.html">M</persName> to <persName
                                 ref="/people/TEA01.html">Teasdale</persName>, <persName
                                 ref="/people/BAL01.html">Ballachey</persName> &amp;
-                                <persName>Burton</persName></ref>: <seg type="dMeeting" subtype="CG"
+                            <persName ref="/people/BUR18.html">Burton</persName></ref>: <seg type="dMeeting" subtype="CG"
                                 ><persName ref="/people/OWE01.html">Owen</persName> calls</seg>;
                             <seg type="dMeeting" subtype="CG"><persName ref="/people/HOG01.html"
                                 >Hogan</persName></seg> &amp; <seg type="dMeeting" subtype="CG"
@@ -1757,7 +1757,7 @@
                             type="dEvent" subtype="PersEvent" target="/events/pe0251.html"><persName
                                 ref="/people/MAR01.html">M</persName> to <persName
                                 ref="/people/TEA01.html">Teasdale</persName> &amp;
-                                <persName>Burton</persName></ref>: <seg type="dMeeting" subtype="C"
+                            <persName ref="/people/BUR18.html">Burton</persName></ref>: <seg type="dMeeting" subtype="C"
                             >call on <persName ref="/people/PLA02.html"><placeName type="venue"
                                     >Place</placeName></persName></seg>: <seg type="dMeal"
                             subtype="DG"><persName ref="/people/MAR01.html">M</persName>
@@ -1821,7 +1821,7 @@
                     <ab type="dDay" xml:id="g1814-05-25"><date when="1814-05-25">25. W. </date><ref
                             type="dText" subtype="read" target="/bibl/te2204.html">Very Woman</ref>.
                             <ref type="dEvent" subtype="other"><ref type="dEvent" subtype="Accts"
-                                    ><persName>Burton</persName> promises a discount</ref></ref>.
+                                    ><persName ref="/people/BUR18.html">Burton</persName> promises a discount</ref></ref>.
                             <seg type="dMeeting" subtype="CG"><persName ref="/people/MAR01.html"
                                 >M</persName> calls</seg>.</ab>
                     <ab type="dDay" xml:id="g1814-05-26"><date when="1814-05-26">26. Th.</date><seg
@@ -1853,7 +1853,7 @@
                                 <persName ref="/people/HAY02.html"><placeName type="venue"
                                     >Hayward</placeName></persName>, w. <persName
                                 ref="/people/SHE01.html">Shelley</persName></seg>, &amp; <seg
-                            type="dMeeting" subtype="C">on <persName><placeName type="venue"
+                                    type="dMeeting" subtype="C">on <persName ref="/people/BUR18.html"><placeName type="venue"
                                     >Burton</placeName></persName></seg>: <seg type="dMeal"
                             subtype="DG"><persName ref="/people/TOP03.html">mrs Topping</persName>
                             dines</seg>.</ab>
@@ -1953,7 +1953,7 @@
                                 ref="/people/HUM01.html"><placeName type="venue"
                                 >Hume</placeName></persName></seg>. <seg type="dMeeting"
                             subtype="See"><persName ref="/people/MAR01.html">M</persName> from <seg
-                                type="dTopic"><placeName>Burton</placeName></seg></seg>: <ref
+                                type="dTopic"><persName ref="/people/BUR18.html"><placeName>Burton </placeName></persName></seg></seg>: <ref
                             type="dWrote" subtype="letter">write to <persName
                                 ref="/people/TEA01.html">Teasdale</persName></ref>.</ab>
                     <ab type="dDay" xml:id="g1814-06-04"><date when="1814-06-04">4. Sa. </date><seg
@@ -1961,7 +1961,7 @@
                                 ref="/people/PLA02.html">Place</persName></seg>: <seg
                             type="dMeeting" subtype="See"><persName ref="/people/MAR01.html"
                                 >M</persName> from <seg type="dTopic"
-                                ><persName>Burton</persName></seg></seg>: <ref type="dWrote"
+                                    ><persName ref="/people/BUR18.html">Burton</persName></seg></seg>: <ref type="dWrote"
                             subtype="letter">write to <persName ref="/people/SHE01.html"
                                 >Shelley</persName></ref>. <seg type="dMeeting" subtype="C">Call on
                                 <persName ref="/people/BAL01.html"><placeName type="venue"
@@ -2015,7 +2015,7 @@
                                 ref="/people/BAL01.html"><placeName type="venue"
                                     >Ballachey</placeName></persName> twice</seg>:<ref type="dWrote"
                             subtype="letter"> wr<hi rend="sup">te</hi> to
-                                <persName>Burton</persName></ref>: <seg type="dMeal" subtype="DG"
+                                        <persName ref="/people/BUR18.html">Burton</persName></ref>: <seg type="dMeal" subtype="DG"
                                 ><persName ref="/people/MAR01.html">M</persName> dines; <seg
                                 type="dMeeting" subtype="Adv">adv. <persName
                                     ref="/people/HOG01.html">Hogan</persName></seg></seg>: <seg
@@ -2226,7 +2226,7 @@
                                     >Waugh</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName ref="/people/NAS01.html" type="nah"><placeName
                                     type="venue">Nash</placeName></persName><hi rend="sup"
-                            >n</hi></seg> &amp; <seg type="dMeeting" subtype="C"><persName
+                                        >n</hi></seg> &amp; <seg type="dMeeting" subtype="C"><persName ref="/people/BUR18.html"
                                 type="nah"><placeName type="venue">Burton</placeName></persName><hi
                                 rend="sup">n</hi></seg>: <seg type="dMeal" subtype="DG"><persName
                                 ref="/people/SHE01.html">Shelley</persName> dines; <seg
@@ -2254,7 +2254,7 @@
                                 ref="/people/BAL01.html"><placeName type="venue"
                                     >Ballachey</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="Cn">(w. <persName ref="/people/SHE01.html">Shelley</persName>)
-                                    <persName><placeName type="venue"
+                                        <persName ref="/people/BUR18.html"><placeName type="venue"
                             >Burton</placeName></persName></seg>, <seg type="dMeeting" subtype="C"
                                     ><persName><placeName type="venue"
                             >Waugh</placeName></persName></seg> &amp; <seg type="dMeeting"
@@ -2390,7 +2390,7 @@
                                 >letter</seg></seg>. <ref type="dWrote" subtype="letter">Write to
                                 <persName ref="/people/SHE01.html">Shelley</persName></ref>.<seg
                             type="dMeeting" subtype="M"> M<hi rend="sup"
-                                >t</hi><persName>Burton</persName></seg>: <seg type="dMeal"
+                                >t</hi><persName ref="/people/BUR18.html">Burton</persName></seg>: <seg type="dMeal"
                             subtype="DG"><persName ref="/people/PAT01.html">Patrickson</persName>
                             dines; <seg type="dMeeting" subtype="Adv">adv. <persName
                                     ref="/people/CUR01.html">Curran</persName></seg></seg>. <seg
@@ -4194,7 +4194,7 @@
                             subtype="CG"><persName ref="/people/LAM01.html">Lamb</persName>
                             calls</seg>: <seg type="dMeeting" subtype="See"><persName
                                 ref="/people/CLA02.html">C C</persName> from <seg type="dTopic"
-                                    ><persName>Cooper</persName></seg> &amp; <seg type="dTopic"
+                                    ><persName ref="/people/COO09.html">Cooper</persName></seg> &amp; <seg type="dTopic"
                                     ><persName>Williams</persName></seg></seg>: <seg type="dMeeting"
                             subtype="CG"><persName ref="/people/SAY01.html" type="nah"
                                 >Say</persName> calls <hi rend="sup">na</hi></seg>. <emph rend="red"

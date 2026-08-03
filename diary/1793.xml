@@ -3379,7 +3379,7 @@
                                     ><placeName type="venue">Holcroft’s</placeName></persName>, w.
                                 <persName ref="/people/DYS01.html"> Dyson</persName></seg>. <ref
                             type="dEvent" subtype="PersEvent" target="/events/pe0053.html"
-                                ><persName>C.</persName> in <placeName>town</placeName></ref></ab>
+                                    ><persName ref="/people/COO01.html">C.</persName> in <placeName>town</placeName></ref></ab>
                     <ab type="dDay" xml:id="g1793-11-14"><date when="1793-11-14">15. Th.</date><ref
                             type="dEvent" subtype="PersEvent" target="/events/pe0495.html"/><ref
                             type="dText" subtype="read" target="/bibl/te0420.html">Juvenal VI, ad
