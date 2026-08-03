@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="BUC03" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>James Silk</forename>
+                        <surname>Buckingham</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Journalist</occupation>
+                    <note type="editorial">
+                        <p>The later entries 1827 to 1830 were perhaps James Silk Bockingham (DNB
+                            1786-1855), at a period when he was active in London journalism. In 1807
+                            he was lately married and penniless might well have called on Godwin
+                            between his voyages. Other possibles iInclude:Holdens directory 1811
+                            (court) Edward B 71 Warren-st Fitzroy-sq / Mr Edward B Crosby-row
+                            Walworth (trades) David B engraver 59 Chamber-st / E and F B ropemakers
+                            Middle-row Bloomsbury / H B japanned chair manf. 20 Old George-st Mint /
+                            James B boot and shoe maker 6 Union-st London-row St George's-fields /
+                            Samuel B painter plumber and glazier 47 Bunhill-row / Thomas B pewter manf
+                            24 Swallow-st Piccadilly / William B brush manf 13 St Albans-st
+                            Pall-mall. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -3338,7 +3338,7 @@
                                 >Northcote</persName>, <persName ref="/people/HOA01.html"
                                 >Hoare</persName>, <persName ref="/people/BOA01.html"
                                 >Boaden</persName>, <persName ref="/people/BAT01.html"
-                                >Batty</persName>, &amp; <persName>Burne</persName> dine</seg>: <seg
+                                    >Batty</persName>, &amp; <persName ref="/people/BUR14.html">Burne</persName> dine</seg>: <seg
                             type="dMeeting" subtype="Inv">invités <persName ref="/people/INC01.html"
                                 >Inchbald</persName>, <persName ref="/people/SMI03.html"
                                 >Smirke</persName>, <persName ref="/people/EST01.html"
@@ -3583,7 +3583,7 @@
                             type="dMeeting" subtype="C">call on <persName ref="/people/CUR01.html"
                                 type="nah"><placeName type="venue">Curran</placeName></persName><hi
                                 rend="sup">n</hi></seg>, <seg type="dMeeting" subtype="C"><persName
-                                type="nah"><placeName type="venue">Burne</placeName></persName><hi
+                                        ref="/people/BUR14.html" type="nah"><placeName type="venue">Burne</placeName></persName><hi
                                 rend="sup">n</hi></seg>, <seg type="dMeeting" subtype="C"><persName
                                 ref="/people/NOR01.html"><placeName type="venue"
                                     >Northcote</placeName></persName></seg> &amp; <seg

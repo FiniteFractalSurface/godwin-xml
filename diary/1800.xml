@@ -2307,7 +2307,7 @@
                         Curran</persName> &amp; <persName>W Cree</persName></seg>: sleep.</ab>
                <ab type="dDay" subtype="NotLon" xml:id="g1800-07-03"><date when="1800-07-03">3.
                      Th.</date><ref type="dText" subtype="read" target="/bibl/te1090.html">Love of
-                     Fame, Sat. I</ref>. <seg type="dMeeting" subtype="other">Introd, <persName>D<hi
+                        Fame, Sat. I</ref>. <seg type="dMeeting" subtype="other">Introd, <persName ref="/people/BUR15.html">D<hi
                               rend="sup">r</hi> Burke</persName>, <persName ref="/people/ATK02.html">capt. Atkinson</persName>
                      &amp; <persName>Bushe</persName></seg>: <seg type="dMeal" subtype="D">dine at
                            <persName><placeName type="venue">Colles's</placeName></persName>, w.
@@ -2436,7 +2436,7 @@
                      subtype="DG"><persName ref="/people/GRA01.html">Grattan</persName>, <persName
                         ref="/people/GRA02.html">Granard</persName>, <persName>Pim</persName>,
                         <persName ref="/people/HAM04.html">Hamilton</persName>, <persName
-                        ref="/people/MOO01.html">Moore</persName>, <persName>Burke</persName>,
+                           ref="/people/MOO01.html">Moore</persName>, <persName ref="/people/BUR15.html">Burke</persName>,
                         <persName>Wallis</persName>, <persName ref="/people/MAC17.xml">Macgray</persName> &amp;
                         <persName>Conway</persName> dine</seg>: <seg type="dMeeting"
                            subtype="Sleeps"><persName ref="/people/GRA01.html">G </persName>sleeps</seg>.</ab>
@@ -2620,7 +2620,7 @@
                      subtype="DG"><persName ref="/people/CUR01.html"><placeName type="venue">
                            Rathfarnham</placeName></persName>; <persName>Kirwan</persName> (talk of
                         <seg type="dTopic">Eloise</seg> &amp; <seg type="dTopic"
-                           ><persName>Hume</persName></seg>), <persName>Burke</persName> &amp;
+                           ><persName>Hume</persName></seg>), <persName ref="/people/BUR15.html">Burke</persName> &amp;
                         <persName>Glover</persName> dine</seg>: <seg type="dMeeting"
                      subtype="Sleeps"><persName>Glover</persName> sleeps</seg>.</ab>
                <ab type="dDay" subtype="NotLon" xml:id="g1800-07-28"><date when="1800-07-28">28.
@@ -2689,7 +2689,7 @@
                      Sa.</date><ref type="dWrote" subtype="letter">Write to <persName
                         ref="/people/MAR01.html">M</persName>, 2 letters</ref>. <ref type="dText"
                      subtype="read" target="/bibl/te1104.html">Leland, V. III, p. 85-114</ref>. <seg
-                     type="dMeal" subtype="DG"><persName>Burke</persName> &amp;
+                        type="dMeal" subtype="DG"><persName ref="/people/BUR15.html">Burke</persName> &amp;
                         <persName>Planard</persName> dine. talk of <seg type="dTopic"
                         >insincerity</seg> &amp; <seg type="dTopic"><persName
                            ref="/people/LAW01.html">Lawrence</persName></seg>, &amp; <seg
@@ -2703,7 +2703,7 @@
                            >Ponsonby</placeName></persName></seg>, <seg type="dMeeting" subtype="C"
                            ><persName><placeName type="venue"
                   >Joinville</placeName></persName></seg>: <seg type="dMeal" subtype="D">dine at
-                     <persName ref="/people/BRO18.html"><placeName type="venue">Brown's</placeName></persName>, w.
+                     <persName ref="/people/BRO21.html"><placeName type="venue">Brown's</placeName></persName>, w.
                      <persName ref="/people/GRI04.html">Griffiths's</persName>, <persName ref="/people/TOB01|TOB02.html"
                         >Tobins</persName>, <persName ref="/people/HUM01.html">Hume</persName> &amp;
                         <persName>Latten</persName></seg>: <ref type="dEvent" subtype="PersHlth"
@@ -2713,7 +2713,7 @@
                      <placeName>Ballytore</placeName>: <seg type="dMeeting" subtype="M">meet
                         <persName ref="/people/FRI03.html">Frizel</persName></seg>: <seg type="dMeal" subtype="D">dine at
                         <placeName>Timolin</placeName></seg>: <seg type="dMeal" subtype="Ta">tea
-                           <persName><placeName type="venue">Burne's, Carlow</placeName></persName>,
+                           <persName ref="/people/BUR14.html"><placeName type="venue">Burne's, Carlow</placeName></persName>,
                      w. <persName>Ward</persName>, <persName>Hall</persName>, &amp;c</seg>:
                   sleep.</ab>
                <ab type="dDay" subtype="NotLon" xml:id="g1800-08-05"><date when="1800-08-05">5.
@@ -2753,7 +2753,7 @@
                      subtype="C">call on <persName ref="/people/GRA01.html"><placeName type="venue"
                            >Grattan</placeName></persName>; <seg type="dMeeting" subtype="Adv">adv.
                            <persName>Birminghams</persName></seg></seg>: <seg type="dMeal"
-                     subtype="D">dine at <persName><placeName type="venue"
+                              subtype="D">dine at <persName ref="/people/BUR14.html"><placeName type="venue"
                         >Burne's</placeName></persName>, w. <persName>C</persName>,
                         <persName>Whaley</persName>, <persName>mrs Needham</persName> &amp;
                         <persName>miss Lawless's</persName>; <seg type="dMeeting" subtype="Adv">adv.
@@ -3314,7 +3314,7 @@
                         ><persName ref="/people/FEN01.html"><placeName type="venue"
                            >Fenwick</placeName></persName></seg>: <seg type="dMeeting" subtype="M"
                      >meet <persName>Jno. Jennings</persName></seg> &amp; <seg type="dMeeting"
-                     subtype="M"><persName>Burne</persName></seg>. <ref type="dText" subtype="read"
+                        subtype="M"><persName ref="/people/BUR14.html">Burne</persName></seg>. <ref type="dText" subtype="read"
                      target="/bibl/te0663.html">Samson, act 5</ref>.</ab>
                <ab type="dDay" xml:id="g1800-10-03"><date when="1800-10-03">3. F.</date><ref
                      type="dWrote" subtype="write" target="/works/anto01.html">Antonio, 12
@@ -3370,7 +3370,7 @@
                      target="/bibl/te0351.html">H Trevor, p. 114</ref>. <seg type="dMeeting"
                      subtype="M">Meet <persName>Goold</persName></seg>, <seg type="dMeeting"
                      subtype="M"><persName>Dogherty</persName></seg>, <seg type="dMeeting"
-                     subtype="M"><persName>Burne</persName></seg>, <seg type="dMeeting" subtype="M"
+                        subtype="M"><persName ref="/people/BUR14.html">Burne</persName></seg>, <seg type="dMeeting" subtype="M"
                         ><persName>Heath</persName></seg> &amp; <seg type="dMeeting" subtype="M"
                         ><persName ref="/people/REY03|REY99.html">Reynolds's</persName></seg>: <seg
                      type="dMeal" subtype="S">sup at <persName ref="/people/LAM01|LAM02.html"

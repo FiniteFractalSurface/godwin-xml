@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="BUT02" sex="1">
+                    <persName>
+                        <roleName/>Revd <forename>George</forename>
+                        <surname>Butler</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Clergyman</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope: All the entries connected with Montagu or with 'vdm' added (an
+                            abbreviation for a clergyman, like Rev) I presume were one person, while
+                            Augustus Butler is identifiable either by having been at his stepfather
+                            John King's or by Godwin having added D or Danvers. Three of the entries
+                            above (11.4.1796, 19.4.1796 and 7.5.1796) could in theory then have been
+                            either, but seem much more likely to have been the clergyman. Butler in
+                            Ireland 22.7.1800 and at Hamilton Rowan's 7.11.1803 seem likely to have
+                            been a third person (see Butler, Ireland). There are several candidates
+                            for the Rev Butler just in the DNB. George Butler 1774-1853 had just
+                            returned from a walking tour of Germany and had been senior wrangler at
+                            Cambridge, though not a contemporary of Montagu there. He wasn't then a
+                            clergyman but a law student and mathematics tutor, till he took his BD
+                            degree in 1804, but he had become fellow of Sidney Sussex College in
+                            1794, which probably would have earned him the 'vdm', (he was in a list
+                            of subscribers in 1797 as Rev G Butler of Sidney College). His older
+                            brother Weeden Butler DNB 1772-1831 was ordained deacon in 1796 and
+                            priest in 1797; his father Weeden Butler DNB 1742-1823 was certainly a
+                            clergyman and headmaster of a school in Chelsea but 30 years older than
+                            Montagu. Samuel Butler DNB 1774-1839 of a different family but in the
+                            same line of scholarship and schoolteaching was ordained deacon in 1797
+                            and priest in 1798. Thomas Butler (d.1839) was a contemporary of
+                            Montagu's at Cambridge and was ordained deacon in 1792 but no more info
+                            on him than that in Alum Cantab. There are about 7 other possibles in
+                            theclergydatabase but George Butler seems the most likely </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

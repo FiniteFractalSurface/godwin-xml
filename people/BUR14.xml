@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="BUR14" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename></forename>
+                        <surname>Burne</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's note: Since Godwin began the day of 8.8.1800 seeing St
+                            Cavan's Bed at Glendalough nr Wicklow and then returned to the Dublin
+                            area it seems unlikely that he went back to Carlow to dine (and this is
+                            confirmed by his letter Bodleian Abinger c6 f36v) so the Burne's of
+                            8.8.1800 was probably a different venue from that of 4.8.1800 even if
+                            Burne was the same person. Byrne was a commoner name in Ireland than
+                            Burne, I'm not sure how differently they were pronounced. Among the 36
+                            wanted persons in the rebel band of Michael Dwyer DNB 1772-1825 (Dublin
+                            Evening Post 19.7.1800) were no less than 7 Byrnes and one Burne. They
+                            were at large somewhere in the mountains south-west of Dublin, being
+                            "sheltered by disaffected persons". Nat Arch HO 42/51/120 f524-5 is a
+                            letter dated 29.9.1800 to the Home Office concerning the imprisoned Lord
+                            Cloncurry from Mr John Burne at 20 St James St, Piccadilly. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -283,7 +283,7 @@
                   111</ref>. <ref type="dText" subtype="read" target="/bibl/te0294.html">Horace, Od.
                      III, 6</ref>: <ref type="dText" subtype="read" target="/bibl/te0469.html"
                      >Udolpho, p. 432; Vol. IV, p. 102</ref>. <seg type="dMeeting" subtype="C">Call
-                     on <persName type="nah"><placeName type="venue">Bryant
+                        on <persName ref="/people/BRY01.html" type="nah"><placeName type="venue">Bryant
                         </placeName></persName><hi rend="sup">n</hi></seg>. <ref type="dEvent"
                      subtype="Temp">46 ½ / 52</ref></ab>
                <ab type="dDay" xml:id="g1829-01-31"><date when="1829-01-31">31. Sa.</date><ref
@@ -502,7 +502,7 @@
                      >Ep. I, 20</ref>: <ref type="dText" subtype="read" target="/bibl/te3184.html">R
                      Dalton, Vol. III, p. 256</ref>.<seg type="dMeeting" subtype="CG"><persName
                         ref="/people/HUD01.html">Hudson</persName> calls</seg>: <seg type="dMeeting"
-                     subtype="C">call on <persName><placeName type="venue"
+                           subtype="C">call on <persName ref="/people/BRY01.html"><placeName type="venue"
                         >Bryant</placeName></persName></seg>. <ref type="dEvent" subtype="Temp">53 ½
                      / 55</ref></ab>
                <ab type="dDay" xml:id="g1829-02-23"><date when="1829-02-23">23. M.</date><ref
@@ -561,7 +561,7 @@
                      >Cobbet, p. 130</ref>. <seg type="dMeeting" subtype="CG"><persName
                         ref="/people/SHE02.html">M W S</persName></seg> &amp; <seg type="dMeeting"
                      subtype="CG"><persName ref="/people/UWI01.html">Uwins</persName> call</seg>:
-                     <seg type="dMeal" subtype="D">dine at <persName><placeName type="venue"
+                  <seg type="dMeal" subtype="D">dine at <persName ref="/people/BRY01.html"><placeName type="venue"
                            >Bryant’s</placeName></persName>, w. <persName>mrs B</persName> &amp;
                         <persName>Charles</persName></seg>. <ref type="dEvent" subtype="Temp">45 /
                      47</ref></ab>
@@ -580,7 +580,7 @@
                      type="dText" subtype="read" target="/bibl/te0294.html">Horace, Od. IV, 12,
                      13</ref>; <ref type="dText" subtype="read" target="/bibl/te0305.html">Ep.
                      I.4</ref>: <ref type="dText" subtype="read" target="/bibl/te3189.html">Cobbet,
-                     p. 252</ref>. <seg type="dMeeting" subtype="C">Call on <persName><placeName
+                        p. 252</ref>. <seg type="dMeeting" subtype="C">Call on <persName ref="/people/BRY01.html"><placeName
                            type="venue">C Bryant</placeName></persName></seg>: <seg type="dMeeting"
                      subtype="CG"><persName ref="/people/HOD01.html" type="nah">Hodgets</persName>
                      calls <hi rend="sup">n</hi></seg>: <ref type="dEntertainment" subtype="Theat"
@@ -655,7 +655,7 @@
                      target="/bibl/te3191.html">P Sposi, p. 54</ref>. <ref type="dEntertainment"
                      subtype="Museo" target="/events/mu0001.html"><placeName>Museum</placeName>;
                         <ref type="dText" subtype="read" target="/bibl/te3192.html"
-                     >Verona</ref></ref>. <seg type="dMeeting" subtype="CG"><persName type="nah"
+                           >Verona</ref></ref>. <seg type="dMeeting" subtype="CG"><persName ref="/people/BUR16.html" type="nah"
                         >Burnet</persName> calls <hi rend="sup">n</hi></seg>: <ref
                      type="dEntertainment" subtype="Theat" target="/plays/cask01.html"><placeName
                         type="DL"/>theatre, Casket</ref>. <ref type="dEvent" subtype="Temp">51 ½ /
@@ -1432,7 +1432,7 @@
                      subtype="read" target="/bibl/te1755.html">Homer, v. 265:</ref><emph
                      rend="deleted">Bl</emph><ref type="dText" subtype="read"
                      target="/bibl/te2501.html">Blackwel, p. 164.</ref><seg type="dMeeting"
-                     subtype="M">Meet <persName>C Bryant</persName></seg>: <seg type="dMeeting"
+                        subtype="M">Meet <persName ref="/people/BRY01.html">C Bryant</persName></seg>: <seg type="dMeeting"
                      subtype="Do"><placeName>New London Bridge</placeName>, w. <persName
                         ref="/people/CLA02.html">C C</persName></seg>. <ref type="dEvent"
                      subtype="Temp">60 ½ / 66</ref></ab>
@@ -2921,7 +2921,7 @@
                      v. 206</ref>. <ref type="dEntertainment" subtype="Theat"
                      target="/plays/shak02.html"><placeName type="CG"/>Theatre, Shakespear’s Early
                      Days; <seg type="dMeeting" subtype="Adv">adv.
-                        <persName>Buckingham</persName></seg></ref>. <ref type="dEvent"
+                        <persName ref="/people/BUC03.html">Buckingham</persName></seg></ref>. <ref type="dEvent"
                      subtype="Temp">54 / 60</ref></ab>
                <ab type="dDay" xml:id="g1829-10-30"><date when="1829-10-30">30. F.</date><ref
                      type="dWrote" subtype="write" target="/works/clou01.html">Delamere, p.

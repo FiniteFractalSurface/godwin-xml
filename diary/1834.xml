@@ -2273,8 +2273,8 @@
               type="dWrote" subtype="write" target="/works/geni01.html">Preface, p. 4/2</ref>. <ref
               type="dText" subtype="read">Burns, p. 232</ref>: <ref type="dText" subtype="cala"
               target="/bibl/te2787.html">Edin Review, çala</ref>. <seg type="dMeeting" subtype="C"
-              >Call on <persName><placeName type="venue">sir J Newport</placeName></persName></seg>
-            &amp; <seg type="dMeeting" subtype="C"><persName><placeName type="venue"
+                  >Call on <persName ref="/people/NEW05.html"><placeName type="venue">sir J Newport</placeName></persName></seg>
+              &amp; <seg type="dMeeting" subtype="C"><persName ref="/people/BUL03.html"><placeName type="venue"
                   >Bulley</placeName></persName></seg>. <ref type="dEvent" subtype="Temp">63 /
               69</ref></ab>
           <ab type="dDay" xml:id="g1834-10-21"><date when="1834-10-21">21. Tu.</date><ref
@@ -2383,9 +2383,9 @@
           <ab type="dDay" xml:id="g1834-11-04"><date when="1834-11-04">4. Tu.</date><ref
               type="dWrote" subtype="write" target="/works/geni01.html">Probation, 10 lines</ref>.
               <ref type="dText" subtype="read" target="/bibl/te3639.html">H Bulwer, p. 250,
-              fin</ref>. <seg type="dMeeting" subtype="C">Call on <persName><placeName type="venue"
+                  fin</ref>. <seg type="dMeeting" subtype="C">Call on <persName ref="/people/BUL03.html"><placeName type="venue"
                   >Bulley</placeName></persName> (twice); <ref type="dText" subtype="letterRecvd"
-                  ><persName>Newport</persName> writes</ref></seg>: <seg type="dMeeting"
+                      ><persName ref="/people/NEW05.html">Newport</persName> writes</ref></seg>: <seg type="dMeeting"
               subtype="Adv">call on <persName>A Gore</persName></seg>: <seg type="dMeeting"
               subtype="CG"><persName ref="/people/MON01.html">B M</persName> calls</seg>: <seg
               type="dMeal" subtype="SG"><persName ref="/people/WIL02.html">Wilson</persName>
@@ -2393,7 +2393,7 @@
           <ab type="dDay" xml:id="g1834-11-05"><date when="1834-11-05">5. W. </date><ref
               type="dWrote" subtype="write" target="/works/geni01.html">Probation, 1 page</ref>.
               <ref type="dText" subtype="read" target="/bibl/te2799.html"> Cain, act 1</ref>. <seg
-              type="dMeeting" subtype="C">Call on <persName><placeName type="venue"
+                  type="dMeeting" subtype="C">Call on <persName ref="/people/BUL03.html"><placeName type="venue"
                   >Bulley</placeName></persName> (<seg type="dTopic">treasury-minute</seg>)</seg>:
               <seg type="dMeeting" subtype="CG"><persName ref="/people/GOD05.html">N
               G</persName></seg> &amp; <seg type="dMeeting" subtype="CG"><persName>A S</persName>
@@ -2457,7 +2457,7 @@
               type="dText" subtype="read" target="/bibl/te3640.html">M Chronicle</ref>. <ref
               type="dWrote" subtype="letter">Letter to <persName ref="/people/MEL01.html"
                 >Melbourne</persName></ref>. <emph rend="deleted">Letter from Baring.</emph><seg
-              type="dMeeting" subtype="C">Call on <persName><placeName type="venue"
+                    type="dMeeting" subtype="C">Call on <persName ref="/people/BUL03.html"><placeName type="venue"
                   >Bulley</placeName></persName></seg>. <ref type="dEntertainment" subtype="Theat"
               target="/plays/mask01.html"><placeName type="DL"/>Theatre, Red Mask; <seg
                 type="dMeeting" subtype="Adv">adv. <persName ref="/people/STA04.html">Linc.
@@ -2474,7 +2474,7 @@
               type="dEvent" subtype="Temp">61 ½ / 68</ref></ab>
           <ab type="dDay" xml:id="g1834-11-17"><date when="1834-11-17">17. M.</date><ref
               type="dText" subtype="read" target="/bibl/te1565.html">De Foe, Plague, p. 108</ref>.
-              <seg type="dMeeting" subtype="C">Call on <persName><placeName type="venue"
+              <seg type="dMeeting" subtype="C">Call on <persName ref="/people/BUL03.html"><placeName type="venue"
                   >Bulley</placeName></persName></seg>: <seg type="dMeal" subtype="DG"><persName
                 ref="/people/GOD18.html">Emily</persName> dines</seg>.<emph rend="small"><ref
                 type="dEvent" subtype="Publ" target="/events/pa0211.html"><persName
@@ -2524,7 +2524,7 @@
           <ab type="dDay" xml:id="g1834-11-24"><date when="1834-11-24">24. M. </date><ref
               type="dWrote" subtype="write" target="/works/geni01.html">Contrition, p. 2</ref>. <ref
               type="dText" subtype="read" target="/bibl/te1565.html">De Foe, p. 262</ref>. <seg
-              type="dMeeting" subtype="C">Call on <persName><placeName type="venue"
+                  type="dMeeting" subtype="C">Call on <persName ref="/people/BUL03.html"><placeName type="venue"
                   >Bulley</placeName></persName></seg> &amp; <seg type="dMeeting" subtype="C"
                 ><persName type="nah"><placeName type="venue">H Palmer</placeName></persName><hi
                 rend="sup">n</hi></seg>: <seg type="dMeal" subtype="TG"><persName
@@ -2545,9 +2545,9 @@
               type="dWrote" subtype="write" target="/works/geni01.html">Contrition, 12 lines</ref>.
               <ref type="dEvent" subtype="PersEvent" target="/events/pe0473.html"
                 ><persName>Case</persName> for <seg type="dTopic"
-              ><persName>Newport</persName></seg></ref>.<seg type="dMeeting" subtype="C">Call on
+                    ><persName ref="/people/NEW05.html">Newport</persName></seg></ref>.<seg type="dMeeting" subtype="C">Call on
                   <persName><placeName type="venue">Humphries</placeName></persName></seg> &amp;
-              <seg type="dMeeting" subtype="C"><persName><placeName type="venue"
+              <seg type="dMeeting" subtype="C"><persName ref="/people/BUL03.html"><placeName type="venue"
                 >Bulley</placeName></persName></seg>: <seg type="dMeeting" subtype="CG"
                 ><persName>Peak</persName> calls</seg>. <emph rend="small"><ref type="dEvent"
                 subtype="PersHlth" target="/events/he0000|he0043.html"
@@ -2556,8 +2556,8 @@
           <ab type="dDay" xml:id="g1834-11-27"><date when="1834-11-27">27. Th.</date><ref
               type="dWrote" subtype="letter">Letter to <persName ref="/people/SID04.html">La.
                 Sophia</persName></ref>. <seg type="dMeeting" subtype="C">Call on
-                  <persName><placeName type="venue">Bulley</placeName></persName></seg> &amp; <seg
-              type="dMeeting" subtype="C"><persName><placeName type="venue"
+                    <persName ref="/people/BUL03.html"><placeName type="venue">Bulley</placeName></persName></seg> &amp; <seg
+                        type="dMeeting" subtype="C"><persName ref="/people/NEW05.html"><placeName type="venue"
                 >Newport</placeName></persName></seg>: <seg type="dMeal" subtype="TG"><persName
                 ref="/people/CAU01.html">Caunters</persName> &amp; <persName
                 ref="/people/JAM01.html">Miss James</persName> at tea</seg>. <ref type="dWrote"
@@ -2656,7 +2656,7 @@
               <seg type="dMeeting" subtype="CG"><persName ref="/people/RIC01.html"
                 >Rickman</persName></seg> &amp; <seg type="dMeeting" subtype="CG"><persName
                 ref="/people/SMI04.html">A Smith</persName> call</seg>: <seg type="dMeeting"
-              subtype="C">call on <persName><placeName type="venue"
+                    subtype="C">call on <persName ref="/people/BUL03.html"><placeName type="venue"
               >Bulley</placeName></persName></seg>: <seg type="dMeal" subtype="TG"><seg type="dMeal"
                 subtype="SG"><persName ref="/people/WHI07.html">Ja<hi rend="sup">s</hi>
                   White</persName> tea and sup</seg></seg>. <ref type="dEvent" subtype="Publ"
@@ -2772,7 +2772,7 @@
           <ab type="dDay" xml:id="g1834-12-26"><date when="1834-12-26">26. F. </date><ref
               type="dWrote" subtype="write" target="/works/geni01.html">Character, 1 page</ref>.
               <ref type="dText" subtype="read" target="/bibl/te3644.html">Princess, p. 340</ref>.
-              <seg type="dMeeting" subtype="C">Call on <persName><placeName type="venue"
+              <seg type="dMeeting" subtype="C">Call on <persName ref="/people/BUL03.html"><placeName type="venue"
                   >Bulley</placeName></persName></seg>. <ref type="dEvent" subtype="Temp">59 /
               67</ref></ab>
           <ab type="dDay" xml:id="g1834-12-27"><date when="1834-12-27">27. Sa. </date><ref

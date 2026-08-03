@@ -2770,7 +2770,7 @@
                             target="/bibl/te0833.html">Julie, p. 327</ref>. <seg type="dMeeting"
                             subtype="C">Call on <persName ref="/people/HOL01.html"><placeName
                                     type="venue">Ht</placeName></persName></seg>: <seg
-                            type="dMeeting" subtype="M">meet <persName>Butler,
+                                        type="dMeeting" subtype="M">meet <persName ref="/people/BUT02.xml.html">Butler,
                         vdm</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1798-08-17"><date when="1798-08-17">17. F.</date><ref
                             type="dWrote" subtype="write" target="/works/leon01.html">St Leon, p.
@@ -2984,7 +2984,7 @@
                             target="/bibl/te0867.html">Cléry, p. 193</ref>. <seg type="dMeal"
                             subtype="D">Dine at <persName ref="/people/TOO01.html"><placeName
                                     type="venue">H Tooke's</placeName></persName>, w. <persName
-                                ref="/people/WAL05.html">Tho Walker</persName>, <persName>Gunter
+                                        ref="/people/WAL05.html">Tho Walker</persName>, <persName ref="/people/BRO20.html">Gunter
                                 Brown</persName>, <persName ref="/people/CUR04.html">Curran jun<hi
                                     rend="sup">r</hi></persName>, <persName ref="/people/FER01.html"
                                 >Fergusson</persName>, <persName ref="/people/WAR05.html"
@@ -4045,7 +4045,7 @@
                             >Beniowski</ref>. <seg type="dMeal" subtype="D">Dine at <persName
                                 ref="/people/FEL01.html"><placeName type="venue"
                                 >Fells</placeName></persName>, w. <persName ref="/people/DIG01.html"
-                                >Dignums</persName> &amp; <persName>mrs Brown</persName></seg>.</ab>
+                                    >Dignums</persName> &amp; <persName ref="/people/BRO18.html">mrs Brown</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1798-12-08"><date when="1798-12-08">8. Sa.</date><ref
                             type="dText" subtype="read" target="/bibl/te0893.html">Barruel, p.
                             178</ref>. <seg type="dMeal" subtype="DG"><persName

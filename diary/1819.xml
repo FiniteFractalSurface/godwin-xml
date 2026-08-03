@@ -3055,7 +3055,7 @@
               type="dMeeting" subtype="CG"><persName ref="/people/TUR01.html">T T</persName></seg>
             &amp; <seg type="dMeeting" subtype="CG"><persName ref="/people/WAT03.html"
                 >Watts</persName> call</seg>: <seg type="dMeeting" subtype="Cn">call on
-                  <persName><placeName type="venue">Brown</placeName></persName>, <orgName>
+                  <persName ref="/people/BRO27.html"><placeName type="venue">Brown</placeName></persName>, <orgName>
                 Linnean</orgName>, w. <persName ref="/people/TUR01.html">T T</persName></seg>: <seg
               type="dMeal" subtype="TG"><persName ref="/people/BOO01.html">Booth</persName> at
               tea</seg>.</ab>
@@ -3068,7 +3068,7 @@
                   Phillips</persName></seg></seg>: <seg type="dMeeting" subtype="C">call on
                   <persName><placeName type="venue">Nairman</placeName></persName> (<persName
                 ref="/people/BAN02.html">sir J Banks</persName>); <seg type="dMeeting" subtype="Adv"
-                >adv. <persName>Brown</persName> &amp; <persName>Johnson</persName></seg></seg>:
+                  >adv. <persName ref="/people/BRO27.html">Brown</persName> &amp; <persName>Johnson</persName></seg></seg>:
               <seg type="dMeeting" subtype="See"><persName ref="/people/ROD01.html"><placeName
                   type="venue">T Rodd’s</placeName></persName></seg>: <seg type="dMeal" subtype="SG"
                 ><persName ref="/people/KEI01.html">Keir</persName> sups</seg>.</ab>
@@ -3116,7 +3116,7 @@
               type="dText" subtype="read" target="/bibl/te2637.html">Ariosto, st. 62</ref>. <seg
               type="dMeeting" subtype="See"><persName ref="/people/BAN02.html"><placeName
                   type="venue">Sir J B’s</placeName></persName>; <seg type="dMeeting" subtype="Adv"
-                >adv. <persName>Lee</persName> &amp; <persName>Brown</persName></seg></seg>: <seg
+                    >adv. <persName>Lee</persName> &amp; <persName ref="/people/BRO27.html">Brown</persName></seg></seg>: <seg
               type="dMeeting" subtype="CG"><persName ref="/people/MUL01.html">Mulready</persName>
               calls</seg>: <seg type="dMeal" subtype="DG"><persName ref="/people/HOL17.html">T Ht
               </persName>dines</seg>.</ab>

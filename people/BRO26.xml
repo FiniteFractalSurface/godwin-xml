@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="BRO26" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename></forename>
+                        <surname>Brown/e</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Surgeon</occupation>
+                    <note type="editorial">
+                        <p>Ed Pope notes: the almost repeated York Road entries of two consecutive days in 1832,
+                            followed the next day by a third York Road entry and W dies. This was
+                            the death of Godwin's son William whose letter to Godwin of
+                            18.8.1831(Bodleian Abinger c14 f10) was addressed from 53 York Rd. So
+                            this Brown was probably a doctor or surgeon assisting David Uwins at
+                            William's deathbed. Possible surgeons in London were John Browne of
+                            Camberwell will PCC 1842 / Laurence Brown of Berners St will PCC 1833
+                            Laurence Wrangle Brown of Berners St will PCC 1835 / Andrew Brown of
+                            Clerkenwell will PCC 1841 / Henry Brown / Samuel William Brown / Thomas
+                            Brown / William Brown 5 New Burlington St 1826. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

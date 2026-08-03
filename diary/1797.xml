@@ -692,7 +692,7 @@
                            ><placeName type="venue">E Mansel</placeName></persName></seg>: <seg
                      type="dMeeting" subtype="M"> meet <persName ref="/people/TWI01.html"
                         >Twiss</persName></seg> &amp; <seg type="dMeeting" subtype="M"
-                        ><persName>Butler vdm</persName></seg>: <ref type="dEntertainment"
+                           ><persName ref="/people/BUT02.xml.html">Butler vdm</persName></seg>: <ref type="dEntertainment"
                      subtype="Theat" target="/plays/bant01.html"><placeName type="CG"/>theatre,
                      Bantry Bay</ref>: <seg type="dMeal" subtype="S">sup at <persName
                         ref="/people/ROB04.html"><placeName type="venue">M
@@ -1354,7 +1354,7 @@
                            <persName><placeName type="venue">Mansel</placeName></persName>; <seg
                         type="dMeeting" subtype="Adv">adv. <persName ref="/people/MOO06.html">C
                            Moore</persName></seg></seg>: <seg type="dMeeting" subtype="M">meet
-                        <persName>Butler vdm</persName></seg>: <seg type="dMeal" subtype="DG"
+                              <persName ref="/people/BUT02.xml.html">Butler vdm</persName></seg>: <seg type="dMeal" subtype="DG"
                         ><persName ref="/people/FEN03.html">mrs Fenwick</persName> &amp; <persName
                         ref="/people/HOL06.html">F Ht</persName> dine; <seg type="dMeeting"
                         subtype="Adv">adv. <persName ref="/people/REV01.html">mrs Reveley</persName>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="BRY01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>NAME</forename>
+                        <surname>Bryant</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Given the pattern of visits this looks likely to be a case of Godwin
+                            seeking financial or legal advice, and there is an Attorney, Mr Bryant
+                            of Callum Street, Fenchurch Street, London, managing bankrupcy cases in
+                            these dates. However, many of the calls are after Godwin's bankrupcy,
+                            and Godwin also dines with Bryant on a number of occasions. But it is a
+                            very one sided relationship - they occasionally 'meet' - probably by
+                            chance - but Bryant does not call on Godwin. It is possible that Godwin
+                            had struck up an acquaintance with Bryant's of the East India Warehouse
+                            on the North side of St Paul' Churchyard. But we have no other evidence
+                            of this. In 1828, 1829 and 1832 - there are a number of C Bryant, and
+                            one A Bryant. We have coded all these under Bryant as they seem to be
+                            connected. And the pattern of Godwin visitng remains stable.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1068,7 +1068,7 @@
         rend="deleted">at</emph> on <persName><placeName type="venue"
        >Peak</placeName></persName></seg> &amp; <seg type="dMeeting" subtype="C"
          ><persName><placeName type="venue">Roberts</placeName></persName></seg>: <seg
-       type="dMeeting" subtype="M">meet <persName>Bryant</persName></seg>: <seg type="dMeeting"
+           type="dMeeting" subtype="M">meet <persName ref="/people/BRY01.html">Bryant</persName></seg>: <seg type="dMeeting"
        subtype="See"><persName>Howis, coal merchant</persName></seg>. <ref type="dEvent"
        subtype="Temp">62 / 71</ref></ab>
      <ab type="dDay" xml:id="g1833-05-04"><date when="1833-05-04">4. Sa.</date><seg type="dMeeting"
@@ -1233,7 +1233,7 @@
        subtype="cala" target="/works/necr01.html">Necromancers, çala (Peregrine Proteus)</ref>. <seg
        type="dMeeting" subtype="C">Call on <persName ref="/people/BED04.html"><placeName
          type="venue">Bedford</placeName></persName>; <seg type="dMeeting" subtype="Adv">adv.
-         <persName>Bulley</persName></seg></seg>. <ref type="dEvent" subtype="Temp">59 /
+           <persName ref="/people/BUL03.html">Bulley</persName></seg></seg>. <ref type="dEvent" subtype="Temp">59 /
       63</ref></ab>
     </div>
     <div type="dMonth" xml:id="g1833-06">
