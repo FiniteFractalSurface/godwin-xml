@@ -273,7 +273,7 @@
                                 type="dMeeting" subtype="Sleeps"
                             ><persName>sleeps</persName></seg></add></ab>
                     <ab type="dDay" xml:id="g1818-01-26"><date when="1818-01-26">26. M.</date><seg
-                            type="dMeeting" subtype="C">Call on (<persName>Campbel</persName> &amp;)
+                            type="dMeeting" subtype="C">Call on (<persName ref="/people/CAM01.html">Campbel</persName> &amp;)
                                     <persName><placeName type="venue"
                             >Bowden</placeName></persName></seg>, &amp; <seg type="dMeeting"
                             subtype="C"><persName ref="/people/BOO01.html" type="nah"><placeName

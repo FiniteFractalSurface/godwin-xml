@@ -1475,7 +1475,7 @@
                                     ref="/people/MOR01.html">Morton</persName>, <persName
                                     ref="/people/TAY01.html">J Taylor</persName>, <persName
                                     ref="/people/QUI01.html">Quin</persName> &amp;
-                                    <persName>Campbel</persName></seg></ref> : <seg type="dMeeting"
+                                <persName ref="/people/CAM01.html">Campbel</persName></seg></ref> : <seg type="dMeeting"
                             subtype="M">meet <persName ref="/people/CAR01.html"
                             >Carlisles</persName></seg>. <emph rend="red"><ref type="dEvent"
                                 subtype="Publ" target="/events/pu0100.html">Second War

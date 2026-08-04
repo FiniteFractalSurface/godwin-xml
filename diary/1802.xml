@@ -926,7 +926,7 @@
                                 >Davy</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName ref="/people/NIC01.html"><placeName type="venue"
                                     >Nicholson</placeName></persName></seg>: <seg type="dMeeting"
-                            subtype="CG"><persName>Campbel</persName></seg> &amp; <seg
+                                        subtype="CG"><persName ref="/people/CAM01.html">Campbel</persName></seg> &amp; <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/WOO02.html"
                                 type="nah">Wood</persName> call <hi rend="sup">n</hi></seg>: <seg
                             type="dMeal" subtype="S">sup at <persName ref="/people/REY03|REY99.html"
@@ -959,7 +959,7 @@
                                     ref="/people/NOR01.html">Northcote</persName>, <persName
                                     ref="/people/HOA01.html">Hoare</persName>, <persName
                                     ref="/people/BAN03.html">Banks</persName>,
-                                    <persName>Campbel</persName>, <emph rend="deleted"
+                                    <persName ref="/people/CAM01.html">Campbel</persName>, <emph rend="deleted"
                                     >&amp;</emph><persName ref="/people/SCO04.html"> H
                                     Scott</persName>, <persName ref="/people/NOR04.html"
                                     >Northmore</persName> &amp; <persName ref="/people/MAL01.html"
@@ -1058,7 +1058,7 @@
                                     type="venue">White's</placeName></persName></ref>.</ab>
                     <ab type="dDay" xml:id="g1802-03-25"><date when="1802-03-25">25. Th.</date><ref
                             type="dText" subtype="read" target="/bibl/te1328.html">Percy</ref>,
-                        &amp;c. <seg type="dMeeting" subtype="C">Call on <persName type="nah"
+                        &amp;c. <seg type="dMeeting" subtype="C">Call on <persName ref="/people/CAM01.html" type="nah"
                                     ><placeName type="venue">Campbel P H</placeName></persName><hi
                                 rend="sup">n</hi></seg>: <ref type="dEntertainment" subtype="Theat"
                             target="/plays/wint01.html"><placeName type="DL"/>theatre, Winter's

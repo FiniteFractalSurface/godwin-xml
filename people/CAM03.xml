@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="CAM03" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Thomas</forename>
+                        <surname>Campbell</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Chemist</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's disussion:SOCIETY FOR CONSTITUTIONAL INFORMATION Mr Thomas
+                            Campbell of Princes St, Leicester Sq proposed 27.4.1792 by Walsh 2nded
+                            Tooke and Mr Hector Campbell at the Neckinger, Bermondsey proposed SCI
+                            9.11.1792 by Watts 2nded Rae. Both these Campbells in SCI were chemists
+                            (as were Walsh and Watts who proposed them). Thomas' will PCC 1810 surgeon
+                            and apothecary, Hector's will PCC 1831, Doctor of Medicine. Hector C and Co
+                            27 Horslydown La 1789, active in Div 4 of London Corresponding Society
+                            (Thale), ,took out patent for bleaching rags 1794, guilty of libel on
+                            Royal College of Physicians 1807 sentenced to 3 months in Kings Bench
+                            prison and £50 fine, died at his house in Cheapside 12.1.1831 age 76.
+                            Smart, St Andrews University Register Hector Campbell MA and MD 12.1.1796
+                            on testimonials signed by Heinrich Krohn MD and Andrew Marshall MD GODWIN
+                            DIARY 17.12.1793 at Woolwich (visiting Muir and Reid in prison hulks) /
+                            28.9.1795 sup at Mrs Johnston's w miss Godwin; Young and Campbell (the top
+                            point in the semi-colon between miss Godwin and Young is very tiny, and
+                            there is no 'meet', 'adv' or 'see' as Godwin usually applies to names,
+                            so Young and Campbell may have been at Mrs Johnston's, or seen just
+                            afterwards)</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

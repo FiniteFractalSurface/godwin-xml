@@ -10,7 +10,7 @@
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by</resp>
-                    <name>TW</name>
+                    <name/>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -24,11 +24,11 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="CAR11" sex="1">
+                <person xml:id="NOR10" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>Charles</forename>
-                        <surname>Cuthbert Carlton</surname>
+                        <forename>Caroline</forename>
+                        <surname>Norton</surname>
                         <addName/>
                     </persName>
                     <birth when="1000-01-01">
@@ -37,18 +37,21 @@
                     <death when="1000-12-31"/>
                     <occupation>OCCUPATION</occupation>
                     <note type="editorial">
-                        <p> </p>
+                        <p>The controvercial Mrs Caroline Norton, whose husband took a criminal
+                            conversation suit against Lord Melbourne, only for it to be dismissed b
+                            a jury. She had then to fight for custody of her children. Godwin sees
+                            her because he wants her to use her influence to secure him a pension.
+                            But he clearly has his measure. Having seen him once, the other entries all signify that she was not receiving him. </p>
                     </note>
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
                         Publisher, year</bibl>
                     <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
                     <bibl type="other">
-                        <title></title>
+                        <title/>
                     </bibl>
                 </person>
             </listPerson>
         </body>
     </text>
 </TEI>
-

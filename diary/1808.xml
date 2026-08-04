@@ -2139,7 +2139,7 @@
                                 subtype="Publ" target="/events/pu0123.html">Battle of
                                     <placeName>Vimiera</placeName></ref>.</emph></ab>
                     <ab type="dDay" xml:id="g1808-08-22"><date when="1808-08-22">22. M.</date><seg
-                            type="dMeal" subtype="D">Dine at <persName><placeName type="venue"
+                            type="dMeal" subtype="D">Dine at <persName ref="/people/CAM01.html"><placeName type="venue"
                                     >Campbel’s, Sydenham</placeName></persName>, w.<persName
                                 ref="/people/TUR01.html"> T T</persName></seg>;<seg type="dMeal"
                             subtype="S"> sup at <persName ref="/people/HAZ01|HAZ02.html"><placeName
