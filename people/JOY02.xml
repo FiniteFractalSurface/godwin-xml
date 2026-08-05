@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="JOY02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>William</forename>
+                        <surname>Joy</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Ed Pope notes:William Joy bookseller Ave Maria-lane 1807, Cradock and Joy
+                            publishers 3 Ave Maria-lane, 32 Paternoster-row from 1809 to 1815 (bbti)
+                            thereafter Baldwin, Cradock and Joy. SunFire 1810 Charles Cradock and
+                            William Joy 32 Paternoster-row booksellers. Morning Chronicle 18.5.1813
+                            at Forcett Mr Charles Cradock of Paternoster-row to Miss Clerk, only
+                            daughter of William Clerk, Esq of Barforth Hall, nr. Richmond, Yorks.
+                            William Joy left the partnership in 1826 and carried on at 66 St Pauls
+                            Churchyard </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

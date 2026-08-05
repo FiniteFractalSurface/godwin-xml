@@ -2154,7 +2154,7 @@
                             subtype="C"><persName><placeName type="venue"
                                 >Sherwood</placeName></persName></seg>, <seg type="dMeeting"
                                     subtype="C"><persName ref="/people/GAL03.html" key="CUR03">Gale &amp; Curtis</persName></seg>,
-                        &amp; <seg type="dMeeting" subtype="C"><persName><placeName type="venue"
+                        &amp; <seg type="dMeeting" subtype="C"><persName ref="/people/CRA02.html"><placeName type="venue"
                                     >Cradock</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName ref="/people/WHI01.html"><placeName type="venue">J
                                     White</placeName></persName></seg>, &amp; <seg type="dMeeting"

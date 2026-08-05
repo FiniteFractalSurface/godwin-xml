@@ -62,7 +62,7 @@
                                         type="dMeeting" subtype="C"><persName ref="/people/BAL15.html"><placeName type="venue"
                                     >Baldwin</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName><placeName type="venue"
-                                        ><persName>Cradock</persName></placeName></persName></seg>:
+                                    ><persName ref="/people/CRA02.html">Cradock</persName></placeName></persName></seg>:
                             <seg type="dMeal" subtype="D">dine at <persName ref="/people/SHE02.html"
                                     ><placeName type="venue">M W S’s</placeName></persName>; <seg
                                 type="dMeeting" subtype="Adv">adv. <persName
@@ -76,7 +76,7 @@
                                 Combe</persName></seg>, <seg type="dMeeting" subtype="CG"
                                 ><persName>Rowbothams</persName></seg> &amp; <seg type="dMeeting"
                             subtype="CG"><persName>John Evans</persName> call</seg>: <seg
-                            type="dMeeting" subtype="C">call on <persName><placeName type="venue"
+                                type="dMeeting" subtype="C">call on <persName ref="/people/CRA02.html"><placeName type="venue"
                                     >Cradock</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName><placeName type="venue"
                                 >Saunders</placeName></persName></seg>: <seg type="dMeal"
@@ -350,7 +350,7 @@
                             Tragedy</ref>. <seg type="dMeeting" subtype="C">Call on
                                 <persName ref="/people/BAL15.html"><placeName type="venue"
                             >Baldwin</placeName></persName></seg>, <seg type="dMeeting" subtype="C"
-                                    ><persName><placeName type="venue"
+                                ><persName ref="/people/CRA02.html"><placeName type="venue"
                                 >Cradock</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName ref="/people/BOO01.html"><placeName type="venue"
                                     >Booth</placeName></persName></seg> &amp; <seg type="dMeeting"

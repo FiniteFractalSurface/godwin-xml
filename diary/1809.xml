@@ -2679,7 +2679,7 @@
                                     Robinson</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName ref="/people/GAL03.html"><placeName type="venue"
                                     >Gale</placeName></persName></seg>, <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                        subtype="C"><persName ref="/people/JOY02.html"><placeName type="venue"
                             >Joy</placeName></persName></seg>, <seg type="dMeeting" subtype="C"
                                     ><persName><placeName type="venue"
                             >Harris</placeName></persName></seg>, <seg type="dMeeting" subtype="C"
@@ -3295,8 +3295,8 @@
                             subtype="CG"><persName ref="/people/PIL01.html">S P</persName>
                             calls</seg>.</ab>
                     <ab type="dDay" xml:id="g1809-11-16"><date when="1809-11-16">16. Th.</date><seg
-                            type="dMeeting" subtype="C">Call on <persName><placeName>Cradock &amp;
-                                    Joy</placeName></persName></seg>, <seg type="dMeeting"
+                            type="dMeeting" subtype="C">Call on <placeName><persName ref="/people/CRA02.html">Cradock</persName> &amp;
+                                <persName  ref="/people/JOY02.html" > Joy </persName> </placeName></seg>, <seg type="dMeeting"
                             subtype="C"><persName ref="/people/GAL03.html"><placeName>Gale &amp;
                                     Curtis</placeName></persName></seg>, <seg type="dMeeting"
                                         subtype="C"><orgName><placeName>Taylor &amp;<persName ref="/people/HES01.html">Hessey</persName>
@@ -3856,7 +3856,7 @@
                             >Law</placeName></persName></seg>, <seg type="dMeeting" subtype="C"
                                 ><persName ref="/people/WIL28.html"><placeName type="venue">Wilkie
                                     &amp; R</placeName></persName></seg>, <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                        subtype="C"><persName ref="/people/CRA02.html"><placeName type="venue"
                                 >Cradock</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName><placeName type="venue"
                                 >Scatcherd</placeName></persName></seg>, <seg type="dMeeting"
