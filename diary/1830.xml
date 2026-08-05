@@ -986,7 +986,7 @@
                      type="dEntertainment" subtype="Museo" target="/events/mu0001.html"
                         ><placeName>Museum</placeName>;<ref type="dText" subtype="read"
                         target="/bibl/te3305.html"> De Foe</ref></ref>. <seg type="dMeeting"
-                     subtype="CG"><persName>Cramond</persName> calls</seg>. <ref type="dEvent"
+                           subtype="CG"><persName ref="/people/CRA03.html">Cramond</persName> calls</seg>. <ref type="dEvent"
                      subtype="Temp">56 ½ / 64</ref></ab>
                <ab type="dDay" xml:id="g1830-04-09"><date when="1830-04-09">9. F. </date><ref
                      type="dWrote" subtype="cala" target="/works/thou01.html">Self-Love, çala</ref>.

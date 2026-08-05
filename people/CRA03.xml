@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="CRA03" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Hercules and Robert</forename>
+                        <surname>Cramond</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>This is a long-shot, but the name is unusual, corresponding to a district
+                            near Edinburgh, but there are no entries in the ODNB. In 1785 (with another
+                            edition in 1787)a Hercules Cramond published Outlines of Human Life aged
+                            30 in London, and in 1789 Hercules and Robert Cramond published a Letter
+                            to the National Assembly. A Hercules Crammond was buried in Greyfriars,
+                            kirkyard, Edinburgh in Feb 1784. The author, Hercules, identifies his
+                            father as Robert Cramond, b. 1703 in Edinburgh. but says his unccle was
+                            a Scottish sea-farer who lived past the meridian of life. There is a
+                            single m in the author's name and a double m on the grave report, but
+                            such variation is not uncommon. </p><p>It seems likely that one of Hercules and
+                            Robert were visiting London and sought out
+                            Godwin, on philosophiccal grounds. Hercules would have been a similar
+                            age to Godwin. Robert might be a son or brother.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
