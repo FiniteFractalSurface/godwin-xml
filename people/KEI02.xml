@@ -10,7 +10,7 @@
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by</resp>
-                    <name>TW</name>
+                    <name/>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -24,28 +24,26 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="CHA11" sex="1">
+                <person xml:id="KEI02" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>Eleizer</forename>
-                        <surname>Chater</surname>
+                        <forename>C</forename>
+                        <surname>Keir</surname>
                         <addName/>
                     </persName>
-                    <birth when="1764-01-01">
+                    <birth when="1000-01-01">
                         <placeName/>
                     </birth>
-                    <death when="1835-12-31">
-                        <placeName> Bunhill Fields, Finsbury Circus </placeName>
-                    </death>
-                    <occupation>Stationer</occupation>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
                     <note type="editorial">
-                        <p> See Ed POpe's note: Probably Eliezer Chater stationer 11 Cornhill Sun
-                            Fire 1790, 1811 and Upper Clapton will PCC 1835, son George. Buried
-                            1.9.1835 Bunhill Fields age 71 from Finsbury Circus. Son of James Chater
-                            watchmaker, apprenticed in Stationer's Co 1777. partner William Limbery
-                            Grosvenor. Bankrupt 1826. There was an extensive family of Chaters in
-                            London, mostly watchmakers, which we haven't disentangled which makes
-                            this attribution less certain </p>
+                        <p>Probably the son of Peter Keir (qv). Ed Pope suggests: Peter Keir coach
+                            axletree and box manufacturer, near Veterinary College St Pancras.
+                            Collections for prisoners under suspension of Habeas Corpus 1796, 1799 and
+                            1818. John Thomas son of Peter and Elizabeth Keir born 25.9.1791 bapt
+                            18.5.1800 St Pancras. Absence of baptisms for C, K and R Keir may suggest
+                            scepticai outlook. C appeared twice with Orlando Fenwick (born 1798) so
+                            was probably quite a small child</p>
                     </note>
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,

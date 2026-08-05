@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="COO10" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>George</forename>
+                        <surname>Cook</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>lawyer</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's notes: 19.11.1793 Cooke at Jennings and Cook 20.1.1794,
+                            21.3.1794 and 19.12.1794 there. Also Cook 21.5.1794, 19.7.1794 at
+                            Holcroft's and 30.7.1794 adv Hart St; all linked to the
+                            Jennings/Reveley/Foulkes Bloomsbury set. In the Law Lists George Cooke
+                            was partner to John Foulkes at 14 Hart St, Bloomsbury from 1795 to 1797.
+                            Then there was Cook 25.12.1794 and 19.5.1795 at Foulkes; Cooke 7.8.1795
+                            and 22.8.1795 at Foulkes; Cook 7.9.1795 at Foulkes; Cooke 2.10.1795 at
+                            Montagu's; and Cooke 21.12.1795, 29.1.1796 and 4.2.1796 at Foulkes,
+                            which demonstrates that Godwin's exact spellings cannot be relied on for
+                            identification, as all the above were surely one person (who seems to
+                            have transferred his connection from Jennings to Foulkes in December
+                            1794). From Feb 1796 on it is less clear as Cook called on 19.10.1796;
+                            then Godwin met Cooke in Bath 9.6.1798, Cooke called 20.7.1798 and dined
+                            at Tooke's 29.7.1798. Then a gap till 28.6.1802 when Cooke called (but
+                            didn't see Godwin). The actor George Frederick Cooke DNB 1756?-1812
+                            appeared in Godwin's 1796 list for 1803 and Godwin noted his death in
+                            1812 so the GD website is surely right to assign 23.5.1803 and 8.4.1804
+                            to him, both at his fellow actor Thomas Cooper's table. Cooke 14.12.1807
+                            at Philips, call on Cooke 21.4.1809 and call on Cook 18.11.1809 were the
+                            last times (apart from Geo Cooke's death) that Godwin noted a Cook or
+                            Cooke till 1822. George Cooke will PCC 1842 of Carr House, Yorkshire.
+                            Manchester Times 22.10.1842 'at Scarborough, George Cooke of Doncaster
+                            aged 72 years'. I think he was the former partner of John Foulkes </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

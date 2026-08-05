@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="CAR15" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>John Edward</forename>
+                        <surname>Carter</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1813"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's note: John Edward Carter gent of Leicester was a party to
+                            the marriage settlement of Augustus Butler (qv) to miss Danvers, his
+                            will PCC 1813. Thomas Leveson Prescott, a naval officer who got involved
+                            in a dodgy banking scheme with John King in 1802 married Louisa Carter
+                            of St Giles Cripplegate on 10.4.1802 at St Marylebone, but the Carters
+                            Godwin met at King's were three to five years previously, so this is
+                            just a possible clue rather than a strong connection, especially as
+                            Carter is a very common name. Louisa Redfearn Carter was baptised at St
+                            Giles Cripplegate on 2.11.1780 daughter of Nicholas and Ann. Her father
+                            Nicholas (will PCC 1784) and his brother George (will PCC 1781) were
+                            prosperous butchers of Grub Street, St Giles without Cripplegate.
+                            Nicholas married Ann Newbank at St Giles Cripplegate 12.12.1758 and in
+                            his will mentioned his wife Ann, his daughter Elizabeth wife of Thomas
+                            Dalby, his daughter Ann wife of Bewley Morrison, and five unmarried
+                            daughters Sarah, Mary, Jane, Louisa, Dorothy. In the book trade: Joseph
+                            Carter, stationer, 10, North Piazza, Royal Exchange 1784-1838 / Sarah
+                            Carter circulating library Paul-st, Finsbury 1805 Attorneys: William
+                            Carter, 9, Lant-st (1811) / Bartholomew Churchill Carter, 7, Staples-inn
+                            (1802,1811) / C J Carter 49 Castle-st Southwark (1802) / Thomas Carter and
+                            Isaac Sheffield 28 Gt Prescot-st, Goodmans Fields (1802) Surgeons:
+                            Thomas Carter, Walworth (1802, 1811) </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -10,7 +10,7 @@
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by</resp>
-                    <name>TW</name>
+                    <name/>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -24,28 +24,22 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="CHA11" sex="1">
+                <person xml:id="COT03" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>Eleizer</forename>
-                        <surname>Chater</surname>
+                        <forename>William</forename>
+                        <surname>Cotton</surname>
                         <addName/>
                     </persName>
-                    <birth when="1764-01-01">
+                    <birth when="1786">
                         <placeName/>
                     </birth>
-                    <death when="1835-12-31">
-                        <placeName> Bunhill Fields, Finsbury Circus </placeName>
-                    </death>
-                    <occupation>Stationer</occupation>
+                    <death when="1866"/>
+                    <occupation>OCCUPATION</occupation>
                     <note type="editorial">
-                        <p> See Ed POpe's note: Probably Eliezer Chater stationer 11 Cornhill Sun
-                            Fire 1790, 1811 and Upper Clapton will PCC 1835, son George. Buried
-                            1.9.1835 Bunhill Fields age 71 from Finsbury Circus. Son of James Chater
-                            watchmaker, apprenticed in Stationer's Co 1777. partner William Limbery
-                            Grosvenor. Bankrupt 1826. There was an extensive family of Chaters in
-                            London, mostly watchmakers, which we haven't disentangled which makes
-                            this attribution less certain </p>
+                        <p>See Ed Pope's note: The entries from 1807 on probably all belong to the
+                            merchant and philanthropist William Cotton DNB 1786-1866. Cotton's clerk
+                            1805 might have been William Cotton's clerk </p>
                     </note>
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,

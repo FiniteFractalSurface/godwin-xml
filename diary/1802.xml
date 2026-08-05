@@ -142,7 +142,7 @@
                                     type="venue">T Moore's</placeName></persName>, w. <persName
                                 ref="/people/CUR01.html">Curran</persName>,
                                 <persName>Woolriche</persName> &amp;
-                            <persName>Carpenter</persName></seg>.</ab>
+                                        <persName ref="/people/CAR11.html">Carpenter</persName></seg>.</ab>
                     <pb n="e.205_0045r"/>
                     <ab type="dDay" xml:id="g1802-01-10"><date when="1802-01-10">Jan. 10.
                             Su.</date><seg type="dMeeting" subtype="CG"><persName
@@ -2845,7 +2845,7 @@
                                     type="venue">Winter</placeName></persName></seg>, <seg
                             type="dMeeting" subtype="C"><persName><placeName type="venue"
                                     >James</placeName></persName></seg>, <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                        subtype="C"><persName ref="/people/COT02.html"><placeName type="venue"
                                 >Cotton</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName ref="/people/COM01.html"><placeName type="venue"
                                     >Combe</placeName></persName></seg>: <seg type="dMeeting"

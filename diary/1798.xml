@@ -1816,7 +1816,7 @@
                             <seg type="dMeal" subtype="D">dine at <persName ref="/people/KIN01.html"
                                     ><placeName type="venue">King's</placeName></persName>, w.
                                 <persName>mrs Lind</persName>, <persName>mrs May</persName>,
-                                <persName>Carters</persName> &amp; <persName
+                                <persName ref="/people/CAR15.html">Carters</persName> &amp; <persName
                                 ref="/people/WOL02.html">Wolcot</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1798-05-29"><date when="1798-05-29">29. Tu.</date><seg
                             type="dMeeting" subtype="CG"><persName ref="/people/GOD09.html">Jno
@@ -1969,7 +1969,7 @@
                                 <placeName>Hampton</placeName>, <placeName>Freshfield</placeName>
                             &amp; <placeName>Bradford</placeName></seg>: <seg type="dMeal"
                             subtype="SG"><persName>mrs Jones</persName> sups</seg>: <seg
-                            type="dMeeting" subtype="M">meet <persName>Cooke</persName></seg>. <seg
+                                type="dMeeting" subtype="M">meet <persName ref="/people/COO10.html">Cooke</persName></seg>. <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/DAN04.html" type="nah">Dangerfield</persName>
                             calls <hi rend="sup">n</hi></seg>.</ab>
                     <pb n="e.203_0046r"/>
@@ -2456,7 +2456,7 @@
                                 ref="/people/WHI12.html">Major White</persName></seg>, <seg
                             type="dMeeting" subtype="CG"><persName>Weeding</persName></seg>, <seg
                             type="dMeeting" subtype="CG"><persName>Morley</persName></seg> &amp;
-                            <seg type="dMeeting" subtype="CG"><persName>Cooke</persName>
+                        <seg type="dMeeting" subtype="CG"><persName ref="/people/COO10.html">Cooke</persName>
                         call</seg>.</ab>
                     <ab type="dDay" xml:id="g1798-07-21"><date when="1798-07-21">21. Sa.</date><ref
                             type="dWrote" subtype="write" target="/works/leon01.html">St Leon, p.
@@ -2560,7 +2560,7 @@
                                 >Tooke</persName>{,} <persName ref="/people/BOD02.html"
                                 >Boddington</persName>, <persName>Ashburnham</persName>, <persName
                                 ref="/people/MOR99.html">Morgan</persName>,
-                                <persName>Cooke</persName>, <persName ref="/people/WAR05.html"
+                                <persName ref="/people/COO10.html">Cooke</persName>, <persName ref="/people/WAR05.html"
                                 >Warner</persName>, <persName>Pearsons</persName>,
                                 <persName>Odel</persName>, <persName ref="/people/FRE01.html"
                                 >Frend</persName>, <persName ref="/people/BON03.html"

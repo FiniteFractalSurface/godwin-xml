@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="CAR13" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>John</forename>
+                        <surname>Carr</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1772">
+                        <placeName/>
+                    </birth>
+                    <death when="1832"/>
+                    <occupation>Traveller and Barrister</occupation>
+                    <note type="editorial">
+                        <p>See para 2 below: Ed Pope notes: Thomas William Carr solicitor to the excise died at his
+                            house Frognall, Hampstead, FRS, barrister (Morning Post 27.4.1829).
+                            Married Frances Morton 1.1.1794 at Newcastle upon Tyne. Neighbour and
+                            visitor of Barbaulds (see McCarthy, A L Barbauld, 2008), otherwise might
+                            have been his older brother Ralph Carr 1768-1837 member of Friends of
+                            the People 1792. Ralph was admitted Middle Temple 1782, BA 1789 Christ
+                            Church Oxford, called to bar 1798, Thomas William was perhaps the Carr
+                            who entered New College Hackney Sept 1788. He was admitted Grays Inn
+                            1791. Their sister is mentioned as an artist in Farington's diary p235 and
+                            p2371. The Carr whom Godwin met on 27.6.1797 with Hardy (and who seems
+                            not to be tagged in GD website as identified or not) was likely John
+                            Carr, member of Scots Church who stood character witness for Thomas
+                            Hardy DNB 1752-1832 at his trial in 1794. </p>
+                        <p>The Carr at Phillips' in 1805
+                            and 1809 was more likely John Carr DNB 1772-1832 whose Stranger in Paris
+                            was published by Joseph johnson in 1803 and whose Northern Summer was
+                            published by Phillips in 1805. Carr was knighted about 1806 and Godwin
+                            used the title in 1832 when reading a text (presumably by him), but not
+                            at subsequent meetings, if they were with him. This is the Carr identified here. It is possible that he is the Carr of 1818.
+                            Another Carr to consider
+                            was George Carr who lived at 30 Charlton St (Oracle and  Daily Advertiser
+                            15.6.1799) so was a neighbour of Godwin at the Polygon. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

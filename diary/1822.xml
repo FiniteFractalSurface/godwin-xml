@@ -237,7 +237,7 @@
                     <ab type="dDay" xml:id="g1822-01-25"><date when="1822-01-25">25. F. </date><ref
                             type="dWrote" subtype="write" target="/works/comm01.html">Commonwealth,
                             p. 19/2</ref>. <seg type="dMeeting" subtype="C">Call on
-                                    <persName><placeName type="venue"
+                                <persName ref="/people/COA01.html"><placeName type="venue"
                             >Coates</placeName></persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1822-01-26"><date when="1822-01-26">26. Sa.</date><ref
                             type="dWrote" subtype="write" target="/works/comm01.html">Commonwealth,
@@ -513,7 +513,7 @@
                     <ab type="dDay" xml:id="g1822-03-01"><date when="1822-03-01">Mar. 1. F.
                             </date><ref type="dWrote" subtype="cala" target="/works/comm01.html"
                             >Commonwealth, çala</ref>. <seg type="dMeeting" subtype="C">Call on
-                                    <persName><placeName type="venue"
+                                <persName ref="/people/COA01.html"><placeName type="venue"
                             >Coates</placeName></persName></seg>:<seg type="dMeal" subtype="TG"
                                 ><persName ref="/people/BOT01.html">B<hi rend="sup"
                                 >t</hi></persName> at tea</seg>.</ab>
@@ -909,7 +909,7 @@
                             11 lines</ref>. <ref type="dWrote" subtype="letter">Write to<persName
                                 ref="/people/SHE02.html"> M W S</persName></ref>.<ref type="dText"
                             subtype="read" target="/bibl/te2637.html"> Ariosto, st. 81</ref>.<seg
-                            type="dMeeting" subtype="C"> Call on <persName><placeName type="venue"
+                                type="dMeeting" subtype="C"> Call on <persName ref="/people/COA01.html"><placeName type="venue"
                                     >Coates</placeName></persName></seg>: <seg type="dMeal"
                             subtype="DG"><persName ref="/people/ROS01.html">Rosser</persName>
                             dines</seg>. <seg type="dMeeting" subtype="CG"><persName
@@ -1138,7 +1138,7 @@
                             type="dEvent" subtype="PersEvent" target="/events/pe0356.html"
                             >Sale</ref>.<ref type="dEvent" subtype="PersEvent"
                             target="/events/pe0001.html"><persName ref="/people/CLA01.html"> M
-                                J</persName> writes to <persName>C M</persName></ref>. <ref
+                                J</persName> writes to <persName ref="/people/CMX01.html">C M</persName></ref>. <ref
                             type="dText" subtype="cala" target="/bibl/te0726.html">Tom Jones,
                             çala</ref>.</ab>
                     <ab type="dDay" xml:id="g1822-05-08"><date when="1822-05-08">8. W. </date><seg
@@ -1750,7 +1750,7 @@
                         </ref>.</ab>
                     <ab type="dDay" xml:id="g1822-07-09"><date when="1822-07-09">9. Tu. </date><ref
                             type="dText" subtype="read" target="/bibl/te2811.html">Castruccio, p.
-                            210</ref>. <seg type="dMeeting" subtype="C">Call on <persName><placeName
+                            210</ref>. <seg type="dMeeting" subtype="C">Call on <persName ref="/people/COA01.html"><placeName
                                     type="venue">Coates</placeName></persName></seg>, <seg
                                         type="dMeeting" subtype="C"><persName ref="/people/COO09.html"><placeName type="venue"
                                     >Cooper</placeName></persName></seg> &amp; <seg type="dMeeting"

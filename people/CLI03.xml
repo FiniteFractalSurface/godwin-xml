@@ -10,7 +10,7 @@
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by</resp>
-                    <name>TW</name>
+                    <name></name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -24,38 +24,31 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="CHA11" sex="1">
+                <person xml:id="CLI03" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>Eleizer</forename>
-                        <surname>Chater</surname>
+                        <forename>George</forename>
+                        <surname>Clint</surname>
                         <addName/>
                     </persName>
-                    <birth when="1764-01-01">
+                    <birth when="1770">
                         <placeName/>
                     </birth>
-                    <death when="1835-12-31">
-                        <placeName> Bunhill Fields, Finsbury Circus </placeName>
-                    </death>
-                    <occupation>Stationer</occupation>
+                    <death when="1854"/>
+                    <occupation>Painter</occupation>
                     <note type="editorial">
-                        <p> See Ed POpe's note: Probably Eliezer Chater stationer 11 Cornhill Sun
-                            Fire 1790, 1811 and Upper Clapton will PCC 1835, son George. Buried
-                            1.9.1835 Bunhill Fields age 71 from Finsbury Circus. Son of James Chater
-                            watchmaker, apprenticed in Stationer's Co 1777. partner William Limbery
-                            Grosvenor. Bankrupt 1826. There was an extensive family of Chaters in
-                            London, mostly watchmakers, which we haven't disentangled which makes
-                            this attribution less certain </p>
+                        <p>DNB - portrait painter specoalising in theatrical portraits - both elements making sense of the circles in which he appears </p>
                     </note>
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
                         Publisher, year</bibl>
                     <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
                     <bibl type="other">
-                        <title/>
+                        <title></title>
                     </bibl>
                 </person>
             </listPerson>
         </body>
     </text>
 </TEI>
+

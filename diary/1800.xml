@@ -80,7 +80,7 @@
                      type="dMeal" subtype="D">dine at <persName ref="/people/KIN01.html"><placeName
                            type="venue">King's</placeName></persName>, w.
                         <persName>Derville</persName>, <persName ref="/people/ROG03.html"
-                        >Rogers</persName>, <persName>Consit</persName>, <persName><foreign>ami
+                           >Rogers</persName>, <persName ref="/people/CON06.html">Consit</persName>, <persName><foreign>ami
                            de</foreign><persName ref="/people/PIT01.html">
                         Pitt</persName></persName>, &amp; <persName>4 Gardners</persName>; <seg
                         type="dMeeting" subtype="Adv">adv. <persName ref="/people/GRA02.html"
@@ -344,7 +344,7 @@
                            ref="/people/PHI02.html">Philips</persName>,
                         <persName>Dorroty</persName>, <persName>Abbot</persName>,
                            <persName  ref="/people/BOI05.html">Boisgelin</persName>, <persName>de Bath</persName> &amp;
-                           <persName>Consit</persName></seg></seg>. <seg type="dMeeting"
+                           <persName ref="/people/CON06.html">Consit</persName></seg></seg>. <seg type="dMeeting"
                      subtype="CG"><persName ref="/people/GOD09.html">J J G</persName> calls</seg>.
                      <seg type="dMeeting" subtype="See"><persName>Pinkard</persName></seg>.</ab>
                <ab type="dDay" xml:id="g1800-01-27"><date when="1800-01-27">27. M.</date><ref
@@ -499,7 +499,7 @@
                            Gardner</persName>, <persName>Pilkingtons</persName>,
                            <persName>Derville</persName>, <persName  ref="/people/BOI05.html">Boisgelin</persName>, <persName
                            ref="/people/DAV02.html">Davis's</persName>, <persName>Abbot</persName>,
-                           <persName>Dogherty</persName>, <persName>Consit</persName> &amp;
+                           <persName>Dogherty</persName>, <persName ref="/people/CON06.html">Consit</persName> &amp;
                            <persName ref="/people/PHI02.html">Philips</persName></seg></seg>.</ab>
                <ab type="dDay" xml:id="g1800-02-10"><date when="1800-02-10">10. M.</date><ref
                      type="dText" subtype="read" target="/bibl/te0884.html">Gibbon, p. 496</ref>:
@@ -567,7 +567,7 @@
                            ref="/people/FEL01.html">Fell</persName>, Semiramide, &amp; Hylas &amp;
                         Temize <seg type="dMeeting" subtype="Adv">(adv. <persName
                               ref="/people/ROG01.html">Rogers</persName>,
-                              <persName>Consit</persName>, <persName>Siddons</persName>,
+                           <persName ref="/people/CON06.html">Consit</persName>, <persName>Siddons</persName>,
                               <persName>Arabin jr</persName> &amp; <persName>Davis
                            jr</persName>.)</seg></seg></ref></ab>
                <pb n="e.204_0043r"/>
@@ -581,7 +581,7 @@
                            type="venue">H Tooke's</placeName></persName>, w. <persName
                         ref="/people/BUR02.html">Burdet</persName>, <persName
                         ref="/people/GAW01|GAW03.html">Gawlers</persName>, <persName
-                        ref="/people/SHA99.html">Sharpe</persName>, <persName>Clifford</persName>,
+                           ref="/people/SHA99.html">Sharpe</persName>, <persName ref="/people/CLI02.html">Clifford</persName>,
                         <persName ref="/people/MOR99.html">Morgan</persName>, <persName
                         ref="/people/MAL02.html">Malkin</persName>, <persName
                         ref="/people/BOD02.html">Boddington</persName>, <persName>Wardle</persName>
@@ -636,7 +636,7 @@
                      <seg type="dMeeting" subtype="CG"><persName ref="/people/DIB01.html"
                         >Dibbin</persName> calls</seg>: <seg type="dMeeting" subtype="M">meet
                         <persName ref="/people/KNI02.html">T Knight</persName></seg>, <seg
-                     type="dMeeting" subtype="M"><persName>Consit</persName></seg> &amp; <seg
+                           type="dMeeting" subtype="M"><persName ref="/people/CON06.html">Consit</persName></seg> &amp; <seg
                      type="dMeeting" subtype="M"><persName ref="/people/DAV02.html"
                      >Davis</persName></seg>: <seg type="dMeeting" subtype="C">call on <persName
                         ref="/people/REY03.html"><placeName type="venue">E
@@ -914,7 +914,7 @@
                         <persName>Pilkingtons</persName>, <persName ref="/people/WOL02.html"
                         >Wolcot</persName>, <persName>de Bath</persName>, <persName>Bel
                         Arbre</persName>, <persName>Jobson</persName>,
-                     <persName>Dogherty</persName>, <persName>Consit</persName> &amp;
+                           <persName>Dogherty</persName>, <persName ref="/people/CON06.html">Consit</persName> &amp;
                         <persName>Tyson</persName>{;} <seg type="dMeeting" subtype="Adv">adv.
                            <persName>St Hermine</persName>, <persName  ref="/people/BOI05.html">Boisgelin</persName>,
                            <persName>Campbel</persName> &amp; <persName ref="/people/ROG02.html"
@@ -3935,7 +3935,7 @@
                         ref="/people/SMI02.html">C Smith</persName></ref>. <ref type="dText"
                      subtype="read" target="/bibl/te1155.html">Hume, Rich. II, pp. 51</ref>. <seg
                      type="dMeal" subtype="DG"><persName ref="/people/MAR01.html">M</persName> &amp;
-                        <persName>C Keir </persName>dine</seg>: <ref type="dEntertainment"
+                        <persName ref="/people/KEI02.html">C Keir </persName>dine</seg>: <ref type="dEntertainment"
                      subtype="Theat" target="/plays/king01.html"><placeName type="DL"/>theatre, 1/5
                      K John</ref>.</ab>
                <pb n="e.205_0016r"/>
@@ -4171,7 +4171,7 @@
                      subtype="CG"><persName ref="/people/WAL07.html">A Walker</persName> call</seg>:
                      <seg type="dMeeting" subtype="C">call on <persName ref="/people/FEL01.html"
                            ><placeName type="venue">Fell</placeName></persName></seg>: <seg
-                     type="dMeal" subtype="DG"><persName ref="/people/KEI01.html">C Keir</persName>
+                     type="dMeal" subtype="DG"><persName ref="/people/KEI02.html">C Keir</persName>
                      dines; <seg type="dMeeting" subtype="Adv">adv. <persName
                            ref="/people/KEI01.html">Keir</persName></seg></seg>: <seg type="dMeal"
                      subtype="S">sup at <persName ref="/people/LAM01|LAM02.html"><placeName

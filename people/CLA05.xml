@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="CLA05" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Charles Cowden</forename>
+                        <surname>Clarke</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1787">
+                        <placeName/>
+                    </birth>
+                    <death when="1877"/>
+                    <occupation>Author</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pop[e's note: 16.2.1817 dine at L Hunt's, w. Shelleys, Hazlits and
+                            B Montagu; adv. Colson, Gatty and Clarke / 15.11.1823 sup at Lamb's, w.
+                            Novellos, C Clarke / 1.6.1824 sup at Lamb's, w. Novellos, Holmes, Clark
+                            / 26.10.1828 call on L Hunt; adv. miss Kent, Novello and Clarkes. </p>
+                        
+                        <p> These entries are likely to have been Charles Cowden Clarke (DNB
+                            1787-1877) particularly the last three, where Novellos were present, and
+                            after Clarkes's marriage to Mary Novello on 5.7.1828 Novellos and Clarke
+                            became Novello and Clarkes. Note the spelling Clark in 1824
+                            demonstrating that Godwin's spelling with or without an e can't be used
+                            as an identifier. The 1817 entry is very likely him as well but is
+                            bracketed a month either side by Clarkes, which is confusing, but I
+                            think those Clarkes belong to the family of Miss Clarke, see my entry
+                            Clarke, Miss.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="COM04" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>James</forename>
+                        <surname>Comrie</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Attorney</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's note: Perhaps son of William Comrie of Greenwich his will
+                            PCC 1778 left one shilling to wife Susanna residue to children James and
+                            Elizabeth / James Comrie of Fleet-st articled to George Coombe of
+                            Carey-st 1780 / James Comrie married by license 22.3.1788 Mary dau. of
+                            Christopher Hill at Holborn / James Comrie and John Fowler Dyson,
+                            attornies, 3, Staple Inn (1791) / Henry Hill apprenticed to James Comrie
+                            attorney of Fleet-st 1793 / James Comrie, attorney, 42 Fleet-st (1802 and
+                            1805) / George Sawyer apprenticed to James Comrie attorney of Fleet-st /
+                            James Comrie was solicitor for Mary Ann Clarke DNB 1776?-1852, mistress
+                            of the Duke of York, and as such gave evidence to the House of Commons
+                            in 1809. In 1812 he was prosecuted at Clerkenwell Petty Sessions for
+                            defrauding Mary Ann Clarke of £600 but the prosecution was dropped at
+                            once. In 1810 James Comrie Esq paid Land Tax on a property in
+                            Shepperton, Surrey, and in 1815 the lease of Wormholt Farm, Shepherds
+                            Bush was auctioned "late in the occupation of Mr James Comrie". Not
+                            found his death record, but I reckon this is a good identification. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

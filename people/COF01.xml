@@ -10,7 +10,7 @@
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by</resp>
-                    <name>TW</name>
+                    <name/>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -24,28 +24,28 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="CHA11" sex="1">
+                <person xml:id="COF01" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>Eleizer</forename>
-                        <surname>Chater</surname>
+                        <forename>NAME</forename>
+                        <surname>Coffee</surname>
                         <addName/>
                     </persName>
-                    <birth when="1764-01-01">
+                    <birth when="1000-01-01">
                         <placeName/>
                     </birth>
-                    <death when="1835-12-31">
-                        <placeName> Bunhill Fields, Finsbury Circus </placeName>
-                    </death>
-                    <occupation>Stationer</occupation>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
                     <note type="editorial">
-                        <p> See Ed POpe's note: Probably Eliezer Chater stationer 11 Cornhill Sun
-                            Fire 1790, 1811 and Upper Clapton will PCC 1835, son George. Buried
-                            1.9.1835 Bunhill Fields age 71 from Finsbury Circus. Son of James Chater
-                            watchmaker, apprenticed in Stationer's Co 1777. partner William Limbery
-                            Grosvenor. Bankrupt 1826. There was an extensive family of Chaters in
-                            London, mostly watchmakers, which we haven't disentangled which makes
-                            this attribution less certain </p>
+                        <p>The possibilities are listed by Ed Pope: Holdens Directory: Richard
+                            Coffee, hat-maker, (1802 and 1805) Spitalfields / George Coffee, (1802)
+                            carver and gilder, 181 High Holborn (1805) cook, 182 High Holborn /
+                            James Coffey, wine importer, Borough (1805 and 1811) / James Coffey,
+                            (1805) The Old Thatched House, 419 Strand / John Coffey, tailor, (1805
+                            and 1811) 7, Drake-st, Red Lion-sq / John Coffey, (1811) new dairy, 13,
+                            King-st, Soho. All the contacts are within the same year (1808) between
+                            June and November, when Godwin is trying to establish the Juvenile
+                            Library. </p>
                     </note>
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="CAR11" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>NAME</forename>
+                        <surname>Carpenter</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Ed Pope notes: A common name with few entries in Godwin's diary. The 1809
+                            and 1810 entries were probably one person, but the 1802 and 1806 entries
+                            could easily have been different people (or not). At Moore's in 1802
+                            with Moore's friend Woolriche who was a surgeon, so maybe a surgeon or
+                            maybe an Irish connection. See Hughes, Maria for connection of Curran
+                            and Waring. The will PCC 1803 of Hon Charles Carpenter brother of George
+                            2nd Earl Tyrconnel and father of the next Earl, dated 1788, mentioned
+                            his son Charles surgeon of Walton on Thames who is not mentioned in
+                            Peerages so presumably died between 1788 and 1805 when the 2nd Earl
+                            died. James Carpenter DNB 1760-1845 naval officer and Lant Carpenter DNB
+                            1780-1840 Unitarian minister are both outside possibilities. Samuel
+                            Carpenter of 5 Inner Temple Lane, special pleader was in the Law List of
+                            1800 and Charles Carpenter of 5 New Inn, attorney in that of 1808. The
+                            three calls in 1809/10 could have easily been on a printer, an attorney,
+                            a medical man or a moneylender. Edward Twine Carpenter and his partner
+                            William Carpenter were printers, booksellers and publishers with
+                            addresses in Fetter Lane and Fleet St from 1775 to 1821 and see the Book
+                            Trades Index (bbti.bham.ac.uk) for others of the surname. </p>
+                        <p>The case for the middle group being from the print trade seems strong,
+                            and the Irish connections of the first two entries suggest a link between those, for which Pope;s suggestions are apposite. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

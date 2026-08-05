@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="CMX01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>C</forename>
+                        <surname>M</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>We have not traced this reference. Yet the first use of the abbreviation
+                            is in 1795 and references remain sporadic until 1812, when they suddenly
+                            intensify. Godwin tends to iuse abbreviations for close intimates and
+                            members of the family. And once he starts to continue. These references
+                            seem to start out of the blue, and then fizzle out similarly, after
+                            dinning with Godwin in May 1814, and an invitation in January 1815, the next contact is his writing a
+                            letter in 1822. We believe these instancces of C M  to be references to the same person,
+                            although there is one case in which he repeats the initials (2 March
+                            1799)- although that may be a transcription error on Godwin's part when
+                            he writing up the diary). In 1812 the references seem to link CM with
+                            Mary Jane Clairmont - but he clearly knew CM long before he met Mary
+                            Jane.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

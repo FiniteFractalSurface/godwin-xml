@@ -1561,7 +1561,7 @@
      <ab type="dDay" xml:id="g1833-07-25"><date when="1833-07-25">25. Th.</date><seg type="dMeeting"
        subtype="M">Meet <persName>L Ritchie</persName> (<ref type="dEvent" subtype="Accts"
          ><persName>Dalton</persName>, £150 p. a.</ref>)</seg>: <seg type="dMeeting" subtype="C"
-       >call on <persName><placeName type="venue">Clint</placeName></persName></seg> &amp; <seg
+           >call on <persName ref="/people/CLI03.html"><placeName type="venue">Clint</placeName></persName></seg> &amp; <seg
        type="dMeeting" subtype="C"><persName ref="/people/ROY01.html"><placeName type="venue">Ramoun
          Roy</placeName></persName></seg>: <seg type="dMeal" subtype="TG"><persName
         ref="/people/HUD01.html">Hudson, Fr. &amp; Co.</persName> at tea</seg>. <emph rend="pencil"
@@ -1822,7 +1822,7 @@
      <ab type="dDay" xml:id="g1833-09-04"><date when="1833-09-04">4. W.</date><ref type="dWrote"
        subtype="write" target="/works/necr01.html">Necromancers, p. 109/2</ref>. <seg
        type="dMeeting" subtype="CG"><persName ref="/people/DYE01.html">G Dyer</persName>
-      calls</seg>: <seg type="dMeeting" subtype="C">call on <persName><placeName type="venue"
+         calls</seg>: <seg type="dMeeting" subtype="C">call on <persName ref="/people/CLI03.html"><placeName type="venue"
          >Clint</placeName></persName>; <seg type="dMeeting" subtype="Adv">adv. <persName
          ref="/people/SHE02.html">M W S</persName> &amp; <persName ref="/people/HOG03.html">mrs
          Hogg</persName></seg></seg>: <seg type="dMeal" subtype="DG"><persName

@@ -1693,7 +1693,7 @@
                             type="dMeeting" subtype="C">Call on <persName ref="/people/JOH01.html"
                                 type="nah"><placeName type="venue">Johnson</placeName></persName><hi
                                 rend="sup">n</hi>; <seg type="dMeeting" subtype="Adv">adv.
-                                    <persName>Churchil</persName>, <persName
+                                    <persName ref="/people/OTT01.html">Churchil</persName>, <persName
                                     ref="/people/ROB01|ROB99.html">G &amp; J
                                 Robinson</persName></seg></seg>: <seg type="dMeal" subtype="Ta">tea
                                 <persName ref="/people/JOH01.html"><placeName type="venue"
@@ -2193,7 +2193,7 @@
                             <seg type="dMeal" subtype="DG"><persName ref="/people/MAR01.html"
                                 >M</persName> dines</seg>, <persName>Nott’s</persName>: <seg
                             type="dMeeting" subtype="Cn">call, w. <persName ref="/people/MAR01.html"
-                                >him</persName>, on <persName><placeName type="venue"
+                                >him</persName>, on <persName ref="/people/COT03.html"><placeName type="venue"
                                     >Cotton</placeName></persName></seg>, <seg type="dMeeting"
                                         subtype="Cn"><persName ref="/people/MAR01.html"/><persName ref="/people/LEP01.html"><placeName
                                     type="venue">Lepard</placeName></persName></seg> &amp; <seg
@@ -2237,7 +2237,7 @@
                                 T</persName>, <persName ref="/people/MAR01.html">M</persName>,
                                 <persName>H</persName>, <persName>Jo H</persName> &amp;
                                 <persName>Humphrys</persName>; <seg type="dMeeting" subtype="Adv"
-                                >adv. <persName>Clifford</persName></seg></seg>: <seg
+                                    >adv. <persName ref="/people/CLI02.html">Clifford</persName></seg></seg>: <seg
                             type="dMeeting" subtype="Cn">call on <persName><placeName type="venue"
                                     >Knapp; barrister</placeName></persName>, w. <persName
                                 ref="/people/TUR01.html">T T</persName></seg>: sleep at <placeName>S

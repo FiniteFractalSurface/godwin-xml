@@ -231,7 +231,7 @@
                                 ref="/people/HOL01.html">Holcrofts</persName>, <persName
                                 ref="/people/REV01|REV02.html">Reveleys</persName>, <persName
                                 ref="/people/SIN01.html">Sinclair</persName>,
-                                <persName>Cook</persName>, <persName ref="/people/FOU01.html"
+                                <persName ref="/people/COO10.html">Cook</persName>, <persName ref="/people/FOU01.html"
                                 >Folkes</persName>, <persName ref="/people/UND01.html"
                                 >Underwood</persName> &amp; <persName>miss M<hi rend="sup"
                                 >c</hi>Kenzie</persName></seg>.</ab>
@@ -920,7 +920,7 @@
                                     Godwin's</placeName></persName></seg>: <seg type="dMeal"
                             subtype="S">sup at <persName ref="/people/JEN01|JEN02.html"><placeName
                                     type="venue">Jennings</placeName></persName>, w.
-                                <persName>Cook</persName></seg>.</ab>
+                                        <persName ref="/people/COO10.html">Cook</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1794-03-22"><date when="1794-03-22">22. Sa.</date><ref
                             type="dText" subtype="read" target="/bibl/te0317.html">Hooke, Vol. II,
                             p. 106</ref>. <seg type="dMeeting" subtype="CG"><persName
@@ -1704,7 +1704,7 @@
                             subtype="Cn"><placeName>Newgate</placeName> w. <persName><placeName
                                     type="venue">m<hi rend="sup"
                             >l</hi></placeName></persName></seg><seg type="dMeal" subtype="SG">
-                            supper; <persName>Cook</persName></seg>. <ref type="dText"
+                                supper; <persName ref="/people/COO10.html">Cook</persName></seg>. <ref type="dText"
                             subtype="read" target="/bibl/te0496.html">Gerald's Defence, pp.
                         57</ref>.</ab>
                     <ab type="dDay" xml:id="g1794-05-22"><date when="1794-05-22">22. Th.</date><seg
@@ -2424,7 +2424,7 @@
                             type="dMeal" subtype="TG">tea <persName ref="/people/HOL01.html"
                                     ><placeName type="venue">Holcrofts</placeName></persName>,
                                 <persName ref="/people/REV01|REV02.html">Reveleys</persName>,
-                                <persName>Cook</persName>, <persName>Delaval</persName> &amp;
+                                    <persName ref="/people/COO10.html">Cook</persName>, <persName>Delaval</persName> &amp;
                                 <persName>miss Aris</persName></seg>.</ab>
                     <pb n="e.201_0034r"/>
                     <ab type="dDay" xml:id="g1794-07-20"><date when="1794-07-20">July 20.
@@ -2562,7 +2562,7 @@
                                 <persName ref="/people/JEN02.html">Jennings</persName></seg>; <seg
                             type="dMeeting" subtype="Adv">adv. <placeName>Hart Street</placeName>,
                                 <persName>miss Ramsay</persName> &amp;
-                            <persName>Cook</persName></seg>.</ab>
+                                    <persName ref="/people/COO10.html">Cook</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1794-07-31"><date when="1794-07-31">31. Th.</date><ref
                             type="dText" subtype="read" target="/bibl/te0519.html">Virgil, Lib. IX,
                             vs. 280</ref>. <seg type="dMeal" subtype="D">Dine at <persName
@@ -3841,7 +3841,7 @@
                                 ref="/people/JEN01|JEN02.html"><placeName type="venue"
                                     >Jennings's</placeName></persName>, w.
                                 <persName>Brent</persName> &amp;
-                        <persName>Cook</persName></seg>.</ab>
+                            <persName ref="/people/COO10.html">Cook</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1794-11-17">
                         <date when="1794-11-17">17. M.</date>
                     </ab>
@@ -4287,7 +4287,7 @@
                                 rend="deleted">w.</emph><seg type="dMeeting" subtype="Adv">adv.
                                     <persName>Aris</persName>, <persName ref="/people/MAC26.xml"
                                     >Macnamara</persName> &amp;
-                            <persName>Cook</persName></seg></seg>: <seg type="dMeal" subtype="S">sup
+                                    <persName ref="/people/COO10.html">Cook</persName></seg></seg>: <seg type="dMeal" subtype="S">sup
                             at <persName><placeName type="venue">Sutton's</placeName></persName>, w.
                                 <persName>Jo.</persName></seg></ab>
                     <ab type="dDay" xml:id="g1794-12-20"><date when="1794-12-20">20. Sa.</date><seg
@@ -4349,7 +4349,7 @@
                             >Dine at <persName ref="/people/FOU01.html"><placeName type="venue"
                                     >Foulkes's</placeName></persName>, w. <persName
                                 ref="/people/WEB01.html">Webbs</persName><placeName>
-                                Hammersmith</placeName>, &amp; <persName>Cook</persName></seg>.</ab>
+                                    Hammersmith</placeName>, &amp; <persName ref="/people/COO10.html">Cook</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1794-12-26"><date when="1794-12-26">26. F.</date><ref
                             type="dWrote" subtype="write" target="/works/poli01.html">Write 3
                             pages</ref>: <ref type="dWrote" subtype="revised"

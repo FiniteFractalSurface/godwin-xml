@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="CLA06" sex="1">
+                    <persName>
+                        <roleName/>Miss D.<forename>D</forename>
+                        <surname>Clarke</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's note: 20.10.1816 D Clarke dines / 21.10.1816 D Clarke
+                            sleeps / 10.11.1816 mrs and L Clarke dine / 12.12.1816 L Clarke dines /
+                            7.1.1817 Clarkes dine / 20.3.1817 miss Collins dines and theatre, w.
+                            M(ary) J(ane) and Clarkes / 12.5.1817 Godwin to Shelley (Bodleian MS
+                            Abinger c.78 f.199) miss Clarke / 17.6.1817 Godwin to mrs Godwin
+                            (Abinger c.42 f.122) miss Clarke / 16.7.1817 Godwin to mrs Godwin
+                            (Abinger c.42 f.129) miss Clarke / 27.8.1817 D Clarke departs,</p>
+                        <p> From the
+                            mentions in letters cited above, Miss Clarke appears to have been living
+                            with the Godwins, perhaps as a tutor, or general help, and from the
+                            phrase "departs" unusual in Godwin's diary, I conclude that D Clarke was
+                            that Miss Clarke, and mrs and L Clarke members of her family</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
