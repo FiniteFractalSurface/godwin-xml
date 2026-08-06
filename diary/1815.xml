@@ -3129,7 +3129,7 @@
                     <ab type="dDay" xml:id="g1815-12-12"><date when="1815-12-12">12. Tu.</date><seg
                             type="dMeeting" subtype="C">Call on <persName ref="/people/SIM03.html"
                                     ><placeName type="venue">Simpkin</placeName></persName></seg>:
-                            <seg type="dMeeting" subtype="CG"><persName>R Crosby</persName>
+                        <seg type="dMeeting" subtype="CG"><persName ref="/people/CRO14.html">R Crosby</persName>
                             calls</seg>: <ref type="dEntertainment" subtype="Theat"
                             target="/plays/smil01.html"><placeName type="CG"/>theatre, 3/10 Smiles
                             &amp; Tears</ref>. <seg type="dMeeting" subtype="M">meet <persName
@@ -3199,7 +3199,7 @@
                                 type="dMeeting" subtype="C">Call on <persName
                                     ref="/people/SIM03.html"><placeName type="venue"
                                         >Simpkin</placeName></persName>; <seg type="dMeeting"
-                                    subtype="Adv">adv. <persName>R
+                                            subtype="Adv">adv. <persName ref="/people/CRO14.html">R
                             Crosby</persName></seg></seg></seg>. <emph rend="large faint"><ref
                                 type="dEvent" subtype="Publ" target="/events/pu0166.html"
                                     ><foreign>La Valette</foreign></ref></emph></ab>

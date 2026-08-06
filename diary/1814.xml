@@ -432,10 +432,10 @@
                                     >Knapton</placeName></persName>bbs</seg>,<seg type="dMeeting"
                             subtype="C"><persName ref="/people/SHA02.html"><placeName type="venue">R
                                     Sharp</placeName></persName></seg>, &amp; <seg type="dMeeting"
-                            subtype="C"><persName type="nah"><placeName type="venue"
+                                        subtype="C"><persName ref="/people/CRO14.html" type="nah"><placeName type="venue"
                                     >Crosby</placeName></persName><hi rend="sup">n</hi></seg>: <seg
                             type="dMeeting" subtype="CG"><persName>Perry</persName> artist</seg>
-                        &amp; <seg type="dMeeting" subtype="CG"><persName>R Crosby</persName>
+                        &amp; <seg type="dMeeting" subtype="CG"><persName ref="/people/CRO14.html">R Crosby</persName>
                             call</seg>.</ab>
                     <ab type="dDay" xml:id="g1814-01-29"><date when="1814-01-29">29. Sa.</date><ref
                             type="dText" subtype="read" target="/bibl/te2185.html">Patronage, p.
@@ -2138,7 +2138,7 @@
                                 >Waugh</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName><placeName type="venue"
                                 >Saunders</placeName></persName></seg>: <seg type="dMeeting"
-                            subtype="CG"><persName>Dadley</persName> calls</seg>: <ref type="dEvent"
+                                    subtype="CG"><persName ref="/people/DAD01.html">Dadley</persName> calls</seg>: <ref type="dEvent"
                             subtype="PersEvent" target="/events/pe0253.html"><persName
                                 ref="/people/SHE01.html">Shelley</persName>, at <persName
                                 ref="/people/HOO01.html">Hookham’s</persName>, w.<persName
@@ -2169,7 +2169,7 @@
                             Learning, pp. 72</ref>. <seg type="dMeeting" subtype="C">Call on
                                 <persName ref="/people/BAL01.html"><placeName type="venue"
                                     >Ballachey</placeName></persName> 3 times</seg>, <seg
-                            type="dMeeting" subtype="CG"><persName>Dadley</persName></seg>, <seg
+                                        type="dMeeting" subtype="CG"><persName ref="/people/DAD01.html">Dadley</persName></seg>, <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/FEN03.html">E
                                 F</persName></seg>, <seg type="dMeeting" subtype="CG"><persName
                                 ref="/people/MAR01.html">M</persName></seg> &amp; <seg
@@ -2487,7 +2487,7 @@
                             type="dMeeting" subtype="CG"><persName>C Turner</persName> (<seg
                                 type="dTopic">fr. <persName ref="/people/MAC01.html"
                                     >Mackintosh</persName></seg>) </seg>&amp; <seg type="dMeeting"
-                            subtype="CG"><persName>Dadley</persName> call</seg>: <seg
+                                        subtype="CG"><persName ref="/people/DAD01.html">Dadley</persName> call</seg>: <seg
                             type="dMeeting" subtype="C">call on <persName ref="/people/SHE01.html"
                                     ><placeName type="venue">Shelleys</placeName></persName></seg>;
                             <seg type="dMeeting" subtype="Do">coach, w. <persName

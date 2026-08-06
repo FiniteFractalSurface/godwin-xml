@@ -1026,7 +1026,7 @@
                                 ref="/people/NIC01.html"><placeName type="venue"
                                     >Nicholson’s</placeName></persName>, with <persName
                                 ref="/people/HOL01.html">Holcroft</persName> &amp;
-                                <persName>Crawford</persName>, talk of <seg type="dTopic"
+                                    <persName ref="/people/CRA04.html">Crawford</persName>, talk of <seg type="dTopic"
                                 >associatns</seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1793-04-06"><date when="1793-04-06">6. Sa.</date><seg
                             type="dMeeting" subtype="See">See <persName ref="/people/MUN01.html"

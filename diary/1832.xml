@@ -146,7 +146,7 @@
                                     ><placeName type="venue">Forrest </placeName></persName><hi
                                 rend="sup">n</hi></seg>, <seg type="dMeeting" subtype="CG"><persName
                                 ref="/people/COO03.html">Cooke</persName></seg> &amp; <seg
-                            type="dMeeting" subtype="C"><persName type="nah"><placeName type="venue"
+                                    type="dMeeting" subtype="C"><persName ref="/people/CRU04.html" type="nah"><placeName type="venue"
                                     >Crump</placeName></persName><hi rend="sup">n</hi></seg>: <ref
                             type="dEntertainment" subtype="Theat" target="/plays/oldy01.html"
                                 ><placeName type="CG"/>theatre, Old &amp; Young</ref>. <ref
@@ -966,7 +966,7 @@
                             >Homer, v. 543</ref>: <ref type="dText" subtype="cala"
                             target="/bibl/te3455.html"> D’Abrantes, çala</ref>. <seg type="dMeeting"
                             subtype="CG"><persName ref="/people/GOD07.html">W</persName>
-                            calls</seg>:<seg type="dMeal" subtype="Ta"> tea <persName><placeName
+                                calls</seg>:<seg type="dMeal" subtype="Ta"> tea <persName ref="/people/CRU04.html"><placeName
                                     type="venue">Crumpe’s</placeName></persName></seg>. <ref
                             type="dEvent" subtype="Temp">55 / 61</ref></ab>
                     <ab type="dDay" xml:id="g1832-03-22"><date when="1832-03-22">22. Th.</date><ref
@@ -1296,7 +1296,7 @@
                             type="dMeeting" subtype="See"><persName ref="/people/MAR03.html"
                                     ><placeName type="venue">Martin’s</placeName></persName>, w.
                                 <emph rend="deleted">Lawrence</emph><persName>Roscoe</persName>,
-                                <persName>miss Crump</persName>, <persName ref="/people/MIL03.html"
+                                <persName ref="/people/CRU04.html">miss Crump</persName>, <persName ref="/people/MIL03.html"
                                 >prof. Miller</persName>, <persName ref="/people/CAU01.html"
                                 >Caunters</persName>, <persName>Stebbing</persName>, <persName
                                 ref="/people/LAN02.html">Landseer</persName>,
@@ -1535,7 +1535,7 @@
                                 <persName>Judkin</persName></ref>: <seg type="dMeeting"
                             subtype="See"><persName ref="/people/MAR03.html"><placeName type="venue"
                                     >Martin’s</placeName></persName>,
-                            <persName>Meyerbeer</persName>, <persName>Crumps</persName>, <persName
+                                    <persName>Meyerbeer</persName>, <persName ref="/people/CRU04.html">Crumps</persName>, <persName
                                 ref="/people/CAU01.html">H Caunter</persName>,
                                 <persName>Roscoe</persName>, <persName>Chorley</persName>,
                                 <persName>Ritchie</persName>, <persName>Dilke</persName></seg>. <ref
@@ -1761,7 +1761,7 @@
                                 >Picken</persName> calls</seg>: <seg type="dMeeting" subtype="See"
                                 ><persName ref="/people/MAR03.html"><placeName type="venue"
                                     >Martin’s</placeName></persName>, w.
-                                <persName>Crumpes</persName>, <persName>Holm</persName>, <persName
+                                    <persName ref="/people/CRU04.html">Crumpes</persName>, <persName>Holm</persName>, <persName
                                 ref="/people/CAU01.html">Caunter m</persName>,
                                 <persName>Stebbing</persName>, <persName ref="/people/CUN01.html">A
                                 Cunningham</persName>, <persName>Thomas</persName>,
@@ -2231,7 +2231,7 @@
                             target="/bibl/te2372.html">Schlegel, p. 328</ref>. <seg type="dMeeting"
                             subtype="C">Call on <persName ref="/people/GEN01.html"><placeName
                                     type="venue">Gent</placeName></persName></seg>:<seg type="dMeal"
-                            subtype="Ta"> tea <persName><placeName type="venue">miss
+                                        subtype="Ta"> tea <persName ref="/people/CRU04.html"><placeName type="venue">miss
                                     Crumpe’s</placeName></persName>, w. <persName>c<hi rend="sup"
                                     >s</hi> Masterson</persName>, <persName>c<hi rend="sup">t</hi>
                                 Ricci</persName>, <persName>Ritchie</persName>,
@@ -2500,7 +2500,7 @@
                             220</ref>. <seg type="dMeeting" subtype="See"><persName
                                 ref="/people/MAR03.html"><placeName type="venue"
                                     >Martin’s</placeName></persName>, w.
-                                <persName>Crumpes</persName>,<persName> A Strickland</persName>,
+                                <persName ref="/people/CRU04.html">Crumpes</persName>,<persName> A Strickland</persName>,
                                 <persName ref="/people/CAU01.html">H Caunter</persName>, <persName
                                 ref="/people/BRO06.html">Brockedon</persName>,
                                 <persName>Wheatsen</persName>, <persName>m<hi rend="sup">lle</hi>

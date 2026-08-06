@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="CRA04" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>?Stewart?</forename>
+                        <surname>Crawford</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Doctor</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's notes: If Dr Crawford was a medical doctor he may have been
+                            John Crawford of Castle St Holborn who swore to the handwriting of Adair
+                            Crawford's will, February 1796. He was a brother of Adair Crawford, went
+                            to Baltimore 1796 and died in America in 1813 (see Dictionary of Irish
+                            Biography, entries for John, William and Alexander Crawford). Another
+                            possible was Adair's nephew Stewart Crawford who obtained his MD at
+                            Edinburgh in 1795 and was admitted Licentiate of the College of
+                            Physicians on 20.2.1796, the same day Adair Crawford's will was proved,
+                            On 19.11.1795 Dr Stewart Crawford was said to be in Ireland as one of
+                            two witnesses named by Thomas Erskine as material to the defence of
+                            William Stone for treason who could not attend till the next term, but
+                            the accounts of Stone's trial in January 1796 didn't mention either of
+                            those two witnesses being called (Stone's sister Eleanor was the wife of
+                            Stewart's uncle Adair). Stewart's father William (DNB 1739/40-1800) was
+                            a Presbyterian minister and older brother of Adair Crawford, he had
+                            received the degree of DD from Glasgow University in 1784 and so was
+                            another possible Dr Crawford, like his brother Alexander, a medical
+                            doctor, who was in London to prove Adair Crawford's will on 20.2.1796.
+                            Stewart Crawford was appointed physician to the forces Sept 1799 and
+                            Deputy Inspector of Hospitals 1821. He was physician to Bath United
+                            hospital from 1805 to 1819 and died at Bath in 1847 aged about 70, his
+                            wife Eliza died there in 1815 aged 35 and he married in 1817 Caroline
+                            A'Court sister of William A'Court, Baron Heytesbury (DNB 1779-1860) The
+                            Dictionary of Irish Biography in two different articles makes Dr Stewart
+                            Crawford the son of Adair as well as of William Crawford but his age of
+                            65 in the 1841 census suggests he was born 10 years before Adair
+                            married.</p>
+                        <p>This is helpful: there is clearly an Irish dimension, with links to
+                            Curran. But there is also an entry for Crawford for 1793 on the 1796
+                            list, referring to tea at Nicholson's with Crawford and Holcroft. This
+                            Crawford is not designated 'Dr' - but is sufficiently significant to be
+                            included in the 1796 list. It is possible that references passed from
+                            father to son with no comment.  But there must remain some uncertainty.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

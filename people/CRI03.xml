@@ -24,28 +24,31 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="CRE02" sex="1">
+                <person xml:id="CRI03" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>Philip or Claude Champion de</forename>
-                        <surname>Crespigny</surname>
+                        <forename>John</forename>
+                        <surname>Crisp</surname>
                         <addName/>
                     </persName>
-                    <birth when="1738">
+                    <birth when="1000-01-01">
                         <placeName/>
                     </birth>
-                    <death when="1803"/>
-                    <occupation>Lawyer and politician</occupation>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
                     <note type="editorial">
-                        <p>Ed Pope notes: Perhaps Philip Champion de Crespigny Hist of Parl d.1803 noted as a man
-                            of fashion and about 70 years old by 1800. His brother Sir Claude
-                            Champion de Crespigny born 1734 (will PCC 1818) had "the honour of
-                            receiving the Prince Regent" (Burke's Peerage de Crespigny) at his
-                            Camberwell home (and so perhaps the most likely companion of the
-                            Prince's ex-mistress Mary Robinson, in whose company most of the contacts take place) made a baronet 1805. He married Mary
-                            Clarke 1764. Their sons Claude d.1813, Sir William will PCC 1830,
-                            Augustin will PCC 1826, all in Royal Navy, Heaton d 1858, Herbert Joseph.
-                        </p>
+                        <p>Ed Pope notes: John Crisp of Dorking will PCC 1803 left rings to five
+                            friends, including Dr Lister and Christopher Terry (his guest
+                            17.12.1794). Probably the John Crisp who was treasurer and then governor
+                            of Fort Marlborough, India from 1763 to 1794, Fellow of the Royal
+                            Society from 1788, and published a work on optics from 5 Upper Fitzroy
+                            St 10.2.1796. Another John Crisp advertised his school at 28 Long Acre
+                            in 1790, saying he was a Londoner who had studied at the University of
+                            Paris, had been assistant at the Royal Academy and at two eminent
+                            grammar schools including that of Vicesimus Knox; he may have been the
+                            schoolmaster of Hartest, Suffolk whose will PCC 1810 mentions his wife
+                            Alice nee Cocksedge, and is a possible candidate for the later Crisp
+                            entries at the RA.</p>
                     </note>
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,

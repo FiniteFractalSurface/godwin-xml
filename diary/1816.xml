@@ -43,7 +43,7 @@
                                 >Kenney</persName> call</seg>: <seg type="dMeeting" subtype="C">call
                             on <persName ref="/people/SIM03.html"><placeName type="venue"
                                     >Simpkin</placeName></persName>; <seg type="dMeeting"
-                                subtype="Adv">adv. <persName>R Crosby</persName></seg></seg>: <seg
+                                        subtype="Adv">adv. <persName ref="/people/CRO14.html">R Crosby</persName></seg></seg>: <seg
                             type="dMeal" subtype="TG"><persName ref="/people/PIL01.html">P
                                 Pilcher</persName> at tea</seg>.</ab>
                     <ab type="dDay" xml:id="g1816-01-03"><date when="1816-01-03">3. W.</date><ref
@@ -1142,7 +1142,7 @@
                             >19. F.</date><ref type="dWrote" subtype="letter">Write to <persName
                                 ref="/people/CLA01.html">M J</persName></ref>. <seg type="dMeeting"
                             subtype="See">Shop, <persName ref="/people/HEP01.html"
-                                >Hepburn</persName> &amp; <persName>Crawford</persName></seg>: <seg
+                                >Hepburn</persName> &amp; <persName ref="/people/CRA04.html">Crawford</persName></seg>: <seg
                             type="dMeeting" subtype="Cn">call on <persName ref="/people/RAE01.html"
                                     ><placeName type="venue">Raeburn</placeName></persName> (w.
                                 <persName ref="/people/MIL03.html">R Miller</persName>)</seg> &amp;

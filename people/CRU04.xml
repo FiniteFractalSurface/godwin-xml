@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="CRU04" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>NAME</forename>
+                        <surname>Crumpe</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Novelist</occupation>
+                    <note type="editorial">
+                        <p>The core element in this group of names - including both Crump and Crumpe
+                            and Miss and Mrs Crumpe is Miss Crumpe, the author of Geraldine of
+                            Desmond, published in three volumes in 1829, and much noticed in the
+                            Morning Post, and advertised in 1831 (suggesting her presence in
+                            London). She was the daughter of Samuel Crumpe (1776-96 - who married
+                            Susan Ingram in 1792)) a doctor who died of cholera responding to the
+                            illness of a women he saw in the street. He was also an expert in the
+                            uses of opium, publishing on the subject. The family were based in
+                            Ireland but appear to have visited London for a period (some 30+ years
+                            after Samuel's death). The challenge is identifying a male member of the
+                            family, since Samuel Crumpe's only son died in childhood. However, he
+                            came from a family of six, and it is possible a brother in law or cousin
+                            was in attendance.</p><p>It is possible there is no male. Miss Crump is the first of the entries, and he may then abbreviate; but there is no clear pattern.</p>
+                        <p>There is a suggesive but probably unconnected
+                            report in 18 July 1833 in the Morning Post about several members of a
+                            Crumpe family drowning following the capsizing of their boat off the
+                            Isla of Man. And an entry on Fashionable departures for July 8 1833 of Miss Crumpe to Liverpool.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
