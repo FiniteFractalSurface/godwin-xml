@@ -27,29 +27,31 @@
                 <person xml:id="CRA03" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>Hercules and Robert</forename>
+                        <forename>Hercules or Robert</forename>
                         <surname>Cramond</surname>
                         <addName/>
                     </persName>
-                    <birth when="1000-01-01">
+                    <birth when="1755">
                         <placeName/>
                     </birth>
                     <death when="1000-12-31"/>
-                    <occupation>OCCUPATION</occupation>
+                    <occupation>writer</occupation>
                     <note type="editorial">
-                        <p>This is a long-shot, but the name is unusual, corresponding to a district
-                            near Edinburgh, but there are no entries in the ODNB. In 1785 (with another
-                            edition in 1787)a Hercules Cramond published Outlines of Human Life aged
-                            30 in London, and in 1789 Hercules and Robert Cramond published a Letter
-                            to the National Assembly. A Hercules Crammond was buried in Greyfriars,
-                            kirkyard, Edinburgh in Feb 1784. The author, Hercules, identifies his
-                            father as Robert Cramond, b. 1703 in Edinburgh. but says his unccle was
-                            a Scottish sea-farer who lived past the meridian of life. There is a
-                            single m in the author's name and a double m on the grave report, but
-                            such variation is not uncommon. </p><p>It seems likely that one of Hercules and
-                            Robert were visiting London and sought out
-                            Godwin, on philosophiccal grounds. Hercules would have been a similar
-                            age to Godwin. Robert might be a son but it was also the name of his brother.</p>
+                        <p>This name is unusual, corresponding to a district near Edinburgh, but
+                            there are no entries in the ODNB after the 17th century. 
+                            In 1785 (with
+                            another edition in 1787)a Hercules Cramond published Outlines of Human
+                            Life aged 30 in London, and in 1789 Hercules and Robert Cramond
+                            published a Letter to the National Assembly. A Hercules Crammond was
+                            buried in Greyfriars, kirkyard, Edinburgh in Feb 1784. The author,
+                            Hercules, identifies his father as Robert Cramond, b. 1703 in Edinburgh.
+                            but says his unccle was a Scottish sea-farer who lived past the meridian
+                            of life. There is a single 'm' in the author's name and a double 'm' on the
+                            grave report, but such variation is not uncommon. </p><p>It seems likely
+                            that either Hercules or Robert were visiting London and sought out
+                            Godwin, on philosophical grounds. Hercules would have been a similar age
+                            to Godwin. Robert might be his son but it was also the name of his
+                            brother.</p>
                     </note>
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
