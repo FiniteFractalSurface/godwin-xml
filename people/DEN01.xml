@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="DEN01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Jonathan /Robert</forename>
+                        <surname>Dennet</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Attorney</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's note: Jonathan and Robert Dennett with William Greaves and
+                            Henry Townley Ward, attorneys 2 Henrietta-st Covent Garden from 1789 or
+                            earlier. Jonathan Dennett of Lincolns Inn will PCC 21.4.1818 formerly of
+                            Leicester-place Soho mentioned sister Margaret, house in Croston, Lancs,
+                            wife Eliza, children Harriet and Frances Eliza dated 7.10.1806 codicil
+                            5.1.1814 wife dead, bro Robert codicil 14.2.1816 dau Harriet married to
+                            Richard Richards. Jonathan Dennett of Covent garden = Liverpool
+                            29.12.1786 Eliza Greaves. He died 12.4.1818, Robert D died 14.5.1837 and
+                            he and Wm Greaves dissolved a partnership with M Tatham 3.10.1825.
+                            Jonathan D voted Hood and Fox 1784, Fox 1796, Robert D voted Hood 1788 The
+                            Tatham (probabbly Meaburn Tatham) in 1816 tends to clinch this identity
+                        </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

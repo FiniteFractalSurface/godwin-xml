@@ -1899,7 +1899,7 @@
                                 ><persName ref="/people/WEB01.html">Webb</persName></seg>, <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/NIC04.html"
                                 >Nichols</persName></seg>, <seg type="dMeeting" subtype="CG"
-                                ><persName>Dennis</persName></seg> &amp; <seg type="dMeeting"
+                                    ><persName ref="/people/DEN02.html">Dennis</persName></seg> &amp; <seg type="dMeeting"
                             subtype="CG"><persName ref="/people/FEN03.html">mrs Fenwick</persName>
                             call</seg>. <ref type="dText" subtype="read" target="/bibl/te0317.html"
                             >Hooke, p. 256</ref>: <ref type="dText" subtype="read"
@@ -2077,7 +2077,7 @@
                                     ><placeName type="venue">Robinson</placeName></persName></seg>,
                             <seg type="dMeeting" subtype="C"><persName ref="/people/FEN01.html"
                                     ><placeName type="venue">Fenwick</placeName></persName></seg>,
-                            <seg type="dMeeting" subtype="C"><persName><placeName type="venue"
+                        <seg type="dMeeting" subtype="C"><persName ref="/people/DEN02.html"><placeName type="venue"
                                     >Dennis</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName ref="/people/SPI01.html"><placeName type="venue"
                                     >Spilsbury</placeName></persName></seg>, <seg type="dMeeting"
@@ -2767,7 +2767,7 @@
                             Su.</date><ref type="dText" subtype="read" target="/bibl/te0519.html"
                             >Virgil, vs. 263</ref>. <seg type="dMeal" subtype="BG"><persName
                                 ref="/people/SMI01.html">Smith</persName> breakfasts</seg>: <seg
-                            type="dMeeting" subtype="CG"><persName>Dennis</persName></seg> &amp;
+                                    type="dMeeting" subtype="CG"><persName ref="/people/DEN02.html">Dennis</persName></seg> &amp;
                             <seg type="dMeeting" subtype="CG"><persName ref="/people/RIT01.html"
                                 >Ritson</persName> call</seg>: <seg type="dMeal" subtype="D">dine at
                                 <persName ref="/people/HOL01.html"><placeName type="venue"
@@ -3591,7 +3591,7 @@
                                 ref="/people/SMI01.html">Smith<emph rend="deleted">s</emph> b<hi
                                     rend="sup">s</hi></persName></seg>: <seg type="dMeeting"
                             subtype="CG"><persName ref="/people/MOO01.html">Moore</persName></seg>,
-                            <seg type="dMeeting" subtype="CG"><persName>Dennis</persName></seg>
+                        <seg type="dMeeting" subtype="CG"><persName ref="/people/DEN02.html">Dennis</persName></seg>
                         &amp; <seg type="dMeeting" subtype="CG"><persName ref="/people/RIT01.html"
                                 >Ritson</persName> call</seg>: <seg type="dMeal" subtype="D">dine at
                                 <persName ref="/people/JEN01|JEN02.html"><placeName type="venue"

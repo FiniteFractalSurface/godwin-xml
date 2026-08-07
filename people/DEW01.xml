@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="DEW01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Henry</forename>
+                        <surname>Dewar</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Doctor</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's note: Henry Dewar, doctor. Owned an estate in Lassodie,
+                            Fife. Assistant surgeon 30th foot 8.1.1801 fo 1803. MD Edinburgh 1804 De
+                            Opthalmia Aegypti. A letter to Thomas Trotter...coal mines (1805). An
+                            Inquiry ...Foreign Commerce (read 1.4.1808, dated Lassodie 12.1.1811).
+                            Became physician to Manchester Infirmary. Died 8.10.1823, his youngest
+                            son Donald William Dewar died at Paris 25.8.1831. </p>
+                        <p>We have been unable to trace a pampjhlet Godwin suggests he's reading by
+                            Dewar on Malthus, unless this is the piece on foreign commerce.</p>
+                        <p>The curiously cramped nature of the dates - around March and Appril 1800,
+                            then August September 1803 etc suggests he is visiting London.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

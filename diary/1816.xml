@@ -1161,7 +1161,7 @@
                     <ab type="dDay" subtype="NotLon" xml:id="g1816-04-20"><date when="1816-04-20"
                             >20. Sa.</date><seg type="dMeal" subtype="B">Breakfast at <persName
                                 ref="/people/MUR01.html"><placeName type="venue"
-                                    >Murray’s</placeName></persName>, w. <persName>Dewar</persName>,
+                                    >Murray’s</placeName></persName>, w. <persName ref="/people/DEW01.html">Dewar</persName>,
                                 <persName>Ritchie</persName>{,} <persName ref="/people/FAI01.html"
                                 >Fairley</persName>, &amp;c</seg>: <placeName>Heriot’s
                             Hospital</placeName>: <seg type="dMeal" subtype="D">dine at <persName
@@ -1201,7 +1201,7 @@
                                 Fletcher</persName></seg>: <seg type="dMeeting" subtype="C">call on
                                 <persName ref="/people/PLA04.html"><placeName type="venue"
                                     >Playfair</placeName></persName></seg> &amp; <seg
-                            type="dMeeting" subtype="C"><persName><placeName type="venue"
+                                        type="dMeeting" subtype="C"><persName ref="/people/DEW01.html"><placeName type="venue"
                                     >Dewar</placeName></persName></seg>: <seg type="dMeeting"
                             subtype="SitTo"><persName ref="/people/NIC02.html">sit</persName></seg>:
                             <seg type="dMeal" subtype="DG"><persName ref="/people/YAN01.html"
@@ -1230,7 +1230,7 @@
                                     W D</placeName></persName></seg>: <seg type="dMeal" subtype="DG"
                                 ><persName ref="/people/GRA17.html">Gray</persName>, <persName
                                 ref="/people/CAM01.html">Campbel</persName>,
-                                <persName>Dewar</persName>, <persName>Ritchie</persName>, <persName
+                                        <persName ref="/people/DEW01.html">Dewar</persName>, <persName>Ritchie</persName>, <persName
                                 ref="/people/FAI01.html">Fairley</persName>, &amp;c, dine</seg>:
                             <ref type="dEntertainment" subtype="Theat" target="/plays/unkn62.html"
                                 ><placeName/><seg type="dMeeting" subtype="Do"><seg type="dMeal"
@@ -2398,7 +2398,7 @@
                                 >n</hi></ref>. <seg type="dMeeting" subtype="C">Call on <persName
                                 ref="/people/PER01.html"><placeName type="venue"
                                 >Perry</placeName></persName></seg>: <seg type="dMeeting"
-                            subtype="CG"><persName>clerk fr. Dennet</persName> calls</seg>. <ref
+                                    subtype="CG"><persName ref="/people/DEN01.html">clerk fr. Dennet</persName> calls</seg>. <ref
                             type="dText" subtype="read" target="/bibl/te2184.html">Drayton, Ep.
                             1</ref>.</ab>
                     <ab type="dDay" xml:id="g1816-08-27"><date when="1816-08-27">27. Tu.</date><ref
@@ -3015,7 +3015,7 @@
                             type="dText" subtype="read" target="/bibl/te2462.html">O’Donnel, Vol.
                             II</ref>. <seg type="dMeeting" subtype="CG"><persName
                                 ref="/people/BOT01.html">Botwright</persName> calls</seg>: <seg
-                            type="dMeeting" subtype="C">call on <persName><placeName type="venue"
+                                    type="dMeeting" subtype="C">call on <persName ref="/people/DEN01.html"><placeName type="venue"
                                     >Dennet</placeName></persName> (<persName
                                 ref="/people/TAT01.html">Tatham</persName>)</seg>, &amp; <seg
                             type="dMeeting" subtype="C"><persName ref="/people/TAY01.html"

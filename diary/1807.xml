@@ -3396,7 +3396,7 @@
                                 ref="/people/CLE02.html">Clennel</persName> call</seg>: <seg
                             type="dMeeting" subtype="C">call on <persName><placeName type="venue"
                                     >Sloper</placeName></persName></seg>, <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                        subtype="C"><persName ref="/people/DEN01.html"><placeName type="venue"
                                 >Dennet</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName><placeName type="venue"
                                 >Wright</placeName></persName></seg>, <seg type="dMeeting"
@@ -3421,7 +3421,7 @@
                                 >Pickering</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName><placeName type="venue"
                                 >Daponte</placeName></persName></seg> &amp; <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                    subtype="C"><persName ref="/people/DEN01.html"><placeName type="venue"
                                 >Dennet</placeName></persName></seg>: <emph rend="deleted">&amp;
                             </emph><ref type="dEvent" subtype="PersEvent"
                             target="/events/pe0173.html">dis-appointment, <persName
@@ -3435,7 +3435,7 @@
                             >Elliston</persName></ref>: <seg type="dMeeting" subtype="C">call on
                                     <persName><placeName type="venue"
                             >Wright</placeName></persName></seg>, <seg type="dMeeting" subtype="C"
-                                    ><persName><placeName type="venue"
+                                ><persName ref="/people/DEN01.html"><placeName type="venue"
                             >Dennet</placeName></persName></seg>, <seg type="dMeeting" subtype="C"
                                     ><persName><placeName type="venue"
                                 >Swannack</placeName></persName></seg>, <seg type="dMeeting"
@@ -3463,7 +3463,7 @@
                                     >Oriel</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName ref="/people/ELL01.html" type="nah"><placeName
                                     type="venue">Elliston</placeName></persName><hi rend="sup"
-                                >n</hi></seg>, <seg type="dMeeting" subtype="C"><persName><placeName
+                                        >n</hi></seg>, <seg type="dMeeting" subtype="C"><persName ref="/people/DEN01.html"><placeName
                                     type="venue">Dennet</placeName></persName></seg>, <seg
                             type="dMeeting" subtype="C"><persName><placeName type="venue"
                                     >Swannack</placeName></persName></seg>, <seg type="dMeeting"
@@ -3522,7 +3522,7 @@
                     <ab type="dDay" xml:id="g1807-12-09"><date when="1807-12-09">9. W.</date><seg
                             type="dMeeting" subtype="C">Call on <persName><placeName type="venue"
                                     >Oriel</placeName></persName></seg>, <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                        subtype="C"><persName ref="/people/DEN01.html"><placeName type="venue"
                                 >Dennet</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName ref="/people/NIC01.html"><placeName type="venue"
                                     >Nicholson</placeName></persName></seg>: <ref
@@ -3567,7 +3567,7 @@
                             >Oriel</placeName></persName></seg>, <seg type="dMeeting" subtype="C"
                                 ><persName ref="/people/NIC01.html"><placeName type="venue"
                                     >Nicholson</placeName></persName></seg>, <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                        subtype="C"><persName ref="/people/DEN01.html"><placeName type="venue"
                                 >Dennet</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName ref="/people/SID02.html"><placeName type="venue">H
                                     Siddons</placeName></persName></seg> &amp; <seg type="dMeeting"
@@ -3692,7 +3692,7 @@
                     <ab type="dDay" xml:id="g1807-12-22"><date when="1807-12-22">22. Tu.</date><seg
                             type="dMeeting" subtype="C">Call on <persName ref="/people/NIC01.html"
                                     ><placeName type="venue">Nicholson</placeName></persName></seg>,
-                            <seg type="dMeeting" subtype="C"><persName><placeName type="venue">mrs
+                        <seg type="dMeeting" subtype="C"><persName ref="/people/DEN01.html"><placeName type="venue">mrs
                                     Dennet</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName><placeName type="venue"
                                 >Rodwel</placeName></persName></seg>: <seg type="dMeal" subtype="BG"

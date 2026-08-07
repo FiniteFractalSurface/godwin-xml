@@ -23,7 +23,7 @@
                 <person xml:id="PAT01" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>Patrick</forename>
+                        <forename>Proctor</forename>
                         <surname>Patrickson</surname>
                         <addName/>
                     </persName>
@@ -34,15 +34,23 @@
                     <occupation/>
                     <occupation/>
                     <note type="editorial">
-                        <p>Patrick Patrickson was a student that Godwin took an interest in and
-    supported, arranging for him to attend Cambridge, with financial support from friends.  While at Cambridge 
-    he was treated badly by other students and suffered from depression.  He corresponded regularly with Godwin and
-    visited him when in town. Finally, when back in Cambridge, he committed suicide.  There is a single 
-    Patrickson recorded in 1796 which might be Patrickson's father but this has not been coded.
-  </p>
+                        <p>Proctor Patrickson was a student that Godwin took an interest in and
+                            supported, arranging for him to attend Cambridge, with financial support
+                            from friends. While at Cambridge he was treated badly by other students
+                            and suffered from depression. He corresponded regularly with Godwin and
+                            visited him when in town. Finally, when back in Cambridge, he committed
+                            suicide. There is a single Patrickson recorded in 1796 which might be
+                            Patrickson's father but this has not been coded. Don Locke's biography
+                            of Godwin calls him Patrick Patrickson, as does Peter Marshall's.
+                            William StClair's refers to him only a Patrickson. The entry in Emmanuel
+                            College's admissions book for 28 November 1810, lists him as Proctor
+                            Patrickson, Sizar.</p>
                     </note>
-                    <bibl type="printedbook">P. Marshall<title>William Godwin</title>p. 286, p. 308  </bibl>
-                    <bibl type="printedbook">W. St Clair<title>The Godwins and the Shelleys</title> p. 301-2 </bibl>
+                    <bibl type="printedbook">D. Locke<title> Fantasy of Reason: The Life and Thought
+                            of William Godwin</title>p. 233, pp.244-5, p. 255 </bibl>
+                    <bibl type="printedbook">P. Marshall<title>William Godwin</title>p. 286, p. 308 </bibl>
+                    <bibl type="printedbook">W. St Clair<title>The Godwins and the Shelleys</title>
+                        p. 301-2 </bibl>
                 </person>
             </listPerson>
         </body>

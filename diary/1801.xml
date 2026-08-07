@@ -119,7 +119,7 @@
                             subtype="read" target="/bibl/te1179.html">Tavernier, p. 634</ref>: <ref
                             type="dText" subtype="read" target="/bibl/te1181.html">Persian Tales, p.
                             60</ref>. <seg type="dMeeting" subtype="M">Meet
-                                <persName>Dogherty</persName></seg>: <seg type="dMeeting"
+                                <persName ref="/people/DOG01.html">Dogherty</persName></seg>: <seg type="dMeeting"
                             subtype="CG"><persName ref="/people/ELW01.html">S E
                         </persName></seg>&amp; <seg type="dMeeting" subtype="CG"><persName
                                 ref="/people/EGE02.html">Egerton</persName></seg>, &amp;<seg
@@ -1280,7 +1280,7 @@
                                     >Davy</placeName></persName></seg>: <seg type="dMeeting"
                             subtype="M">meet <persName ref="/people/CAR01.html"
                             >Carlisle</persName></seg> &amp; <seg type="dMeeting" subtype="M"
-                                ><persName>Dogherty</persName></seg>: <seg type="dMeal" subtype="DG"
+                                ><persName ref="/people/DOG01.html">Dogherty</persName></seg>: <seg type="dMeal" subtype="DG"
                                 ><persName ref="/people/ELW01.html">S E</persName> dines</seg>.</ab>
                 </div>
                 <div type="dMonth" xml:id="g1801-05">

@@ -2018,7 +2018,7 @@
                                     ><placeName type="venue">Johnson’s</placeName></persName>, w.
                                 <persName ref="/people/FUS01.html">Fuseli</persName>, <persName
                                 ref="/people/BON01.html">Bonnycastle</persName>,
-                                <persName>Dennis</persName>, <persName ref="/people/EDG01.html">D<hi
+                                        <persName ref="/people/DEN02.html">Dennis</persName>, <persName ref="/people/EDG01.html">D<hi
                                     rend="sup">r</hi> Edgworth</persName>, <persName
                                 ref="/people/HUN07.html">capt. Hunter</persName> &amp; <persName
                                 ref="/people/KNO01.html">Knowles</persName></seg>.</ab>
@@ -2667,7 +2667,7 @@
                                     >Johnson’s</placeName></persName>, w. <persName
                                 ref="/people/FUS01.html">Fuseli</persName>, <persName
                                 ref="/people/BON01.html">Bonnycastle</persName>,
-                                <persName>Dennis</persName> &amp; <persName ref="/people/LOC02.html"
+                                <persName ref="/people/DEN02.html">Dennis</persName> &amp; <persName ref="/people/LOC02.html"
                                 >Lockhart</persName></seg>: <seg type="dMeal" subtype="SG"><persName
                                 ref="/people/LAM01|LAM02.html">Lambs</persName> sup</seg>.</ab>
                     <ab type="dDay" xml:id="g1809-09-23"><date when="1809-09-23">23. Sa.</date><seg
@@ -2861,14 +2861,14 @@
                                 ref="/people/FUS01.html">Fuseli</persName>, <persName
                                 ref="/people/BON01.html">Bonnycastle</persName>, <persName
                                 ref="/people/LOC02.html">Lockh<hi rend="sup">t</hi></persName> &amp;
-                                <persName>Dennis</persName></seg>: <seg type="dMeal" subtype="SG"
+                                <persName ref="/people/DEN02.html">Dennis</persName></seg>: <seg type="dMeal" subtype="SG"
                                 ><persName ref="/people/TUR01.html">T T</persName> sups</seg>.</ab>
                     <ab type="dDay" xml:id="g1809-10-07"><date when="1809-10-07">7. Sa.</date><ref
                             type="dWrote" subtype="letter">Write to <persName
                                 ref="/people/WOO12.html">Woodcock</persName></ref>. <seg
                             type="dMeeting" subtype="C">Call on <persName ref="/people/JOH01.html"
                                     ><placeName type="venue">Johnson</placeName></persName></seg>:
-                            <seg type="dMeal" subtype="D">dine at <persName><placeName type="venue"
+                        <seg type="dMeal" subtype="D">dine at <persName ref="/people/DEN02.html"><placeName type="venue"
                                     >Dennis’s</placeName></persName>, w. <persName
                                 ref="/people/JOH01.html">Johnson</persName>, <persName
                                 ref="/people/FUS01.html">Fuseli</persName>, <persName
@@ -3089,7 +3089,7 @@
                                 ref="/people/LOC02.html">Lockhart</persName>, <persName>major
                                 Moore</persName> &amp; <persName ref="/people/HUN07.html">capt.
                                 Hunter</persName></seg>: <seg type="dMeeting" subtype="M">meet
-                                <persName>Dennis</persName></seg>.</ab>
+                                    <persName ref="/people/DEN02.html">Dennis</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1809-10-28"><date when="1809-10-28">28. Sa.</date><ref
                             type="dWrote" subtype="write" target="/works/jone01.html">S Jones,
                             &amp;c, 2 pages</ref>. <ref type="dWrote" subtype="letter">Write to

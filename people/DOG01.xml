@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="DOG01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Hugh</forename>
+                        <surname>Dogherty</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's discussion: Quite likely Hugh Doherty Esq. (often spelt
+                            Dogherty) brother of John Doherty DNB 1783-1850 son of John Doherty
+                            attorney of Dublin. Cornet in 29th Light Dragoons eloped in 1802 with 15
+                            year old Ann Holmes daughter of Thomas Hunter formerly Holmes, a wealthy
+                            East India merchant who had tried to prevent the match but after their
+                            marriage he relented and loaned Doherty £1500. Hugh and Ann had a son
+                            Hugh Holmes Doherty. The architect Philip William Wyatt who had been
+                            friends with the Dohertys told Thomas Hunter that Doherty was
+                            mistreating his daughter and he confined Doherty for debt, and Wyatt
+                            cohabited with Ann Doherty. Doherty got a scandalous account of the
+                            affair published in "The Discovery" (1807) and Ann wrote a novel
+                            "Ronaldsha" which Doherty advertised. Her father successfully sued
+                            Doherty for libel. Doherty successfully sued Wyatt for adultery and a
+                            bill for divorce was laid before Parliament in 1813 but as far as I can
+                            tell never passed. Ann then married John Attersole and wrote more
+                            novels, moving to France and mixing with Russian royalty, her last
+                            partner being Dominique de la Piqueliere. Doherty fathered a daughter
+                            Ann Mylne Doherty in Edinburgh in 1815, attempted to launch a newspaper
+                            in 1818 and to organise charity for Irish distress in 1822. He also sold
+                            an "Anti-Cholera Tincture". When Ann died in 1832 she was allowed to
+                            leave £7000 that had been left her by her family, but the rest of her
+                            effects were considered to belong to Doherty's creditors. After her
+                            death Doherty married Ann Philippa Bennell. Doherty's son had died in
+                            India after marrying and having a son Hugh Morris Doherty, who died in
+                            London aged 6 in 1833, shortly after which Doherty died at Calais where
+                            he had been living for some years. This is a very compressed version of
+                            a long saga, but it makes sense that a lifelong debtor like Doherty
+                            would have been a regular at John King's. </p>
+                        <p>See Morning Post 28.5.1802, 14.6.1806, 17.10.1807, 30.1.1808, Sun
+                            13.5.1808, Morning Post 25.5.1808, St James Chronicle 15.11.1810, Star
+                            27.2.1811 National Register 23.2.1812, Morning Post 18.6.1813, Morning
+                            Chronicle 31.12.1817, 26.4.1821, Morning Advertiser 29.4.1822, Sun
+                            6.5.1822, 24.5.1822, 8.6.1822, Morning Advertiser 14.5.1825 Holdens
+                            Directory 1811: Col. Dogherty 165 Sloane-st (will Patrick PCC 1837) /
+                            Hugh Doherty, Esq. 27 Bury-st, St James' (will PCC 1847) / J Doherty,
+                            Esq. 13 Westmoreland-pl, City-rd (will James PCC 1843) / 1805: Hugh
+                            Dogharty, Esq. 3 Queen Ann-st West / Mrs Teresa Elizabeth Doherty,
+                            Hampstead Heath / Wm. Doherty japanner 31 St John's-sq, Clerkenwell
+                            Thomas Dogherty DNB d. 1805 his will PCC 1805 mentioned wife Ann and
+                            daughters Ann Hester and Catherine Frances. The DNB says he left a large
+                            family unprovided for. He might have been the Dogherty at King's but
+                            died before the last entry. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

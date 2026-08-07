@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="DEN02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>John</forename>
+                        <surname>Dennis</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="17791">
+                        <placeName/>
+                    </birth>
+                    <death when="1864"/>
+                    <occupation>Archaeologist</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's note: Perhaps John Dennis 1779-1864 father of George Dennis
+                            DNB 1814-1898 archaeologist. John Dennis was "of the Excise Office"
+                            (SunFire 1807) and was Receiver General of Excise by 1845. Morning
+                            Chronicle 12.8.1820 "Views in Savoy, Switzerland and on the Rhine from
+                            drawings made on the spot, By John Dennis, etched by himself, and
+                            engraved in Mezzotinto by C Turner, W Ward and other eminent Engravers".
+                            I think this was him as it was the sort of thing his son George later
+                            did, see DNB. John Dennis was son of George Dennis (will PCC 1810) of
+                            Redmans-row, Mile End, and his wife Caroletta (née Ravenscroft). They
+                            were members of the Stepney Independent Meeting House and Dennis was
+                            treasurer of its charity school. His father Augustine and grandfather
+                            Valentine (will PCC 1805) were farmers and brewers in Wells, Norfolk.
+                            John Dennis married Mary Susanna Hull of Exeter in 1809 and they had
+                            several daughters, one of whom may have been the miss Denis at Hume's,
+                            but Dennis is a common name. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
