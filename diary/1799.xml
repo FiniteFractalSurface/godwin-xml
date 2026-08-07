@@ -1980,7 +1980,7 @@
                      subtype="S">sup at <persName ref="/people/NIC01.html"><placeName type="venue"
                            >Nicholson's</placeName></persName>; <seg type="dMeeting" subtype="Adv"
                         >adv. <persName ref="/people/STA03.html">E. Stanhope</persName></seg></seg>:
-                     <seg type="dMeeting" subtype="M">meet <persName>S Day</persName></seg>.</ab>
+                  <seg type="dMeeting" subtype="M">meet <persName ref="/people/DAY02.html">S Day</persName></seg>.</ab>
                <ab type="dDay" xml:id="g1799-06-29"><date when="1799-06-29">29. Sa.</date><ref
                      type="dWrote" subtype="write" target="/works/leon01.html">St Leon, p.
                      145/2</ref>. <ref type="dText" subtype="read" target="/bibl/te0974.html">West,

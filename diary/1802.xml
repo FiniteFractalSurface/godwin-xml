@@ -444,7 +444,7 @@
                             type="dMeeting" subtype="CG"><persName>Erving</persName></seg> &amp;
                             <seg type="dMeeting" subtype="CG"><persName>Lewis C<hi rend="sup"
                                 >s</hi></persName> call</seg>: <seg type="dMeeting" subtype="C">call
-                            on <persName><placeName type="venue">Day</placeName></persName></seg>:
+                                    on <persName ref="/people/DAY02.html"><placeName type="venue">Day</placeName></persName></seg>:
                             <seg type="dMeal" subtype="TG"><persName ref="/people/GOD02.html">Jo
                                 G</persName> at tea</seg>: <seg type="dMeal" subtype="S">sup at
                                 <persName ref="/people/REY03|REY99.html"><placeName type="venue"
@@ -1396,7 +1396,7 @@
                             >n</hi> &amp; <seg type="dMeeting" subtype="C"><persName
                                 ref="/people/MAR01.html"><placeName type="venue"
                                 >M</placeName></persName></seg>: <seg type="dMeal" subtype="DG"
-                                ><persName>Day</persName> dines</seg>: <seg type="dMeeting"
+                                    ><persName ref="/people/DAY02.html">Day</persName> dines</seg>: <seg type="dMeeting"
                             subtype="M">meet <persName ref="/people/JOY01.html"
                             >Joyce</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1802-04-22"><date when="1802-04-22">22. Th.</date><ref

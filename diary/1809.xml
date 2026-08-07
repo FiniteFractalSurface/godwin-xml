@@ -795,7 +795,7 @@
                                 >Lambs</persName> &amp; <persName ref="/people/LLO02.html">R
                                 Lloyd</persName> sup</seg>.</ab>
                     <ab type="dDay" xml:id="g1809-03-29"><date when="1809-03-29">29. W.</date><seg
-                            type="dMeeting" subtype="CG"><persName>W Darton</persName></seg>, <seg
+                            type="dMeeting" subtype="CG"><persName ref="/people/DAR05.html">W Darton</persName></seg>, <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/MAR01.html"
                                 >M</persName></seg>, <seg type="dMeeting" subtype="CG"><persName
                                 ref="/people/MAS02.html">Masters</persName></seg>, <seg
@@ -1911,7 +1911,7 @@
                             subtype="letter"><persName ref="/people/UPH01.html"
                             >Upham</persName></ref>, <ref type="dWrote" subtype="letter"><persName
                                 ref="/people/BOO01.html">Booth</persName></ref> &amp; <ref
-                            type="dWrote" subtype="letter"><persName>Deck</persName></ref>. <seg
+                                    type="dWrote" subtype="letter"><persName ref="/people/DEC02.html">Deck</persName></ref>. <seg
                             type="dMeeting" subtype="CG"><persName>Parke</persName></seg>, <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/BER01.html"
                                 >Berry</persName></seg> &amp; <seg type="dMeeting" subtype="CG"
@@ -2138,7 +2138,7 @@
                                 >Nicholson</persName></ref>, <ref type="dWrote" subtype="letter"
                                 ><persName ref="/people/BOO01.html">Booth (<placeName type="venue"
                                     >Norwich</placeName>)</persName></ref> &amp; <ref type="dWrote"
-                            subtype="letter"><persName>Deck</persName></ref>. <ref type="dWrote"
+                                        subtype="letter"><persName ref="/people/DEC02.html">Deck</persName></ref>. <ref type="dWrote"
                             subtype="cala" target="/works/myli01.html">Dictionary, çala</ref>. <ref
                             type="dEntertainment" subtype="Theat" target="/plays/vint01|sold01.html"
                                 ><placeName type="HM"/>Theatre, 1/2 Soldier’s D<hi rend="sup">r</hi>
@@ -2739,7 +2739,7 @@
                             calls</seg>: <seg type="dMeeting" subtype="C">call on <persName
                                 ref="/people/LAC01.html"><placeName type="venue"
                                     >Lackington</placeName></persName></seg>, <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                        subtype="C"><persName ref="/people/DAR05.html"><placeName type="venue"
                                 >Darton</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName><placeName type="venue"
                                 >Champante</placeName></persName></seg>, <seg type="dMeeting"

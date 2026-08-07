@@ -2738,7 +2738,7 @@
                             subtype="M">meet, w. <persName ref="/people/CUR01.html">him</persName>,
                                 <persName ref="/people/REY99.html"><placeName type="venue"
                                     >Reynolds</placeName></persName>
-                                    (<persName><persName>Daly</persName></persName> &amp;
+                                    (<persName><persName ref="/people/DAL08.html">Daly</persName></persName> &amp;
                                     <persName><persName>Headfort</persName></persName>)</seg>: <seg
                             type="dMeeting" subtype="M">meet <persName ref="/people/WRO01.html"
                                 >Wroughton</persName></seg>: <ref type="dEntertainment"

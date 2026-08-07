@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="DAL08" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>NAME</forename>
+                        <surname>Daly</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's note: Anthony Daly Hist Irish Parl 1725-1810 Grattan
+                            supporter / Rt Hon Denis Bowes Daly Dict Irish Biog 1745-1821 anti-union
+                            = 1780 sister of George Ponsonby DNB 1755-1817 / brothers of Denis Bowes
+                            Daly, Peter D 1769-1846 pro-union but pro-Catholic, Rt Hon St George
+                            Daly 1758-1827 pro-union / Richard Daly DNB 1758-1813 actor and theatre
+                            manager / 1798 subs to D R O'Conor Col. Peter Daly Grafton St Dublin,
+                            Edward Daly Ballyshannon Donegal, William Daly Dingle Kerry, Owen Daly
+                            Castle Bellingham co. Louth, Joseph Daly Cork, Charles Daly MD Cork /
+                            1795 subs to Samuel Whyte DNB 1734-1811 Richard Daly Esq Harcourt St,
+                            and Whyte's former pupils James Daly Esq and Mrs Daly </p>
+                        <p>For 1806 entry consider Thomas Reynolds DNB 1771-1836 informer, was in
+                            London 1803-1810. But more likely (as GD website have coded it) Frederic
+                            Reynolds DNB 1764-1841 who met Curran with Godwin a number of times
+                            between 1800 and 1813. Names in brackets could well mean Reynolds told a
+                            story of Daly and Headfort. Curran had defended the Marquis of Headfort
+                            on a charge of criminal conversation (adultery) in 1804 and Godwin had
+                            noted reading Headfort's Trial on 29.11.1804</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

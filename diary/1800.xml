@@ -2467,7 +2467,7 @@
                <ab type="dDay" subtype="NotLon" xml:id="g1800-07-15"><date when="1800-07-15">15.
                      Tu.</date><seg type="dMeeting" subtype="M">Meet <persName
                         ref="/people/GRA01.html">Grattan</persName></seg>, <seg type="dMeeting"
-                     subtype="M"><persName>Daly</persName></seg> &amp; <seg type="dMeeting"
+                           subtype="M"><persName ref="/people/DAL08.html">Daly</persName></seg> &amp; <seg type="dMeeting"
                         subtype="M"><persName ref="/people/LED02.html">Ledwick</persName></seg>: <seg type="dMeeting"
                      subtype="C">call on <persName><placeName type="venue">E
                         B</placeName></persName></seg> &amp; <seg type="dMeeting" subtype="C"
@@ -2570,7 +2570,7 @@
                      >Mullala, p. 333, fin</ref>. <seg type="dMeeting" subtype="C">Call on <persName
                         ref="/people/HAM04.html" type="nah"><placeName type="venue"
                            >Hamilton</placeName></persName><hi rend="sup">n</hi></seg>: <seg
-                     type="dMeal" subtype="DG"><persName>Daly</persName>, <persName
+                              type="dMeal" subtype="DG"><persName ref="/people/DAL08.html">Daly</persName>, <persName
                         ref="/people/JEN04.html">Jennings</persName>, <persName>E B</persName>,
                         <persName ref="/people/WOL04.html">Everina</persName> &amp; <persName
                         ref="/people/CUR01.html">Cs</persName> dine; <seg type="dMeeting"
@@ -2591,7 +2591,7 @@
                      target="/events/pe0110.html">sea-bath</ref>: <seg type="dMeal" subtype="D">dine
                      at <persName ref="/people/HAM04.html"><placeName type="venue"
                            >Hamilton's</placeName></persName>, w. <persName ref="/people/CUR01.html"
-                        >C</persName>, <persName>Daly</persName>, <persName ref="/people/HIG01.html"
+                              >C</persName>, <persName ref="/people/DAL08.html">Daly</persName>, <persName ref="/people/HIG01.html"
                            >Higgins</persName> &amp; <persName ref="/people/FRI03.html">Frizel</persName></seg>: <seg
                      type="dMeeting" subtype="Cn">call, w. <persName ref="/people/CUR01.html"
                         >C</persName>, <persName><placeName type="venue">W

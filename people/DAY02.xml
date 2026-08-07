@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="DAY02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Stephen</forename>
+                        <surname>Day</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>see Ed Pope's notes: PCC wills 1800 Stephen Day laceman Covt Gdn wife
+                            Lydia / gent of Kensington 1823 / Samuel Day gent of St Clement Danes
+                            1802 of New Inn all to Sarah Woodward widow (Saml Day attorney 7 New Inn
+                            1799 Law List) / Starling Day merchant Norwich 1815 jr, 1820 sr.
+                            </p><p>We agree that this is likely to be a different day from the man
+                            who appears in 1813 and 14. There's a question as to whether the 1799
+                            entries are for the same person as those in 1802 and 1804,but we have
+                            coded them as such.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
