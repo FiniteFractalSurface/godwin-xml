@@ -769,7 +769,7 @@
                            Smith's</placeName></persName>, w. <persName ref="/people/COL01.html"
                         >Coleridge</persName>, <persName ref="/people/NOR01.html"
                         >Northcote</persName>, <persName ref="/people/FEN01|FEN03.html"
-                        >Fenwicks</persName> &amp; <persName>Duncans</persName></seg>.</ab>
+                           >Fenwicks</persName> &amp; <persName ref="/people/DUN04.html">Duncans</persName></seg>.</ab>
                <ab type="dDay" xml:id="g1800-03-05"><date when="1800-03-05">5. W.</date><seg
                      type="dMeeting" subtype="Cn">Call on <persName ref="/people/ROB04.html"
                            ><placeName type="venue">M Robinson</placeName></persName>, w. <persName
@@ -2388,7 +2388,7 @@
                      W.</date><ref type="dText" subtype="read" target="/bibl/te0802.html">F Queen,
                      C. VI</ref>: <ref type="dText" subtype="read" target="/bibl/te1094.html"
                      >Rowan's Trial, pp. 152</ref>. <seg type="dMeeting" subtype="C">Call on
-                           <persName><placeName type="venue">E B</placeName></persName></seg>: <seg
+                        <persName ref="/people/BRA02.html"><placeName type="venue">E B</placeName></persName></seg>: <seg
                      type="dMeal" subtype="D">dine at <persName ref="/people/MOI01.html"><placeName
                            type="venue">la. Moira's</placeName></persName>, w. <persName
                         ref="/people/GRA02.html">Granards</persName>, <persName
@@ -2420,13 +2420,13 @@
                            <persName>Scully</persName> &amp;
                      <persName>Barnet</persName></seg>)</seg><ref type="dEntertainment"
                      subtype="Exhib" target="/events/ex0029|ex0001.html"><seg type="dMeeting"
-                        subtype="Do">Exhibition, <persName>E B</persName> &amp; <persName>W
+                        subtype="Do">Exhibition, <persName ref="/people/BRA02.html">E B</persName> &amp; <persName>W
                            Place</persName></seg></ref>: <seg type="dMeal" subtype="D">dine at
                            <persName><placeName type="venue">Delane's</placeName></persName>, w.
                         <persName>cousins</persName>, <persName ref="/people/SKE02.html"
                         >Skeys</persName>, <persName ref="/people/TRO01.html">Trotter</persName>
                      &amp; <persName ref="/people/CUR01.html">Cs</persName>; <seg type="dMeeting"
-                        subtype="Adv">adv. <persName>E B</persName> &amp; <persName
+                        subtype="Adv">adv. <persName ref="/people/BRA02.html">E B</persName> &amp; <persName
                            ref="/people/WOL04.html">Everina</persName></seg></seg>: sleep <persName
                      ref="/people/CUR01.html"><placeName type="venue"
                   >Rm</placeName></persName>.</ab>
@@ -2523,7 +2523,7 @@
                      >Mullala, p. 134</ref>. <seg type="dMeeting" subtype="CG"
                         ><persName ref="/people/CAL11.html">Caldwel</persName> calls</seg>: <seg type="dMeal" subtype="D"
                      >dine at <persName><placeName type="venue">Lefanu's</placeName></persName>, w.
-                           <persName ref="/people/COO01.html">C</persName>, <persName>E B</persName>, <persName
+                           <persName ref="/people/COO01.html">C</persName>, <persName ref="/people/BRA02.html">E B</persName>, <persName
                         ref="/people/WOL04.html">Everina</persName>, <persName>Thomas's</persName>,
                            <persName ref="/people/GIN01.html">Ginnis's</persName>, <persName>Cuthbert</persName> &amp;
                            <persName>D<hi rend="sup">r</hi> Bell</persName></seg>: sleep <persName
@@ -2571,7 +2571,7 @@
                         ref="/people/HAM04.html" type="nah"><placeName type="venue"
                            >Hamilton</placeName></persName><hi rend="sup">n</hi></seg>: <seg
                               type="dMeal" subtype="DG"><persName ref="/people/DAL08.html">Daly</persName>, <persName
-                        ref="/people/JEN04.html">Jennings</persName>, <persName>E B</persName>,
+                                 ref="/people/JEN04.html">Jennings</persName>, <persName ref="/people/BRA02.html">E B</persName>,
                         <persName ref="/people/WOL04.html">Everina</persName> &amp; <persName
                         ref="/people/CUR01.html">Cs</persName> dine; <seg type="dMeeting"
                         subtype="Adv">adv. <persName>Kirwan</persName></seg></seg>.</ab>
@@ -2581,7 +2581,7 @@
                         <persName>Pim</persName></seg>: <seg type="dMeeting" subtype="C">call on
                         <persName ref="/people/HAS02.html"><placeName type="venue"
                         >Moira</placeName></persName></seg>: <seg type="dMeal" subtype="S">sup at
-                           <persName><placeName type="venue">E
+                           <persName ref="/people/BRA02.html"><placeName type="venue">E
                   B's</placeName></persName></seg>.</ab>
                <ab type="dDay" subtype="NotLon" xml:id="g1800-07-25"><date when="1800-07-25">25.
                      F.</date><ref type="dText" subtype="read" target="/bibl/te1102.html">Memoirs,
@@ -2760,7 +2760,7 @@
                            <persName>miss Kaine</persName></seg></seg>.</ab>
                <ab type="dDay" subtype="NotLon" xml:id="g1800-08-09"><date when="1800-08-09">9.
                      Sa.</date><ref type="dText" subtype="read" target="/bibl/te1104.html">Leland,
-                     p. 182</ref>. <seg type="dMeeting" subtype="C">Call on <persName><placeName
+                        p. 182</ref>. <seg type="dMeeting" subtype="C">Call on <persName ref="/people/BRA02.html"><placeName
                            type="venue">E B</placeName></persName></seg>: <seg type="dMeal"
                      subtype="D">dine at <persName ref="/people/MOI01.html"><placeName type="venue"
                            >la. Moira's</placeName></persName>, w. <persName

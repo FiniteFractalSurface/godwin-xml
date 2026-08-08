@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="COL11" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Miss</forename>
+                        <surname>Collins</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>As Ed Pope notes, we have good grounds for thinking that the Miss Collins
+                            and E Collins entries between 1817 and 1827, refer to the same or
+                            closely related person, but we have thus far failed to identify which
+                            person(s) it is: "I have left aside for now the forty or so Collins entries
+                            between 1817 and 1827, all but the first one were miss Collins or E
+                            Collins (who were probably one person). The miss Collins at Rowan's
+                            above could have been the same person but there was a gap of eleven
+                            years. Meanwhile I have no idea yet who either of the two above were
+                            either See Ed Pope's comment: I have left aside for now the forty or so
+                            Collins entries between 1817 and 1827, all but the first one were miss
+                            Collins or E Collins (who were probably one person). The miss Collins at
+                            Rowan's in 1801 and 1806 could have been the same person but there was a
+                            gap of eleven years. Meanwhile I have no idea yet who either of the two
+                            above were either." </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

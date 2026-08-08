@@ -2230,7 +2230,7 @@
                                 ><persName ref="/people/TAY06.html">R Taylor</persName></seg>: <seg
                             type="dMeeting" subtype="C">call on <persName ref="/people/GAL02.html"
                                     ><placeName type="venue">Galloway</placeName></persName></seg>:
-                            <seg type="dMeal" subtype="SG"><persName>miss Collins</persName>
+                        <seg type="dMeal" subtype="SG"><persName ref="/people/COL11.html">miss Collins</persName>
                             sups</seg>.</ab>
                     <ab type="dDay" xml:id="g1823-08-19"><date when="1823-08-19">19. Tu.</date><ref
                             type="dWrote" subtype="cala" target="/works/comm01.html">Commonwealth,

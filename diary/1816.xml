@@ -1095,7 +1095,7 @@
                                 ref="/people/HUM01.html">Hume</persName>, w. <persName
                                 ref="/people/MAT02.html">Mathews</persName></seg>: <seg
                             type="dMeeting" subtype="See">shop, <persName>Dalyel</persName>,
-                                <persName>Duncan</persName> &amp; <persName ref="/people/YAN01.html"
+                                    <persName ref="/people/DUN06.html">Duncan</persName> &amp; <persName ref="/people/YAN01.html"
                                 >Yaniewiczes</persName></seg>: <seg type="dMeal" subtype="D">dine at
                                 <persName ref="/people/NAP01.html"><placeName type="venue"
                                     >Napier’s</placeName></persName>, w. <persName
@@ -1205,7 +1205,7 @@
                                     >Dewar</placeName></persName></seg>: <seg type="dMeeting"
                             subtype="SitTo"><persName ref="/people/NIC02.html">sit</persName></seg>:
                             <seg type="dMeal" subtype="DG"><persName ref="/people/YAN01.html"
-                                >Yaniewiczes</persName>, <persName>Duncans</persName>,
+                                    >Yaniewiczes</persName>, <persName ref="/people/DUN06.html">Duncans</persName>,
                                 <persName>Ainslies</persName> &amp; <persName
                                 ref="/people/LES02.html">Leslie</persName> dine</seg>.</ab>
                     <ab type="dDay" subtype="NotLon" xml:id="g1816-04-23"><date when="1816-04-23"
@@ -1235,7 +1235,7 @@
                             <ref type="dEntertainment" subtype="Theat" target="/plays/unkn62.html"
                                 ><placeName/><seg type="dMeeting" subtype="Do"><seg type="dMeal"
                                     subtype="S">theatre, w. <persName>Ys</persName>,
-                                        <persName>Duncan</persName>, <persName>Gordon</persName>,
+                                        <persName ref="/people/DUN06.html">Duncan</persName>, <persName>Gordon</persName>,
                                     &amp;c; sup</seg></seg></ref>: <seg type="dMeeting"
                             subtype="SleepAt">sleep at <persName>Oman’s</persName></seg>. <seg
                             type="dMeeting" subtype="C">call on <persName type="nah"><placeName
@@ -3387,7 +3387,7 @@
                                     ><placeName type="venue">Curran’s</placeName></persName>, w.
                                 <persName ref="/people/MEY01.html">Meyler</persName>,
                                 <persName>Ryan</persName> &amp;
-                        <persName>Duncan</persName></seg>.</ab>
+                                <persName ref="/people/DUN05.html">Duncan</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1816-12-16"><date when="1816-12-16">16. M.</date><ref
                             type="dWrote" subtype="revised" target="/works/mand01.html">Mandeville,
                             revise</ref>. <ref type="dText" subtype="letterRecvd">Letter from

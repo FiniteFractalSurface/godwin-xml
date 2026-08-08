@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="DUN05" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Andrew</forename>
+                        <surname>Duncan</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Attorney</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's notes:The second entry referred to William Nicholson's
+                            attorney, Andrew Duncan of Holborn Court, Grays Inn, as explained, along
+                            with Carlisle's presence, in Nicholson's letter to Godwin of the same
+                            day (Bodleian Abinger c6 f134) brought to Godwin by Nicholson's son
+                            William, though that wasn't recorded in the diary. He was probably the
+                            Duncan of 1802 when Carlisle was present again, and perhaps the three
+                            entries in 1805 and/or some of the later ones. He may have been the
+                            Andrew Duncan gentleman of 70 Chancery Lane whose will was proved 1849
+                            PCC. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

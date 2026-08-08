@@ -826,7 +826,7 @@
                         Smith</placeName></persName>; <seg type="dMeeting" subtype="Adv">adv.
                            <persName>W S</persName></seg></seg>. <seg type="dMeeting" subtype="See"
                         ><persName>Lunn's</persName></seg> &amp; <seg type="dMeeting" subtype="See"
-                        ><persName>Dulau's</persName></seg>.<ref type="dText" subtype="read"> Read
+                           ><persName ref="/people/DUL01.html">Dulau's</persName></seg>.<ref type="dText" subtype="read"> Read
                      Antonio</ref>.</ab>
                <ab type="dDay" xml:id="g1799-03-20"><date when="1799-03-20">20. W.</date><ref
                      type="dText" subtype="read" target="/bibl/te0929.html"> Alexandre, acte
@@ -1650,7 +1650,7 @@
                      type="dEntertainment" subtype="Exhib" target="/events/ex0021.html"> Milton
                      Gallery; <seg type="dMeeting" subtype="Adv">adv. <persName
                            ref="/people/FEN01.html">Fenwick<emph rend="deleted">'</emph>s</persName>
-                        &amp; <persName>E B</persName></seg></ref> : <ref type="dEntertainment"
+                        &amp; <persName ref="/people/BRA02.html">E B</persName></seg></ref> : <ref type="dEntertainment"
                      subtype="Theat" target="/plays/piza01.html"><placeName type="DL"/><seg
                         type="dMeeting" subtype="Do"> theatre, Pizarro, w. <persName
                            ref="/people/ELW01.html">Elwes</persName> : <seg type="dMeal" subtype="S"

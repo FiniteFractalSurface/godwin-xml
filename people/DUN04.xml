@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="DUN04" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>John Shute</forename>
+                        <surname>Duncan</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Attorney</occupation>
+                    <note type="editorial">
+                        <p>EEd Pope note suggests: The first entry (4.3.1800) was probably John Shute
+                            Duncan DNB 1769-1844 of 16 Lincolns Inn Old Square, attorney to the
+                            Newhouses, Charlotte Smith's daughter and son-in-law (see Collected
+                            Letters of Charlotte Smith). His brother Philip Bury Duncan DNB
+                            1772-1863 was also of Lincolns Inn, both brothers in turn later became
+                            keeper of the Ashmolean Museum, Oxford. </p>
+                        <p></p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
