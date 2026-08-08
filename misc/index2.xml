@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>William Godwin's Diary</title>
+        <title type="sub">Reconstructing a Social and Political Culture 1788-1836</title>
+        </titleStmt>
+      <publicationStmt>
+        <p>Published by the William Godwin's Diary project, University of Oxford</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>William Godwin's Diary</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <!-- <divGen type="twitterFeed"/> -->
+      <div rend="indented">
+        <p>Welcome to the <ref target="https://web.archive.org/web/20211205163300/https://www.politics.ox.ac.uk/news/william-godwins-diary-wins-award.html">award-winning</ref> digital edition of the diary of William Godwin (1756-1836). Godwin’s
+          diary consists of 32 octavo notebooks. The first entry is for <ref target="/diary/1788-04-06.html">6 April 1788</ref> and the final
+          entry is for <ref target="/diary/1836-03-26.html">26 March 1836</ref>, shortly before he died. The diary is a resource of immense
+          importance to researchers of history, politics, literature, and women’s studies.  It
+          maps the radical intellectual and political life of the late eighteenth and early
+          nineteenth centuries, as well as providing extensive evidence on publishing relations,
+          conversational coteries, artistic circles and theatrical production over the same
+          period.  One can also trace the developing relationships of one of the most important
+          families in British literature, Godwin’s own, which included his wife Mary
+          Wollstonecraft (1759-1797), their daughter Mary Shelley (1797-1851) and his son-in-law
+          Percy Bysshe Shelley (1792-1822). Many of the most important figures in British cultural
+          history feature in its pages, including Anna Barbauld, Samuel Taylor Coleridge, Charles
+          James Fox, William Hazlitt, Thomas Holcroft, Elizabeth Inchbald, Charles and Mary Lamb,
+          Mary Robinson, Richard Brinsley Sheridan, William Wordsworth, and many others.</p>
+        <p>The diary has been transcribed and encoded so that the data it contains is able to be extracted. High
+          resolution scanned images of the diary are also provided. 
+There is also a series of podcasts available on "<ref target="http://podcasts.ox.ac.uk/series/judgement-and-justice-life-and-diary-william-godwin">Judgement and Justice: The Life and Diary of William Godwin</ref>".</p>
+        <p>Those new to the resource are encouraged to refer to the  
+          <ref target="/introduction.html">Introduction to the Resource</ref> and to the section about <ref target="/introduction.html#Searching">searching</ref> the site. The diary
+         is part of the Abinger Collection of manuscripts held in the Bodleian Library. For further details, see <ref target="/abinger.html">Abinger Collection</ref>. Further 
+          detailed work on people appearing in the Diary, that draws on diverse genealogical resources, has 
+          been undertaken by Edward Pope and is posted on his website: <ref target="http://www.edpopehistory.co.uk/">http://www.edpopehistory.co.uk/</ref>. This is a source of invaluable material, 
+          not all of which has been included or cross referenced here, and users of the Diary are strongly advised to consult it.</p>
+        
+        <p>If you have questions, comments or suggestions on the 
+  website feel free to send them to: <ref target="mailto:godwin.diary@politics.ox.ac.uk">godwin.diary@politics.ox.ac.uk</ref>.  You may also follow <ref target="http://www.twitter.com/godwindiary">@godwindiary</ref> on twitter for excerpts from the diary. In early 2012 the website won the <ref target="https://web.archive.org/web/20211205163300/https://www.politics.ox.ac.uk/news/william-godwins-diary-wins-award.html">annual award for Digital Resources</ref> from the <ref target="http://www.bsecs.org.uk/">British Society for Eighteenth-Century Studies</ref>.  
+</p>
+      </div>
+      <div xml:id="Disclaimer" rend="indented">
+      <head>Disclaimer</head>
+        <p>This website is a close version of an earlier website hosted by Oxford Computing Service, which had the following address - http://godwindiary.bodleian.ox.ac.uk/index2.html. This became necessary because the Principal Investigator (Professor Mark Philp) received information in November 2024 that the Oxford website was to go offline by 29th November 2024. This website was made possible through the support of <ref target="https://warwick.ac.uk/research/rtp/rc/">Warwick Research Computing</ref> and <ref target="https://warwick.ac.uk/services/idg">Information and Digital Group</ref>.
+</p>
+      </div>
+      <div rend="logos">
+	      <p rend="logos">
+		      <ref rend="noStyle" target="http://www.politics.ox.ac.uk/">
+			      <graphic url="/images/dpir-small.jpg" height="75">
+				      <desc>Logo of the Department of Politics and International Relations</desc></graphic>
+		      </ref>
+		      <ref rend="noStyle" target="http://www.leverhulme.ac.uk/">
+		      <graphic url="/images/Leverhulme_Trust_RGB_black.png" height="75">
+				      <desc>Logo of The Leverhulme Trust</desc></graphic>
+		      </ref>
+		      <ref rend="noStyle" target="http://www.bodleian.ox.ac.uk/">
+		      <graphic url="/images/bodleian.jpg" height="75">
+				      <desc>Logo of the Bodleian Libraries</desc></graphic>
+		      </ref>
+		      <!-- <ref rend="noStyle" target="http://www.oucs.ox.ac.uk/">
+		      <graphic url="/images/oucslogo.jpg" height="75">
+				      <desc>Logo of the Oxford University Computing Services</desc></graphic>
+		      </ref> -->
+          <ref rend="noStyle" target="http://www.bsecs.org.uk/">
+		      <graphic url="/images/BSECS-logo.png" height="75" alt="Logo of the British Society for Eighteenth-Century Studies">
+				      <desc>Logo of the British Society for Eighteenth-Century Studies</desc></graphic>
+		      </ref>
+           <ref rend="noStyle" target="https://warwick.ac.uk/">
+		      <graphic height="75" url="/images/university-of-warwick-composite.svg" alt="Logo of the University of Warwick">
+				      <desc>Logo of the University of Warwick</desc></graphic> 
+		      </ref>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Introduction to the resource</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Published by the William Godwin's Diary project, University of Oxford</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>William Godwin's Diary</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="Searching" rend="indented">
+                <head>Searching the resource</head>
+                <p>The project has sought to code the diary so as to retain the richness and
+                    diversity of the information. Each element in a day’s entry has been coded so as
+                    to distinguish what Godwin read, what he wrote, whom he saw, where he saw them,
+                    in what activities or meals they shared, and where he went. It is possible,
+                    then, to search for dates, for particular people, for activities, for texts
+                    written or read, for events attended, and so on. In the display of the diary
+                    transcription many textual elements appear as blue hyperlinks and some (unidentified people) are
+                    underlined; the colouring and underlining can be hidden by unchecking the 'Formatting' box. </p>
+                <p>Because Godwin’s entries are cryptic, judgments have been made throughout the
+                    coding process as to what particular entries mean. Also, Godwin is often
+                    inconsistent in the way he spells or abbreviates people’s names, the titles of
+                    works he is writing, and those he is reading. Using the <ref target="/search.html">search</ref> facility for
+                    ‘Holcroft’ will identify all instances where he enters ‘Holcroft’ in the diary.
+                    But it will not reveal the huge number of cases in which he contracts Holcroft
+                    to ‘Ht’ or variations thereof. Nor does this facility currently allow ‘fuzzy’
+                    searching. However, the underlying coding does allow variants to be recognised
+                    as instances of the same name if searched for under PEOPLE. As a result, when
+                    searching names, we strongly recommend searching both with the open SEARCH
+                    facility, and in the People section under ‘<ref target="/people/">People (identified)</ref>’. The former will search for the name as it appears in the diary and in
+                    the editorial matter while the latter will search by the underlying coding,
+                    rather than by the exact spelling. Users may also find the CTRL+F search
+                    function on a PC or the Command+F search function on a Mac helpful on some pages
+                    of the resource.</p>
+                <p>The aim of the editorial apparatus has been to clarify Godwin’s entries and to
+                    provide additional information that will allow the user to pursue their inquiry
+                    further. In the attempt to identify the ~64,000 name entries in the diary we have
+                    created files for about 1,110 people and families, which say something about
+                    well over three quarters of the total name entries. Where there is a lack of
+                    certainty we have indicated what possibilities there are and the reasoning we
+                    have used in making an identification, usually based on the particular social
+                    contexts for that entry and/or other primary and secondary sources. Biographical
+                    information is offered for those identified but where those individuals appear
+                    in the <ref target="http://www.oxforddnb.com/"><title>Oxford Dictionary of National
+                        Biography</title></ref>, we have kept this to a minimum. We have generally excluded
+                    spouses from our identifications unless 1) the spouse is of independent
+                    historical interest or 2) Godwin had a significant relationship with them
+                    independent of the primary figure (but see also the comments under <ref
+                        target="#Abbreviations">Abbreviations and names</ref> for more complex
+                    cases). We have prioritized the identification of those who appear frequently in
+                    the diary, those we deemed important to Godwin, and those we thought would be of
+                    interest to a general audience. These principles have not been followed
+                    rigidly as identifications often flowed organically (identifying one person in a
+                    group often leads to the identification of others). Users will have further
+                    information we lacked and we welcome feedback on our judgments and further
+                    information about people and entries in the diary. The editorial matter and
+                    coding of the diary will be updated on a regular basis over the first year of
+                    public access, and intermittently thereafter.</p>
+                <p>Users of the diary are strongly encouraged to consult <ref
+                        target="#Abbreviations">Abbreviations and names</ref>
+                </p>
+            </div>
+
+            <div xml:id="Abbreviations" rend="indented">
+                <head>Abbreviations and names</head>
+                <p>Godwin uses abbreviations throughout the diary but especially when referring to
+                    people, and he has a range of shorthand entries that qualify what he has
+                    written. The abbreviations for people are many and various: He almost wholly
+                    refuses to add the second consonant of any name ending in a double consonant.
+                    For example: Thelwall is always Thelwal; Crosdill is always Crosdil, except when
+                    Godwin records his death!</p>
+                <p>Just as Holcroft becomes ‘Ht’, many others in the diary are contracted to the
+                    first and last letters of their names <emph>but they are not consistently
+                        contracted </emph>– Godwin can move back and forward between full spellings
+                    and contractions; he can also use initials rather than contractions; and he can
+                    use the same initials or contractions for different people – so M stands for
+                    Marshall, but also for his daughter Mary at one period of her life. Women are
+                    more likely to be contracted than men, but certainly not exclusively so. People
+                    can also be referred to by, or, more precisely, their presence may be inferred
+                    from, a place name. For instance, when Godwin becomes intimate with Mary
+                    Wollstonecraft the entry truncates her to ‘chez elle’ or ‘chez moi’. Another
+                    example is John Philpott Curran being referred to for much of Godwin’s visit to
+                    Ireland in <ref target="/diary/1800.html">1800</ref> as ‘Rathfarnham’ (where Curran lived in Dublin). In addition, we
+                    have recognised a problem with Godwin’s referencing, particularly of meals and
+                    the presence of the host and spouse or other family member. For example, Godwin
+                    dines frequently at Charles Lamb’s. Except when Mary Lamb was in hospital, she
+                    would likely be present and active at the dinner, as is testified by letters and
+                    diaries from the period and yet Godwin makes no reference to her presence.  The
+                    same is true for many other couples. Accordingly, we have taken the editorial
+                    decision to presume the presence of significant others when Godwin calls for
+                    meals but only mentions the host and <emph>when that significant other has an
+                        individual code</emph>.  In some cases this will overstate their presence –
+                    we do not know exactly when Mary Lamb was in hospital.  For other couples there
+                    is less risk of over-stating the spouse’s presence.  However, when Godwin records an entry such as 'call
+                    on Lamb' (as against 'call on Lambs') we have treated this more narrowly and coded only for the named
+                    person.</p>
+                <p>A complication of the abbreviations is the fluctuating degree of intimacy that
+                    Godwin has with people. This can be particularly difficult to unpick when people
+                    share surnames and more so again when it is a common surname. Godwin felt that
+                    he had no need to distinguish in his diary between various ‘Smiths’ or ‘Taylors’
+                    who appear throughout the diary, but it seems clear from context that different
+                    people are being recorded. In other words, ‘Smith’ in <ref target="/diary/1792.html">1792</ref> is someone different
+                    to ‘Smith’ in <ref target="/diary/1802.html">1802</ref>. Often context can help make an identification but
+                    occasionally there is no context (e.g. ‘Call on Smith’).</p>
+                <p>Names are usually given without initials. Women’s names may first appear prefixed
+                    with Miss or Mrs, but this is not invariably so; and that prefix may then be
+                    replaced by an initial or discarded altogether. Those given initials may lose
+                    them; those without may gain them, and may lose them again. Even when people
+                    with the same surname are involved in Godwin’s circles in the same period,
+                    Godwin does not systematically distinguish different people by using
+                    initials.</p>
+                <p>For ‘nah’, ‘nit’, ‘adv’ and other abbreviations relating to calls and meetings
+                    see <ref target="#Calls">Calls</ref>.</p>
+            </div>
+
+
+
+            <div xml:id="Calls" rend="indented">
+                <head>Calls</head>
+                <p>Godwin indicates when he calls on others and when they call on him. Entries may
+                    be followed, usually in superscript by nah, na, nit, or n. These mean that
+                    Godwin does not in fact see them – because they are ‘not at home’, ‘not
+                    available’, ‘not in town’, or simply not there. Similarly, callers on Godwin may
+                    be recorded with similar notes when Godwin is out or when he does not see them.
+                    When looking at an individual person record under <ref target="/people/"
+                        >People</ref> users will find results that indicate how many of the calls
+                    the person makes on Godwin or Godwin makes on them and of these calls how many
+                    do not result in an actual meeting. This example illustrates an important
+                    principle of searching the diary: appearance in the diary does not automatically
+                    constitute a physical encounter between Godwin and an individual. An individual
+                    can appear in the diary as an unsuccessful call, as a topic of conversation, as
+                    a correspondent, in a paratextual list, as a death, in an entry where Godwin
+                    notes meetings between two or more others where he was not himself present, and
+                    so on. In each case the entry is not a contact. Users are directed to be careful
+                    in distinguishing actual physical encounters with Godwin from these types of
+                    diary entries. </p>
+                <p>Moreover, users should note that there are some ‘meetings’ whose nature cannot be
+                    determined and that there is a grey area as to what constitutes a physical
+                    encounter in any case. When Godwin attended, for instance, the trial on Thomas
+                    Hardy on <ref target="/diary/1794-11-01.html">1 November 1794</ref>, he wrote ‘see <ref
+                        target="/people/unidentified/wharton.html">Wharton</ref>, <ref
+                        target="/people/unidentified/thomson.html">Thomson</ref>, <ref
+                        target="/people/unidentified/walker.html">Walker</ref>, <ref
+                        target="/people/unidentified/roberts%20m..html">Roberts M.</ref>, <ref
+                        target="/people/VAU01.html">Vaughan</ref>, <ref target="/people/HAR01.html"
+                        >Harwood</ref>, <ref target="/people/FRO01.html">Frost</ref>, <ref
+                        target="/people/WIL19.html">Williams</ref>, <ref target="/people/BAN03.html"
+                        >Banks</ref>, <ref target="/people/SHA01.html">Sharp</ref>, <ref
+                        target="/people/FER01.html">Ferguson</ref>, <ref target="/people/SYM01.html"
+                        >Symonds</ref>, <ref target="/people/TOW01.html">Towers</ref>, <ref
+                        target="/people/MOO06.html">C. Moore</ref>, <ref target="/people/MOO04.html"
+                        >G. Moore</ref>, <ref target="/people/unidentified/hawes.html">Hawes</ref>,
+                        <ref target="/people/RIT01.html">Ritson</ref>, <ref
+                        target="/people/unidentified/gray.html">Gray</ref>, <ref
+                        target="/people/WEB01.html">Webb</ref>, <ref
+                        target="/people/unidentified/belmano.html">Belmano</ref>, <ref
+                        target="/people/MAC03.html">Macdonald</ref>’. It seems improbable that he
+                    spoke to all of these but likely he did with some. Does a wave across a crowded
+                    courtroom, a nod in the queue to gain entry, or the recognition of someone on
+                    the other side of the room constitute a meeting? The editors have taken take the
+                    view that all encounters treated by Godwin as a meeting should be acknowledged
+                    as a meeting. While it may be tempting to assume that meetings recorded by
+                    Godwin as ‘see’ are not actual physical encounters, this is not borne out by
+                    considering the use of ‘see’ in the diary as a whole, so there is no distinct
+                    subcategory of meetings systematically distinguished from other subcategories,
+                    where Godwin sees but does not meet people. </p>
+                <p>Within each person’s file, there is an option to explore the meals and meetings
+                    they had with Godwin in more detail. A chronological list is offered of all
+                    meals and meetings in which the person features. The user has the opportunity to
+                    narrow the encounters listed by category (meal or meeting), subcategory (type of
+                    meeting or meal), venue, or number of participants. The user may also determine
+                    which meetings the subject of their search attended with other specified
+                    persons. For example, if searching for Coleridge, one can then view just the
+                    meetings at which Coleridge and Wordsworth appear together and distinguish
+                    within those any n/nah/nit instances Godwin notes. One can search for meetings
+                    of up to four people (excluding Godwin): for example, if one wanted to see if
+                    Godwin, Coleridge, Wordsworth, Charles Lamb, and Thomas De Quincey ever got
+                    together, the diary records one such encounter (tea at Coleridge’s on <ref target="/diary/1808-03-03.html">3 March
+                    1808</ref>). Where we have been unable to identify a person who appears in a meeting,
+                    the person’s name will be marked by an asterix.</p>
+                <p>When Godwin records calling on a number of people in one entry (call on X, Y, and
+                    Z), these calls have been treated as a sequence of individual calls. Similarly,
+                    when Godwin records a number of people calling on him (X, Y, and Z call), these
+                    have been treated as a sequence of individual calls. The project recognizes that
+                    in some cases people may be calling ensemble but there is sufficient evidence
+                    that the individual approach is most accurate with some exceptions noted
+                    below.</p>
+                <p>When Godwin records calling with someone on others (call, with X, on Y &amp; Z),
+                    his companion is deemed to be present at both meetings. However, when Godwin
+                    records an entry such as ‘Call on X &amp; Y with Z’, Z is treated as being at
+                    the latter meeting only.</p>
+                <p>Most meetings are clear – people call on Godwin, or he calls on them, although
+                    the etiquette of calling is complex (see, for example, the discussion in Leonore
+                    Davidoff’s <emph>The Best Circles: Society Etiquette and the Season</emph> –
+                    although this is based on slightly more formal contexts). </p>
+                <p>The most complex meeting in the diary is the frequently used ‘adv.’ which, from
+                    two entries in <ref target="/diary/1792.html">1792</ref> where Godwin spells it out in full, we know to be a
+                    contraction of ‘advenae’. The word ‘advena’ (plural ‘advenae’) is something of a
+                    rarity in Latin, being a first-declension noun with an ‘-a’ ending, which is
+                    usually feminine but here of indeterminate gender, i.e. potentially masculine,
+                    feminine or neuter. The standard dictionary of classical Latin (Lewis &amp;
+                    Short) defines its primary meaning as ‘one who comes to a place’, but then ‘a
+                    foreigner, stranger, or alien’. Godwin uses the term to indicate that he
+                    unexpectedly encountered the person at a meal or meeting or at an event. Meals
+                    may involve a number of people with whom Godwin dines, followed by ‘adv’ and
+                    another list. This suggests that the former were part of an arranged dinner, and
+                    the latter call on the host either during or after dinner.</p>
+                <p>When Godwin records a number of people encountered ‘adv’ the individuals have
+                    been grouped collectively. Although this differs from our principle of recording
+                    other types of meetings such as calls individually, the adv encounter functions
+                    as a subset to a wider meeting/meal/activity and as such we have taken the view
+                    that individuals listed as adv encounters are more likely to encounter each
+                    other within the physical and social confines of the broader
+                    meal/meeting/activity’s parameters. The same assumption has been made about
+                    participants of an ‘au soir’ meeting who are also grouped collectively.</p>
+                <p>We have also indicated when people function as a venue for a call. This is worth
+                    noting not only for the light shed on Godwin’s relationship with the individual
+                    (for example, if Godwin calls many times on them but this is not reciprocated,
+                    this suggests a particular kind of relationship) but for the light shed on
+                    non-Godwin relationships . If, for example, Godwin only meets X when he is
+                    visiting Y, then it may suggest that there is a relationship between X and Y
+                    that is noteworthy. Users should consider the effect that Godwin’s age, income,
+                    marital status would have on the patterns of calling and dining. </p>
+
+            </div>
+
+
+
+            <div xml:id="Meals" rend="indented">
+                <head>Meals</head>
+                <p>Godwin is reasonably consistent in identifying meals at which he meets others. ‘X
+                    dines’ means what it says; X dines, means that X is Godwin’s guest. It is likely
+                    that meals at which Godwin is the host may include meals in inns or coffee
+                    houses that Godwin hosts, as well as those in his own home, but we have no way
+                    of knowing this for certain. The range of meals: breakfast, dinner, tea, supper
+                    are self-explanatory, although readers may wish to refer to scholarly
+                    discussions of dining practices in late eighteenth and early nineteenth-century
+                    London (see <ref target="/project-bibl.html">bibliography</ref>) The editors
+                    have been careful to record each type of meal separately as distinct types
+                    suggest a certain level of intimacy which is very useful in mapping changes over
+                    time in Godwin’s relationship with people, or indeed, in the relationships
+                    between other people in the diary. </p>
+
+            </div>
+
+
+
+
+
+            <div xml:id="List1796" rend="indented">
+                <head>1796 List</head>
+                <p>The diary’s editorial matter refers frequently to the '<ref target="/diary/1796list.html">1796 list</ref>'. The 1796 list
+                    is a series of names and dates that Godwin inserted into the last few pages of
+                    his diary notebook for February 1795-September 1796. He compiled the list –
+                    probably in 1805 – to map the growth and range of his acquaintance over the
+                    years 1773-1805. In some cases the names are underlined, probably an indication
+                    that the relationship was one Godwin considered particularly important. One of
+                    the pages is of particular interest as Godwin selects twenty-five names from his
+                    main chronological list and puts them in order of when he made their
+                    acquaintance. It seems probable that Godwin here lists those twenty-five people
+                    he considered most significant to his life and is interested in thinking about
+                    either the longevity of those relationships or how the sequence of meeting
+                    matters or both. ‘Significant’ here has a deliberate (and inescapable) ambiguity
+                    as the list excludes, for example, Mary Wollstonecraft. Other names have then
+                    been added in the margins, which suggests that Godwin revisited this list
+                    subsequently to note other important relationships. The <ref target="/diary/1796list.html">list</ref> appears after the
+                    entry for <ref target="/diary/1796-09-24.html">24 September 1796</ref>.</p>
+            </div>
+
+            <div xml:id="Reading" rend="indented">
+                <head>Reading</head>
+                <p>Godwin was a voracious reader right up until he died. He noted in his unfinished
+                    autobiography that when he was a student at Hoxton Academy he would rise at 5am
+                    and read until midnight and the passion for reading never left him. Although the
+                    diary commences in <ref target="/diary/1788.html">1788</ref>, he does not record his daily reading until <ref target="/diary/1791.html">1791</ref> when
+                    the diary becomes more detailed. </p>
+                <p>There are various subcategories of reading. The overwhelming majority of entries
+                    may be found under ‘Texts Read’. Other entries can be found under ‘Cala’ which
+                    is when Godwin browses through a text ‘ça et la’; ‘Discussed’ where it appears
+                    that Godwin discusses a text with someone or reads a work aloud; ‘Texts
+                    Mentioned’ where Godwin refers to a text but is not reading it (e.g. borrowing a
+                    book); and ‘Letter Received’ where Godwin notes the receipt of correspondence
+                    (which he does not do consistently, since many extant letters do not correspond
+                    to an entry in the diary, and for many entries in the diary there is no extant
+                    letter).</p>
+                <p>The aim has been to identify the author (and where applicable translator/editor),
+                    full title, and first publication date for each item.  There has been no
+                    concerted attempt to identify the specific edition that Godwin read.  However,
+                    information from the sale catalogue of his library has been provided, as well as
+                    notations on his readings in the British Museum (now the British Library), which
+                    may serve scholars in tracing specific editions.  Occasionally, we have noted
+                    reprints and later editions available to Godwin, especially where his diary
+                    explicitly states that he is using a specific edition.</p>
+                <p>The annotations follow a specific sequence.  Each item reproduces the entry from
+                    Godwin’s diary, with the date of the entry.  In the annotation, the name of the
+                    author (and where applicable translator/editor) is given in boldface, with title
+                    in italics below author, and with publication date in roman after.  Comments
+                    stand below the bibliographical information.  Because there are many
+                    inconsistencies in how titles are recorded in our sources, we have followed the
+                    practice of capitalizing only the first word of title, subtitle, proper names,
+                    and personal titles such as ‘Earl’.  Spelling has not been modernized unless the
+                    source has modernized it.</p>
+                <p>Given Godwin’s cryptic entries, absolutely certain identification has not always
+                    been possible.  We have therefore in many cases supplied a brief comment to show
+                    the basis of confidence.  When we wished to draw attention to the issue of
+                    confidence, we have used the following indicator words: <list>
+                        <item>a. ‘probably,’ </item>
+                        <item>b. ‘possibly’ (often applied where several candidate identifications
+                            are equally possible),  </item>
+                        <item>c. ‘unable to identify with certainty’ (usually applied to the title
+                            by an identified author),</item>
+                        <item>d. and ‘unable to identify’ (applied to both author and title).
+                        </item>
+                    </list>
+                </p>
+                <p>The basis of confidence in an identification rests on one or more of the
+                    following:  Godwin’s own footnotes in published works (though these are
+                    sometimes cryptic), listing in his sale catalogue, identification by previous
+                    scholars, likelihood from the paucity of alternative candidates, previous
+                    mention in the diary, similar topics of works read within the same time period,
+                    and already read works by the same author.</p>
+                <p>It has not been possible to check the title pages of all the works Godwin read,
+                    especially in their first editions.  For some authors, we have consulted
+                    available scholarly editions that give publication dates and titles of first
+                    editions or single-author bibliographies.  In an initial search of many items,
+                    we have consulted the extensive listing in WorldCat, but since the recording of
+                    titles in this source is not always accurate or consistent, we have followed up
+                    by consulting listings in the English Short Title Catalogue (ESTC), the British
+                    Library Integrated Catalogue, the catalogue of the UCLA Libraries, and the
+                    catalogue of the Bibliothèque nationale de France.  We have also found valuable
+                    aid in identifying authors in the <emph>Oxford Dictionary of National Biography</emph>. A
+                    full list of the sources consulted may be seen in the bibliography.</p>
+            </div>
+
+            <div xml:id="Writing" rend="indented">
+		<head>Writing</head>
+                <p>Godwin wrote almost every morning. His rate of composition varied but he usually
+                    managed 2-5 pages per day. Users can view Godwin’s writing activities by date,
+                    by type of activity or with reference to the writing of particular texts. </p>
+                <p>The editors have distinguished Godwin’s different writing activities according to
+                    his own nomenclature so the user can see writing activity under ‘Transcribe’,
+                    Translate’, ‘Correct’ and so on. The editors have further incorporated indirect
+                    writing activities such as ‘Meditate on Writing’, ‘Notes Made’ and ‘Invent’ so
+                    that users can get a comprehensive view of Godwin’s writing process.</p>
+                <p>Searching by text allows the user to see all writing activities, direct and
+                    indirect, that have been assigned to a particular text, both published and
+                    unpublished, completed and incomplete.</p>
+                <p>When Godwin engages in two different activities on one text (for example, ‘Pol.
+                    Justice, 3pp; revise), they have been treated as two separate activities. When
+                    he records the completion of a text, it has been coded as a standard ‘write’
+                    entry. </p>
+            </div>
+
+
+            <div xml:id="Health" rend="indented">
+                <head>Health</head>
+                <p>Godwin kept fastidious diary records of his personal health problems, concerns,
+                    and moments of well-being. He maintained discretion when recording some of the
+                    more sensitive aspects of his health, generally referring to these issues in
+                    Latin or French. Godwin has been diagnosed, at various times, as suffering from
+                    haemorrhoids and constipation, and might have also had a form of rectal cancer
+                    (see St Clair). Another frequent issue is his ‘delerium’ or ‘deliquium’, which
+                    has been described by William St Clair as fits sometimes accompanied by
+                    vomiting. Latin and French words have been translated, and using context or
+                    various sources we have attempted to indicate what Godwin might have meant by
+                    some of the health phrases he utilised. Self-explanatory health issues such as
+                    ‘fever’ or ‘constipation’ have not been annotated, nor have conjectures been
+                    made about ambiguous or uncertain symptoms or treatments such as ‘syringe’ –
+                    noted on <ref target="/diary/1792-11-09.html">9</ref> and <ref target="1792-11-10">10 November, 1792</ref> – to cite one such example. When
+                    searching for health complaints, users should keep in mind that Godwin often used his own <emph>sui
+                    generis</emph> methods of spelling – for example, ‘headache’ is sometimes noted as
+                    ‘head ach’ or ‘head-ach’ and sometimes ailments have been abbreviated (such as
+                    ‘constip’ for constipation’).</p>
+            </div>
+
+
+            <div xml:id="Topics" rend="indented">
+                <head>Topics</head>
+                <p>Godwin occasionally recorded topics of conversation in his diary. It is unclear
+                    why he records some conversations and not others although one may presume that
+                    it was because he felt the conversation or the interlocutor was worthy of note.
+                    It is also true that he records the topics of conversations more frequently in
+                    the mid-1790s than either before or after.</p>
+            </div>
+
+
+
+            <div xml:id="Events" rend="indented">
+                <head>Events</head>
+                <p>Godwin goes to the theatre and concerts, attends lectures, notes trials and
+                    parliamentary and public events, registers personal events, keeps track of the
+                    weather and temperature, and visits libraries and gardens. Editorial notes
+                    identify these events in the diary and provide background information about
+                    them. In the open ‘Search’ editorial matter is kept distinct from the diary, but
+                    each may be searched. Place names are also recorded in the diary, and entries
+                    relating to visits and activity outside London are also noted.</p>
+
+            </div>
+
+
+            <div xml:id="Formatting" rend="indented">
+                <head>Formatting and Script</head>
+                <p>Most of the diary entries are written in Godwin’s fluent italic script in black
+                    pen. However, many public events are entered below the day’s entry and are
+                    written in red ink. Moreover, in a relatively small number of entries additions
+                    have been made in pencil. Also, there are a number of cases where Godwin seems
+                    to be adding names to a meeting after the initial diary entry, resulting in
+                    names appearing in the side margins. Finally, Godwin occasionally enters dates
+                    wrongly and does not always retroactively correct them; and sometimes it looks
+                    as if he is compiling the diary from sets of notes, which leads him to make
+                    transcription mistakes, which he then rectifies by crossings out. In each case,
+                    we have tried to signal in the transcript that there is something distinctive
+                    about the entry, so as to encourage readers to check the transcribed entry
+                    against the scan of the manuscript.</p>
+
+            </div>
+
+            <div xml:id="ShortTitles" rend="indented">
+                <head>Short Titles</head>
+                <p>The editors have had frequent and grateful recourse to the work of Godwin
+                    biographers Don Locke, Peter Marshall, and William St Clair. They are referred
+                    to in brief by surname in the editorial matter; full information is available in
+                    the <ref target="/project-bibl.html">bibliography</ref>.</p>
+
+            </div>
+
+
+
+        </body>
+    </text>
+</TEI>

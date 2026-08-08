@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Citation</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Published by the William Godwin's Diary project, University of Oxford</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>William Godwin's Diary</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div rend="indented">
+                <p>The material (text, images, editorial materials, underlying scripts, etc.)  on the website is licensed under a Creative Commons
+                    Attribution Non-Commerical license. This means that you are free to make use of
+                    the material in non-commercial ways without asking, however, you must cite the
+                    project as the source of the material. </p>
+                <p>Please cite the website as follows:</p>
+                <p rend="boxedShaded">
+                    <hi rend="italic">The Diary of William Godwin</hi>, (eds) Victoria Myers, David
+                    O'Shaughnessy, and Mark Philp (Oxford: Oxford Digital Library, 2010). <ref
+                        target="http://godwindiary.bodleian.ox.ac.uk/"
+                        >http://godwindiary.bodleian.ox.ac.uk</ref>. </p>
+                <p>Entries in the diary should be cited by date (for example, 21 January 1809);
+                    editorial matter should be cited under the appropriate heading For editorial
+                    matter on people cite, for example, 'entry for Thomas Holcroft'. For editorial
+                    matter on events cite nature of the event and date, for example, ‘entry for
+                    theatre/trial/museum/etc. 21 January 1809’.</p>
+                <p>If you make substantial use of the materials in any form we would appreciate hearing
+                    about it at <ref target="mailto:godwin.diary@politics.ox.ac.uk"
+                        >godwin.diary@politics.ox.ac.uk</ref>.</p>
+		<p>If referring to the technological development of the website then James Cummings was the developer.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

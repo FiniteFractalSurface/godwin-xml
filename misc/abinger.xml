@@ -1,0 +1,33 @@
+<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Abinger Collection</title>
+                <principal>Mark Philp</principal>
+                <funder>Leverhulme Foundation and the John Fell OUP Research Fund</funder>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Published by the William Godwin Diary Project, University of Oxford</authority>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born Digital</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2010-09-09">
+                <persName>Dr James Cummings</persName> created this file.</change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+
+<p rend="indented">The Bodleian Library's <ref target="http://www.bodley.ox.ac.uk/dept/scwmss/wmss/online/1500-1900/abinger/abinger.html">Abinger Collection</ref> constitutes a major source for British literary and intellectual history during the late eighteenth and nineteenth centuries. They comprise a fully catalogued mass of papers of the Godwin-Shelley family and circles - 107 notebooks containing 4,651 paper leaves, and a further 8,646 loose leaves of varying sizes (total 13,297 leaves; almost 27,000 pages).</p>
+
+<p rend="indented">The collection contains three key pieces: the diary of William Godwin, 1788-1836; the autograph draft of Mary Shelley's <hi rend="italic">Frankenstein</hi> with corrections by P.B. Shelley, and the surviving portions of the fair copy, 1816-17; and, the joint journal of P.B. and Mary Shelley in five volumes, 1814-41.</p>
+
+<p rend="indented">The collection was on loan to the Bodleian Library from 1974 to 2004, when the library was finally able to purchase the <ref target="http://www.bodley.ox.ac.uk/dept/scwmss/wmss/online/1500-1900/abinger/abinger.html">Abinger Collection</ref> outright for £3.85m, due to the generosity of the National Heritage Memorial Fund, the Carl and Lily Pforzheimer Foundation, and other institutional and individual donors.</p> 
+        </body>
+    </text>
+</TEI>

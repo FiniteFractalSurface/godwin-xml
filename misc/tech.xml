@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Technical Documentation</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Published by the William Godwin's Diary project, University of Oxford</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>William Godwin's Diary</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+
+		<div rend="indented"><head>Encoding</head>
+
+			<p>The William Godwin Diary project transcribed and encoded using the guidelines of the Text Encoding Initiative (TEI), an XML mark-up standard specifically geared for the representation of texts in digital format. The project used a customised schema conforming to the TEI P5 Guidelines to validate its TEI P5 XML markup that it uses for the diary and people files, and canonicalised this back to pure TEI P5 XML on publication. The encoding not only classifies diary days and the structure of the diary, but marks interpretative spans such as people's names, meetings, meals, events, literary activities, etc.  Those wishing to see the underlying XML markup of the diary files are able to do so by clicking the XML tag on each page of transcribed text. The <ref target="/godwindiary.zip">underlying XML diary files</ref> are also available for download in a zip file for those interested.  
+
+				There are also some basic <ref target="/stats.html">statistics</ref> available. 
+ The overall design was intended to be fairly circular in navigation. You can browse a list of people, go to an individual's page, 
+from that go to a diary entry, from that go to information about a meeting or event, which might take you to another diary page, which you might change to looking at a particular year/month/day, and from that the images which you might download or browse through and from there 
+go to a different diary entry for that page. The ability to follow almost any link at any place and thus wander through the resource at 
+any point in any direction is entirely intentional.
+			</p>
+	</div>
+
+	<div rend="indented">
+	<head>
+		Website
+	</head>
+  <p>
+    The current 2025 reconstructed version of the website uses a number of technologies, the most esssential of which is perhaps BaseX – a XML database management system and XQuery processor. All content pages are written in XML and stored in a native XML database (BaseX). They are then transformed into HTML by custom XSLT stylesheets using BaseX's xslt:transform function and served. The web application itself is built using BaseX's RESTXQ API. Access to the project's GitHub repository is available <ref target="https://github.com/FiniteFractalSurface/gdiary">here</ref>.
+  </p>
+	<!-- <p>The website uses a number of technologies.  Although all pages are originally XML, they are transformed to HTML by custom XSLT stylesheets using Apache’s Cocoon.  The XML files are stored in an eXist native XML database and queried using XQuery. There is an XQuery-based proto-API to allow machine-processable access to a large number of functions. (So for example, getting any individual's record, or based on their ID the full form of their name, or retrieving any chunk of the diary or related bit of information.) However, this proto-API has not yet been documented and details have only been released to projects when they've requested it.
+  </p> -->  <!-- This applies to the original project, not the reconstruction-->
+
+	<p>Certain aspects will not function as expected without Javascript.  The decision was made than any modern browser should 
+have javascript enable to get the most out of the site. That said, the text is readable, images downloadable, and dataTables fall back to normal 
+HTML tables if javascript is turned off. The various tables of people, events, reading, writing, etc. are viewable as HTML tables but once loaded use a JQuery library called DataTables to allow easy paging and filtering of the table data.  On pages about individual people there is a bar graph charting the number of appearances of that individual in the diary which uses another JQuery plug-in called Flot.  From any individual person page you can get to a meals and meetings browser which uses Simile Exhibit to provide a faceted browsing (as a table or timeline) of the instances of meals or meetings with a particular individual.  None of these alternative methods of viewing the data will function if javascript is turned off, and may also have problems in some non-standards-compliant web browsers.  Generally, at time of writing, we recommend Firefox or Google Chrome web browsers as more standards compliant, however, every attempt has been made to make the site function in all modern web browsers, including mobiles.</p>
+</div>
+<div rend="indented" xml:id="cookies"><head>Cookies and Privacy</head>
+	<p>This site makes very minor use of web browser cookies in three aspects. Firstly to maintain any filtering or setting changes done on particular output tables (using the dataTables jQuery plugin). 
+ The second is on the pages showing high resolutions scans of William Godwin's diary. These use the Google Maps API to provide the tiled panning and zooming of the images and use of this requires some basic cookies.
+The final use of cookies is from use of Google Analytics to analyse web traffic.  This is used to record basic anonymised information about pages loaded for statistical reporting purposes. The William Godwin Diary project takes your privacy seriously and does not collect any specific personal information except that which is needed for use of the site or statistical review of general user behaviour.
+If you object to the use of these cookies, please disable cookies in your browser.  </p>
+</div>
+<!--<div rend="indented">
+	<head>Ongoing Technical Development</head>
+	<p>Although the site is now open for public use, there are some technical refinements deemed as not being barriers to release which are still to be made.  Generally these have arisen from the feedback during the website’s beta launch period.  These will be made as time allows and this technical documentation will also be expanded.</p>
+</div> -->
+            
+            
+        </body>
+        </text>
+</TEI>

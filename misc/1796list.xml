@@ -1,0 +1,50 @@
+<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>1796 List</title>
+                <principal>Mark Philp</principal>
+                <funder>Leverhulme Foundation and the John Fell OUP Research Fund</funder>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Published by the William Godwin Diary Project, University of
+                Oxford</authority>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born Digital</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change>
+                <date when="2010-11-11"/>
+                <persName>Dr James Cummings</persName> created this file.</change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+            <div>
+                <p> The 1796 list is a series of names and dates that Godwin inserted into the last
+                    few pages of his diary notebook for <ref target="/diary/1795-02.html">February 1795</ref>-<ref target="/diary/1796-09.html">September 1796</ref>. He compiled
+                    the list – probably in <ref target="/diary/1805.html">1805</ref> – to map the growth and range of his acquaintance
+                    over the years 1773-1805. In some cases the names are underlined, probably an
+                    indication that the relationship was one Godwin considered particularly
+                    important.</p> 
+                <p>One of the pages is of particular interest (fol. 45v. below) as Godwin selects
+                    twenty-five names from his main chronological list and puts them in order of
+                    when he made their acquaintance. It seems probable that Godwin here lists those
+                    twenty-five people he considered most significant to his life and is interested
+                    in thinking about either the longevity of those relationships or how the
+                    sequence of meeting matters or both. ‘Significant’ here has a deliberate (and
+                    inescapable) ambiguity as the list excludes, for example, Mary Wollstonecraft.
+                    Other names have then been added in the margins, which suggests that Godwin
+                    revisited this list subsequently to note other important relationships. The list
+                    appears after the entry for <ref target="/diary/1796-09-24.html">24 September 1796</ref>. </p>
+            </div>
+
+            <divGen type="list1796"/>
+
+        </body>
+    </text>
+</TEI>

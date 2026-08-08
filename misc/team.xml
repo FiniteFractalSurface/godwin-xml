@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Editorial team and acknowledgements</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Published by the William Godwin's Diary project, University of Oxford</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>William Godwin's Diary</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div rend="indented">
+                <p>The digitizing and editorial work on the project was funded by a Leverhulme Trust Major
+                    Research Grant (2007-2010), with additional funding from the John Fell Fund at the
+                    University of Oxford and from Pepperdine University, California. The British Academy
+                    generously funded an international conference in Oxford on the project in July 2010. The
+                    project team are grateful to the Bodleian Library for supporting the scanning of the
+                    images.</p>
+                <p>The project has been directed by David O’Shaughnessy and Mark Philp in the Department of
+                    Politics and International Relations at the University of Oxford, and by Victoria Myers
+                    in Pepperdine University, California. The website was designed and implemented by the 
+                    project’s technical support officer, James Cummings at the 
+		    Oxford University Computing Services at the University of Oxford. </p>
+                <p>The project’s two research students were Kathryn Barush (Wadham College, Oxford) and
+                    James Grande (Linacre College, Oxford). </p>
+                <p>In addition, supplementary research work has been undertaken in Oxford by David Fallon
+                    (St Anne’s College, Oxford), Hannah Simpson (St Hilda’s College, Oxford), Hannah Philp
+                    (Cheney School, Oxford), Ruth Turvey (University College London), and in California by
+                    Laura Kalinkewicz, Brent Russo and Vinnie Oliveri (Pepperdine University). The project 
+                    is also deeply grateful to Edward Pope for his extensive contributions to the website 
+                    drawing on his work on the Abinger Collection, the National Archive, and a wide range of 
+                    archival and genealogical resources.  </p>
+                <p>Richard Ovenden, Bruce Barker-Benfield, and Wilma Minty of the Bodleian Library, and Pat
+                    Boreham, Genevieve Garrido, Kate Candy and Esther Byrom at the Department of Politics,
+                    Jim Richardson at the Manor Road Building, have worked closely with the team throughout
+                    the course of the project. Alfred Andrew Fote also provided technical support in
+                    California. Pamela Clemit, who has been working in parallel on an edition of Godwin’s
+                    letters to be published by Oxford University Press, generously shared her time and
+                    expertise. Beth Lau played a critical role in initiating and directing the transcription
+                    of the diary before this project began. The staff at UCLA’s Special Collections Library,
+                    Law Library, and the Young Research Library, and those at the Henry E. Huntington
+                    Library in California, provided invaluable support.</p>
+                <p>Members of the project’s Advisory Board and participants at its <ref target="http://godwindiary.politics.ox.ac.uk/conference/">conference</ref> (Oxford, July
+                    2010) have also contributed widely to the editorial work of the project. We would
+                    especially like to thank: </p>
+                <p>Robert Anderson, Judith Barbour, John Barrell, Gail Bederman, Stephen Burley, Lionel
+                    Burman, Julie A. Carlson, Linda Clark, Nora Crook, Catherine Delafield, Martin
+                    Fitzpatrick, Amy Garnai, Kevin Gilmartin, Katherine Gleadle, Robert Godwin, Christopher
+                    Goulding, Isobel Grundy, John Halstead, Gary Handwerk, Maurice Hindle, Neil Hitchen, Joanna Innes, John
+                    Issitt, Elizabeth Kraft, Robert Maniquis, Jon Mee, Tilottama Rajan, Glynis Ridley,
+                    Sharon Ruston, Michael Scrivener, Tom Snjiders, William St Clair, and Tim Whelan. </p>
+                
+            </div>
+            
+        </body>
+    </text>
+</TEI>
