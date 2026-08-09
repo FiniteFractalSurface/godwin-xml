@@ -488,7 +488,7 @@
               >Tacitus, c. 90</ref>. <ref type="dEntertainment" subtype="Museo"
               target="/events/mu0001.html"><placeName>Museum</placeName>; <ref type="dText"
                 subtype="read" target="/bibl/te2979.html">Lilburne</ref></ref>: <seg type="dMeeting"
-              subtype="CG"><persName>mrs Napier</persName> calls</seg>. <ref type="dEvent"
+                  subtype="CG"><persName ref="/people/NAP04.html">mrs Napier</persName> calls</seg>. <ref type="dEvent"
               subtype="Temp">39</ref></ab>
           <ab type="dDay" xml:id="g1827-02-21"><date when="1827-02-21">21. W.</date><ref
               type="dWrote" subtype="revised" target="/works/comm01.html">Commonwealth,
@@ -667,7 +667,7 @@
                 ><placeName>State Paper Office</placeName></ref>. <ref type="dEntertainment"
               subtype="Theat" target="/plays/wife02.html"><placeName type="CG"/>Theatre, Wife’s
               Stratagem; <seg type="dMeeting" subtype="Adv">adv. <persName ref="/people/TAY01.html"
-                  >J Taylor</persName></seg></ref>. <seg type="dMeal" subtype="DG"><persName>M<hi
+                  >J Taylor</persName></seg></ref>. <seg type="dMeal" subtype="DG"><persName ref="/people/NAP04.html">M<hi
                   rend="sup">rs</hi> Napier</persName> dines</seg>.</ab>
           <ab type="dDay" xml:id="g1827-03-14"><date when="1827-03-14">14. W.</date><ref
               type="dWrote" subtype="revised" target="/works/comm01.html">Commonwealth,
@@ -856,7 +856,7 @@
               type="dWrote" subtype="revised" target="/works/comm01.html">Commonwealth,
             revise</ref>. <ref type="dText" subtype="read" target="/bibl/te3019.html">Tacitus, c.
               25</ref>: <ref type="dText" subtype="read" target="/bibl/te2959.html">Pecorone, p. 205
-              to 224</ref>. <seg type="dMeal" subtype="DG"><persName>M<hi rend="sup">rs</hi>
+                to 224</ref>. <seg type="dMeal" subtype="DG"><persName ref="/people/NAP04.html">M<hi rend="sup">rs</hi>
                 Napier</persName> dines</seg>.</ab>
           <pb n="e.222_0021v"/>
           <ab type="dDay" xml:id="g1827-04-09"><date when="1827-04-09">9. M.</date><ref

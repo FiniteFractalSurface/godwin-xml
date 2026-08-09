@@ -1759,7 +1759,7 @@
                             type="dMeeting" subtype="C"><persName ref="/people/PLA02.html"
                                 type="nah"><placeName type="venue">Place</placeName></persName><hi
                                 rend="sup">n</hi></seg>, <emph rend="deleted">&amp;</emph><seg
-                            type="dMeeting" subtype="C"><persName><placeName type="venue"
+                                    type="dMeeting" subtype="C"><persName ref="/people/ETO01.html"><placeName type="venue"
                                     >Eton</placeName></persName></seg>, <emph rend="deleted">&amp;
                             </emph><seg type="dMeeting" subtype="C"><persName
                                 ref="/people/ELW01.html" type="nah"><placeName type="venue">S
@@ -1810,7 +1810,7 @@
                                 <persName>Masquerier</persName>, <persName ref="/people/CLA01.html"
                                 >M J</persName>, <persName ref="/people/IML01.html">F</persName>
                                 &amp; <persName ref="/people/MER07.html">E Mercier</persName></seg>. <seg type="dMeeting"
-                            subtype="CG"><persName type="nah">Eton</persName> calls <hi rend="sup"
+                                    subtype="CG"><persName ref="/people/ETO01.html" type="nah">Eton</persName> calls <hi rend="sup"
                                 >n</hi></seg>.</ab>
                     <ab type="dDay" xml:id="g1812-06-15"><date when="1812-06-15">15. M. </date><ref
                             type="dText" subtype="cala" target="/bibl/te1458.html">Montaigne,
@@ -1835,7 +1835,7 @@
                             type="dText" subtype="read" target="/bibl/te1679.html">Gondibert, C.
                             I</ref>. <ref type="dWrote" subtype="letter">Write to <persName
                                 ref="/people/SHE01.html">Shelley</persName></ref>. <seg
-                            type="dMeeting" subtype="CG"><persName>Eton</persName></seg> &amp; <seg
+                                    type="dMeeting" subtype="CG"><persName ref="/people/ETO01.html">Eton</persName></seg> &amp; <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/MAC04.html"
                                 >Macmillan</persName> call</seg>: <seg type="dMeeting" subtype="C"
                             >call on <persName><placeName type="venue">Walker,

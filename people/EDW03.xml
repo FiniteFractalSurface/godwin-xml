@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="EDW03" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>James</forename>
+                        <surname>Edwards</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1756">
+                        <placeName/>
+                    </birth>
+                    <death when="1816"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's nore: James Edwards DNB 1756-1816 son of William Edwards
+                            DNB 1723-1808 was a good friend of Joseph Johnson (see A Liberal
+                            Publisher p 160, 170) made an affidavit on Johnson's behalf at his trial
+                            in 1799 (Nat Arch KB1/30) and wrote to William Roscoe about Johnson's
+                            health after his imprisonment. According to the DNB he married in 1805
+                            so the Edwards jr on 20.3.1798 is likely to have been a younger brother,
+                            probably Richard Edwards bookseller of Old Bond Street 1768-1827 or less
+                            likely Thomas Edwards 1762-1834 who was in business in Halifax. Two
+                            other brothers William and John had died in 1786 and 1791, so the W
+                            Edwards on 17.6.1801 may well have been his father who started the
+                            business in Pall Mall in 1784 but chiefly remained in Halifax. I have
+                            included the Edwards at Davis's because Davis was a printer and the
+                            Edwards at Amelia Alderson's because Fuseli was there and he was almost
+                            always at Joseph Johnson's, and the 1803 and 1805 entries because they
+                            seem probable. James Edwards retired in 1804 and Godwin no longer saw
+                            him at Johnson's dinners. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

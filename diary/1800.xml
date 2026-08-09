@@ -432,7 +432,7 @@
                <ab type="dDay" xml:id="g1800-02-04"><date when="1800-02-04">4. Tu.</date><ref
                      type="dText" subtype="read" target="/bibl/te0412.html">Theodore</ref>: <ref
                      type="dText" subtype="read" target="/bibl/te0884.html">Gibbon, p. 142</ref>.
-                     <seg type="dMeeting" subtype="M">Meet <persName>Sturt</persName></seg> &amp;
+                  <seg type="dMeeting" subtype="M">Meet <persName ref="/people/STU06.html">Sturt</persName></seg> &amp;
                      <seg type="dMeeting" subtype="M"><persName ref="/people/HOA01.html"
                         >Hoare</persName></seg>: <seg type="dMeal" subtype="S">sup at <persName
                         ref="/people/ELW01.html"><placeName type="venue">S
@@ -1840,7 +1840,7 @@
                      subtype="D">dine at <persName ref="/people/KIN01.html"><placeName type="venue"
                            >King's</placeName></persName>, w. <persName>col. Thornton</persName>,
                         <persName ref="/people/WOL02.html">Wolcot</persName>, <persName
-                        ref="/people/DAN01.html">Danvers</persName>, <persName>E Sturt</persName>,
+                           ref="/people/DAN01.html">Danvers</persName>, <persName ref="/people/STU05.html">E Sturt</persName>,
                         <persName>Massygar</persName>, <persName>Bernard</persName>,
                         <persName>Lovel</persName>, <persName>Hubbard</persName> &amp; <persName
                         ref="/people/AGA01.html">Agar</persName>; w. <persName
@@ -4063,7 +4063,7 @@
                <ab type="dDay" xml:id="g1800-12-09"><date when="1800-12-09">9. Tu.</date><ref
                      type="dText" subtype="read" target="/bibl/te1163.html">Gowrie, acts 1, 2,
                      3</ref>: <ref type="dText" subtype="read" target="/bibl/te1164.html">Coxcomb,
-                     act 1 &amp; 2</ref>. <seg type="dMeeting" subtype="C">Meet <persName><placeName
+                        act 1 &amp; 2</ref>. <seg type="dMeeting" subtype="C">Meet <persName ref="/people/STU06.html"><placeName
                            type="venue">Sturt</placeName></persName></seg>, <seg type="dMeeting"
                      subtype="C"><persName ref="/people/TIE01.html"><placeName type="venue"
                            >Tierney</placeName></persName></seg>, <seg type="dMeeting" subtype="C"

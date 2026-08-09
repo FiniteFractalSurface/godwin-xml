@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="EDW02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Thomas</forename>
+                        <surname>Edwards</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1759">
+                        <placeName/>
+                    </birth>
+                    <death when="1842"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's note: Submitted by edpope on Mon, 13/08/2012 - 20:19
+                            27.2.1795 at Frend's. Supposed by Ben Ross Schneider, "Wordsworth's
+                            Cambridge Education", and Kenneth Johnston "The Hidden Wordsworth" to be
+                            Thomas Edwards DNB 1759-1842, son of Rev Thomas Edwards PCC 1785, which
+                            is likely; but various writers have confused him with Rev John Edwards
+                            of Birmingham and stated that he helped Coleridge with the Watchman in
+                            1796; and the DNB, following Alum Cantab, confuses him with another
+                            Thomas Edwards (Alum Ox) who was vicar of Aldford Cheshire for many
+                            years and died 1842. He was curate of Swavesey, Cambs and The Bury and
+                            Norwich Post of 5.4.1820 records his death at Huntingdon on his way to
+                            Leamington Spa. In 1796 he sold his library. He was also featured in
+                            Literary Memoirs of Living Authors p173. If this entry was him there is
+                            no reason to think he was any of the other Edwards entries in Godwin's
+                            diary </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

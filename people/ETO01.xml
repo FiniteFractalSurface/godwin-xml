@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="ETO01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>William</forename>
+                        <surname>Eton</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1758">
+                        <placeName/>
+                    </birth>
+                    <death when="1814"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope:William Eton born 17.10.1758 bapt 6.11.1758 St James
+                            Piccadilly son of William and Sarah / Wm E jr Kew subscr 1787 to
+                            Richardson's Treatise on 5 orders of Architecture / consul at Bassora
+                            later at Malta, lived in Turkey and Russia, book published 1798 A Survey
+                            of the Turkish Empire / 27.3.1811 married Eleanor Pankhurst at St James
+                            Piccadilly / will PCC 1814 Wolves Newton Monmouthshire son Edward Wm,
+                            nephews Charles and Wm Roger sons of late brother Edward. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

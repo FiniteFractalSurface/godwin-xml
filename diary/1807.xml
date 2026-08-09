@@ -66,7 +66,7 @@
                     <ab type="dDay" xml:id="g1807-01-04"><date when="1807-01-04">Jan. 4.
                             Su.</date><seg type="dMeal" subtype="D">Dine at <persName
                                 ref="/people/KIN01.html"><placeName type="venue"
-                                >King’s</placeName></persName>, w. <persName>mrs &amp; miss
+                                    >King’s</placeName></persName>, w. <persName ref="/people/STU05.html">mrs &amp; miss
                                 Sturt</persName>, <persName ref="/people/DAN01.html"
                                 >Danvers’s</persName>, <persName>Best</persName>, <persName
                                 ref="/people/PLO01.html">Plowden</persName> &amp;
@@ -123,7 +123,7 @@
                             type="dMeal" subtype="D">dine at <persName ref="/people/KIN01.html"
                                     ><placeName type="venue">King’s</placeName></persName>, w.
                                 <persName ref="/people/WOL02.html">Wolcot</persName>,
-                                <persName>Sturts</persName>, <persName ref="/people/DAN01.html"
+                                        <persName ref="/people/STU05.html">Sturts</persName>, <persName ref="/people/DAN01.html"
                                 >Danverses</persName>, <persName>Best</persName> &amp;
                                 <persName>Williams</persName></seg>.</ab>
                     <pb n="e.208_0038v"/>
@@ -216,7 +216,7 @@
                             Su.</date><ref type="dText" subtype="read" target="/bibl/te1635.html"
                             >Piccolomini, act 2</ref>. <seg type="dMeal" subtype="D">Dine at
                                 <persName ref="/people/KIN01.html"><placeName type="venue"
-                                    >King’s</placeName></persName>, w. <persName>2
+                                        >King’s</placeName></persName>, w. <persName ref="/people/STU05.html">2
                             Sturts</persName>, <persName ref="/people/DAN01.html"
                                 >Danvers’s</persName>, <persName ref="/people/WOL02.html"
                                 >Wolcot</persName>, <persName>Williams</persName> &amp;
@@ -1847,7 +1847,7 @@
                                     <persName ref="/people/TOP01|TOP03.html"
                                 >Toppings</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1807-07-06"><date when="1807-07-06">6. M.</date><seg
-                            type="dMeal" subtype="DG"><persName>M<hi rend="sup">rs</hi>
+                            type="dMeal" subtype="DG"><persName ref="/people/NAP04.html">M<hi rend="sup">rs</hi>
                                 Napier</persName> dines; <seg type="dMeeting" subtype="Adv">adv.
                                     <persName ref="/people/TUR01.html">T T
                                     </persName>(<persName>Shepherd of Liverpool</persName>, &amp;

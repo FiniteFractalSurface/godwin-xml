@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="NAP04" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>NAME</forename>
+                        <surname>Napier family</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's analysis: The will of John Napper of Tintinhull Somerset
+                            dated 18.4.1791 proved 26.8.1791 by widow Mary, mentioned his children
+                            John, Andrew Nathaniel, Charles George and Vernon. The spellings Napper
+                            and Napier seem to have been alternatives. The name Vernon Napier which
+                            Godwin used on 8.9.1809 was the clue here, but it is confirmed by the
+                            six appearances of Miss Walsh with the Napiers, John Napper's wife was
+                            Mary daughter of Captain Philip Walsh RN whose will PCC 1789 provided
+                            for his three youngest daughters, Phillis, Katherine and Margaret. The
+                            four Napier brothers were John Philip born 1782 who died 1830 Bombay
+                            Major of a battalion of Native Invalids, Andrew Nathaniel born 1785 Lt
+                            RN 1807 who served on the Prince of Wales 1809 and died in Guernsey
+                            1821, Charles George born 1787 Major Royal Artillery who died 1846, and
+                            Vernon born 1789 who died 27.5.1817 at the house of his brother Charles
+                            at Brooke Hill, Woolwich, The mother and three of the sons account for
+                            the initials M, J, C and V, and the E was probably Miss Eleanor Napier
+                            who received a legacy in the will 1808 of Elizabeth Burt (see Burt,
+                            Miss) and was presumably a sister or daughter of John Napper died 1791,
+                            though not mentioned in his will. According to an Ancestry
+                            user-submitted tree John Napper's mother was called Eleanor (she d.1782)
+                            and he had a sister Eleanor born 1757 and died 1779. Which still leaves
+                            an S who may have been a wife of one of the brothers. According to the
+                            Ancestry user-submitted tree, Charles Napier's first wife (but see
+                            comment below) was Sarah Ann dau of C Lewin. His second wife whom he
+                            married on 31.7.1809 at the Cape of Good Hope where he was Chaplain to
+                            HM Forces Royal Artillery and aide de camp to the Governor (Earl of
+                            Caledon) was Maria van Ryneveld. The autograph of Mary Wollstonecraft's
+                            which G N initialled as received from Mr Godwin on 10.3.1803 (Shelley and
+                            his Circle SC 19, in Abinger?) adds a further initial which might have
+                            been Charles George but seems more likely to have been a misreading or
+                            an alternative name for E Napier, given that Godwin recorded E Napier
+                            dining that day. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

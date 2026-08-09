@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="STU05" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>E</forename>
+                        <surname>Sturt</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's noptes: Because E Sturt appeared on Godwin's 1796 list
+                            after Pienne who first appeared in the diary on 8.10.1798, maybe the
+                            miss Sturt of the first two entries above, and perhaps the next two, was
+                            a sister of Eliza Sturt (she had two older sisters Diana who was married
+                            to Sir William Milner, and Mary, and a younger sister Amelia), or
+                            perhaps they were all Eliza Sturt and Godwin failed to notice the fist
+                            two entries when compiling his 1796 list. Eliza (Bizarre her middle name
+                            according to Burke's Peerage) Sturt was the daughter of Humphrey and
+                            Mary Sturt and became the mistress of Augustus Butler Danvers and
+                            married him after his first wife died. The mrs and miss Sturt of 1807 and
+                            the Sturts and 2 Sturts of the last two entries must have been Mary
+                            Sturt her mother and one of her sisters, as by then Eliza had become mrs
+                            Danvers on 24.5.1802. The meeting on 12.6.1802 was presumably with Eliza
+                            Butler Danvers and her sister in law Sophia Mariscotti. On 1.8.1794 the
+                            newspaper gossip columns foretold the marriage of Eliza Sturt to Lord
+                            Barrymore. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

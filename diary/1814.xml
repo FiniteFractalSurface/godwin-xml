@@ -1809,7 +1809,7 @@
                             type="dMeal" subtype="S">Sup at <persName ref="/people/LAM01|LAM02.html"
                                     ><placeName type="venue">Lb’s</placeName></persName>, w.
                                 <persName ref="/people/CLA01.html">M J</persName></seg>. <seg
-                            type="dMeeting" subtype="CG"><persName>E Napier</persName>
+                                    type="dMeeting" subtype="CG"><persName ref="/people/NAP04.html">E Napier</persName>
                         calls</seg>.</ab>
                     <ab type="dDay" xml:id="g1814-05-24"><date when="1814-05-24">24. Tu. </date><ref
                             type="dText" subtype="read" target="/bibl/te2203.html">Roman

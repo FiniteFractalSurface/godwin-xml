@@ -271,7 +271,7 @@
                                     >Johnson's</placeName></persName>, w. <persName
                                 ref="/people/FUS01.html">Fuseli</persName>,
                                 <persName>Seward</persName>, <persName>Simmons</persName>,
-                                <persName>Edwards</persName>, <persName>Newnum</persName> &amp;
+                                    <persName ref="/people/EDW03.html">Edwards</persName>, <persName>Newnum</persName> &amp;
                                 <persName ref="/people/OPI01.html">Opie</persName></seg>: <seg
                             type="dMeal" subtype="SG"><persName ref="/people/DYS01.html"
                                 >Dyson</persName> sups</seg>.</ab>
@@ -318,7 +318,7 @@
                             >Dyson</persName></seg>: <seg type="dMeal" subtype="D">dine at <persName
                                 ref="/people/TOO01.html"><placeName type="venue">H
                                     Tooke's</placeName></persName>, w. <persName>Arabins</persName>,
-                                <persName>Sturt</persName>, <persName ref="/people/BUR02.html"
+                                <persName ref="/people/STU06.html">Sturt</persName>, <persName ref="/people/BUR02.html"
                                 >Burdet</persName>, <persName ref="/people/FER01.html"
                                 >Fergusson</persName>, <persName ref="/people/FRE01.html"
                                 >Frend</persName>, <persName ref="/people/CLI01.html"
@@ -412,7 +412,7 @@
                                 >Ht</persName> call</seg>: <seg type="dMeal" subtype="D">dine at
                                 <persName ref="/people/KIN01.html"><placeName type="venue"
                                     >Kg's</placeName></persName>, w. <persName
-                                ref="/people/DAN01.html">Danvers</persName>, <persName>miss
+                                        ref="/people/DAN01.html">Danvers</persName>, <persName ref="/people/STU05.html">miss
                                 Sturt</persName>, <persName>Prince Joseph of Monaco</persName> &amp;
                                 <persName>Thomas</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1798-02-06"><date when="1798-02-06">6. Tu.</date><ref
@@ -670,7 +670,7 @@
                             subtype="S">sup at <persName ref="/people/NIC01.html"><placeName
                                     type="venue">Nicholson's</placeName></persName>, w. <persName
                                 ref="/people/COM01.html">Combe</persName></seg>: <seg
-                            type="dMeeting" subtype="M">meet <persName>Eton</persName></seg>.</ab>
+                                    type="dMeeting" subtype="M">meet <persName ref="/people/ETO01.html">Eton</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1798-02-27"><date when="1798-02-27">27. Tu.</date><ref
                             type="dText" subtype="read" target="/bibl/te0488.html">Clarissa, p.
                             274</ref>. <seg type="dMeal" subtype="D">Dine at <persName
@@ -937,7 +937,7 @@
                                     <persName>D<hi rend="sup">r</hi> Hunter</persName>,
                                 <persName>Holloway</persName>, <persName ref="/people/FUS01.html"
                                 >Fuseli</persName>, <persName>Simmons</persName>, <persName
-                                ref="/people/HEW01.html">Hewlet</persName>, <persName>Edwards
+                                    ref="/people/HEW01.html">Hewlet</persName>, <persName ref="/people/EDW03.html">Edwards
                                 junr</persName>, &amp; <persName ref="/people/JEN01.html"
                                 >Jennings</persName></seg>: <seg type="dMeeting" subtype="C">call on
                                 <persName ref="/people/MON01.html"><placeName type="venue"
@@ -1422,7 +1422,7 @@
                             type="dMeal" subtype="D">Dine at <persName ref="/people/KIN01.html"
                                     ><placeName type="venue">King's</placeName></persName>, w.
                                 <persName ref="/people/DAN01.html">Danvers</persName>,
-                                <persName>miss Sturt</persName>, <persName>Kendillon</persName>
+                                <persName ref="/people/STU05.html">miss Sturt</persName>, <persName>Kendillon</persName>
                             &amp; <persName>Stevenson</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1798-04-27"><date when="1798-04-27">27. F.</date><ref
                             type="dText" subtype="read" target="/bibl/te0671.html">Ovid, Lib. X,
@@ -3396,7 +3396,7 @@
                                 >King's</placeName></persName>, w. <persName><foreign>la duchesse de
                                     Pienne</foreign></persName>, <persName>Rogendorf</persName>,
                                 <persName ref="/people/ROG03.html">Rogers</persName>, <persName
-                                ref="/people/DAN01.html">Danvers</persName> &amp; <persName>miss
+                                    ref="/people/DAN01.html">Danvers</persName> &amp; <persName ref="/people/STU05.html">miss
                                 Sturt</persName></seg>: <seg type="dMeeting" subtype="M">meet
                                     <persName ref="/people/GAD01.html">Gadagne</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1798-10-09"><date when="1798-10-09">9. Tu.</date><ref
@@ -3461,7 +3461,7 @@
                                     ><placeName type="venue">King's</placeName></persName>, w.
                                 <persName>de Pienne</persName> &amp; <persName
                                 ref="/people/ROG03.html">Rogers</persName>; <seg type="dMeeting"
-                                subtype="Adv">adv. <persName>miss Sturt</persName></seg></seg>.</ab>
+                                    subtype="Adv">adv. <persName ref="/people/STU05.html">miss Sturt</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1798-10-16"><date when="1798-10-16">16. Tu.</date><ref
                             type="dText" subtype="read" target="/bibl/te0884.html">Gibbon, Vol. XII,
                             p. 56</ref>. <seg type="dMeal" subtype="D">Dine at <persName
@@ -3577,7 +3577,7 @@
                                 <persName ref="/people/KIN01.html"><placeName type="venue"
                                     >King's</placeName></persName>, w. <persName>Hardkus</persName>,
                                 <persName ref="/people/ROG03.html">Rogers</persName>, <persName
-                                ref="/people/DAN01.html">Danvers</persName> &amp; <persName>E
+                                    ref="/people/DAN01.html">Danvers</persName> &amp; <persName ref="/people/STU05.html">E
                                 Sturt</persName></seg>.</ab>
                     <pb n="e.204_0009r"/>
                     <ab type="dDay" xml:id="g1798-10-28"><date when="1798-10-28">Oct. 28.
@@ -3701,7 +3701,7 @@
                                     >King's</placeName></persName>, w. <persName>May</persName>,
                                 <persName ref="/people/ROG03.html">Rogers</persName>, <persName
                                 ref="/people/DAN01.html">Danvers</persName>,
-                                <persName>Stevenson</persName> &amp; <persName>E
+                                    <persName>Stevenson</persName> &amp; <persName ref="/people/STU05.html">E
                             Sturt</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1798-11-08"><date when="1798-11-08">8. Th.</date><ref
                             type="dWrote" subtype="write" target="/works/anto01.html">Alonzo, p.
@@ -4191,7 +4191,7 @@
                             type="dMeal" subtype="D">Dine at <persName ref="/people/KIN01.html"
                                     ><placeName type="venue">King's</placeName></persName>, w.
                                 <persName ref="/people/DAN01.html">Danvers</persName> &amp;
-                                <persName>E Sturt</persName>; <seg type="dMeeting" subtype="Adv"
+                                <persName ref="/people/STU05.html">E Sturt</persName>; <seg type="dMeeting" subtype="Adv"
                                 >adv. <persName ref="/people/DAV02.html"
                             >Davis</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1798-12-20"><date when="1798-12-20">20. Th.</date><ref

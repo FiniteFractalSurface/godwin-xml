@@ -286,7 +286,7 @@
                     <ab type="dDay" xml:id="g1805-01-20"><date when="1805-01-20">Jan. 20. Su.
                             </date><ref type="dWrote" subtype="write" target="/works/flee01.html"
                             >Fleetwood, p. 261</ref>. <seg type="dMeeting" subtype="C"
-                                    ><persName><placeName type="venue"
+                                ><persName ref="/people/NAP04.html"><placeName type="venue"
                             >Napier</placeName></persName></seg> &amp;<seg type="dMeeting"
                             subtype="C"><persName ref="/people/GOD09.html"><placeName type="venue">J
                                     J G</placeName></persName> call</seg>: <seg type="dMeal"
@@ -487,7 +487,7 @@
                             >Fleetwood, p. 281/2</ref>. <seg type="dMeeting" subtype="Cn"> Call on
                                 <persName ref="/people/BAL14.html"><placeName type="venue">Ball</placeName></persName>,
                             w. <persName ref="/people/WOR05.html">Wordsworth</persName></seg>: <seg
-                            type="dMeal" subtype="DG"><persName>S &amp; V Napier</persName>, &amp;
+                                type="dMeal" subtype="DG"><persName ref="/people/NAP04.html">S &amp; V Napier</persName>, &amp;
                                 <persName ref="/people/WOL03.html">Ja<hi rend="sup">s</hi>
                                 Wt</persName> dine;<seg type="dMeeting" subtype="Adv"> ad <persName
                                     ref="/people/WAK01.html">Wake</persName></seg></seg>: <seg
@@ -805,8 +805,8 @@
                                 <persName ref="/people/WOR05.html"><placeName type="venue"
                                     >Wordsworth</placeName></persName></seg>:<ref
                             type="dEntertainment" subtype="Theat" target="/plays/tanc01.html"
-                                ><placeName type="DL"/> theatre, Tancred; <seg type="dMeeting"
-                                subtype="Adv">adv. Edwards</seg></ref>.</ab>
+                                        ><placeName type="DL"/> theatre, Tancred; <persName ref="/people/EDW03.html"><seg type="dMeeting"
+                                subtype="Adv">adv. Edwards</seg></persName></ref>.</ab>
                     <pb n="e.207_0034v"/>
                     <ab type="dDay" xml:id="g1805-02-24"><date when="1805-02-24">Feb. 24.
                             Su.</date><ref type="dText" subtype="read" target="/bibl/te1543.html"

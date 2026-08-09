@@ -1036,7 +1036,7 @@
                                 ref="/people/CON01.html"><placeName type="venue"
                                     >Constable</placeName></persName>; <seg type="dMeeting"
                                 subtype="Adv">adv. <persName ref="/people/LES02.html"
-                                    >Leslie</persName>, <persName ref="/people/NAP01.html"
+                                    >Leslie</persName>, <persName ref="/people/NAP04.html"
                                     >Napier</persName>, <persName>Evanses</persName>, <persName
                                     ref="/people/CAD03.html">Cadel</persName></seg></seg>:
                             <placeName>Castle Hill, Writers’ Library</placeName>: <seg type="dMeal"
@@ -1703,7 +1703,7 @@
                                 ><persName ref="/people/TAY04.html">M<hi rend="sup">rs</hi>
                                 Taylor</persName> &amp; <persName ref="/people/TAY07.html"
                                 >Edw.</persName> call, ppc</seg>: <seg type="dMeeting" subtype="CG"
-                                    ><persName>M<hi rend="sup">rs</hi> Napier</persName></seg> &amp;
+                                    ><persName ref="/people/NAP04.html">M<hi rend="sup">rs</hi> Napier</persName></seg> &amp;
                             <seg type="dMeeting" subtype="CG"><persName ref="/people/BOO01.html"
                                 type="nah">Booth</persName><hi rend="sup">n</hi> call</seg>: <seg
                             type="dMeal" subtype="DG"><persName ref="/people/ELW01.html">S
@@ -3443,7 +3443,7 @@
                                     Cruttenden</placeName></persName></seg> &amp; <seg
                             type="dMeeting" subtype="C"><persName><placeName type="venue"
                                     >Glyn</placeName></persName></seg>: <seg type="dMeeting"
-                            subtype="CG"><persName>mrs Napier</persName> calls</seg>.</ab>
+                                        subtype="CG"><persName ref="/people/NAP04.html">mrs Napier</persName> calls</seg>.</ab>
                     <ab type="dDay" xml:id="g1816-12-21"><date when="1816-12-21">21. Sa.</date><ref
                             type="dWrote" subtype="write" target="/works/mand01.html">Mandeville, 1
                             page</ref>. <seg type="dMeeting" subtype="See"><persName
