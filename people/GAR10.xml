@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="GAR10" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Mrs</forename>
+                        <surname>Gardner</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Actress</occupation>
+                    <note type="editorial">
+                        <p>She appears in the 1796 list for 1799. Although the DNB has her fl.
+                            between 1763-1783, there is no reason to think that coming off the stage
+                            was the end of her. She is likely to have been born in 1746 to William
+                            and Sarah Cheny/Cheney (and was 17 on her marriage if the record for St
+                            Giles in the Fields for 4 October 1764 is correct (her mother testifying
+                            to her as a minor) and with her father deceased. We know that she had
+                            several children by William Gardener (m. 1763 possibly 1764), from whom
+                            she became estranged, and who predeceased her in 1790. Nothing was head from
+                            her after 1795, but she may well have met Godwin in 1799, and he may
+                            also have met her daughters in 1796 - and King was well-known as a place
+                            for those in debt (and that was something of which Mrs Gardner had considerable
+                            experience). If she is the Mrs Gardner of 1828, then she has reached
+                            a considerable age (82). And it may be her or a daughter in
+                            1831.</p><p>Given the uncertainties, we have coded only the mes Gardners
+                            of 1795, the Mrs Gardner of the 1796 list (for 1799), the corresponding
+                            plural Gardners of 1799 and 1800s, and the Mrs Gardner of 1828.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -5,8 +5,12 @@
             <titleStmt>
                 <title>Person List</title>
                 <respStmt>
-                    <resp>EP</resp>
-                    <name/>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name></name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -20,29 +24,31 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="GAR03" sex="1">
+                <person xml:id="GAR11" sex="1">
                     <persName>
                         <roleName/>
                         <forename>David</forename>
                         <surname>Gardner</surname>
                         <addName/>
                     </persName>
-                    <birth when="1750">
+                    <birth when="17501">
                         <placeName/>
                     </birth>
-                    <death when="1805"/>
-                    <occupation>Portrit artistN</occupation>
+                    <death when="11805"/>
+                    <occupation>Painter</occupation>
                     <note type="editorial">
-                        <p>Meeting with Northcote (1800) likely to be this Gardner. Other Gardners, esp Mrs Gardner, not so, since David Gardner's wife died young.  </p>
+                        <p>Ed Pope suggests: For Gardner at Northcote's consider David Gardner DNB 1750-1805 painter in crayons.</p>
                     </note>
                     <bibl type="MS"> </bibl>
-                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication, Publisher, year</bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
                     <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
                     <bibl type="other">
-                        <title>DNB, Farington Diary</title>
+                        <title></title>
                     </bibl>
                 </person>
             </listPerson>
         </body>
     </text>
 </TEI>
+

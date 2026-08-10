@@ -82,7 +82,7 @@
                         <persName>Derville</persName>, <persName ref="/people/ROG03.html"
                            >Rogers</persName>, <persName ref="/people/CON06.html">Consit</persName>, <persName><foreign>ami
                            de</foreign><persName ref="/people/PIT01.html">
-                        Pitt</persName></persName>, &amp; <persName>4 Gardners</persName>; <seg
+                              Pitt</persName></persName>, &amp; <persName ref="/people/GAR10.html">4 Gardners</persName>; <seg
                         type="dMeeting" subtype="Adv">adv. <persName ref="/people/GRA02.html"
                            >Granard</persName>, <persName>Tyson</persName>,
                            <persName>Pinkard</persName>, <persName ref="/people/DAV02.html">2
@@ -337,7 +337,7 @@
                         >Danvers</persName> &amp; <persName ref="/people/WAL12.html"
                         >Walstein</persName>: <seg type="dMeeting" subtype="Adv">adv. <persName
                            ref="/people/GRA02.html">Granard</persName>,
-                           <persName>Gardners</persName>, <persName>Tyson</persName>, <persName
+                           <persName ref="/people/GAR10.html">Gardners</persName>, <persName>Tyson</persName>, <persName
                            ref="/people/MOO01.html">Moore</persName>,
                            <persName>Pilkingtons</persName>, <persName>Campbels</persName>,
                            <persName ref="/people/DAV02.html">Davis's</persName>, <persName
@@ -494,7 +494,7 @@
                      subtype="D">dine at <persName ref="/people/KIN01.html"><placeName type="venue"
                            >King's</placeName></persName>, w. <persName ref="/people/DAN01.html"
                         >Danvers</persName>; <seg type="dMeeting" subtype="Adv">adv.
-                           <persName>Gardners</persName>, <persName>Tyson</persName>,
+                           <persName ref="/people/GAR10.html">Gardners</persName>, <persName>Tyson</persName>,
                            <persName>Penny</persName>, <persName>c<hi rend="sup">n</hi>
                            Gardner</persName>, <persName>Pilkingtons</persName>,
                            <persName>Derville</persName>, <persName  ref="/people/BOI05.html">Boisgelin</persName>, <persName
@@ -1547,7 +1547,7 @@
                         ref="/people/WAL07.html"><placeName type="venue">A
                         Walker</placeName></persName></seg>: <ref type="dEntertainment"
                      subtype="other"><placeName>Bedford House</placeName>; <seg type="dMeeting"
-                        subtype="Adv">adv. <persName>Gardners</persName>, <persName
+                        subtype="Adv">adv. <persName ref="/people/GAR10.html">Gardners</persName>, <persName
                            ref="/people/BAT01.html">Batty</persName>, <persName>Porter</persName>,
                            <persName>C King</persName>, <persName>Noble</persName> &amp;
                            <persName>miss Tooke</persName></seg></ref>: <seg type="dMeal"
