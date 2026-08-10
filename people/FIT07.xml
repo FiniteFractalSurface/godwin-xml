@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="FIT07" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>William</forename>
+                        <surname>Fitzgerald</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Ed Pope notes: ex PS may have referred to the Philomath Society which
+                            Godwin was a member of 1793-1796. William Thomas Fitzgerald DNB
+                            1759-1829 was not likely to have been a member, though his song The
+                            Sturdy Reformer (1792), while intended as satirical could have been
+                            taken as seditious. Although the DNB says he was entered as a member of
+                            the Inner Temple his name is not in their Admissions Database. He was
+                            presumably the William Fitzgerald of Grays Inn whose Ode to Captain Cook
+                            was published in 1780. More likely as a Philomath Society member was
+                            William Fitzgerald (QV* in Society for Constitutional Information
+                            dataset). </p><p>In that database Ed Pope notes: William Fitzgerald,
+                            eldest son of Charles Fitzgerald of Ballyroan, Queens Co, Ireland who
+                            was admitted at the Middle Temple 10.8.1780. World 31.1.1791 William
+                            Fitzgerald Esq of Pump Ct, Middle Temple, on committee of Univrsal
+                            Dispensary. Law List 1792-8 counsel for Northern Circuit at Pump Ct,
+                            Middle Temple. Possibly member of Philomath Society, see Fitzgerald in
+                            Godwin Diary dataset. Old Bailey 8.12.1794 William Fitzgerald Esq master
+                            of the pleasure craft Tilberina at Mr Perry's dockyard at Blackwall,
+                            prosecuting Robert Smith for theft, was very likely him as the judge
+                            said "I am glad every prosecutor is not a barrister". His address was
+                            then Craven St and his brothers Wilson Fitzgerald and Edward Fitzgerald
+                            were both called as witnesses. His "Considerations on the book of
+                            Genesis" dedicated to Richard Watson DNB 1737-1816 bishop of Llandaff
+                            was published in 1800 (see Morning Chronicle 25.1.1800) and proposed
+                            that the book of Genesis was not the word of God. See historyof
+                            parliamentonline 1790-1820 Saltash and his letters to Earl Fitzwilliam
+                            in Sheffield Archies WWM/F/127/72 and WWM/F/66/114-7 which mention his
+                            arrest for assault in Exeter, his inventions of a soap for salt water
+                            and a vegetable silk, and request employment in England or Ireland. He
+                            could have been the prosecutor "lately come from Ireland" at Old Bailey
+                            14.9.1814. He was quite possibly the William Fitzgerald, Irish Inspector
+                            General of Taxes who was accused of fraudulent behaviour (Nat Arch CUST
+                            119/427-30) in 1816 to 1822. If so Belfast News Letter 31.3.1851
+                            reported death of his widow Maria aged 67 at house of her son in law
+                            John Teeling Esq at Rathgar. See also Freemans Journal 16.3.1846 and
+                            Belfast Newsletter 12.6.1846 re Mrs Fitzgerald of Glenbrook, Ballyroan
+                            who evicted tenants and was threatened with violence.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

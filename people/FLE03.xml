@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="FLE03" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>William </forename>
+                        <surname>Fletcher</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Ed Pope notes: SCI William Fletcher of 7 New Sq, Lincolns Inn proposed
+                            28.3.1794 by John Augustus Bonney 2nded John Horne Tooke. </p>
+                        <p>ChristChurch Oxford 1784 age 16 son of Thos Fletcher of Aston
+                            (Birmingham), adm Lincolns Inn 16.5.1785. Listed among crown witnesses
+                            for Hardy's trial 1794 as William Fletcher of Lincolns Inn barrister at
+                            law but he never appeared in list of counsel in English Law Lists. Alum
+                            Ox notes him as barrister Lincolns Inn 1794. Perhaps William son of
+                            Thomas and Sarah Fletcher bapt 17.11.1767 St Philip Birmingham. William
+                            Fletcher of Erdington, Warwicks voted Middlesex 1802 Byng and Burdett on
+                            freehold chambers in Lincolns Inn occupied by Ferguson. William Fletcher
+                            Esq of Erdington, or else of Aston Manor (both in same parish next to
+                            Birmingham) appeared in Jury and Game lists between 1798 and 1823, sub
+                            to Blair's Grave illus. William Blake 1808, sub to charity Morning Post
+                            29.5.1826, in list of JPs 1836. (I previously identified him wrongly as
+                            the William Fletcher who married as a widower 17.1.1795 at St Marylebone
+                            Sarah Burgess and died 1801, his widow married James Agar in 1805 and
+                            died 1811. That was a much older William Fletcher, marble merchant of
+                            Millbank who voted Fox 1784 and 1790 and lived at 43 Welbeck St from
+                            1795 when he married Sarah Burgess. There were two attorneys named
+                            William Fletcher in London, one of 8 Hyde St Bloomsbury from 1791 to
+                            1800, and the other - if all one person - of Crescent Pl, New Bridge St,
+                            Blackfriars in 1795 and of Bedford Row in 1796, bankrupt as scrivener of
+                            Bedford Row 1797, of Dyers Bldgs, Holborn and Barnet Herts in 1800.
+                            There was also the Irish barrister mentioned in Godwin Diary see below).
+                        </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
