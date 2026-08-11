@@ -5,7 +5,7 @@
             <titleStmt>
                 <title>Person List</title>
                 <respStmt>
-                    <resp>EP</resp>
+                    <resp>MP</resp>
                     <name/>
                 </respStmt>
             </titleStmt>
@@ -27,24 +27,35 @@
                         <surname>Patrickson</surname>
                         <addName/>
                     </persName>
-                    <birth when="1000">
-                        <placeName> </placeName>
+                    <birth when="1792-12-02">
+                        <placeName>London </placeName>
                     </birth>
                     <death when="1814-08-10"/>
                     <occupation/>
                     <occupation/>
                     <note type="editorial">
-                        <p>Proctor Patrickson was a student that Godwin took an interest in and
+                        <p>Proctor Patrickson was a young man in whom Godwin took an interest and
                             supported, arranging for him to attend Cambridge, with financial support
                             from friends. While at Cambridge he was treated badly by other students
                             and suffered from depression. He corresponded regularly with Godwin and
-                            visited him when in town. Finally, when back in Cambridge, he committed
-                            suicide. There is a single Patrickson recorded in 1796 which might be
-                            Patrickson's father but this has not been coded. Don Locke's biography
-                            of Godwin calls him Patrick Patrickson, as does Peter Marshall's.
-                            William StClair's refers to him only a Patrickson. The entry in Emmanuel
-                            College's admissions book for 28 November 1810, lists him as Proctor
-                            Patrickson, Sizar.</p>
+                            visited him when in town. Indeed, Godwin is listed as Patrickson's
+                            guardian in the college records - although they give both Skinner Street
+                            and 13 Queen Street, Cheapside as addresses.Finally, when back in
+                            Cambridge, he committed suicide. There is a single Patrickson recorded
+                            in 1796 which might be Patrickson's father but this has not been coded.
+                            Don Locke's biography of Godwin calls him Patrick Patrickson, as does
+                            Peter Marshall's. William StClair's refers to him only a Patrickson. The
+                            entry in Emmanuel College's admissions book for 28 November 1810, lists
+                            him as Proctor Patrickson, Sizar. And Venn’s Alumni Cantabrigienses, has
+                            Proctor’s father as Nicholas Patrickson.
+                            
+                            Proctor was baptised at
+                            Saint Antholin Budge Row,London,London,England, with his father Nicholas Pattrickson and his 
+                            Mother Jane (nee Barton) 
+                            
+                            His parents married in 1785.  There were two older sisters (Margaret 15.4.1786 and Mary 27.2.1789) and a younger brother (Bernard Barton P,  25.1.1803 - apprenticed 1812 - with Nicholas Pattrickson’s address being gi given as Queen Street, Cheapside).
+                            And Nicholas is listed as a Surgeon of Queen St, Cheapside in the Holden Directory.
+                        </p>
                     </note>
                     <bibl type="printedbook">D. Locke<title> Fantasy of Reason: The Life and Thought
                             of William Godwin</title>p. 233, pp.244-5, p. 255 </bibl>
