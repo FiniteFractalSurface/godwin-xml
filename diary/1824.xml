@@ -2205,7 +2205,7 @@
                             type="dMeeting" subtype="C">Call on <persName ref="/people/DAV01.html"
                                     ><placeName type="venue">Davison</placeName></persName></seg>:
                             <seg type="dMeeting" subtype="Sk">seek
-                            <persName>Greenhill</persName></seg>: <seg type="dMeeting" subtype="C"
+                                <persName ref="/people/GRE12.html">Greenhill</persName></seg>: <seg type="dMeeting" subtype="C"
                             >call on <persName ref="/people/CUR03.html"><placeName type="venue"
                                     >Curtis</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName ref="/people/GOD02.html"><placeName type="venue"

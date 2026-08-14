@@ -24,29 +24,31 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="GRA17" sex="1">
+                <person xml:id="GRA20" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>James</forename>
-                        <surname>Gray</surname>
+                        <forename>Augustus Bozzi </forename>
+                        <surname>Granville</surname>
                         <addName/>
                     </persName>
-                    <birth when="1770">
+                    <birth when="1783">
                         <placeName/>
                     </birth>
-                    <death when="1830"/>
-                    <occupation>OCCUPATION</occupation>
+                    <death when="1872"/>
+                    <occupation>Physician and Italian patriot</occupation>
                     <note type="editorial">
-                        <p>James Gray DNB 1770? - 1830 was probably the Gray in Edinburgh in 1816,
-                            see his DNB article where his second wife is said to have been a good
-                            friend of Agnes McLehose DNB 1758-1841, known as Clarinda after Robert
-                            Burns' name for her.  </p>
+                        <p>ODNB - Made England hishome and adopted Granville as his surname at his
+                            mother's wish. Appears largely at Pickersgill although there are four
+                            occasions on which Godwin attends Granville's, although these too
+                            feature artists heavily, and he has a history of art interests having
+                            worked with Canova to ensure the return of Italian art treasures after
+                            the end of the Napoleonic Wars.</p>
                     </note>
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
                         Publisher, year</bibl>
                     <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
-                    <bibl type="other">DNB
+                    <bibl type="other">
                         <title/>
                     </bibl>
                 </person>

@@ -560,7 +560,7 @@
                      Crump</persName>, <persName ref="/people/MAR03.html">Martin</persName>,
                            <persName>Wits<emph rend="deleted">h</emph>en</persName>, <persName
                         ref="/people/OWE01.html">Owen</persName>, <persName ref="/people/BOW01.html"
-                        >Bowring</persName>, <persName>Granville</persName>,
+                           >Bowring</persName>, <persName ref="/people/GRA20.html">Granville</persName>,
                         <persName>Macfarlane</persName>, <persName ref="/people/POO02.html"
                         >Poole</persName>, <persName ref="/people/HIL05.html"
                      >Hill</persName></seg><ref type="dEvent" subtype="Temp">52 ½ / 56</ref> ½ </ab>
@@ -912,7 +912,7 @@
                         >Bulwer</persName>, <persName ref="/people/SHE09.html">C
                      Sheridan</persName>, <persName ref="/people/MAR03.html">Martins</persName>,
                         <persName ref="/people/OWE01.html">Owen</persName>, <persName
-                        ref="/people/MOR99.html">Morgan</persName>, <persName>Granville</persName>,
+                           ref="/people/MOR99.html">Morgan</persName>, <persName ref="/people/GRA20.html">Granville</persName>,
                         <persName ref="/people/POO02.html">Poole</persName>,
                         <persName>Hardwick</persName>, <persName ref="/people/KNO01.html"
                         >Knowles</persName>, <persName>Sigmond</persName>,
@@ -926,7 +926,7 @@
                      Petrarca</ref>. <seg type="dMeal" subtype="D">Dine at <persName
                         ref="/people/OLL01.html"><placeName type="venue"
                         >Ollier’s</placeName></persName></seg>: <seg type="dMeeting" subtype="Aus"
-                     >soirée <persName><placeName type="venue">Granville’s</placeName></persName>,
+                           >soirée <persName ref="/people/GRA20.html"><placeName type="venue">Granville’s</placeName></persName>,
                      w. <persName ref="/people/PIC01.html">Pickersgils</persName>, <persName
                         ref="/people/POO02.html">Poole</persName> &amp;
                      <persName>Deville</persName>; <persName>La Blache</persName></seg>. <ref
@@ -1070,7 +1070,7 @@
                      type="dMeeting" subtype="See"><persName ref="/people/PIC01.html"><placeName
                            type="venue">Pickersgil’s</placeName></persName>, w.
                            <persName ref="/people/CRU04.html">Crump</persName>, <persName ref="/people/AYR01.html"
-                        >Ayrton</persName>, <persName>Granville</persName>, <persName
+                              >Ayrton</persName>, <persName ref="/people/GRA20.html">Granville</persName>, <persName
                         ref="/people/MAR03.html">Martin</persName>, <persName
                         ref="/people/CUN01.html">Cunninghm</persName>, <persName
                         ref="/people/POO02.html">Poole</persName>, <persName
@@ -1084,7 +1084,7 @@
                      <ref type="dText" subtype="read" target="/bibl/te3355.html">Homer, v.
                   776</ref>: <ref type="dText" subtype="read" target="/bibl/te3377.html">Destiny, p.
                      407; Vol. III, p. 67</ref>. <seg type="dMeeting" subtype="See"
-                           ><persName><placeName type="venue">Granville’s</placeName></persName>, w.
+                        ><persName ref="/people/GRA20.html"><placeName type="venue">Granville’s</placeName></persName>, w.
                         <persName ref="/people/MAR03.html">Martins</persName>, <persName
                         ref="/people/AMY01.html">Amyot</persName>, <persName
                         ref="/people/POO02.html">Poole</persName>, <persName
@@ -1559,14 +1559,14 @@
                         <persName ref="/people/FUS01.html">Fuseli</persName>, <persName
                         ref="/people/OWE01.html">Owen</persName>, <persName>Macfarlane</persName>,
                            <persName>D<hi rend="sup">r</hi> Hamilton</persName>, <persName
-                        ref="/people/AYR01.html">Ayrton</persName>, <persName>Granville</persName>,
+                              ref="/people/AYR01.html">Ayrton</persName>, <persName ref="/people/GRA20.html">Granville</persName>,
                         <persName>Harrel</persName></seg>. <ref type="dEvent" subtype="Temp">57 ½ /
                      64</ref></ab>
                <ab type="dDay" xml:id="g1831-05-16"><date when="1831-05-16">16. M.</date><ref
                      type="dText" subtype="read" target="/bibl/te3386.html">Festivals, p. 355; Vol.
                      II, p. 52</ref>. <seg type="dMeal" subtype="TG"><persName
                         ref="/people/SHE02.html">M W S</persName> at tea</seg>: <seg type="dMeeting"
-                     subtype="See"><persName><placeName type="venue"
+                           subtype="See"><persName ref="/people/GRA20.html"><placeName type="venue"
                         >Granville’s</placeName></persName>, w. <persName ref="/people/KNO01.html"
                         >Knowles</persName>, <persName ref="/people/FUS01.html">Fuseli</persName>
                      &amp; <persName ref="/people/POO02.html">Poole</persName></seg>. <ref
@@ -1934,7 +1934,7 @@
                         >Owen</persName>, <persName>Bruce</persName>, <persName
                         ref="/people/ARN01.html">Arnot</persName>, <persName>Clarke</persName> &amp;
                         <persName>Hare</persName></seg>: <seg type="dMeeting" subtype="See"
-                           ><persName><placeName type="venue">Granville’s</placeName></persName>, w.
+                           ><persName ref="/people/GRA20.html"><placeName type="venue">Granville’s</placeName></persName>, w.
                         <persName ref="/people/PIC01.html">Pickersgills</persName>, <persName
                         ref="/people/AYR01.html">Ayrton</persName>, <persName
                         ref="/people/BOW01.html">Bowring</persName> &amp; <persName>D<hi rend="sup"
@@ -2267,7 +2267,7 @@
                         ref="/people/BUL01.html"><placeName type="venue"
                         >Bulwer’s</placeName></persName>, w. <persName>La. Cork</persName>,
                         <persName>sir J Doyle</persName>, <persName ref="/people/BER04.html">Bernal</persName>, <persName
-                        ref="/people/BOW01.html">Bowring</persName>, <persName>Granville</persName>,
+                           ref="/people/BOW01.html">Bowring</persName>, <persName ref="/people/GRA20.html">Granville</persName>,
                         <persName>Bulwer sen<hi rend="sup">r</hi></persName>, &amp; <persName
                         ref="/people/SHE02.html">M W S</persName></seg>. <emph rend="red"><ref
                         type="dEvent" subtype="Publ" target="/events/pu0265.html">opening of

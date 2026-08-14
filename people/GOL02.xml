@@ -10,7 +10,7 @@
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by</resp>
-                    <name></name>
+                    <name/>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -35,16 +35,29 @@
                         <placeName/>
                     </birth>
                     <death when="1000-12-31"/>
-                    <occupation>OCCUPATION</occupation>
+                    <occupation>Printer</occupation>
                     <note type="editorial">
-                        <p>Perhaps Joyce Gold printer 103 Shoe-la from 1799 to 1823 (bbti) and bookseller (SunFire 1808), Joyce Gold stationer 5, Gt Eastcheap (SunFire 1812)</p>
+                        <p>Ed Pope suggests: Perhaps Joyce Gold printer 103 Shoe-la from 1799 to
+                            1823 (bbti) and bookseller (SunFire 1808), Joyce Gold stationer 5, Gt
+                            Eastcheap (SunFire 1812). Also, on 3 April 1821 Godwin notes that Gold
+                            (London Magazine) calls on him and on 25 April he calls on Mrs Gold. The
+                            London Magazine is in print with January 1821-June 1821 being vol III,
+                            when it was published by Baldwin, Cradock and Joy. The 1824 edition was
+                            published by Taylor and Henry of Fleet Street. A still further set of
+                            publishers is identifiesd as Hunt and Clarke in 1822. No source
+                            identifies the printer. The editors (between 1820 and 1824) were John
+                            Scott (1783-1821) and John Taylor (1781-1864).</p>
+                        <p>The London Magazine seems to have been re-launched under the new
+                            editorial team of 'Thomas Merton' pseud. in December 1824 and published
+                            by Charles Knoight - suggesting that Godwin may have been approached by
+                            the previous printer of a failing enterprise. </p>
                     </note>
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
                         Publisher, year</bibl>
                     <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
                     <bibl type="other">
-                        <title></title>
+                        <title/>
                     </bibl>
                 </person>
             </listPerson>

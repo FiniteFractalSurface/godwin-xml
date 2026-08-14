@@ -457,7 +457,7 @@
                             4</ref>. <ref type="dText" subtype="read" target="/bibl/te3402.html"
                             >Homer, v. 561; , v. 80</ref>: <ref type="dText" subtype="read"
                             target="/bibl/te2859.html">Spy, p. 246</ref>. <seg type="dMeeting"
-                            subtype="C">Call on <persName type="nah"><placeName type="venue"
+                                subtype="C">Call on <persName  ref="/people/GRA20.html" type="nah"><placeName type="venue"
                                     >Granville</placeName></persName><hi rend="sup">n</hi></seg>:
                             <seg type="dMeal" subtype="D">dine at <persName ref="/people/ALD01.html"
                                     ><placeName type="venue">Aldis's</placeName></persName>, w.
@@ -610,7 +610,7 @@
                                         >S<hi rend="sup">t</hi> Simonian,</emph>
                             Duverner</persName>{,} <persName ref="/people/GAL04.html"
                                 >Galt</persName>, <persName>Sigmond</persName>,
-                                <persName>Granville</persName>, <persName ref="/people/OWE01.html"
+                                    <persName ref="/people/GRA20.html">Granville</persName>, <persName ref="/people/OWE01.html"
                                 >Owen</persName>, <persName ref="/people/MAR03.html"
                                 >Martin</persName>, </seg><add><persName ref="/people/AYR01.html"
                                 >Ayrton</persName>, <persName ref="/people/KNO01.html"
@@ -2092,7 +2092,7 @@
                                 <persName>Hutchinson</persName>, <persName>Yg American</persName>,
                                 <persName>C Jones</persName>, <persName ref="/people/BOO03.html">mrs
                                 Booth</persName>, <persName ref="/people/SAS01.html"
-                                    >Sass</persName>.<add><persName>Granville</persName></add></seg>.
+                                    >Sass</persName>.<add><persName ref="/people/GRA20.html">Granville</persName></add></seg>.
                             <ref type="dEvent" subtype="Temp">64 ½ / 66 ½ </ref></ab>
                     <ab type="dDay" xml:id="g1832-06-27"><date when="1832-06-27">27. W.</date><ref
                             type="dWrote" subtype="write" target="/works/delo01.html">Deloraine, p.

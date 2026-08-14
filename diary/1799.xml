@@ -2978,7 +2978,7 @@
                      II, III</ref>: <ref type="dText" subtype="read" target="/bibl/te0452.html"
                      >Johnson, Vol. III, p. 379-462: Vol. IV, p. 103-300</ref>. <seg type="dMeeting"
                      subtype="Do"><placeName>Commissioner's Room</placeName>, w.
-                        <persName>Goldsmith</persName></seg>.</ab>
+                        <persName ref="/people/GOL06.html">Goldsmith</persName></seg>.</ab>
                <ab type="dDay" xml:id="g1799-10-03"><date when="1799-10-03">3. Th. </date><ref
                      type="dText" subtype="read" target="/bibl/te0952.html">Mitford, p. 410</ref>:
                      <ref type="dText" subtype="read" target="/bibl/te1001.html">1/2 Taming a
@@ -3042,7 +3042,7 @@
                      p. 374</ref>: <ref type="dText" subtype="read" target="/bibl/te1005.html"
                      >Hieronymo, acts 1 &amp; 2</ref>. <seg type="dMeeting" subtype="CG"><persName
                         ref="/people/FEN01.html">Fenwick</persName></seg> &amp; <seg type="dMeeting"
-                     subtype="CG"><persName type="nah">Goldsmith</persName><hi rend="sup">na</hi>
+                           subtype="CG"><persName ref="/people/GOL06.html" type="nah">Goldsmith</persName><hi rend="sup">na</hi>
                      call</seg>: <seg type="dMeeting" subtype="C">call on <persName
                         ref="/people/RIT01.html"><placeName type="venue"
                         >Ritson</placeName></persName></seg>: <seg type="dMeal" subtype="S">sup at

@@ -704,7 +704,7 @@
                             type="dMeeting" subtype="C"><placeName>Basinghall Street</placeName>;
                                 <persName ref="/people/DAV01.html">Davison</persName>, <persName
                                 ref="/people/MAC04.html">Macmillan</persName>,
-                            <persName>Greenhill</persName>, <persName ref="/people/DUN07.html">Duncan</persName> &amp; 3
+                            <persName ref="/people/GRE12.html">Greenhill</persName>, <persName ref="/people/DUN07.html">Duncan</persName> &amp; 3
                             Reads</seg>: <seg type="dMeal" subtype="DG"><persName
                                 ref="/people/MAR01.html">M</persName> dines;<seg type="dMeeting"
                                 subtype="Adv">adv. <persName>H M</persName>, <persName
@@ -758,7 +758,7 @@
                                 Wybolt</persName> calls</seg>: <seg type="dMeeting" subtype="other"
                                 ><placeName>Basinghall Street</placeName>; <persName
                                 ref="/people/MAC04.html">Macmillan</persName>,
-                                    <persName>Greenhill</persName>, <persName ref="/people/DUN07.html">Duncan</persName>,
+                                    <persName ref="/people/GRE12.html">Greenhill</persName>, <persName ref="/people/DUN07.html">Duncan</persName>,
                                 <persName ref="/people/HUM01.html">Hume</persName>, <persName
                                 ref="/people/TAY06.html">R Taylor</persName>,
                                 <persName>Evans</persName>, <persName>3 Reads</persName>, <persName
@@ -3341,7 +3341,7 @@
                                 ref="/people/GOD07.html">W</persName> dine</seg>.</ab>
                     <ab type="dDay" xml:id="g1826-12-22"><date when="1826-12-22">22. F. </date><seg
                             type="dMeeting" subtype="C"><placeName>Basinghall Street</placeName>;
-                                <persName>Greenhill</persName>, <persName>Evans</persName>,
+                            <persName ref="/people/GRE12.html">Greenhill</persName>, <persName>Evans</persName>,
                                 <persName ref="/people/MAC04.html">Macmillan</persName>,
                             <persName ref="/people/DUN07.html">Duncan</persName>, <persName ref="/people/CUR03.html"
                                 >Curtis</persName>, <persName>Read</persName> &amp;

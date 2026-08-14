@@ -851,7 +851,7 @@
                                 rend="sup">na</hi></seg>, <seg type="dMeeting" subtype="CG"
                                 ><persName ref="/people/STE06.html" type="nah">Stewart</persName>, 3
                             times <hi rend="sup">na</hi></seg>, <seg type="dMeeting" subtype="CG"
-                                ><persName>G Greenhill</persName></seg>, <seg type="dMeeting"
+                                ><persName ref="/people/GRE12.html">G Greenhill</persName></seg>, <seg type="dMeeting"
                             subtype="CG"><persName ref="/people/MAR01.html">M</persName></seg> &amp;
                             <seg type="dMeeting" subtype="CG"><persName>miss Hippisley</persName>
                             call</seg>.</ab>
@@ -874,7 +874,7 @@
                                 >Macmillan</persName><hi rend="sup">na</hi></seg>; (P M) <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/HUM01.html"
                                 type="nah">Hume</persName><hi rend="sup">na</hi></seg>, <seg
-                            type="dMeeting" subtype="CG"><persName>Greenhill</persName></seg>&amp;
+                                    type="dMeeting" subtype="CG"><persName ref="/people/GRE12.html">Greenhill</persName></seg>&amp;
                             <seg type="dMeeting" subtype="CG"><persName ref="/people/JON02.html">M
                                 Jones</persName></seg>: <seg type="dMeeting" subtype="Aus">soir,
                             call on <persName ref="/people/BOO01.html">Booth</persName></seg>.</ab>
@@ -932,7 +932,7 @@
                             type="dWrote" subtype="write" target="/works/comm01.html">Commonwealth,
                             p. 401</ref>. <ref type="dWrote" subtype="letter">Write to <persName
                                 ref="/people/WED01.html">Wedgwood</persName></ref>. <seg
-                            type="dMeeting" subtype="CG"><persName>Greenhill</persName></seg>&amp;
+                                    type="dMeeting" subtype="CG"><persName ref="/people/GRE12.html">Greenhill</persName></seg>&amp;
                             <seg type="dMeeting" subtype="CG"><persName ref="/people/MAR01.html"
                                 >M</persName> call</seg>: <seg type="dMeal" subtype="DG"><persName
                                 ref="/people/SHE02.html">M W S</persName> dines; <seg
@@ -943,14 +943,14 @@
                             type="dWrote" subtype="write" target="/works/comm01.html">Commonwealth,
                             p. 402/2</ref>. <ref type="dText" subtype="read"
                             target="/bibl/te2828.html">Bandello, p. 386</ref>. <seg type="dMeeting"
-                            subtype="CG"><persName>Greenhill</persName></seg> &amp; <seg
+                                subtype="CG"><persName ref="/people/GRE12.html">Greenhill</persName></seg> &amp; <seg
                             type="dMeeting" subtype="CG"><persName>Langdon</persName> call</seg>:
                             <seg type="dMeeting" subtype="C">call on <persName
                                 ref="/people/BOO01.html"><placeName type="venue"
                                 >Booth</placeName></persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1825-03-26"><date when="1825-03-26">26.
                             Sa.</date><placeName>Guildhall</placeName>; <seg type="dMeeting"
-                            subtype="See"><persName>Greenhill</persName></seg>, <seg type="dMeeting"
+                                subtype="See"><persName ref="/people/GRE12.html">Greenhill</persName></seg>, <seg type="dMeeting"
                             subtype="See"><persName ref="/people/HUM01.html">Hume</persName></seg>,
                         &amp; <seg type="dMeeting" subtype="See"><persName ref="/people/BRO22.html"
                                 >Brown</persName> (<persName ref="/people/LON02.html"
@@ -988,7 +988,7 @@
                             type="dWrote" subtype="write" target="/works/comm01.html">Commonwealth,
                             p. 407</ref>. <ref type="dText" subtype="read"
                             target="/bibl/te2828.html">Bandello, Vol. IV, p. 24</ref>. <seg
-                            type="dMeeting" subtype="C">Call on <persName><placeName type="venue"
+                                type="dMeeting" subtype="C">Call on <persName ref="/people/GRE12.html"><placeName type="venue"
                                     >Greenhill</placeName></persName></seg> &amp;<seg
                             type="dMeeting" subtype="C"><persName ref="/people/BOO01.html"
                                     ><placeName type="venue"
@@ -996,7 +996,7 @@
                     <ab type="dDay" xml:id="g1825-03-30"><date when="1825-03-30">30. W.</date><ref
                             type="dWrote" subtype="write" target="/works/comm01.html">Commonwealth,
                             p. 409</ref>. <seg type="dMeeting" subtype="CG"
-                                ><persName>Greenhill</persName></seg>&amp; <seg type="dMeeting"
+                                ><persName ref="/people/GRE12.html">Greenhill</persName></seg>&amp; <seg type="dMeeting"
                             subtype="CG"><persName ref="/people/MAR01.html">M</persName>
                             call</seg>:<seg type="dMeal" subtype="DG"><persName
                                 ref="/people/SHE02.html">M W S</persName> dines;<seg type="dMeeting"
@@ -1043,14 +1043,14 @@
                     <ab type="dDay" xml:id="g1825-04-04"><date when="1825-04-04">4. M. </date><ref
                             type="dWrote" subtype="write" target="/works/comm01.html">Commonwealth,
                             p. 414</ref>. <seg type="dMeeting" subtype="C">Call
-                                    on<persName><placeName type="venue">
+                                on<persName ref="/people/GRE12.html"><placeName type="venue">
                                 Greenhill</placeName></persName></seg>: <seg type="dMeal"
                             subtype="D">dine at <persName ref="/people/SHE02.html"><placeName
                                     type="venue">M W S’s</placeName></persName>, w. <persName
                                 ref="/people/REV01|GIS01.html">Gisborne’s</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1825-04-05"><date when="1825-04-05">5. Tu.
                             </date><placeName>Guildhall</placeName>; <seg type="dMeeting"
-                            subtype="See"><persName>Greenhill</persName></seg>, <seg type="dMeeting"
+                                subtype="See"><persName ref="/people/GRE12.html">Greenhill</persName></seg>, <seg type="dMeeting"
                             subtype="See"><persName ref="/people/HUM01.html">Hume</persName></seg>,
                             <seg type="dMeeting" subtype="See"><persName ref="/people/MAC04.html"
                                 >Macmillan</persName></seg>, <seg type="dMeeting" subtype="See"
@@ -1072,7 +1072,7 @@
                             çala</ref>. <ref type="dEntertainment" subtype="Museo"
                             target="/events/mu0003.html"><placeName>State Paper
                             office.</placeName></ref><seg type="dMeeting" subtype="CG"
-                                ><persName>Greenhill</persName> calls</seg>: <seg type="dMeal"
+                                ><persName ref="/people/GRE12.html">Greenhill</persName> calls</seg>: <seg type="dMeal"
                             subtype="DG"><persName ref="/people/SHE02.html">M W S</persName>
                                 dines;<seg type="dMeeting" subtype="Adv"> adv. <persName>E
                                     Collins</persName> &amp;<persName ref="/people/GOD07.html">
@@ -1109,7 +1109,7 @@
                             çala</ref>. <seg type="dMeeting" subtype="C">Call on <persName
                                 ref="/people/BOO01.html" type="nah"><placeName type="venue"
                                     >Booth</placeName></persName><hi rend="sup">x</hi></seg> &amp;
-                            <seg type="dMeeting" subtype="C"><persName><placeName type="venue"
+                        <seg type="dMeeting" subtype="C"><persName ref="/people/GRE12.html"><placeName type="venue"
                                     >Greenhill</placeName></persName></seg>: <seg type="dMeeting"
                             subtype="CG"><persName ref="/people/DAV01.html" type="nah"
                                 >Davison</persName> calls <hi rend="sup">n</hi></seg>: <seg
@@ -1141,12 +1141,12 @@
                                     ref="/people/PRE02.html">Stephen
                         Prentis</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1825-04-14"><date when="1825-04-14">14. Th. </date><seg
-                            type="dMeeting" subtype="CG"><persName>Greenhill</persName></seg>&amp;
+                            type="dMeeting" subtype="CG"><persName ref="/people/GRE12.html">Greenhill</persName></seg>&amp;
                             <seg type="dMeeting" subtype="CG"><persName ref="/people/MAC04.html"
                                 >Macmillan</persName> call</seg>: <seg type="dMeeting" subtype="C"
                             >call on <persName ref="/people/DAV01.html"><placeName type="venue"
                                     >Davison</placeName></persName></seg> &amp; <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                        subtype="C"><persName ref="/people/GRE12.html"><placeName type="venue"
                                 >Greenhill</placeName></persName></seg>: <seg type="dMeeting"
                             subtype="CG"><persName ref="/people/MAR01.html">M</persName>
                         calls</seg>: <placeName>London Institution, 1647</placeName>: <seg
@@ -1222,7 +1222,7 @@
                             1 1/2 pp</ref>. <seg type="dMeeting" subtype="C">Call on <persName
                                 ref="/people/BOO01.html"><placeName type="venue"
                                 >Booth</placeName></persName></seg> &amp; <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                    subtype="C"><persName ref="/people/GRE12.html"><placeName type="venue"
                                 >Greenhill</placeName></persName></seg>: <seg type="dMeal"
                             subtype="DG"><persName ref="/people/SHE02.html">M W S</persName> dines;
                                 <seg type="dMeeting" subtype="Adv">adv. <persName
@@ -1271,7 +1271,7 @@
                                 type="dMeeting" subtype="C">call on <persName
                                     ref="/people/BOO01.html"><placeName type="venue"
                                         >Booth</placeName></persName> twice</seg></seg>, &amp; <seg
-                            type="dMeeting" subtype="C"><persName><placeName type="venue"
+                                            type="dMeeting" subtype="C"><persName ref="/people/GRE12.html"><placeName type="venue"
                                     >Greenhill</placeName></persName></seg>: <seg type="dMeeting"
                             subtype="CG"><persName ref="/people/HOL09.html">A Harwood</persName>
                             calls</seg>.</ab>
@@ -1292,7 +1292,7 @@
                         day</seg>.</ab>
                     <ab type="dDay" xml:id="g1825-04-29"><date when="1825-04-29">29. F.</date><seg
                             type="dMeeting" subtype="CG"><seg type="dMeeting" subtype="CG"
-                                    ><persName>Greenhill</persName> calls twice</seg></seg> &amp;
+                                ><persName ref="/people/GRE12.html">Greenhill</persName> calls twice</seg></seg> &amp;
                             <seg type="dMeeting" subtype="CG"><persName ref="/people/MAR01.html"
                                 >M</persName></seg>: <seg type="dMeeting" subtype="C">call on
                                 <persName ref="/people/BOO01.html"><placeName type="venue"
@@ -1303,7 +1303,7 @@
                             Sa.</date><placeName>Guildhall</placeName>; <seg type="dMeeting"
                             subtype="See"><persName ref="/people/MAC04.html"
                             >Macmillan</persName></seg>, <seg type="dMeeting" subtype="See"
-                                ><persName>Greenhill</persName></seg>, <seg type="dMeeting"
+                                ><persName ref="/people/GRE12.html">Greenhill</persName></seg>, <seg type="dMeeting"
                                     subtype="See"><persName ref="/people/DUN07.html">Duncan</persName></seg>, <seg type="dMeeting"
                             subtype="See"><persName ref="/people/HUM01.html">Hume</persName></seg>,
                             <seg type="dMeeting" subtype="See"><persName>Reads</persName></seg>,
@@ -1343,7 +1343,7 @@
                                 White</persName></seg>, <seg type="dMeeting" subtype="CG"><persName
                                 ref="/people/UWI01.html">Uwins</persName></seg>, <seg
                                     type="dMeeting" subtype="CG"><persName ref="/people/DUN07.html">Duncan</persName></seg>, <seg
-                            type="dMeeting" subtype="CG"><persName>Greenhill</persName></seg> &amp;
+                                        type="dMeeting" subtype="CG"><persName ref="/people/GRE12.html">Greenhill</persName></seg> &amp;
                             <seg type="dMeeting" subtype="CG"><persName ref="/people/KEN01.html"
                                 >Kenney</persName>call</seg> : <seg type="dMeeting" subtype="C">call
                                 on<persName ref="/people/DAV01.html"><placeName type="venue"
@@ -1375,7 +1375,7 @@
                             type="dText" subtype="read" target="/bibl/te2906.html">Boaden, Vol. II,
                             p. 172</ref>: <ref type="dText" subtype="read"
                             target="/bibl/te2908.html">L Lincoln, p. 97</ref>. <seg type="dMeeting"
-                            subtype="CG"><persName>Greenhill</persName></seg>, <seg type="dMeeting"
+                                subtype="CG"><persName ref="/people/GRE12.html">Greenhill</persName></seg>, <seg type="dMeeting"
                             subtype="CG"><persName ref="/people/HUM01.html">Hume</persName></seg>
                             &amp;<seg type="dMeeting" subtype="CG"><persName
                                 ref="/people/ALD01.html">Aldis</persName> call</seg>: <seg
@@ -1387,7 +1387,7 @@
                             type="dText" subtype="read" target="/bibl/te2906.html">Boaden, p.
                             428</ref>. <seg type="dMeeting" subtype="CG"
                                 ><persName>Lawless</persName></seg> &amp; <seg type="dMeeting"
-                            subtype="CG"><persName>Greenhill</persName> call</seg>: <seg
+                                    subtype="CG"><persName ref="/people/GRE12.html">Greenhill</persName> call</seg>: <seg
                             type="dMeeting" subtype="C">call on <persName ref="/people/CUR03.html"
                                 type="nah"><placeName type="venue">Curtis</placeName></persName><hi
                                 rend="sup">n</hi>; <seg type="dMeeting" subtype="Adv">adv. <persName
@@ -1405,7 +1405,7 @@
                             subtype="CG"><persName>John Evans</persName> calls</seg>: <seg
                             type="dMeeting" subtype="C">Call on <persName ref="/people/CUR03.html"
                                     ><placeName type="venue">Curtis</placeName></persName></seg>,
-                            <seg type="dMeeting" subtype="C"><persName><placeName type="venue"
+                        <seg type="dMeeting" subtype="C"><persName ref="/people/GRE12.html"><placeName type="venue"
                                     >Greenhill</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName ref="/people/MAC04.html" type="nah"><placeName
                                     type="venue">Macmillan</placeName></persName><hi rend="sup"
@@ -1455,7 +1455,7 @@
                             çala</ref>. <seg type="dMeeting" subtype="C">Call on <persName
                                 ref="/people/CUR03.html"><placeName type="venue"
                                 >Curtis</placeName></persName></seg> &amp; <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                    subtype="C"><persName ref="/people/GRE12.html"><placeName type="venue"
                                 >Greenhill</placeName></persName></seg>: <ref type="dEntertainment"
                             subtype="Exhib" target="/events/ex0091.html"><seg type="dMeeting"
                                 subtype="Do">Exhibition, &amp; Artists, w. <persName
@@ -1489,7 +1489,7 @@
                             type="dMeeting" subtype="C"><persName type="nah"><placeName type="venue"
                                     >Scatcherd</placeName></persName><hi rend="sup">n</hi></seg>,
                         &amp; <seg type="dMeeting" subtype="CG"
-                        ><persName>Greenhill</persName></seg>: <ref type="dEntertainment"
+                            ><persName ref="/people/GRE12.html">Greenhill</persName></seg>: <ref type="dEntertainment"
                             subtype="Theat" target="/plays/tell02.html"><placeName type="HM"
                             />theatre, W Tell, acts 2, 3, 4</ref>.</ab>
                     <ab type="dDay" xml:id="g1825-05-14"><date when="1825-05-14">14. Sa.</date><ref
@@ -1559,7 +1559,7 @@
                             subtype="C"><persName ref="/people/TAY06.html" type="nah"><placeName
                                     type="venue">R Taylor </placeName></persName><hi rend="sup"
                                 >n</hi></seg>&amp; <seg type="dMeeting" subtype="C"
-                                    ><persName><placeName type="venue"
+                                    ><persName ref="/people/GRE12.html"><placeName type="venue"
                                 >Greenhill</placeName></persName></seg>:<seg type="dMeal"
                             subtype="DG"><persName ref="/people/SHE02.html">M W S</persName> dines;
                                 <seg type="dMeeting" subtype="Adv">adv.<persName
@@ -1602,7 +1602,7 @@
                                     Taylor</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName type="nah"><placeName type="venue"
                                     >Handley</placeName></persName><hi rend="sup">n</hi></seg>,
-                        &amp; <seg type="dMeeting" subtype="C"><persName><placeName type="venue"
+                        &amp; <seg type="dMeeting" subtype="C"><persName ref="/people/GRE12.html"><placeName type="venue"
                                     >Greenhill</placeName></persName></seg>; <seg type="dMeeting"
                             subtype="Adv">adv. <persName>Jackson</persName></seg>: <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/MAR01.html"
@@ -1630,7 +1630,7 @@
                                 </placeName></persName><hi rend="sup">n</hi></seg>, &amp; <seg
                             type="dMeeting" subtype="C"><persName ref="/people/GOD02.html"
                                     ><placeName type="venue">Jo G</placeName></persName></seg>: <seg
-                            type="dMeeting" subtype="CG"><persName>Greenhill</persName> calls</seg>:
+                                        type="dMeeting" subtype="CG"><persName ref="/people/GRE12.html">Greenhill</persName> calls</seg>:
                             <seg type="dMeal" subtype="DG"><persName ref="/people/SHE02.html">M W
                                 S</persName> dines</seg>. <seg type="dMeeting" subtype="C">Call on
                                 <persName ref="/people/PAY01.html"><placeName type="venue">Howard
@@ -1661,12 +1661,12 @@
                                     >Macgowan</placeName></persName></seg>: <seg type="dMeeting"
                             subtype="CG"><persName ref="/people/TAY06.html" type="nah">R Taylor
                             </persName>calls <hi rend="sup">na</hi></seg>, &amp; <seg
-                            type="dMeeting" subtype="CG"><persName>Greenhill</persName></seg>.</ab>
+                                type="dMeeting" subtype="CG"><persName ref="/people/GRE12.html">Greenhill</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1825-05-28"><date when="1825-05-28">28. Sa.</date><ref
                             type="dWrote" subtype="cala" target="/works/comm01.html">Commonwealth,
                             çala.</ref><ref type="dText" subtype="read" target="/bibl/te2828.html"
                             >Bandello, p. 336</ref>. <seg type="dMeeting" subtype="CGn"
-                                    ><persName><placeName type="venue"
+                                ><persName ref="/people/GRE12.html"><placeName type="venue"
                                 >Greenhill</placeName></persName>, w. <persName
                                 ref="/people/MAC04.html">Macmillan</persName>, calls</seg>: </ab>
                     <ab type="dDay"><ref type="dEvent" subtype="PersEvent"
@@ -1704,7 +1704,7 @@
                             target="/events/pe0390.html">sleep in <placeName>Gower
                             Place</placeName></ref>.</ab>
                     <ab type="dDay" xml:id="g1825-05-31"><date when="1825-05-31">31. Tu. </date><seg
-                            type="dMeeting" subtype="CG"><persName>Greenhill</persName></seg>, &amp;
+                            type="dMeeting" subtype="CG"><persName ref="/people/GRE12.html">Greenhill</persName></seg>, &amp;
                             <seg type="dMeeting" subtype="CG"><persName>Jackson &amp;
                                     <foreign>femme</foreign></persName> call</seg>: <seg
                             type="dMeeting" subtype="C">call on <persName ref="/people/BOO01.html"
@@ -1776,7 +1776,7 @@
                             >Arrange</ref>. <seg type="dMeeting" subtype="C">Call on
                                     <persName><placeName type="venue"
                             >Hawes</placeName></persName></seg> &amp; <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                subtype="C"><persName ref="/people/GRE12.html"><placeName type="venue"
                                 >Greenhill</placeName></persName></seg>. <seg type="dMeeting"
                             subtype="Sk">Seek (<persName ref="/people/DAR05.html">Darton</persName>
                             &amp;) <persName>Harvey</persName></seg>.</ab>
@@ -1830,7 +1830,7 @@
                     <ab type="dDay" xml:id="g1825-06-13"><date when="1825-06-13">13. M.</date><ref
                             type="dEvent" subtype="PersEvent" target="/events/pe0392.html"
                             >Arrange</ref>. <seg type="dMeeting" subtype="C">Call on
-                                    <persName><placeName type="venue"
+                                <persName ref="/people/GRE12.html"><placeName type="venue"
                                 >Greenhill</placeName></persName> at <placeName>the
                                 Master’s</placeName></seg>: <seg type="dMeeting" subtype="CG"
                                 ><persName type="nah">Osborne</persName> calls <hi rend="sup"
@@ -2274,7 +2274,7 @@
                     <ab type="dDay" xml:id="g1825-08-01"><date when="1825-08-01">Aug. 1.
                             M.</date><ref type="dWrote" subtype="write" target="/works/comm01.html"
                             >Commonwealth, p. 466/2</ref>. <seg type="dMeeting" subtype="C">Call on
-                                    <persName><placeName type="venue"
+                                <persName ref="/people/GRE12.html"><placeName type="venue"
                                 >Greenhill</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><placeName>Mansion House</placeName></seg>: <ref
                             type="dEntertainment" subtype="Museo" target="/events/mu0001.html"

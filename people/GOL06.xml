@@ -10,7 +10,7 @@
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by</resp>
-                    <name></name>
+                    <name/>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -27,24 +27,48 @@
                 <person xml:id="GOL06" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>NAME</forename>
-                        <surname>SURNAME</surname>
+                        <forename>Charles</forename>
+                        <surname>Goldsmith</surname>
                         <addName/>
                     </persName>
-                    <birth when="1000-01-01">
+                    <birth when="1737">
                         <placeName/>
                     </birth>
-                    <death when="1000-12-31"/>
+                    <death when="1810"/>
                     <occupation>OCCUPATION</occupation>
                     <note type="editorial">
-                        <p> </p>
+                        <p>See Ed Pope's notes: From the position of Goldsmith in Godwin's 1796 list
+                            we can deduce that the two first entries above were a different
+                            Goldsmith, very probably Charles Goldsmith 1737-1810 brother of Oliver
+                            Goldsmith DNB 1730-1774. He was a near neighbour of Godwin's at the
+                            Polygon in 1798 and the Commissioner's Room probably concerned the Land
+                            Tax. Charles Goldsmith was buried at St Pancras 16.3.1810 age 72 of
+                            Sutton St. He had married Sarah Gabandon in St Ann, Jamaica and she died
+                            about 1804 at Ossulton St, Camden Town. Contrary to his brother's DNB
+                            entry he was not childless, his children were Henry 1780-1833, Charles
+                            b. 1780, Ann 1782-1801, Catherine 1784-1865 married John Hanson and died
+                            Hoboken, New Jersey, USA, Daniel b 1789, William b.1791, Oliver Francis
+                            1796-1828 married Margaret Davis 1822 in Jamaica (Ancestry
+                            user-submitted tree). The two entries in 1802 could well have been
+                            Charles Goldsmith as well, Lewis Goldsmith (see below) having gone to
+                            Paris in December 1801 (according to the DNB) and only returned to
+                            London briefly in July 1802 and then not till 1809. See McAdam for the
+                            two 1802 entries and see also Lewis Cs. In the 1796 list Goldsmith
+                            appears early in 1801 and Godwin may have meant Mrs Goldsmith rather
+                            than Lewis Goldsmith DNB 1763/4 - 1846 as the diary suggests he met her
+                            at Sarah Elwes' two months before he met her husband, and the next entry
+                            suggests her first name began with S. In Lewis Goldsmith's will PCC 1846
+                            he mentioned two daughters, the older one would have been born about
+                            1793 when Goldsmith was in Germany, the younger Georgina was born in
+                            Paris in 1807 by his second wife. Other than the diary entries I have
+                            found no record of his first wife. </p>
                     </note>
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
                         Publisher, year</bibl>
                     <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
                     <bibl type="other">
-                        <title></title>
+                        <title/>
                     </bibl>
                 </person>
             </listPerson>
