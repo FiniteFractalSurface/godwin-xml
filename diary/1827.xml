@@ -189,7 +189,7 @@
               type="dText" subtype="read" target="/bibl/te3018.html">Wilhelm Meister, p. 90</ref>.
               <seg type="dMeeting" subtype="CG"><persName ref="/people/HUD01.html">Hudson</persName>
               calls</seg>: <seg type="dMeal" subtype="TG"><persName ref="/people/GOD05.html">N
-                G</persName> &amp; <persName>mrs Hall</persName> at tea</seg>. <ref type="dWrote"
+                  G</persName> &amp; <persName ref="/people/HAL01.html">mrs Hall</persName> at tea</seg>. <ref type="dWrote"
               subtype="letter">Write to <persName ref="/people/WIL02.html">Jos.
               Wilson</persName></ref>, &amp; <ref type="dWrote" subtype="letter"><persName>mrs
                 Hippesley</persName></ref>. <ref type="dEvent" subtype="PersHlth"
@@ -782,7 +782,7 @@
               <ref type="dEntertainment" subtype="Museo" target="/events/mu0001.html"
                 ><placeName>Museum</placeName>; <ref type="dText" subtype="read"
                 target="/bibl/te2705.html">Newspapers</ref></ref>. <seg type="dMeal" subtype="SG"
-                  ><persName>M<hi rend="sup">rs</hi> Hall</persName> sups</seg>.</ab>
+                  ><persName ref="/people/HAL01.html">M<hi rend="sup">rs</hi> Hall</persName> sups</seg>.</ab>
           <ab type="dDay" xml:id="g1827-03-29"><date when="1827-03-29">29. Th.</date><ref
               type="dWrote" subtype="write" target="/works/comm01.html">Commonwealth, p. 7/2</ref>.
               <ref type="dText" subtype="read" target="/bibl/te3019.html">Tacitus, c. 68</ref>. <ref
@@ -1033,7 +1033,7 @@
             revise</ref>. <ref type="dText" subtype="read" target="/bibl/te0065.html">Sallust, c.
               35</ref>: <ref type="dText" subtype="read" target="/bibl/te3031.html">Prairie, p.
               224</ref>. <seg type="dMeeting" subtype="Aus"><persName ref="/people/PIL01.html">H
-                P</persName> &amp; <persName>M<hi rend="sup">rs</hi> Hall</persName> au soir</seg>.
+                  P</persName> &amp; <persName ref="/people/HAL01.html">M<hi rend="sup">rs</hi> Hall</persName> au soir</seg>.
               <ref type="dEvent" subtype="Temp">55</ref></ab>
           <ab type="dDay" xml:id="g1827-04-28"><date when="1827-04-28">28. Sa.</date><ref
               type="dWrote" subtype="revised" target="/works/comm01.html">Commonwealth,

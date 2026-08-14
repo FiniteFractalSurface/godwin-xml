@@ -3030,7 +3030,7 @@
                                 ref="/people/ALD04.html">Alderson</persName></ref>.</ab>
                     <ab type="dDay" subtype="NotLon" xml:id="g1796-07-11"><date when="1796-07-11"
                             >11. M.</date><seg type="dMeeting" subtype="C">Call on
-                                    <persName><placeName type="venue">G
+                                <persName ref="/people/SOT01.html"><placeName type="venue">G
                                 Sothren</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName ref="/people/RIG01.html" type="nah"><placeName
                                     type="venue">Rigby</placeName></persName> n</seg> &amp; <seg
@@ -3126,7 +3126,7 @@
                             >18. M.</date><ref type="dText" subtype="read"
                             target="/bibl/te0684.html">Grammont, p. 112</ref>. <placeName>Weybourn
                             Camp</placeName>, <seg type="dMeeting" subtype="See">w.
-                                <persName>H</persName> &amp; <persName>Vickery</persName>;
+                                <persName  ref="/people/HOL01.html">H</persName> &amp; <persName>Vickery</persName>;
                                 <persName>officers</persName>, <persName>Judson</persName>,
                                 <persName>Blomfield</persName> &amp;
                             <persName>Simpson</persName></seg>: <seg type="dMeal" subtype="D">dine
@@ -4491,7 +4491,7 @@
                                 ref="/people/GOR01.html">Goring</persName>, Gonzaga, <persName
                                     ref="/people/WHA01.html">Wharton</persName>, <persName ref="/people/CRA04.html">Crawford</persName>, <persName
                                 ref="/people/SCO02.html">A Scott</persName>, <emph rend="deleted"
-                                >Hardinge,</emph><persName ref="/people/FRO01.html"
+                                    ><persName ref="/people/HAR08.html">Hardinge</persName>,</emph><persName ref="/people/FRO01.html"
                             >Frost</persName>, <persName ref="/people/GER01.html"
                             >Gerrald</persName>, <persName ref="/people/PIG01.html">C
                                 Pigot</persName>, <emph rend="deleted">Macdonald
@@ -4509,7 +4509,7 @@
                         <p rend="centered">1794</p>
                         <p><persName ref="/people/COU01.html">Courtenay</persName>, <persName
                                 ref="/people/PAR03.html">Parr</persName>, <emph rend="deleted">T W
-                                Coke Wharton,</emph> T Thomson, Hall, <persName
+                                    Coke Wharton,</emph> T Thomson, <persName ref="/people/HAL04.html"> Hall</persName>, <persName
                                 ref="/people/LOS01.html">Losh</persName>, <persName
                                 ref="/people/TWE01.html">Tweddel</persName>, Parsons F M, Nugent,
                                 <persName ref="/people/WAK02.html">Wakefield</persName>, <persName

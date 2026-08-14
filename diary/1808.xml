@@ -322,7 +322,7 @@
                             subtype="CG"><persName ref="/people/LAM01.html">Lamb</persName> calls,
                             from <seg type="dTopic"><persName ref="/people/COL01.html"
                                     >Coleridge</persName></seg></seg>: <seg type="dMeeting"
-                            subtype="C">call on <persName><placeName type="venue">Hall (Minories)
+                                        subtype="C">call on <persName ref="/people/HAL10.html"><placeName type="venue">Hall (Minories)
                                 </placeName></persName></seg><seg type="dMeeting" subtype="C"
                                 ><persName ref="/people/TAY06.html"><placeName type="venue">R
                                     Taylor</placeName></persName></seg> &amp; <seg type="dMeeting"
@@ -1460,7 +1460,7 @@
                     <ab type="dDay" xml:id="g1808-06-08"><date when="1808-06-08">8. W.</date><ref
                             type="dText" subtype="letterRecvd">Letter from <persName
                                 ref="/people/SMI05.html">W Smith</persName></ref>. <seg
-                            type="dMeeting" subtype="C">Call on <persName><placeName type="venue"
+                                    type="dMeeting" subtype="C">Call on <persName ref="/people/HAL01.html"><placeName type="venue"
                                         >M<hi rend="sup">rs</hi> Hall</placeName></persName></seg>:
                             <seg type="dMeal" subtype="SG"><persName ref="/people/TUR01.html">T
                                 T</persName> &amp; <persName ref="/people/FLA01.html">J
@@ -1550,7 +1550,7 @@
                     <ab type="dDay" xml:id="g1808-06-19"><date when="1808-06-19">June 19.
                             Su.</date><ref type="dText" subtype="cala" target="/bibl/te1523.html"
                             >Donne, çala</ref>. <seg type="dMeeting" subtype="C">Call on
-                                    <persName><placeName type="venue">M<hi rend="sup">rs</hi>
+                                <persName ref="/people/HAL01.html"><placeName type="venue">M<hi rend="sup">rs</hi>
                                     Hall</placeName></persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1808-06-20"><date when="1808-06-20">20. M. </date><ref
                             type="dText" subtype="cala" target="/bibl/te1523.html">Donne,
@@ -2307,7 +2307,7 @@
                             Th.</date> Breakfast at <placeName>Reading: White Knights &amp;
                             Abbey</placeName>: <seg type="dMeal" subtype="D">dine; <seg
                                 type="dMeeting" subtype="Adv">adv.
-                                <persName>Hardinge</persName></seg></seg>: Reading coach: tea
+                                    <persName ref="/people/HAR08.html">Hardinge</persName></seg></seg>: Reading coach: tea
                             <placeName>Hounslow</placeName>: sleep in <placeName>S S</placeName>.
                             <ref type="dText" subtype="read" target="/bibl/te0715.html">Avare, acte
                             1, 2</ref></ab>
@@ -2393,7 +2393,7 @@
                         &amp; <seg type="dMeeting" subtype="C"><persName ref="/people/GOD02.html"
                                     ><placeName type="venue">Jo G</placeName></persName></seg>: <ref
                             type="dWrote" subtype="letter">write to
-                            <persName>Hardinge</persName></ref>: <seg type="dMeal" subtype="DG"
+                                        <persName ref="/people/HAR08.html">Hardinge</persName></ref>: <seg type="dMeal" subtype="DG"
                                 ><persName ref="/people/CUR01.html">Curran</persName>, <persName
                                 ref="/people/WOL02.html">Wolcot</persName>, <persName
                                 ref="/people/LAM01|LAM02.html">Lambs</persName> &amp; <persName

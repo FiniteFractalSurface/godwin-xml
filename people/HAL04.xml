@@ -29,16 +29,20 @@
                   <forename>Robert</forename>
                   <surname>Hall</surname>
                </persName>
-               <birth when="1764-05-02"></birth>
-               <death when="1831-02-21"></death>
+               <birth when="1764-05-02"/>
+               <death when="1831-02-21"/>
                <occupation>Baptist Minister</occupation>
                <note type="editorial">
-                  <p>Robert Hall was a Baptist Minister who spent time at Cambridge, Leicester and Bristol preaching. In 1800 Godwin read a number of sermons delivered by Robert Hall. Hall was also a lifelong friend of <persName key="MAC01">James Mackintosh</persName>, explaining his presence at dinner at Mackintosh’s. </p>
+                  <p>Robert Hall was a Baptist Minister who spent time at Cambridge, Leicester and
+                     Bristol preaching. In 1800 Godwin read a number of sermons delivered by Robert
+                     Hall. Hall was also a lifelong friend of <persName key="MAC01">James
+                        Mackintosh</persName>, explaining his presence at dinner at Mackintosh’s.
+                  </p>
                </note>
                <bibl type="website">Ed Pope History (31/07/2012)</bibl>
                <bibl type="other">DNB</bibl>
             </person>
          </listPerson>
-      </body>   
-   </text>   
+      </body>
+   </text>
 </TEI>

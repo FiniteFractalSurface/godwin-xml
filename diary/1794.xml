@@ -391,7 +391,7 @@
                                 ref="/people/PAR03.html">Parr</persName>, <persName
                                 ref="/people/TWE01.html">Tweddel</persName>, <persName
                                 ref="/people/LOS01.html">Losh</persName>, <persName
-                                ref="/people/HAL04.html">Hall</persName>, <persName
+                                ref="/people/HAL09.html">Hall</persName>, <persName
                                 ref="/people/MOO01.html">Moore</persName>, <persName
                                 ref="/people/ROB01.html">Robinson</persName>, <persName
                                 ref="/people/JOH01.html">Johnson</persName>, <emph rend="deleted"
@@ -2165,7 +2165,7 @@
                     <ab type="dDay" subtype="NotLon" xml:id="g1794-06-28"><date when="1794-06-28"
                             >28. Sa.</date><ref type="dText" subtype="read"
                             target="/bibl/te0509.html">II<hi rend="sup">d</hi> Report, p. 33</ref>.
-                            <seg type="dMeeting" subtype="C">Call on <persName><placeName
+                        <seg type="dMeeting" subtype="C">Call on <persName ref="/people/GOD13.html"><placeName
                                     type="venue">Sothren</placeName></persName></seg>, <seg
                             type="dMeeting" subtype="C"><persName ref="/people/BAR11.html"
                                     ><placeName type="venue">2 Barnards</placeName></persName></seg>
@@ -4376,7 +4376,7 @@
                                     <persName ref="/people/COO01.html">C,</persName> <persName ref="/people/MAR01.html">M,</persName> &amp;<persName ref="/people/MOO02|MOO06.html"> M Moore</persName> call</seg>: <seg type="dMeal"
                             subtype="D">dine at <persName ref="/people/FOU01.html"><placeName
                                     type="venue">Foulkes's</placeName></persName>, w.
-                                <persName>H</persName>, <persName>Hutchinson</persName>,
+                                        <persName  ref="/people/HOL01.html">H</persName>, <persName>Hutchinson</persName>,
                                 <persName>Parker</persName> &amp; <persName>Watley</persName>; <seg
                                 type="dMeeting" subtype="Adv">adv. <persName>mrs
                                 Aris</persName></seg></seg>.</ab>

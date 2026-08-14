@@ -10,7 +10,7 @@
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by</resp>
-                    <name></name>
+                    <name/>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -24,11 +24,11 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="GRU01" sex="1">
+                <person xml:id="HAL10" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>NAME</forename>
-                        <surname>Gruber</surname>
+                        <forename>John</forename>
+                        <surname>Hall</surname>
                         <addName/>
                     </persName>
                     <birth when="1000-01-01">
@@ -37,9 +37,19 @@
                     <death when="1000-12-31"/>
                     <occupation>OCCUPATION</occupation>
                     <note type="editorial">
-                        <p>See Ed Pope: Gruber 30.5.1804 at Joseph Johnson's / 21.11.1804 again / 20.1.1805 Gruber at Nicholson's / 13.2.1805 Gruber at Johnson's.
-                            
-                            See William Nichoison junior's memoir of his father (Bodleian MSS Don d175 and e125) which said that Gruber turned out to be a spy.
+                        <p>See Ed Pope's Notes: Hall (Minories) 1808 from Holdens 1811 there were
+                            two Halls with an address in the Minories. John Hall of 6 Circus St
+                            Minories and Woodford Essex who was Consul for Hanover in London and
+                            Secretary of the St Katherine's Dock Company, knighted 1831 and died
+                            21.1.1861 at Lansdowne Crescent, Kensington-park / Samuel Sanderson Hall
+                            of 10 Vine St Minories ship broker who married 11.3.1811 Petronella
+                            Alexandrina de Bie and died 1867. John Hall of Dartford, glass gunpowder
+                            manufacturer will PCC 1836 engineer (and will PCC 1850 probably his
+                            son), selling mills at Rickmansworth, Herts (Morning Post 22.5.1807),
+                            from 1819 rented the King's mills at Feversham at £360 a year, by 1837
+                            Messrs Hall of Dartford were running steam ship Wilberforce from London
+                            to Hull in 18 hours with an engine they had manufactured on a new
+                            principle of converting salt water to fresh before use in the engine
                         </p>
                     </note>
                     <bibl type="MS"> </bibl>
@@ -47,11 +57,10 @@
                         Publisher, year</bibl>
                     <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
                     <bibl type="other">
-                        <title></title>
+                        <title/>
                     </bibl>
                 </person>
             </listPerson>
         </body>
     </text>
 </TEI>
-

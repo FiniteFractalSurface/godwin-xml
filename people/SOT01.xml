@@ -5,7 +5,11 @@
             <titleStmt>
                 <title>Person List</title>
                 <respStmt>
-                    <resp>EP</resp>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
                     <name/>
                 </respStmt>
             </titleStmt>
@@ -20,20 +24,20 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="GOD13" sex="2">
+                <person xml:id="SOT01" sex="1">
                     <persName>
-                        <roleName>Mrs</roleName>
-                        <forename/>
+                        <roleName/>
+                        <forename>George</forename>
                         <surname>Sothren</surname>
-                        <addName>née Godwin</addName>
+                        <addName/>
                     </persName>
-                    <birth when="1000">
-                        <placeName> </placeName>
+                    <birth when="1000-01-01">
+                        <placeName/>
                     </birth>
-                    <death when="1796-12-22"/>
-                    <occupation/>
-                    <occupation/>
-                    <note type="editorial"> <p>Godwin was brought up in part by a cousin of his father's, a Miss Hannah
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Godwin was brought up in part by a cousin of his father's, a Miss Hannah
                             Godwin who became Mrs George Sothren, of whom Godwin had fond memories.
                             George dies in 1785 and Mrs Sothren in December 1796. But there are
                             references to Sothren in the Diary linked to this member of the
@@ -52,12 +56,14 @@
                             her stepson, indeed perhaps they lived together. A letter of Amelia
                             Alderson's (Abinger c.3 f.16v) dated 5.2.1796 refers to Mrs Sothren and
                             her daughter</p>
-                        <p>Godwin records her death.</p>HAL
-                        
-  
-
-  </note>
-                    <bibl type="printedbook">St Clair, pp. 1-2</bibl>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
                 </person>
             </listPerson>
         </body>

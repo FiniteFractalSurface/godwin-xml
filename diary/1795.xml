@@ -4088,8 +4088,8 @@
                             <seg type="dMeeting" subtype="C"><persName ref="/people/PER01.html"
                                     ><placeName type="venue">Perry</placeName></persName></seg>
                         &amp; <seg type="dMeeting" subtype="C"><persName ref="/people/DEB01.html"
-                                    ><placeName type="venue">Debrett</placeName></persName></seg>;
-                            <seg type="dMeeting" subtype="See">see Hall sec</seg>. <seg
+                                ><placeName type="venue">Debrett</placeName></persName></seg>;
+                        <seg type="dMeeting" subtype="See">see <persName ref="/people/HAL06.html">Hall sec</persName></seg>. <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/HOL03.html">J
                                 Hollis</persName> calls </seg>.</ab>
                     <ab type="dDay" xml:id="g1795-11-21"><date when="1795-11-21">21. Sa.</date><seg

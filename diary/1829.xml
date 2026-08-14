@@ -256,7 +256,7 @@
                         ref="/people/GOD07.html">W</persName> dine; <seg type="dMeeting"
                         subtype="Adv">adv. <persName ref="/people/CLA02.html">Cts</persName> &amp;
                            <persName ref="/people/UWI01.html">Uwins</persName></seg></seg>. <ref
-                     type="dWrote" subtype="letter">Write to <persName>Sothren</persName></ref>.
+                              type="dWrote" subtype="letter">Write to <persName ref="/people/SOT01.html">Sothren</persName></ref>.
                      <ref type="dEvent" subtype="Temp">38 ½ / 46 ½ </ref></ab>
                <ab type="dDay" xml:id="g1829-01-27"><date when="1829-01-27">27. Tu.</date><ref
                      type="dWrote" subtype="write" target="/works/clou01.html"> Mowbray, p.
@@ -1536,7 +1536,7 @@
                      94/2</ref>. <ref type="dText" subtype="read" target="/bibl/te1755.html">Homer,
                      Lib. V, v. 74</ref>: <ref type="dText" subtype="read"
                      target="/bibl/te3164.html">V Grey, p. 320</ref>. <seg type="dMeeting"
-                     subtype="CG"><persName>Sothrens</persName></seg>&amp; <seg type="dMeeting"
+                        subtype="CG"><persName ref="/people/SOT01.html">Sothrens</persName></seg>&amp; <seg type="dMeeting"
                      subtype="CG"><persName>Coplands</persName> call</seg>: <seg type="dMeeting"
                      subtype="C">call on <persName ref="/people/ORM01.html"><placeName type="venue"
                            >Orme (<orgName>Longman’s</orgName>)</placeName></persName></seg> &amp;

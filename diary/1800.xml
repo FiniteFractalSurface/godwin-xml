@@ -2714,7 +2714,7 @@
                         <persName ref="/people/FRI03.html">Frizel</persName></seg>: <seg type="dMeal" subtype="D">dine at
                         <placeName>Timolin</placeName></seg>: <seg type="dMeal" subtype="Ta">tea
                            <persName ref="/people/BUR14.html"><placeName type="venue">Burne's, Carlow</placeName></persName>,
-                     w. <persName>Ward</persName>, <persName>Hall</persName>, &amp;c</seg>:
+                           w. <persName>Ward</persName>, <persName ref="/people/HAL07.html">Hall</persName>, &amp;c</seg>:
                   sleep.</ab>
                <ab type="dDay" subtype="NotLon" xml:id="g1800-08-05"><date when="1800-08-05">5.
                      Tu.</date><seg type="dMeeting" subtype="See"><persName>Toler</persName>,
@@ -4280,7 +4280,7 @@
                      target="/events/pu0097.html"><persName ref="/people/ROB04.html">Funeral at
                            <placeName type="venue">Old Windsor</placeName></persName>; <seg
                         type="dMeeting" subtype="Adv">adv. <persName>Warrington</persName>,
-                           <persName>Kimberley</persName> &amp; <persName>miss
+                              <persName>Kimberley</persName> &amp; <persName ref="/people/HAL08.html">miss
                      Hall</persName></seg></ref>: <seg type="dMeeting" subtype="C">call on <persName
                         ref="/people/GAW01.html" type="nah"><placeName type="venue"
                            >Gawler</placeName></persName><hi rend="sup">n</hi></seg>. <seg

@@ -10,7 +10,7 @@
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by</resp>
-                    <name></name>
+                    <name/>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -24,34 +24,33 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="GRU01" sex="1">
+                <person xml:id="HAL06" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>NAME</forename>
-                        <surname>Gruber</surname>
+                        <forename>Edward</forename>
+                        <surname>Hall</surname>
                         <addName/>
                     </persName>
                     <birth when="1000-01-01">
                         <placeName/>
                     </birth>
                     <death when="1000-12-31"/>
-                    <occupation>OCCUPATION</occupation>
+                    <occupation>Aothecary</occupation>
                     <note type="editorial">
-                        <p>See Ed Pope: Gruber 30.5.1804 at Joseph Johnson's / 21.11.1804 again / 20.1.1805 Gruber at Nicholson's / 13.2.1805 Gruber at Johnson's.
-                            
-                            See William Nichoison junior's memoir of his father (Bodleian MSS Don d175 and e125) which said that Gruber turned out to be a spy.
-                        </p>
+                        <p>See Ed Pope''s note: Edward Hall apothecary of Long Acre proposed SC!
+                            11.1.1782 by Brand Hollis 2nded Brocklesby; 1788 secretary of Whig Club;
+                            signed declaration of Friends to Liberty of Press 1792 (as did a John
+                            Hall); will PCC 1798. Very likely the Hall sec at Debrett's 1795.</p>
                     </note>
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
                         Publisher, year</bibl>
                     <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
                     <bibl type="other">
-                        <title></title>
+                        <title/>
                     </bibl>
                 </person>
             </listPerson>
         </body>
     </text>
 </TEI>
-

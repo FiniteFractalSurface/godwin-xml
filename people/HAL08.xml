@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="HAL08" sex="1">
+                    <persName>
+                        <roleName/>Miss <forename>NAME</forename>
+                        <surname>Hall</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope: Rev William Warrington vicar of Old Windsor Berks see
+                            Dictionary of Welsh Biography, dramatist and historian (1735-1824) will
+                            PCC 1828, St James Chronicle 5.3.1789 Rev William Warrington chaplain to
+                            the Earl of Bessborough presented to vicarage of Old Windsor. Not found
+                            in Alum Ox or Cantab, or Foster's Index Eccles 1800-40. William
+                            Warrington = Prestwich, Lancs 28.4.1761 Dorothy Lever. See will of her
+                            mother Dame Dorothy Robinson PCC 1789. Godwin took the Exeter mail with
+                            James Marshall the night before and supped at Englefield Green where
+                            Mary Robinson had been living with her daughter when she died. The only
+                            people Godwin noted at her funeral were "adv. Warrington, Kimberley and
+                            miss Hall". Kimberley (qv) was a grocer of Windsor and perhaps the
+                            churchwarden, miss Hall appeared nowhere else in Godwin's diary.
+                            Marshall and miss Robinson were presumably present and not mentioned by
+                            Godwin but it would have been surprising if no other friends of Mary
+                            Robinson such as John Wolcot, had made the journey from London for her
+                            funeral</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="HAL09" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>James</forename>
+                        <surname>Hall</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's notes: James Hall at Johnson's 1807 could have been James
+                            Hall DNB 1761-1832 though Godwin might have used his title Sir if it was
+                            him. It was more likely Rev James Hall MA of Chestnut Walk, Walthamstow
+                            whose Travels in Scotland were published 1807 by Joseph Johnson, his
+                            other works Discoveries on Ice Heat and Cold 1805 2nd ed 1819, Tour
+                            through Ireland 1813 2nd Ed 1822, Cottage Poems New Ed 1820. He won
+                            silver medal SEAMC 1809 for his beanstalk substitute for hemp, and wrote
+                            an article on it for Nicholson's Journal 1811. He was probably the Rev
+                            James Hall curate of Radford Semele died at Warwick (Bury and Norwich Post
+                            24.10.1821) who was buried at Warwick 7.10.1821 of the Butts. The copy
+                            of Cottage Poems in the Bodleian has a manuscript dedication, partly cut
+                            away, to Dr Parr of Hatton (Samuel Parr DNB 1747-1825) from the author.
+                            The title page described the author as curate of Rowington and Baddesley
+                            Clinton, Warwickshire, and Chaplain to the Earl of Caithness, and the
+                            book was dedicated to Lady Harriet Ferrers of Baddesley, At the end of
+                            the pamphlet were listed twelve of his publications. I could not find
+                            him in Alum Ox or Cant or Dublin. He was perhaps also the Hall at Parr's
+                            in 1794 </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

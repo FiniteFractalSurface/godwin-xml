@@ -10,7 +10,7 @@
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by</resp>
-                    <name></name>
+                    <name/>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -24,34 +24,34 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="GRU01" sex="1">
+                <person xml:id="HAL11" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>NAME</forename>
-                        <surname>Gruber</surname>
+                        <forename>Sidney</forename>
+                        <surname>Hall</surname>
                         <addName/>
                     </persName>
-                    <birth when="1000-01-01">
+                    <birth when="1788">
                         <placeName/>
                     </birth>
-                    <death when="1000-12-31"/>
-                    <occupation>OCCUPATION</occupation>
+                    <death when="1831"/>
+                    <occupation>Map engraver</occupation>
                     <note type="editorial">
-                        <p>See Ed Pope: Gruber 30.5.1804 at Joseph Johnson's / 21.11.1804 again / 20.1.1805 Gruber at Nicholson's / 13.2.1805 Gruber at Johnson's.
-                            
-                            See William Nichoison junior's memoir of his father (Bodleian MSS Don d175 and e125) which said that Gruber turned out to be a spy.
-                        </p>
+                        <p>See Ed Pope's Notes: Sidney Hall DNB 1788/9-1831will PCC 1831 map engraver
+                            and perhaps his wife Selina (as S Hall or mrs Hall) who continued his
+                            work after his death. (There was also a Sidney Hall tailor 7 William St
+                            Spa Fields Sun Fire 1826 and a Sidney A Hall 11 Queen St Lower Islington
+                            stock and garter maker Sun Fire 1833) </p>
                     </note>
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
                         Publisher, year</bibl>
                     <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
                     <bibl type="other">
-                        <title></title>
+                        <title/>
                     </bibl>
                 </person>
             </listPerson>
         </body>
     </text>
 </TEI>
-

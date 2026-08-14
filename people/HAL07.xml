@@ -24,23 +24,20 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="GRU01" sex="1">
+                <person xml:id="HAL07" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>NAME</forename>
-                        <surname>Gruber</surname>
+                        <forename>Robert</forename>
+                        <surname>Hall</surname>
                         <addName/>
                     </persName>
                     <birth when="1000-01-01">
                         <placeName/>
                     </birth>
                     <death when="1000-12-31"/>
-                    <occupation>OCCUPATION</occupation>
+                    <occupation>Merchant</occupation>
                     <note type="editorial">
-                        <p>See Ed Pope: Gruber 30.5.1804 at Joseph Johnson's / 21.11.1804 again / 20.1.1805 Gruber at Nicholson's / 13.2.1805 Gruber at Johnson's.
-                            
-                            See William Nichoison junior's memoir of his father (Bodleian MSS Don d175 and e125) which said that Gruber turned out to be a spy.
-                        </p>
+                        <p>See Ed Pope's note: 1797 Dublin Trades Robert Hall merchant </p>
                     </note>
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
