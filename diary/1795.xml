@@ -3108,7 +3108,7 @@
                                 ><persName ref="/people/RIC02.html">J Richter</persName></seg>: <seg
                             type="dMeal" subtype="S">sup at<persName ref="/people/FOU01.html"
                                     ><placeName type="venue"> Foulkes's</placeName></persName>, w.
-                                <persName>Hutchinson</persName></seg>.</ab>
+                                    <persName ref="/people/HUT03.html">Hutchinson</persName></seg>.</ab>
                     <pb n="e.202_0017r"/>
                     <ab type="dDay" xml:id="g1795-08-30"><date when="1795-08-30">Aug. 30.
                             Su.</date><seg type="dMeal" subtype="BG"><persName
@@ -3195,7 +3195,7 @@
                             at <persName ref="/people/FOU01.html"><placeName type="venue"
                                     >Foulkes's</placeName></persName>, w. <persName ref="/people/COO10.html">Cook</persName>;
                                 <seg type="dMeeting" subtype="Adv">adv.
-                                    <persName>Hutchinson</persName></seg></seg>.</ab>
+                                    <persName ref="/people/HUT03.html">Hutchinson</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1795-09-08"><date when="1795-09-08">8. Tu.</date><ref
                             type="dWrote" subtype="write" target="/works/poli01.html">Write 1
                             page</ref>. <ref type="dText" subtype="read" target="/bibl/te0602.html"
@@ -3438,7 +3438,7 @@
                                     ><placeName type="venue">Foulkes's</placeName></persName>, w.
                                 <persName ref="/people/HAR07.html">Harveys</persName>, <persName
                                 ref="/people/BAR11.html">Barnard</persName> &amp;<persName> miss
-                                Virgil</persName>, <persName>Hutchinson</persName></seg></ab>
+                                    Virgil</persName>, <persName ref="/people/HUT03.html">Hutchinson</persName></seg></ab>
                     <ab type="dDay" xml:id="g1795-09-30"><date when="1795-09-30">30. W.</date><ref
                             type="dWrote" subtype="revised" target="/works/poli01.html"
                         >Revise</ref>. <ref type="dText" subtype="read" target="/bibl/te0072.html"
@@ -3580,7 +3580,7 @@
                                     >Robinson</placeName></persName>'s, w. <persName
                                 ref="/people/HOL01.html">Ht</persName>, <persName
                                 ref="/people/SHI01.html">Shield</persName>,
-                                <persName>Heath</persName> &amp; <persName ref="/people/CHA06.html"
+                            <persName ref="/people/HEA02.html">Heath</persName> &amp; <persName ref="/people/CHA06.html"
                                 >Chalmers</persName></seg>; <seg type="dMeeting" subtype="See">see
                                 <persName ref="/people/MOO01.html">dr Moore</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1795-10-13"><date when="1795-10-13">13. Tu.</date><ref
@@ -3595,7 +3595,7 @@
                                     ><placeName type="venue">Wedgwood</placeName></persName></seg>,
                             <seg type="dMeeting" subtype="C"><persName ref="/people/MOO01.html"
                                 type="nah"><placeName type="venue">dr Moore</placeName></persName>
-                            nah</seg>, <seg type="dMeeting" subtype="C"><persName>Heath</persName>
+                                nah</seg>, <seg type="dMeeting" subtype="C"><persName ref="/people/HEA02.html">Heath</persName>
                             w. <persName ref="/people/HOL01.html">Ht</persName></seg>, <seg
                             type="dMeeting" subtype="C"><persName ref="/people/KNI02.html"
                                 type="nah"><placeName type="venue">Knight</placeName></persName>

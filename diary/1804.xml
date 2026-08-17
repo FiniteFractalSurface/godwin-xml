@@ -131,7 +131,7 @@
                      >Cellini, p. 84</ref>. <seg type="dMeeting" subtype="C">Call on <persName
                         ref="/people/PHI01.html"><placeName type="venue"
                         >Philips</placeName></persName>; <seg type="dMeeting" subtype="Adv">adv.
-                           <persName>Heath</persName></seg></seg>: <seg type="dMeal" subtype="TG"
+                           <persName ref="/people/HEA02.html">Heath</persName></seg></seg>: <seg type="dMeal" subtype="TG"
                         ><persName ref="/people/COO02.html">G M C</persName> at tea</seg>.</ab>
                <ab type="dDay" xml:id="g1804-01-11"><date when="1804-01-11">11. W.</date><ref
                      type="dText" subtype="read" target="/bibl/te1436.html">Catullus, Ep.
@@ -1516,7 +1516,7 @@
                            <persName ref="/people/CLA01.html">M J</persName>; <seg type="dMeeting"
                            subtype="Adv">adv. <persName ref="/people/OPI01.html">Opie</persName>,
                               <persName ref="/people/SHE11.html">Shee</persName>,
-                              <persName>Heath</persName>, <persName ref="/people/DAW01.html"
+                              <persName ref="/people/HEA02.html">Heath</persName>, <persName ref="/people/DAW01.html"
                               >Dawe</persName>, <persName>E Smith</persName>, <persName
                               ref="/people/BOA01.html">Boaden</persName>, <persName
                               ref="/people/BAT01.html">Batty</persName>, <persName
@@ -3654,7 +3654,7 @@
                      type="dWrote" subtype="write" target="/works/flee01.html">Fleetwood, p.
                      208</ref>. <ref type="dText" subtype="read" target="/bibl/te1016.html">Pamela,
                      p. 197</ref>. <seg type="dMeeting" subtype="M">Meet
-                     <persName>Heath</persName></seg> &amp; <seg type="dMeeting" subtype="M"
+                        <persName ref="/people/HEA02.html">Heath</persName></seg> &amp; <seg type="dMeeting" subtype="M"
                         ><persName ref="/people/TAY12.html">J Taylor</persName></seg>: <seg
                      type="dMeeting" subtype="Cn">call on <persName ref="/people/TIF01.html"
                            ><placeName type="venue">Tiffin</placeName></persName> (w. <persName

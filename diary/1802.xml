@@ -260,7 +260,7 @@
                     <ab type="dDay" xml:id="g1802-01-18"><date when="1802-01-18">18. M.</date><ref
                             type="dWrote" subtype="write" target="/works/bibl01.html">Jewish
                             History, 1/2 page</ref>. <seg type="dMeeting" subtype="C">Call on
-                                    <persName><placeName type="venue"
+                                <persName ref="/people/HEA02.html"><placeName type="venue"
                             >Heath</placeName></persName></seg>, <seg type="dMeeting" subtype="C"
                                 ><persName ref="/people/SHA99.html"><placeName type="venue"
                                     >Sharpe</placeName></persName></seg> &amp; <seg type="dMeeting"
@@ -388,7 +388,7 @@
                                     ref="/people/MUL02.html">Mullet</persName></seg></add>.</ab>
                     <ab type="dDay" xml:id="g1802-01-28"><date when="1802-01-28">28. Th.</date><ref
                             type="dWrote" subtype="write" target="/works/bibl01.html">Jewish
-                            History</ref>. <seg type="dMeeting" subtype="C">Call on <persName
+                            History</ref>. <seg type="dMeeting" subtype="C">Call on <persName ref="/people/HEA02.html"
                                 type="nah"><placeName type="venue">Heath</placeName></persName><hi
                                 rend="sup">n</hi></seg> &amp; <seg type="dMeeting" subtype="C"
                                 ><persName ref="/people/REY03.html"><placeName type="venue">E
@@ -470,7 +470,7 @@
                             type="dText" subtype="read" target="/bibl/te1319.html">Grossetête, p.
                             222</ref>. <seg type="dMeeting" subtype="CG"><persName
                                 ref="/people/REY03|REY99.html">Reynolds's</persName></seg> &amp;
-                            <seg type="dMeeting" subtype="CG"><persName type="nah">Heath</persName>
+                        <seg type="dMeeting" subtype="CG"><persName ref="/people/HEA02.html" type="nah">Heath</persName>
                             call <hi rend="sup">n</hi></seg>: <seg type="dMeal" subtype="DG"
                                 ><persName ref="/people/WOL03.html">Ja<hi rend="sup">s</hi>
                                 Wt</persName> dines</seg>.</ab>
@@ -545,7 +545,7 @@
                             type="dText" subtype="read" target="/bibl/te1323.html">Beauty &amp;
                             Beast</ref>. <seg type="dMeeting" subtype="CG"><persName
                                 ref="/people/TAY06.html">R Taylor</persName> calls</seg>: <seg
-                            type="dMeeting" subtype="C">call on <persName><placeName type="venue"
+                                    type="dMeeting" subtype="C">call on <persName ref="/people/HEA02.html"><placeName type="venue"
                                     >Heath</placeName></persName></seg>; &amp;, <seg type="dMeeting"
                             subtype="Cn">w. <persName ref="/people/ELW01.html">S E</persName>, on
                                     <persName><placeName type="venue"
@@ -1512,7 +1512,7 @@
                             >Exhibition; <persName ref="/people/OPI01.html">Opies</persName>,
                                 <persName ref="/people/BAT01.html">Batty</persName>, <persName
                                 ref="/people/SHA99.html">Sharp</persName>,
-                                <persName>Heath</persName>, <persName ref="/people/BOA01.html"
+                            <persName ref="/people/HEA02.html">Heath</persName>, <persName ref="/people/BOA01.html"
                                 >Boaden</persName>, <persName ref="/people/EST01.html"
                                 >Este</persName>, <persName ref="/people/TAY01.html">J
                                 Taylor</persName>, <persName ref="/people/PER01.html"

@@ -694,7 +694,7 @@
                                                 Skinner</persName> &amp;
                                           <persName>Porter</persName>, <persName
                                                 ref="/people/WIL23.html">Willis poet</persName>,
-                                                <persName>Holm</persName>, <persName
+                                                <persName ref="/people/HOL19.html">Holm</persName>, <persName
                                                 ref="/people/WOO03.html">mrs Wood</persName>,
                                                 <persName ref="/people/SHE02.html">M W
                                           S</persName></seg>. <ref type="dEvent" subtype="Temp">60 /
@@ -1411,7 +1411,7 @@
                                                 ref="/people/ATH01.html">Atherston</persName>, <emph
                                                 rend="deleted">Croly,</emph><persName
                                                 ref="/people/WOO03.html">mrs Wood</persName>,
-                                                <persName>Holm</persName>,
+                                                        <persName ref="/people/HOL19.html">Holm</persName>,
                                                 <persName>Wheatson</persName>,
                                                 <persName>Scharf</persName></seg>. <add><persName
                                                 ref="/people/MOR01.html"
@@ -1737,7 +1737,7 @@
                                                   <persName>Hawkes’<emph rend="deleted"
                                                 >e</emph>s</persName>, <persName
                                                 ref="/people/OWE01.html">Owen</persName>,
-                                                <persName>Hunter</persName>, <persName>Holm<emph
+                                                <persName>Hunter</persName>, <persName ref="/people/HOL19.html">Holm<emph
                                                   rend="deleted">e</emph>s</persName>,
                                                 <persName>Martineau</persName>,
                                                 <persName>Jones</persName></seg>. <add><persName>mrs
@@ -3888,7 +3888,7 @@
                                                 <persName>G Jones</persName></seg>. <seg
                                           type="dMeeting" subtype="See"><persName><placeName
                                                   type="venue">Alcala</placeName></persName>,
-                                                <persName>Hutchinson</persName>,
+                                                      <persName ref="/people/HUT03.html">Hutchinson</persName>,
                                                 <persName>Thomas</persName>; <seg type="dMeeting"
                                                 subtype="Adv">adv.
                                                 <persName ref="/people/MAC17.xml">Macaulay</persName></seg>, <ref

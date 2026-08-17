@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="HUT03" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename/>
+                        <surname>Hutchinson</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>There are several possibilities here. We have grouped the Hutchinson
+                            entries together. See Ed Pope's note: </p>
+                        <p>Possibly Bury Hutchinson, attorney and clerk to the Brewers Company at
+                            Aldermanbury from 1799 till his death in 1824. He died 3.10.1824 at
+                            Sydenham was buried at St Helen's Bishopsgate on 22.10.1824 aged 73, of
+                            Bloomsbury Square, which would make him a neighbour as well as a fellow
+                            lawyer of Foulkes. However there are other Hutchinsons in the Law Lists
+                            and Boyle's Court Guides. Later Hutchinsons could be the same but the
+                            name was quite common. A Mrs Hutchinson lived at 7 Polygon in 1799 so a
+                            near neighbour of the Godwins but none of the entries above apart from
+                            the 3 calls in 1809 were at Godwin's or Hutchinson's which does not
+                            suggest a neighbour Bury H bach otp = 24.5.1783 St Mary Aldermanbury by
+                            lic Esther Mary Glover of St Helens Ldn wit Natty Hutchinson. Bury H
+                            Addle St 1783,1785. Bury H of Brewers Hall took appr Wm Dobree 1799.
+                            Will PCC 1828 John Hutchinson gent of Wrexham (seen but gave no clues
+                            about Sir Richard).</p>
+                        <p>Clearly, the entries for 1825, 1832, and 11835 cannot be Bury Hutchinson,
+                            but may refer to a son.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -737,7 +737,7 @@
               type="dEntertainment" subtype="Museo" target="/events/mu0001.html"
                 ><placeName>Museum</placeName>; <ref type="dText" subtype="read"
                 target="/bibl/te2979.html">Lilburne</ref>; <seg type="dMeeting" subtype="Adv">adv.
-                  <persName>Harris</persName></seg></ref>: <seg type="dMeal" subtype="DG"><persName
+                  <persName ref="/people/HAR16.html">Harris</persName></seg></ref>: <seg type="dMeal" subtype="DG"><persName
                 ref="/people/SHE02.html">M W S</persName> dines</seg>: <seg type="dMeeting"
               subtype="M">meet <persName ref="/people/MAR01.html">M</persName></seg>.</ab>
           <ab type="dDay" xml:id="g1827-03-23"><date when="1827-03-23">23. F.</date><ref
@@ -1401,7 +1401,7 @@
                 target="/bibl/te3042.html">Milton</ref></ref>. <seg type="dMeal" subtype="S">Sup at
                 <persName ref="/people/REY03|REY99.html"><placeName type="venue"
                   >Reynolds’s</placeName></persName>; <seg type="dMeeting" subtype="Adv">adv.
-                  <persName>Harris</persName></seg></seg>. <seg type="dMeeting" subtype="CG"
+                    <persName ref="/people/HAR16.html">Harris</persName></seg></seg>. <seg type="dMeeting" subtype="CG"
                 ><persName ref="/people/GOD05.html">N G</persName> calls</seg>. <ref type="dText"
               subtype="read" target="/bibl/te0063.html">Livy, c. 23</ref>. <seg type="dMeal"
               subtype="DG"><persName ref="/people/SHE02.html">M W S</persName> dines</seg>.</ab>

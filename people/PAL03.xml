@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="PAL03" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Henry Robinson</forename>
+                        <surname>Palmer</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1795">
+                        <placeName/>
+                    </birth>
+                    <death when="1834"/>
+                    <occupation>Engineer</occupation>
+                    <note type="editorial">
+                        <p>Ed Pope notes: Entries after 1820 refer to Henry Robinson Palmer DNB
+                            1795-1844, who worked as an assistant to Thomas Telford DNB 1757-1834,
+                            and went on to found the Institution of Ciovil Engineers. Sir H Parnel
+                            who called at Palmer's while Godwin was there in 1820 was very likely
+                            Henry Brooke Parnell DNB1776-1820 who succeeded to a baronetcy in 1816.
+                            Only the 1825 entry which had no initial H could easily have been
+                            someone else, as Palmer was a common name. It is something of a stretch
+                            to identify entries for H P with Palmer, However, there are
+                            inconsistencies in associating the entries with H Pilcher.: viz:
+                            Godwin's general practice with relatives is to refer to H and E
+                            Prentice, rather than 'HP and Prentice'. See also 19 May 1824, 'E and S
+                            Prentice and P and HP.' and 9 February 1825 'H and S Prentice and HP'.
+                            In each case this suhhests that HP is being disctinguished from
+                            Prentice. But that leaves open whether they are references ro H Pilcher
+                            or H Palmer.  We have not currently coded them to H Palmer.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -781,7 +781,7 @@
                                 >Barry</placeName></persName></seg>: <seg type="dMeeting"
                             subtype="M">met <persName ref="/people/WIL24.html"
                             >Wilson</persName></seg> &amp; <seg type="dMeeting" subtype="M"
-                                ><persName>Heath</persName></seg>. <seg type="dMeal" subtype="D"
+                                ><persName ref="/people/HEA02.html">Heath</persName></seg>. <seg type="dMeal" subtype="D"
                             >Dine at <persName ref="/people/HOL04.html"><placeName type="venue"
                                     >Hollis</placeName></persName> with <persName
                                 ref="/people/BAR01.html"> Barry</persName> &amp; <persName

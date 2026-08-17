@@ -3713,7 +3713,7 @@
                             <seg type="dMeal" subtype="D">dine at <persName ref="/people/FOU01.html"
                                     ><placeName type="venue">Foulkes's</placeName></persName>, w.
                                 <persName ref="/people/GUR01.html">Gurney</persName>,
-                                <persName>Hutchinson</persName> &amp; <persName
+                                <persName ref="/people/HUT03.html">Hutchinson</persName> &amp; <persName
                                 ref="/people/JEN01.html">Jennings</persName>; <seg type="dMeeting"
                                 subtype="Adv">adv. <persName>Jamieson</persName></seg></seg> .</ab>
                     <ab type="dDay" xml:id="g1794-11-07"><date when="1794-11-07">7. F.</date><seg
@@ -4376,7 +4376,7 @@
                                     <persName ref="/people/COO01.html">C,</persName> <persName ref="/people/MAR01.html">M,</persName> &amp;<persName ref="/people/MOO02|MOO06.html"> M Moore</persName> call</seg>: <seg type="dMeal"
                             subtype="D">dine at <persName ref="/people/FOU01.html"><placeName
                                     type="venue">Foulkes's</placeName></persName>, w.
-                                        <persName  ref="/people/HOL01.html">H</persName>, <persName>Hutchinson</persName>,
+                                        <persName  ref="/people/HOL01.html">H</persName>, <persName ref="/people/HUT03.html">Hutchinson</persName>,
                                 <persName>Parker</persName> &amp; <persName>Watley</persName>; <seg
                                 type="dMeeting" subtype="Adv">adv. <persName>mrs
                                 Aris</persName></seg></seg>.</ab>

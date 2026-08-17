@@ -141,7 +141,7 @@
                     <ab type="dDay" xml:id="g1812-01-10"><date when="1812-01-10">10. F. </date><ref
                             type="dText" subtype="read" target="/bibl/te1946.html">Browne, Quincunx,
                             c. 1, 2, 3</ref>. <seg type="dMeeting" subtype="C">Call on
-                                    <persName><placeName type="venue"
+                                <persName ref="/people/HAR16.html"><placeName type="venue"
                             >Harris</placeName></persName></seg>. <ref type="dEvent" subtype="Weath"
                             >Deep fog</ref>.</ab>
                     <ab type="dDay" xml:id="g1812-01-11"><date when="1812-01-11">11. Sa.</date><ref
@@ -2097,7 +2097,7 @@
                                     >Hume</placeName></persName>, w. <persName
                                 ref="/people/HAZ02.html">S Hazlit</persName>; <seg type="dMeeting"
                                 subtype="Adv">adv. <persName ref="/people/WAL09.html"
-                                    >Walsh</persName>, &amp; <persName>md<hi rend="sup">ms</hi>
+                                    >Walsh</persName>, &amp; <persName ref="/people/HUT03.html">md<hi rend="sup">ms</hi>
                                         Hutchinson</persName>, <persName ref="/people/FOR07.html">Ford</persName> &amp;
                                     <persName>Bye</persName></seg>;<seg type="dMeeting"
                                 subtype="Inv"> invité <persName ref="/people/NOR01.html"
@@ -2370,7 +2370,7 @@
                                 ref="/people/CLA01.html">M J </persName>&amp;
                                 <persName>J.</persName>; <seg type="dMeeting" subtype="Adv">adv.
                                         <persName>m<hi rend="sup">es</hi> Thomson</persName>,
-                                    <persName>Hutchinson</persName> &amp; <persName>Bye</persName>,
+                                    <persName ref="/people/HUT03.html">Hutchinson</persName> &amp; <persName>Bye</persName>,
                                 &amp; <persName>mr Holland</persName> &amp;
                                     <persName>Darmony</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1812-08-10"><date when="1812-08-10">10. M.</date><ref

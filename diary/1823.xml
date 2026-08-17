@@ -1246,7 +1246,7 @@
                                 <persName ref="/people/WHI02.html"><placeName type="venue"
                                     >Whitaker</placeName></persName></seg>: <ref
                             type="dEntertainment" subtype="Exhib" target="/events/ex0001.html"
-                            >Exhibition</ref>: <seg type="dMeeting" subtype="M">meet <persName>H
+                                        >Exhibition</ref>: <seg type="dMeeting" subtype="M">meet <persName ref="/people/PAL03.html">H
                                 Palmer</persName></seg>: <seg type="dMeal" subtype="Ta">tea
                                 <persName ref="/people/WHI09.html"><placeName type="venue">E
                                     White’s</placeName></persName></seg>.</ab>
@@ -1415,7 +1415,7 @@
                             type="dWrote" subtype="write" target="/works/comm01.html">Commonwealth,
                             p. 189</ref>. <seg type="dMeeting" subtype="Sk">Seek <persName
                                 ref="/people/LAM04.html">L C Lamb</persName></seg>: <seg
-                            type="dMeeting" subtype="M">meet <persName ref="/people/PIL01.html">H
+                                    type="dMeeting" subtype="M">meet <persName ref="/people/PAL03.html">H
                                 Palmer</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1823-05-29"><date when="1823-05-29">29. Th.</date><ref
                             type="dWrote" subtype="cala" target="/works/comm01.html">Commonwealth,

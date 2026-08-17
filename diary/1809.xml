@@ -836,7 +836,7 @@
                                     >Hume’s</placeName></persName>, w. <persName>Draper</persName>,
                                 <persName>mrs Thomson</persName>, <persName ref="/people/JOH01.html"
                                 >Johnsons</persName>, <persName ref="/people/FOR07.html"
-                                >Ford</persName> &amp; <persName>mrs Hutchinson</persName>; <seg
+                                    >Ford</persName> &amp; <persName ref="/people/HUT03.html">mrs Hutchinson</persName>; <seg
                                 type="dMeeting" subtype="Adv">adv. <persName
                                     ref="/people/MOR01.html">Mortons &amp; 3
                             pupils</persName></seg></seg>. <seg type="dMeeting" subtype="CG"
@@ -2680,8 +2680,8 @@
                             subtype="C"><persName ref="/people/GAL03.html"><placeName type="venue"
                                     >Gale</placeName></persName></seg>, <seg type="dMeeting"
                                         subtype="C"><persName ref="/people/JOY02.html"><placeName type="venue"
-                            >Joy</placeName></persName></seg>, <seg type="dMeeting" subtype="C"
-                                    ><persName><placeName type="venue"
+                                                >Joy</placeName></persName></seg>, <seg type="dMeeting" subtype="C"
+                                                    ><persName ref="/people/HAR16.html"><placeName type="venue"
                             >Harris</placeName></persName></seg>, <seg type="dMeeting" subtype="C"
                                     ><persName><placeName type="venue"
                             >Walker</placeName></persName></seg> &amp;<seg type="dMeeting"
@@ -2885,7 +2885,7 @@
                     <ab type="dDay" xml:id="g1809-10-09"><date when="1809-10-09">9. M.</date><ref
                             type="dEvent" subtype="PersEvent" target="/events/pe0204.html"
                             >Calculations for Law</ref>. <seg type="dMeeting" subtype="C">Call on
-                                    <persName><placeName type="venue"
+                                <persName ref="/people/HUT03.html"><placeName type="venue"
                                 >Hutchinson</placeName></persName></seg>: <seg type="dMeeting"
                             subtype="CG"><persName ref="/people/TUR01.html">T T</persName></seg>,
                             <seg type="dMeeting" subtype="CG"><persName ref="/people/DAW01.html"
@@ -2894,7 +2894,7 @@
                     <ab type="dDay" xml:id="g1809-10-10"><date when="1809-10-10">10. Tu.</date><ref
                             type="dWrote" subtype="letter">Write to
                             <persName>Saffory</persName></ref>. <seg type="dMeeting" subtype="CG"
-                                ><persName>Hutchinson</persName> calls</seg>: <seg type="dMeeting"
+                                ><persName ref="/people/HUT03.html">Hutchinson</persName> calls</seg>: <seg type="dMeeting"
                             subtype="C">call on <persName ref="/people/WHI01.html"><placeName
                                     type="venue">J White</placeName></persName></seg>, <seg
                             type="dMeeting" subtype="C"><persName><placeName type="venue"
@@ -2924,7 +2924,7 @@
                     <ab type="dDay" xml:id="g1809-10-12"><date when="1809-10-12">12. Th.</date><ref
                             type="dWrote" subtype="letter">Write to <persName><placeName
                                     type="venue">Salisbury</placeName></persName></ref>. <seg
-                            type="dMeeting" subtype="CG"><persName>Hutchinson</persName></seg>, <seg
+                                        type="dMeeting" subtype="CG"><persName ref="/people/HUT03.html">Hutchinson</persName></seg>, <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/TUR01.html">T
                                 T</persName></seg> &amp; <seg type="dMeeting" subtype="CG"><persName
                                 ref="/people/HOL06.html">F Ht</persName> call</seg>: <ref
@@ -3301,7 +3301,7 @@
                                     Curtis</placeName></persName></seg>, <seg type="dMeeting"
                                         subtype="C"><orgName><placeName>Taylor &amp;<persName ref="/people/HES01.html">Hessey</persName>
                                 </placeName></orgName></seg>, <seg type="dMeeting" subtype="C"
-                                    ><persName><placeName type="venue"
+                                    ><persName ref="/people/HAR16.html"><placeName type="venue"
                             >Harris</placeName></persName></seg>, <seg type="dMeeting" subtype="C"
                                 ><persName ref="/people/WIL28.html"><placeName type="venue"
                                     >Wilkie</placeName></persName></seg>, <seg type="dMeeting"

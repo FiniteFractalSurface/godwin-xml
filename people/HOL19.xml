@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="HOL19" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>H</forename>
+                        <surname>Holm</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>There seem to be many contacts with Holm, and little reason to think that
+                            H Holm is being used to distinguish two Holms. It is possible that the H
+                            stands for Herr and that Holm is German. There is also one H H Holm,
+                            which, again, does not seem to distinguish the individual from the other
+                            Holms. But there are instances where he says 2 Holm and 3 Holms, and one
+                            occasion on which he refers to Holm Senior, so there is a larger family.
+                            There are a great many individual calls back and forth, but Holm is also
+                            met regularly at Mrs Woods, and also at Martins , Sass's and L.
+                            Stanhope. Which suggests a certain status. He also goes with Godwin
+                            (talkes Godwin) on the three occasions Godwin goes to an event given by
+                            the phrenologist Spuzheim; and he accompanies Godwin to King's College
+                            on one occasion. We are currently treating
+                            all the Holms as one Holm!</p><p>The pattern of visits is odd, with
+                            frequent interaction and then periods in which Holm seems to be
+                            away.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -2000,14 +2000,14 @@
                      target="/bibl/te3272.html"> Homer, v. 529; Lib. VII, v. 66</ref>. <seg
                      type="dMeeting" subtype="SitTo">Sit to <persName ref="/people/PIC01.html"
                            ><placeName type="venue">Pickersgil</placeName></persName></seg>: <seg
-                     type="dMeeting" subtype="CG"><persName>Holm</persName> calls</seg>. <ref
+                              type="dMeeting" subtype="CG"><persName ref="/people/HOL19.html">Holm</persName> calls</seg>. <ref
                      type="dEvent" subtype="Temp">64 ½ / 70</ref></ab>
                <ab type="dDay" xml:id="g1830-07-15"><date when="1830-07-15">15. Th. </date><ref
                      type="dEvent" subtype="PersHlth" target="/events/he0000|he0072.html"
                         ><foreign>Bien</foreign></ref>.<ref type="dWrote" subtype="write"
                      target="/works/thou01.html"> Belief, p. 9/2</ref>.<ref type="dText"
                      subtype="read" target="/bibl/te3272.html"> Homer, v. 170</ref>.<seg
-                     type="dMeeting" subtype="CG"><persName>Holm</persName> calls</seg>. <ref
+                        type="dMeeting" subtype="CG"><persName ref="/people/HOL19.html">Holm</persName> calls</seg>. <ref
                      type="dEvent" subtype="Temp">67 ½ / 70 ½ </ref></ab>
                <ab type="dDay" xml:id="g1830-07-16"><date when="1830-07-16">16. F.</date><ref
                      type="dEvent" subtype="PersHlth" target="/events/he0000.html">Throat</ref>.<ref
@@ -2032,7 +2032,7 @@
                      82</ref>. <seg type="dMeal" subtype="BG"><persName ref="/people/SHE02.html">M W
                         S</persName> breakfasts</seg>: <seg type="dMeeting" subtype="CG"><persName
                         ref="/people/ANG01.html">W H Angelo</persName> calls</seg>:<seg type="dMeal"
-                     subtype="D"> dine at <persName><placeName type="venue"
+                           subtype="D"> dine at <persName ref="/people/HOL19.html"><placeName type="venue"
                         >Holm’s</placeName></persName>, w. <persName>Chichester</persName>,
                         <persName>Sedgwick</persName>, <persName ref="/people/WOO03.html"
                         >Woods</persName>, <persName ref="/people/HAL02.html"> miss Hall</persName>
@@ -2116,7 +2116,7 @@
                      type="dEvent" subtype="PersEvent" target="/events/pe0442.html"
                         ><persName>Swiftsure</persName>, to <placeName>London</placeName></ref>:
                      <seg type="dMeal" subtype="D">dine in <placeName>Gower Plce</placeName></seg>.
-                     <seg type="dMeeting" subtype="CG"><persName type="nah">H H Holm</persName>
+                  <seg type="dMeeting" subtype="CG"><persName ref="/people/HOL19.html" type="nah">H H Holm</persName>
                      calls <hi rend="sup">n</hi></seg>. <ref type="dText" subtype="read"
                      target="/bibl/te0188.html">1/2 Midsummer Night</ref>: <ref type="dText"
                      subtype="read" target="/bibl/te1014.html">Amelia, Vol. II, p. 44</ref>. <ref
@@ -2156,7 +2156,7 @@
                <ab type="dDay" xml:id="g1830-07-30"><date when="1830-07-30">30. F.</date><ref
                      type="dText" subtype="read" target="/bibl/te3272.html">Homer, v. 429</ref>:
                      <ref type="dText" subtype="read" target="/bibl/te1014.html">Amelia, p.
-                     256</ref>: <seg type="dMeeting" subtype="Cn">Call on <persName><placeName
+                        256</ref>: <seg type="dMeeting" subtype="Cn">Call on <persName ref="/people/HOL19.html"><placeName
                            type="venue">H Holm</placeName></persName>, w.<persName
                         ref="/people/CLA01.html"> M J</persName></seg>: <seg type="dMeal"
                      subtype="DG"><persName ref="/people/SHE02.html">M W S</persName> &amp;
@@ -2380,7 +2380,7 @@
                      4/2</ref>. <ref type="dText" subtype="read" target="/bibl/te3272.html">Homer,
                      v. 412</ref>: <ref type="dText" subtype="read" target="/bibl/te2787.html">Edin.
                      Rev.</ref><seg type="dMeeting" subtype="C">Call on <persName>Taylor, G S
-                     </persName></seg>: <seg type="dMeeting" subtype="CG"><persName>Holm</persName>
+                     </persName></seg>: <seg type="dMeeting" subtype="CG"><persName ref="/people/HOL19.html">Holm</persName>
                      calls</seg>. <ref type="dEvent" subtype="Temp">60 ½ / 65</ref></ab>
                <ab type="dDay" xml:id="g1830-08-21"><date when="1830-08-21">21. Sa.</date><ref
                      type="dWrote" subtype="write" target="/works/thou01.html">Body &amp; Mind, p.
@@ -2416,7 +2416,7 @@
                         >r</hi></persName> sups; <seg type="dMeeting" subtype="Adv">adv.
                            <persName>Lane</persName></seg>; <seg type="dMeeting" subtype="Inv"
                         >invités <foreign><persName>pere</persName></foreign> &amp;
-                           <persName>Holm</persName></seg></seg>. <ref type="dEvent" subtype="Temp">
+                              <persName ref="/people/HOL19.html">Holm</persName></seg></seg>. <ref type="dEvent" subtype="Temp">
                      66 / 68</ref></ab>
                <ab type="dDay" xml:id="g1830-08-24"><date when="1830-08-24">24. Tu.</date><ref
                      type="dWrote" subtype="write" target="/works/thou01.html">Body &amp; Mind,
@@ -2424,7 +2424,7 @@
                      v. 200</ref>: <ref type="dText" subtype="read" target="/bibl/te3322.html"
                      >D’Israeli, p. 134</ref>.<seg type="dMeeting" subtype="CG"><persName
                         ref="/people/SHE02.html">M W S</persName></seg>, <seg type="dMeeting"
-                     subtype="CG"><persName>Holm</persName></seg> &amp;<seg type="dMeeting"
+                           subtype="CG"><persName ref="/people/HOL19.html">Holm</persName></seg> &amp;<seg type="dMeeting"
                      subtype="CG"><persName ref="/people/COO03.html">Cooke</persName>
                      call</seg>:<seg type="dMeeting" subtype="M"><seg type="dMeeting" subtype="Do"
                         >meet <persName ref="/people/REY99.html">Reynolds</persName>, w. <persName
@@ -2469,8 +2469,8 @@
                      çala</ref>. <ref type="dText" subtype="read" target="/bibl/te3272.html">Homer,
                      v. 600</ref>: <emph rend="brackets"><ref type="dText" subtype="read"
                         target="/bibl/te3322.html">D’Israeli, p. 410</ref>. <seg type="dMeeting"
-                        subtype="Do">Cast at <persName><placeName type="venue"
-                              >Spurzheim’s</placeName></persName>, w. <persName>Holms</persName>,
+                           subtype="Do">Cast at <persName ref="/people/HOD01.html"><placeName type="venue"
+                                 >Spurzheim’s</placeName></persName>, w. <persName ref="/people/HOL19.html">Holms</persName>,
                            <persName ref="/people/COO03.html">Cooke</persName> &amp; <persName
                            ref="/people/CLA01.html">M J</persName>; <seg type="dMeeting"
                            subtype="Adv">adv. <persName>mrs Maugham</persName></seg></seg>: <ref
@@ -2595,7 +2595,7 @@
                      217</ref>: <ref type="dText" subtype="read" target="/bibl/te0357.html">Cecilia,
                      p. 40</ref>. <seg type="dMeeting" subtype="CG"><persName
                         ref="/people/BOO01.html">Booth</persName></seg> &amp; <seg type="dMeeting"
-                     subtype="CG"><persName type="nah">H Holm</persName> call <hi rend="sup"
+                           subtype="CG"><persName ref="/people/HOL19.html" type="nah">H Holm</persName> call <hi rend="sup"
                      >n</hi></seg>. <ref type="dEvent" subtype="Temp">63 / 67 ½</ref></ab>
                <ab type="dDay" xml:id="g1830-09-09"><date when="1830-09-09">9. Th.</date><ref
                      type="dWrote" subtype="write" target="/works/thou01.html">Rashness, p.
@@ -2692,7 +2692,7 @@
                      type="dWrote" subtype="write" target="/works/thou01.html">Innocence, p.
                      9/2</ref>. <ref type="dText" subtype="read" target="/bibl/te3272.html">Homer,
                      v. 209</ref>: <ref type="dText" subtype="read" target="/bibl/te0357.html"
-                     >Cecilia, p. 244</ref>. <seg type="dMeeting" subtype="C">Call on <persName
+                        >Cecilia, p. 244</ref>. <seg type="dMeeting" subtype="C">Call on <persName ref="/people/HOL19.html"
                         type="nah"><placeName type="venue">H Holm</placeName></persName><hi
                         rend="sup">n</hi></seg>: <seg type="dMeal" subtype="D">dine at<persName
                         ref="/people/REY05.html"><placeName type="venue">F
@@ -2722,7 +2722,7 @@
                      >Cecilia, p. 253</ref>. <seg type="dMeeting" subtype="CG"><persName
                         ref="/people/MAR01.html">M</persName></seg>, <seg type="dMeeting"
                      subtype="CG"><persName ref="/people/TAY06.html">R T</persName></seg> &amp; <seg
-                     type="dMeeting" subtype="CG"><persName>H Holm</persName> calls</seg>.<ref
+                        type="dMeeting" subtype="CG"><persName ref="/people/HOL19.html">H Holm</persName> calls</seg>.<ref
                      type="dEvent" subtype="Temp"> 61 / 65 ½</ref></ab>
                <ab type="dDay" xml:id="g1830-09-20"><date when="1830-09-20">20. M.</date><ref
                      type="dWrote" subtype="write" target="/works/thou01.html">Abortion, p.
@@ -3546,7 +3546,7 @@
                      çala</ref>. <ref type="dText" subtype="read" target="/bibl/te2348.html">Man of
                      Mode, acts 1, 2, 3</ref>.<seg type="dMeeting" subtype="CG"><persName
                         ref="/people/GOD07.html">W</persName> calls</seg>. <seg type="dMeeting"
-                     subtype="Aus"><persName>Holm</persName> au soir</seg>.<ref type="dEvent"
+                           subtype="Aus"><persName ref="/people/HOL19.html">Holm</persName> au soir</seg>.<ref type="dEvent"
                      subtype="Temp"> 54 / 56</ref></ab>
                <ab type="dDay" xml:id="g1830-12-10"><date when="1830-12-10">10. F. </date><ref
                      type="dWrote" subtype="write" target="/works/thou01.html">Love, 1/2 page</ref>.
@@ -3671,7 +3671,7 @@
                      3/2</ref>. <ref type="dText" subtype="read" target="/bibl/te3272.html">Homer,
                      v. 202</ref>: <ref type="dText" subtype="read" target="/bibl/te3326.html"
                      >Spurzheim, cala</ref>. <seg type="dMeeting" subtype="C">Call on
-                           <persName><placeName type="venue">Holm</placeName></persName></seg>.<ref
+                        <persName ref="/people/HOL19.html"><placeName type="venue">Holm</placeName></persName></seg>.<ref
                      type="dEvent" subtype="Temp"> 51 ½ / 54 ½ </ref></ab>
                <ab type="dDay" xml:id="g1830-12-23"><date when="1830-12-23">23. Th.</date><ref
                      type="dWrote" subtype="write" target="/works/thou01.html">Diffidence, p.
@@ -3699,7 +3699,7 @@
                      8</ref>: <ref type="dWrote" subtype="write" target="/works/thou01.html"
                         >Self-Compla<emph rend="deleted">n</emph>cency, p. 1</ref>. <ref
                      type="dText" subtype="read" target="/bibl/te3272.html">Homer, v. 461</ref>.
-                     <seg type="dMeeting" subtype="CG"><persName>Holm</persName> calls</seg>: <seg
+                  <seg type="dMeeting" subtype="CG"><persName ref="/people/HOL19.html">Holm</persName> calls</seg>: <seg
                      type="dMeal" subtype="DG"><persName ref="/people/SHE02.html">M W S</persName>,
                         <persName ref="/people/SHE03.html">Percy</persName> &amp; <persName
                         ref="/people/GOD07|GOD18.html">Ws </persName>dine{;} <seg type="dMeeting"

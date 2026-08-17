@@ -3954,7 +3954,7 @@
                         >Fell</persName></seg></ref>. <seg type="dMeeting" subtype="M">meet
                         <persName ref="/people/FOO02.html">Foot</persName></seg>.</ab>
                <ab type="dDay" xml:id="g1799-12-24"><date when="1799-12-24">24. Tu. </date><seg
-                     type="dMeeting" subtype="C">Call On <persName><placeName type="venue"
+                     type="dMeeting" subtype="C">Call On <persName ref="/people/HAR03.html"><placeName type="venue"
                            >Harris</placeName></persName></seg> &amp; <seg type="dMeeting"
                               subtype="C"><persName ref="/people/CON06.html" type="nah"><placeName type="venue"> Consit
                         </placeName></persName><hi rend="sup">n</hi></seg>: <seg type="dMeeting"

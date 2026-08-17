@@ -3476,7 +3476,7 @@
                                     >Northcote</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName ref="/people/MUL01.html"><placeName type="venue"
                                     >Mulready</placeName></persName></seg>, <emph rend="deleted"
-                            >&amp;</emph><seg type="dMeeting" subtype="C"><persName><placeName
+                                        >&amp;</emph><seg type="dMeeting" subtype="C"><persName ref="/people/HEA02.html"><placeName
                                     type="venue">Heath</placeName></persName></seg>, &amp; <seg
                             type="dMeeting" subtype="Cn"><persName ref="/people/BAR04.html"
                                     ><placeName type="venue">Barnard</placeName></persName></seg>,
@@ -3976,7 +3976,7 @@
                                     J</persName> &amp; <persName ref="/people/TUR01.html">T
                                     T</persName>; <seg type="dMeeting" subtype="Adv">adv.
                                         <persName ref="/people/BER03.html">mrs Beresford</persName>,
-                                        <persName>Heath</persName> (&amp; <persName
+                                        <persName ref="/people/HEA02.html">Heath</persName> (&amp; <persName
                                         ref="/people/BLA01.html">Blake</persName>)</seg>; <ref
                                     type="dEvent" subtype="other">Delinquent</ref></seg></ref>.</ab>
                     <ab type="dDay" xml:id="g1805-11-15"><date when="1805-11-15">15. F. </date><ref

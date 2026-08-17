@@ -1184,7 +1184,7 @@
                             on <persName ref="/people/NIC01.html"><placeName type="venue"
                                     >Nicholson</placeName></persName> (<placeName>Berwick
                                 Str</placeName>)</seg> &amp; <seg type="dMeeting" subtype="Cn"
-                                ><persName ref="/people/COL01.html"/><persName><placeName
+                                    ><persName ref="/people/COL01.html"/><persName ref="/people/HEA02.html"><placeName
                                     type="venue">Heath</placeName></persName></seg>: <seg
                             type="dMeeting" subtype="C">call on <persName ref="/people/JOH01.html"
                                     ><placeName type="venue">Johnson</placeName></persName></seg>:
@@ -1469,7 +1469,7 @@
                     <ab type="dDay" xml:id="g1807-06-02"><date when="1807-06-02">2. Tu.</date><ref
                             type="dText" subtype="read" target="/bibl/te1213.html">Shakespear,
                             Sonnets, 66</ref>. <seg type="dMeeting" subtype="C">Call on
-                                    <persName><placeName type="venue"
+                                <persName ref="/people/HEA02.html"><placeName type="venue"
                             >Heath</placeName></persName></seg>, &amp; <seg type="dMeeting"
                             subtype="Cn">w. <persName ref="/people/TUR01.html">T T</persName>, on
                                 <persName ref="/people/NIC01.html"><placeName type="venue"
