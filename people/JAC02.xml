@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="JAC02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>John</forename>
+                        <surname>Jacob</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's account: John Jacob died 15.7.1804 in his 70th year. In his
+                            will (Nat Arch PROB11/1411) he made his brother Joseph of Fulham,
+                            coachmaker, an executor. In Ann Godwin's letter of 1805 (Abinger c.9 f2)
+                            she said of Mr Benford (who had just died) "he was a trustee for a 150 3
+                            per cent stock for me had been ill ever since Mr Jacob died....wrote to
+                            Jo Jacob about it". Joseph Jacob was a coachmaker at various London
+                            addresses from 1767( 31 St Mary Axe to 1783, Greek St Soho from 1784),
+                            in his will proved 1832 he was called gentleman of Kensington (Nat Arch
+                            PROB11/1800). The uncoded Jacob entries in the diary were probably
+                            mostly Joseph, certainly after John Jacob died. The first entry, of
+                            5.11.1791, Godwin called on Jacob and talked of Mrs John J; then on
+                            8.11.1791 he called 'on Mrs Jacob, fr'. On 24.11.1791, after two more
+                            calls on Jacob (11.11.1791 and 22.11.1791) he supped at Jacob's and
+                            apologised 'to Mme'. The clearest reading would be that 5th Nov he
+                            called on Joseph Jacob, on 8th Nov on Mrs John Jacob and on 24th Nov
+                            supped at John Jacob's, but it is certainly ambiguous. (Another question
+                            is what 'fr' meant - see fr). 20.12.1791, 12.1.1792, 29.1.1792,
+                            30.1.1792, 21.2.1792, 6.3.1792, 12.3.1792, 19.3.1792 and 16.4.1792 were
+                            mostly calls on Jacob and could have been either brother. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

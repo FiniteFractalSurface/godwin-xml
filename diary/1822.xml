@@ -752,7 +752,7 @@
                                 subtype="Adv">adv. <persName ref="/people/BOI01.html">H B</persName>
                                 &amp; <persName ref="/people/BOI04.html">C T</persName> &amp;
                                     <persName>O</persName></seg></seg>: <seg type="dMeeting"
-                            subtype="CG"><persName>Hooley</persName> calls</seg>.</ab>
+                                        subtype="CG"><persName ref="/people/HOO03.html">Hooley</persName> calls</seg>.</ab>
                     <ab type="dDay" xml:id="g1822-03-29"><date when="1822-03-29">29. F.</date><ref
                             type="dWrote" subtype="write" target="/works/comm01.html"> Commonwealth,
                             2 1/2 pp</ref>. <ref type="dText" subtype="read"
@@ -893,7 +893,7 @@
                             target="/bibl/te2637.html">Ariosto, st. 83</ref>. <seg type="dMeeting"
                             subtype="C">Call on <persName ref="/people/HAY02.html"><placeName
                                     type="venue">Hayward</placeName></persName></seg>: <seg
-                            type="dMeeting" subtype="See"><persName type="nah">Hooley</persName><hi
+                                        type="dMeeting" subtype="See"><persName ref="/people/HOO03.html" type="nah">Hooley</persName><hi
                                 rend="sup">na</hi></seg>: <seg type="dMeal" subtype="SG"><persName
                                 ref="/people/ROS01.html">Rosser</persName> sups</seg>.</ab>
                     <ab type="dDay" xml:id="g1822-04-15"><date when="1822-04-15">15. M.</date><ref
@@ -3442,7 +3442,7 @@
                             XXIII</ref>: <ref type="dText" subtype="read" target="/bibl/te0394.html"
                             >Boccaccio, p. 49</ref>. <seg type="dMeeting" subtype="CG"><persName
                                 ref="/people/HAY02.html">Hayward</persName></seg>, <seg
-                            type="dMeeting" subtype="CG"><persName>Hooley</persName></seg> &amp;
+                                    type="dMeeting" subtype="CG"><persName ref="/people/HOO03.html">Hooley</persName></seg> &amp;
                             <seg type="dMeeting" subtype="CG"><persName ref="/people/MAR01.html"
                                 >M</persName> call</seg>: <seg type="dMeeting" subtype="C">call on
                                 <persName ref="/people/DAV01.html"><placeName type="venue"

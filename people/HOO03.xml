@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="HOO03" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Robert and Charlotte</forename>
+                        <surname>Hooley</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Carpenter and schoolteacher</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's note: In a letter dated 5.9.1805 from Mary Jane Godwin to
+                            James Wollstonecraft (Bodleian Abinger c9 f33-4) she wrote "the children
+                            all well, miss Hooley still with them". Charlotte dau of Robert and Sarah
+                            Hooley was bapt St Marylebone 9.1784 born 2.8.1784. Robert Hooley
+                            carpenter of High St Marylebone took an apprentice in 1791. He was
+                            insured at 37 East St, Manchester Sq, Sun Fire 1797. He was a witness on
+                            21.11.1801 at the Old Bailey of events in the Bedford Arms, South St,
+                            Manchester Sq. He voted for Mainwaring and Byng in the 1802 Middlesex
+                            election on a freehold house at Chelsea Hospital, his address was 14
+                            North St Marylebone. He was buried 19.10.1820 at St George in the East,
+                            Stepney, of Chapel St. Charlotte Hooley was a schoolmistress at 3
+                            Frederick Street, Marylebone in the 1841 census age 50 and the 1851
+                            census age 66 unmarried, she died 1858 Jan-Mar. It was presumably
+                            Charlotte rather than her father who accompanied the Godwins and Luzena
+                            Smith to Sadlers Wells in 1805, so Godwin used plain Hooley for both of
+                            them, presumably it was the father who came to Primrose St in his role
+                            as carpenter, but it could have been either of them who slept 4 nights
+                            at Skinner St in 1807. The C H of 21.12.1808 was likely Charlotte
+                            Hooley, she had been to theatre with the children a month before. The
+                            calls of 1822 and 1824 were probably Charlotte, her father had died, and
+                            perhaps she was already running a school. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

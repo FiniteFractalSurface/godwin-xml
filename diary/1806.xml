@@ -80,7 +80,7 @@
                     <ab type="dDay" xml:id="g1806-01-06"><date when="1806-01-06">6. M. </date><ref
                             type="dWrote" subtype="letter">Letter to <persName
                                 ref="/people/WRO01.html">Wroughton</persName></ref>. <seg
-                            type="dMeeting" subtype="CG"><persName>Hooley</persName> calls</seg>.
+                                    type="dMeeting" subtype="CG"><persName ref="/people/HOO03.html">Hooley</persName> calls</seg>.
                             <ref type="dEvent" subtype="PersEvent" target="/events/pe0152.html"
                                 ><foreign>Cherche mon
                         <persName>Pere</persName></foreign></ref>.</ab>
@@ -2132,7 +2132,7 @@
                                 ref="/people/HAU01.html">Houghton</persName>, <persName
                                 ref="/people/MIL01.html">Miles</persName> &amp;
                                 <persName>Newnum</persName></seg>: <seg type="dMeeting" subtype="C"
-                            >call on <persName><placeName type="venue"
+                                    >call on <persName ref="/people/JAC01.html"><placeName type="venue"
                             >Jacob</placeName></persName></seg>, <seg type="dMeeting" subtype="C"
                                     ><persName><placeName type="venue"
                                 >Brompton</placeName></persName></seg>: <seg type="dMeal"
@@ -3073,7 +3073,7 @@
                             Su.</date><seg type="dMeeting" subtype="C">Call on <persName
                                 ref="/people/CUR01.html" type="nah"><placeName type="venue"
                                     >Curran</placeName></persName><hi rend="sup">n</hi></seg> &amp;
-                            <seg type="dMeeting" subtype="C"><persName><placeName type="venue"
+                        <seg type="dMeeting" subtype="C"><persName ref="/people/JAC01.html"><placeName type="venue"
                                     >Jacob</placeName></persName></seg>: <seg type="dMeal"
                             subtype="D">dine at <persName><placeName type="venue">Johnson’s, P
                                     C</placeName></persName>, w. <persName ref="/people/FUS01.html"
