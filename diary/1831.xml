@@ -98,7 +98,7 @@
                      target="/events/mu0001.html">Museum; <ref type="dText" subtype="read"
                         target="/bibl/te3367.html">Hartshorn</ref></ref>. <seg type="dMeeting"
                      subtype="CG"><persName>M<hi rend="sup">es</hi> Jones</persName></seg> &amp;
-                     <seg type="dMeeting" subtype="CG"><persName type="nah">Maugham</persName> call
+                  <seg type="dMeeting" subtype="CG"><persName ref="/people/MAU02.html" type="nah">Maugham</persName> call
                         <hi rend="sup">n</hi></seg>: <seg type="dMeeting" subtype="CG"><persName
                         ref="/people/REV01|GIS01.html">Gisbornes</persName> call</seg>. <ref
                      type="dEvent" subtype="Temp">45 ½ / 48</ref></ab>
@@ -108,7 +108,7 @@
                      380</ref>: <ref type="dText" subtype="read" target="/bibl/te3366.html">Byron,
                      p. 626</ref>. <seg type="dMeeting" subtype="CG"><persName
                         ref="/people/REY05.html">F R</persName></seg>, &amp; <seg type="dMeeting"
-                     subtype="CG"><persName>M<hi rend="sup">es</hi> Maugham</persName></seg> &amp;
+                           subtype="CG"><persName ref="/people/MAU02.html">M<hi rend="sup">es</hi> Maugham</persName></seg> &amp;
                      <seg type="dMeeting" subtype="CG"><persName ref="/people/WIL30.html"
                         >Wilks</persName> call</seg>. <ref type="dEvent" subtype="Temp">43 ½ /
                      45</ref></ab>
@@ -132,7 +132,7 @@
                         ref="/people/ALD01.html">Aldises</persName>, &amp; <persName
                         ref="/people/BOO03.html">M<hi rend="sup">es</hi> Booth</persName> &amp;
                         <persName>Gardner</persName>; <seg type="dMeeting" subtype="Inv">invités
-                           <persName>Maugham</persName> &amp; <persName ref="/people/WIL30.html"
+                           <persName ref="/people/MAU02.html">Maugham</persName> &amp; <persName ref="/people/WIL30.html"
                            >Wilkses, M P</persName></seg></seg>. <add><persName
                         ref="/people/BAN01.html">Bannister</persName>, <emph rend="deleted"
                         >&amp;</emph><persName>Barnet</persName>, &amp;
@@ -172,7 +172,7 @@
                      <seg type="dMeeting" subtype="C"><persName ref="/people/SHE02.html"><placeName
                            type="venue">M W S</placeName></persName></seg>: <seg type="dMeal"
                      subtype="D">dine at <persName><placeName type="venue">C
-                        Jones’s</placeName></persName>, w. <persName>Maughams</persName> &amp;
+                           Jones’s</placeName></persName>, w. <persName ref="/people/MAU02.html">Maughams</persName> &amp;
                         <persName ref="/people/WIL30.html">Wilkses</persName></seg>: <seg
                      type="dMeal" subtype="TG"><persName ref="/people/GOD05.html" type="nah">N
                         G</persName> at tea <hi rend="sup">n</hi></seg>. <ref type="dEvent"
@@ -349,7 +349,7 @@
                      301</ref>: <ref type="dText" subtype="read" target="/bibl/te1105.html">A
                      Cunningham, Vol. IV, p. 142</ref>. <seg type="dMeeting" subtype="CG"><persName
                         ref="/people/SMI04.html">A Smith</persName> calls</seg>: <seg type="dMeal"
-                     subtype="D">dine at <persName><placeName type="venue"
+                           subtype="D">dine at <persName ref="/people/MAU02.html"><placeName type="venue"
                         >Maugham’s</placeName></persName>, w. <persName ref="/people/WIL30.html"
                         >Wilks</persName>, <persName>Le Moores</persName>,
                            <persName ref="/people/HOL19.html">Holm</persName>, <persName>Stuart</persName> &amp;
@@ -611,7 +611,7 @@
                         subtype="Lect" target="/events/le0028.html"><persName ref="/people/SPU01.html">Spurzheim’s</persName>
                      Lecture; <seg type="dMeeting" subtype="Adv">adv. <persName>Drew</persName>
                         &amp; <persName>Levison</persName></seg></ref>: <seg type="dMeeting"
-                     subtype="C">call on <persName type="nah"><placeName type="venue"
+                           subtype="C">call on <persName ref="/people/MAU02.html" type="nah"><placeName type="venue"
                            >Maugham</placeName></persName><hi rend="sup">n</hi></seg>: <seg
                      type="dMeal" subtype="S">sup at <persName ref="/people/HOD01.html"><placeName
                            type="venue">Hodgets’</placeName></persName></seg>. <emph rend="faint"
