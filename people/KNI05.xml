@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="KNI05" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>William</forename>
+                        <surname>Knighton</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1776">
+                        <placeName/>
+                    </birth>
+                    <death when="1836"/>
+                    <occupation>courtier</occupation>
+                    <note type="editorial">
+                        <p>Ed Pope notes: Very likely William Knighton DNB 1776-1836 courtier and
+                            physician, moved to London 1803, made a baronet 1812 and became advisor
+                            to George IV (which fits Godwin's writing to him) and had "taste,
+                            especially in painting, being a friend of Lawrence and a patron of
+                            Wilkie" (DNB) which fits his visits to Northcote. His wife was Dorothea
+                            nee Hawker and his son was William Wellesley Knighton 1811 - 1885. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
