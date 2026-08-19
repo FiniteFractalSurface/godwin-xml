@@ -98,7 +98,7 @@
                                 >Haughton</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName ref="/people/KNO01.html"><placeName type="venue"
                                     >Knowles</placeName></persName></seg>:<seg type="dMeeting"
-                            subtype="M"> meet <persName>capt. Curran</persName></seg>: <seg
+                                        subtype="M"> meet <persName ref="/people/CUR06.html">capt. Curran</persName></seg>: <seg
                             type="dMeal" subtype="DG"><persName ref="/people/MAR01.html"
                                 >M</persName> dines</seg>: <seg type="dMeal" subtype="TG"><persName
                                 ref="/people/HOG01.html">Hogan</persName> &amp; <persName>R
@@ -1409,7 +1409,7 @@
                                         <persName ref="/people/BUR03.html">M Burney</persName>,
                                         <persName ref="/people/HOL06.html">F Ht</persName>,
                                         <persName>mrs Ayrton</persName>, &amp; <persName
-                                        ref="/people/CUR01.html">Currans</persName>; w. <persName
+                                            ref="/people/CUR01|CUR06.html">Currans</persName>; w. <persName
                                         ref="/people/CLA01.html">M
                             J</persName></seg></seg></ref>:<seg type="dMeeting" subtype="M"> meet
                                 <persName>C L Moody</persName></seg></ab>

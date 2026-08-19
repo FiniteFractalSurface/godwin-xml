@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="JAM02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Thomas</forename>
+                        <surname>Jamieson</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Surgeon</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's notes - which note the uncertainty about whether the
+                            identification is right. </p><p>Possibly Thomas Jameson surgeon Royal
+                            Navy 1777 / surgeon and apothecary Hart St Bloomsbury 1779 / of Hart St
+                            took appr Edwd Elton 1786 / steward of Scottish Hospital, London 1787 /
+                            married 10.4.1787 St George Bloomsbury Cetherine Sharp / A Treatise on
+                            Diluents publ.1789 by TJ surgeon of HM Navy and practitioner in
+                            Bloomsbury / Two Cases of Hydrocephalus, Medical Society 1790 / MD by
+                            1802, at Bloomsbury 1803, at Cheltenham 1804 / Morning Post 2.2.1811
+                            died at his house in Upper Berkeley St, Portman Sq, father to Dr Jameson
+                            physician to the Baltic fleet / Thomas Jameson's will PCC 1811 of Upper
+                            Berkeley St, late surgeon general of New South Wales, son John Royal
+                            Navy, infant daughters Elizabeth, Harriot, Matilda. Also surgeon's 1st
+                            mate of Sirius, at Norfolk Island 1788, Dartmouth College, New Hampshire
+                            1797, surgeon of Norfolk Island 1797-1809, maybe another of same name?
+                            Neighbour of Foulkes and saw Godwin in company with Smith possibly
+                            surgeon see (Smith George). </p>
+                        <p> In David Webster's letter to Godwin (Bodleian Abinger c7 f78-9) he
+                            mentioned Mr Jameson portrait painter as having suggested he contact
+                            Godwin. I haven't discovered who that might have been but note that
+                            Godwin called on the artist James Northcote DNB 1746-1831 with Jamieson
+                            on 28.1.1796</p><p>The entries after 1815 have not be included under
+                            this code.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

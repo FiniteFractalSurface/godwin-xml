@@ -271,7 +271,7 @@
                      <seg type="dMeeting" subtype="CG"><persName ref="/people/COM01.html"
                         >Combe</persName></seg> &amp; <seg type="dMeeting" subtype="CG"><persName
                         ref="/people/TOB02.html">Tobin</persName> call</seg>: <seg type="dMeeting"
-                     subtype="M">meet <persName>K Courtenay</persName></seg>: <seg type="dMeeting"
+                           subtype="M">meet <persName ref="/people/COU04.html">K Courtenay</persName></seg>: <seg type="dMeeting"
                      subtype="C">call on <persName ref="/people/CHA01.html"><placeName type="venue"
                            >Chandler</placeName></persName>; <seg type="dMeeting" subtype="Adv">adv.
                            <persName ref="/people/PHI02.html">Philips</persName></seg></seg>: <seg
@@ -1820,7 +1820,7 @@
                         ref="/people/CLI02.html">Cliffords</persName>, <persName
                         ref="/people/HAR02.html">Hardy</persName>, <persName
                         ref="/people/JOY01.html">Joyce</persName>, <persName>Shepherd</persName>,
-                        <persName ref="/people/WIL07.html">Wildman</persName> &amp; <persName>P
+                        <persName ref="/people/WIL07.html">Wildman</persName> &amp; <persName ref="/people/COU05.html">P
                         Courtenay</persName>; <seg type="dMeeting" subtype="Adv">adv.
                            <persName>Pearsons</persName></seg></seg>.</ab>
                <ab type="dDay" xml:id="g1799-06-17"><date when="1799-06-17">17. M.</date><ref
@@ -3673,7 +3673,7 @@
                         W</persName>,) </seg><seg type="dMeeting" subtype="M"><persName
                         ref="/people/TIE01.html">Tierney</persName></seg>, <seg type="dMeeting"
                      subtype="M"><persName ref="/people/BAR01.html">Barry</persName></seg>, (&amp;
-                     <seg type="dMeeting" subtype="M"><persName ref="/people/COU01.html"
+                     <seg type="dMeeting" subtype="M"><persName ref="/people/COU05.html"
                         >Courtenay</persName></seg>): <seg type="dMeal" subtype="TG"><persName
                         ref="/people/MAR01.html">M</persName> at tea</seg>: <seg type="dMeal"
                      subtype="S">sup at <persName ref="/people/FEL01.html"><placeName type="venue"

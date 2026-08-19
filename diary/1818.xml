@@ -121,7 +121,7 @@
                             target="/events/he0000|he0022.html">Linseed Poultice, 9 days</ref>.</ab>
                     <ab type="dDay" xml:id="g1818-01-09"><date when="1818-01-09">9. F.</date><ref
                             type="dWrote" subtype="letter">Write to
-                            <persName>Swartwout</persName></ref> &amp; <ref type="dWrote"
+                            <persName ref="/people/SWA01.html">Swartwout</persName></ref> &amp; <ref type="dWrote"
                             subtype="letter"><persName ref="/people/SHE01.html"
                             >Shelley</persName></ref>. <ref type="dText" subtype="read"
                             target="/bibl/te0132.html">Twelfth Night, fin</ref>: <ref type="dText"
@@ -443,7 +443,7 @@
                     <ab type="dDay" xml:id="g1818-02-13"><date when="1818-02-13">13. F.</date><ref
                             type="dWrote" subtype="letter">Write to <persName
                                 ref="/people/BEV01.html">Bevan</persName></ref>. <seg
-                            type="dMeeting" subtype="CG"><persName>J B Curran</persName></seg> &amp;
+                                    type="dMeeting" subtype="CG"><persName ref="/people/CUR06.html">J B Curran</persName></seg> &amp;
                             <seg type="dMeeting" subtype="CG"><persName ref="/people/HON01.html"
                                 >Hone</persName> call</seg>: <seg type="dMeal" subtype="DG"
                                 ><persName ref="/people/MAR01.html">M</persName> dines</seg>: <seg
@@ -1082,7 +1082,7 @@
                             Shakespear, çala</ref>. <seg type="dMeeting" subtype="See"><persName
                                 ref="/people/ROD01.html"><placeName type="venue"
                                 >Rodd’s</placeName></persName></seg>. <seg type="dMeeting"
-                            subtype="M">meet <persName>J B Curran</persName></seg>.</ab>
+                                    subtype="M">meet <persName ref="/people/CUR06.html">J B Curran</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1818-04-22"><date when="1818-04-22">22. W.</date><ref
                             type="dText" subtype="cala" target="/bibl/te2584.html">Drake,
                         çala</ref>: <ref type="dText" subtype="read" target="/bibl/te2579.html"

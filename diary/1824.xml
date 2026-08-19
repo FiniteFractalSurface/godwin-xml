@@ -914,7 +914,7 @@
                                     S’s</placeName></persName>, w. <persName>Procter</persName>,
                                 <persName ref="/people/BED02.html">Beddoes</persName>, <persName
                                 ref="/people/HOG02.html">Hogg</persName> &amp;
-                                        <persName><foreign>mesd<hi rend="sup"
+                                    <persName ref="/people/KEN05.html"><foreign>mesd<hi rend="sup"
                                 >s</hi></foreign>Kent</persName> &amp; <persName
                                 ref="/people/HOG03.html">Williams</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1824-04-16"><date when="1824-04-16">16. F.</date><ref
@@ -1185,7 +1185,7 @@
                             çala</ref>. <seg type="dMeeting" subtype="C">Call on
                                     <persName><placeName type="venue"
                             >Sidney</placeName></persName></seg>, <seg type="dMeeting" subtype="C"
-                                    ><persName><placeName type="venue"
+                                ><persName ref="/people/EVA05.html"><placeName type="venue"
                                 >Joshua-Evans</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName ref="/people/TAY06.html"><placeName type="venue">R
                                     Taylor</placeName></persName></seg>, <seg type="dMeeting"
@@ -1501,7 +1501,7 @@
                                     ><placeName type="venue">Wallace</placeName></persName>; <seg
                                 type="dMeeting" subtype="Adv">adv. <persName
                                     ref="/people/MAC06.html">Macready</persName></seg></seg>: <seg
-                            type="dMeeting" subtype="C">call on <persName><placeName type="venue"
+                                        type="dMeeting" subtype="C">call on <persName ref="/people/EVA05.html"><placeName type="venue"
                                     >Joshua Evans</placeName></persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1824-06-10"><date when="1824-06-10">10. Th.</date><ref
                             type="dWrote" subtype="cala" target="/works/comm01.html">Commonwealth,
@@ -1577,7 +1577,7 @@
                             type="dEntertainment" subtype="Museo" target="/events/mu0004.html"
                                 ><placeName>London Institution</placeName>, <persName
                                 ref="/people/UPC01.html">Upcot</persName></ref>: <seg
-                            type="dMeeting" subtype="C">call on <persName><placeName type="venue"
+                                    type="dMeeting" subtype="C">call on <persName ref="/people/EVA05.html"><placeName type="venue"
                                     >Joshua Evans</placeName></persName></seg> &amp; <seg
                             type="dMeeting" subtype="C"><persName ref="/people/POU01.html"
                                     ><placeName type="venue">Pouncy</placeName></persName></seg>:
@@ -1606,7 +1606,7 @@
                             type="dEvent" subtype="PersHlth" target="/events/he0000.html"
                             >Indisposed</ref>. <ref type="dText" subtype="read"
                             target="/bibl/te2872.html">Red Gauntlet, p. 224</ref>. <seg
-                            type="dMeeting" subtype="C">Call on <persName><placeName type="venue"
+                                type="dMeeting" subtype="C">Call on <persName ref="/people/EVA05.html"><placeName type="venue"
                                     >Joshua Evans</placeName></persName></seg>: <seg type="dMeal"
                                         subtype="SG"><persName ref="/people/BUR16.html">Burnet</persName>, <persName
                                 ref="/people/KEN01.html">Kenney</persName>, <persName
@@ -3531,7 +3531,7 @@
                                     ><placeName type="venue">Jo G</placeName></persName></seg>.
                             <emph rend="faint"><ref type="dEvent" subtype="Publ"
                                 target="/events/pu0214.html"
-                            ><persName>Gresham</persName></ref></emph></ab>
+                                    ><persName ref="/people/GRE13.html">Gresham</persName></ref></emph></ab>
                     <ab type="dDay" xml:id="g1824-12-30"><date when="1824-12-30">30. Th.</date><seg
                             type="dMeeting" subtype="C">Call on <persName ref="/people/ROW04.html"><placeName type="venue"
                                     >Rowbotham</placeName></persName></seg>, <seg type="dMeeting"

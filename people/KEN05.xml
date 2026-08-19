@@ -10,7 +10,7 @@
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by</resp>
-                    <name>TW</name>
+                    <name/>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -24,31 +24,35 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="KER01" sex="1">
+                <person xml:id="KEN05" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>Henry</forename>
-                        <surname>Kernot</surname>
+                        <forename>Elizabeth</forename>
+                        <surname>Kent</surname>
                         <addName/>
                     </persName>
-                    <birth when="1000-01-01">
+                    <birth when="1790">
                         <placeName/>
                     </birth>
-                    <death when="1000-12-31"/>
-                    <occupation>solicitor</occupation>
+                    <death when="1861"/>
+                    <occupation>Botanist and Writer</occupation>
                     <note type="editorial">
-                        <p>Specialist in financial matters and propoerty, working from 6 Doning Street. </p>
+                        <p>ODNB. Ed Pope notes: All the five entries from 1817 to 1828 probably
+                            referred to Elizabeth Kent 1790-1861, unmarried younger sister of
+                            Marianne Kent who married Leigh Hunt DNB 1784-1859 in 1809. John Hunt in
+                            1822 was Leigh Hunt's brother. </p> <p>
+                                Elizabeth Kent was born 23 March 1790, in Brighton to Thomas and Anne Kent.
+                            </p>
                     </note>
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
                         Publisher, year</bibl>
                     <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
                     <bibl type="other">
-                        <title></title>
+                        <title/>
                     </bibl>
                 </person>
             </listPerson>
         </body>
     </text>
 </TEI>
-

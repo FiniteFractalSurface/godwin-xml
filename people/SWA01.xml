@@ -10,7 +10,7 @@
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by</resp>
-                    <name>TW</name>
+                    <name/>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -24,31 +24,31 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="KER01" sex="1">
+                <person xml:id="SWA01" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>Henry</forename>
-                        <surname>Kernot</surname>
+                        <forename>Samuel </forename>
+                        <surname>Swartwout</surname>
                         <addName/>
                     </persName>
-                    <birth when="1000-01-01">
+                    <birth when="1783">
                         <placeName/>
                     </birth>
-                    <death when="1000-12-31"/>
-                    <occupation>solicitor</occupation>
+                    <death when="1856"/>
+                    <occupation>US Soldier, Merchant, Speculator</occupation>
                     <note type="editorial">
-                        <p>Specialist in financial matters and propoerty, working from 6 Doning Street. </p>
+                        <p>Alleged to have embezzled over a million dollars during his tenure as
+                            Collector of the Port of New York: friend of Aaron Burr. </p>
                     </note>
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
                         Publisher, year</bibl>
                     <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
                     <bibl type="other">
-                        <title></title>
+                        <title/>
                     </bibl>
                 </person>
             </listPerson>
         </body>
     </text>
 </TEI>
-

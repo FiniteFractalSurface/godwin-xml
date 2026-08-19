@@ -10,7 +10,7 @@
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by</resp>
-                    <name>TW</name>
+                    <name/>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -24,31 +24,33 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="KER01" sex="1">
+                <person xml:id="GRE13" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>Henry</forename>
-                        <surname>Kernot</surname>
+                        <forename>NAME</forename>
+                        <surname>Gresham</surname>
                         <addName/>
                     </persName>
                     <birth when="1000-01-01">
                         <placeName/>
                     </birth>
                     <death when="1000-12-31"/>
-                    <occupation>solicitor</occupation>
+                    <occupation>OCCUPATION</occupation>
                     <note type="editorial">
-                        <p>Specialist in financial matters and propoerty, working from 6 Doning Street. </p>
+                        <p>Entries for Gresham as a person should be coded as an event/place. This
+                            seems to be Godwin attending twwo of the Gresham Lectures (see Morning
+                            Chronicle Nov 4 1824), and him writing to the Committee, perhaps in the
+                            hope they may appoint him as a lecturer. </p><p>Godwin does not give the names of those he hears. </p>
                     </note>
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
                         Publisher, year</bibl>
                     <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
                     <bibl type="other">
-                        <title></title>
+                        <title/>
                     </bibl>
                 </person>
             </listPerson>
         </body>
     </text>
 </TEI>
-

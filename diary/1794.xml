@@ -40,7 +40,7 @@
                             target="/bibl/te0431.html">Moore, Vol. II., p. 60</ref>. <seg
                             type="dMeal" subtype="Ta">Tea at <persName ref="/people/JOH01.html"
                                     ><placeName type="venue">Johnson's</placeName></persName>, w.
-                                <persName>Poulain</persName> &amp; <persName>K.
+                                <persName>Poulain</persName> &amp; <persName ref="/people/COU04.html">K.
                             Courtney</persName></seg>: <seg type="dMeal" subtype="S">sup at
                                 <persName ref="/people/HOL01.html"><placeName type="venue"
                                     >Holcroft's</placeName></persName></seg>.</ab>
@@ -2543,7 +2543,7 @@
                             420</ref>: <ref type="dText" subtype="read" target="/bibl/te0518.html"
                             >Smith, p. 551, fin</ref>. <seg type="dMeal" subtype="Ta">Tea <persName
                                 ref="/people/JOH01.html"><placeName type="venue"
-                                    >Johnson's</placeName></persName>, w. <persName>K.
+                                    >Johnson's</placeName></persName>, w. <persName ref="/people/COU04.html">K.
                                 Courtenay</persName></seg>; <seg type="dMeeting" subtype="See">see
                                 <persName ref="/people/COU01.html">Courtenay</persName></seg> &amp;
                             <seg type="dMeeting" subtype="See"><persName ref="/people/STE04.html"
@@ -3715,7 +3715,7 @@
                                 <persName ref="/people/GUR01.html">Gurney</persName>,
                                 <persName ref="/people/HUT03.html">Hutchinson</persName> &amp; <persName
                                 ref="/people/JEN01.html">Jennings</persName>; <seg type="dMeeting"
-                                subtype="Adv">adv. <persName>Jamieson</persName></seg></seg> .</ab>
+                                    subtype="Adv">adv. <persName ref="/people/JAM02.html">Jamieson</persName></seg></seg> .</ab>
                     <ab type="dDay" xml:id="g1794-11-07"><date when="1794-11-07">7. F.</date><seg
                             type="dMeeting" subtype="CG"><persName ref="/people/COO05.html">Miss
                                 Cooper </persName><emph rend="deleted">cal</emph></seg><seg
@@ -4033,7 +4033,7 @@
                                 subtype="Theat" target="/plays/roma01|wedd01.html"><placeName
                                     type="DL"/>Play, Roman Father, &amp; Wedding Day</ref>; <seg
                                 type="dMeeting" subtype="Adv">adv. <persName
-                                    ref="/people/BRU01.html">Brunton</persName> &amp; <persName>K
+                                    ref="/people/BRU01.html">Brunton</persName> &amp; <persName ref="/people/COU04.html">K
                                     Courtenay</persName></seg></seg>. <emph rend="deleted"><ref
                                 type="dText" subtype="read" target="/bibl/te0545.html">Read H's
                                 Defence, pp. 92</ref>.</emph><seg type="dMeal" subtype="S"> Sup at

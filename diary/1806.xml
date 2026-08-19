@@ -768,7 +768,7 @@
                                     >Wimbledon</placeName></persName>, w. <persName
                                 ref="/people/BOS02.html">Bosville</persName>, <persName
                                 ref="/people/MAC03.html">Macdonald</persName>, <persName>col.
-                                Stuart</persName>, <persName>B Jones</persName>, <persName>P
+                                    Stuart</persName>, <persName>B Jones</persName>, <persName ref="/people/COU05.html">P
                                 Courtenay</persName> &amp; <persName ref="/people/TUR01.html">T
                                 T</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1806-03-10"><date when="1806-03-10">10. M.</date><ref
@@ -1493,7 +1493,7 @@
                                 ref="/people/BUR02.html">Burdet</persName>, <persName
                                 ref="/people/MAX01.html">Maxwel</persName>,
                                 <persName ref="/people/CLI02.html">Clifford</persName>, <persName>Humphries</persName>,
-                                <persName ref="/people/COU01.html">Courtenay</persName>,
+                                <persName ref="/people/COU05.html">Courtenay</persName>,
                                 <persName>Wills</persName>, <persName>Moody</persName> &amp;
                                 <persName ref="/people/CLA02.html">C C</persName></seg>: <seg
                             type="dMeeting" subtype="M">meet <persName ref="/people/ROB99.html">John
@@ -1739,7 +1739,7 @@
                                 type="nah"><placeName type="venue">Rowan</placeName></persName><hi
                                 rend="sup">n</hi></seg>: <seg type="dMeeting" subtype="CG"><persName type="nah"
                                 ref="/people/MAC16.xml">Macarthy</persName> calls <hi rend="sup">ne</hi></seg>.
-                            <seg type="dMeeting" subtype="M">meet <persName>K
+                        <seg type="dMeeting" subtype="M">meet <persName ref="/people/COU04.html">K
                             Courtenay</persName></seg>. <emph rend="red"><ref type="dEvent"
                                 subtype="Publ" target="/events/pa0073.html">Slave-trade
                                 condemned</ref></emph></ab>

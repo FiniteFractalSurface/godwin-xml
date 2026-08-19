@@ -3642,7 +3642,7 @@
                                 ref="/people/INC02.html">Incledon</persName>,
                                 <persName>Bellamy</persName>, <persName>Matthews</persName>,
                                 <persName ref="/people/FAW03.html">Fawcet</persName>,
-                                <persName>Swartwout</persName>, <persName>Irving</persName>; <seg
+                                    <persName ref="/people/SWA01.html">Swartwout</persName>, <persName ref="/people/IRV02.html">Irving</persName>; <seg
                                 type="dMeeting" subtype="Adv">adv. <persName
                                     ref="/people/POW01.html">Powel</persName></seg></seg>: <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/GOD05.html">N
@@ -3799,7 +3799,7 @@
                                 <persName ref="/people/COO01.html"><placeName type="venue"
                                     >Cooper’s</placeName></persName>, w. <persName
                                 ref="/people/MAR01.html">M</persName>, <persName>Kendal</persName>
-                            &amp; <persName>Irving</persName></seg>.</ab>
+                                    &amp; <persName ref="/people/IRV02.html">Irving</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1810-11-29"><date when="1810-11-29">29. Th.</date><ref
                             type="dText" subtype="read" target="/bibl/te1643.html">Campaspe, acts 4,
                             5</ref>. <seg type="dMeeting" subtype="C">Call on <persName
@@ -3807,9 +3807,9 @@
                                 >Creed</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName ref="/people/HUM01.html"><placeName type="venue"
                                     >Hume</placeName></persName></seg>, <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                        subtype="C"><persName ref="/people/SWA01.html"><placeName type="venue"
                                 >Swartwout</placeName></persName> (<seg type="dMeeting"
-                                subtype="Adv">adv. <persName>Irving</persName></seg>)</seg>, <seg
+                                    subtype="Adv">adv. <persName ref="/people/IRV02.html">Irving</persName></seg>)</seg>, <seg
                             type="dMeeting" subtype="C"><persName ref="/people/CUM01.html"
                                     ><placeName type="venue">Cumberland</placeName></persName></seg>
                         &amp; <seg type="dMeeting" subtype="C"><persName><placeName type="venue"
@@ -3853,7 +3853,7 @@
                                 ref="/people/FEN03|FEN04.html">2 E Fks</persName> dine; <seg
                                 type="dMeeting" subtype="Inv">invités, <persName
                                     ref="/people/MAT02.html">Mathews</persName> &amp;
-                                    <persName>Swartwout</persName></seg>; <seg type="dMeeting"
+                                    <persName ref="/people/SWA01.html">Swartwout</persName></seg>; <seg type="dMeeting"
                                 subtype="Adv">adv. <persName ref="/people/FAI01.html" type="nah"
                                     >Fairly</persName><hi rend="sup">na</hi></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1810-12-03"><date when="1810-12-03">3. M.</date><seg

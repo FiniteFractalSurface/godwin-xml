@@ -10,7 +10,7 @@
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by</resp>
-                    <name>TW</name>
+                    <name/>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -24,31 +24,35 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="KER01" sex="1">
+                <person xml:id="COU04" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>Henry</forename>
-                        <surname>Kernot</surname>
+                        <forename>Kenneth</forename>
+                        <surname>Courtenay/Courtney</surname>
                         <addName/>
                     </persName>
-                    <birth when="1000-01-01">
+                    <birth when="1769">
                         <placeName/>
                     </birth>
-                    <death when="1000-12-31"/>
-                    <occupation>solicitor</occupation>
+                    <death when="1838"/>
+                    <occupation>OCCUPATION</occupation>
                     <note type="editorial">
-                        <p>Specialist in financial matters and propoerty, working from 6 Doning Street. </p>
+                        <p>Son of John Courtenay (q.v.) 1738-1816. </p>
+                        <p>Ed Pope notes: Kenneth son of John Courtenay DNB 1738-1816. He died
+                            26.4.1838 aged 69 and lived his last years in Florence but he could have
+                            been the 1821 entries with no initial after his father's death. The 1812
+                            entry above could have been his father but more likely Kenneth as he was
+                            at Walking Stewart's again a few Sundays later </p> <p>We have treated K Courtney and K Courtenay as the same person.</p>
                     </note>
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
                         Publisher, year</bibl>
                     <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
                     <bibl type="other">
-                        <title></title>
+                        <title/>
                     </bibl>
                 </person>
             </listPerson>
         </body>
     </text>
 </TEI>
-

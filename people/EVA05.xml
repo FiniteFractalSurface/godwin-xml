@@ -10,7 +10,7 @@
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by</resp>
-                    <name>TW</name>
+                    <name/>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -24,31 +24,35 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="KER01" sex="1">
+                <person xml:id="EVA05" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>Henry</forename>
-                        <surname>Kernot</surname>
+                        <forename>Joshua</forename>
+                        <surname>Evans</surname>
                         <addName/>
                     </persName>
                     <birth when="1000-01-01">
                         <placeName/>
                     </birth>
                     <death when="1000-12-31"/>
-                    <occupation>solicitor</occupation>
+                    <occupation>Lawyer</occupation>
                     <note type="editorial">
-                        <p>Specialist in financial matters and propoerty, working from 6 Doning Street. </p>
+                        <p>There is a Joshua Evans, described as a bookseller who was a member of
+                            the Westminister Committee in 1819. But there is also a lawyer who
+                            defended a number of radicals, including John Cam Hobhouse in February
+                            1820, and Richard Carlile in 1831. It also looks as
+                            if he has some connection with Gresham college, and may have been on the
+                            Committee for the appointment of lecturers.</p>
                     </note>
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
                         Publisher, year</bibl>
                     <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
                     <bibl type="other">
-                        <title></title>
+                        <title/>
                     </bibl>
                 </person>
             </listPerson>
         </body>
     </text>
 </TEI>
-
