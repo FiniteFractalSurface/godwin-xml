@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="LEI02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>James Mathews</forename>
+                        <surname>Leigh</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1808">
+                        <placeName/>
+                    </birth>
+                    <death when="1860"/>
+                    <occupation>Painter and Writer</occupation>
+                    <note type="editorial">
+                        <p>James Mathews Leigh (ODNB) was a painter and writer who may have called
+                            on Godwin to talk about his plans for a drama on Cromwell (that
+                            eventually appeared in 1838). Both instances are in 1835. Leigh was
+                            himself the son of Samuel Leigh (d. 1831), a bookseller in the Strand.
+                            It is possible that the Mrs Leigh entries refer to J M Leigh's mother,
+                            Mary Ann Leigh (daughter of the bookseller James Mathews (1776-1835).
+                            </p><p>Godwin notes sees Mrs S Leigh and son in 1834, and there are
+                            other references to Mrs Leigh. Mrs S Leigh took over the bookselling
+                            business from her father (Samuel Leigh) aftr his death in 1831 (and she
+                            may have included her son James Mathews Leigh in the business). His 1836
+                            text, The Rhenish Album; or, Scraps from the Rhine, was published by
+                            Leigh and Son, 421 the Strand). We have coded these several entries under this person
+                            name, since they all seem closely linked, even if it not entirely clear
+                            who is being referred to on every occasion! Also, there seems to be a
+                            Leigh, Jas in 1833, and we have included this entry.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

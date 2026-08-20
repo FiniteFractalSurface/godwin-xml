@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="LAN12" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Richard</forename>
+                        <surname>Lane</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1800">
+                        <placeName/>
+                    </birth>
+                    <death when="11876"/>
+                    <occupation>Lithographer</occupation>
+                    <note type="editorial">
+                        <p>Se Ed Pope's note: The Lane at Ulster Place in 1830 must have been
+                            Richard Lane DNB 1800-1876 lithographer, as a newspaper ad of his (Atlas
+                            21.5.1826) gave his address as Ulster-pl, Portland-pl. so he was likely
+                            some of the Lanes after that, especially those with a Ric or R. </p>
+                        <p>We have coded Lanes from 1830and 1832 as Richard Lane</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

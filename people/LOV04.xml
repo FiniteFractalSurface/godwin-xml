@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="LOV04" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Thomas</forename>
+                        <surname>Lovewell</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Stationer and Bookseller</occupation>
+                    <note type="editorial">
+                        <p>Thomas Lovewell was registered as a bookseller and Stationer in 1802 and
+                            then again in 1805, with the latter being operated from Staines House in
+                            the Barbican district. In 1814 he published Lord Nelson's Letter to Lady
+                            Hamilton, but in December 1814 declared banrupcy - although this seems
+                            to have dragged on until 1817. It is possible that this is the Thomas
+                            Lovewell who had five chilren (John (1786) Charlotte (1787) Thomas
+                            (1788), Sarah (1789) and Charles (1793) - that might account for his
+                            bankrupcy! </p>
+                        <p> Godwin is assessing him in some way (and it may not be Thomas, but one
+                            of the sons - or (less likely) one of the daughters) for some purpose in
+                            1815. There is an intensive pattern of calling in July and September. It
+                            is possible he is using him as a middleman with the Shelley family.
+                            There is some connection with Margaret Jones and it is possible that
+                            subsequent appearances of M J in relation to Lovewell are relating to
+                            Margaret Jones rather than Mary Jane - and some of the locutions are odd! Perhaps most striking is the last
+                            enry when 'Lovewell calls, dernier fois' which is pretty much unique for the diary. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

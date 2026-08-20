@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="LOV02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Robert</forename>
+                        <surname>Lovell</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1796"/>
+                    <occupation>Poet</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's notes: The first instance above must have been Robert Lovell
+                            (DNB died 3.5.1796) the friend and brother-in-law of Coleridge and
+                            Southey (M Ray Adams, Studies in the Literary Backgrounds of English
+                            Radicalism, p133; Hazlitt's Works v.3 p.278). Mrs Lovel in 1801 at
+                            Lamb's was almost certainly Robert Lovell's widow Mary nee Fricker. We have also included: The
+                            final two instances of Lovel in 1822, which could refer to Robert Lovell's son
+                            Robert who is said to have become a printer in London 1824 (DNB). Brides
+                            Passage was next to the Fleet Street bookshop of Richard Carlile, who
+                            was in prison in 1822.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

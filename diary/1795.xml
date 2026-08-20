@@ -2819,7 +2819,7 @@
                                     ref="/people/COL08.html">Cole</persName></seg></seg>:<seg
                             type="dMeal" subtype="Ta"> tea <persName ref="/people/NEW01|NEW04.html"
                                     ><placeName type="venue">Newton's</placeName></persName>, w.
-                                <persName>general Hull </persName>&amp; <persName>Lovel</persName>,
+                                        <persName>general Hull </persName>&amp; <persName ref="/people/LOV02.html">Lovel</persName>,
                             talk of <seg type="dTopic">Robespierre</seg></seg>.</ab>
                 </div>
                 <div type="dMonth" xml:id="g1795-08">
@@ -3522,7 +3522,7 @@
                                     ref="/people/THE01.html">Thelwal</persName>; Road to
                             Ruin</ref></seg>; <seg type="dMeeting" subtype="See">see <persName
                                 ref="/people/BAT01.html">Batty</persName></seg>, <seg
-                            type="dMeeting" subtype="See"><persName>Luttrel</persName></seg> &amp;
+                                    type="dMeeting" subtype="See"><persName ref="/people/LUT01.html">Luttrel</persName></seg> &amp;
                             <seg type="dMeeting" subtype="See"><persName>Hubbard</persName></seg>:
                             <seg type="dMeal" subtype="S">sup at <persName ref="/people/THE01.html"
                                     ><placeName type="venue">Thelwal's</placeName></persName>; <seg
@@ -3539,7 +3539,7 @@
                             subtype="Ta">Tea <persName ref="/people/REY03.html"><placeName
                                     type="venue">miss Mansel's</placeName></persName>, w. <persName
                                 ref="/people/HOL01.html">Ht</persName>; <seg type="dMeeting"
-                                subtype="Adv">adv. <persName>Luttrel</persName></seg></seg>: <seg
+                                    subtype="Adv">adv. <persName ref="/people/LUT01.html">Luttrel</persName></seg></seg>: <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/MON01.html"
                                 >Montagu</persName> calls</seg>. Write to <persName
                             ref="/people/RAD01.html">mrs Radcliffe</persName>.</ab>
@@ -3797,7 +3797,7 @@
                                 >Ht</persName></seg></seg>: <seg type="dMeal" subtype="D">dine at
                                 <persName ref="/people/MON01.html"><placeName type="venue"
                                     >Montagu's</placeName></persName>, w.
-                                <persName>Luttrel</persName></seg>.</ab>
+                                    <persName ref="/people/LUT01.html">Luttrel</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1795-10-29"><date when="1795-10-29">29. Th.</date><ref
                             type="dWrote" subtype="revised" target="/works/cale01.html"
                         >Revise</ref>. <ref type="dText" subtype="read" target="/bibl/te0614.html"
@@ -4646,7 +4646,7 @@
                                     >Christie</persName>, <persName ref="/people/BEL04.html">Bell</persName>,
                                 <persName>Crokes</persName>, <persName>Wybournes</persName> &amp;
                                 <persName>miss Dives</persName>; <seg type="dMeeting" subtype="Adv"
-                                    >adv<persName> Lovel</persName>; talk of <seg type="dTopic"
+                                    >adv<persName ref="/people/LOV02.html"> Lovel</persName>; talk of <seg type="dTopic"
                                     >gratitude</seg></seg></seg></ab>
                     <ab type="dDay" xml:id="g1795-12-31"><date when="1795-12-31">31. Th. </date><ref
                             type="dText" subtype="read" target="/bibl/te0620.html">Gunter Brown, pp.

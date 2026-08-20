@@ -221,7 +221,7 @@
                                 ref="/people/CHR03.html">mrs Christie</persName>, <persName
                                 ref="/people/SMI01.html">Smith</persName>, <persName
                                 ref="/people/BEL04.html">Bell</persName>,
-                            <persName>Croke</persName>, <persName>Lovel</persName>,
+                            <persName>Croke</persName>, <persName ref="/people/LOV02.html">Lovel</persName>,
                                 <persName>Bateman</persName>, <persName>Dalby</persName> &amp;
                                 <persName ref="/people/BLA09.html">Blackburnes</persName>; <seg
                                 type="dMeeting" subtype="Adv">adv. <persName>Bristow</persName>,
@@ -251,7 +251,7 @@
                             <seg type="dMeal" subtype="Ta">tea <persName ref="/people/CAR01.html"
                                     ><placeName type="venue">Carlisle's</placeName></persName>, w.
                                 <persName ref="/people/ALL01.html">Allens</persName>,
-                                <persName>Alexander</persName>, <persName ref="/people/SHE11.html"
+                                <persName ref="/people/ALE14.html">Alexander</persName>, <persName ref="/people/SHE11.html"
                                 >Shee</persName>, <persName ref="/people/CAR12.html"
                             >Carr</persName>, <persName>Crichton</persName>,
                                 <persName>Duppa</persName>, <persName>Sloper</persName> &amp;
@@ -490,7 +490,7 @@
                             subtype="D">Dine at <persName ref="/people/KIN01.html"><placeName
                                     type="venue">King's</placeName></persName>, w. <persName>A
                                 B</persName>, <persName ref="/people/ROG03.html">Rogers</persName>
-                            &amp; <persName>Lovel</persName></seg>: <seg type="dMeeting"
+                                &amp; <persName ref="/people/LOV03.html">Lovel</persName></seg>: <seg type="dMeeting"
                             subtype="other"><orgName>Philomaths</orgName>, <seg type="dTopic"
                                 >ballot</seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1796-02-03"><date when="1796-02-03">3. W.</date><ref
@@ -1061,7 +1061,7 @@
                                     ><placeName type="venue">Newton's</placeName></persName>, w.
                                 <persName>mrs Rodbard</persName> &amp; <persName
                                 ref="/people/AUS01.html">Austin</persName>; <seg type="dMeeting"
-                                subtype="Adv">adv. <persName>Lovel</persName></seg>; talk of <seg
+                                    subtype="Adv">adv. <persName ref="/people/LOV02.html">Lovel</persName></seg>; talk of <seg
                                 type="dTopic">America</seg> &amp; <seg type="dTopic"
                                     ><persName>Brown</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1796-03-10"><date when="1796-03-10">10. Th.</date><ref
@@ -1705,7 +1705,7 @@
                                     >Montagu's</placeName></persName>, w. <persName
                                 ref="/people/PLO01.html">Plowden</persName>, <persName>sir Jno
                                 Turner</persName>, <persName ref="/people/TOB02.html"
-                                >Tobin</persName>, <persName>Luttrel</persName> &amp; <persName
+                                    >Tobin</persName>, <persName ref="/people/LUT01.html">Luttrel</persName> &amp; <persName
                                 ref="/people/CAR12.html">Carr</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1796-04-16"><date when="1796-04-16">16. Sa.</date><seg
                             type="dMeeting" subtype="CG"><persName ref="/people/PHI02.html"

@@ -3451,7 +3451,7 @@
                                     ref="/people/MAR01.html">M.</persName></seg></seg>: <seg
                             type="dMeeting" subtype="other"><placeName>Newgate</placeName>;
                                 <persName ref="/people/NIC01.html">Nicholson</persName> &amp;
-                                <persName>Lovel</persName></seg>: <seg type="dMeal" subtype="S">sup
+                                        <persName ref="/people/LOV02.html">Lovel</persName></seg>: <seg type="dMeal" subtype="S">sup
                             at <persName ref="/people/FEN01|FEN03.html"><placeName type="venue"
                                     >Fenwick's</placeName></persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1794-10-17"><date when="1794-10-17">17. F.</date><ref

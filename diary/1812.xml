@@ -86,7 +86,7 @@
                             </date><ref type="dText" subtype="read" target="/bibl/te0133.html"
                             >Antony, acts 1 &amp; 2</ref>: <ref type="dText" subtype="read"
                             target="/bibl/te1941.html">Homme de Qualité, p. 130</ref>. <seg
-                            type="dMeal" subtype="D">Dine at <persName><placeName type="venue"
+                                type="dMeal" subtype="D">Dine at <persName ref="/people/LIS03.html"><placeName type="venue"
                                     >Liston’s</placeName></persName>, w. <persName
                                 ref="/people/HUM01|HUM02.html">4 Humes</persName>, <persName>miss
                                 Tyrer</persName> &amp; <persName ref="/people/CLA01.html">M
@@ -2902,7 +2902,7 @@
                                 ref="/people/PLA02.html"><placeName type="venue"
                                 >Place</placeName></persName></seg>: <seg type="dMeeting"
                             subtype="M">meet <persName>Vivian</persName></seg>, <seg type="dMeeting"
-                            subtype="M"><persName>Liston</persName></seg> &amp; <seg type="dMeeting"
+                                subtype="M"><persName ref="/people/LIS03.html">Liston</persName></seg> &amp; <seg type="dMeeting"
                             subtype="M"><persName ref="/people/COL07.html">m<hi rend="sup">es</hi>
                                 Colliers</persName></seg>: <seg type="dMeeting" subtype="C">call on
                                 <persName ref="/people/ELW01.html" type="nah"><placeName
@@ -3914,7 +3914,7 @@
                                 type="dMeeting" subtype="Adv">adv. <persName
                                     ref="/people/REE02.html">D<hi rend="sup">r</hi>
                                 Rees</persName></seg>)</seg>, <seg type="dMeeting" subtype="CG"
-                                ><persName>Law</persName></seg>, <seg type="dMeeting" subtype="CG"
+                                    ><persName ref="/people/LAW05.html">Law</persName></seg>, <seg type="dMeeting" subtype="CG"
                                     ><persName ref="/people/GAL03.html">Gale</persName></seg> &amp; <seg type="dMeeting"
                                         subtype="CG"><persName ref="/people/COO01.html">C</persName></seg>, &amp; <seg type="dMeeting"
                                             subtype="CG"><persName ref="/people/CRA02.html">Cradock</persName></seg> &amp; <seg

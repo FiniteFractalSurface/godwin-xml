@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="LUT01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Henry</forename>
+                        <surname>Luttrell</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1768">
+                        <placeName/>
+                    </birth>
+                    <death when="1851"/>
+                    <occupation>Wit and Poet</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's notes: Henry Luttrell DNB 1768-1851. Farington diary Jan
+                            1796 dined at Malone's with Luttrell and Jephson and found them
+                            "democratish". Clearly Luttrell saw miss Mansel in her debut in Road to
+                            Ruin and went to congratulate her the next day, keeping her acquaintance
+                            both shortly after her marriage and long after.The idea that his mother
+                            was a gardener's daughter from Woodstock is a confusion of the writers
+                            of the DNB. The Memoirs of Miss Arrabella Bolton 1770 (perhaps written
+                            by Cuthbert Shaw DNB 1738/9-1771) make it clear that the only child of
+                            Luttrell's father (Henry Lawes Luttrell DNB 1737-1821) to be born from
+                            his seduction (allegedly opium date rape) of the gardener's daughter
+                            (from Tackley, near Woodstock) was a girl who died aged 13 months. The
+                            early part of the memoirs is well documented thanks to the efforts of Dr
+                            John Kelly Professor of Medicine at Oxford, to retrieve his fee and
+                            clear his name; the baptism of the girl can be found in the parish
+                            registers of St Ebbe's Oxford 15.12.1756 Aprobello Kathrine illegit d
+                            Arrobello Bouden born St Mary the Virgin. Her burial was probably
+                            registered under a false name if at all. Luttrell's father was linked
+                            with 6 other amours in Town and Country Magazine Jan 1771, he also
+                            married Elizabeth Mullen a minor without parental consent in America in
+                            1759 and had by her a daughter Harriet who married James Rogers and died
+                            2.1.1819. Luttrell had a sister Frances Maria King who married Thomas
+                            Scott at St Marylebone 14.2.1789 and their mother was known by 1804
+                            (will PCC of Edmund Nugent) as Mary Otto Baijer Nugent. </p><p>The last
+                            entry in the Diary is to a Thomson Luttrell in 1829, supping at Reynolds
+                            - as Henry Luttrell had done. It is possible Luttrell had a son but
+                            (while he may have had a previous marriage), the only one we are aware of
+                            was to Ann Springer in 1850, the year before his death. We have not coded this instance.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -87,7 +87,7 @@
                             type="dWrote" subtype="write" target="/works/flee01.html"> Fleetwood, p.
                             237/4</ref>. <ref type="dText" subtype="read" target="/bibl/te1536.html"
                             >Wonder, act 1, 2, 3</ref>. <seg type="dMeeting" subtype="C">Call on
-                                    <persName><placeName type="venue"
+                                <persName ref="/people/LUN01.html"><placeName type="venue"
                             >Luntley</placeName></persName></seg>, <seg type="dMeeting" subtype="C"
                                 ><persName ref="/people/HIL02.html"><placeName type="venue">mrs
                                     Hill</placeName></persName></seg>, <seg type="dMeeting"
@@ -189,7 +189,7 @@
                                 <persName>Carpue</persName> &amp; <persName ref="/people/TOB02.html"
                                 >Tobin</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1805-01-12"><date when="1805-01-12">12. Sa. </date><seg
-                            type="dMeeting" subtype="C">Call on <persName><placeName type="venue"
+                            type="dMeeting" subtype="C">Call on <persName ref="/people/LUN01.html"><placeName type="venue"
                                     >Luntley</placeName></persName></seg>, <seg type="dMeeting"
                                         subtype="C"><persName ref="/people/BRO12.html"><placeName type="venue"
                                 >Brookes</placeName></persName></seg> &amp; <seg type="dMeeting"
@@ -343,7 +343,7 @@
                             type="dWrote" subtype="write" target="/works/flee01.html"> Fleetwood, p.
                             268</ref>. <seg type="dMeeting" subtype="CG"><persName
                                 ref="/people/HAZ01.html">Hazlit</persName> calls</seg>:<seg
-                            type="dMeeting" subtype="C"> call on <persName><placeName type="venue"
+                                    type="dMeeting" subtype="C"> call on <persName ref="/people/LUN01.html"><placeName type="venue"
                                     >Luntley</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName ref="/people/HIL02.html"><placeName type="venue"
                                     >mrs Hill</placeName></persName></seg>, <seg type="dMeeting"
@@ -433,7 +433,7 @@
                                 Office</placeName></seg>, <seg type="dMeeting" subtype="C"><persName
                                 ref="/people/GOD02.html" type="nah"><placeName type="venue">Jo
                                     G</placeName></persName><hi rend="sup">n</hi></seg>, <seg
-                            type="dMeeting" subtype="C"><persName><placeName type="venue"
+                                        type="dMeeting" subtype="C"><persName ref="/people/ALE14.html"><placeName type="venue"
                                     >Alexander</placeName></persName></seg> &amp; <seg
                             type="dMeeting" subtype="C"><persName ref="/people/WRO01.html"
                                     ><placeName type="venue">Wroughton</placeName></persName></seg>,
@@ -1691,7 +1691,7 @@
                             </date><ref type="dWrote" subtype="write" target="/works/hyed01.html"
                             >England, p. 29/2</ref>. <ref type="dText" subtype="read"
                             target="/bibl/te1560.html">Agricola, §. 9</ref>. <seg type="dMeeting"
-                            subtype="C">Call on <persName><placeName type="venue"
+                                subtype="C">Call on <persName ref="/people/ALE14.html"><placeName type="venue"
                                     >Alexander</placeName></persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1805-05-02"><date when="1805-05-02">2. Th. </date><ref
                             type="dWrote" subtype="write" target="/works/hyed01.html">England, p.
@@ -2250,7 +2250,7 @@
                     <ab type="dDay" xml:id="g1805-06-20"><date when="1805-06-20">20. Th. </date><seg
                             type="dMeeting" subtype="C">Call on <persName ref="/people/WRO01.html"
                                     ><placeName type="venue">Wroughton</placeName></persName></seg>,
-                            <seg type="dMeeting" subtype="C"><persName><placeName type="venue"
+                        <seg type="dMeeting" subtype="C"><persName ref="/people/ALE14.html"><placeName type="venue"
                                     >Alexander</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName><placeName type="venue">Lord
                                 Mayor</placeName></persName></seg>, &amp; <seg type="dMeeting"

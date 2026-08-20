@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="LEI01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>George</forename>
+                        <surname>Leigh</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Bookseller</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's comment:30.12.1807 Philips's, tea and supper; adv. Leigh /
+                            20.11.1809 call on Mills, Rivington, Leigh, Hume, Knowles, Goddard,
+                            Hatchard, Sharpe, Stockdales and Tabart / 17.12.1811 Leigh calls /
+                            20.5.1813 call on Leigh Godwin's calls on 28.11.1809 were mainly on
+                            booksellers, starting from Rivington at St Pauls and then via Knowles at
+                            the Navy Office in the Strand to Goddard in Haymarket, Hatchard, Sharpe
+                            and Stockdale in Piccadilly to Tabart in Picadilly or Bond-st. If Hume
+                            was Godwin's friend Joseph Hume as coded in GD website he is said to
+                            have worked in the Victualling Office Smerset-place (though he wasn't
+                            listed there in Holdens directory that mentioned every minor clerk) and
+                            he may have had another connection in the Strand as Joseph Hume of
+                            Notting Hill insured 15 and 16 Strand (Skill, oilman) SunFire 1804. George
+                            Leigh (with John Sotheby 145 Strand (1804-1816) booksellers and
+                            auctioneers) was likely this Leigh and may also have been the other
+                            three Leigh entries above. George Leigh bookseller of Strand will PCC
+                            11.2.1817 </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

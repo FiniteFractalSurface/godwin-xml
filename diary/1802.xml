@@ -1913,9 +1913,9 @@
                             138</ref>. <seg type="dMeeting" subtype="C">Call on <persName
                                 ref="/people/PHI01.html"><placeName type="venue"
                                 >Philips</placeName></persName></seg>: <seg type="dMeeting"
-                            subtype="M">meet <persName>Lanesborough</persName></seg>, <seg
-                            type="dMeeting" subtype="M"><persName>S M </persName></seg>, <seg
-                            type="dMeeting" subtype="M"><persName>E B D</persName></seg>, &amp;
+                                    subtype="M">meet <persName ref="/people/LAN03.html">Lanesborough</persName></seg>, <seg
+                                        type="dMeeting" subtype="M"><persName ref="/people/MAR08.html">S M </persName></seg>, <seg
+                                            type="dMeeting" subtype="M"><persName ref="/people/DAN05.html">E B D</persName></seg>, &amp;
                             <persName ref="/people/TOO02.html">W Tooke</persName> : <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/NIC01.html"
                                 >Nicholsons</persName> call</seg>: <seg type="dMeal" subtype="TG"
@@ -2340,9 +2340,9 @@
                             type="dEntertainment" subtype="Theat" target="/plays/batt01|joke01.html"
                                 ><placeName type="HM"/>theatre, 2/3 Battle of Hexham, &amp; Sixty
                             Third Letter; <seg type="dMeeting" subtype="Adv">adv. <persName
-                                    ref="/people/DAN01.html">Danvers's</persName>,
-                                    <persName>Lanesboro</persName> &amp;
-                                    <persName>Mariscotti</persName></seg></ref>.</ab>
+                                    ref="/people/DAN05.html">Danvers's</persName>,
+                                <persName ref="/people/LAN03.html">Lanesboro</persName> &amp;
+                                <persName ref="/people/MAR08.html">Mariscotti</persName></seg></ref>.</ab>
                     <pb n="e.206_0014r"/>
                     <ab type="dDay" xml:id="g1802-07-25"><date when="1802-07-25">July 25.
                             Su.</date><ref type="dWrote" subtype="write" target="/works/chau01.html"

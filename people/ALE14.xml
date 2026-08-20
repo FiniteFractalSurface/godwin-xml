@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="ALE14" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>NAME</forename>
+                        <surname>Alexander</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's note: Strong indications of a medical person, association
+                            with Anthony Carlisle DNB 1768-1840 , and Langslow (qv - though that is
+                            not a definite identification), the pattern of calls by Godwin changing
+                            to calls on Godwin, as with Ash (qv) whose calls were largely after
+                            Alexander's calls ceased. Also the later Dr Alexander in 1835. See work
+                            notes below for possible doctors and surgeons. Alexander of Yarmouth -
+                            will PCC 1797 of Samuel Alexander gent of Gt Yarmouth, Daniel Asher
+                            Alexander DNB 1768-1846 lived in Yarmouth, Isle of Wight but according
+                            to DNB not till 1826. </p>
+                        
+                        <p> Work notes 1851 census Henry Alexander
+                            surgeon and oculist born St John Westminster about 1783 (1841 census
+                            born about 1786) MRCS 1805 d 1859 age 76 (Boase) / Disney Alexander
+                            surgeon of Halifax 1808 MD of Wakefield 1820 lectured on phrenology, on
+                            the rights and duties of man and published poems in his later years died
+                            2.11.1844 Wakefield aged 75 / Richard Hayward Alexander of Corsham Wilts
+                            died in Osborns Hotel buried All Souls Kensal Green 27.11.1843 age 55
+                            (but 1841 census Corsham age 63 born Wiltshire) PCC Corsham 1843 his
+                            eldest son Richard Chandler born 1800 (Charterhouse School Register) /
+                            Thomas Alexander chymist and druggist 108 Long Acre UBD 1790 / William
+                            Alexander surgeon Royal Navy will PCC 1812 / Charles Alexander surgeon
+                            of Wapping (Holdens 1811 40 Wapping St) will PCC 1814 (Jewish) / Edward
+                            Alexander MD Leics will PCC 1823 / Dr Morrice Alexander of Chelsea staff
+                            surgeon HM Forces will PCC 1838 / George Alexander of Hammersmith MD
+                            late of East India Company will PCC 1846 William Alexander DNB 1757-1816
+                            keeper of prints and drawings Brit Museum from 1808 Alexander Alexander and
+                            Levy Alexander printers Albion Printing Office Whitechapel 1799-1826 /
+                            James Alexander music seller Leadenhall St 1807-1851 / William Alexander
+                            bill broker 33 Lombard St (Holdens 1811). </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="LAN13" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>William</forename>
+                        <surname>Langhorn</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Lawyer</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's notes: 6.4.1790 Richard Wordsworth witnessed articles of
+                            clerkship William Langhorn to James Lambert attorney / William Langhorn
+                            = Holborn 19.8.1799 Elizabeth Gurney / Law List 1800 William Langhorn
+                            attorney 15 Gloucester St, Queen Sq / Holdens Directory 1811 William
+                            Langhorn solicitor 2 Chads Row, Grays Inn Rd and 11 Holborn Court, Grays
+                            Inn / will PCC 19.8.1814 William Langhorn gent of Chads Row, dated
+                            19.7.1814 wife Elizabeth exec, with friend John Jacobs of Grays Inn. The
+                            Wordsworth above was Richard Wordsworth attorney brother of the poet
+                            William. I haven't identified William Langhorn's birth or parentage.
+                            There was a John Langhorn attorney of Barbican 1782 Law List. Possibly
+                            (because of the Wordsworth connection to the lake District) he was
+                            related to William Langhorne DNB 1721-1772 and his brother John
+                            Langhorne DNB 1735-1779 </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

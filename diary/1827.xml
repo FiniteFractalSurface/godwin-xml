@@ -1652,9 +1652,9 @@
           <ab type="dDay" subtype="NotLon" xml:id="g1827-07-13"><date when="1827-07-13">13.
               F.</date><seg type="dMeeting" subtype="C">Call on <persName><placeName type="venue"
                   >Mardon</placeName></persName></seg> &amp; <seg type="dMeeting" subtype="C"
-                  ><persName><placeName type="venue">Liston</placeName></persName></seg>. <ref
+                    ><persName ref="/people/LIS03.html"><placeName type="venue">Liston</placeName></persName></seg>. <ref
               type="dText" subtype="read" target="/bibl/te3048.html">Fairfax Papers</ref>. <seg
-              type="dMeeting" subtype="Inv">Invités à diner, <persName>Liston</persName> &amp;
+                type="dMeeting" subtype="Inv">Invités à diner, <persName ref="/people/LIS03.html">Liston</persName> &amp;
                 <persName>Brenchley</persName></seg>: <seg type="dMeeting" subtype="See"><persName
                 ref="/people/COL02.html">Colburn</persName> arrives</seg>.</ab>
           <ab type="dDay" subtype="NotLon" xml:id="g1827-07-14"><date when="1827-07-14">14.

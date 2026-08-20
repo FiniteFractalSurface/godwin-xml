@@ -2997,7 +2997,7 @@
                      type="dText" subtype="read" target="/bibl/te1499.html">Read Beaumont,
                         <foreign>accurante</foreign><persName ref="/people/HOL01.html">
                         Ht</persName></ref>. <seg type="dMeeting" subtype="Cn">Call, w. <persName
-                        ref="/people/WOL04.html">Everina</persName>, on <persName type="nah"
+                              ref="/people/WOL04.html">Everina</persName>, on <persName ref="/people/LUN01.html" type="nah"
                            ><placeName type="venue">J J Luntley</placeName></persName><hi rend="sup"
                         >n</hi></seg>: <seg type="dMeeting" subtype="C">call on <persName
                         ref="/people/LAM01.html" type="nah"><placeName type="venue"
@@ -3016,7 +3016,7 @@
                            >Johnson</placeName></persName></seg>.</ab>
                <ab type="dDay" xml:id="g1804-09-22"><date when="1804-09-22">22. Sa.</date><ref
                      type="dWrote" subtype="revised" target="/works/faul02.html">Camilla,
-                     revise</ref>. <seg type="dMeeting" subtype="Cn">Call on <persName><placeName
+                     revise</ref>. <seg type="dMeeting" subtype="Cn">Call on <persName ref="/people/LUN01.html"><placeName
                            type="venue">Luntley</placeName></persName>, w. <persName
                         ref="/people/WOL04.html">E W</persName></seg>: <seg type="dMeal"
                      subtype="DG"><persName ref="/people/WOL04.html">Everina</persName> dines</seg>:
@@ -3138,7 +3138,7 @@
                         >n</hi></seg>.</ab>
                <ab type="dDay" xml:id="g1804-10-02"><date when="1804-10-02">2. Tu.</date><ref
                      type="dWrote" subtype="revised" target="/works/faul02.html">Camilla,
-                     revise</ref>. <seg type="dMeeting" subtype="Cn">Call on <persName><placeName
+                     revise</ref>. <seg type="dMeeting" subtype="Cn">Call on <persName ref="/people/LUN01.html"><placeName
                            type="venue">Luntley</placeName></persName>, w. <persName
                         ref="/people/WOL04.html">E W</persName></seg>, &amp; <seg type="dMeeting"
                      subtype="C">on <persName><placeName type="venue"
@@ -3585,7 +3585,7 @@
                      invent</ref>. <ref type="dWrote" subtype="letter">Write to <persName
                         ref="/people/PHI01.html">Philips</persName></ref>. <ref type="dText"
                      subtype="read" target="/bibl/te0341.html">Grandison, p. 69</ref>. <seg
-                     type="dMeeting" subtype="Cn">Call on <persName type="nah"><placeName
+                        type="dMeeting" subtype="Cn">Call on <persName ref="/people/LUN01.html" type="nah"><placeName
                            type="venue">Luntley</placeName></persName>, w. <persName
                         ref="/people/WOL04.html">E Wt </persName><hi rend="sup">n</hi></seg>: <seg
                      type="dMeal" subtype="DG"><persName ref="/people/WOL04.html">E Wt</persName>
@@ -3598,7 +3598,7 @@
                      type="dText" subtype="read" target="/bibl/te1016.html">Pamela, p. 62</ref>.
                      <ref type="dWrote" subtype="letter">Write to <persName ref="/people/WRO01.html"
                         >Wroughton</persName></ref>. <seg type="dMeeting" subtype="Cn">Call on
-                           <persName><placeName type="venue">Luntley</placeName></persName>, w.
+                           <persName ref="/people/LUN01.html"><placeName type="venue">Luntley</placeName></persName>, w.
                         <persName ref="/people/WOL04.html">E Wt</persName></seg>: <ref
                      type="dEntertainment" subtype="Theat" target="/plays/much01.html"><placeName
                         type="DL"/>theatre, 2/5 Benedick</ref>.</ab>
@@ -3683,7 +3683,7 @@
                      >Pamela, p. 242</ref>. <seg type="dMeeting" subtype="C">Call on
                            <persName><placeName type="venue">mrs
                      Cannons</placeName></persName></seg> &amp; <seg type="dMeeting" subtype="C"
-                           ><persName><placeName type="venue">Luntley</placeName></persName></seg>:
+                        ><persName ref="/people/LUN01.html"><placeName type="venue">Luntley</placeName></persName></seg>:
                      <ref type="dEntertainment" subtype="Theat" target="/plays/recr01.html"
                         ><placeName type="DL"/>theatre, 1/5 Plume</ref>.</ab>
                <ab type="dDay" xml:id="g1804-11-15"><date when="1804-11-15">15. Th.</date><ref
@@ -3777,8 +3777,8 @@
                      revise</ref>; <ref type="dWrote" subtype="write" target="/works/flee01.html"
                      >1/2 page</ref>. <ref type="dText" subtype="read" target="/bibl/te1016.html"
                      >Pamela, p. 200</ref>. <seg type="dMeeting" subtype="C">Call on
-                           <persName><placeName type="venue">Luntley</placeName></persName></seg>,
-                     <seg type="dMeeting" subtype="C"><persName><placeName type="venue"
+                        <persName ref="/people/LUN01.html"><placeName type="venue">Luntley</placeName></persName></seg>,
+                  <seg type="dMeeting" subtype="C"><persName ref="/people/ALE14.html"><placeName type="venue"
                            >Alexander</placeName></persName></seg> &amp; <seg type="dMeeting"
                      subtype="C"><persName ref="/people/WOR05.html"><placeName type="venue"
                            >Wordsworth</placeName></persName></seg>: <seg type="dMeeting"
@@ -3834,7 +3834,7 @@
                      type="dText" subtype="read" target="/bibl/te1528.html">All in the Wrong</ref>:
                      <ref type="dText" subtype="read" target="/bibl/te1016.html">Pamela, p.
                      306</ref>. <seg type="dMeeting" subtype="Cn">Call, w.
-                        <persName>Langslow</persName>, on <persName><placeName type="venue"
+                        <persName>Langslow</persName>, on <persName ref="/people/ALE14.html"><placeName type="venue"
                            >Alexander</placeName></persName></seg>: <seg type="dMeeting"
                      subtype="CG"><persName ref="/people/HOL01.html" type="nah">Ht</persName> calls
                         <hi rend="sup">n</hi></seg>: <seg type="dMeal" subtype="S">sup at <persName
@@ -3939,7 +3939,7 @@
                <ab type="dDay" xml:id="g1804-12-05"><date when="1804-12-05">5. W.</date><ref
                      type="dText" subtype="read" target="/bibl/te0907.html">Tancrede, acte 1</ref>;
                      <ref type="dText" subtype="read" target="/bibl/te1016.html">Pamela, p.
-                     202</ref>. <seg type="dMeeting" subtype="C">Call on <persName><placeName
+                        202</ref>. <seg type="dMeeting" subtype="C">Call on <persName ref="/people/LUN01.html"><placeName
                            type="venue">Luntley</placeName></persName></seg> &amp; <seg
                      type="dMeeting" subtype="C"><persName ref="/people/HIL02.html"><placeName
                            type="venue">Hill, P S</placeName></persName></seg>: <ref
@@ -3971,7 +3971,7 @@
                      revise</ref>. [<ref type="dText" subtype="read" target="/bibl/te1531.html"
                      >Perkin Warbeck</ref>.] <ref type="dText" subtype="read"
                      target="/bibl/te1016.html">Pamela, p. 268</ref>. <ref type="dWrote"
-                     subtype="letter">Write to <persName>Luntley</persName></ref>. <seg
+                        subtype="letter">Write to <persName ref="/people/LUN01.html">Luntley</persName></ref>. <seg
                      type="dMeeting" subtype="CG"><persName ref="/people/WOL04.html" type="nah"
                         >Everina</persName> calls <hi rend="sup">n</hi></seg>: <seg type="dMeeting"
                      subtype="C">call on <persName ref="/people/GOD01.html"><placeName type="venue"
@@ -4159,7 +4159,7 @@
                            M<hi rend="sup">l</hi></persName></seg>.</ab>
                <ab type="dDay" xml:id="g1804-12-22"><date when="1804-12-22">22. Sa.</date><ref
                      type="dText" subtype="read" target="/bibl/te1016.html">Pamela, p. 294</ref>.
-                     <seg type="dMeeting" subtype="C">Call on <persName type="nah"><placeName
+                  <seg type="dMeeting" subtype="C">Call on <persName ref="/people/LUN01.html" type="nah"><placeName
                            type="venue">Luntley</placeName></persName><hi rend="sup">n</hi></seg>,
                      <seg type="dMeeting" subtype="C"><persName><placeName type="venue"
                            >Palmer</placeName></persName></seg>, <seg type="dMeeting" subtype="C"
@@ -4268,7 +4268,7 @@
                            type="venue">Batty</placeName></persName><hi rend="sup">n</hi></seg>,
                      <seg type="dMeeting" subtype="C"><persName ref="/people/HIL02.html"><placeName
                            type="venue">mrs Hill</placeName></persName></seg>, <seg type="dMeeting"
-                     subtype="C"><persName type="nah"><placeName type="venue"
+                              subtype="C"><persName ref="/people/LUN01.html" type="nah"><placeName type="venue"
                         >Luntley</placeName></persName><hi rend="sup">n</hi></seg>, <seg
                      type="dMeeting" subtype="C"><persName type="nah"><placeName type="venue"
                            >Lye</placeName></persName><hi rend="sup">n</hi></seg>, <seg

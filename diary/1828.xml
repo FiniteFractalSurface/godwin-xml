@@ -107,7 +107,7 @@
                 target="/bibl/te2881.html">H Ellis</ref></ref>. <seg type="dMeal" subtype="D">Dine
               at <persName ref="/people/KEN01|HOL05.html"><placeName type="venue"
                   >Kenney’s</placeName></persName>, w. <persName ref="/people/KNO02.html">Sheridan
-                Knowles</persName>, <persName>Planché</persName>, <persName>Liston</persName>,
+                    Knowles</persName>, <persName>Planché</persName>, <persName ref="/people/LIS03.html">Liston</persName>,
                 <persName ref="/people/MIL03.html">Miller</persName> &amp;
                 <persName>Powel</persName>; <seg type="dMeeting" subtype="Adv">adv. <persName
                   ref="/people/MOR01.html">Morton</persName></seg></seg>. <ref type="dEvent"
@@ -603,7 +603,7 @@
                 ><placeName>Museum</placeName>; <ref type="dText" subtype="read"
                 target="/bibl/te3112.html">Dumont</ref></ref>. <seg type="dMeal" subtype="Ta">Tea
                 <persName ref="/people/KEN01|HOL05.html"><placeName type="venue"
-                  >Kenney’s</placeName></persName>, w. <persName>Listons</persName>, <persName
+                    >Kenney’s</placeName></persName>, w. <persName ref="/people/LIS03.html">Listons</persName>, <persName
                 ref="/people/MOR01|MOR12|MOR13.html">4 Mortons</persName>, <persName
                 ref="/people/COO01.html">Cooper</persName> &amp; <persName ref="/people/GOD07.html"
                 >W</persName></seg>. <ref type="dText" subtype="read" target="/bibl/te1453.html"
@@ -705,7 +705,7 @@
                 ><placeName>Museum</placeName>; <ref type="dText" subtype="read"
                 target="/bibl/te2945.html">Baxter</ref></ref>. <seg type="dMeal" subtype="Ta">Tea
                 <persName ref="/people/KEN01|HOL05.html"><placeName type="venue"
-                  >Kenney’s</placeName></persName>, w. <persName>Listons</persName>,
+                    >Kenney’s</placeName></persName>, w. <persName ref="/people/LIS03.html">Listons</persName>,
                 <persName>Proctor</persName>, <persName ref="/people/NEW01.html">Newton</persName>,
                 <persName ref="/people/MOR01.html">Morton</persName>, <persName>Russel</persName>,
                 <persName ref="/people/REY02.html">R Reynolds</persName> &amp;
@@ -1304,7 +1304,7 @@
               <seg type="dMeal" subtype="B">Breakfast, <persName ref="/people/REY99.html"><placeName
                   type="venue">Reynolds’s</placeName></persName>, w. <persName
                 ref="/people/SCO02.html">Scott</persName>, <persName ref="/people/WOR01.html"
-                >Wordsworth</persName>, <persName>Luttrel</persName>, <persName>Burnel</persName>,
+                  >Wordsworth</persName>, <persName ref="/people/LUT01.html">Luttrel</persName>, <persName>Burnel</persName>,
                 <persName>Kinnaird</persName> &amp; <persName ref="/people/HEA03.html">C
                 Heath</persName>; <seg type="dMeeting" subtype="Inv">invités
                   <persName>Normanby</persName> &amp; <persName>The. Hooke</persName></seg></seg>:
@@ -2757,7 +2757,7 @@
               500</ref>. <seg type="dMeal" subtype="TG"><persName ref="/people/SHE02.html">M W
                 S</persName> at tea</seg>: <seg type="dMeal" subtype="Ta">tea <persName
                 ref="/people/KEN01|HOL05.html"><placeName type="venue"
-                >Kenney’s</placeName></persName>, w. <persName>Listons</persName>,
+                  >Kenney’s</placeName></persName>, w. <persName ref="/people/LIS03.html">Listons</persName>,
                 <persName>Woodifields</persName>, <persName>mrs C Jones</persName>,
                 <persName>Kings</persName>, <persName ref="/people/WAT03.html">Watts</persName>,
                 <persName>Adams</persName> &amp; <persName>Powel</persName>, &amp; <persName
@@ -3463,7 +3463,7 @@
                 Mortons</persName>, <persName ref="/people/KEN01|HOL05.html">4 Kennies</persName>,
                 <persName ref="/people/REY04.html">R R</persName> &amp; <persName
                 ref="/people/HOL17.html">T Ht</persName> (<seg type="dMeeting" subtype="Inv">invité
-                  <persName>Liston</persName></seg>)</seg>. <ref type="dEvent" subtype="PersEvent"
+                  <persName ref="/people/LIS03.html">Liston</persName></seg>)</seg>. <ref type="dEvent" subtype="PersEvent"
               target="/events/pe0427.html"><persName ref="/people/CLA03.html">Jane C</persName> to
                 <persName ref="/people/SHE02.html">M W S</persName></ref>. &amp; <add><persName>mrs
                 Pickergill</persName></add>. <ref type="dEvent" subtype="Temp">58 / 61 ½</ref></ab>

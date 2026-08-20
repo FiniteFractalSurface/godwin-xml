@@ -1253,7 +1253,7 @@
                                 >M</persName> call</seg>:<seg type="dMeeting" subtype="M"> meet
                                 <persName ref="/people/LUB01.html">Lubé</persName></seg>: <seg
                             type="dMeeting" subtype="Cn">call, w.<persName ref="/people/CLA01.html">
-                                M J</persName>, on <persName><placeName type="venue"
+                                M J</persName>, on <persName ref="/people/LOV02.html"><placeName type="venue"
                                     >Lovel</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="Cn"><persName ref="/people/CLA01.html"/><persName><placeName
                                     type="venue">Painter</placeName></persName></seg>.</ab>
@@ -1337,7 +1337,7 @@
                             type="dWrote" subtype="letter">Write to <persName
                                 ref="/people/LAM04.html">L C Lamb</persName></ref>. <ref
                             type="dText" subtype="read" target="/bibl/te2637.html">Ariosto, st.
-                            82</ref>.<seg type="dMeeting" subtype="CG"><persName>Lovel</persName>
+                                    82</ref>.<seg type="dMeeting" subtype="CG"><persName ref="/people/LOV02.html">Lovel</persName>
                                 (<seg type="dTopic">Bride’s Passage</seg>)</seg> &amp; <seg
                                     type="dMeeting" subtype="CG"><persName  ref="/people/BRO07.html" type="nah">Brodies</persName><hi
                                 rend="sup">n</hi> call</seg>: <ref type="dEntertainment"
@@ -1614,7 +1614,7 @@
                                 type="nah">mrs &amp; miss Yaniewicz</persName><hi rend="sup"
                             >n</hi></seg>: <seg type="dMeeting" subtype="M">meet <persName
                                 ref="/people/TAY06.html" type="nah">R Taylor</persName></seg>: <seg
-                            type="dMeeting" subtype="CG"><persName ref="/people/MAC05.html">Alex.
+                            type="dMeeting" subtype="CG"><persName>Alex.
                                 Macgowan</persName> calls</seg>: <seg type="dMeeting" subtype="M"
                             >meet <persName ref="/people/FEN01.html">Fk</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1822-06-23"><date when="1822-06-23">June 23.
@@ -1635,9 +1635,9 @@
                                 >Hayward</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName ref="/people/STU01.html"><placeName type="venue"
                                     >Sturmy</placeName></persName></seg> &amp; <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                        subtype="C"><persName ref="/people/MAC05.html"><placeName type="venue"
                                 >Macgowan</placeName></persName></seg>: <seg type="dMeeting"
-                            subtype="CG"><persName>J Macgowan</persName> calls</seg>.</ab>
+                                    subtype="CG"><persName ref="/people/MAC05.html">J Macgowan</persName> calls</seg>.</ab>
                     <ab type="dDay" xml:id="g1822-06-26"><date when="1822-06-26">26. W. </date><ref
                             type="dText" subtype="cala" target="/bibl/te2815.html">Brodie,
                             çala</ref>. <ref type="dText" subtype="read" target="/bibl/te2797.html"
@@ -1664,7 +1664,7 @@
                             ref="/people/MAR01.html">M</persName> calls, &amp; <persName
                             ref="/people/MAC04.html" type="nah">Macmillan</persName><hi rend="sup"
                             >n</hi>: <seg type="dMeeting" subtype="M">meet
-                                <persName>Macgowan</persName></seg>.</ab>
+                                <persName ref="/people/MAC05.html">Macgowan</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1822-06-29"><date when="1822-06-29">29. Sa. </date><ref
                             type="dText" subtype="read" target="/bibl/te2817.html">Pulci, st.
                             86</ref>. <seg type="dMeeting" subtype="C"> Call on <persName

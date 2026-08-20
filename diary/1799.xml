@@ -3183,7 +3183,7 @@
                      <persName>Row</persName></seg></seg>:<seg type="dMeal" subtype="Ta"> tea
                         <persName ref="/people/REY03|REY99.html"><placeName type="venue"
                            >Reynolds's</placeName></persName>, w. <persName>Holmans</persName> &amp;
-                        <persName>Luttrel</persName></seg>.</ab>
+                        <persName ref="/people/LUT01.html">Luttrel</persName></seg>.</ab>
                <pb n="e.204_0034v"/>
                <ab type="dDay" xml:id="g1799-10-20"><date when="1799-10-20">Oct. 20. Su. </date><ref
                      type="dText" subtype="read" target="/bibl/te1012.html">Hannah More, p.
@@ -4024,7 +4024,7 @@
                            Tooke's</placeName></persName>, w. <persName ref="/people/BUR02.html"
                         >Burdet</persName> &amp; <persName ref="/people/COL01.html"
                         >Coleridge</persName></seg>: <seg type="dMeeting" subtype="See"
-                           ><persName><placeName type="venue">Lanesborough's</placeName></persName>,
+                           ><persName ref="/people/LAN03.html"><placeName type="venue">Lanesborough's</placeName></persName>,
                      w. <persName>Milton</persName>, <persName ref="/people/WAT01.html"
                         >Landaff</persName>, <persName>Laval</persName>, <persName
                         ref="/people/GOR03.html">Gore</persName>, <persName>Elisée</persName>,

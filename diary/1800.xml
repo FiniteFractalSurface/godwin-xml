@@ -231,7 +231,7 @@
                      3, 4, <emph rend="deleted">//</emph> 5</ref>: <ref type="dText" subtype="read"
                      target="/bibl/te0952.html">Mitford, p. 128</ref>. <seg type="dMeeting"
                      subtype="CG"><persName ref="/people/FEL01.html">Fell</persName> calls</seg>.
-                     <seg type="dMeeting" subtype="Do"><persName><placeName type="venue"
+                  <seg type="dMeeting" subtype="Do"><persName ref="/people/LAN03.html"><placeName type="venue"
                            >Lanesborough's</placeName></persName>, w. <persName>Milton</persName>,
                         <persName>Laval</persName>, <persName ref="/people/GRA02.html"
                         >Granard</persName>, <persName>Gardiners</persName>,
@@ -1628,7 +1628,7 @@
                         type="DL"/><seg type="dMeeting" subtype="Do">theatre w.
                            <persName>them</persName>, Indiscretion; <seg type="dMeeting"
                            subtype="Adv">adv. <persName ref="/people/LAW01.html">Lawrence</persName>
-                           &amp; <persName>Alexander</persName></seg></seg></ref>.</ab>
+                              &amp; <persName ref="/people/ALE14.html">Alexander</persName></seg></seg></ref>.</ab>
                <pb n="e.205_0001r"/>
                <p>
                   <add>No. <emph rend="deleted">I</emph>X</add>
@@ -1842,7 +1842,7 @@
                         <persName ref="/people/WOL02.html">Wolcot</persName>, <persName
                            ref="/people/DAN01.html">Danvers</persName>, <persName ref="/people/STU05.html">E Sturt</persName>,
                         <persName>Massygar</persName>, <persName>Bernard</persName>,
-                        <persName>Lovel</persName>, <persName>Hubbard</persName> &amp; <persName
+                           <persName ref="/people/LOV03.html">Lovel</persName>, <persName>Hubbard</persName> &amp; <persName
                         ref="/people/AGA01.html">Agar</persName>; w. <persName
                         ref="/people/DAV02.html">Davis</persName></seg>.</ab>
                <ab type="dDay" xml:id="g1800-05-26"><date when="1800-05-26">26. M.</date><ref
