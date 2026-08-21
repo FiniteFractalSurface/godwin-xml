@@ -504,7 +504,7 @@
                                 <persName ref="/people/DAV03.html">Davy</persName>, <persName
                                 ref="/people/FUS01.html">Fuseli</persName>,
                                 <persName>Simmons</persName>, <persName ref="/people/BON01.html"
-                                >Bonnycastle</persName>, <persName>Mawman</persName> &amp;
+                                    >Bonnycastle</persName>, <persName ref="/people/MAW01.html">Mawman</persName> &amp;
                                 <persName ref="/people/OTT01.html">Churchil</persName></seg>: <seg type="dMeeting"
                             subtype="C">call on <persName ref="/people/ROB01.html"><placeName
                                     type="venue">Robinson</placeName></persName></seg>.</ab>
@@ -1826,7 +1826,7 @@
                                         <persName ref="/people/GIL04.html">Gilbert</persName> &amp; <persName ref="/people/MAG01.html">Magee</persName>; <seg
                                 type="dMeeting" subtype="Adv"> adv. <persName
                                     ref="/people/CHA06.html">Chalmers</persName> &amp;
-                                    <persName>Mawman</persName></seg></seg>: (<seg type="dMeeting"
+                                            <persName ref="/people/MAW01.html">Mawman</persName></seg></seg>: (<seg type="dMeeting"
                             subtype="M">meet <persName ref="/people/MAC01.html"
                                 >Mackintosh</persName></seg>.)</ab>
                     <ab type="dDay" xml:id="g1801-06-18"><date when="1801-06-18">18. Th.</date><seg
@@ -1923,7 +1923,7 @@
                                 <persName ref="/people/JOH01.html"><placeName type="venue"
                                     >Johnson's</placeName></persName>, w.
                                 <persName>Christie</persName>; adv.
-                            <persName>Mawman</persName></seg>.</ab>
+                                    <persName ref="/people/MAW01.html">Mawman</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1801-06-26"><date when="1801-06-26">26. F. </date><ref
                             type="dText" subtype="read" target="/bibl/te1163.html">Gowrie, acts 4
                             &amp; 5</ref>. <seg type="dMeeting" subtype="CG"><persName

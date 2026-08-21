@@ -3464,7 +3464,7 @@
                             subtype="Ta">tea <persName ref="/people/MON01.html"><placeName
                                     type="venue">Montagu's</placeName></persName>, w.
                                         <persName ref="/people/COO10.html">Cooke</persName> &amp;
-                            <persName>Martineau</persName></seg>.</ab>
+                                        <persName  ref="/people/MAR04.html">Martineau</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1795-10-03"><date when="1795-10-03">3. Sa.</date><ref
                             type="dWrote" subtype="revised" target="/works/cale01.html"
                         >Revise</ref>. <ref type="dText" subtype="read" target="/bibl/te0610.html"
@@ -3756,7 +3756,7 @@
                             type="dMeal" subtype="D">dine at <persName ref="/people/HOL01.html"
                                     ><placeName type="venue">Ht's</placeName></persName>, w.
                                 <persName ref="/people/MER01.html">Merry</persName>,
-                                <persName>Mansel</persName> &amp; <persName ref="/people/TUT01.html"
+                                        <persName  ref="/people/REY03.html">Mansel</persName> &amp; <persName ref="/people/TUT01.html"
                                 >Tuthil</persName>; <seg type="dMeeting" subtype="Adv">adv.
                                     <persName ref="/people/DYS01.html">Dyson</persName> &amp;
                                     <persName ref="/people/RIT01.html"
@@ -4332,7 +4332,7 @@
                             >dine at <persName ref="/people/HOL01.html"><placeName type="venue"
                                     >Hts</placeName></persName>, w. <persName
                                 ref="/people/BAR03.html">Barry</persName>,
-                                <persName>Mansel</persName>, <persName>T</persName> &amp; <persName
+                                        <persName  ref="/people/REY03.html">Mansel</persName>, <persName>T</persName> &amp; <persName
                                 ref="/people/COO01.html">C</persName>: <seg type="dMeeting"
                                 subtype="Adv"> adv. <persName ref="/people/RIT01.html">
                                     Ritson</persName></seg></seg>.</ab>

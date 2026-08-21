@@ -1061,7 +1061,7 @@
                         <emph rend="red">
                             <ref type="dEvent" subtype="Publ" target="/events/pu0036.html"
                                     ><persName>D'Orleans</persName> &amp;
-                                    <persName>Mirabeau</persName> accused by the
+                                <persName ref="/people/RIQ01.html">Mirabeau</persName> accused by the
                                     <persName>Châtelet</persName> to the National Assembly</ref>
                         </emph>
                     </ab>
@@ -1331,7 +1331,7 @@
                         <date when="1790-10-02">2. Sa. </date>
                         <emph rend="red">
                             <ref type="dEvent" subtype="Publ" target="/events/pu0036.html"
-                                >Impeachment of <persName>Mirabeau</persName> &amp;
+                                >Impeachment of <persName ref="/people/RIQ01.html">Mirabeau</persName> &amp;
                                     <persName>d'Orleans</persName> discharged</ref>
                         </emph>
                     </ab>

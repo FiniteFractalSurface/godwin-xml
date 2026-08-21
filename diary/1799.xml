@@ -800,7 +800,7 @@
                         ref="/people/HOL01|HOL05.html"><placeName type="venue"
                         >Ht's</placeName></persName>, w. <persName type="nah"
                         ref="/people/FOU02.html">mrs Foulkes</persName>, <persName>S C</persName>,
-                        <persName>E M</persName> &amp; <persName>Nunnick</persName></seg>: <seg
+                        <persName  ref="/people/REY03.html">E M</persName> &amp; <persName>Nunnick</persName></seg>: <seg
                      type="dMeeting" subtype="M">meet <persName ref="/people/JON01.html">L
                         J</persName></seg>, <emph rend="deleted">&amp;</emph><seg type="dMeeting"
                      subtype="M"><persName ref="/people/DIB01.html"> Dibbin</persName></seg> &amp;
@@ -1384,7 +1384,7 @@
                      370</ref>. <seg type="dMeal" subtype="Ta">Tea <persName
                         ref="/people/ELW01.html"><placeName type="venue">S
                         Elwes's</placeName></persName>;<seg type="dMeeting" subtype="Adv"> adv.
-                           <persName>Sutherland</persName> &amp; <persName>mrs M<hi rend="sup"
+                           <persName>Sutherland</persName> &amp; <persName ref="/people/MAC04.html">mrs M<hi rend="sup"
                               >c</hi>Millan</persName></seg></seg>. <ref type="dText" subtype="read"
                      target="/bibl/te0962.html">Read E Canning</ref> &amp;<ref type="dText"
                      subtype="read" target="/bibl/te0963.html"> M Blandy</ref>.</ab>
@@ -1899,7 +1899,7 @@
                      subtype="Ta">tea <persName type="nah" ref="/people/FAN01.html"><placeName
                            type="venue">O Fancourt's</placeName></persName>, w. him &amp;
                         <persName>mrs Delany</persName></seg>: <seg type="dMeeting" subtype="M">
-                     meet <persName ref="/people/MAC19.xml">Macquin</persName></seg>: <ref
+                     meet <persName ref="/people/MAC28.xml">Macquin</persName></seg>: <ref
                      type="dEntertainment" subtype="Theat" target="/plays/unkn35.html"><placeName
                         type="RC"/>Circus, the Season, w. <persName ref="/people/COO01.html"
                         >C</persName> &amp; <persName>O</persName></ref></ab>
@@ -1922,7 +1922,7 @@
                      >Mitford, p. 374</ref>: <ref type="dText" subtype="read"
                      target="/bibl/te0452.html">Johnson, p. 274</ref>. <seg type="dMeal" subtype="D"
                      >Dine at <persName ref="/people/CHA01.html"><placeName type="venue"
-                           >Chandler's</placeName></persName>, w. <persName ref="/people/MAC19.xml"
+                           >Chandler's</placeName></persName>, w. <persName ref="/people/MAC28.xml"
                         >Macquin</persName> &amp; <persName>Deering</persName>; <seg type="dMeeting"
                         subtype="Adv">adv. <persName ref="/people/CAL10.xml">Calcot</persName> &amp;
                            <persName>miss Stephens</persName></seg></seg>: <seg type="dMeeting"
@@ -2301,7 +2301,7 @@
                         ref="/people/RIC02.html" type="nah">Richter</persName> calls</seg><hi
                      rend="sup">n</hi> (talk of<seg type="dTopic"> population</seg> &amp; <seg
                      type="dTopic">the association of ideas</seg>.) <add><seg type="dMeeting"
-                        subtype="M">meet <persName>M<hi rend="sup"
+                           subtype="M">meet <persName ref="/people/MAC28.html">M<hi rend="sup"
                   >c</hi>quin</persName></seg></add></ab>
                <ab type="dDay" xml:id="g1799-07-26"><date when="1799-07-26">26. F.</date><ref
                      type="dWrote" subtype="write" target="/works/leon01.html">St Leon, p.
@@ -3156,7 +3156,7 @@
                         Tooke</persName>, <persName ref="/people/CUR01.html">Curran</persName>,
                         <persName ref="/people/MOR99.html">Morgan</persName> &amp; <persName
                         ref="/people/MAL02.html">Malkin</persName></seg>. <seg type="dMeeting"
-                     subtype="M">meet <persName ref="/people/MAC19.xml"
+                     subtype="M">meet <persName ref="/people/MAC28.xml"
                   >Macquin</persName></seg>.</ab>
                <ab type="dDay" xml:id="g1799-10-18"><date when="1799-10-18">18. F. </date><ref
                      type="dText" subtype="read" target="/bibl/te0201.html">Lear, acts 2, 3,

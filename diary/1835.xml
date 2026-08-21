@@ -354,7 +354,7 @@
                                           <seg type="dMeal" subtype="DG"><persName
                                                 ref="/people/GOD18.html">Emily</persName> dines;
                                                 <seg type="dMeeting" subtype="Adv">adv.
-                                                  <persName>mrs Martineau</persName></seg></seg>.
+                                                      <persName ref="/people/MAR04.html">mrs Martineau</persName></seg></seg>.
                                           <ref type="dEvent" subtype="Temp">57 ½ / 69 ½</ref></ab>
                               <ab type="dDay" xml:id="g1835-02-03"><date when="1835-02-03">3.
                                           Tu.</date><ref type="dWrote" subtype="write"
@@ -526,7 +526,7 @@
                                           type="dMeeting" subtype="CG"><persName
                                                 ref="/people/SMI04.html">A Smith</persName>
                                           calls</seg>: <seg type="dMeal" subtype="TG"
-                                                  ><persName>Mesd<hi rend="sup">s</hi>
+                                                ><persName ref="/people/MAR04|MAR02.html">Mesd<hi rend="sup">s</hi>
                                                 Martineau</persName> &amp; <persName
                                                 ref="/people/KEN04.html">Kentish</persName> at
                                           tea</seg>. <ref type="dEvent" subtype="Temp">54 /
@@ -671,7 +671,7 @@
                                                   (Finsbury)</placeName></persName>, w. <persName
                                                 ref="/people/GAS02.html">Mesd<hi rend="sup">s</hi>
                                                 Gaskel</persName> &amp;
-                                                <persName>Martineau</persName>; <seg type="dMeeting"
+                                                <persName ref="/people/MAR02.html">Martineau</persName>; <seg type="dMeeting"
                                                 subtype="Adv">adv. <persName
                                                   ref="/people/SMI09.html">S
                                           Smith</persName></seg></seg>. <add><ref type="dEvent"
@@ -1567,7 +1567,7 @@
                                           tea; <seg type="dMeeting" subtype="Adv">adv. <persName
                                                   ref="/people/GAS02.html">mesd<hi rend="sup">s</hi>
                                                   Gaskel</persName> &amp;
-                                                  <persName>Martineau</persName></seg></seg>. <ref
+                                                <persName ref="/people/MAR02.html">Martineau</persName></seg></seg>. <ref
                                           type="dEvent" subtype="Temp">62 ½ / 68 ½</ref></ab>
                               <ab type="dDay" xml:id="g1835-05-12"><date when="1835-05-12">12.
                                           Tu.</date><ref type="dEvent" subtype="PersHlth"
@@ -1739,7 +1739,7 @@
                                                 ref="/people/OWE01.html">Owen</persName>,
                                                 <persName>Hunter</persName>, <persName ref="/people/HOL19.html">Holm<emph
                                                   rend="deleted">e</emph>s</persName>,
-                                                <persName>Martineau</persName>,
+                                                <persName ref="/people/MAR02.html">Martineau</persName>,
                                                 <persName>Jones</persName></seg>. <add><persName>mrs
                                                 Grote</persName>,
                                           <persName>Pemberton</persName></add>. <ref type="dEvent"

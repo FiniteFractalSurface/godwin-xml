@@ -24,11 +24,11 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="MER07" sex="2">
+                <person xml:id="MAN06" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>Elizabeth Benigna</forename>
-                        <surname>Mercier</surname>
+                        <forename>NAME</forename>
+                        <surname>Mansel</surname>
                         <addName/>
                     </persName>
                     <birth when="1000-01-01">
@@ -37,16 +37,15 @@
                     <death when="1000-12-31"/>
                     <occupation>OCCUPATION</occupation>
                     <note type="editorial">
-                        <p>Including E Mercier and B mercier. See Ed Pope's notes: See also Mercier, B
-                            which could have been the same person. Elizabeth Benigna Mercier =
-                            Daniel Dowling 1814 St Pancras. Dowling was an Irish schoolmaster and
-                            author of books on mathematics. He was bankrupt at Devonshire-st
-                            Queen-sq in 1813, then master of Mansion House Academy, Highgate till
-                            1818, moved to Upper Mall Hammersmith, and to Dublin by 1838. Their
-                            daughter Fanny Elizabeth died 1828 age 13. Charles Hutton son of Daniel
-                            and Elizabeth Dowling bapt St Pancras 1822. Her second entry above is the
-                            eve of Louisa Mercier's wedding to Holcroft. See also Marshall, Mrs for
-                            EM entries in 1804 and 1806. </p>
+                        <p>There are four entries in 1789and 1790 that are distinct from subsequent
+                            Mansel entries. Ed Pope's notes suggest: Possibly Rev William Lort
+                            Mansel DNB fellow of Trinity College, Cambridge who subscribed 1786 to
+                            HMWilliams' poems, though his politics were different from Hollis's. Or
+                            a William Mansell Esq who wrote the opera "Fairy-Hill" 1784; a W Mansell
+                            signed the Declaration of the Friends to the Liberty of the Press 1792;
+                            a Samuel Mansell was minister of Baptist Church, Snows Fields, Southwark
+                            1796; Rev Rowland Dawkin Mansel, will PCC 1789 upholder of St Pancras or
+                            his son Mansel Dawkin Mansel of Lothbuty House, Bucks will PCC 1827 </p>
                     </note>
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,

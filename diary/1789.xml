@@ -802,7 +802,7 @@
                                 ref="/people/GED01.html">Geddes</persName>, <persName
                                 ref="/people/DIS01.html">Disney</persName>, <persName
                                 ref="/people/ROM01.html">Romilly</persName>,
-                                <persName>Kent</persName>, <persName>May </persName><persName
+                            <persName>Kent</persName>, <persName ref="/people/MAY01.html">May </persName><persName
                                 ref="/people/JEN05.html">Jennings</persName> &amp; <persName
                                 ref="/people/MOR03.html">G. Morgan</persName></seg>.</ab>
                     <pb n="e.197_0006r"/>
@@ -1591,7 +1591,7 @@
                     <ab type="dDay" xml:id="g1789-11-20"><date when="1789-11-20">20. F.</date><seg
                             type="dMeeting" subtype="C">Call on <persName ref="/people/ROB01.html"
                                     ><placeName type="venue">Robinson</placeName></persName>: talk
-                            of <seg type="dTopic"><persName>Mirabeau</persName></seg>, <seg
+                            of <seg type="dTopic"><persName ref="/people/RIQ01.html">Mirabeau</persName></seg>, <seg
                                 type="dTopic"><persName>Peyssonnel</persName></seg>, <seg
                                 type="dTopic"><persName>Rousseau</persName></seg> &amp; <seg
                                 type="dTopic"><persName ref="/people/HOL01.html"
@@ -1736,7 +1736,7 @@
                             subtype="Publ" target="/events/pu0027.html"><persName
                                 ref="/people/TOO01.html">H. Tooke</persName> is pro slavery</ref>.
                             <ref type="dEvent" subtype="Publ" target="/events/pu0028.html"
-                                    ><persName>M<hi rend="sup">l</hi> M<hi rend="sup"
+                                ><persName ref="/people/RIQ01.html">M<hi rend="sup">l</hi> M<hi rend="sup"
                                 >u</hi></persName> charged <persName>his son</persName> £2000 for 3
                             Lettres de C<hi rend="sup">t</hi>. <persName ref="/people/PRI02.html"
                                     >D<hi rend="sup">r</hi> Price</persName> disapproves of

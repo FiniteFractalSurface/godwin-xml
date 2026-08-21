@@ -673,7 +673,7 @@
                             type="dMeeting" subtype="C">Call on <persName ref="/people/WAT03.html"
                                 >Watts (<placeName type="venue">Sion
                             College</placeName>)</persName></seg>, <seg type="dMeeting" subtype="C"
-                                    ><persName><placeName type="venue"
+                                ><persName ref="/people/MAJ02.html"><placeName type="venue"
                             >Major</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName><placeName type="venue"
                                 >Denley</placeName></persName>, for <seg type="dTopic"><ref

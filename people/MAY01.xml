@@ -10,7 +10,7 @@
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by</resp>
-                    <name></name>
+                    <name/>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -24,27 +24,38 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="MAC19" sex="1">
+                <person xml:id="MAY01" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>NAME</forename>
-                        <surname>SURNAME</surname>
+                        <forename>(James) Edward</forename>
+                        <surname>May</surname>
                         <addName/>
                     </persName>
-                    <birth when="1000-01-01">
+                    <birth when="1751">
                         <placeName/>
                     </birth>
-                    <death when="1000-12-31"/>
+                    <death when="1827"/>
                     <occupation>OCCUPATION</occupation>
                     <note type="editorial">
-                        <p> </p>
+                        <p>See Ed Pope's notes: (James) Edward May 1751-1827 History of Irish
+                            Parliament and W.A.Maguire Living Like A Lord. He married 1.9.1773
+                            Elizabeth Bragg of St George Holborn and (by 1809 but after their
+                            children were born) Elizabeth daughter of Francis Lumley. He was
+                            admitted Middle Temple 1777 and called to the bar 1789, gave evidence at
+                            Horne Tooke's trial 1794, had known Tooke 2 years, "not a member of any
+                            society". His children Stephen 1781-1845, Rev Edward 1783-1819, Anna who
+                            married Lord Belfast (qv) in 1795, and Elizabeth. He could have been the
+                            May at Brand Hollis' on 30 May 1789 but in that case Godwin must have
+                            "forgotten" him when he entered him in his list 8 years later. May was a
+                            common name. John May who appeared in Godwin's diary from 1819 with
+                            Henry Holcroft was probably not related.</p>
                     </note>
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
                         Publisher, year</bibl>
                     <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
                     <bibl type="other">
-                        <title></title>
+                        <title/>
                     </bibl>
                 </person>
             </listPerson>

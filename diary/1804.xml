@@ -274,7 +274,7 @@
                         ref="/people/HOL01.html">Ht</persName></seg>: <ref type="dEntertainment"
                      subtype="Theat" target="/plays/keep01|unkn26.html"><placeName type="DL"/><seg
                         type="dMeeting" subtype="Do">theatre, w. <persName ref="/people/CLA01.html"
-                           >M J</persName>, <persName>E M</persName>, <persName
+                           >M J</persName>, <persName ref="/people/MER07.html">E M</persName>, <persName
                            ref="/people/MAR01.html">M</persName> &amp; <persName
                            ref="/people/SHE02|IML01|CLA02|CLA03.html">children</persName>; Way to
                         Keep Him, &amp; Cinderella</seg></ref>.</ab>
@@ -614,7 +614,7 @@
                      <seg type="dMeal" subtype="DG"><persName ref="/people/MAR01.html">M</persName>
                      dines; <seg type="dMeeting" subtype="Adv">adv. <persName
                            ref="/people/GOD02.html">Jo G</persName>.</seg></seg><seg type="dMeeting"
-                     subtype="See"><persName>E M</persName></seg>.</ab>
+                              subtype="See"><persName ref="/people/MER07.html">E M</persName></seg>.</ab>
                <ab type="dDay" xml:id="g1804-02-22"><date when="1804-02-22">22. W.</date><ref
                      type="dWrote" subtype="letter">Write to <persName ref="/people/PHI01.html"
                         >Philips</persName>, on <seg type="dTopic"
@@ -939,7 +939,7 @@
                      type="dEntertainment" subtype="Theat" target="/plays/unkn28.html"
                         ><placeName/><seg type="dMeeting" subtype="Do">theatre, w. <persName
                            ref="/people/SMI11.html">Smith</persName>, <persName
-                           ref="/people/CLA01.html">M J</persName>, <persName>E M</persName> &amp;
+                              ref="/people/CLA01.html">M J</persName>, <persName ref="/people/MER07.html">E M</persName> &amp;
                            <persName ref="/people/IML01.html">F</persName>; <seg type="dMeeting"
                            subtype="Adv">adv. <persName ref="/people/MOO06.html">C Moore</persName>,
                               <persName ref="/people/FIL01.html">Fillingham</persName>, <persName

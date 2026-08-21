@@ -2551,7 +2551,7 @@
                                 ref="/people/TOW02.html"><placeName type="venue"
                                     >Townsend</placeName></persName>, w. <persName
                                 ref="/people/PHI01.html">Philips</persName>, <seg type="dMeeting"
-                                subtype="Adv">adv. <persName ref="/people/MAC19.xml">Macquin</persName></seg></seg>: <seg
+                                subtype="Adv">adv. <persName ref="/people/MAC28.xml">Macquin</persName></seg></seg>: <seg
                             type="dMeeting" subtype="M">meet <persName ref="/people/JOH01.html"
                                 >Johnson</persName></seg>, <seg type="dMeeting" subtype="M"
                                 ><persName ref="/people/BON01.html">Bonnycastle</persName></seg>,
@@ -4010,7 +4010,7 @@
                                 ref="/people/BON01.html">Bonnycastles</persName>, <persName
                                 ref="/people/DAV03.html">Davy</persName>, <persName
                                 ref="/people/TOB02.html">Tobin</persName> &amp;
-                                <persName>Mawman</persName>; <seg type="dMeeting" subtype="Adv">adv.
+                                <persName ref="/people/MAW01.html">Mawman</persName>; <seg type="dMeeting" subtype="Adv">adv.
                                     <persName ref="/people/HEW01.html"
                         >Hewlet</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1802-12-30"><date when="1802-12-30">30. Th.</date><ref
