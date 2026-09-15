@@ -1649,7 +1649,7 @@
                                           target="/works/geni01.html">Scriptural, p. 7/2</ref>. <ref
                                           type="dText" subtype="read" target="/bibl/te1489.html"
                                           >Clarendon, p. 446</ref>: <seg type="dMeeting"
-                                          subtype="CG"><persName>Nelson</persName> calls</seg>. <ref
+                                                subtype="CG"><persName ref="/people/NEL02.html">Nelson</persName> calls</seg>. <ref
                                           type="dEvent" subtype="Temp">63 / 71</ref></ab>
                               <ab type="dDay" xml:id="g1835-05-21"><date when="1835-05-21">21.
                                           Th.</date><ref type="dEvent" subtype="PersHlth"
@@ -1930,7 +1930,7 @@
                                           type="dText" subtype="read" target="/bibl/te0143.html"
                                           >Burnet, Vol. IV, p. 42</ref>: <ref type="dText"
                                           subtype="read">Sextus &amp; Cassia</ref>. <seg
-                                          type="dMeeting" subtype="CG"><persName>Nelson</persName>
+                                                type="dMeeting" subtype="CG"><persName ref="/people/NEL02.html">Nelson</persName>
                                           calls</seg>. <ref type="dEvent" subtype="Temp">68 /
                                           71</ref></ab>
                               <ab type="dDay" xml:id="g1835-06-18"><date when="1835-06-18">18.
@@ -2528,7 +2528,7 @@
                                           target="/works/geni01.html">Posthume, 10 lines</ref>. <ref
                                           type="dText" subtype="cala" target="/bibl/te3665.html">H
                                           Tooke, çala</ref>. <seg type="dMeeting" subtype="CG"
-                                                ><persName>Nelson</persName> calls</seg>: <seg
+                                                ><persName ref="/people/NEL02.html">Nelson</persName> calls</seg>: <seg
                                           type="dMeal" subtype="SG"><persName
                                                 ref="/people/TRE01.html">Trelawney</persName>
                                           sups</seg>. <ref type="dEvent" subtype="PersEvent"

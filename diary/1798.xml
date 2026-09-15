@@ -757,7 +757,7 @@
                                 ref="/people/BAR03.html">col. Barry</persName>,
                                 <persName>Anstey</persName> &amp; <persName ref="/people/WAR05.html"
                                 >Warner</persName></seg>: <seg type="dMeal" subtype="Ta">tea
-                                    <persName><placeName type="venue"
+                                    <persName ref="/people/RIC07.html"><placeName type="venue"
                                 >Richardson's</placeName></persName>, w.
                                 <persName>Jones's</persName> &amp;
                         <persName>Laney</persName></seg>.</ab>
@@ -778,7 +778,7 @@
                             subtype="CG"><persName ref="/people/BAR03.html">Barry</persName></seg>
                         &amp; <seg type="dMeeting" subtype="CG"><persName ref="/people/LOS01.html"
                                 >Losh</persName> call</seg>: <seg type="dMeal" subtype="TG"
-                                ><persName>Richardsons</persName> &amp; <persName
+                                    ><persName ref="/people/RIC07.html">Richardsons</persName> &amp; <persName
                                 ref="/people/DAV02.html">Davis's</persName> at tea</seg>.</ab>
                     <ab type="dDay" subtype="NotLon" xml:id="g1798-03-08"><date when="1798-03-08">8.
                             Th.</date><seg type="dMeeting" subtype="See"><persName><placeName
@@ -4337,7 +4337,7 @@
                                 ref="/people/GOD04.html">H G</persName> &amp; <persName>miss
                                 Millan</persName> sup</seg>; <seg type="dMeeting" subtype="Sleeps"
                                 ><persName>sleep</persName></seg>. / <seg type="dMeeting"
-                            subtype="Adv">adv. <persName>Richardson</persName></seg>.</ab>
+                                    subtype="Adv">adv. <persName ref="/people/RIC06.html">Richardson</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1798-12-31"><date when="1798-12-31">31. M.</date><seg
                             type="dMeeting" subtype="C">Call on <persName ref="/people/CAR01.html"
                                 type="nah"><placeName type="venue"

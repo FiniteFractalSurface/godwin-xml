@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="NEL02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>NAME</forename>
+                        <surname>Nelson</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's Note: The funeral in Jan 1806 was of Horatio Nelson DNB
+                            1758-1805 . The identity of the Nelson of 1805 and 1806
+                            calls only, and that of 1835 and 1836 calls only is hard to find as Nelson
+                            was a common surname. If he was a book trade contact there are only two
+                            Nelsons in British Book Trades Index, both bookbinders, David Nelson of
+                            21 Kirby St Hatton Garden 1795-1811 (perhaps will PCC 1812) and Thomas
+                            Nelson stationer and bookbinder 168 Aldersgate St Holdens 1805 bookbinder
+                            1 Warwick Sq Newgate St Holdens 1811. If he was an attorney he could
+                            have been George Nelson of 1 Palsgrave Pl Temple (perhaps will PCC 1829
+                            gent of St Clement Danes) or Joshua Mills Nelson 36 Red Lion St Holborn
+                            will PCC 1828 or Richard Nelson of 3 Adams Pl Kings Rd Chelsea (perhaps
+                            will PCC 1834 gent of Chelsea). If he was a doctor he might have been
+                            Thomas Nelson of 55 Conduit St Hanover Sq Holdens 1805 47 Berners st
+                            Holdens 1811 will PCC 1848 doctor of physic St Marylebone, Monk's Roll.
+                            Then there was John Wood Nelson of 2 Doughty St Guildford St (Holdens
+                            1805) insurance broker Lloyds Coffee House (Holdens 1811) will PCC 1844
+                            merchant of St Pancras. William Henry Nelson Esq Hern Hill Dulwich
+                            (Holdens 1811) will PCC 1833. Richard Alexander Nelson Secretary to the
+                            Navy Somerset House will PCC 1820. James Nelson herald painter 106 High
+                            Holborn (Holdens 1811). William Nelson plane maker 5 Chapel Path Somers
+                            Town (Holdens 1811) will PCC 1845 of Thomas Nelson plane maker of Chapel
+                            St Somers Town. And in Holdens 1811 there were 17 other tradesmen
+                            including 4 publicans and 4 merchants/brokers and 5 other Nelsons in the
+                            residential section </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

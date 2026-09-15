@@ -1352,7 +1352,7 @@
                                     rend="sup">s</hi> Wt</persName> dines; <seg type="dMeeting"
                                 subtype="Adv">adv. <persName ref="/people/COO01.html"
                                     >Cooper</persName> (from <seg type="dTopic"
-                                        ><persName>Richardson</persName></seg>).</seg></seg></ab>
+                                        ><persName ref="/people/RIC06.html">Richardson</persName></seg>).</seg></seg></ab>
                     <ab type="dDay" xml:id="g1803-05-06"><date when="1803-05-06">6. F.</date><ref
                             type="dWrote" subtype="write" target="/works/chau01.html">Chaucer, 1 1/2
                             pages</ref>. <ref type="dEntertainment" subtype="Museo"
@@ -3303,7 +3303,7 @@
                             target="/plays/fair01|rais01.html"><placeName type="CG"/>Theatre, 2/5
                             Calista, &amp; Raising the Wind; <seg type="dMeeting" subtype="Adv">adv.
                                     <persName ref="/people/HIL05.html">Hill</persName> &amp;
-                                    <persName>Morris</persName></seg></ref>.</ab>
+                                <persName ref="/people/MOR14.html">Morris</persName></seg></ref>.</ab>
                     <pb n="e.206_0047v"/>
                     <ab type="dDay" xml:id="g1803-11-06"><date when="1803-11-06">Nov. 6.
                             Su.</date><ref type="dText" subtype="cala">Dunstan, çala</ref>. <seg

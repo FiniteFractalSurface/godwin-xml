@@ -2444,7 +2444,7 @@
                             type="dWrote" subtype="letter"><persName>Robins</persName></ref>. <seg
                             type="dMeeting" subtype="C">Call on <persName ref="/people/LAC01.html"
                                     ><placeName type="venue">Lackington</placeName></persName></seg>
-                        &amp; <seg type="dMeeting" subtype="C"><persName><placeName type="venue">mrs
+                        &amp; <seg type="dMeeting" subtype="C"><persName ref="/people/MON02.html"><placeName type="venue">mrs
                                     Montagu</placeName></persName></seg>: <ref type="dEntertainment"
                             subtype="Theat" target="/plays/high02.html"><placeName type="HM"
                             />theatre, High Life in the City</ref>: <seg type="dMeeting"
@@ -2546,7 +2546,7 @@
                             type="dText" subtype="read" target="/bibl/te1828.html">Advancem<hi
                                 rend="sup">t</hi> p. 128</ref>: <ref type="dText" subtype="read"
                             target="/bibl/te1822.html">Quixote, p. 107</ref>. <seg type="dMeeting"
-                            subtype="C">Call on <persName type="nah"><placeName type="venue">mrs
+                                subtype="C">Call on <persName ref="/people/MON02.html" type="nah"><placeName type="venue">mrs
                                     Montagu</placeName></persName><hi rend="sup">n</hi></seg>: <seg
                             type="dMeeting" subtype="CG"><persName>Kerr</persName></seg> &amp; <seg
                             type="dMeeting" subtype="CG"><persName>Smith of Sun. Rev.</persName>
@@ -2571,7 +2571,7 @@
                     <ab type="dDay" xml:id="g1810-08-15"><date when="1810-08-15">15. W.</date><ref
                             type="dWrote" subtype="letter">Letter to
                             <persName>Wedgwood</persName></ref>. <seg type="dMeeting" subtype="C"
-                            >Call on <persName><placeName type="venue">mrs
+                                >Call on <persName ref="/people/MON02.html"><placeName type="venue">mrs
                                 Montagu</placeName></persName>; <seg type="dMeeting" subtype="Adv"
                                 >adv. <persName>mrs Speed</persName></seg></seg>: <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/MAC04.html"

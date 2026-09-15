@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="RIC07" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>NAME</forename>
+                        <surname>Richardson</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>The Richardson entries in Bath in 1798. See Ed Pope's notes: 5.3.1798 at
+                            tea (at Bath) with Jones's and Laney / 7.3.1798 Richardsons (and Davis's) at
+                            tea (at Bath) The Richardsons at Bath were probably not Joseph
+                            Richardson. Farington' diary p1497 and p1499 while Farington was in Bath
+                            in 1801 he met Rev Mr Townsend author of a Tour in Spain at Rev Warner's
+                            Bath and met Rev Mr Richardson at Dr Salt's where he had also seen
+                            Warner and Townsend. Godwin on 13.3.1798 was at Losh's with Townsend,
+                            who also appeared in Godwin's 1796 list although Godwin only noted him
+                            once in his diary. The Rev Mr Richardson was Benjamin Richardson (will
+                            PCC 1832) rector of Hungerford Farleigh (a few miles from Bath near
+                            Trowbridge), geologist and friend of William Smith DNB 1769-1839 and
+                            Thomas Davis DNB 1749-1807. These may have been the Richardsons and
+                            Davis's who took tea with Godwin on 7.3.1798. But there were other
+                            Richardsons at Bath - Mr R J Richardson and Mrs Richardson of Bath were
+                            subscribers to Eyre's Fatal Sisters 1797 as were several other of the
+                            people Godwin met in Bath (Randall, Wake, Bull, Breach) and Mrs
+                            Richardson of Bath subscribed to Ann Wingrove's poems 1795 (as did Bull,
+                            Davis, Randall and Wake of Bath). R J Richardson may have been the same as
+                            Richard Richardson land surveyor of Bath (but by 1802 of Lincolns Inn
+                            Fields London with Henry Richardson; he may - but unlikely - have been
+                            the Richard Richardson of St Pancras buried 20.7.1821 St Andrew Holborn
+                            age 40 whose will PCC 1821 of Grays Inn Rd mentioned his mother Ann,
+                            sister Charlotte and brother William). The Rev Benjamin Richardson's
+                            brothers (from his father's will PCC 1780 John R of Churchill) were
+                            called John and Thomas. Another possible was Henry Richardson aged 72 in
+                            1851 census tailor born St Michael's Bath </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

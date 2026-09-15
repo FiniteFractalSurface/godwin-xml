@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="RIC06" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Joseph</forename>
+                        <surname>Richardson</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1755">
+                        <placeName/>
+                    </birth>
+                    <death when="1803"/>
+                    <occupation>Theatre manager</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's notes: Joseph Richardson DNB 1755-1803. Friend of Sheridan
+                            and part of the Whig circle at Debrett's bookshop. Didn't feature on
+                            Godwin's 1796 list but the name Richardson was inserted above, after
+                            Perry, and then crossed out, in the 1794 version, which would fit with
+                            Godwin meeting him again in 1795. The entries from 1798 were possibly
+                            him and his wife, or possibly other Richardsons discussed below. The
+                            last entry is just a month before Joseph Richardson's death, but he was
+                            co-manager and part owner of Drury Lane theatre, which may explain the
+                            actor Thomas Cooper's coming 'from' him. His will PCC 1803 dated
+                            1.4.1802 mentioned his wife's four daughters Sarah Frances Elizabeth and
+                            Catherine and said he was in no doubt they were his own but he had been
+                            forced to delay his marriage. He made Dr Charles Combe (qv) and Richard
+                            Wilson of Lincolns Inn Fields his executors and James Nothcote of Argyll
+                            St was a witness. </p>
+                        <p>Ed Pope adds: 10.6.1808 Richardsons at (Joseph) Johnson's / 13.9.1809 mrs
+                            Richardson calls / 19.9.1809 write to mrs Richardson The two 1809
+                            entries were certainly Sarah widow of Joseph Richardson, see Abinger c10
+                            f94v part of her letter to Godwin dated 20.9.1809 12 Berners St in which
+                            she asks him to return the specimen of her version of the bible (see
+                            Joseph Richardson's DNB article at the end). The 1808 entry may well be
+                            her as well probably with one or more of Joseph Richardson's daughters.
+                            Sarah Fawcett spinster married Joseph Richardson bachelor 7.7.1799 at St
+                            Dunstan in the West by banns, but their daughters were born long before.
+                            Frances dau of Joseph and Sarah Richardson was born 5.6.1784 bapt 5.7.1784
+                            at St Marylebone (she died Brunswick 1832 friend and companion to
+                            Baroness von Hesse: Ancestry user-submitted tree) Elizabeth dau of
+                            Joseph and Sarah R of Shire Lane born 30.4.1788 bapt 1.7.1788 at St
+                            Dunstan in the West Catherine dau of Joseph and Sarah R of Gt Shire La
+                            born 9.7.1791 bapt 3.8.1791 St Dunstan in the West, no details for
+                            daughter Sarah, probably the eldest. Mrs Richardson was buried 4.10.1823
+                            at St Pancras of Fitzroy St age 70 and was noticed in the Morning Post
+                            of 29.9.1823, her Abridged History of the Bible in Verse was noticed
+                            shortly before her death in the Morning Post of 17.9.1823. Katherine
+                            Richardson of 12 Fitzroy St aged 23 died 7.7.1823 and was buried
+                            14.7.1823 at St Pancras, Mrs Richardson's obituary mentioned three
+                            daughters. There was also a Mrs Sarah Richardson of Chancery Lane
+                            buriied at St Dunstan in the West 2.4.1823 aged 43, she may have been
+                            the eldest unmarried daughter despite the title Mrs which had been
+                            commonly used for older spinsters in the eighteenth century but less so
+                            by 1823.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

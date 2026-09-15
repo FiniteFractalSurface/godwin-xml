@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="MOR14" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>David Edward</forename>
+                        <surname>Morris</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Theatre Manager</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's notes: Possibly Robert Morris (Highfill, Burnim and Langhans
+                            fl 1768-1809 scene painter) but more likely David Edward Morris (will
+                            PCC 1842) brother-in-law of George Colman DNB 1762-1836 who gradually
+                            took over Colman's ownwership of the Haymarket theatre. When Colman
+                            first appeared in the diary on 5.6.1800 Godwin wrote call on "Christie
+                            (incog) and Colman (do)". My only guess as to what this was about
+                            relates to Holcroft and Godwin's idea that their names as radicals were
+                            bad selling points for their plays. But it is striking that Colman got
+                            the (incog) and Morris the (secret) if they were the two brothers-in-law
+                            and theatre managers. David Morris wrote to Godwin in 1821 about his
+                            free theatre tickets (Bodleian Abinger c12 f106). (See also Lacy,
+                            Willoughby). Since Morris was a common name, the last two entries
+                            outside the theatre context could easily have been others, for example,
+                            at Westminster Hall, the barrister Edward Morris or the attorney Joseph
+                            Morris (Law List 1800). William St Clair in The Godwins and the Shelleys
+                            p196 suggests Morris may have been the pseudonym of Arthur O'Connor DNB
+                            1763-1852 citing Albert Goodwin The Friends of Liberty p436, but
+                            O'Connor was in prison in Scotland from 1798 to 1802 and thereafter in
+                            exile in France. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
