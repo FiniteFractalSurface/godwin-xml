@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="MOO09" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Thomas</forename>
+                        <surname>Moore</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's notes: 21.7.1809 call on Moore, Basing Lane / 19.5.1810
+                            Moore (W M) calls / 7.1.1811 call on Moore / 7.11.1811 call on Moore
+                            (not seen) / 8.11.1811 again / 9.11.1811 again / 10.11.1811 Moore calls
+                            / 18.11.1811 write to Moore / 25.12.1812 H Robinson calls (bond, R S) /
+                            19.1.1813 H Robinson at tea (bond, W M) / 4.5.1814 write to Moore /
+                            18.9.1815 call on Thompson W M Thos Moore beer merchant 23 Basing-lane
+                            was the only one in Basing-lane of about 100 Moore entries in Holdens
+                            1811 London trades directory (and another 60 in the Court directory). A
+                            partnership between S Jervis and T Moore wine merchants of Basing-lane
+                            was dissolved in 1814. Thomas Moore wine merchant Basing-lane will PCC
+                            1849. I have included the other entries above because they may have
+                            referred to the same person. W M could have meant wine merchant but that
+                            would not be typical of Godwin's diary, capital initials usually meant
+                            the name of a person, street or institution. I have included above the
+                            two other uses of W M in the diary. My only other guess is that it meant
+                            Walter Miller. Neither of the two Henry Crabb Robinson calls with a bond
+                            in brackets was mentioned by Robinson in his diary, although nearby
+                            mentions of H Robinson in Godwin's diary on 23.12.1812, 30.12.1812,
+                            10.1.1813 and 23.1.1813 were noted in Robinson's diary</p><p>We have
+                            coded only the first of these entries as Thomas Moore, although Ed's
+                            suggestion is interesting.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

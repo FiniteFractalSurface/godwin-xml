@@ -2003,7 +2003,7 @@
                                 <persName ref="/people/GAW03.html">H Gawler</persName>, <persName>J
                                 Pearson</persName>, <persName ref="/people/TOO02.html"
                                 >Tooke</persName>, <persName>Bazeley junr</persName>,
-                                <persName>Moody</persName> &amp; <persName>Nutton
+                                    <persName ref="/people/MOO08.html">Moody</persName> &amp; <persName>Nutton
                             junr</persName></seg>; <seg type="dMeal" subtype="SG"><persName
                                 ref="/people/NOR01.html">Northcote</persName> sups</seg>.</ab>
                     <ab type="dDay" xml:id="g1802-06-21"><date when="1802-06-21">21. M.</date><seg
@@ -2419,7 +2419,7 @@
                                 Pickering</placeName></persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1802-08-02"><date when="1802-08-02">2. M.</date><ref
                             type="dText" subtype="read" target="/bibl/te1307.html">Romaunt,
-                            &amp;c</ref>. <seg type="dMeal" subtype="TG"><persName>M<hi rend="sup"
+                            &amp;c</ref>. <seg type="dMeal" subtype="TG"><persName ref="/people/BEC01.html">M<hi rend="sup"
                                     >e</hi> Beccaria</persName>, <persName ref="/people/JOY01.html"
                                 >Joyces</persName> &amp; <persName ref="/people/SMI11.html"
                                 >Smiths</persName> at tea</seg>.</ab>
@@ -2450,7 +2450,7 @@
                                 <persName ref="/people/CLA01.html">M J</persName>, on
                                     <persName><placeName type="venue"
                                 >Callagan</placeName></persName></seg> &amp; <seg type="dMeeting"
-                            subtype="Cn"><persName ref="/people/CLA01.html"/><persName><placeName
+                                    subtype="Cn"><persName ref="/people/CLA01.html"/><persName ref="/people/BEC01.html"><placeName
                                     type="venue">M<hi rend="sup">e</hi>
                                 Beccaria</placeName></persName></seg>: <seg type="dMeal"
                             subtype="TG"><persName ref="/people/CAR01.html">Carlisles</persName>

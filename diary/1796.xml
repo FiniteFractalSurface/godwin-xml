@@ -1010,7 +1010,8 @@
                             type="dMeeting" subtype="Cn"><persName ref="/people/BUR02.html"
                                     ><placeName type="venue">Burdet</placeName></persName>, w.
                                 <persName ref="/people/BAR03.html">Barry</persName></seg>: <seg
-                            type="dMeeting" subtype="M">meet <persName>Mre</persName></seg>: <seg
+                                    type="dMeeting" subtype="M">meet <persName
+                                        ref="/people/MOO01.html">Mre</persName></seg>: <seg
                             type="dMeal" subtype="D">dine at <persName ref="/people/HOL01.html"
                                     ><placeName type="venue">Ht's</placeName></persName>, w.
                                 <persName ref="/people/COL08.html">Coles</persName> &amp;
@@ -1039,7 +1040,7 @@
                                     ref="/people/SYM01.html">Symonds</persName>, <persName
                                     ref="/people/ROB01.html">Robinsons</persName>, <persName
                                     ref="/people/COO01.html">C</persName>, <persName
-                                    ref="/people/CMX01.html">C M</persName> &amp; <persName
+                                    ref="/people/MOO06.html">C M</persName> &amp; <persName
                                     ref="/people/PAR07.html">S P</persName></seg></ref>. <ref
                             type="dText" subtype="read" target="/bibl/te0631.html">Groenvelt, p.
                             371, fin</ref>.</ab>
@@ -3468,7 +3469,7 @@
                                 >A A</persName></seg>; &amp; <seg type="dMeeting" subtype="C">on
                                 <persName ref="/people/INC01.html"><placeName type="venue"
                                     >Inchbald</placeName></persName>, <seg type="dMeeting"
-                                subtype="Adv">adv. <persName ref="/people/CMX01.html">C
+                                subtype="Adv">adv. <persName ref="/people/MOO06.html">C
                                 M</persName></seg></seg>: <seg type="dMeal" subtype="D">dine at
                                 <persName ref="/people/HOL01.html"><placeName type="venue"
                                     >Ht's</placeName></persName>, w. <persName
@@ -4657,7 +4658,7 @@
                             Moira, Granard, La. Mountcashel, Goold, Bushe, Burton, <persName
                                 ref="/people/FLE04.html">Fletcher</persName>, Macnally, Drennan, H.
                             Hamilton, Doyley, Burroughs, Trotter, Kirwan, Daly, Whaley, M. Kelly,
-                            Pim, G Conway, Holmes, J C Walker, Lattin, Barrington, Dobbs, Moody, M
+                            Pim, G Conway, Holmes, J C Walker, Lattin, Barrington, Dobbs,  <persName ref="/people/MOO08.html">Moody</persName>, M
                             Raine, Manng, Rickman</p>
                         <p rend="centered">1801</p>
                         <p>Goldsmith, Smart, M J Clairmont, Hill, Lansdown, capt. James, <persName

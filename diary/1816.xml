@@ -1326,7 +1326,8 @@
                         tea at <placeName>Leek</placeName>: sleep at
                         <placeName>Ashbourn</placeName>.</ab>
                     <ab type="dDay" subtype="NotLon" xml:id="g1816-05-02"><date when="1816-05-02">2.
-                            Th.</date><seg type="dMeeting" subtype="C">Call on <persName type="nah"
+                            Th.</date><seg type="dMeeting" subtype="C">Call on <persName 
+                                    ref="/people/MOO03.html" type="nah"
                                     ><placeName type="venue">Moore</placeName></persName><hi
                                 rend="sup">n</hi></seg>: <seg type="dMeeting" subtype="Sk">seek
                                 <persName>Boothby</persName></seg>. Coach: dine at

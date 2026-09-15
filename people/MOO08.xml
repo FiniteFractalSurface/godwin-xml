@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="MOO08" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>John</forename>
+                        <surname>Moody</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1736">
+                        <placeName/>
+                    </birth>
+                    <death when="1812"/>
+                    <occupation>Singer and Actor</occupation>
+                    <note type="editorial">
+                        <p>ODNB.We have coded all Moodies under this code. See also Ed Pope's note:'The two C L Moody entries in 1814 must have
+                            been (his son?) Christopher Lake Moody Doctor of Laws of the Terrace
+                            Turnham Green will PCC 1816. </p><p>See also my entry for Moody, John and
+                            Samuel: if J Ann Hone was right that John Moody the LCS member was the
+                            spy Notary, he was also part of Horne Tooke's Wimbledon circle and could
+                            have been the first three entries.</p> 
+                        <p>These are the additional notes
+                            on John Moody: Their parents John Moody = Holborn 1.11.1767 Magdalen
+                            Hinton by banns, wits Wm Hinton, Jas Johnson. Baptisms of whose children
+                            at St James Piccadilly, Elizabeth born 17.10.1768 bapt 1.11.1768/ John
+                            born 26.6.1770 born 22.7.1770/ Samuel born 27.10.1772 bapt 15.11.1772/
+                            Jane born 3.5.1775 bapt 26.5.1778/ William Owen born 7.1.1780 bapt
+                            30.1.1780. John Moody carpenter Carnaby St voted 1774 Mountmorres and
+                            Mahon/ voted 1780 Fox and Rodney/ voted 1790 Hood. Will proved PCC
+                            5.6.1787 James Faldes victualler Carnaby St, exec John Moody carpenter
+                            Carnaby St, wife Sarah, dau Sarah. James Faldes of the Ship Carnaby St
+                            vintner 1784 (Nat Arch C 111/266). John Moody bach otp = St Pancras
+                            29.4.1788 Sarah Faldes wid otp by banns. John Moody shoemaker 1791
+                            SunFire 80 on the Terrace at Tottenham Court Road/ boot and shoe maker
+                            1792 SunFire 8 Carnaby St. 24.5.1794 letter from James Hartley to Dundas
+                            stating papers of the greatest consequence re: LCS were in possession of
+                            James Cornfoot, Tottenham Court Rd [QV], James Lapworth Carnaby St [QV],
+                            John Moody shoemaker Carnaby St, Samuel Moody carpenter Carnaby St,
+                            Philip Willby at Lapworth's, William Bunbow watchmaker at Lapworth's
+                            (Nat Arch HO 42/30/100 f255) 9.5.1795 Moody first mentioned in LCS
+                            records (Thale p251), as one of the oldest members of LCS (p357) as
+                            delegate of Div 27 (p258) elected to Executive Committee (p259) resigned
+                            from it 4.9.1795 (p302). John Moody shoemaker Carnaby St voted 1802 Fox.
+                            J Ann Hone, For the Cause of Truth p63, reckoned Moody was a spy signing
+                            himself "Notary" whose letters can be seen online via Nat Arch at HO
+                            42/78 folios 59, 146-151, 246-8, 262-3, 291-2, 294-6 (wrong folio nos
+                            are given in Nat Arch catalogue) also at PC 1/3117 and PC 1/3583 (not
+                            digitised or indexed) which I haven't searched. These letters seem to
+                            date from 1803 and 1804. See my entry for Moody, John in Godwin Diary
+                            dataset, an actor and a different person from the bootmaker. Hone says
+                            Moody was part of Tooke's Westminster election committee in 1796 and a
+                            trusted member of the Wimbledon circle till his death, which fits with
+                            the mentions of Wills and Burdett in the will of the bootmaker, see
+                            below. Sarah Moody age 47 bur 23.4.1805. Will PCC 3.10.1806 John Moody
+                            of Carnaby St bootmaker dated 9.5.1806 mentioned father John Moody
+                            (property in Whitchurch,Shropshire), brother William Owen Moody, dau
+                            Magdalen Hinton Moody, dau Sarah Faldes, cousin John Moody of Moreton,
+                            Shropshire land surveyor, good friend George Knutton doctor of physic,
+                            worthy friends John Walker of Berkeley Sq, Joseph Cole of Jermyn St,
+                            Alexander Wills [QV] of Buckingham Place. to Sir Francis Burdett "this
+                            piece of friendly advice - to take especial care of his conduct and
+                            person and never more to be the dupe of artful and designing men at a
+                            contested Election or even among Persons moving in a higher sphere of
+                            life for Placemen of all descriptions have conspired against him and if
+                            Prudence does not lead him into Private life certain destruction will
+                            overtake him". Thomas Sherman Rogers = St George Bloomsbury 17.1.1808
+                            Magdalen Hinton Moody botp by banns. Magdalen Rogers of Bell St Marybone
+                            bur Paddington 25.5.1838 age 48. Will proved PCC 15.2.1832 William Owen
+                            Moody officer of Excise of St Marylebone</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
