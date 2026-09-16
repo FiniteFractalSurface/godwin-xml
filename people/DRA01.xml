@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="DRA01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>NAME</forename>
+                        <surname>Drake</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>MP</occupation>
+                    <note type="editorial">
+                        <p>On 5 August 1816, Godwin travels to Aylesbury. He notes 'Drake's
+                            Agmondesham - the latter being the name of a rotten borough in what is
+                            now Buckinghamshire which returned two members of Parliament until the
+                            Reform Act of 1832. Godwin may have referred to it as Drake's
+                            Agmondesham because the borough systematically returned members of the
+                            Drake family - at the time Godwin was there it would probably have been
+                            William Drake senr and William Drake junr. It is possible, but unlikely
+                            that Godwin made their acquaintance. The next day's entry shows that Godwin calls on Mackintosh, who lived near Aylesbury - and was the main object of his visit. He notes that he sleeps - possibly at Mackintosh's house- but also mentions the jail at Aylesbury, which he probably visited.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

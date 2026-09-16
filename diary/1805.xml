@@ -1329,12 +1329,12 @@
                             type="dText" subtype="read" target="/bibl/te1546.html">Inchbald, V.
                                 II</ref>. <seg type="dMeal" subtype="DG"><persName ref="/people/ROW03.html">A &amp; F
                                     Rowan</persName>, <persName ref="/people/BER03.html">S Beresford</persName>, &amp;
-                                <persName>miss Eastwick</persName> dine</seg>: <seg type="dMeeting"
+                                    <persName ref="/people/EAS02.html">miss Eastwick</persName> dine</seg>: <seg type="dMeeting"
                             subtype="CG"><persName>Devoy</persName> calls</seg>.</ab>
                     <ab type="dDay" xml:id="g1805-03-29"><date when="1805-03-29">29. F.</date><ref
                             type="dText" subtype="read" target="/bibl/te1546.html"> Inchbald, Vol.
                             III</ref>. <seg type="dMeal" subtype="TG"><persName
-                                ref="/people/WAK01.html">Wakes</persName>, <persName>L
+                                    ref="/people/WAK01.html">Wakes</persName>, <persName ref="/people/EAS02.html">L
                                 Eastwick</persName> &amp; <persName>F Dunbar </persName>at
                         tea</seg>. <ref type="dWrote" subtype="write" target="/works/fabl01.html"
                             >Fables, p. 102</ref>.</ab>
@@ -1447,7 +1447,7 @@
                                 ref="/people/HEW01.html">Hewlet</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1805-04-11"><date when="1805-04-11">11. Th. </date><ref
                             type="dText" subtype="cala" target="/bibl/te1281.html">Henry,
-                        çala</ref>. <seg type="dMeeting" subtype="CG"><persName>L
+                            çala</ref>. <seg type="dMeeting" subtype="CG"><persName ref="/people/EAS02.html">L
                                 Eastwick</persName></seg> &amp; <seg type="dMeeting" subtype="CG"
                                 ><persName>Kent</persName> call</seg>: <seg type="dMeal"
                             subtype="DG"><persName ref="/people/GOD16.html">P G</persName>
@@ -3799,7 +3799,7 @@
                                     ref="/people/HIL05.html">Hill</persName>,
                                     <persName>Adolphus</persName> (&amp; <persName
                                     ref="/people/SKE01.html">Skeffington</persName>)</seg></ref>:
-                            <seg type="dMeeting" subtype="C">call on <persName><placeName
+                        <seg type="dMeeting" subtype="C">call on <persName ref="/people/EAS02.html"><placeName
                                     type="venue">mrs Eastwick</placeName></persName>, for <seg
                                 type="dTopic"><persName ref="/people/CLA01.html">M J
                                 </persName></seg>; <seg type="dMeeting" subtype="Adv">adv.

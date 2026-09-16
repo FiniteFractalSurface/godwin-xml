@@ -2221,7 +2221,7 @@
                             type="dMeeting" subtype="Do">chaise, w. <persName
                                 ref="/people/CON01.html">d<hi rend="sup">o</hi></persName></seg>:
                         sleep at <placeName>Aylesbury</placeName>. <add><seg type="dMeeting"
-                                subtype="See"><persName>Drake’s</persName>,
+                                subtype="See"><persName ref="/people/DRA01.html">Drake’s</persName>,
                                     <placeName>Agmondesham</placeName></seg></add>.</ab>
                     <ab type="dDay" subtype="NotLon" xml:id="g1816-08-06"><date when="1816-08-06">6.
                             Tu.</date><seg type="dMeal" subtype="B">Breakfast at <persName
