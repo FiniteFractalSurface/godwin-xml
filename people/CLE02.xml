@@ -22,50 +22,79 @@
             <listPerson>
                 <person xml:id="CLE02" sex="0">
                     <persName>
-                        <roleName/>
-                        <forename/>
+                        <roleName/><forename>John</forename>
+                     
                         <surname>Clennel</surname>
                         <addName/>
                     </persName>
-                    <birth when="1000">
+                    <birth when="1772">
                         <placeName> </placeName>
                     </birth>
-                    <death when="1000"/>
-                    <occupation/>
+                    <death when="1822"></death>
+                
                     <note type="editorial">
-                        <p> Godwin's use of the plural indicates a couple or family.</p>
+                        <p> Godwin's use of the plural indicates a couple or family.</p><p>See the
+                            following paragraph from Ed Pope's analysis. This sets aside much of the
+                            reasoning that follows in subseqquent paras, which can now be ignored
+                            unless there are Clennell devotees out there! </p>
+                        <p>The Godwin Diary website has a person record for them and tentatively
+                            suggests they were all Luke Clennell the engraver (see below), but this
+                            was probably John Clennell 1772-1822. Born 24.9.1772 bapt St Nicholas,
+                            Newcastle-upon Tyne 5.11.1772 son of John Clennell 1732-1787, hatter at
+                            premises later (1827) occupied by John Young at the foot of the Side,
+                            and his wife Ann (Ramsay) 1737-1817. Educated for the church but
+                            preferred literary study. Set up as pinmaker with John Taylor, mustard
+                            maker. Married 4.3.1800 Ann 1775-1863 dau of William Robson 1744-1824,
+                            ship and keel builder of North Shore, Newcastle, who contributed greatly
+                            to Royal Jubilee Schools and was a Unitarian Baptist of the congregation
+                            of William Turner DNB 1761-1859 at Hanover Square chapel, Paradise
+                            Fields. Came to London about 1805 and ran an academy in Homerton with
+                            the aid of his accomplished wife. Bankrupt as pinmaker June 1807.
+                            Admitted Fellow of Society of Antiquaries Edinburgh and Perth for his
+                            knowledge of Persian literature. His "Thoughts on the expediency of
+                            disclosing the processes of manufactories" was published 1808 in various
+                            journals. In 1811 he advertised the New Agricultural and Commercial
+                            Magazine edited by himself. He died at Brooksby's Walk, Homerton
+                            23.12.1822 and was buried at Trinity Grove burial ground of New Gravel
+                            Pit meeting where his daughter Margaret Ann had been buried in June 1816
+                            aged 10. His other two children were Ann Margaret 1803-1863 and John
+                            Edward 1804-1864. Probably all the above Clennels except 27.3.1811 Luke
+                            Clennell DNB 1781-1840. William Robson may be the Robson Godwin wrote to
+                            in 1801 and 1802 (see my entry for Robson, William). See British History
+                            Online for 1827 work re: Newcastle. There was a Mordaunt Lawson Clennell
+                            attorney of 7 Staples Inn in these years but he seems much less
+                            likely</p>
                         <p>First contact recorded in the diary is Godwin writing to him in 1799, and
                             then no further contact until 1806 when Godwin meets him dining at
                                 <persName key="NIC01">Nicholson's</persName>. He often appears in
                             conjunction with <persName key="BOO01">Booth</persName>, Nicholson or
                                 <persName key="TUR01">Thomas Turner</persName>, and often dines/sups
                             at Godwin's. Clennels (plural) is used four times, 'Clennel engraver' is
-                            specified once in 1811.</p>
-                        <p> Although this is only specified once, it is possible that all the
-                            references are to Luke Clennell (note Godwin's traditional resistance to
-                            the double 11 at the end of Clennel), 1781-1840, artist and
-                            wood-engraver. The name is fairly rare and the dates fit: when Godwin
-                            writes to him in 1799 he would still have been in Newcastle, hence the
-                            lack of direct contact, but the <title>DNB</title> implies he moved to
-                            London soon after 1804, and Godwin sees him from 1806. Two problems with
-                            the identification are: that the entry to 'Clennel, engraver', in 1811
-                            may be disjuntive, meaning that the rest are another Clennel; that all
-                            the plural references to Clennels are 1807-8 and the <title>DNB</title>
-                            gives the date of his marriage as August 1809. Godwin doesn't see him
-                            after 1811 and in 1817 Clennell was committed to a lunatic asylum.
-                            However, the date of marriage in <title>DNB</title> is very specific
-                            which casts doubt over this identification. 'Clennells' could refer to
-                            him and a brother although the <title>DNB</title> makes no reference to
-                            there being one who lived in London with him.</p>
-                        <p>There is however a Mordaunt Lawson Clennell, a practising Solicitor
-                            operating from 7 Staples-Inn, London, with, it seems, some past
-                            connections to Cumbria (possibly Clerk to Henry Littledale att'y of
-                            Whitehaven)and Northumberland) who dies in 1831 (see PROB 11/1801/33)
-                            (and whose namesake is married in Newcastle in 1859), whose father is
-                            Fenwick Clennell and mother Elizabeth (nee Cook)(mar.1825) (Papers ZFC [NRO 11075)
-                            Northumberland Archive). The couple also had a son James (b. 1833) who
-                            went to the Greenwich hospital school in 1845. Their connection with
-                            Mordaunt Lawson Clennel is unclear.</p>
+                            specified once in 1811. And we now accept that his might be an isolated
+                            instance and have coded him accordingly.</p>
+                        <p> Although this is only specified once, the dates show some fit: when Godwin writes to him in 1799 he
+                            would still have been in Newcastle, hence the lack of direct contact,
+                            the <title>DNB</title> implies he moved to London soon after 1804, and
+                            Godwin sees him from 1806. Two problems with the identification are:
+                            that the entry to 'Clennel, engraver', in 1811 may be disjuntive,
+                            meaning that the rest are another Clennel; that all the plural
+                            references to Clennels are 1807-8 and the <title>DNB</title> gives the
+                            date of his marriage as August 1809. Godwin doesn't see him after 1811
+                            and in 1817 Clennell was committed to a lunatic asylum. However, the
+                            date of marriage in <title>DNB</title> is very specific which casts
+                            doubt over this identification. 'Clennells' could refer to him and a
+                            brother although the <title>DNB</title> makes no reference to there
+                            being one who lived in London with him.</p>
+                        <p>TMordaunt Lawson Clennell, a practising Solicitor operating from 7
+                            Staples-Inn, London, with, it seems, some past connections to Cumbria
+                            (possibly Clerk to Henry Littledale att'y of Whitehaven)and
+                            Northumberland) who dies in 1831 (see PROB 11/1801/33) (and whose
+                            namesake is married in Newcastle in 1859), whose father is Fenwick
+                            Clennell and mother Elizabeth (nee Cook)(mar.1825) (Papers ZFC [NRO
+                            11075) Northumberland Archive). The couple also had a son James (b.
+                            1833) who went to the Greenwich hospital school in 1845. Their
+                            connection with Mordaunt Lawson Clennel is unclear. And, as Ed says -
+                            John Clennell seems the more likey identification.</p>
                     </note>
                     <bibl type="printedbook">Austin Dobson, <title>Thomas Bewick and his
                             Pupils</title> (1899)</bibl>
