@@ -1908,7 +1908,7 @@
                                 ref="/people/MAN03.html">Manning</persName> calls</seg>: <seg
                             type="dMeeting" subtype="C">call on <persName ref="/people/TAY06.html"
                                     ><placeName type="venue">R Taylor</placeName></persName></seg>
-                        &amp; <seg type="dMeeting" subtype="C"><persName><placeName type="venue">mrs
+                        &amp; <seg type="dMeeting" subtype="C"><persName ref="/people/NIC07.html"><placeName type="venue">mrs
                                     Nicholson</placeName></persName></seg> &amp; <seg
                             type="dMeeting" subtype="C"><persName ref="/people/VIZ01.html"
                                     ><placeName type="venue">Vizard</placeName></persName></seg>:
@@ -1999,7 +1999,7 @@
                             type="dMeeting" subtype="Cn">Call on <persName ref="/people/JOH01.html"
                                     ><placeName type="venue">Johnson</placeName></persName> (w.
                                 <persName ref="/people/VIZ01.html">Vizard</persName>)</seg> &amp;
-                            <seg type="dMeeting" subtype="C"><persName><placeName type="venue">mrs
+                        <seg type="dMeeting" subtype="C"><persName ref="/people/NIC07.html"><placeName type="venue">mrs
                                     Nicholson</placeName></persName></seg>: <seg type="dMeal"
                             subtype="D">dine at <persName ref="/people/JOH01.html"><placeName
                                     type="venue">Johnson’s</placeName></persName>, w. <persName
@@ -2121,7 +2121,7 @@
                             type="dMeeting" subtype="CG"><persName ref="/people/MAC04.html"
                                 >Macmillan</persName></seg> &amp; <seg type="dMeeting" subtype="CG"
                                     ><persName ref="/people/GRA09.html">Graham</persName> call</seg>: <seg type="dMeeting"
-                            subtype="C">call on <persName><placeName type="venue">mrs
+                                        subtype="C">call on <persName ref="/people/NIC07.html"><placeName type="venue">mrs
                                     Nicholson</placeName></persName></seg>.<ref type="dWrote"
                             subtype="letter"> Write to <persName ref="/people/CUR01.html"
                                 >Curran</persName></ref>.</ab>

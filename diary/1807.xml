@@ -28,7 +28,7 @@
                     <ab type="dDay" xml:id="g1807-01-01"><date when="1807-01-01">1807, Jan. 1.
                             Th.</date><ref type="dWrote" subtype="other" target="/works/hyed01.html"
                             >Richard IV, 1 page</ref>. <seg type="dMeal" subtype="DG"><persName
-                                ref="/people/FEN03|FEN04.html">E Fks</persName>, <persName>S &amp; A
+                                    ref="/people/FEN03|FEN04.html">E Fks</persName>, <persName ref="/people/NIC08.html">S &amp; A
                                 Nicholson</persName>, <persName ref="/people/MUL01.html"
                                     >Mulreadys</persName>, <persName ref="/people/BIN02.html">Binham</persName>, <persName
                                 ref="/people/DAW02.html">M Dawe</persName> &amp; <persName
@@ -660,7 +660,7 @@
                                 ref="/people/CUR01.html">Curran</persName></ref>. <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/PLU03.html"
                                 >Plunkets</persName> call</seg>: <seg type="dMeeting" subtype="C"
-                            >call on <persName><placeName type="venue">S
+                                    >call on <persName ref="/people/NIC08.html"><placeName type="venue">S
                                 Nicholson</placeName></persName>, for <seg type="dTopic"><persName
                                     ref="/people/CLA01.html">M J</persName></seg></seg>: <seg
                             type="dMeal" subtype="DG"><persName ref="/people/COO02.html">G M
@@ -1344,7 +1344,7 @@
                             type="dText" subtype="read" target="/bibl/te1652.html">Surr, p. 264,
                             fin</ref>.</ab>
                     <ab type="dDay" xml:id="g1807-05-21"><date when="1807-05-21">21. Tu.</date><seg
-                            type="dMeeting" subtype="C">Call on <persName type="nah"><placeName
+                            type="dMeeting" subtype="C">Call on <persName ref="/people/NIC08.html" type="nah"><placeName
                                     type="venue">S Nicholson</placeName></persName><hi rend="sup"
                                 >n</hi></seg> &amp; <seg type="dMeeting" subtype="C"><persName
                                 ref="/people/NOR01.html"><placeName type="venue"
@@ -1353,7 +1353,7 @@
                     <ab type="dDay" xml:id="g1807-05-22"><date when="1807-05-22">22. F.</date><seg
                             type="dMeeting" subtype="C">Call on <persName><placeName type="venue"
                                     >Binney</placeName></persName></seg>, <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue">S
+                                        subtype="C"><persName ref="/people/NIC08.html"><placeName type="venue">S
                                 Nicholson</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName><placeName type="venue"
                                 >Stephens</placeName></persName></seg>, <seg type="dMeeting"
@@ -1446,7 +1446,7 @@
                                 type="dMeeting" subtype="Inv">invités
                                     <persName>Brackenburys</persName> &amp; <persName
                                     ref="/people/GUN02.html">mrs Plunket</persName></seg>; <seg
-                                type="dMeeting" subtype="Adv">adv. <persName>John
+                                        type="dMeeting" subtype="Adv">adv. <persName ref="/people/NIC08.html">John
                                     Nicholson</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1807-05-30"><date when="1807-05-30">30. Sa.</date><ref
                             type="dWrote" subtype="letter">Write to <persName

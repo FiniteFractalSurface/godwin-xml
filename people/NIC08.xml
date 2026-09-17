@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="NIC08" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>messrs and misses</forename>
+                        <surname>Nicholson</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Children of William Nicholson: Sarah 1782(mentioned on her own 20 and 24
+                            Oct 1802, 7 Feb 1804; 6 March 1807; 21 and 22 May 1807 - and see below);
+                            Anne 1784;(mentioned on Dec 2, 1804) Robert +/or Mary 1787; William
+                            1789; John 1791 (mentioned 29 May 1807) and twice in June 1815 after his
+                            father's death; Catherine, 1795; Charlotte 1797 (Mentioned 16 Nov 1813);
+                            Martha May 1799; plus Isaac and two others. Source, Sue Durrell's ed. of
+                            the Life of William Nicholson, by his son William Nicholson. The diary
+                            also identifies a Geo[rge] Nicholson, in a call on 18 November 1801; 2
+                            miss Nicholsons (1 October 1799; 11 January 1802). There are also
+                            entries for A, S and M Nicholson (24 April 1805); S and M Nicholson (20
+                            April 1805); S and A Nicholson (1 January 1807). We have not coded P
+                            Nicholson as part of the family - this looks more like someone Godwin is
+                            trying to enlist in his son William's education or employment. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -729,7 +729,7 @@
                             type="dMeeting" subtype="C">call on <persName ref="/people/HOL05.html"
                                     ><placeName type="venue">L Ht</placeName></persName>; <seg
                                 type="dMeeting" subtype="Adv">adv. <persName
-                                    ref="/people/HAR01.html">Harwoods</persName>, <persName>mrs
+                                    ref="/people/HAR01.html">Harwoods</persName>, <persName ref="/people/NIC07.html">mrs
                                     Nicholson</persName> &amp; <persName
                                     ref="/people/LAM01|LAM02.html">Lambs</persName></seg></seg>.
                             <ref type="dWrote" subtype="letter">Letter for
@@ -757,7 +757,7 @@
                                 >calls</emph> breakfasts</seg> : <seg type="dMeeting" subtype="C"
                             >call on <persName ref="/people/HOL05.html"><placeName type="venue">L
                                     Ht</placeName></persName>; <seg type="dMeeting" subtype="Adv"
-                                >adv. <persName>mrs Nicholson</persName>, <persName
+                                        >adv. <persName ref="/people/NIC07.html">mrs Nicholson</persName>, <persName
                                     ref="/people/LAM02.html">M Lamb</persName> &amp; <persName
                                     ref="/people/TUT01.html">Tuthil</persName></seg></seg>: <seg
                             type="dMeeting" subtype="Aus"><persName ref="/people/ROB03.html">H
@@ -1478,7 +1478,7 @@
                             type="dWrote" subtype="write" target="/works/rome02.html">Rome, p.
                             109</ref>. <seg type="dMeeting" subtype="CG"
                                 ><persName ref="/people/SPI01.html">Spilsbury</persName> calls</seg>: <seg type="dMeeting"
-                            subtype="C">call on <persName><placeName type="venue">M<hi rend="sup"
+                                    subtype="C">call on <persName ref="/people/NIC07.html"><placeName type="venue">M<hi rend="sup"
                                         >rs</hi> Nicholson</placeName></persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1809-05-26"><date when="1809-05-26">26. F.</date><ref
                             type="dWrote" subtype="write" target="/works/rome02.html">Rome, p.
