@@ -2066,7 +2066,7 @@
                     <pb n="e.199_0008v"/>
                     <ab type="dDay" xml:id="g1791-12-18"><date when="1791-12-18">Dec. 18.</date> Su.
                             <ref type="dText" subtype="read" target="/bibl/te0034.html">Anna, Vol.
-                            5</ref>. <seg type="dMeeting" subtype="C">Call on <persName><placeName
+                                5</ref>. <seg type="dMeeting" subtype="C">Call on <persName ref="/people/JON04.html"><placeName
                                     type="venue">M<hi rend="sup">rs</hi>
                                 Jones</placeName></persName></seg> and <seg type="dMeeting"
                             subtype="C"><persName><placeName type="venue">M<hi rend="sup">rs</hi>
@@ -2123,7 +2123,7 @@
                                         rend="sup">rs</hi> Webb</placeName></persName>,
                                 with<persName ref="/people/WEB02.html"> W</persName>., <persName
                                 ref="/people/WEB05.html">M<hi rend="sup">r</hi>&amp; M<hi rend="sup"
-                                    >rs</hi> N Webb</persName> , <persName>M<hi rend="sup">r</hi>
+                                    >rs</hi> N Webb</persName> , <persName ref="/people/JON04.html">M<hi rend="sup">r</hi>
                                 &amp; M<hi rend="sup">rs</hi> Jones</persName> &amp; <persName>D<hi
                                     rend="sup">r</hi> Sutton</persName>. talk <seg type="dTopic"
                                 >literature</seg> &amp; <seg type="dTopic"

@@ -380,7 +380,7 @@
                      type="dText" subtype="read" target="/bibl/te0805.html">Theodosius</ref>. <seg
                      type="dMeal" subtype="D">Dine at <persName ref="/people/ELW01.html"><placeName
                            type="venue">S Elwes's</placeName></persName>; <seg type="dMeeting"
-                        subtype="Adv">adv. <persName>Harris</persName> &amp; <persName>mrs
+                              subtype="Adv">adv. <persName>Harris</persName> &amp; <persName ref="/people/HOL20.html">mrs
                            Holcombe</persName></seg></seg>.</ab>
                <ab type="dDay" xml:id="g1800-01-31"><date when="1800-01-31">31. F.</date><ref
                      type="dText" subtype="read" target="/bibl/te0924.html">Palamon, Book 1 &amp;
@@ -717,7 +717,7 @@
                         ref="/people/GOD02.html"><placeName type="venue">Jo
                      G</placeName></persName></seg>: <seg type="dMeeting" subtype="M">meet <persName
                         ref="/people/ELW01.html">S E</persName></seg> &amp; <seg type="dMeeting"
-                     subtype="M"><persName>mrs Holcombe</persName></seg>: <seg type="dMeeting"
+                           subtype="M"><persName ref="/people/HOL20.html">mrs Holcombe</persName></seg>: <seg type="dMeeting"
                      subtype="C">call on <persName ref="/people/COL01.html"><placeName type="venue"
                            >Coleridge</placeName></persName></seg>: <seg type="dMeal" subtype="S"
                      >sup at <persName ref="/people/REY03|REY99.html"><placeName type="venue"
@@ -853,7 +853,7 @@
                      subtype="read" target="/bibl/te1047.html">Mordaunt, p. 343</ref>. <seg
                      type="dMeeting" subtype="C">Call on <persName ref="/people/ELW01.html"
                            ><placeName type="venue">S Elwes</placeName></persName>; <seg
-                        type="dMeeting" subtype="Adv">adv. <persName>mrs
+                              type="dMeeting" subtype="Adv">adv. <persName ref="/people/HOL20.html">mrs
                      Holcombe</persName></seg></seg>: <seg type="dMeal" subtype="Ta">tea <persName
                         ref="/people/ALD02|OPI01.html"><placeName type="venue"
                         >Opie's</placeName></persName>, w. <persName>sir Rob<hi rend="sup">t</hi>
@@ -1205,7 +1205,7 @@
                      type="dMeeting" subtype="C">call on <persName ref="/people/ELW01.html"
                         type="nah"><placeName type="venue">S Elwes</placeName></persName><hi
                         rend="sup">n</hi></seg> &amp; <seg type="dMeeting" subtype="C"
-                           ><persName><placeName type="venue">mrs
+                           ><persName ref="/people/HOL20.html"><placeName type="venue">mrs
                      Holcombe</placeName></persName></seg>.</ab>
                <ab type="dDay" xml:id="g1800-04-09"><date when="1800-04-09">9. W.</date><ref
                      type="dWrote" subtype="write" target="/works/anto01.html">Antonio, p.
@@ -1614,7 +1614,7 @@
                      target="/events/ex0001.html">Exhibition</ref>: <seg type="dMeeting" subtype="C"
                      >call on <persName ref="/people/ELW01.html"><placeName type="venue">S
                            Elwes</placeName></persName>; <seg type="dMeeting" subtype="Adv">adv.
-                           <persName>mrs Holcombe</persName></seg></seg>: <seg type="dMeal"
+                              <persName ref="/people/HOL20.html">mrs Holcombe</persName></seg></seg>: <seg type="dMeal"
                      subtype="S">sup at <persName ref="/people/ROB04.html"><placeName type="venue">M
                            Robinson's</placeName></persName>, w. <persName ref="/people/NOR01.html"
                         >Northcote</persName>, <persName ref="/people/CAR01.html"

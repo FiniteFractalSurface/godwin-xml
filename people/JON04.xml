@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="JON04" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Mrs </forename>
+                        <surname>Jones</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Mr and Mrs Jones 17.1.1790 at Mrs Webb's / 20.4.1790 again / 25.12.1791
+                            again / 18.12.1791 call on Mrs Jones / 18.10.1792 write to Mr Jones.
+                            This first set of Jones entries in Godwin's diary all seem to refer to
+                            one couple, friends of the Webbs. They may just possibly be Arthur Jones
+                            (died 1794) linen draper of Bath and his wife, whose daughters appear
+                            often later in the diary (see Jones, Louisa and Jones, Margaret). The
+                            Webbs were Bristol merchants trading to the West Indies. Another
+                            possibility is William and Margaret Jones of Pall Mall parents of
+                            W J Adair (see Adair, William Jones)</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
