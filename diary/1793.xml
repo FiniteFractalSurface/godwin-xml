@@ -276,7 +276,7 @@
                                     >Holcroft</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName ref="/people/DAV02.html"><placeName type="venue"
                                     >Davis</placeName></persName></seg> &amp; <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue">
+                                        subtype="C"><persName ref="/people/PIN03.html"><placeName type="venue">
                                 Pinard</placeName></persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1793-01-26"><date when="1793-01-26">26. Sa.</date><ref
                             type="dText" subtype="read" target="/bibl/te0276.html">Pol. Justice, 93
@@ -1106,7 +1106,7 @@
                             target="/bibl/te0319.html">Fathom, p. 206</ref>. <seg type="dMeal"
                             subtype="D">Dine at <persName ref="/people/HOL01.html"><placeName
                                     type="venue">Holcroft’s</placeName></persName>, with
-                                <persName>Pinard</persName>, talk of <seg type="dTopic">reading, no
+                                <persName ref="/people/PIN03.html">Pinard</persName>, talk of <seg type="dTopic">reading, no
                                 impression</seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1793-04-15"><date when="1793-04-15">15. M.</date><seg
                             type="dMeeting" subtype="CG"><persName ref="/people/HOL03.html">J Hollis
@@ -1192,7 +1192,7 @@
                             </persName>calls</seg>.<seg type="dMeal" subtype="D"> Dine at <persName
                                 ref="/people/HOL01.html"><placeName type="venue"
                                     >Holcroft’s</placeName></persName>: <seg type="dMeeting"
-                                subtype="Adv">adv. <persName>Pinard</persName>, talk of <seg
+                                        subtype="Adv">adv. <persName ref="/people/PIN03.html">Pinard</persName>, talk of <seg
                                     type="dTopic">self-love</seg> &amp; <seg type="dTopic"
                                     >morale</seg></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1793-04-22"><date when="1793-04-22">22. M.</date><ref
@@ -1267,7 +1267,7 @@
                             target="/bibl/te0334.html">consult Wanley on <seg type="dTopic"
                                 >Man</seg></ref>. <seg type="dMeal" subtype="D">Dine at <persName
                                 ref="/people/HOL01.html"><placeName type="venue"
-                                    >Holcroft’s</placeName></persName>, w. <persName>
+                                    >Holcroft’s</placeName></persName>, w. <persName ref="/people/PIN03.html">
                                 Pinard</persName></seg>. <emph rend="faint small"><ref type="dEvent"
                                 subtype="PersEvent" target="/events/pe0001.html"
                             >Presentation</ref></emph></ab>
@@ -2007,7 +2007,7 @@
                             type="dText" subtype="read" target="/bibl/te0370.html"> Phedre, act
                             3</ref>: <ref type="dText" subtype="read" target="/bibl/te0371.html"
                             >Lee, ça &amp; la</ref>. <seg type="dMeal" subtype="D"> Dine at
-                                    <persName><placeName type="venue"
+                                <persName ref="/people/PIN03.html"><placeName type="venue"
                                 >Pinard’s</placeName></persName>, with <persName
                                 ref="/people/HOL01.html">Holcroft</persName> &amp;</seg></ab>
                     <ab type="dDay" xml:id="g1793-07-08"><date when="1793-07-08">8. M.</date><ref

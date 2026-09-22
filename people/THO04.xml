@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="THO04" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Mrs</forename>
+                        <surname>Thomson</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Godwin is not consistent between Thomson and Thompson. However, there is
+                            marginally more consistency in references to Mrs Thomson.</p><p>See Ed
+                            Pope for Mrs Thomson: </p><p>18.12.1808 mrs Thomson at Hume's /
+                            31.3.1809 again / 26.7.1809 again / 25.12.1809 Thomsons at Hume's /
+                            26.1.1810 mes Hume and Thomson call / 27.5.1810 mrs Thomson at Hume's /
+                            22.6.1810 mrs Hume and mrs Thomson call / 5.8.1810 mrs Thomson at Hume's /
+                            25.12.1810 again / 3.3.1811 again / 31.3.1811 again / 23.6.1811 again /
+                            25.8.1811 again / 25.12.1811 Thomsons at Hume's / 22.3.1812 mrs Thomson
+                            at Hume's / 5.7.1812 again / 9.8.1812 again / 14.3.1813 again /
+                            10.4.1814 again = probably Anna the 2nd wife of William T of 1796 list.
+                            In Holden's 1811 Joseph Hume Esq and Dr William Thomson were both listed
+                            as living at Kensington Gravel Pits. They were close neighbours and the
+                            Thomsons may have lived in Montpellier House with the Humes. Mrs Thomson
+                            may have been a sister of Joseph Hume or of his wife. She was almost
+                            always present (or adv) when Godwin dined at Hume's (up to 1814) and
+                            twice called on the Godwins with Mrs Hume. William Thomson may have been
+                            ill or reclusive at this time. The Godwins had three Christmas dinners
+                            running at Hume's and two of them were the only times Godwin noted
+                            Thomsons rather than Mrs Thomson. Thomson's 2nd wife was said (Gents Mag
+                            1817/1 p647) to have been a novelist, so was probably the authoress of
+                            Excessive Sensibility 1787, Fatal Follies1788 The Labyrinths of Life
+                            1791 (these three publ by Geo Robinson who paid Anna Thomson £40 for the
+                            last), Robert and Adela 1795, Emily Dundorne 1799, The Pride of Ancestry
+                            1804, Laurette 1807; see The English Novel 1770-1829 Raven et al..
+                            William Thomson's will London CC 1.4.1817 made his wife Anna his
+                            executrix and she proved the will with a neat and flourishful signature.
+                            Though I think this a good identification, I'm puzzled why mrs Thomson
+                            no longer appeared at Hume's dinners after 1814, and I can find very
+                            little genealogical evidence for the fate of Thomson's wives or
+                            children. For the Humes see Corney, Miss</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

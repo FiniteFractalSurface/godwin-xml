@@ -461,7 +461,7 @@
                                     Rowan’s</placeName></persName>, w. <persName
                                 ref="/people/HOL01|HOL05.html">Hts</persName>,
                                 <persName>Hawthorns</persName>, <persName ref="/people/CRA04.html">Crawford</persName>,
-                                <persName>O’Hara</persName> &amp; <persName ref="/people/CLA01.html"
+                                <persName ref="/people/OHO01.html">O’Hara</persName> &amp; <persName ref="/people/CLA01.html"
                                 >M J</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1805-01-31"><date when="1805-01-31">31. Th.</date><ref
                             type="dWrote" subtype="write" target="/works/flee01.html"> Fleetwood, p.
@@ -1119,9 +1119,9 @@
                                     Rowan</placeName></persName>, (<seg type="dMeeting"
                                 subtype="Adv">adv. <persName ref="/people/FIT08.html"
                                     >Fitzgerald</persName></seg></seg>) <seg type="dMeeting"
-                            subtype="C"><persName ref="/people/MUL01.html"><placeName type="venue"
-                                    >Mulready</placeName></persName><foreign> cum
-                                </foreign><persName>Varley</persName></seg>, &amp; <seg
+                            subtype="C"><persName ref="/people/MUL03.html"><placeName type="venue"
+                                    >Mulready</placeName><foreign> cum
+                                </foreign>Varley</persName></seg>, &amp; <seg
                             type="dMeeting" subtype="C"><persName ref="/people/NOR01.html"
                                     ><placeName type="venue">Northcote</placeName></persName>; <seg
                                         type="dMeeting" subtype="Adv">adv. <persName ref="/people/BEA02.html">sir G
@@ -3159,7 +3159,7 @@
                                 ref="/people/TAY02|TAY04.html">Taylors</persName> &amp; <persName
                                 ref="/people/DAL01.html">Dalrymple</persName></seg>. <ref
                             type="dWrote" subtype="letter">Write to
-                            <persName>Norris</persName></ref></ab>
+                                    <persName ref="/people/NOR12.html">Norris</persName></ref></ab>
                     <pb n="e.208_0003v"/>
                     <ab type="dDay" subtype="NotLon" xml:id="g1805-09-08"><date when="1805-09-08"
                             >Sep. 8. Sa. </date><ref type="dEvent" subtype="PersEvent"
@@ -4510,7 +4510,7 @@
                                 subtype="Adv">adv. <persName ref="/people/DAW01|DAW02.html"
                                     >Dawes</persName></seg></seg>: <seg type="dMeeting"
                             subtype="Inv">invités<persName ref="/people/TAY06.html"> R T</persName>,
-                                <persName>mrs Mulready</persName> &amp; <persName
+                                        <persName ref="/people/MUL03.html">mrs Mulready</persName> &amp; <persName
                                 ref="/people/GOD02.html">Jo G</persName></seg>. <ref type="dText"
                             subtype="read" target="/bibl/te0980.html">Eutropius, w. <persName
                                 ref="/people/CLA02.html">C C</persName>, 25 days</ref>.</ab>

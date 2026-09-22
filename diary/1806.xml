@@ -709,7 +709,7 @@
                                 ref="/people/HOL06.html">F Ht</persName>,
                                 <persName>Truman</persName>, <persName>Hoskins</persName>, <persName
                                     ref="/people/MON01.html">Montagu</persName>, <persName ref="/people/MER07.html">B
-                                Mercier</persName>, <persName>Norrises</persName>,
+                                        Mercier</persName>, <persName ref="/people/NOR12.html">Norrises</persName>,
                                 <persName>Mills</persName> &amp;<persName ref="/people/CLA01.html">
                                 M J</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1806-03-05"><date when="1806-03-05">5. W. </date><ref
@@ -1829,7 +1829,7 @@
                                 ref="/people/FLI02.html"><placeName type="venue">
                                 Flint</placeName></persName></seg>; &amp;, w. <seg type="dMeeting"
                             subtype="Cn"><persName ref="/people/CLA01.html">M J</persName>, on
-                                    <persName><placeName type="venue">mrs
+                                    <persName  ref="/people/MUL03.html"><placeName type="venue">mrs
                                 Mulready</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="Cn"><persName ref="/people/CLA01.html"/><persName
                                 ref="/people/CAR01.html"><placeName type="venue"
@@ -1898,7 +1898,7 @@
                             type="dText" subtype="read" target="/bibl/te0519.html">Virgil, vs.
                             702</ref>: <ref type="dText" subtype="read" target="/bibl/te1617.html"
                             >Shelton, p. 317</ref>. <seg type="dMeeting" subtype="Cn">Call on
-                                    <persName><placeName type="venue">mrs
+                                <persName ref="/people/MUL03.html"><placeName type="venue">mrs
                                 Mulready</placeName></persName>, w. <persName
                                 ref="/people/CLA01.html">M J</persName></seg>: <seg type="dMeeting"
                             subtype="CG"><persName ref="/people/KEI01.html" type="nah"
@@ -2875,7 +2875,7 @@
                                     ><placeName type="venue">Paul</placeName></persName><hi
                                 rend="sup">n</hi></seg>: <seg type="dMeeting" subtype="other">meet,
                             w. <persName ref="/people/CUR01.html">him</persName>,
-                                <persName>O’Hara</persName> &amp; <persName>mrs
+                                    <persName ref="/people/OHO01.html">O’Hara</persName> &amp; <persName>mrs
                             Cooke</persName></seg>: <seg type="dMeal" subtype="SG"><persName
                                 ref="/people/MUL01.html">Mulready</persName> sups; <seg
                                 type="dMeeting" subtype="Adv">adv.<persName ref="/people/TUR01.html"
@@ -2991,7 +2991,7 @@
                                 ref="/people/BUR02.html">Burdet</persName></ref>. <seg
                             type="dMeeting" subtype="C">Call on <persName ref="/people/CUR01.html"
                                     ><placeName type="venue">Curran</placeName></persName></seg>
-                        &amp; <seg type="dMeeting" subtype="C"><persName><placeName type="venue">mrs
+                        &amp; <seg type="dMeeting" subtype="C"><persName ref="/people/MUL03.html"><placeName type="venue">mrs
                                     Mulready</placeName></persName></seg>: <seg type="dMeal"
                             subtype="SG"><persName ref="/people/DAW01|DAW02.html">Dawes</persName>
                             &amp; <persName ref="/people/TUR01.html">T T</persName> sup</seg>. <seg

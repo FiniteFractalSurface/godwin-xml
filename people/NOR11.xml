@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="NOR11" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>James</forename>
+                        <surname>Morris</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1796"/>
+                    <occupation>gent.</occupation>
+                    <note type="editorial">
+                        <p>Ed Pope notes: 21.7.1796 Norris's with Norgate The will PCC 1796 of James
+                            Norris gent of Norwich mentioned his friend Elias Norgate. His burial
+                            was at Norwich on 19.7.1796 two days before this entry, His brother the
+                            Rev William Norris 1727-98 lived at Wood Norton, close to Dalling where
+                            Godwin's family lived, With his wife Susanna (nee Chad, married at Wells
+                            , Norfolk 6.6.1758) he had at least 4 sons and 2 daughters. The eldest
+                            son William 1759-1818 was admitted Lincolns Inn 1777 and became a Fellow
+                            of the Society of Antiquaries 1784 secretary of it by 1797, Another son
+                            the Rev George was born 6.10.1765 at Wood Norton, went to schools at
+                            Bury, Norwich and Caius College Cambridge, was ordained at Norwich 1789
+                            and was vicar of Guist, Norfolk from then till his death on
+                            6.10.1832..Another son the Rev Robert 1767-1832 was still a student at
+                            Cambridge in 1796. See Alum Cantab </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -24,24 +24,31 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="NOR10" sex="1">
+                <person xml:id="MON03" sex="2">
                     <persName>
                         <roleName/>
-                        <forename>Caroline</forename>
-                        <surname>Norton</surname>
+                        <forename>Mrs Robert</forename>
+                        <surname>Montagu</surname>
                         <addName/>
                     </persName>
-                    <birth when="1808">
+                    <birth when="1000-01-01">
                         <placeName/>
                     </birth>
-                    <death when="1877"/>
+                    <death when="1000-12-31"/>
                     <occupation>OCCUPATION</occupation>
                     <note type="editorial">
-                        <p>The controvercial Mrs Caroline Norton (née  Sheridan), whose husband took a criminal
-                            conversation suit against Lord Melbourne, only for it to be dismissed b
-                            a jury. She had then to fight for custody of her children. Godwin sees
-                            her because he wants her to use her influence to secure him a pension.
-                            But he clearly has his measure. Having seen him once, the other entries all signify that she was not receiving him. </p>
+                        <p>This is not Basil Montagu's mother, who was murdered in 1779 by James
+                            Hackman, nor is it the first Mrs Basil Montagu, Caroline Matilda Want,
+                            whom Montagu married in 1790, leading to him being cut off by his father
+                            (John Montagu, the 4th Earl of Sandwich), and who died in 1793. Nor is
+                            it Basil Montagu's second wife, Laura Rush (m. 1801, d. 1806). Rather,
+                            it seems to be the wife of Robert Montagu (1763-1830), one of the 5
+                            illegitimate children Basil Montagu's father had with Martha Rae. Ed
+                            Pope comments: Admiral Robert Montagu 1763-1830 will PCC 1830, elder
+                            brother of Basil Montagu and son of 4th Earl of Sandwich by Martha Ray,
+                            married 10.5.1786 at St Margaret's Westminster, Mary Elizabeth dau of
+                            Edward L'Epine merchant of Gt George St will PCC 1788. Her husband was
+                            probably absent on naval service at the time.</p>
                     </note>
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,

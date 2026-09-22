@@ -4004,7 +4004,7 @@
                             subtype="D">Dine at <persName ref="/people/CHA01.html"><placeName
                                     type="venue">Chandler's</placeName></persName></seg>: <seg
                             type="dMeal" subtype="Ta">tea, w. <persName ref="/people/CHA01.html"
-                                >him</persName>, at <persName><placeName type="venue">O
+                                >him</persName>, at <persName ref="/people/FAN01.html"><placeName type="venue">O
                                     Fancourt's</placeName></persName></seg>.</ab>
                     <pb n="e.204_0011v"/>
                     <ab type="dDay" xml:id="g1798-12-02"><date when="1798-12-02">Dec. 2.
@@ -4045,7 +4045,7 @@
                                 ref="/people/JON02.html">M J</persName> dine</seg>: <ref
                             type="dEntertainment" subtype="Theat" target="/plays/jewa01.html"
                                 ><placeName type="CG"/>theatre, Jew &amp; Doctor</ref>: <seg
-                            type="dMeal" subtype="S">sup at <persName><placeName type="venue">O
+                                    type="dMeal" subtype="S">sup at <persName ref="/people/FAN01.html"><placeName type="venue">O
                                     Fancourt's</placeName></persName>, w. <persName
                                 ref="/people/CHA01.html">Chandler</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1798-12-05"><date when="1798-12-05">5. W.</date><seg
@@ -4094,7 +4094,7 @@
                                 ref="/people/FOU01.html">Foulkes's</persName>, <persName
                                 ref="/people/BUR19.html">Burrel</persName> &amp;
                                 <persName>Spurling</persName></seg>: <seg type="dMeal" subtype="Ta"
-                            >tea <persName><placeName type="venue">O
+                                    >tea <persName ref="/people/FAN01.html"><placeName type="venue">O
                                 Fancourt's</placeName></persName>, w. <persName
                                 ref="/people/CHA01.html">Chandler</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1798-12-10"><date when="1798-12-10">10. M.</date><ref
@@ -4242,7 +4242,7 @@
                             >dine, w. <persName ref="/people/CHA01.html">Chandler</persName>, at
                                     <persName><placeName type="venue"
                                 >Saulieu's</placeName></persName></seg>: <seg type="dMeal"
-                            subtype="Ta">tea <persName><placeName type="venue">O
+                                    subtype="Ta">tea <persName ref="/people/FAN01.html"><placeName type="venue">O
                                     Fancourt's</placeName></persName></seg>. <ref type="dText"
                             subtype="read">read</ref>.</ab>
                     <ab type="dDay" xml:id="g1798-12-22"><date when="1798-12-22">22. Sa.</date><ref
@@ -4296,7 +4296,7 @@
                             >Medite</ref>. <ref type="dText" subtype="read"
                             target="/bibl/te0897.html">Iphigenie, actes 4, 5</ref>: <ref
                             type="dText" subtype="read" target="/bibl/te0608.html">Oroonoko</ref>.
-                            <seg type="dMeal" subtype="D">Dine at <persName><placeName type="venue"
+                        <seg type="dMeal" subtype="D">Dine at <persName ref="/people/FAN01.html"><placeName type="venue"
                                     >O Fancourt's</placeName></persName>, w. <persName
                                 ref="/people/CHA01.html">Chandler</persName> &amp; <persName>C
                                 Bence</persName></seg>: <seg type="dMeeting" subtype="CG"><persName
@@ -4306,7 +4306,7 @@
                             çala</ref>: <ref type="dText" subtype="read" target="/bibl/te0893.html"
                             >Barruel, Tom III, p. 16</ref>. <seg type="dMeal" subtype="DG"><persName
                                 ref="/people/MAR01.html">M</persName> dines</seg>: <seg type="dMeal"
-                            subtype="Ta">tea <persName><placeName type="venue">O
+                                    subtype="Ta">tea <persName ref="/people/FAN01.html"><placeName type="venue">O
                                     Fancourt's</placeName></persName>; <seg type="dMeeting"
                                 subtype="Adv">adv. <persName ref="/people/CHA01.html"
                                     >Chandler</persName></seg></seg>.</ab>

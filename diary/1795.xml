@@ -1817,7 +1817,7 @@
                                     ref="/people/ALD02.html">A Alderson</persName>, <persName>mrs
                                     Batty</persName>, <persName ref="/people/DYE01.html"
                                     >Dyer</persName>, <persName ref="/people/RIT01.html"
-                                    >Ritson</persName>, <persName>Pinard</persName> &amp; <persName
+                                        >Ritson</persName>, <persName ref="/people/PIN03.html">Pinard</persName> &amp; <persName
                                     ref="/people/RIC04.html">H Richter</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1795-05-11"><date when="1795-05-11">11. M. </date><ref
                             type="dWrote" subtype="revised" target="/works/poli01.html"
@@ -3186,7 +3186,7 @@
                                     Richters</persName>, <persName type="nah"
                                     ref="/people/FOU02.html">P. Foulkes</persName>, <persName
                                     ref="/people/COO01.html">Cooper</persName> &amp;
-                                    <persName>Pinard</persName></seg></seg>.</ab>
+                                    <persName ref="/people/PIN03.html">Pinard</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1795-09-07"><date when="1795-09-07">7. M.</date><ref
                             type="dText" subtype="read" target="/bibl/te0603.html">Riouffe, pp.
                             80</ref>. <ref type="dEvent" subtype="PersEvent"
@@ -3333,7 +3333,7 @@
                                 <persName>Booths</persName>, <persName ref="/people/SHA01.html"
                                 >Sharp</persName> &amp; <persName ref="/people/COO01.html"
                                 >C</persName></seg>; <seg type="dMeeting" subtype="Adv">adv.
-                                <persName>Pinard</persName></seg>. <ref type="dText" subtype="read"
+                                    <persName ref="/people/PIN03.html">Pinard</persName></seg>. <ref type="dText" subtype="read"
                             target="/bibl/te0604.html">Conflict, act 4</ref>: <ref type="dText"
                             subtype="read" target="/bibl/te0072.html">Burke's Reflections, p.
                             34</ref>.</ab>
@@ -3416,7 +3416,7 @@
                                     >Ht's</placeName></persName>: <seg type="dMeeting" subtype="Adv"
                                 >adv. <persName ref="/people/SHI01.html">Shield</persName>,
                                     <persName ref="/people/RIT01.html">Ritson</persName>,
-                                    <persName>Pinard</persName> &amp; <persName
+                                        <persName ref="/people/PIN03.html">Pinard</persName> &amp; <persName
                                     ref="/people/COO01.html">C</persName></seg></seg> .</ab>
                     <ab type="dDay" xml:id="g1795-09-28"><date when="1795-09-28">28. M.</date><ref
                             type="dWrote" subtype="revised" target="/works/poli01.html"
@@ -3479,7 +3479,7 @@
                             >dine at <persName ref="/people/HOL01.html"><placeName type="venue"
                                     >Hts</placeName></persName>, w. <persName
                                 ref="/people/TUT01.html">Tuthil</persName>; <seg type="dMeeting"
-                                subtype="Adv">adv. <persName>Pinard</persName> &amp; <persName
+                                    subtype="Adv">adv. <persName ref="/people/PIN03.html">Pinard</persName> &amp; <persName
                                     ref="/people/COO01.html">C</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1795-10-05"><date when="1795-10-05">5. M. </date><ref
                             type="dWrote" subtype="revised" target="/works/cale01.html"

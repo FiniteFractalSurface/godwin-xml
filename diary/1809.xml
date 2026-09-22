@@ -122,7 +122,7 @@
                             target="/bibl/te0202.html">Henry VI, acts 4, 5.</ref></ab>
                     <ab type="dDay" xml:id="g1809-01-13"><date when="1809-01-13">13. F.</date><ref
                             type="dText" subtype="read">Trimmer's England</ref>. <seg
-                            type="dMeeting" subtype="CG"><persName>Mylius</persName></seg> &amp;
+                                type="dMeeting" subtype="CG"><persName ref="/people/MYL02.html">Mylius</persName></seg> &amp;
                             <seg type="dMeeting" subtype="CG"><persName ref="/people/WHI03.html"
                                 >White</persName> call</seg>.</ab>
                     <ab type="dDay" xml:id="g1809-01-14"><date when="1809-01-14">14. Sa.</date><ref
@@ -834,7 +834,7 @@
                             type="dMeal" subtype="D">Dine at <persName
                                 ref="/people/HUM01|HUM02.html"><placeName type="venue"
                                     >Hume’s</placeName></persName>, w. <persName>Draper</persName>,
-                                <persName>mrs Thomson</persName>, <persName ref="/people/JOH01.html"
+                            <persName ref="/people/THO04.html">mrs Thomson</persName>, <persName ref="/people/JOH01.html"
                                 >Johnsons</persName>, <persName ref="/people/FOR07.html"
                                     >Ford</persName> &amp; <persName ref="/people/HUT03.html">mrs Hutchinson</persName>; <seg
                                 type="dMeeting" subtype="Adv">adv. <persName
@@ -1509,7 +1509,7 @@
                                 ref="/people/CLA01.html">M J</persName>, <persName
                                 ref="/people/BUR03.html">M Burney</persName> &amp; <persName
                                 ref="/people/HAZ01.html">Hazlit</persName></seg>: <seg
-                            type="dMeeting" subtype="Cn">call on <persName><placeName type="venue"
+                                    type="dMeeting" subtype="Cn">call on <persName ref="/people/NOR12.html"><placeName type="venue"
                                     >mrs Norris</placeName></persName>, w. <persName
                                 ref="/people/CLA01.html">M J</persName></seg>. <ref type="dText"
                             subtype="read" target="/bibl/te0532.html">Lucan, B. IX</ref>.</ab>
@@ -1777,7 +1777,7 @@
                             type="dEntertainment" subtype="Theat" target="/plays/smug01.html"
                                 ><placeName type="LY"/>theatre, Up all Night</ref>. <ref
                             type="dWrote" subtype="letter">Write to
-                            <persName>Mylius</persName></ref>.</ab>
+                                    <persName ref="/people/MYL02.html">Mylius</persName></ref>.</ab>
                     <ab type="dDay" xml:id="g1809-06-27"><date when="1809-06-27">27. Tu.</date><ref
                             type="dWrote" subtype="letter">Write to <persName
                                 ref="/people/TUR01.html">T T</persName></ref> &amp; <ref
@@ -1838,7 +1838,7 @@
                             >Wordsworth, p. 25</ref>. <seg type="dMeeting" subtype="C">Call on
                                 <persName ref="/people/LAM01.html"><placeName type="venue"
                                     >Lamb</placeName></persName>; <seg type="dMeeting" subtype="Adv"
-                                >adv. <persName>Norris</persName></seg></seg>: <seg type="dMeal"
+                                        >adv. <persName ref="/people/NOR12.html">Norris</persName></seg></seg>: <seg type="dMeal"
                             subtype="SG"><persName ref="/people/FLA01.html">Flather</persName>
                                     sups</seg>. <seg type="dMeal" subtype="DG"><persName ref="/people/COL10.html">3
                                 Colnets</persName> dine</seg>.</ab>
@@ -2076,7 +2076,7 @@
                                 ref="/people/MAC03.html">Macdonalds</persName>, <persName
                                 ref="/people/COL06|COL07.html">Colliers</persName>, <persName
                                 ref="/people/FOR07.html">Ford</persName>, <persName>Girle</persName>
-                            &amp; <persName>mrs Thomson</persName></seg>.</ab>
+                                &amp; <persName ref="/people/THO04.html">mrs Thomson</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1809-07-27"><date when="1809-07-27">27. Th.</date><ref
                             type="dWrote" subtype="cala" target="/works/myli01.html">Dictionary,
                             çala</ref>. <ref type="dWrote" subtype="letter">Write to <persName
@@ -2185,7 +2185,7 @@
                             type="dWrote" subtype="cala" target="/works/myli01.html">Dictionary,
                             çala</ref>. <seg type="dMeeting" subtype="other">Hear of <persName
                                 ref="/people/SMA01.html">M Smart</persName></seg>. <seg
-                            type="dMeeting" subtype="C">Call on <persName><placeName type="venue"
+                                    type="dMeeting" subtype="C">Call on <persName ref="/people/MYL02.html"><placeName type="venue"
                                     >Mylius</placeName></persName></seg>; &amp;, <seg
                             type="dMeeting" subtype="Cn">w. <persName ref="/people/CLA01.html">M
                                 J</persName>, on <persName><placeName type="venue"
@@ -2234,7 +2234,7 @@
                                 ref="/people/IML01.html"><placeName type="venue"
                                 >Fanny</placeName></persName></seg>; <ref type="dWrote"
                             subtype="letter">write to <persName>her</persName></ref>. <seg
-                            type="dMeeting" subtype="M">meet <persName>Mylius</persName></seg>.</ab>
+                                type="dMeeting" subtype="M">meet <persName ref="/people/MYL02.html">Mylius</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1809-08-11"><date when="1809-08-11">11. F.</date><ref
                             type="dWrote" subtype="cala" target="/works/myli01.html">Dictionary,
                             çala</ref>. <seg type="dMeal" subtype="BG"><persName>Girle</persName>
@@ -3185,7 +3185,7 @@
                             subtype="Theat" target="/plays/othe01.html"><placeName type="CG"
                             />theatre, Othello</ref>. <seg type="dMeeting" subtype="CG"><persName
                                 ref="/people/WOO13.html">Woolnoth</persName> calls</seg>: <seg
-                            type="dMeeting" subtype="M">meet <persName>mrs Mulready</persName></seg>
+                                    type="dMeeting" subtype="M">meet <persName ref="/people/MUL03.html">mrs Mulready</persName></seg>
                         &amp; <seg type="dMeeting" subtype="M"><persName ref="/people/CRE01.html"
                                 >Creed</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1809-11-07"><date when="1809-11-07">7. Tu.</date><seg
@@ -3212,7 +3212,7 @@
                             subtype="Theat" target="/plays/unkn56.html"><placeName/>theatre</ref>:
                             <seg type="dMeal" subtype="SG"><persName ref="/people/TUR01.html">T
                                 T</persName> sups</seg>. <seg type="dMeeting" subtype="CG"
-                                ><persName>Mylius</persName> clls</seg>.</ab>
+                                    ><persName ref="/people/MYL02.html">Mylius</persName> clls</seg>.</ab>
                     <ab type="dDay" xml:id="g1809-11-10"><date when="1809-11-10">10. F.</date><ref
                             type="dWrote" subtype="letter">Write to <persName
                                 ref="/people/TAY02.html">Taylor (<placeName type="venue"

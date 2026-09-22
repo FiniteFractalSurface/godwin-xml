@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="NOR12" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Randal</forename>
+                        <surname>Norris</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's notes: 3.2.1797 call at Norris's / 18.5.1801 sup at White's
+                            with Lamb adv Norris / 1.6.1801 sup at Lamb's w. Norris / 27.5.1804 sup
+                            at Lamb's adv Norris's / 9.8.1804 meet Norris's / 7.9.1805 write to
+                            Norris / 4.3.1806 Norrises at Rowan's / 29.5.1809 call on mrs Norris
+                            (with mrs Godwin) / 4.7.1809 call on Lamb adv Norris / 21.1.1810 Norris
+                            at Collier's / 3.3.1823 sup at Lamb's adv R and E Norris / 19.4.1832
+                            Norris at Geo White's The collected letters of Charles and Mary Lamb refer
+                            to Randal Norris librarian of the Inner Temple 1751-1827 who married
+                            Elizabeth Faint of Widford 1765? - 1843 in 1801. They were presumably
+                            the R and E Norris of 1823 and perhaps most of the others. Their elder
+                            daughter Jane married Arthur Tween of Widford. (Randle Nprris bachelor
+                            of Charlton, Kent will PCC 1804). The same work also refers to Philip
+                            Norris d.1806 builder and surveyor to Christ's Hospital and his wife
+                            Sally of Castle St Holborn as friends of Lamb. The 1797 entry may be
+                            neither Lamb's Norrises nor the Norwich ones, and may have been related
+                            to Godwin's plans for marriage and the change of living arrangements
+                            that entailed, see work notes below for some possibles. The Norrises at
+                            Rowan's might have been any or none of these.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

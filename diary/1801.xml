@@ -1456,7 +1456,7 @@
                                     White's</placeName></persName>, w. <persName
                                 ref="/people/LAM01.html">Lamb</persName> &amp;
                                 <persName>Parkins's</persName>; <seg type="dMeeting" subtype="Adv"
-                                >adv. <persName>Norris</persName></seg></seg>.</ab>
+                                    >adv. <persName ref="/people/NOR12.html">Norris</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1801-05-19"><date when="1801-05-19">19. Tu.</date><ref
                             type="dWrote" subtype="write" target="/works/parr01.html">Answer, p.
                             21</ref>. <seg type="dMeeting" subtype="C">Call on <persName
@@ -1613,7 +1613,7 @@
                             çala</ref>: <ref type="dText" subtype="read"> Enquirer,p. 309</ref>.
                             <emph rend="deleted">//</emph><seg type="dMeal" subtype="S">Sup at
                                 <persName ref="/people/LAM01|LAM02.html"><placeName type="venue"
-                                    >Lamb's</placeName></persName>, w.<persName> Norris</persName>
+                                        >Lamb's</placeName></persName>, w.<persName ref="/people/NOR12.html"> Norris</persName>
                             &amp; <persName ref="/people/BUR07.html">Burnet</persName></seg>. <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/CAR01.html"
                                 >Carlisles</persName> call</seg>.</ab>
@@ -1811,7 +1811,7 @@
                                     type="venue">Reynolds</placeName></persName></seg><hi rend="sup"
                             >n</hi>: sup at<persName ref="/people/NIC01.html">
                             Nicholson's</persName>; <seg type="dMeeting" subtype="Adv"
-                                >adv.<persName> Noble</persName> (<persName>Fleet</persName> &amp;
+                                >adv.<persName ref="/people/NOB02.html"> Noble</persName> (<persName>Fleet</persName> &amp;
                                 <persName>Chetwynd{)</persName>}</seg></ab>
                     <ab type="dDay" xml:id="g1801-06-17"><date when="1801-06-17">17. W. </date><ref
                             type="dText" subtype="read" target="/bibl/te1251.html">Edda, p.

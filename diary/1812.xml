@@ -891,7 +891,7 @@
                                 ref="/people/BUR01.html">Burr</persName>,
                                 <persName>Woodart</persName> &amp; <persName>miss
                                 Pullman</persName>;<seg type="dMeeting" subtype="Adv"> adv.
-                                    <persName>mrs Thomson</persName></seg>; <seg type="dMeeting"
+                                    <persName ref="/people/THO04.html">mrs Thomson</persName></seg>; <seg type="dMeeting"
                                 subtype="Inv">invité <persName ref="/people/LAM01.html"
                                     >Lamb</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1812-03-23"><date when="1812-03-23">23. M. </date><ref
@@ -2026,7 +2026,7 @@
                                 <persName ref="/people/HUM01|HUM02.html"><placeName type="venue"
                                     >Hume</placeName></persName>, w. <persName>capt.
                                 Cuthfield</persName>; <seg type="dMeeting" subtype="Adv">adv.
-                                    <persName>mrs Thomson</persName></seg></seg>.</ab>
+                                    <persName ref="/people/THO04.html">mrs Thomson</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1812-07-06"><date when="1812-07-06">6. M. </date><seg
                             type="dMeeting" subtype="C">Call on <persName ref="/people/HAY02.html"
                                     ><placeName type="venue">Hayward</placeName></persName></seg>:
@@ -2369,7 +2369,7 @@
                                     >Hume’s</placeName></persName>, w. <persName
                                 ref="/people/CLA01.html">M J </persName>&amp;
                                 <persName>J.</persName>; <seg type="dMeeting" subtype="Adv">adv.
-                                        <persName>m<hi rend="sup">es</hi> Thomson</persName>,
+                                    <persName ref="/people/THO04.html">m<hi rend="sup">es</hi> Thomson</persName>,
                                     <persName ref="/people/HUT03.html">Hutchinson</persName> &amp; <persName>Bye</persName>,
                                 &amp; <persName>mr Holland</persName> &amp;
                                     <persName>Darmony</persName></seg></seg>.</ab>

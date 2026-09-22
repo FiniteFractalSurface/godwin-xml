@@ -1305,7 +1305,7 @@
                                 ref="/people/HAZ02.html">mrs Hazlit</persName>, <persName
                                 ref="/people/CLA02.html">C</persName> &amp; <persName
                                 ref="/people/MAR01.html">M</persName>; <seg type="dMeeting"
-                                subtype="Adv">adv. <persName>mrs Thomson</persName></seg> &amp;
+                                    subtype="Adv">adv. <persName ref="/people/THO04.html">mrs Thomson</persName></seg> &amp;
                                 <persName>Newland</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1814-04-11"><date when="1814-04-11">11. M. </date><ref
                             type="dText" subtype="read" target="/bibl/te2140.html">Phaer, 1/2 B.

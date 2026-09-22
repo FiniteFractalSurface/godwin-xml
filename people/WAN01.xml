@@ -24,24 +24,28 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="NOR10" sex="1">
+                <person xml:id="WAN01" sex="2">
                     <persName>
                         <roleName/>
-                        <forename>Caroline</forename>
-                        <surname>Norton</surname>
+                        <forename>Henrietta, Elizabeth, Catherine and Arabella </forename>
+                        <surname>Want</surname>
                         <addName/>
                     </persName>
-                    <birth when="1808">
+                    <birth when="1000-01-01">
                         <placeName/>
                     </birth>
-                    <death when="1877"/>
+                    <death when="1000-12-31"/>
                     <occupation>OCCUPATION</occupation>
                     <note type="editorial">
-                        <p>The controvercial Mrs Caroline Norton (née  Sheridan), whose husband took a criminal
-                            conversation suit against Lord Melbourne, only for it to be dismissed b
-                            a jury. She had then to fight for custody of her children. Godwin sees
-                            her because he wants her to use her influence to secure him a pension.
-                            But he clearly has his measure. Having seen him once, the other entries all signify that she was not receiving him. </p>
+                        <p>Sisters to the first wife of Basil Montagu: see Ed Pope: sisters of the
+                            deceased Caroline Matilda nee Want, Basil Montagu's (DNB 1770-1851)
+                            first wife. They were daughters of Robert Want of the Temple (attorney
+                            who died Nov 1777 at his house in Fetter Lane) and his wife Eden will
+                            PCC 1782 widow. By 1787 Henrietta was married to the Rev Charles
+                            Holworthy and Cassandra to Robert Godby. Elizabeth had married Rev John
+                            Smith by 1802 (and probably by 1797). Catherine Eden Want will PCC 1811,
+                            Charlotte Want will PCC 1803, and Arabella were all unmarried in 1797
+                        </p>
                     </note>
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,

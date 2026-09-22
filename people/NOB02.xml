@@ -24,24 +24,25 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="NOR10" sex="1">
+                <person xml:id="NOB02" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>Caroline</forename>
-                        <surname>Norton</surname>
+                        <forename>Richard</forename>
+                        <surname>Noble</surname>
                         <addName/>
                     </persName>
-                    <birth when="1808">
+                    <birth when="1000-01-01">
                         <placeName/>
                     </birth>
-                    <death when="1877"/>
-                    <occupation>OCCUPATION</occupation>
+                    <death when="1000-12-31"/>
+                    <occupation>Printer</occupation>
                     <note type="editorial">
-                        <p>The controvercial Mrs Caroline Norton (née  Sheridan), whose husband took a criminal
-                            conversation suit against Lord Melbourne, only for it to be dismissed b
-                            a jury. She had then to fight for custody of her children. Godwin sees
-                            her because he wants her to use her influence to secure him a pension.
-                            But he clearly has his measure. Having seen him once, the other entries all signify that she was not receiving him. </p>
+                        <p>Ed Pope Nnotes: R Noble printer of Godwin's book St Leon (1799). Richard
+                            Noble printer was at 4 Gt Shire La, Temple Bar 1790-1800, 50 Chapel St
+                            Pentonville 1802, Robert Noble printer at Green Arbour Court, Old Bailey
+                            1800, resided at 4 Gt Shire Lane. Richard Noble stationer and reg merchant
+                            11 High Holborn 1786, printer 36 Noble St 1790. William Calvert jr was
+                            at 4 Gt Shire Lane from 1802-1809 (Maxted, Biography Database). </p>
                     </note>
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,

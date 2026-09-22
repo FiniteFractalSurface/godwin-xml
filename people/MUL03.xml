@@ -24,31 +24,35 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="NOR10" sex="1">
+                <person xml:id="MUL03" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>Caroline</forename>
-                        <surname>Norton</surname>
+                        <forename>Mrs </forename>
+                        <surname>Mulready</surname>
                         <addName/>
                     </persName>
-                    <birth when="1808">
+                    <birth when="1000-01-01">
                         <placeName/>
                     </birth>
-                    <death when="1877"/>
-                    <occupation>OCCUPATION</occupation>
+                    <death when="1000-12-31"/>
+                    <occupation>landscape painter</occupation>
                     <note type="editorial">
-                        <p>The controvercial Mrs Caroline Norton (née  Sheridan), whose husband took a criminal
-                            conversation suit against Lord Melbourne, only for it to be dismissed b
-                            a jury. She had then to fight for custody of her children. Godwin sees
-                            her because he wants her to use her influence to secure him a pension.
-                            But he clearly has his measure. Having seen him once, the other entries all signify that she was not receiving him. </p>
+                        <p>This could refer to William Mulready's mother, about whom the DNB says
+                            little is known, save that she lives until at least 1811, when she
+                            modelled for John Linnell, and William Mulready's wife, Elizabeth
+                            Robinson Varley, whom Mulready married when he was 17 (12 July 1803) and
+                            she was 19. They had 4 sons (b. Paul 1804, William 1805, Michael 1807,
+                            and John 1809), although it is said to have been an unhappy marriage. In
+                            the absence of exact dates of birth, which might have allowed us a sense
+                            of when Elizabeth was 'visitable' it is difficult to be certain. Most
+                            are calls on - and it seems likley that these are references to
+                            Mulready's wife.</p>
                     </note>
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
                         Publisher, year</bibl>
                     <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
-                    <bibl type="other">
-                        <title/>
+                    <bibl type="other">ODNB for William Mulready <title/>
                     </bibl>
                 </person>
             </listPerson>

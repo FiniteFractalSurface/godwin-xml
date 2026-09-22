@@ -24,24 +24,24 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="NOR10" sex="1">
+                <person xml:id="OHA01" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>Caroline</forename>
-                        <surname>Norton</surname>
+                        <forename>Charles</forename>
+                        <surname>O'Hara</surname>
                         <addName/>
                     </persName>
-                    <birth when="1808">
+                    <birth when="1000-01-01">
                         <placeName/>
                     </birth>
-                    <death when="1877"/>
-                    <occupation>OCCUPATION</occupation>
+                    <death when="1000-12-31"/>
+                    <occupation>MP</occupation>
                     <note type="editorial">
-                        <p>The controvercial Mrs Caroline Norton (née  Sheridan), whose husband took a criminal
-                            conversation suit against Lord Melbourne, only for it to be dismissed b
-                            a jury. She had then to fight for custody of her children. Godwin sees
-                            her because he wants her to use her influence to secure him a pension.
-                            But he clearly has his measure. Having seen him once, the other entries all signify that she was not receiving him. </p>
+                        <p>See Ed Pope's note: Quite likely Charles O'Hara 1746-1822 M P for
+                            Sligoshire from 1801. In 1811 his London address was Limmer's Hotel,
+                            Conduit-st. He had certainly been at Westminster on 24.5.1808 (see
+                            History of Parliament). He was rather nervously in opposition to the
+                            government. </p>
                     </note>
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,

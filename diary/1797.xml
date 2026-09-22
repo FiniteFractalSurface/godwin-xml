@@ -417,7 +417,7 @@
                         <seg type="dTopic">law</seg></seg>.</ab>
                <ab type="dDay" xml:id="g1797-02-03"><date when="1797-02-03">3. F.</date><ref
                      type="dWrote" subtype="revised" target="/works/cale01.html">Revise C W</ref>.
-                     <seg type="dMeeting" subtype="C">Call at <persName><placeName type="venue"
+                  <seg type="dMeeting" subtype="C">Call at <persName ref="/people/NOR12.html"><placeName type="venue"
                            >Norris's</placeName></persName></seg>: <ref type="dEntertainment"
                      subtype="Theat" target="/plays/tame01.html"><placeName type="DL"/>theatre,
                      Tamerlane</ref>: <seg type="dMeeting" subtype="See"><foreign>chez <persName
@@ -2052,14 +2052,14 @@
                <ab type="dDay" subtype="NotLon" xml:id="g1797-06-17"><date when="1797-06-17">17. Sa.
                      </date><placeName>Wellingborough</placeName>: breakfast at
                      <placeName>Thrapston</placeName>: <seg type="dMeal" subtype="D">dine at
-                           <placeName><persName>mrs Rob<hi rend="sup">t</hi> Montagu's</persName>,
+                        <placeName><persName ref="/people/MON03.html">mrs Rob<hi rend="sup">t</hi> Montagu's</persName>,
                         Brampton</placeName></seg>: <seg type="dMeal" subtype="Ta">tea
                            <persName><placeName type="venue">Holworthy's</placeName></persName>, w.
-                        <persName>miss Wants</persName></seg>.</ab>
+                           <persName ref="/people/WAN01.html">miss Wants</persName></seg>.</ab>
                <pb n="e.203_0020v"/>
                <ab type="dDay" subtype="NotLon" xml:id="g1797-06-18"><date when="1797-06-18">June
                      18. Su. </date><seg type="dMeal" subtype="B">Breakfast &amp; <seg type="dMeal"
-                        subtype="D">dine at <persName><placeName type="venue">mrs
+                           subtype="D">dine at <persName ref="/people/MON03.html"><placeName type="venue">mrs
                               Montagu's</placeName></persName></seg></seg>: see
                      <placeName>Hinchingbroke-House: Huntingdon</placeName>: <seg type="dMeal"
                      subtype="S">sup at <placeName><persName>Jones's</persName>,

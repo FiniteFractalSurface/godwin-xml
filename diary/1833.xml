@@ -430,7 +430,7 @@
        subtype="Museo" target="/events/mu0001.html"><placeName>Museum</placeName>; <ref type="dText"
         subtype="read" target="/bibl/te3524.html">Aristophanes</ref></ref>. <seg type="dMeal"
        subtype="TG"><persName ref="/people/SHE02.html">M W S</persName> at tea</seg>: <seg
-       type="dMeeting" subtype="C">call on <persName><placeName type="venue">mrs
+         type="dMeeting" subtype="C">call on <persName ref="/people/PIC05.html"><placeName type="venue">mrs
          Pickergil</placeName></persName></seg>. (<ref type="dText" subtype="disc">Orpheus</ref>.)
        <ref type="dEvent" subtype="Temp">52 / 53 ½</ref></ab>
      <ab type="dDay" xml:id="g1833-02-23"><date when="1833-02-23">23. Sa.</date><ref type="dWrote"
@@ -1250,7 +1250,7 @@
      <ab type="dDay" xml:id="g1833-06-03"><date when="1833-06-03">3. M.</date><ref type="dWrote"
        subtype="write" target="/works/necr01.html">Necromancers, p. 79/2</ref>. <ref type="dText"
        subtype="read" target="/bibl/te3541.html">Elia, Vol. II, p. 83</ref>. <seg type="dMeeting"
-       subtype="Cn">Call on <persName><placeName type="venue">mrs Rickman</placeName></persName>, w.
+         subtype="Cn">Call on <persName ref="/people/RIC08.html"><placeName type="venue">mrs Rickman</placeName></persName>, w.
         <persName ref="/people/CLA01.html">M J</persName></seg>: <seg type="dMeeting" subtype="CG"
         ><persName>Grayson</persName></seg> &amp; <seg type="dMeeting" subtype="CG"><persName>mrs A
         White</persName> call</seg>. <emph rend="red"><ref type="dEvent" subtype="Publ"
@@ -1348,7 +1348,7 @@
      <ab type="dDay" xml:id="g1833-06-18"><date when="1833-06-18">18. Tu.</date><ref type="dWrote"
        subtype="write" target="/works/necr01.html">Necromancers, p. 86/2</ref>. <seg type="dMeeting"
        subtype="C">Call on <persName><placeName type="venue">Mason</placeName></persName></seg>:
-       <seg type="dMeeting" subtype="CG"><persName>mrs &amp; miss Rickman</persName> call</seg>.
+       <seg type="dMeeting" subtype="CG"><persName ref="/people/RIC08.html">mrs &amp; miss Rickman</persName> call</seg>.
        <ref type="dEvent" subtype="Temp">61 ½ / 66</ref></ab>
      <ab type="dDay" xml:id="g1833-06-19"><date when="1833-06-19">19. W.</date><seg type="dMeeting"
        subtype="C">Call on <persName><placeName type="venue">D<hi rend="sup">r</hi>
@@ -1905,7 +1905,7 @@
        type="dEvent" subtype="Temp">62 / 69</ref></ab>
      <ab type="dDay" xml:id="g1833-09-18"><date when="1833-09-18">18. W.</date><seg type="dMeeting"
        subtype="CG"><persName>J Ross</persName> calls</seg>: <seg type="dMeeting" subtype="C">call
-       on <persName type="nah"><placeName type="venue">Car. Norton</placeName></persName><hi
+         on <persName ref="/people/NOR10.html" type="nah"><placeName type="venue">Car. Norton</placeName></persName><hi
         rend="sup">n</hi></seg>. <ref type="dEvent" subtype="Temp">59 ½ / 67</ref></ab>
      <ab type="dDay" xml:id="g1833-09-19"><date when="1833-09-19">19. Th.</date><ref type="dWrote"
        subtype="write" target="/works/necr01.html">Necromancers, p. 113</ref>. <ref
@@ -1957,7 +1957,7 @@
        subtype="D">dine at <persName ref="/people/POO02.html"><placeName type="venue"
          >Poole’s</placeName></persName>, w. <persName ref="/people/CAM01.html">T
        Campbel</persName>, <persName ref="/people/PIC01.html">Pickersgil</persName>,
-        <persName>Denman</persName> &amp; <persName>Norton</persName></seg>. <ref type="dEvent"
+          <persName>Denman</persName> &amp; <persName ref="/people/NOR10.html">Norton</persName></seg>. <ref type="dEvent"
        subtype="Temp">64 / 73</ref></ab>
      <ab type="dDay" xml:id="g1833-09-27"><date when="1833-09-27">27. F.</date><ref type="dWrote"
        subtype="cala" target="/works/necr01.html">Necromancers, çala</ref>. <seg type="dMeeting"
@@ -2441,7 +2441,7 @@
      <ab type="dDay" xml:id="g1833-12-06"><date when="1833-12-06">6. F.</date><ref type="dWrote"
        subtype="write" target="/works/necr01.html">Necromancers, 1 1/2 pages</ref>. <ref
        type="dText" subtype="read" target="/bibl/te3283.html">High Life, p. 308, fin</ref>. <seg
-       type="dMeeting" subtype="C">Call on <persName type="nah"><placeName type="venue">Car.
+         type="dMeeting" subtype="C">Call on <persName ref="/people/NOR10.html" type="nah"><placeName type="venue">Car.
          Norton</placeName></persName><hi rend="sup">na</hi></seg>: <seg type="dMeal" subtype="TG"
         ><persName ref="/people/GOD05.html">N G</persName> at tea</seg>: <seg type="dMeal"
        subtype="SG"><persName ref="/people/CAM01.html">T Campbel</persName> sups</seg>. <ref
@@ -2591,7 +2591,7 @@
      <ab type="dDay" xml:id="g1833-12-31"><date when="1833-12-31">31. Tu.</date><ref type="dWrote"
        subtype="write" target="/works/necr01.html">Necromancers, p. 155</ref>. <ref type="dText"
        subtype="read" target="/bibl/te3580.html">Notre Dame, p. 417</ref>. <seg type="dMeeting"
-       subtype="Sk">Seek <persName>Car. Norton (<placeName type="venue"
+         subtype="Sk">Seek <persName ref="/people/NOR10.html">Car. Norton (<placeName type="venue"
         >Calne</placeName>)</persName></seg>. <ref type="dText" subtype="read">220 pages</ref>. <ref
        type="dEvent" subtype="Temp">58 / 69 ½ </ref></ab>
     </div>

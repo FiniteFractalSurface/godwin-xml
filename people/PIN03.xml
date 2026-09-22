@@ -24,24 +24,28 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="NOR10" sex="1">
+                <person xml:id="PIN03" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>Caroline</forename>
-                        <surname>Norton</surname>
+                        <forename>NAME</forename>
+                        <surname>Pinard</surname>
                         <addName/>
                     </persName>
-                    <birth when="1808">
+                    <birth when="1000-01-01">
                         <placeName/>
                     </birth>
-                    <death when="1877"/>
+                    <death when="1000-12-31"/>
                     <occupation>OCCUPATION</occupation>
                     <note type="editorial">
-                        <p>The controvercial Mrs Caroline Norton (née  Sheridan), whose husband took a criminal
-                            conversation suit against Lord Melbourne, only for it to be dismissed b
-                            a jury. She had then to fight for custody of her children. Godwin sees
-                            her because he wants her to use her influence to secure him a pension.
-                            But he clearly has his measure. Having seen him once, the other entries all signify that she was not receiving him. </p>
+                        <p>Ed Pope identifies the following p[ossibilities: Nat Arch PROB31/1015/473
+                            inventory of Jean Baptiste Pinard 1808 late of Oxford St, St Ann Soho
+                            bachelor, father Francois Pinard. creditor Rev Andre Benoitt Hardouin.
+                            sureties Rice Ives wine merchant and Wm Grant upholsterer both of Oxford
+                            St Paul Pinard goldsmith 2 New St Covent Garden 1808, gent 9 Moor St
+                            Soho 1805 (Sun F). Paul Pinard goldsmith New St Covent Garden will PCC
+                            1785 mentions brother James of Jamaica, wife Mary, but no children, and
+                            no relative called Paul Pierre Pinard passport to France signed by Duke
+                            of Portland 1801 (Nat Arch HO69/13/38) </p>
                     </note>
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,

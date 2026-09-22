@@ -1817,7 +1817,7 @@
                      208</ref>. <seg type="dMeal" subtype="S">Sup at <persName
                         ref="/people/LAM01|LAM02.html"><placeName type="venue"
                         >Lamb's</placeName></persName>; <seg type="dMeeting" subtype="Adv">adv.
-                           <persName>Norris's</persName></seg></seg>. <ref type="dEvent"
+                           <persName ref="/people/NOR12.html">Norris's</persName></seg></seg>. <ref type="dEvent"
                      subtype="PersHlth" target="/events/he0000|he0071.html">Rhume</ref>.</ab>
                <ab type="dDay" xml:id="g1804-05-28"><date when="1804-05-28">28. M.</date><ref
                      type="dText" subtype="read" target="/bibl/te1473.html">Sopha, p. 102</ref>:
@@ -2570,7 +2570,7 @@
                         <persName ref="/people/GOD04.html">H G</persName></seg> &amp; <seg
                      type="dMeeting" subtype="M"><persName ref="/people/YAT01.html"
                      >Yates</persName></seg>, &amp; <seg type="dMeeting" subtype="M"
-                        ><persName>Norris's</persName></seg>: <seg type="dMeeting" subtype="C">call
+                        ><persName ref="/people/NOR12.html">Norris's</persName></seg>: <seg type="dMeeting" subtype="C">call
                      on <persName ref="/people/HOL01.html"><placeName type="venue"
                         >Ht</placeName></persName></seg>. <seg type="dMeal" subtype="DG"><persName
                         ref="/people/COO02.html" type="nah">G M C</persName> dines <hi rend="sup"

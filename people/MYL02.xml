@@ -24,24 +24,26 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="NOR10" sex="1">
+                <person xml:id="MYL02" sex="1">
                     <persName>
                         <roleName/>
-                        <forename>Caroline</forename>
-                        <surname>Norton</surname>
+                        <forename>William Frederick</forename>
+                        <surname>Mylius</surname>
                         <addName/>
                     </persName>
-                    <birth when="1808">
+                    <birth when="1000-01-01">
                         <placeName/>
                     </birth>
-                    <death when="1877"/>
-                    <occupation>OCCUPATION</occupation>
+                    <death when="1000-12-31"/>
+                    <occupation>Educational writer</occupation>
                     <note type="editorial">
-                        <p>The controvercial Mrs Caroline Norton (née  Sheridan), whose husband took a criminal
-                            conversation suit against Lord Melbourne, only for it to be dismissed b
-                            a jury. She had then to fight for custody of her children. Godwin sees
-                            her because he wants her to use her influence to secure him a pension.
-                            But he clearly has his measure. Having seen him once, the other entries all signify that she was not receiving him. </p>
+                        <p> See Ed Pope's notes: William Frederick Mylius bapt 1776 St Martin in te
+                            Fields, son of Charles and Elizabeth. Ad in Morning Chronicle 11.1.1810 for
+                            books published by the Godwins, including Mylius's School Dictionary
+                            with preface by Edward Baldwin (pseudonym of William Godwin), and Junior
+                            Class Book by W F Mylius, Master of the Academy, Red Lion Sq. He was
+                            still alive in 1861 census Chelsea and perhaps in 1864 as voter in South
+                            Mimms, but I couldn't find a record of his death</p>
                     </note>
                     <bibl type="MS"> </bibl>
                     <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
