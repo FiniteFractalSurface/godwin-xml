@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="PIN04" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>John Pretor - and sons</forename>
+                        <surname>Pinney</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1740">
+                        <placeName/>
+                    </birth>
+                    <death when="1818"/>
+                    <occupation>Merchant and Planter</occupation>
+                    <note type="editorial">
+                        <p>Ed Pope notes:The last entry 23.3.1802 Sup at Davy's with Pinney ser.,
+                            was probably John Pretor Pinney DNB 1740-1818, the others probably either him or one
+                            of his sons John Frederick or Azariah.
+                            William Wordsworth (see DNB 1770-1850) and his sister were tenants of
+                            Pinney in Somerset 1795-7. Basil Montagu is said to have introduced
+                            them. A very close study of Wordsworth's letters might establish which
+                            of the brothers and father appeared in Godwin's diary.
+                        See ODNB.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

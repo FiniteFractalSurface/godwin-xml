@@ -1093,7 +1093,7 @@
                                 ref="/people/HOL01.html">Holcroft</persName>,
                                 <persName>Dower</persName>, <persName ref="/people/MAC16.xml"
                                 >Macarthy</persName>, <persName>Stevenson</persName>,
-                                <persName>Paterson</persName>, <persName>Stabler</persName>,
+                                <persName ref="/people/PAT02.html">Paterson</persName>, <persName>Stabler</persName>,
                                 <persName ref="/people/JEN01.html">Jennings</persName>, <persName
                                 ref="/people/FOU01.html">Foulkes</persName>, <persName
                                 ref="/people/RID02.html">Ridgway</persName>, <persName
@@ -1304,7 +1304,7 @@
                             subtype="S">sup at <persName ref="/people/THE01.html"><placeName
                                     type="venue">Thelwal's</placeName></persName>, w.
                                 <persName>Birch</persName>; <persName>Kenyon</persName>,
-                                <persName>Conolly</persName>, <persName>Pearce</persName></seg>.
+                                        <persName>Conolly</persName>, <persName ref="/people/PEA02.html">Pearce</persName></seg>.
                             <ref type="dText" subtype="read" target="/bibl/te0287.html">Age of
                             Reason, Paine, p. 20</ref>.</ab>
                     <ab type="dDay" xml:id="g1794-04-22"><date when="1794-04-22">22. Tu.</date><ref
@@ -4070,7 +4070,7 @@
                                 subtype="Adv">adv. <persName ref="/people/HAZ01|HAZ03.html"
                                     >Hazlits</persName>, <persName>Williams artist</persName>, d<hi
                                     rend="sup">o </hi><persName>L. F</persName>,
-                                    <persName>Pearce</persName>, <persName ref="/people/HAR02.html"
+                                    <persName ref="/people/PEA02.html">Pearce</persName>, <persName ref="/people/HAR02.html"
                                     >Hardy</persName>, <persName>Chennels</persName> &amp;
                                     <persName>mrs Holt</persName></seg></seg>:
                                 <add><persName>Rotherld</persName>, <persName
@@ -4377,7 +4377,7 @@
                             subtype="D">dine at <persName ref="/people/FOU01.html"><placeName
                                     type="venue">Foulkes's</placeName></persName>, w.
                                         <persName  ref="/people/HOL01.html">H</persName>, <persName ref="/people/HUT03.html">Hutchinson</persName>,
-                                <persName>Parker</persName> &amp; <persName>Watley</persName>; <seg
+                                        <persName ref="/people/PAR11.html">Parker</persName> &amp; <persName>Watley</persName>; <seg
                                 type="dMeeting" subtype="Adv">adv. <persName>mrs
                                 Aris</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1794-12-29"><date when="1794-12-29">29. M.</date><seg

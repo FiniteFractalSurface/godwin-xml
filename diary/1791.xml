@@ -491,7 +491,7 @@
                                     ><placeName type="venue">Holcrofts</placeName></persName>, with
                                 <persName ref="/people/CRO01.html">Crosdil</persName>, <persName
                                 ref="/people/NIC01.html">Nicholson</persName>,
-                                <persName>Otley</persName>, <persName>Rigg</persName>,
+                            <persName ref="/people/OTL01.html">Otley</persName>, <persName>Rigg</persName>,
                                 <persName>Abbot</persName>, <persName ref="/people/MAR01.html"
                                 >Marshal</persName> &amp; <persName>Bossy</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1791-04-06">
@@ -914,7 +914,7 @@
                                 <persName ref="/people/CLE01.html">Clementi</persName>, <persName
                                 ref="/people/SHI01.html">Shield</persName>,
                             <persName ref="/people/BIS01.html">Bishop</persName>, <persName>Bossy</persName> &amp;
-                                <persName>Otley</persName></seg>.</ab>
+                            <persName ref="/people/OTL01.html">Otley</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1791-07-08">
                         <date when="1791-07-08">8. F.</date>
                     </ab>
@@ -1642,7 +1642,7 @@
                                 type="dTopic"> of <persName>Mirabeau</persName></seg> &amp; <seg
                                 type="dTopic">immortality</seg>. <seg type="dTopic"
                             >Notoriety</seg></seg>. <seg type="dMeal" subtype="S">Sup at
-                                    <persName><placeName type="venue">Otley's</placeName></persName>
+                                <persName ref="/people/OTL01.html"><placeName type="venue">Otley's</placeName></persName>
                             w. <persName ref="/people/HOL01.html">Holcroft</persName></seg>{.} <ref
                             type="dEvent" subtype="Trial" target="/events/tr0002.html">Birmingham
                             Trials</ref>.</ab>

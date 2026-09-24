@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="PLA05" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Mrs (S.J.)</forename>
+                        <surname>Platt</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1743">
+                        <placeName/>
+                    </birth>
+                    <death when="1800"/>
+                    <occupation>actress</occupation>
+                    <note type="editorial">
+                        <p>Ed Pope suggests, 'Mrs Platt in 1798 could have been the actress of that
+                            name (Highfill, Burnim and Langhans S.J.Platt 1743-1800). AI, as a
+                            result says: 'Biographical records from Philip H. Highfill, Kalman A.
+                            Burnim, and Edward A. Langhans' definitive biographical dictionary of
+                            actors and actresses identify her as "Mrs. Platt". She made prominent
+                            appearances on the British stage during the late 1700s, including
+                            heavily documented mentions in contemporary records such as the famous
+                            daily diaries of philosopher William Godwin.'!</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

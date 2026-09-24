@@ -2268,7 +2268,7 @@
                         >Fillingham</placeName></persName></seg> &amp; <seg type="dMeeting"
                      subtype="C"><persName ref="/people/GOD01.html"><placeName type="venue">J
                            G</placeName></persName></seg>: <seg type="dMeal" subtype="D">dine at
-                           <persName><placeName type="venue">Pearsal's</placeName></persName></seg>:
+                              <persName ref="/people/PEA02.html"><placeName type="venue">Pearsal's</placeName></persName></seg>:
                      <placeName>Spitalfields, silk mill</placeName>.</ab>
                <ab type="dDay" xml:id="g1804-07-13"><date when="1804-07-13">13. F.</date><ref
                      type="dText" subtype="cala" target="/bibl/te1487.html">Whitelocke, çala</ref>.
@@ -2513,7 +2513,7 @@
                      type="dText" subtype="read" target="/bibl/te1488.html">Fairfax, p. 334</ref>:
                      <ref type="dText" subtype="read" target="/bibl/te1481.html">Popular Tales, p.
                      367</ref>. <ref type="dWrote" subtype="letter">Write to <persName
-                        ref="/people/NIC01.html">Nicholson ( P H)</persName></ref>.</ab>
+                        ref="/people/NIC01.html">Nicholson (P H)</persName></ref>.</ab>
                <pb n="e.207_0020r"/>
                <ab type="dDay" xml:id="g1804-08-05"><date when="1804-08-05">Aug. 5. Su.</date><ref
                      type="dWrote" subtype="write" target="/works/flee01.html">Fleetwood, p.

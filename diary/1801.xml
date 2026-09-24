@@ -1303,7 +1303,7 @@
                                 subtype="Adv"><persName ref="/people/PIN01.html"
                                     >Pinkerton</persName></seg>) </seg>: <seg type="dMeeting"
                                         subtype="M">meet <persName ref="/people/CON06.html">Consit </persName></seg>&amp; <seg
-                            type="dMeeting" subtype="M"><persName>Pinney</persName></seg>.</ab>
+                                            type="dMeeting" subtype="M"><persName ref="/people/PIN04.html">Pinney</persName></seg>.</ab>
                     <pb n="e.205_0027r"/>
                     <ab type="dDay" xml:id="g1801-05-03"><date when="1801-05-03">May 3.
                             Su.</date><ref type="dWrote" subtype="write" target="/works/chau01.html"
@@ -1337,7 +1337,7 @@
                             106</ref>: <ref type="dText" subtype="read" target="/bibl/te1237.html"
                             >Life of Wickliff, p. 56</ref>. <seg type="dMeeting" subtype="CG"
                                 ><persName ref="/people/MAL01.html">Malthus</persName> calls</seg>:
-                            <seg type="dMeeting" subtype="M">meet <persName>Pinney</persName></seg>
+                        <seg type="dMeeting" subtype="M">meet <persName ref="/people/PIN04.html">Pinney</persName></seg>
                         &amp; <seg type="dMeeting" subtype="M"><persName ref="/people/STO01.html"
                                 >Stoddart</persName></seg>: <seg type="dMeeting" subtype="C">call on
                                 <persName ref="/people/BAR07.html" type="nah"><placeName
@@ -1348,7 +1348,7 @@
                             132</ref>: <ref type="dText" subtype="read" target="/bibl/te1236.html"
                             >Hurd on Chivalry, p. 148, fin</ref>: <ref type="dText" subtype="read"
                             target="/bibl/te1238.html">Gilpin's Lives, p. 103-263</ref>. <seg
-                            type="dMeeting" subtype="C">Call on <persName type="nah"><placeName
+                                type="dMeeting" subtype="C">Call on <persName ref="/people/PIN04.html" type="nah"><placeName
                                     type="venue">Pinney</placeName></persName><hi rend="sup"
                             >n</hi></seg> &amp; <seg type="dMeeting" subtype="C"><persName
                                 ref="/people/NOR01.html" type="nah"><placeName type="venue"
@@ -1465,7 +1465,7 @@
                             type="dMeeting" subtype="C"><persName ref="/people/PER01.html"
                                     ><placeName type="venue">Perry
                         </placeName></persName></seg>&amp; <seg type="dMeeting" subtype="C"
-                                ><persName type="nah"><placeName type="venue">Pinney
+                            ><persName ref="/people/PIN04.html" type="nah"><placeName type="venue">Pinney
                                 </placeName></persName><hi rend="sup">n</hi>; <seg type="dMeeting"
                                 subtype="Adv">adv. <persName ref="/people/STO01.html"
                                     >Stoddart</persName></seg></seg>: <seg type="dMeeting"
@@ -1473,7 +1473,7 @@
                             >Barbauld</persName></seg>: <seg type="dMeeting" subtype="CG"><persName
                                 ref="/people/JON02.html" type="nah">Marg. Jones</persName> calls <hi
                                 rend="sup">n</hi></seg>: <seg type="dMeeting" subtype="See"
-                                ><persName>Pinney</persName> &amp; <persName
+                                    ><persName ref="/people/PIN04.html">Pinney</persName> &amp; <persName
                                 ref="/people/STO01.html">Stoddart</persName></seg>: <seg
                             type="dMeal" subtype="SG"><persName ref="/people/WOO02.html"
                                 >Wood</persName> sups</seg>.</ab>

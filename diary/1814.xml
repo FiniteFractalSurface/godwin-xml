@@ -2794,11 +2794,11 @@
                                 >Fanny</persName> arrives</ref>. <seg type="dMeeting" subtype="C"
                             >Call on <persName ref="/people/KNO01.html"><placeName type="venue"
                                     >Knowles</placeName></persName></seg> &amp; <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                        subtype="C"><persName ref="/people/PEA03.html"><placeName type="venue"
                                 >Pearce</placeName></persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1814-08-17"><date when="1814-08-17">17. W. </date><ref
                             type="dText" subtype="read" target="/bibl/te0189.html">Shylock, act
-                            2</ref>.<seg type="dMeeting" subtype="C"> Call on <persName><placeName
+                            2</ref>.<seg type="dMeeting" subtype="C"> Call on <persName ref="/people/PEA03.html"><placeName
                                     type="venue">Pearce</placeName></persName></seg> &amp; <seg
                             type="dMeeting" subtype="C"><persName ref="/people/HUM01.html"
                                     ><placeName type="venue">Hume</placeName></persName></seg>: <seg
@@ -3289,7 +3289,7 @@
                                     <persName><placeName type="venue"
                                 >Martelli</placeName></persName></seg>: <seg type="dMeeting"
                             subtype="See"><persName ref="/people/CLA02.html">C C</persName> from
-                                <seg type="dTopic"><persName>Parker</persName></seg> &amp; <seg
+                                    <seg type="dTopic"><persName ref="/people/PAR12.html">Parker</persName></seg> &amp; <seg
                                 type="dTopic"><persName>Stevenson</persName></seg></seg>: <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/SAY01.html"
                                 >Say</persName> (from <persName><seg type="dTopic"
@@ -3637,7 +3637,7 @@
                             target="/bibl/te2253.html">Walsingham’s Manual, p. 20</ref>. <seg
                             type="dMeeting" subtype="See"><persName ref="/people/CLA02.html">C
                                 C</persName> from <seg type="dTopic"
-                                ><persName>Parker</persName></seg> &amp; <seg type="dTopic"
+                                    ><persName ref="/people/PAR12.html">Parker</persName></seg> &amp; <seg type="dTopic"
                                     ><persName ref="/people/WHI02.html"
                             >Whitaker</persName></seg></seg>: <seg type="dMeal" subtype="SG"
                                 ><persName ref="/people/LAM01|LAM02.html">Lambs</persName>
@@ -3653,7 +3653,7 @@
                                 Kenney</persName></seg> &amp; <seg type="dMeeting" subtype="CG"
                                 ><persName>Tahourdin</persName> call</seg>: <seg type="dMeeting"
                             subtype="See"><persName ref="/people/CLA02.html">C C</persName> from
-                                    <persName><seg type="dTopic">Parker</seg></persName> &amp; <seg
+                                    <persName ref="/people/PAR12.html"><seg type="dTopic">Parker</seg></persName> &amp; <seg
                                 type="dTopic"><persName ref="/people/DAV01.html"
                                 >Davison</persName></seg></seg>: <seg type="dMeal" subtype="D">dine
                             at <persName ref="/people/ELW01.html"><placeName type="venue">S
@@ -3878,7 +3878,7 @@
                             call</seg>: <seg type="dMeal" subtype="DG"><persName
                                 ref="/people/HOL05.html">L K</persName> dines</seg>. <seg
                             type="dMeeting" subtype="See"><persName ref="/people/CLA02.html">C C
-                            </persName>from <seg type="dTopic"><persName>Parker</persName></seg>
+                            </persName>from <seg type="dTopic"><persName ref="/people/PAR12.html">Parker</persName></seg>
                             &amp; <seg type="dTopic"><persName>Gardner</persName></seg></seg>. <ref
                             type="dText" subtype="read" target="/bibl/te2258.html">Sixfold
                             Politician, p. 68</ref>.</ab>

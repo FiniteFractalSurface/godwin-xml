@@ -182,7 +182,7 @@
                      calls</seg>: <seg type="dMeal" subtype="D">dine at <persName
                         ref="/people/KIN01.html"><placeName type="venue"
                         >King's</placeName></persName>, w. <persName ref="/people/DAV02.html"
-                        >Davis's</persName>, <persName>Stevenson</persName> &amp;<persName>
+                           >Davis's</persName>, <persName>Stevenson</persName> &amp;<persName ref="/people/PIN05.html">
                         Pinkard</persName></seg>.</ab>
                <ab type="dDay" xml:id="g1799-01-17"><date when="1799-01-17">17. Th.</date><ref
                      type="dWrote" subtype="write" target="/works/anto01.html">Antonio, p. 11</ref>.
@@ -302,7 +302,7 @@
                         ><persName ref="/people/HAY01.html">M Hays</persName></seg> &amp; <seg
                      type="dMeeting" subtype="See"><persName>miss Reid</persName></seg>: <seg
                      type="dMeal" subtype="D">dine at <persName ref="/people/JOH01.html"><placeName
-                           type="venue">Johnson</placeName></persName>, w. <persName>Paterson
+                           type="venue">Johnson</placeName></persName>, w. <persName ref="/people/PAT02.html">Paterson
                         (Coryat)</persName>, <persName ref="/people/NOR06.html"> Norgate</persName>,
                         <persName ref="/people/WEL05.html">Wells</persName> &amp;
                         <persName>Newnum</persName></seg>.</ab>
@@ -752,7 +752,7 @@
                      acte 2</ref>. <seg type="dMeal" subtype="D">Dine at <persName
                         ref="/people/JOH01.html"><placeName type="venue"
                         >Johnson's</placeName></persName>, w. <persName ref="/people/FUS01.html"
-                        >Fuseli</persName>, <persName>Paterson</persName> &amp;
+                           >Fuseli</persName>, <persName ref="/people/PAT02.html">Paterson</persName> &amp;
                         <persName>Newnums</persName>; <seg type="dMeeting" subtype="Adv">adv.
                            <persName ref="/people/WEL05.html">Wells</persName></seg></seg>.</ab>
                <ab type="dDay" xml:id="g1799-03-13"><date when="1799-03-13">13. W.</date><ref
@@ -1603,7 +1603,7 @@
                      Tales, Vol. III, p. 358</ref>. <seg type="dMeal" subtype="D">Dine at <persName
                         ref="/people/ELW01.html"><placeName type="venue">S
                         Elwes's</placeName></persName>;<seg type="dMeeting" subtype="Adv"> adv.
-                           <persName>Pinkard</persName></seg></seg>.</ab>
+                           <persName ref="/people/PIN05.html">Pinkard</persName></seg></seg>.</ab>
                <ab type="dDay" xml:id="g1799-05-31"><date when="1799-05-31">31. F.</date><ref
                      type="dWrote" subtype="write" target="/works/leon01.html">St Leon, p.
                   109</ref>. <ref type="dText" subtype="read" target="/bibl/te0970.html">Cant<hi
@@ -3250,7 +3250,7 @@
                      call</seg>: <seg type="dMeal" subtype="D">dine at <persName
                         ref="/people/KIN01.html"><placeName type="venue">K's</placeName></persName>,
                      w. <persName ref="/people/ROG03.html">Rogers</persName>, <persName
-                        ref="/people/FEN01.html">Fenwick</persName> &amp; <persName>mr
+                        ref="/people/FEN01.html">Fenwick</persName> &amp; <persName ref="/people/PIN05.html">mr
                         Pinkard</persName>; <seg type="dMeeting" subtype="Adv">adv. <persName>mrs
                            Newnham</persName>, <persName>D Campbel</persName>, <persName><foreign>un
                               François</foreign></persName> &amp;
@@ -4030,7 +4030,7 @@
                         ref="/people/GOR03.html">Gore</persName>, <persName>Elisée</persName>,
                         <persName ref="/people/BOI05.html">Boisgelin</persName>, <persName
                         ref="/people/DAV02.html">Davis</persName>, <persName>Atty</persName>,
-                           <persName ref="/people/CON06.html">Consit</persName>, <persName>Pinkards</persName>,
+                           <persName ref="/people/CON06.html">Consit</persName>, <persName ref="/people/PIN05.html">Pinkards</persName>,
                         <persName>Campbels</persName>, <persName ref="/people/GRA02.html"
                            >Granard</persName>, <persName ref="/people/GAR10.html">Gardners</persName>, <persName
                         ref="/people/MID01.html">miss Middleton</persName>, &amp;c. </seg><add><seg

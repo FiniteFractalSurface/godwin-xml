@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="NIC09" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Peter</forename>
+                        <surname>Nicholson</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1765">
+                        <placeName/>
+                    </birth>
+                    <death when="1844"/>
+                    <occupation>Architect and mathematician</occupation>
+                    <note type="editorial">
+                        <p>Godwin sees P Nicholson between 1819 and 1820, and then again in 1826 and
+                            1829. Peter Nicholson hasd by then returned to London where he was
+                            engaged in a range of publishing endeaours. Godwin's association with
+                            him might well be related to his connections with Nash and Soane at this
+                            time (esp 1820) when he is looking for someone to take William junr on
+                            as an apprentice. Indeed, he does then take William with him on one occasion in 1820 after an exchange of letters.</p>
+                        <p>The 1804 Nicholson (P H) is not connected - it is not Godwin's practice
+                            to add initials in brackets and PH probably rfers to the topic of his
+                            writing to William Nicholson.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>The Builder</title>, 1849, Vol.7,
+                        p.615-616</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

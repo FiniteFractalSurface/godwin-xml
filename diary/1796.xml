@@ -2590,7 +2590,7 @@
                                 ref="/people/FEN01.html"> Fenwick</persName> dines</seg>: <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/WOR01.html"
                                 >Wodsworth</persName></seg> &amp; <seg type="dMeeting" subtype="CG"
-                                ><persName>Pinney</persName> call</seg>: <seg type="dMeal"
+                                    ><persName ref="/people/PIN04.html">Pinney</persName> call</seg>: <seg type="dMeal"
                             subtype="S">sup, w. <persName>W.</persName>, at <persName
                                 ref="/people/MON01.html"><placeName type="venue"
                                     >Montagu's</placeName></persName></seg>.</ab>
@@ -4644,7 +4644,7 @@
                             Brown, <persName ref="/people/KIN08.html">E Kingsman</persName>, Pienne,
                                 <persName ref="/people/STU05.html"> E Sturt,</persName>
                             <persName type="nah" ref="/people/FAN01.html"> O Fancourt</persName>,
-                            Dignum, S Paterson <add><emph rend="faint">Eslic</emph></add></p>
+                            Dignum, <persName ref="/people/PAT02.html">S Paterson </persName><add><emph rend="faint">Eslic</emph></add></p>
                         <p rend="centered">1799</p>
                         <p>S Elwes, <persName ref="/people/KIN10.html">D Kingsman</persName>,
                             Ingenhousz, Bruhl, lady Granard, Skeys, Caldwel, Cartwright (maj.),

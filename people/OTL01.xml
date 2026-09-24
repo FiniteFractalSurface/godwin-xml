@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="OTL01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>NAME</forename>
+                        <surname>Otley</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's notes: Otley appeared 7 times between 1790 and 1792 always
+                            with Holcroft and mostly with known musicians (Clementi, Shield, Bosse).
+                            On 6.7.1792 Godwin listed 8 guests at Holcroft's and added 'quartets' -
+                            all the other 7 can be shown to be professional or amateur musicians
+                            which suggests Otley was a musician too Henry Otley shoemaker of
+                            Cranbourn Alley will PCC 1771 widow Elizabeth; 1773 Henry Otley appr to
+                            Matthew Wall hosier and glover St Anne Soho; E and M Otley haberdashers
+                            Cranbourn St 1781-7; Henry Otley hosier Cranbourn St voted Rodney and
+                            Lincoln 1780; Henry Otley marr Mary Bird St Ann Soho; Edward John Otley
+                            son of Henry and Mary St Ann Soho; Henry Otley hosier 7 Sidneys Alley St
+                            Anns voted Hood 1788, Fox and Tooke 1796; Fox and Gardner 1802; Paull 1806;
+                            Hy O jr appr to Hy O Sidneys Alley 1805; Hy O signed petition 1808 along
+                            with T Wishart calling for enquiry; Henry Otley will PCC 1835 of 24
+                            Brompton Row wife Mary (will PCC 1843), sons Henry (will PCC 1838),
+                            Thomas Watson, Edward John (will PCC 1857 publisher of Conduit St, Han
+                            Sq), Charles, dau Mary wife of Charles Brown of Brompton, niece Amelia
+                            Woodhouse, son Frederick, sister Ann Otley of Manor Pl, Chelsea and her
+                            dau Ann George and (P)richard Otley (brothers) woollen drapers and men's
+                            mercers Holborn and Bond Street 1774-90+ subscr to Ignatius Sancho 1782
+                            William O Esq, Drury O Esq, Miss O, Mrs M O, Miss S O; Drury O 1784
+                            Clarges St, St Geo Han Sq; subscr to Maty's Sermons 1788 Drury, Adam and
+                            Thomas O; Boyle's 1792 Drury O Esq 49 Charlotte St, Rathbone Pl; Drury O
+                            Esq 10 Brianston St </p> 
+                        <p>We have not coded the 1815 and 1834 Otley under this name.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

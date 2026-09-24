@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="POR04" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Pierce Patrick Walsh</forename>
+                        <surname>Porter</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1768">
+                        <placeName/>
+                    </birth>
+                    <death when="1809"/>
+                    <occupation>Collector</occupation>
+                    <note type="editorial">
+                        <p>Ed Pope notes: Walsh Porter in 1808 was Pierce Patrick Walsh Porter,
+                            painter; will PCC 1812 of St James Westminster. The exhibition seems to
+                            have been of Porter's collection of paintings: The estate sale of his
+                            painting collection at Christie’s in April 1810 includes works by
+                            Bellini, Rubens, Raphael, Claude, Poussin, Vandyke and Rembrandt. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

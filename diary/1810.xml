@@ -886,7 +886,7 @@
                             type="dMeeting" subtype="C">Call on <persName ref="/people/COO09.html" type="nah"><placeName
                                     type="venue">Cooper, O S S H</placeName></persName><hi
                                 rend="sup">n</hi></seg> &amp; <seg type="dMeeting" subtype="C"
-                                    ><persName><placeName type="venue"
+                                    ><persName ref="/people/PEA02.html"><placeName type="venue"
                                 >Pearsal</placeName></persName></seg>: <seg type="dMeal"
                             subtype="TG"><persName ref="/people/BOI01|BOI04.html">mrs &amp; miss
                                 Boinville</persName>, &amp; <persName ref="/people/NEW01.html">2
@@ -2031,7 +2031,7 @@
                                         <persName ref="/people/LET01.html">Letterman</persName>, <persName
                                     ref="/people/LAC01.html">Lackington</persName>, <persName
                                     ref="/people/ORM01.html">Orme</persName>,
-                                    <persName>Phipps</persName>, &amp;c</seg></seg>: <seg
+                                        <persName ref="/people/PHI04.html">Phipps</persName>, &amp;c</seg></seg>: <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/TUR01.html">T
                                 T</persName> calls</seg>.</ab>
                     <ab type="dDay" xml:id="g1810-06-30"><date when="1810-06-30">30. Sa.</date><seg
@@ -2126,7 +2126,7 @@
                     <ab type="dDay" xml:id="g1810-07-10"><date when="1810-07-10">10. Tu.</date><ref
                             type="dWrote" subtype="letter">Write to <persName
                                 ref="/people/HOA01.html">P Hoare</persName></ref>. <seg
-                            type="dMeeting" subtype="CG"><persName>Phipps</persName></seg>, <seg
+                                    type="dMeeting" subtype="CG"><persName ref="/people/PHI04.html">Phipps</persName></seg>, <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/BER01.html"
                                 type="nah">Berry</persName><hi rend="sup">na</hi></seg>, <seg
                                     type="dMeeting" subtype="CG"><persName ref="/people/MAC04.html">M<hi rend="sup"
@@ -2385,7 +2385,7 @@
                     <ab type="dDay" xml:id="g1810-07-31"><date when="1810-07-31">31. Tu.</date><seg
                             type="dMeeting" subtype="See"><placeName>Guildhall</placeName>
                                 (<persName ref="/people/TAB01.html">Tabart</persName>); <seg
-                                type="dMeeting" subtype="Adv">adv. <persName>Phipps</persName>,
+                                    type="dMeeting" subtype="Adv">adv. <persName ref="/people/PHI04.html">Phipps</persName>,
                                     <persName ref="/people/LAC01.html">Lackington</persName>,
                                     <persName>Rivington</persName>, <persName ref="/people/HAR16.html">Harris</persName>,
                                     <persName ref="/people/MIL01.html">Miles</persName> &amp;
@@ -2527,7 +2527,7 @@
                                 J</persName></ref>: <seg type="dMeeting" subtype="See"
                                 ><placeName>Guildhall</placeName>; <persName>Cullen</persName>,
                                 <persName ref="/people/TAB01.html">Tabart</persName>,
-                                <persName>Phipps</persName>, <persName ref="/people/HAM03.html"
+                                    <persName ref="/people/PHI04.html">Phipps</persName>, <persName ref="/people/HAM03.html"
                                 >Hannam</persName>, <persName ref="/people/WHI03.html"
                                     >White</persName>, <persName ref="/people/LET01.html">Letterman</persName> &amp; <persName
                                 ref="/people/BEN01.html">Bensley</persName></seg>: <ref
@@ -2628,7 +2628,7 @@
                                     ref="/people/BEN01.html">Bensley</persName>,
                                     <persName ref="/people/LET01.html">Letterman</persName>, <persName>Bingham</persName>,
                                     <persName ref="/people/HAM03.html">Hannam</persName>,
-                                    <persName>Phipps</persName>, <persName ref="/people/WHI03.html"
+                                    <persName ref="/people/PHI04.html">Phipps</persName>, <persName ref="/people/WHI03.html"
                                     >White</persName> &amp;
                             <persName>Watkinson</persName></seg></ref>: <seg type="dMeal"
                             subtype="SG"><persName ref="/people/TUR01.html">T T</persName> &amp;
@@ -2638,7 +2638,7 @@
                     <ab type="dDay" xml:id="g1810-08-21"><date when="1810-08-21">21. Tu.</date><seg
                             type="dMeeting" subtype="See"><placeName>Guildhall</placeName>;
                                 <persName ref="/people/TAB01.html">Tabart</persName>,
-                                <persName>Cullen</persName>, <persName>Phipps</persName>, <persName
+                            <persName>Cullen</persName>, <persName ref="/people/PHI04.html">Phipps</persName>, <persName
                                 ref="/people/HAM03.html">Hannam</persName>,
                                 <persName>Bingham</persName>, <persName>Parker</persName>, <persName
                                 ref="/people/WHI03.html">White</persName>,
@@ -2709,7 +2709,7 @@
                             target="/bibl/te1832.html">Leicester’s Commonwealth, p. 23</ref>. <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/ORM01.html"
                                 >Orme</persName></seg> &amp; <seg type="dMeeting" subtype="CG"
-                                ><persName>Phipps</persName> call</seg>: <seg type="dMeeting"
+                                    ><persName ref="/people/PHI04.html">Phipps</persName> call</seg>: <seg type="dMeeting"
                             subtype="M">meet <persName ref="/people/LAM01.html"
                             >Lamb</persName></seg>: <seg type="dMeeting" subtype="CG"><persName
                                 ref="/people/TUT01.html">Tuthill</persName> calls</seg>: <seg
@@ -2884,7 +2884,7 @@
                             type="dText" subtype="read" target="/bibl/te1832.html">Leicester, p.
                             178, fin</ref>. <seg type="dMeeting" subtype="See"><placeName>Baptist C
                                 H</placeName>; <persName ref="/people/TAB01.html">Tabart</persName>,
-                                <persName>Phipps</persName>, <persName ref="/people/HUR01.html"
+                                <persName ref="/people/PHI04.html">Phipps</persName>, <persName ref="/people/HUR01.html"
                                 >Hurst</persName> &amp; <persName>Kirkman</persName></seg>: <seg
                                     type="dMeeting" subtype="C">call on <persName ref="/people/LET01.html"><placeName type="venue"
                                     >Letterman</placeName></persName></seg>: <seg type="dMeeting"
@@ -3173,7 +3173,7 @@
                                 ref="/people/PHI01.html">Phillips</persName>, <persName
                                 ref="/people/TAB01.html">Tabart</persName>, <persName
                                 ref="/people/HAM03.html">Hannam</persName>,
-                                <persName>Phipps</persName>, <persName ref="/people/HUR01.html"
+                                    <persName ref="/people/PHI04.html">Phipps</persName>, <persName ref="/people/HUR01.html"
                                     >Hurst</persName>, <persName ref="/people/LET01.html">Letterman</persName>, <persName
                                 ref="/people/LAC01.html">Lackington</persName>,
                                 <persName>Rivington</persName> &amp;

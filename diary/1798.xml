@@ -684,7 +684,7 @@
                                 ref="/people/JOH01.html"><placeName type="venue"
                                     >Johnson's</placeName></persName>, w. <persName
                                 ref="/people/FUS01.html">Fuseli</persName>, <persName
-                                ref="/people/BON01.html">Bonnycastle</persName>, <persName>col.
+                                    ref="/people/BON01.html">Bonnycastle</persName>, <persName ref="/people/PAT03.html">col.
                                 Paterson</persName> &amp; <persName>Rose</persName>; <seg
                                 type="dMeeting" subtype="Adv">adv. <persName>Tattersal</persName>
                                 &amp; <persName>Stephens</persName></seg></seg>.</ab>
@@ -1412,7 +1412,7 @@
                             <ref type="dText" subtype="read" target="/bibl/te0488.html">Clarissa, p.
                             380; Vol. VIII, p. 80</ref>. <seg type="dMeal" subtype="TG"><persName
                                 ref="/people/MON01.html">Montagu</persName> &amp;
-                                <persName>Pinney</persName> at tea</seg>.</ab>
+                                <persName ref="/people/PIN04.html">Pinney</persName> at tea</seg>.</ab>
                     <ab type="dDay" xml:id="g1798-04-25"><date when="1798-04-25">25. W.</date><ref
                             type="dWrote" subtype="write" target="/works/leon01.html">Adept, p. 89,
                             90, 91/2</ref>. <ref type="dText" subtype="read"
@@ -3215,7 +3215,7 @@
                             subtype="DG"><persName ref="/people/MAR01.html">M</persName> dines; <seg
                                 type="dMeeting" subtype="Adv">adv. <persName
                                     ref="/people/MON01.html">Montagu</persName> &amp;
-                                    <persName>Pinney</persName></seg></seg>.</ab>
+                                <persName ref="/people/PIN04.html">Pinney</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1798-09-21"><date when="1798-09-21">21. F.</date><ref
                             type="dText" subtype="read" target="/bibl/te0532.html">Lucan, Lib. VI,
                             195</ref>: <ref type="dText" subtype="read" target="/bibl/te0874.html"
@@ -3331,7 +3331,7 @@
                             type="dMeeting" subtype="C">call on <persName type="nah"
                                 ref="/people/FOU02.html"><placeName type="venue">mrs
                                     Foulkes</placeName></persName>; <seg type="dMeeting"
-                                subtype="Adv">adv. <persName>mrs Platt</persName> &amp;
+                                        subtype="Adv">adv. <persName ref="/people/PLA05.html">mrs Platt</persName> &amp;
                                     <persName>Smiths</persName></seg></seg>.</ab>
                 </div>
                 <div type="dMonth" xml:id="g1798-10">

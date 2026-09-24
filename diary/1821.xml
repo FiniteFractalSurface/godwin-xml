@@ -375,7 +375,7 @@
                            Mulready </placeName></persName><hi rend="sup">n</hi></seg>: <seg
                      type="dMeal" subtype="D">dine at <persName ref="/people/HUM01|HUM02.html"
                            ><placeName type="venue">Hume’s</placeName></persName>, w. <persName>D<hi
-                           rend="sup">r</hi> Cambridge</persName>, <persName>2 O’Hanlons</persName>,
+                                 rend="sup">r</hi> Cambridge</persName>, <persName ref="/people/OHA02.html">2 O’Hanlons</persName>,
                         <persName>Mayhew</persName>, <persName>Bunnel</persName> &amp;<persName
                         ref="/people/GOD07.html"> W</persName></seg>.</ab>
                <ab type="dDay" xml:id="g1821-02-19"><date when="1821-02-19">19. M.</date><seg
@@ -1563,7 +1563,7 @@
                         Smith</persName></seg>: <seg type="dMeeting" subtype="C">call on <persName
                         ref="/people/HUM02.html"><placeName type="venue">mrs
                         Hume</placeName></persName>; <seg type="dMeeting" subtype="Adv"
-                           >adv.<persName> O’Hanlon</persName></seg></seg>: <seg type="dMeeting"
+                           >adv.<persName ref="/people/OHA02.html"> O’Hanlon</persName></seg></seg>: <seg type="dMeeting"
                      subtype="M">meet <persName>D<hi rend="sup">r</hi> Evans</persName></seg>.</ab>
                <ab type="dDay" subtype="NotLonMJ" xml:id="g1821-07-19"><date when="1821-07-19">19.
                      Th.</date><ref type="dWrote" subtype="cala" target="/works/grec02.html">Greece,
@@ -1626,7 +1626,7 @@
                         >Poole</persName></ref>. <ref type="dText" subtype="read"
                      target="/bibl/te2764.html">Marino, st. 185</ref>. <seg type="dMeeting"
                      subtype="CG"><persName ref="/people/ROS01.html">Rosser</persName> calls</seg>:
-                     <seg type="dMeeting" subtype="C">call on <persName><placeName type="venue"
+                  <seg type="dMeeting" subtype="C">call on <persName ref="/people/PEA02.html"><placeName type="venue"
                            >Pearsal</placeName></persName></seg> &amp; <seg type="dMeeting"
                      subtype="C"><persName ref="/people/BOO01.html"><placeName type="venue"
                            >Booth</placeName></persName>; <seg type="dMeeting" subtype="Adv">adv.
@@ -1700,7 +1700,7 @@
                            ref="/people/KEN01.html">Kenney</persName></seg></ref>: <seg
                      type="dMeeting" subtype="M">meet <persName ref="/people/BRO04.html"
                         >Broughton</persName></seg>. <seg type="dMeeting" subtype="C">Call on
-                           <persName><placeName type="venue">Pearsal</placeName></persName></seg>.
+                           <persName ref="/people/PEA02.html"><placeName type="venue">Pearsal</placeName></persName></seg>.
                      <emph rend="small"><ref type="dEvent" subtype="Death"><persName
                            ref="/people/INC01.html"> E Inchbald</persName> dies</ref>. </emph><ref
                      type="dEvent" subtype="Death"><persName ref="/people/HAR06.html"
@@ -1708,7 +1708,7 @@
                <ab type="dDay" xml:id="g1821-08-02"><date when="1821-08-02">2. Th. </date><ref
                      type="dWrote" subtype="write" target="/works/grec02.html">Greece, p. 145</ref>.
                      <ref type="dText" subtype="read" target="/bibl/te2764.html">Marino, st.
-                     121</ref>. <seg type="dMeeting" subtype="CG"><persName>Pearsal</persName></seg>
+                        121</ref>. <seg type="dMeeting" subtype="CG"><persName ref="/people/PEA02.html">Pearsal</persName></seg>
                   &amp; <seg type="dMeeting" subtype="CG"><persName>Hawkins</persName> call</seg>:
                      <seg type="dMeeting" subtype="C">call on <persName><placeName type="venue"
                            >Pain</placeName></persName>, <placeName>Lyons

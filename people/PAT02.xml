@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="PAT02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Samuel</forename>
+                        <surname>Paterson</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1728">
+                        <placeName/>
+                    </birth>
+                    <death when="1802"/>
+                    <occupation>Bookseller and auctioneer</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope notes: Paterson (Coryat) was certainly Samuel Paterson DNB
+                            1728-1802 who used the pseudonym Coryat for his Another Traveller! 1767.
+                            He died from a fall on 29.11.1802 so could have also been the next two
+                            Paterson entries at Johnson's in 1799 and 1802. We have made a separate
+                            entry for Col Paterson - (who appears in 1798) but it is then unclear to
+                            whom entries prior to 1802 refer; and also unclear to whom references
+                            post 1802 are. (Col Paterson was Daniel
+                            Paterson DNB 1738-1825).</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

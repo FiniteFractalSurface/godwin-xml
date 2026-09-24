@@ -414,7 +414,7 @@
                                 >C</persName></seg>: <seg type="dMeal" subtype="Ta">tea <persName
                                 ref="/people/FOU01.html"><placeName type="venue"
                                     >Foulkes's</placeName></persName>, w.
-                                <persName>Parker</persName>, <persName>Paterson</persName>,
+                                    <persName ref="/people/PAR11.html">Parker</persName>, <persName ref="/people/PAT02.html">Paterson</persName>,
                                     <persName ref="/people/BEL04.html">Bell
                                     </persName> &amp;
                         <persName>Whitfield</persName></seg>.</ab>
@@ -433,7 +433,7 @@
                                 >Smith</persName>, <persName ref="/people/RIC05.html">G.
                                 Richter</persName>, <persName>Hinkley</persName>, <emph
                                 rend="deleted"><persName>Bedder</persName></emph>,
-                                <persName>Pearce</persName> &amp;
+                                        <persName ref="/people/PEA02.html">Pearce</persName> &amp;
                         <persName>Walker</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1795-02-03"><date when="1795-02-03">3. W. </date><ref
                             type="dEvent" subtype="PersEvent" target="/events/pe0495.html"/><seg
@@ -449,7 +449,7 @@
                                     >mrs Jardine</placeName></persName></seg>: <seg type="dMeal"
                             subtype="D">dine at <persName ref="/people/FOU01.html"><placeName
                                     type="venue">Foulkes's</placeName></persName>, w.
-                                <persName>Paterson</persName>; <seg type="dMeeting" subtype="Adv"
+                                        <persName ref="/people/PAT02.html">Paterson</persName>; <seg type="dMeeting" subtype="Adv"
                                 >adv. <persName ref="/people/HOL01.html">H<hi rend="sup"
                                     >t</hi></persName></seg></seg>: <seg type="dMeal" subtype="S"
                             >sup at <persName ref="/people/FEN01|FEN03.html"><placeName type="venue"
@@ -644,7 +644,7 @@
                                 ><persName ref="/people/COO01.html">C</persName></seg> call: <seg
                             type="dMeal" subtype="D">dine at <persName ref="/people/FOU01.html"
                                     ><placeName type="venue">Foulkes's</placeName></persName>, with
-                                <persName>Parker</persName>; <seg type="dMeeting" subtype="Adv">adv.
+                                    <persName ref="/people/PAR11.html">Parker</persName>; <seg type="dMeeting" subtype="Adv">adv.
                                     <persName ref="/people/ROB01.html">Robinson</persName>,
                                     <persName>I B.</persName></seg></seg>, <seg type="dMeeting"
                             subtype="other"><orgName>Philomaths</orgName>, <seg type="dTopic"
@@ -928,7 +928,7 @@
                                 <persName>sir F. Rogers</persName>, <persName>Smith surg<hi
                                     rend="sup">n</hi></persName>, <persName>Young</persName>,
                                 <persName ref="/people/ROB01.html">Robinson</persName>,
-                                <persName>Parker</persName> &amp; <persName ref="/people/HOL01.html"
+                                <persName ref="/people/PAR11.html">Parker</persName> &amp; <persName ref="/people/HOL01.html"
                                 >Hts</persName>; <seg type="dMeeting" subtype="Adv">adv.
                                     <persName>Woods</persName> &amp; <persName
                                     ref="/people/WIL01.html">miss
@@ -1549,7 +1549,7 @@
                                 ref="/people/SHI01.html">Shield</persName>, <persName
                                 ref="/people/KIN01.html">King</persName>, <persName
                                 ref="/people/FOU01.html">Foulkes</persName>,
-                                <persName>Parker</persName>, <persName>Shuter</persName>, <persName
+                                        <persName ref="/people/PAR11.html">Parker</persName>, <persName>Shuter</persName>, <persName
                                 ref="/people/SMI01.html">Smith</persName>, <persName
                                 ref="/people/BAT01.html">Batty</persName>, <persName
                                 ref="/people/FIR02.html">Firth</persName> &amp; <persName
@@ -1637,7 +1637,7 @@
                                 >Dyson</persName> call</seg>: <seg type="dMeal" subtype="D">dine at
                                 <persName ref="/people/FOU01.html"><placeName type="venue"
                                     >Foulkes's</placeName></persName>, w.
-                                <persName>Parker</persName>; talk of <seg type="dTopic"
+                                    <persName ref="/people/PAR11.html">Parker</persName>; talk of <seg type="dTopic"
                             >Xty</seg></seg>: <seg type="dMeeting" subtype="C">call on <persName
                                 ref="/people/JEN02.html"><placeName type="venue">mrs
                                     Jennings</placeName></persName></seg>.</ab>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="OWE04" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>William</forename>
+                        <surname>Owen</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1759">
+                        <placeName/>
+                    </birth>
+                    <death when="1835"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's notes: Probably William Owen (Pughe) DNB 1759-1835. His
+                            Cambrian Biography was published London 1803 with no publisher named and
+                            the final instalment of his Welsh and English Dictionary was printed the
+                            same year for Evan Williams, Strand successor to the late Richmond
+                            Blamire (his will PCC 1799). So no clear link to Richard Phillips, but
+                            Godwin's reading of Davies and Owen on 14.4.1805 the day after Owen had
+                            called suggests Owen had lent him his own work, and Celtic Researches
+                            (published 1804) by Edward Davies DNB 1756-1831, in the preface to which
+                            the work of Mr Owen was referred to. (GD website has te1551 and te1552
+                            unable to identify; cala is the French word meaning Godwin browsed here
+                            and there in the texts). DNB states Pughe and Davies were acquainted,
+                            and Edward Williams DNB 1747-1826 whom Godwin had met in 1795 was
+                            friends of both, and Owen also knew Sharon Turner whom Godwin had known
+                            since 1792. Owen took the name of Pughe in 1806, and apparently from
+                            1803 onwards was a follower of Joanna Southcott.  </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

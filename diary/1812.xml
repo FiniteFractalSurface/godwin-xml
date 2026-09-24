@@ -1327,7 +1327,7 @@
                                 <persName>Boltons</persName>, <persName>Horns</persName>,
                                 <persName>Gumfords</persName>, <persName ref="/people/WEB01.html"
                                 >Webbs</persName>, <persName ref="/people/MIL03.html"
-                                >Miller</persName>, <persName>Phipps</persName>,
+                                    >Miller</persName>, <persName ref="/people/PHI04.html">Phipps</persName>,
                                 <persName>Pocock</persName>, <persName>miss Biggs</persName>,
                                 <persName ref="/people/IML01.html">F</persName> &amp; <persName
                                 ref="/people/CLA03.html">J</persName></seg></ab>
@@ -1666,7 +1666,7 @@
                             target="/events/ex0051.html"> Richter’s Exhibition; <seg type="dMeeting"
                                 subtype="Adv">adv. <persName ref="/people/RIC04.html"
                                     >Richter</persName></seg></ref>: <seg type="dMeeting"
-                            subtype="C">call on <persName><placeName type="venue"
+                                        subtype="C">call on <persName ref="/people/PIN05.html"><placeName type="venue"
                                     >Pinkard</placeName></persName></seg>. <ref type="dText"
                             subtype="read" target="/bibl/te1583.html">Nimphidia, pp. 18</ref>.</ab>
                     <ab type="dDay" xml:id="g1812-06-04"><date when="1812-06-04">4. Th. </date><ref
@@ -2039,7 +2039,7 @@
                             220</ref>.<seg type="dMeeting" subtype="C"> Call on <persName
                                 ref="/people/ADA04.html"><placeName type="venue"
                                 >Adams</placeName></persName></seg>, <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                    subtype="C"><persName ref="/people/PEA02.html"><placeName type="venue"
                                 >Pearsal</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName ref="/people/GIL02.html"><placeName type="venue"
                                     >Gillet</placeName></persName></seg>: <seg type="dMeeting"
@@ -2126,7 +2126,7 @@
                                 Hitchener </persName>call</seg>; <seg type="dMeal" subtype="D">dine
                             at <persName ref="/people/HAM02.html"><placeName type="venue"
                                     >Hamond’s</placeName></persName></seg>: <seg type="dMeeting"
-                            subtype="CG"><persName>Phipps</persName> calls</seg>: <seg type="dMeal"
+                                        subtype="CG"><persName ref="/people/PHI04.html">Phipps</persName> calls</seg>: <seg type="dMeal"
                             subtype="SG"><seg type="dMeeting" subtype="Sleeps"><persName
                                     ref="/people/HIT01.html">miss Hitchener</persName> sups &amp;
                                 sleeps</seg></seg>.</ab>

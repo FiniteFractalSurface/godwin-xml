@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="PAR12" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>NAME</forename>
+                        <surname>SURNAME</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's notes: 5.6.1813 call on Parker, Oxford / 17.6.1813 write to
+                            Parker / 1.10.1814 C(harles) C(lairmont) from Parker / 1.11.1814 again /
+                            2.11.1814 again / 22.11.1814 again 1813 entry Joseph Parker bookseller
+                            Oxford, and perhaps the next 5 entries above. No book trade Parker in
+                            London 1810 either in bbti or in Holdens directory 1811 for Tabart's
+                            bankruptcy proceedings at Guildhall. Perhaps an attorney but too many to
+                            choose from, and only noted that one time out of 5 or 6 sessions for
+                            Tabart's bankruptcy.</p>
+                        <p> William Upcott mentions using Parker's Cart as a means to send mail and
+                            books from London to Oxford in A Collector Collected (RHS, 2025), p.
+                            211 - this suggests a faily lively trade between the two cities. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

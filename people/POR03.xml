@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="POR03" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Robert Ker</forename>
+                        <surname>Porter</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1777">
+                        <placeName/>
+                    </birth>
+                    <death when="1842"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p> Robert Ker Porter DNB 1777-1842 see the event tag of 2.5.1800 which
+                            refers to Godwin's attendance at the showing of Porter's hugely popular
+                            panorama of The Taking of Seringapatam in the fourth Mysore War. Porter
+                            was in Russia for several years and then fo a long period after 1815
+                            Consul to Venezuela (but he was back in 1835). His brother, William Ogilvie Porter, seems to have
+                            lived largely in Bristol. It seems possible that the Porters in 1800 are
+                            references to this porter. The day after the exhibition Godwin sees a
+                            Porter at Bedford House (an 'adv'), and there is an 'adv' a few day
+                            before at a RA exhibition (and then a slightly odd entry at the Milton
+                            Gallery on May 17 1800, which may also be him). The additional oddity is
+                            that the express reference to R K Porter only occurs in July 1802, but
+                            this might be because the vast majority of his previous contacts have
+                            been 'adv' in character - and thus not a positive meeting with. But
+                            this makes it less probable that the Porter who appears on Godwin's
+                            travels later in May at Sheridan's is this Porter, and this has not been coded under this person.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

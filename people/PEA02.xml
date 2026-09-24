@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="PEA02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>James </forename>
+                        <surname>Pearsall</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Silk Manufacturer</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's Notes: James Pearsall silk manufacturer of London and Taunton
+                            Sun Fire 1802 54 Bread St, 1814 3 Charles St City Rd 1815 145 Cheapside
+                            will PCC 1841 James Pearsall silkman 145 Cheapside, will PCC 1846 James
+                            Pearsall late silkman now gent of Clerkenwell, will PCC 1848 Rebecca
+                            Pearsall widow of Islington. A James Pearsall Esq was a steward 1812 for
+                            Lancaster's system of education, a common councilman Faringdon Within
+                            1816, member of Socy for Encoragement Arts, Manufctrs, Commerce 1817.
+                            There was also a James Pearsall attorney of 21 Holborn Court Grays Inn
+                            1800 Law List</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

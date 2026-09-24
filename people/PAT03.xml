@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="PAT03" sex="1">
+                    <persName>Colonel <roleName/>
+                        <forename>Daniel </forename>
+                        <surname>Paterson</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1738">
+                        <placeName/>
+                    </birth>
+                    <death when="1824"/>
+                    <occupation>Soldier</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's note: Colonel Paterson (27.2.1798) was probably Daniel
+                            Paterson DNB 1738-1825, although he only became Lt Col on 1.1.1798 and
+                            although Johnson never published his books of Roads, he was the only
+                            Colonel Paterson or Patterson in army lists for 1798, including militia
+                            and Indian army lists. Col Patterson of Dean St Soho subscr 1800 to
+                            Wildman was probably him. Whether the Patersons after 1802 were him I
+                            rather doubt but I can't otherwise identify them at present. </p><p>We
+                            have coded this as a single contact - but, clearly, we cannot be certain
+                            entries subsequent to his appearance are Samuel Paterson (until 1802) or
+                            Daniel.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

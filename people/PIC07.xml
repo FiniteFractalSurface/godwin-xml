@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="PIC07" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>NAME</forename>
+                        <surname>Pickering</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's note: When Godwin used an initial with a new surname in his
+                            diary it sometimes meant the person was female (but not consistently).
+                            Edward Rowland Pickering was an attorney of 8 Staples Inn in Holden's
+                            1811 and also had a house at 37 Bernard St. But the only London
+                            attorneys called Pickering in 1800 were Ralph P of Old Fish St and
+                            Thomas Nelson P of John St Bedford Row (in 1811 of 14 Paper-bldgs Temple
+                            and E. London Waterworks office 16 St Helens-place). In Holdens 1811 there
+                            was also a John Pickering attorney at Tower-royal. The only likely
+                            Pickering in the British Book Trades Index was William Pickering partner
+                            of Christopher Magnay (will PCC 1827) wholesale stationers of 55 Queen
+                            St Cheapside from 1799 to 1817. There was also a Joseph Pickering oil and
+                            colourman SunFire 1803 at 9 Hatton Wall, and SunFire 1817 at 15
+                            Skinner-st Snow-hill. Thomas Nelson Pickering attorney mentioned above
+                            was in partnership with Henry Wright, and Godwin's calls between
+                            2.12.1807 and 5.12.1807 include Wright on Wed and Fri and Pickering on
+                            Thu, Fri and Sat, but they weren't next to each other on the Friday when
+                            he called on both. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

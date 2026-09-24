@@ -100,7 +100,7 @@
                   ><placeName type="venue">Rodd</placeName></persName><hi rend="sup">n</hi></seg>:
               <ref type="dEntertainment" subtype="Theat" target="/plays/scho03.html"><placeName
                 type="CG"/>theatre, Grown children; <seg type="dMeeting" subtype="Adv">adv.
-                  <persName>O’ Hanlon</persName></seg></ref>. <emph rend="small"><ref type="dEvent"
+                  <persName ref="/people/OHA02.html">O’ Hanlon</persName></seg></ref>. <emph rend="small"><ref type="dEvent"
                 subtype="Death"><persName ref="/people/BEN05.html">miss Benger</persName>
               dies</ref>.</emph></ab>
           <ab type="dDay" xml:id="g1827-01-10"><date when="1827-01-10">10. W.</date><ref
@@ -131,7 +131,7 @@
               >Truth, p. 356</ref>. <seg type="dMeeting" subtype="C">Call on <persName><placeName
                   type="venue">Priestley</placeName></persName></seg>, <seg type="dMeeting"
               subtype="C"><persName><placeName type="venue">Howel</placeName></persName></seg> &amp;
-              <seg type="dMeeting" subtype="C"><persName><placeName type="venue"
+            <seg type="dMeeting" subtype="C"><persName ref="/people/PIC07.html"><placeName type="venue"
                   >Pickering</placeName></persName></seg>.</ab>
           <ab type="dDay" xml:id="g1827-01-13"><date when="1827-01-13">13. Sa.</date><ref
               type="dWrote" subtype="cala" target="/works/comm01.html">Commonwealth, çala (Wood,
@@ -1856,7 +1856,7 @@
                 subtype="read" target="/bibl/te3052.html">C Gerard</ref></ref>: <ref
               type="dEntertainment" subtype="Theat" target="/plays/befo01.html"><placeName type="EO"
               />theatre, Before Breakfast; <seg type="dMeeting" subtype="Adv">adv.
-                  <persName>O’Hanlon</persName></seg></ref>.</ab>
+                <persName ref="/people/OHA02.html">O’Hanlon</persName></seg></ref>.</ab>
           <ab type="dDay" xml:id="g1827-08-08"><date when="1827-08-08"><emph rend="deleted"
                 >9.</emph> 8. W.</date><ref type="dWrote" subtype="cala" target="/works/comm01.html"
               >Commonwealth, çala</ref>. <ref type="dText" subtype="read" target="/bibl/te0063.html"
@@ -2714,7 +2714,7 @@
               Morton</persName></seg></seg>: <ref type="dEntertainment" subtype="Theat"
               target="/plays/virg03.html"><placeName type="DL"/>theatre, Virginius; <seg
                 type="dMeeting" subtype="Adv">adv. <persName ref="/people/WAL02.html"
-                  >Wallace</persName>, <persName>O’Hanlon</persName> &amp; <persName
+                  >Wallace</persName>, <persName ref="/people/OHA02.html">O’Hanlon</persName> &amp; <persName
                   ref="/people/TAL01.html">Talfourd</persName></seg></ref>.</ab>
           <ab type="dDay" xml:id="g1827-11-17"><date when="1827-11-17">17. Sa.</date><ref
               type="dWrote" subtype="write" target="/works/comm01.html">Commonwealth, p. 153</ref>.
@@ -2932,7 +2932,7 @@
                   type="venue">M W S</placeName></persName></seg>: <seg type="dMeeting" subtype="CG"
                 ><persName ref="/people/COO01.html">T C</persName></seg>, <seg type="dMeeting"
               subtype="CG"><persName ref="/people/MAR01.html">M</persName></seg> &amp; <seg
-              type="dMeeting" subtype="CG"><persName type="nah">O’Hanlon</persName> call <hi
+                type="dMeeting" subtype="CG"><persName ref="/people/OHA02.html" type="nah">O’Hanlon</persName> call <hi
                 rend="sup">n</hi></seg>. <ref type="dEvent" subtype="Temp">56, 11 ½ P M</ref></ab>
           <ab type="dDay" xml:id="g1827-12-10"><date when="1827-12-10">10. M.</date><ref
               type="dWrote" subtype="cala" target="/works/comm01.html">Commonwealth, çala</ref>.
@@ -3009,7 +3009,7 @@
                 target="/bibl/te3091.html">Ireland</ref></ref>. <seg type="dMeeting" subtype="C"
               >Call on <persName ref="/people/WAL02.html" type="nah"><placeName type="venue"
                   >Wallace</placeName></persName><hi rend="sup">n</hi></seg>, <seg type="dMeeting"
-              subtype="C"><persName type="nah"><placeName type="venue"
+                    subtype="C"><persName ref="/people/OHA02.html" type="nah"><placeName type="venue"
                 >O’Hanlon</placeName></persName><hi rend="sup">n</hi></seg> &amp; <seg
               type="dMeeting" subtype="C"><persName ref="/people/MAX01.html"><placeName type="venue"
                   >Maxwel</placeName></persName></seg>: <ref type="dEntertainment" subtype="Theat"

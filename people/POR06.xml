@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="POR06" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Anna Maria/Jane</forename>
+                        <surname>Porter</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1776">
+                        <placeName/>
+                    </birth>
+                    <death when="1850"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Ed Pope suggests that the Miss Porter entries may be sisters of Robert Ker
+                            Porter, both of whom were novelists . We hav coded the Miss portr
+                            entries under this joint entry, since Godwin does not discriminate
+                            between them. However, Anna Maria died of Typhus on a visit to her
+                            brother William in Bristol in June 1832, which makes the entry in 1835
+                            to 2 Miss Porter's unlikely (and therefore not coded under this entry), as there is no evidence of a third
+                            sister. There are grounds for thinking that the entries to Miss and J Porter are to Jane, and also the Miss Porters in March 1832.
+                        It does not appear that either Robert ker or William Oglivie Porter had femal children who survived (or wee in the country) at this time.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
