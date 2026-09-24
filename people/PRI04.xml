@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="PRI04" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Sir Charles and son</forename>
+                        <surname>Price</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Ed Pope notes suggest the complexity: 3.6.1796 Price adv at E Mansel's /
+                            21.1.1801 adv at liberate Walker / 12.4.1802 adv at T C Rickman /
+                            2.5.1811 Price calls / 3.5.1811 again / 25.5.1811 again / 23.12.1811 sir
+                            C Price at Wardmote / 31.12.1813 call on Price / 3.1.1814 again /
+                            7.1.1814 again / 12.1.1814 again / 13.1.1814 again / 14.1.1814 again /
+                            18.1.1814 again / 22.1.1814 seek Price / 24.1.1814 call on Price /
+                            29.1.1814 again / 27.12.1814 clerk from Ralph Price calls / 4.1.1815
+                            call on Ralph Price / 10.4.1815 message from R Price / 20.4.1815 mrs and
+                            miss Price at tea / 14.2.1818 Price at Telford's / 4.11.1820 write to R
+                            Price / 18.11.1822 (Talfourd and) Price at theatre / 9.5.1825 (Talfourd
+                            and) Price at Lamb's / 11.5.1825 (Talfourd and) Price at theatre /
+                            24.6.1831 2 Prices at Crump's </p>
+                        <p>The first three entries were different and distant enough from each other
+                            to have been three unconnected people, given that Price was a common
+                            name. Then there was a Price that called 3 times in 1811, sir C Price, a
+                            Price called on 10 times in 1814, Ralph Price, mrs and miss Price
+                            (once), Price at Telford's (once), Price with Talfourd at theatre 3
+                            times. and 2 Prices at Crump's (once). making perhaps eleven unconnected
+                            Prices in all. Sir C Price was Charles Price Hist of Parl 1748-1818,
+                            Lord Mayor of London 1802-3 MP for London 1802-12 created baronet 1804
+                            (so nothing to do with Lady Price below). Ralph Price was probably his
+                            2nd son (born 8.2.1780 died 3.4.1860 Boase) a merchant involved in
+                            philanthropic causes, of Chatham Square (next to the Equitable Assurance
+                            Office) in 1810, and of Sydenham by 1820.</p>
+                        <p>David Price stationer and bookseller 15 Walbrook from 1791-1818 was the
+                            only likely person from British Book Trades Index. </p>
+                        <p>La.Price 27.12.1801 at John King's / 17.1.1802 Prices at John King's
+                            London Chronicle 14.2.1767 yesterday died the lady of Sir Charles Price
+                            of Blounts Court at his house in Grosvenor St. London Evening Post
+                            31.10.1771 yesterday Sir Charles Price married Miss Child of Richmond at
+                            St Margarets Westminster. General Evening Post 31.10.1786 John Buckworth
+                            Herne married dau of Sir Charles Price of Blounts Court. Star 12.1.1795
+                            and True Briton14.1.1795 Sir Charles Price bart and John Jones Cpl 1st
+                            regt foot guards charged with "a most unnatural misdemeanour" (in
+                            custody 17.12.1794 Sir Charles released 19.12.1794 John Jones released
+                            10.1.1795). Jackson's Oxford Journal 16.7.1810 at Blounts Court died
+                            Lady Price aged 85. Blounts Court was near Henley-on-Thames. Also
+                            possibly Lydia Ann who first married Sir Rose Price (died 1765) in the
+                            Carribean, and then married his brother Sir Charles Price DNB
+                            1732/3-1788, but I could find no record of her death. There was also a
+                            pretended(?) baronet called Sir Edward O'Brien Price who operated as a
+                            country banker in Somerset </p>
+                        <p>In the light of that complexity we have grouped Prices under two entries.
+                            This is relating to Sir Charles Price and Family. The other is sundry
+                            other Prices. But the information is largely the samee.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

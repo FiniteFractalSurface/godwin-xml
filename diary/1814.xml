@@ -51,7 +51,7 @@
                     <ab type="dDay" xml:id="g1814-01-03"><date when="1814-01-03">3. M.</date><ref
                             type="dWrote" subtype="letter">Write to <persName
                                 ref="/people/PAT01.html">Patrickson</persName></ref>. <seg
-                            type="dMeeting" subtype="C">Call on <persName><placeName type="venue"
+                                    type="dMeeting" subtype="C">Call on <persName  ref="/people/PRI05.html"><placeName type="venue"
                                     >Price</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName ref="/people/MAC04.html"
                             >Macmillan</persName></seg>, <seg type="dMeeting" subtype="C"><persName
@@ -121,9 +121,9 @@
                             C. II</ref>: <ref type="dText" subtype="cala" target="/bibl/te2182.html"
                             >Mornay, çala</ref>. <seg type="dMeeting" subtype="C">Call on <persName
                                 ref="/people/EGE02.html"><placeName type="venue"
-                                >Egerton</placeName></persName></seg>, <seg type="dMeeting"
-                            subtype="C">Price</seg> &amp; <seg type="dMeeting" subtype="C"
-                                    ><persName><placeName type="venue">Perry eng<hi rend="sup"
+                                >Egerton</placeName></persName></seg>,
+                                    <persName  ref="/people/PRI05.html">Price </persName> &amp; <seg type="dMeeting" subtype="C"
+                                        ><persName><placeName type="venue">Perry eng<hi rend="sup"
                                         >r</hi></placeName></persName></seg>: <seg type="dMeal"
                             subtype="DG"><persName ref="/people/HAM02.html">Hamond</persName> dines;
                                 <seg type="dMeeting" subtype="Adv">adv. <persName
@@ -194,7 +194,7 @@
                             >Astrophel, çala</ref>. <seg type="dMeeting" subtype="C">Call on
                                 <persName ref="/people/GEL01.html"><placeName type="venue"
                             >Gell</placeName></persName></seg>, <seg type="dMeeting" subtype="C"
-                                    ><persName><placeName type="venue"
+                                ><persName ref="/people/PRI05.html"><placeName type="venue"
                             >Price</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName ref="/people/DAV01.html"><placeName type="venue"
                                     >Davison</placeName></persName></seg>: <seg type="dMeeting"
@@ -210,7 +210,7 @@
                             type="dText" subtype="read" target="/bibl/te2181.html">Barons’ Wars, C.
                             IV, V</ref>: <ref type="dText" subtype="read" target="/bibl/te1640.html"
                             >1/3 Edward II</ref>. <seg type="dMeeting" subtype="C">Call on
-                                    <persName><placeName type="venue"
+                                <persName ref="/people/PRI05.html"><placeName type="venue"
                             >Price</placeName></persName></seg>: <seg type="dMeeting" subtype="Sk"
                             >seek <persName ref="/people/KIN01.html">King</persName></seg>: <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/HAM02.html"
@@ -225,7 +225,7 @@
                             call</seg>: <seg type="dMeeting" subtype="C">call on <persName
                                 ref="/people/KIN01.html"><placeName type="venue"
                                 >King</placeName></persName></seg>, <seg type="dMeeting" subtype="C"
-                                    ><persName><placeName type="venue"
+                                    ><persName ref="/people/PRI05.html"><placeName type="venue"
                             >Price</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName ref="/people/HAY02.html" type="nah"><placeName
                                     type="venue">Hayward</placeName></persName><hi rend="sup"
@@ -268,7 +268,7 @@
                             >Mornay, c. 13</ref>. <seg type="dMeeting" subtype="C">Call on <persName
                                 ref="/people/DAV01.html"><placeName type="venue"
                                 >Davison</placeName></persName></seg>, <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                    subtype="C"><persName ref="/people/PRI05.html"><placeName type="venue"
                                 >Price</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName> Taylor <placeName type="venue">(Gray’s
                                     Inn)</placeName></persName></seg>, <seg type="dMeeting"
@@ -329,7 +329,7 @@
                                     >White</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName ref="/people/TAY06.html"><placeName type="venue">R
                                     Taylor</placeName></persName></seg>: <seg type="dMeeting"
-                            subtype="Sk">seek <persName>Price</persName></seg>: <seg type="dMeeting"
+                                        subtype="Sk">seek <persName ref="/people/PRI05.html">Price</persName></seg>: <seg type="dMeeting"
                             subtype="CG"><persName>Gill</persName></seg> &amp; <seg type="dMeeting"
                             subtype="CG"><persName ref="/people/TAY06.html">R Taylor</persName>
                             call</seg>: <ref type="dEntertainment" subtype="Theat"
@@ -351,7 +351,7 @@
                                     <persName ref="/people/LAM01|LAM02.html"
                             >Lambs</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1814-01-24"><date when="1814-01-24">24. M. </date><seg
-                            type="dMeeting" subtype="C">Call on <persName><placeName type="venue"
+                            type="dMeeting" subtype="C">Call on <persName ref="/people/PRI05.html"><placeName type="venue"
                                     >Price</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName ref="/people/BAL01.html"><placeName type="venue"
                                     >Ballachey</placeName></persName></seg>: <seg type="dMeeting"
@@ -439,7 +439,7 @@
                             call</seg>.</ab>
                     <ab type="dDay" xml:id="g1814-01-29"><date when="1814-01-29">29. Sa.</date><ref
                             type="dText" subtype="read" target="/bibl/te2185.html">Patronage, p.
-                            418</ref>. <seg type="dMeeting" subtype="C">Call on <persName><placeName
+                            418</ref>. <seg type="dMeeting" subtype="C">Call on <persName ref="/people/PRI05.html"><placeName
                                     type="venue">Price</placeName></persName></seg>, <seg
                             type="dMeeting" subtype="C"><persName ref="/people/BAL01.html"
                                 >Ballachey</persName></seg> &amp; <seg type="dMeeting" subtype="C"
@@ -4214,7 +4214,7 @@
                             type="dText" subtype="read" target="/bibl/te2264.html">Harrington, C.
                             XVI</ref>: <ref type="dText" subtype="read" target="/bibl/te2270.html"
                             >Spenser, Letters</ref>. <seg type="dMeeting" subtype="CG"
-                                ><persName>Clerk</persName> from <seg type="dTopic"><persName>Ralph
+                                ><persName>Clerk</persName> from <seg type="dTopic"><persName  ref="/people/PRI04.html">Ralph
                                     Price</persName></seg> calls</seg>.</ab>
                     <ab type="dDay" xml:id="g1814-12-28"><date when="1814-12-28">28. W.</date><ref
                             type="dText" subtype="read" target="/bibl/te2271.html">Spenser,

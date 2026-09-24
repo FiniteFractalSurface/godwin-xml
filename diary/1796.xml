@@ -2547,7 +2547,7 @@
                                 type="dTopic">massacre</seg></seg>: <seg type="dMeeting" subtype="C"
                             >call on <persName ref="/people/REY03.html"><placeName type="venue">E
                                     Mansel</placeName></persName> (<seg type="dMeeting"
-                                subtype="Adv">adv. <persName>Price</persName></seg>)</seg>, <seg
+                                        subtype="Adv">adv. <persName ref="/people/PRI05.html">Price</persName></seg>)</seg>, <seg
                             type="dMeeting" subtype="C"><persName ref="/people/ALD02.html"
                                     ><placeName type="venue">A A</placeName></persName> (<seg
                                 type="dMeeting" subtype="Adv"><persName>adv.
@@ -3993,7 +3993,7 @@
                                     type="venue">H Tooke['s,?]</placeName></persName> w. <persName
                                 ref="/people/BOS02.html">Bosville</persName>, <persName
                                 ref="/people/VAU99.html">Vaughan</persName>,
-                                <persName>Preston</persName>, <persName
+                                <persName ref="/people/PRE03.html">Preston</persName>, <persName
                                 ref="/people/SCO05|SCO04.html">Scotts</persName>, <persName
                                 ref="/people/WIN02.html">Winckelmann</persName> &amp; <persName
                                 ref="/people/HAR02.html">Hardy</persName></seg>.</ab>
@@ -4389,7 +4389,7 @@
                                     ref="/people/GRE11.html">Gregson</persName> 1774
                             Evans</emph></p>
                         <p rend="centered">1777</p>
-                        <p>Howe, Tho. Rogers, Price</p>
+                        <p>Howe, Tho. Rogers, <persName ref="/people/PRI02.html">Price</persName></p>
                         <p rend="centered">1778</p>
                         <p>Bott, Lister, Corrie, <persName ref="/people/FAW01.html"
                                 >Fawcet</persName></p>

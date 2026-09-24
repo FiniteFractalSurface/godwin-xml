@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="PRE03" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>SUNDRY</forename>
+                        <surname>Preston</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's survey of the possibilities:5.3.1791 at Timothy Hollis /
+                            18.9.1796 at Horne Tooke's: Isaac Preston admitted Lincolns inn 1769,
+                            eldest son by 2nd wife of Isaac Preston deceased (will PCC 1768) of
+                            Beeston St Laurence Norfolk; subscr to Jebb's Works 1787, Law List 1793
+                            counsel Norfolk circuit, recorder of Lynn, died 6.5.1796, will PCC 1796.
+                            Likely the Hollis entry in 1791 but cannot be the Tooke's entry as he
+                            was dead. </p>
+                        <p>Just possibles are William Preston DNB 1750-1807 dramatist
+                            lived Dublin, Thomas Preston DNB 1774-1850 for the Tooke's entry and
+                            William Preston DNB 1742-1818 freemason 19.3.1807 call on Nicholson, for
+                            M(ary) J(ane); adv. Preston / 20.4.1819 Ogilvie and Preston call (not
+                            seen) Both these could have been Thomas Preston (DNB 1774-1850) though
+                            not especially likely.. A Thomas Preston of Higher Ardwick, Lancashire
+                            sent Godwin a long letter re: Malthus dated 4.4.1821 (Bodleian Abinger
+                            MS b.1.f.7-8). He appeared in Pigot's 1821 directory as gent of Higher
+                            Ardwick and in Baines's 1824 as gent of 5 Leigh-place, Ardwick, but I
+                            could find no more about him. Probably not any of the diary Prestons and
+                            clearly not Thomas Preston (1774-1850) about whom I have found some
+                            information not in DNB. He was bapt at St Sepulchre 20.3.1774 son of
+                            Thomas and Ann Preston and the baptism record gave his birth date as
+                            22.2.1774 exactly as stated in Preston's own autobiography (1817). His
+                            older siblings were Benjamin born 14.7.1766 bapt 7.8.1766,/ Thomas born
+                            11.6.1768 bapt 3.7.1768 buried 1.4.1771 from Old Baily / Joseph born
+                            23.11.1769 bapt 4.12.1770 all at St Sepulchre. His father's death I
+                            couldn't find but it must have happened soon after (or even before) his
+                            birth. His mother remarried at St Luke Old St 23.1.1775 as otp wid X her
+                            mark to John Osborne otp bach. This is confirmed by the apprenticeship
+                            of Benjamin son of Thomas Preston late of Huggin Lane watchmaker
+                            deceased to John Osborne of Wood-st London silversmith of Goldsmiths co.
+                            on 2.8.1780. John Osborne appeared in Land tax books at Wood-st till
+                            1790 and then at Staining-lane till 1798. I couldn't find his death or
+                            that of Preston's mother, but Geo Solloway of Wilsted-pl St Pancras
+                            cordwainer took appr Thomas Preston on 15.9.1788 for 7 yrs premium 5
+                            gns. Benjamin Preston seems to have become an assayer or "weigher-in" at
+                            Goldsmiths Hall (Old Bailey 1813) and was living at Park-pl Peckham in
+                            the 1841 census age 70, Independent means. Thomas Preston's marriage to
+                            a widow was possibly at Islington on 1.12.1801 as bach otp to Mary Best
+                            X her mark otp wid. Four children were baptised as theirs; Sophia (said
+                            tto be born 1799) and Ann on 2.8.1802 at Holborn from Field-lane /
+                            Susannah born 2.9.1803 bapt 27.9.1803 at St Jas Clerkenwell / Thomas
+                            born 26.2.1805 bapt 26.3.1805 at St Jas Clerkenwell and buried there
+                            5.11.1805 age 8 mos from Mutton Hill. The four daughters Preston was
+                            left with when his wife ran away to America in 1807 may have included
+                            one by her former husband (and maybe Sophia was too). But I found no
+                            record of their subsequent lives, nor could I find any trace in
+                            ratebooks, Land tax or directories of the shops Preston claimed to have
+                            run in Swallow-st and High Holborn. Preston was perhaps the Thomas
+                            Preston shoemaker age 70 living at Little Whites Alley, Liberty of the
+                            Rolls in the 1841 census with William Islington tailor age 45 Susan
+                            Preston age 50 James Forrester shoemaker age 20 and William Forrester
+                            porter age 20. Susan Preston was at 27 Ship-yard in 1851 census as widow
+                            age 63 born Bungay Suffolk with James Forrester unmarried age 30, her
+                            son in law (must mean stepson) born Battle Bridge Pentonville. Preston
+                            was buried 9.6.1850 at Bunhill Fields from 18 Benjamin-st Clerkenwell
+                            age 82 (in fact he was only 76)</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

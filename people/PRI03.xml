@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="PRI03" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Thomas Abiel</forename>
+                        <surname>Prior</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1809">
+                        <placeName/>
+                    </birth>
+                    <death when="1886"/>
+                    <occupation>Engraver</occupation>
+                    <note type="editorial">
+                        <p>First mentioned in 1831 - when he would have been 22. The context seems
+                            right, with all the contacts being associated with art circles, and esp
+                            Pickersgill. It is also striking that the contacts are over a three year
+                            period 1831-33) and that they take place in either May or March, which
+                            suggests some inclusion at key points in a programme of education. The identification, howevver, remains tentative. See ODNB </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

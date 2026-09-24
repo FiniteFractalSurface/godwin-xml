@@ -230,7 +230,7 @@
                             type="dMeeting" subtype="Adv">adv. <persName ref="/people/MAR01.html"
                                 >M</persName>, <persName>Terry</persName>, <persName
                                 ref="/people/SMA01.html">Smart</persName>,
-                                <persName>Price</persName>, <persName>mrs Walker,
+                                    <persName ref="/people/PRI05.html">Price</persName>, <persName>mrs Walker,
                             &amp;c</persName></seg>: <seg type="dMeeting" subtype="M">meet <persName
                                 ref="/people/FEN01.html">Fenwks</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1801-01-22"><date when="1801-01-22">22. Th.
@@ -3829,7 +3829,7 @@
                                 ref="/people/PLO01|PLO02|PLO03.html">Plowdens</persName>, <persName
                                 ref="/people/BAR11.html">Barnards</persName> &amp; <persName>St
                                 George</persName>; <seg type="dMeeting" subtype="Adv">adv.
-                                    <persName>La. Price</persName> &amp; <persName
+                                    <persName ref="/people/PRI05.html">La. Price</persName> &amp; <persName
                                     ref="/people/DAV02.html">Davis</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1801-12-28"><date when="1801-12-28">28. M. </date><seg
                             type="dMeeting" subtype="C">Call on <persName><placeName type="venue"

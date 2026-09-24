@@ -1424,7 +1424,7 @@
                                 ><persName ref="/people/PRA01.html">Pratt</persName></ref>. <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/PLA02.html"
                                 >Place</persName></seg> &amp; <seg type="dMeeting" subtype="CG"
-                                ><persName>Price</persName> call</seg>, &amp; <seg type="dMeeting"
+                                    ><persName ref="/people/PRI05.html">Price</persName> call</seg>, &amp; <seg type="dMeeting"
                             subtype="CG"><persName type="nah" ref="/people/WAL10.html"
                                 >Waller</persName><hi rend="sup">na</hi></seg>, &amp; <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/COL01.html"
@@ -1442,7 +1442,7 @@
                             <seg type="dMeeting" subtype="C">call on <persName
                                 ref="/people/HUM01.html"><placeName type="venue"
                                 >Hume</placeName></persName></seg>: <seg type="dMeeting"
-                            subtype="CG"><persName>Price</persName> calls</seg>: <ref
+                                    subtype="CG"><persName ref="/people/PRI05.html">Price</persName> calls</seg>: <ref
                             type="dEntertainment" subtype="Theat" target="/plays/timo01|gaze01.html"
                                 ><placeName type="CG"/>theatre, 1/2 Gazette, &amp;
                         Timour</ref>.</ab>
@@ -1731,7 +1731,7 @@
                                     <persName ref="/people/BOI01.html">H Boinville</persName> &amp;
                                     <persName ref="/people/VOY01.html"
                         >Voisey</persName></seg></seg>: <seg type="dMeeting" subtype="CG"
-                                ><persName>Price</persName> calls</seg>. <emph rend="red"><ref
+                            ><persName ref="/people/PRI05.html">Price</persName> calls</seg>. <emph rend="red"><ref
                                 type="dEvent" subtype="Publ" target="/events/pu0138.html"><persName
                                     ref="/people/FRE03.html">Duke of York</persName> Commander in
                                 Chief</ref>.</emph></ab>
@@ -4235,7 +4235,7 @@
                             365</ref>: <ref type="dText" subtype="read" target="/bibl/te1941.html"
                             >H. de Qualité, T. II, p. 52</ref>. <seg type="dMeeting" subtype="Adv"
                                 ><placeName>Wardmote</placeName>; adv. <persName
-                                ref="/people/QUI01.html">Quin</persName> &amp; <persName>Sir C
+                                    ref="/people/QUI01.html">Quin</persName> &amp; <persName ref="/people/PRI04.html">Sir C
                                 Price</persName></seg>: <seg type="dMeeting" subtype="CG"
                                 ><persName>Ferris</persName></seg> &amp; <seg type="dMeeting"
                             subtype="CG"><persName ref="/people/BRO01.html" type="nah">W C
