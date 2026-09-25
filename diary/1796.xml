@@ -3345,7 +3345,7 @@
                                     Moore</placeName></persName></seg>: <seg type="dMeeting"
                             subtype="M">meet <persName ref="/people/MOO01.html">dr Moore</persName>;
                             talk of <seg type="dTopic">French success</seg>, <seg type="dTopic"
-                                    ><persName>Pr. of Wales</persName></seg>, <seg type="dTopic"
+                                ><persName ref="/people/GEO01.html">Pr. of Wales</persName></seg>, <seg type="dTopic"
                                 >Corsica</seg> &amp; <seg type="dTopic">Orleans</seg></seg>: <seg
                             type="dMeal" subtype="D">dine at <persName ref="/people/HOL01.html"
                                     ><placeName type="venue">Hts</placeName></persName>; <seg

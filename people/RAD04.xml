@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="RAD04" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>William</forename>
+                        <surname>Raddon</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Entomologist and engraver</occupation>
+                    <note type="editorial">
+                        <p>Not definite: see Ed Pope's notes: oldens Directory 1811: Robert Raddon
+                            plumber and glazier 25 Hatton Wall (will PCC 1844) / Capt W Raddon 5
+                            Jamaica-row, Bermondsey / Mr William Raddon 22 Upper Eaton-st Pimlico.
+                            This last was the line engraver artist and entomologist William Raddon
+                            1778-1848, friend of Fuseli. Married to Ann, 22 years his senior. </p> <p>It seems an unlikely pattern of visits for a glazier.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -706,7 +706,7 @@
                 target="/bibl/te2945.html">Baxter</ref></ref>. <seg type="dMeal" subtype="Ta">Tea
                 <persName ref="/people/KEN01|HOL05.html"><placeName type="venue"
                     >Kenney’s</placeName></persName>, w. <persName ref="/people/LIS03.html">Listons</persName>,
-                <persName>Proctor</persName>, <persName ref="/people/NEW01.html">Newton</persName>,
+                  <persName ref="/people/PR01.html">Proctor</persName>, <persName ref="/people/NEW01.html">Newton</persName>,
                 <persName ref="/people/MOR01.html">Morton</persName>, <persName>Russel</persName>,
                 <persName ref="/people/REY02.html">R Reynolds</persName> &amp;
                 <persName>Powel</persName></seg>. <ref type="dEvent" subtype="Temp">59 ½ /
@@ -967,7 +967,7 @@
               type="dWrote" subtype="revised" target="/works/comm01.html">Commonwealth,
             revise</ref>. <ref type="dText" subtype="read" target="/bibl/te0063.html">Livy, c.
               62</ref>: <ref type="dText" subtype="read" target="/bibl/te3122.html">Hajji Baba, p.
-              241</ref>. <seg type="dMeeting" subtype="C">Call on <persName type="nah"><placeName
+                241</ref>. <seg type="dMeeting" subtype="C">Call on <persName ref="/people/PR01.html" type="nah"><placeName
                   type="venue">Proctor</placeName></persName><hi rend="sup">n</hi></seg>. <ref
               type="dEvent" subtype="Temp">58 / 64</ref></ab>
           <pb n="e.223_0009r"/>

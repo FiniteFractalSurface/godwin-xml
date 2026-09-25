@@ -1472,7 +1472,7 @@
                                     type="venue">M Lamb</placeName></persName></seg>: <seg
                             type="dMeal" subtype="S">sup at <persName ref="/people/LAM01|LAM02.html"
                                     ><placeName type="venue">Lamb’s</placeName></persName>, w.
-                                <persName>Procter</persName>, <persName>Wainewright</persName>,
+                                        <persName ref="/people/PR01.html">Procter</persName>, <persName>Wainewright</persName>,
                                 <persName>Pateman</persName>, <persName ref="/people/KEN01.html"
                                 >Kenney</persName>, <persName>Alsop</persName> &amp; <persName
                                 ref="/people/TAL01.html">Talfourds</persName>; <seg type="dMeeting"
@@ -2369,7 +2369,7 @@
                                     >Lamb’s</placeName></persName>, w. <persName>Carey</persName>
                             &amp; <persName ref="/people/TAL01.html">Talfourd</persName> (<seg
                                 type="dMeeting" subtype="Inv">invité
-                                <persName>Proctor</persName></seg>); <seg type="dMeeting"
+                                <persName ref="/people/PR01.html">Proctor</persName></seg>); <seg type="dMeeting"
                                 subtype="Adv">adv. <persName ref="/people/GOD07.html"
                                 >W</persName></seg></seg>. <ref type="dWrote" subtype="letter">Write
                                     to <persName ref="/people/AND04.html">Anderson</persName></ref>.</ab>
@@ -2492,12 +2492,12 @@
                                 ref="/people/CUR02.html">A Curran</persName> at tea; <seg
                                 type="dMeeting" subtype="Adv">adv. <persName
                                     ref="/people/GOD05.html">N G</persName></seg></seg>. <seg
-                            type="dMeeting" subtype="CG"><persName>Procter</persName>
+                                        type="dMeeting" subtype="CG"><persName ref="/people/PR01.html">Procter</persName>
                         calls</seg>.</ab>
                     <ab type="dDay" xml:id="g1823-09-15"><date when="1823-09-15">15. M.</date><ref
                             type="dWrote" subtype="write" target="/works/comm01.html">Commonwealth,
                             p. 274</ref>. <seg type="dMeeting" subtype="CG"
-                                ><persName>Procter</persName></seg> &amp; <seg type="dMeeting"
+                                ><persName ref="/people/PR01.html">Procter</persName></seg> &amp; <seg type="dMeeting"
                             subtype="CG"><persName ref="/people/MAR01.html">M</persName> call</seg>:
                             <seg type="dMeeting" subtype="C">call on <persName
                                 ref="/people/MIL03.html"><placeName type="venue"
@@ -3108,7 +3108,7 @@
                                 >Nash</persName> (<persName>Cornhill</persName>) call</seg>: <seg
                             type="dMeal" subtype="S">sup at <persName ref="/people/SHE02.html"
                                     ><placeName type="venue">M W S’s</placeName></persName>, w.
-                                <persName>Procter</persName>, <persName ref="/people/HOG02.html"
+                                    <persName ref="/people/PR01.html">Procter</persName>, <persName ref="/people/HOG02.html"
                                 >Hogg</persName>, <persName ref="/people/PRE01.html"
                                 >Prentis</persName>, <persName ref="/people/HOG03.html">mrs
                                 Williams</persName> &amp; <persName ref="/people/GOD07.html"

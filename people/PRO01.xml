@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="PRO01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Bryan Waller</forename>
+                        <surname>Proctor</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1787">
+                        <placeName/>
+                    </birth>
+                    <death when="1874"/>
+                    <occupation>Solicitor asnd Poet</occupation>
+                    <note type="editorial">
+                        <p>ODNB. Friend of Lambs and Hunts. Godwin meets him as the Lambs on 3.6.1823; and
+                            he then calls on Godwin in September. The coincidence of multiple visits
+                            and Godwin havering between Proctor and Procter leads us to assume that
+                            they are one and the same person.  </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
