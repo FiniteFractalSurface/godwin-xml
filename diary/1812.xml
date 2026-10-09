@@ -3229,7 +3229,7 @@
                             type="dMeeting" subtype="CG"><persName ref="/people/COR01.html">H
                                 Corbould</persName></seg>, <seg type="dMeeting" subtype="CG"
                                 ><persName type="nah"
-                            ><persName>Springsguth</persName></persName></seg><hi rend="sup">n</hi>
+                                    ><persName ref="/people/SPR01.html">Springsguth</persName></persName></seg><hi rend="sup">n</hi>
                         &amp; <seg type="dMeeting" subtype="CG"><persName type="nah"
                                     ><persName>Imray</persName></persName><hi rend="sup">na</hi>
                             call</seg>: <seg type="dMeal" subtype="S">sup at <persName
@@ -3362,7 +3362,7 @@
                                     ><placeName type="venue">Lambert</placeName></persName></seg>,
                             <seg type="dMeeting" subtype="C"><persName ref="/people/LON01.html"
                                     ><placeName type="venue">Longdil</placeName></persName></seg>
-                        &amp; <seg type="dMeeting" subtype="C"><persName><placeName type="venue"
+                        &amp; <seg type="dMeeting" subtype="C"><persName ref="/people/SPR01.html"><placeName type="venue"
                                     >Springsguth</placeName></persName></seg>: <seg type="dMeal"
                             subtype="DG"><persName ref="/people/SHE01|SHE06.html">2
                                 Shelleys</persName> &amp;<persName ref="/people/HIT01.html"> E
@@ -3785,7 +3785,7 @@
                                 >battle of Krasnoi</seg>)</seg>: <seg type="dMeal" subtype="DG"
                                     ><persName ref="/people/CMX01.html">C M</persName> dines</seg>: <seg type="dMeal"
                             subtype="SG"><persName ref="/people/LAM01|LAM02.html">Lambs</persName>
-                            sup</seg>. <seg type="dMeeting" subtype="CG"> Springsguth calls</seg>.
+                                        sup</seg>. <persName ref="/people/SPR01.html"><seg type="dMeeting" subtype="CG"> Springsguth calls</seg></persName>.
                         <ref type="dText" subtype="mention">M S from <persName ref="/people/TAY17.html">A W
                                 Tayler</persName></ref>.</ab>
                     <ab type="dDay" xml:id="g1812-12-17"><date when="1812-12-17">17. Th. </date><ref

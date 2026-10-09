@@ -2886,7 +2886,7 @@
               type="dMeeting" subtype="C">call on <persName><placeName type="venue"
                   >Tottie</placeName></persName></seg>: <seg type="dMeal" subtype="DG"><persName
                 ref="/people/MUL01.html">Mulready</persName> dines; <seg type="dMeeting"
-                subtype="Adv">adv. <persName>Springsguth</persName></seg></seg>.</ab>
+                  subtype="Adv">adv. <persName ref="/people/SPR01.html">Springsguth</persName></seg></seg>.</ab>
           <ab type="dDay" xml:id="g1819-12-04"><date when="1819-12-04">4. Sa. </date><ref
               type="dWrote" subtype="revised" target="/works/popu01.html">Malthus, revise</ref>.
               <seg type="dMeeting" subtype="Sk">Seek <persName ref="/people/BOT01.html"

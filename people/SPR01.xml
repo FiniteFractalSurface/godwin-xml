@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="SPR01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Matthew Clix</forename>
+                        <surname>Springsguth</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Clerk</occupation>
+                    <note type="editorial">
+                        <p>Ed Pope noes: Letter 1.7.1807 to Godwin, Bodleian Abinger c.10 f.43 from
+                            M C Springsguth late clerk to Mr Nicholson at Mr Withers, Palsgrave
+                            Place, Temple Bar. He was in custody there having given security for
+                            Nicholson (William DNB 1753-1815) in the presence of Fletcher and Heath,
+                            "Sloper knows and has done nothing". Matthew Clix Springsguth bapt
+                            10.6.1777 Covent Garden of Samuel and Ann, bur 20.5.1824 St Clement Danes
+                            age 45 of Shire Lane> His father Joachim Samuel Springsguth habit maker
+                            will PCC 22.4.1795, mother Ann will PCC 5.5.1812. Matthew Clix
+                            Springsguth bach otp = Soho 23.10.1832 Frances Ann Few sp otp by lic
+                            sigs wits Charles Robertson, Isabel Greig </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
