@@ -1465,7 +1465,7 @@
                                     ><placeName type="venue">Ballachey</placeName></persName></seg>,
                             <seg type="dMeeting" subtype="C"><persName><placeName type="venue"
                                     >Amory</placeName></persName></seg> &amp; <seg type="dMeeting"
-                            subtype="C"><persName>Russel, <placeName type="venue">C
+                                        subtype="C"><persName ref="/people/RUS03.html">Russel, <placeName type="venue">C
                                 H</placeName></persName></seg>: <seg type="dMeeting" subtype="CG"
                                 ><persName ref="/people/HOO01.html">Hookham</persName></seg> &amp;
                             <seg type="dMeeting" subtype="CG"><persName ref="/people/HOG01.html"
@@ -2731,7 +2731,7 @@
                                 >Davison</persName></seg>: <seg type="dMeeting" subtype="C">call on
                                     <persName><placeName type="venue"
                             >Mayhew</placeName></persName></seg>, <seg type="dMeeting" subtype="C"
-                                    ><persName><placeName type="venue">Miss
+                                ><persName ref="/people/SMI15.html"><placeName type="venue">Miss
                                 Smith</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName ref="/people/HOG01.html" type="nah"><placeName
                                     type="venue">Hogan</placeName></persName><hi rend="sup"
@@ -2917,7 +2917,7 @@
                                     ><placeName type="venue">Place</placeName></persName></seg>:<ref
                             type="dEntertainment" subtype="Theat" target="/plays/gout01.html"
                                 ><placeName type="HM"/> theatre, Love &amp; Gout</ref>. <seg
-                            type="dMeeting" subtype="Sk">Seek <persName>Russell</persName></seg>
+                                    type="dMeeting" subtype="Sk">Seek <persName ref="/people/RUS03.html">Russell</persName></seg>
                         &amp; <seg type="dMeeting" subtype="Sk"><persName>Watk<hi rend="sup"
                                 >n</hi></persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1814-08-27"><date when="1814-08-27">27. Sa.</date><ref

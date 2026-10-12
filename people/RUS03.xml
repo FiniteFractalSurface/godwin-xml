@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="RUS03" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>NAME</forename>
+                        <surname>SURNAME</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1786">
+                        <placeName/>
+                    </birth>
+                    <death when="1863"/>
+                    <occupation>Schoolmaster</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's Note on 1808-1814: John Russell DNB 1786-1863 asst master Charterhouse
+                            1806-11 ordained priest 1810 headmaster of Charterhouse 1811-1832. See
+                            his letter to Godwin Bodleian Abinger c11 f73 dated 18.11.1811.
+                            According to DNB William Godwin 1803-1832 (Godwin's son) he attended
+                            Charterhouse as a dayboy 1811-1814. The firat entry above when Godwin
+                            called on Matthew Raine, then headmaster of Charterhouse and Russell was
+                            assistant master seems very probably him. The next 5 entries could have
+                            been him or perhaps another Russell (see my entries for Russell and
+                            Russell, William)., on the last two of these I included the calls of two
+                            of Godwin's brothers in case this was more than coincidence. The next 9
+                            calls were very likely him, particularly where C House or C H was
+                            specified. The last entry above "seek Russel and Watkn" could also be the
+                            headmaster, perhaps elsewhere for August holidays, as on 5.10.1810
+                            Godwin noted "call on Raine adv Watkinson". See my entry for. Watkinson
+                            who was an assistant master (like perhaps Walpole in the first entry
+                            above) </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -3495,7 +3495,7 @@
                                 type="nah">Robley</persName><hi rend="sup">n</hi> call</seg>: <ref
                             type="dEvent" subtype="PersEvent" target="/events/pe0242.html"><persName
                                 ref="/people/CLA01.html">M J</persName> calls on
-                                    <persName><placeName type="venue">Russel</placeName></persName>,
+                                    <persName ref="/people/RUS03.html"><placeName type="venue">Russel</placeName></persName>,
                                 <persName ref="/people/COO09.html">Cooper</persName> &amp; <persName
                                 ref="/people/TAY06.html">R T</persName></ref>: <seg type="dMeal"
                             subtype="DG"><persName ref="/people/HOG01.html">Hogan</persName>
@@ -3734,7 +3734,7 @@
                                 ><persName ref="/people/ROB03.html">H Robinson</persName></seg>
                         &amp; <seg type="dMeeting" subtype="CG"><persName ref="/people/HAM02.html"
                                 type="nah">Hamond</persName> call<hi rend="sup">n</hi></seg>.<seg
-                            type="dMeeting" subtype="C"> Call on <persName><placeName type="venue"
+                                    type="dMeeting" subtype="C"> Call on <persName ref="/people/RUS03.html"><placeName type="venue"
                                     >Russel</placeName></persName>, <placeName>C
                             House</placeName></seg>.</ab>
                     <ab type="dDay" xml:id="g1813-12-09"><date when="1813-12-09">9. Th.</date><ref

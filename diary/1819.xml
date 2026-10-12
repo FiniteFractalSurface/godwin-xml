@@ -2017,7 +2017,7 @@
               >M</persName></seg>: <seg type="dMeal" subtype="Ta">tea <persName><placeName
                   type="venue">Snow’s</placeName></persName>, w. <persName ref="/people/CLA01.html"
                 >M J</persName></seg>: <seg type="dMeeting" subtype="Cn">call on
-                  <persName><placeName type="venue">miss Smith</placeName></persName>, w. <persName
+                  <persName ref="/people/SMI15.html"><placeName type="venue">miss Smith</placeName></persName>, w. <persName
                 ref="/people/CLA01.html">M J</persName></seg>: <seg type="dMeeting" subtype="CG"
                 ><persName ref="/people/TAY01.html" type="nah">Taylors</persName> call <hi
                 rend="sup">n</hi></seg>. <ref type="dText" subtype="read" target="/bibl/te2684.html"
