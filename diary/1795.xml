@@ -539,7 +539,7 @@
                                 ref="/people/FAL01.html"> Falkland,
                                 </persName><persName>Kaines</persName>, <persName>James</persName>,
                                 <persName ref="/people/ROG03.html">Rogers</persName>, <persName>
-                                Varland</persName> &amp; <persName>mrs Wilson</persName></seg>. <ref
+                                    Varland</persName> &amp; <persName ref="/people/WIL35.html">mrs Wilson</persName></seg>. <ref
                             type="dText" subtype="read" target="/bibl/te0553.html">Lauderdale, p.
                             124</ref>.</ab>
                     <ab type="dDay" xml:id="g1795-02-11"><date when="1795-02-11">11. W.</date><seg
@@ -1111,7 +1111,7 @@
                             >dine at <persName ref="/people/KIN01.html"><placeName type="venue"
                                     >King's</placeName></persName>, w. <persName
                                 ref="/people/ROG03.html">Rogers</persName>, <persName
-                                ref="/people/CHR02.html">Christie</persName> &amp; <persName>mrs
+                                    ref="/people/CHR02.html">Christie</persName> &amp; <persName ref="/people/WIL35.html">mrs
                                 Wilson</persName>; <seg type="dMeeting" subtype="Adv">adv.
                                     <persName>Selinas</persName> &amp; <persName>mrs
                                     Cannon</persName></seg></seg></ab>
@@ -2090,7 +2090,7 @@
                             >Revise</ref>. <ref type="dText" subtype="read"
                             target="/bibl/te0284.html">Virgil, 280</ref>. <seg type="dMeal"
                             subtype="D">Dine at <persName ref="/people/KIN01.html"
-                            >King's</persName>: meet <persName>m<hi rend="sup">es</hi>
+                                >King's</persName>: meet <persName ref="/people/WIL35.html">m<hi rend="sup">es</hi>
                                 Wilson</persName> &amp; <persName>Morse</persName></seg>: <seg
                             type="dMeeting" subtype="C">call on <persName ref="/people/PER01.html"
                                 type="nah"><placeName type="venue">Perry
@@ -3563,7 +3563,7 @@
                                     <persName ref="/people/RIC06.html">Richardson</persName></seg></seg>: <seg type="dMeal"
                             subtype="D">dine at <persName ref="/people/HOL01.html"><placeName
                                     type="venue">Ht's</placeName></persName>, w. <persName
-                                ref="/people/SHI01.html">Shields</persName>, <persName
+                                ref="/people/SHI01|SHI04.html">Shields</persName>, <persName
                                 ref="/people/REY03.html">miss Mansel</persName>,
                                 <persName>Major</persName>, <persName>Leftley</persName> &amp;
                                 <persName ref="/people/TUT01.html">Tuthil</persName>; <seg
@@ -3571,7 +3571,7 @@
                                 &amp; <persName>Jay</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1795-10-12"><date when="1795-10-12">12. M. </date><ref
                             type="dText" subtype="read" target="/bibl/te0612.html">Gregory, p.
-                            228</ref>. <seg type="dMeeting" subtype="C">Call on <persName><placeName
+                            228</ref>. <seg type="dMeeting" subtype="C">Call on <persName ref="/people/SHI04.html"><placeName
                                     type="venue">mrs Shield</placeName></persName> na</seg>, &amp;
                             <seg type="dMeeting" subtype="C"><persName ref="/people/HAY01.html"
                                     ><placeName type="venue">miss

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="OGL01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Thomas </forename>
+                        <surname>Ogle</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Writer and Surgeon</occupation>
+                    <note type="editorial">
+                        <p>Possible Thomas Ogle who recorded Holdcroft opining about the
+                            indestructability of mind (see Don Locke, A Fantasy of Reason, p. 31).
+                            According to the D1816 Dictionary of Living Authors, Thomas Ogle also
+                            wrote a pamphletin 1791 A short inquiry into the merits of a newly
+                            discoved fact relative to the Venereal poison. We cannot be wholly cofident it is the same Ogle, but it is a relatively rare name.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="PAT04" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Peter George</forename>
+                        <surname>Patmore</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1786">
+                        <placeName/>
+                    </birth>
+                    <death when="1855"/>
+                    <occupation>Author</occupation>
+                    <note type="editorial">
+                        <p>Probably P G Patmore, celebrated for his Imitations of celebbrtated
+                            authors; and his My Friends and Acquaintances. Associated with
+                            Pickersgill's circle - although Pickersgill is not mentioned in his
+                            memoirs. His son Coventry Kersey Dichton Patmore was born in 1823 -
+                            which sugest that the plural 'Patmores' in 1831 may be Patmore and his
+                            wife (Eliza Anne Bowring Robertson 1791-1851). See ODNB. Note also his somewhat pariah status following his
+                            involvement as a second in a duel in 1821, at which John Scott was
+                            killed. His reputation was forther sullied by his involvement in Hazlitt's 'Liber Amoris' (1823).</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

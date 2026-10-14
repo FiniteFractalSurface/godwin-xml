@@ -2312,7 +2312,7 @@
                             >dine at <persName ref="/people/JOH01.html"><placeName type="venue"
                                     >Johnson's</placeName></persName>, w.
                                     <persName ref="/people/EDW03.html">Edwards</persName> &amp;
-                        <persName>Newnum</persName></seg>. <ref type="dWrote" subtype="letter">Write
+                                    <persName ref="/people/NEW06.html">Newnum</persName></seg>. <ref type="dWrote" subtype="letter">Write
                             to <persName ref="/people/PHI01.html">Philips</persName></ref>. <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/CAR01.html"
                                 >Carlisles</persName></seg> &amp; <seg type="dMeeting" subtype="CG"
@@ -2650,7 +2650,7 @@
                                     >Bonnycastle</persName>, <persName ref="/people/EDW03.html">Edwards</persName>, <persName
                                 ref="/people/DYS01.html">Dyson</persName>, <persName
                                 ref="/people/JOH01.html">Johnson jr</persName> &amp;
-                                <persName>Newnum</persName></seg>: <seg type="dMeeting" subtype="C"
+                                <persName ref="/people/NEW06.html">Newnum</persName></seg>: <seg type="dMeeting" subtype="C"
                             >call on <persName ref="/people/PHI01.html"><placeName type="venue"
                                     >Philips</placeName></persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1802-08-26"><date when="1802-08-26">26. Th.</date><ref
@@ -3932,7 +3932,7 @@
                             >dine at <persName ref="/people/NOR01.html"><placeName type="venue"
                                     >Northcote's</placeName></persName></seg>: <seg type="dMeeting"
                             subtype="Cn">call, w. <persName ref="/people/NOR01.html">him</persName>,
-                            on <persName><placeName type="venue"
+                                        on <persName ref="/people/OGB01.html"><placeName type="venue"
                             >Ogbourne</placeName></persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1802-12-21"><date when="1802-12-21">21. Tu.</date><ref
                             type="dText" subtype="read" target="/bibl/te1374.html">Wicliff</ref>,

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="WIL35" sex="2">
+                    <persName>
+                        <roleName/>
+                        <forename>Mrs Bonne</forename>
+                        <surname>Wilson</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1819"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>At Ed Pope comments, while there is 'no reason to suppose the mrs W at
+                            King's to be the same as mrs W at Carlisle's 10 years later, but they
+                            could all be Bonne Wilson (nee Boileau) died Feb 1819 who married at
+                            Madras 1780 Lestock Wilson (died 1821) captain in East India Company's
+                            service, friend of Joseph Farington and appeared often in Farington
+                            diary. The Morses and the Greens brothers and sisters in law of
+                            Nathaniel Middleton were part of their circle. Her husband would have
+                            been frequently away sailing to India and back. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

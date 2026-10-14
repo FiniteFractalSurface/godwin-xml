@@ -20,11 +20,11 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="FAN01" sex="1">
+                <person xml:id="FAN01" sex="2">
                     <persName>
                         <roleName/>
-                        <forename>FIRSTNAME</forename>
-                        <surname>SURNAME</surname>
+                        <forename>Olivia</forename>
+                        <surname>Fancourt</surname>
                         <addName/>
                     </persName>
                     <birth when="1000-01-01">

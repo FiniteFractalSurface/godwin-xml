@@ -386,7 +386,7 @@
                                 ref="/people/CAR01.html"><placeName type="venue"
                                     >Carlisle</placeName></persName>; <seg type="dMeeting"
                                 subtype="Adv">adv. <persName ref="/people/BAR01.html"
-                                    >Barry</persName> &amp; <persName> mrs
+                                    >Barry</persName> &amp; <persName ref="/people/WIL35.html"> mrs
                             Wilson</persName></seg></seg> : <seg type="dMeal" subtype="S"
                                 >sup,<persName ref="/people/CLA01.html"> d<hi rend="sup"
                                 >o</hi></persName>, at <persName ref="/people/ROW01|ROW02.html"
@@ -4394,7 +4394,7 @@
                                 >adv. <persName>miss Clarke</persName></seg></seg>: <seg
                             type="dMeeting" subtype="M">meet <persName ref="/people/MAL01.html"
                                 >Malthus</persName></seg>, &amp; <seg type="dMeeting" subtype="M"
-                                ><persName>mrs Wake</persName></seg>.</ab>
+                                    ><persName ref="/people/WAK01.html">mrs Wake</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1805-12-18"><date when="1805-12-18">18. W. </date><ref
                             type="dEvent" subtype="PersEvent" target="/events/pe0151.html"
                                 >(<placeName>Reading</placeName>, <persName>D

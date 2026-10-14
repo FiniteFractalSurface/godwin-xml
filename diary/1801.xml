@@ -1243,7 +1243,7 @@
                                 <persName>Shepherd</persName> &amp;
                                 <persName ref="/people/CAM01.html">Campbel</persName></ref>: <seg type="dMeal" subtype="DG"
                                 ><persName ref="/people/MAR01.html">M</persName> dines</seg>: <seg
-                            type="dMeeting" subtype="See"><persName><placeName type="venue"
+                                    type="dMeeting" subtype="See"><persName ref="/people/PID01.html"><placeName type="venue"
                                     >Pidcock's</placeName></persName>, w. <persName
                                 ref="/people/IML01.html">F </persName>&amp; <persName
                                 ref="/people/SHE02.html">M</persName></seg>: <seg type="dMeeting"
@@ -1625,7 +1625,7 @@
                                 ref="/people/JOH01.html"><placeName type="venue"
                                 >Johnson</placeName></persName>; <seg type="dMeeting" subtype="Adv"
                                 >adv. <persName ref="/people/WEL05.html">Wells</persName> &amp;
-                                    <persName>Newnum</persName></seg></seg>: <seg type="dMeal"
+                                    <persName ref="/people/NEW06.html">Newnum</persName></seg></seg>: <seg type="dMeal"
                             subtype="D">dine at <persName ref="/people/TOB01|TOB02.html"><placeName
                                     type="venue">Tobin's</placeName></persName></seg>: <seg
                             type="dMeal" subtype="SG"><persName>Walker</persName> sups</seg>.</ab>
@@ -2764,7 +2764,7 @@
                                 ref="/people/FUS01.html">Fuseli</persName>, <persName
                                 ref="/people/BON01.html">Bonnycastle</persName>,
                                 <persName>Sturch</persName>, <persName ref="/people/WEL05.html"
-                                >Wells</persName> &amp; <persName>Newnum</persName></seg>: <seg
+                                    >Wells</persName> &amp; <persName ref="/people/NEW06.html">Newnum</persName></seg>: <seg
                             type="dMeal" subtype="S">sup at <persName ref="/people/CLA01.html"
                                     ><placeName type="venue">C<hi rend="sup"
                                 >ts</hi></placeName></persName></seg>. <seg type="dMeeting"
@@ -3294,7 +3294,7 @@
                                     >Johnson's</placeName></persName>, w. <persName
                                 ref="/people/FUS01.html">Fuseli</persName>, <persName
                                 ref="/people/BON01.html">Bonnycastle</persName> &amp;
-                                <persName>Newnum</persName></seg>: <seg type="dMeeting" subtype="CG"
+                                <persName ref="/people/NEW06.html">Newnum</persName></seg>: <seg type="dMeeting" subtype="CG"
                                 ><persName ref="/people/WOL03.html" type="nah">Jas Wt
                             </persName>calls <hi rend="sup">n</hi></seg>.</ab>
                     <ab type="dDay" xml:id="g1801-11-05"><date when="1801-11-05">5. Th.</date><ref
@@ -3600,7 +3600,7 @@
                                     >Johnson's</placeName></persName>, w. <persName
                                 ref="/people/BON01.html">Bonnycastle</persName>, <persName
                                 ref="/people/EDG01.html">Edgworth</persName> &amp;
-                                <persName>Newnum</persName></seg>: <ref type="dEntertainment"
+                                <persName ref="/people/NEW06.html">Newnum</persName></seg>: <ref type="dEntertainment"
                             subtype="Theat" target="/plays/sham01.html"><placeName type="DL"
                             />theatre, 1/2 Anatomist</ref>: <seg type="dMeeting" subtype="SleepAt"
                             >sleep at <placeName>Baldock</placeName></seg>.</ab>

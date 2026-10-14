@@ -3541,7 +3541,7 @@
                             <seg type="dMeal" subtype="D">dine at <persName ref="/people/NIC01.html"
                                     ><placeName type="venue"
                             >Nicholson's</placeName></persName></seg>: <seg type="dMeal"
-                            subtype="Ta">tea <persName><placeName type="venue">mrs
+                                subtype="Ta">tea <persName ref="/people/SHI04.html"><placeName type="venue">mrs
                                     Shield</placeName></persName></seg>: <ref type="dEntertainment"
                             subtype="Theat" target="/plays/rage01.html"><placeName type="CG"/>play,
                             the Rage</ref>: <seg type="dMeal" subtype="S">sup at <persName
