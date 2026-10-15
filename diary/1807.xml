@@ -515,7 +515,7 @@
                         &amp; <seg type="dMeeting" subtype="C"><persName ref="/people/PHI01.html"
                                     ><placeName type="venue">Philips</placeName></persName>; <seg
                                 type="dMeeting" subtype="Adv">adv.
-                                <persName>Raymond</persName></seg></seg>: <ref type="dEntertainment"
+                                        <persName ref="/people/RAY01.html">Raymond</persName></seg></seg>: <ref type="dEntertainment"
                             subtype="Theat" target="/plays/curf01.html"><placeName type="DL"/><seg
                                 type="dMeeting" subtype="Do">theatre, w. <persName
                                     ref="/people/CLA01.html">M J</persName> &amp; <persName
@@ -775,7 +775,7 @@
                                 subtype="Adv"> (adv. <persName ref="/people/THE01.html"
                                     >Thelwal</persName>, <persName ref="/people/WIL02.html"
                                     >Wilson</persName> &amp;
-                            <persName>Raymond</persName>)</seg></seg>, <seg type="dMeeting"
+                                        <persName ref="/people/RAY01.html">Raymond</persName>)</seg></seg>, <seg type="dMeeting"
                             subtype="C"><persName ref="/people/TAY06.html"><placeName type="venue">R
                                     Taylor</placeName></persName></seg>, &amp; <seg type="dMeeting"
                             subtype="C"><persName ref="/people/NIC01.html"><placeName type="venue"
@@ -3618,7 +3618,7 @@
                             target="/plays/faul02.html"><placeName type="DL"/>theatre, Faulkener;
                                 <seg type="dMeeting" subtype="Adv">adv. <persName
                                     ref="/people/MUL01.html">Mulready</persName>,
-                                    <persName>Raymond</persName>, &amp;c</seg></ref>: <ref
+                                    <persName ref="/people/RAY01.html">Raymond</persName>, &amp;c</seg></ref>: <ref
                             type="dEvent" subtype="PersEvent" target="/events/pe0177.html"
                                 ><placeName>Green Room</placeName></ref>.</ab>
                     <pb n="e.209_0018r"/>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name></name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="RAY01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>James Grant</forename>
+                        <surname>Raymond</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1768">
+                        <placeName/>
+                    </birth>
+                    <death when="1819"/>
+                    <occupation>dramatist and stage manager</occupation>
+                    <note type="editorial">
+                        <p>See 1816 Dictionary of Living Authors. Ed Pope notes: James Grant Raymond 1768-1817 (Highfill, Burnim and Langhans). His The Harp of Erin 1807 was printed for Richard Phillips. He died 24.10.1817. He married Frances Hannah Carmichael in Dublin in 1792 her will PCC 1834 widow of Hammersmith</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title></title>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
+
