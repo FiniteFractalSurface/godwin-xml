@@ -1183,7 +1183,7 @@
                     <ab type="dDay" xml:id="g1814-03-31"><date when="1814-03-31">31. Th.</date><ref
                             type="dWrote" subtype="letter">Write to <persName
                                 ref="/people/SHE01.html">Shelley</persName></ref> &amp; <ref
-                            type="dWrote" subtype="letter"><persName>Sands</persName></ref>. <seg
+                                    type="dWrote" subtype="letter"><persName ref="/people/SAN01.html">Sands</persName></ref>. <seg
                             type="dMeeting" subtype="C">Call on <persName ref="/people/PLA02.html"
                                     ><placeName type="venue">Place</placeName></persName></seg>,
                             <seg type="dMeeting" subtype="C"><persName ref="/people/MAC01.html"
@@ -1250,7 +1250,7 @@
                             type="dMeeting" subtype="CG"><persName>Gill</persName> calls</seg>.</ab>
                     <ab type="dDay" xml:id="g1814-04-06"><date when="1814-04-06">6. W.</date><ref
                             type="dWrote" subtype="letter"> Write to
-                            <persName>Sands</persName></ref>. <seg type="dMeeting" subtype="C">Call
+                            <persName ref="/people/SAN01.html">Sands</persName></ref>. <seg type="dMeeting" subtype="C">Call
                             on <persName ref="/people/PLA02.html"><placeName type="venue"
                                     >Place</placeName></persName></seg>, <seg type="dMeeting"
                                         subtype="C"><persName ref="/people/HAU01.html"><placeName type="venue"
@@ -1329,7 +1329,7 @@
                                     ><placeName type="venue"
                         >Knowles</placeName></persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1814-04-13"><date when="1814-04-13">13. W. </date><ref
-                            type="dWrote" subtype="letter">Write to <persName>Sands</persName></ref>
+                            type="dWrote" subtype="letter">Write to <persName ref="/people/SAN01.html">Sands</persName></ref>
                         &amp; <ref type="dWrote" subtype="letter"><persName ref="/people/PAT01.html"
                                 >Patrickson</persName></ref>. <ref type="dEvent" subtype="PersEvent"
                             target="/events/pe0249.html"><persName ref="/people/MAC01.html"

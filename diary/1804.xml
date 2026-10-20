@@ -459,7 +459,7 @@
                      Nicholson</placeName></persName></seg> &amp; <seg type="dMeeting" subtype="C"
                         ><persName ref="/people/JOH01.html"><placeName type="venue"
                            >Johnson</placeName></persName> (<seg type="dTopic"
-                           ><persName>Rousseau</persName></seg>)</seg>: <ref type="dEntertainment"
+                              ><persName ref="/people/ROU05.html">Rousseau</persName></seg>)</seg>: <ref type="dEntertainment"
                      subtype="Theat" target="/plays/sold01.html"><placeName type="DL"/>theatre,
                      Soldier's Daughter</ref>: <seg type="dMeal" subtype="SG"><persName
                         ref="/people/COO02.html">G M C</persName> sups</seg>. <seg type="dMeeting"

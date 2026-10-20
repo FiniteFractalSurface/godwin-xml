@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="SEA01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>NAME</forename>
+                        <surname>Seabrook</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's notes:Holdens directory 1805 James Seabrook, linen draper
+                            26 Duke-st Smithfield / Isaac Seabrook, carpenter and builder, Hosier-lane
+                            Smithfield (and 1811 at 18 Skinner-st) / John Seabrook painter and glazier
+                            116 Gt Saffron-hill / Wm. Seabrook butcher 30 Duke-st Smithfield (and
+                            1811). These four lived close to Godwin at Skinner-st and were likely
+                            part of St Bride's ward. Isaac Seabrook was later the contractor for
+                            building St Pancras church 1818-1822. He had the lease of nos. 18 and 21
+                            Skinner-st, which like Godwin's at 41, were prizes in a lottery (Public
+                            Ledger 16.11.1807). Robert Waithman DNB 1764-1833, William Rolfe (qv)
+                            and Samuel Miller (qv) were all involved with Isaac Seabrook in this
+                            City Lottery (Morning Post 27.2.1813). Isaac Seabrook died in 1858,
+                            presumably a wealthy man, at least his daughters all married Revs and
+                            Esqs. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

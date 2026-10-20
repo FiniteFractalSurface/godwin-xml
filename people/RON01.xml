@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="RON01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>G H</forename>
+                        <surname>Rontgen</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1791">
+                        <placeName/>
+                    </birth>
+                    <death when="1812"/>
+                    <occupation>ExplorerN</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's discussion: Lancaster Gazette 25.5.1811: "A German, of the
+                            name of Rontgen, a scholar of the celebrated Brumenbach, in Gottingen,
+                            has announced his intention to endeavour to penetrate into the interior
+                            of Africa, nearly in the track pursued by Mr Hornemann, who, as he has
+                            not been heard of for nearly seven years, is supposed to have perished
+                            in the enterprize. This young man is about twenty years of age, and
+                            seems to have obtained all that kind of knowledge which is particularly
+                            necessary for his purpose. He understands the Arabic language, is
+                            remarkably abstemious, and has accustomed himself to make raw flesh and
+                            insects his food. At Gottingen he submitted to circumcision, that he
+                            might appear to be a true believer in the Koran, and, in the character
+                            of a physician, travel through those countries, where the name of a
+                            Christian would infallibly lead to slavery or death. In his
+                            peregrinations on foot through Germany and Switzerland, he always chose
+                            the worst lodgings and accomodations, to inure himself to hardships. He
+                            means to endeavour to accompany a mercantile caravan, from Mogador to
+                            Tumbuctoo," </p>
+                        <p>Sun 1.5.1812: "The young German Gentleman of the name of
+                            Rontgen, who left England about a twelvemonth since for Africa, in order
+                            to prosecute discoveries in the interior of that country, has, it is
+                            said, been murdered by the Arabs, before he had proceeded any great
+                            distance from Mogadore, where he spent some time perfecting himself in
+                            the Arabic language. His father was a character well known in Europe,
+                            who raised himself from obscurity to the greatest celebrity by his
+                            talent for mechanics; he was at one time worth a million, but ruined by
+                            the French Revolution." </p>
+                        <p>Public Ledger 22.8.1812: "There was a report,
+                            some time ago, that Rontgen, the African traveller, employed, it is
+                            said, under the auspices and at the expence of Lord Kinnaird, had been
+                            murdered by the Moors while endeavouring to reach Tombuctoo by the
+                            caravan fron Morocco. It is mentioned, however, in the German Papers,
+                            that he is not dead; and that letters have been received from him,
+                            stating his recovery from his wounds, and his intention to set out again
+                            as soon as possible." </p>
+                        <p>There are four letters dated 1810 in the Joseph
+                            Banks Research project between Banks and G H Rontgen, and a letter to
+                            Banks of 1819 at Kent History Centre (U951/Z32/96) introducing Lt
+                            Roentgen of the Dutch Navy, brother of the unfortunate traveller who
+                            died on the African Society expedition. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

@@ -688,7 +688,7 @@
                         >Hazlit</persName> calls</seg>: <seg type="dMeal" subtype="D">dine at
                         <persName ref="/people/JOH01.html"><placeName type="venue"
                            >Johnson's</placeName></persName>, w. <persName ref="/people/FUS01.html"
-                        >Fuseli</persName>, <persName>Rose</persName>, <persName
+                              >Fuseli</persName>, <persName ref="/people/ROS06.html">Rose</persName>, <persName
                         ref="/people/LIN03.html">Lindsay</persName>, <persName
                         ref="/people/MOR99.html">Morgan b<hi rend="sup">r</hi></persName> &amp;
                         <persName ref="/people/EDG02.html">Edgworth j</persName></seg>: <seg
@@ -1790,7 +1790,7 @@
                         >Fuseli</persName>, <persName ref="/people/ROB01.html">Robinson</persName>,
                         <persName ref="/people/CHA06.html">Chalmers</persName> &amp; <persName
                         ref="/people/EDG01.html">Edgworth</persName>; <seg type="dMeeting"
-                        subtype="Adv">adv. <persName>Rose</persName></seg></seg>.</ab>
+                           subtype="Adv">adv. <persName ref="/people/ROS06.html">Rose</persName></seg></seg>.</ab>
                <ab type="dDay" xml:id="g1800-05-21"><date when="1800-05-21">21. W.</date><ref
                      type="dWrote" subtype="revised" target="/works/anto01.html">Antonio,
                      revise</ref>. <ref type="dText" subtype="read" target="/bibl/te0951.html">Nice

@@ -522,7 +522,7 @@
                             subtype="DG"><persName ref="/people/MAR01.html">M</persName>
                         dines</seg>: <ref type="dEntertainment" subtype="Theat"
                             target="/plays/henr04.html"><placeName type="CG"/>theatre, Henry
-                        8</ref>. <seg type="dMeeting" subtype="CG"><persName type="nah"
+                            8</ref>. <seg type="dMeeting" subtype="CG"><persName ref="/people/SEA01.html" type="nah"
                                 >Seabrook</persName> calls <hi rend="sup">n</hi></seg>.</ab>
                 </div>
                 <div type="dMonth" xml:id="g1809-03">
@@ -532,7 +532,7 @@
                     <ab type="dDay" xml:id="g1809-03-02"><date when="1809-03-02">2. Th.</date><ref
                             type="dText" subtype="read" target="/bibl/te1747.html">Life of
                             Robertson, pp. 307</ref>. <seg type="dMeeting" subtype="CG"
-                                ><persName>Seabrook</persName></seg> &amp; <seg type="dMeeting"
+                                ><persName ref="/people/SEA01.html">Seabrook</persName></seg> &amp; <seg type="dMeeting"
                                     subtype="CG"><persName ref="/people/PEA02.html">Pearsal</persName> call</seg>: <seg type="dMeal"
                             subtype="DG"><persName ref="/people/FAI01.html">Fairly</persName>
                             dines</seg>.</ab>
@@ -2892,7 +2892,7 @@
                                 ><persName ref="/people/GOD02.html">Jo G</persName> call</seg>.</ab>
                     <ab type="dDay" xml:id="g1809-10-10"><date when="1809-10-10">10. Tu.</date><ref
                             type="dWrote" subtype="letter">Write to
-                            <persName>Saffory</persName></ref>. <seg type="dMeeting" subtype="CG"
+                            <persName ref="/people/SAF01.html">Saffory</persName></ref>. <seg type="dMeeting" subtype="CG"
                                 ><persName ref="/people/HUT03.html">Hutchinson</persName> calls</seg>: <seg type="dMeeting"
                             subtype="C">call on <persName ref="/people/WHI01.html"><placeName
                                     type="venue">J White</placeName></persName></seg>, <seg
