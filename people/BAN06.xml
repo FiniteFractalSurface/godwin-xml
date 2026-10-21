@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="BAN06" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Saxe</forename>
+                        <surname>Bannister</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1790">
+                        <placeName/>
+                    </birth>
+                    <death when="1877"/>
+                    <occupation>Lawyer</occupation>
+                    <note type="editorial">
+                        <p>Son of John Bannister (q.v.) the actor. Godwin knew him after his stint
+                            as Attorney General in Australia. He seems likely to have been
+                            introduced by his father, who had retired in 1815 and died in 1836. The
+                            first entry seems to be an occasion on which Bannister calls on Godwin.
+                            The contacts between S Bannister and Godwin are wholly around the time
+                            of the campaign for and then the passing of the Reform Act of 1832.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

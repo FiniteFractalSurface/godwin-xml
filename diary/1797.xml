@@ -1113,7 +1113,7 @@
                      type="dMeal" subtype="Ta">tea <persName ref="/people/FEN01|FEN03.html"
                            ><placeName type="venue">Fenwick's</placeName></persName>, w. <persName
                         ref="/people/WOL01.html">Wt</persName>, <persName>Tucker</persName>,
-                        <persName>Del Vallé</persName> &amp; <persName>Saunders</persName></seg>.
+                           <persName>Del Vallé</persName> &amp; <persName ref="/people/SAU01.html">Saunders</persName></seg>.
                      <seg type="dMeeting" subtype="CG"><persName ref="/people/LER01.html"
                         >Leroux</persName> calls</seg>.</ab>
                <ab type="dDay" xml:id="g1797-03-29"><date when="1797-03-29">29. W. </date><ref
@@ -1383,7 +1383,7 @@
                            ref="/people/REV01|REV02.html">Reveley</persName>, <persName
                            ref="/people/ALD02.html">A A</persName>, <persName
                            ref="/people/FEN01|FEN03.html"> Fenwicks</persName>,
-                           <persName>Saunders</persName>, <persName ref="/people/HAM03.html"
+                        <persName ref="/people/SAU01.html">Saunders</persName>, <persName ref="/people/HAM03.html"
                            >Hamilton</persName>, <persName ref="/people/PHI02.html"
                            >Philips</persName>, <persName>Leeds</persName> &amp; <persName
                            ref="/people/MOO06.html">C Moore</persName></seg></ref>.</ab>

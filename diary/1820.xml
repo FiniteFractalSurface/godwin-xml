@@ -2832,7 +2832,7 @@
                             target="/plays/rome01.html"><placeName type="DL"/>Theatre, 1/2 Romeo;
                                 <seg type="dMeeting" subtype="Adv">adv. <persName
                                     ref="/people/TAL01.html">Talfourd</persName>,
-                                    <persName>Shiel</persName> &amp; <persName
+                                    <persName ref="/people/SHI02.html">Shiel</persName> &amp; <persName
                                     ref="/people/WAL02.html">Wallace</persName></seg></ref>. <ref
                             type="dWrote" subtype="sent" target="/works/popu01.html">Send to
                                 <persName ref="/people/BEN02.html">Bentham</persName></ref>, <ref
@@ -2924,7 +2924,7 @@
                                     type="dMeeting" subtype="C">call on <persName ref="/people/MAC05.html" type="nah"><placeName
                                     type="venue">Macgowan</placeName></persName><hi rend="sup"
                                 >n</hi></seg>: <seg type="dMeeting" subtype="M">meet
-                                <persName>Sheil</persName></seg>, <seg type="dMeeting" subtype="M"
+                                    <persName ref="/people/SHI02.html">Sheil</persName></seg>, <seg type="dMeeting" subtype="M"
                                 ><persName ref="/people/LUB01.html">Lubé</persName></seg> &amp; <seg
                             type="dMeeting" subtype="M"><persName ref="/people/WAL02.html"
                                 >Wallace</persName></seg>. <emph rend="red"><ref type="dEvent"

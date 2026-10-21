@@ -335,7 +335,7 @@
                             Sa.</date><ref type="dWrote" subtype="write" target="/works/mand01.html"
                             >Mandeville, p. 36</ref>. <seg type="dMeal" subtype="D">Dine at
                                 <persName ref="/people/CUR01.html"><placeName type="venue"
-                                    >Curran’s</placeName></persName>, w. <persName>Shiel</persName>
+                                        >Curran’s</placeName></persName>, w. <persName ref="/people/SHI02.html">Shiel</persName>
                             &amp; <persName ref="/people/WAL02.html">Wallace</persName></seg>: <seg
                             type="dMeal" subtype="TG"><persName ref="/people/HUN01|HUN02.html"
                                 >Hunts</persName> at tea</seg>: <seg type="dMeeting"
@@ -830,7 +830,7 @@
                     <ab type="dDay" xml:id="g1817-03-22"><date when="1817-03-22">22. Sa.</date><ref
                             type="dWrote" subtype="write" target="/works/mand01.html">Mandeville, p.
                             101/2</ref>. <seg type="dMeeting" subtype="C">Call on
-                                    <persName><placeName type="venue"
+                                <persName ref="/people/SAU01.html"><placeName type="venue"
                                 >Saunders</placeName></persName></seg>: <ref type="dEntertainment"
                             subtype="Theat" target="/plays/neww01.html"><placeName type="DL"
                             />theatre, 1/2 <persName ref="/people/KEA03.html">Kean</persName>,
@@ -906,7 +906,7 @@
                                 ><placeName>British Gallery</placeName></ref>: <seg type="dMeal"
                             subtype="D">dine at <persName ref="/people/CUR01.html"><placeName
                                     type="venue">Curran’s</placeName></persName>, w.
-                                <persName>Shiel</persName>, <persName ref="/people/WAL02.html"
+                                    <persName ref="/people/SHI02.html">Shiel</persName>, <persName ref="/people/WAL02.html"
                                 >Wallace</persName>, <persName ref="/people/QUI01.html"
                                 >Quin</persName> &amp; <persName ref="/people/LUB01.html"
                                 >Lubé</persName></seg>.</ab>
@@ -1050,7 +1050,7 @@
                                     <persName ref="/people/KEN01.html">Kenney</persName> &amp;
                                     <persName ref="/people/GOD07.html">W</persName>, Iron Chest
                                     (<persName ref="/people/BOO02.html">Booth</persName>); <seg
-                                    type="dMeeting" subtype="Adv">adv. <persName>Shiell</persName>
+                                        type="dMeeting" subtype="Adv">adv. <persName ref="/people/SHI02.html">Shiell</persName>
                                     &amp; <persName ref="/people/WAL02.html"
                                     >Wallace</persName></seg></seg></ref>. <ref type="dEvent"
                             subtype="PersHlth" target="/events/he0000.html">Giddiness</ref>.</ab>
@@ -1134,7 +1134,7 @@
                                 ref="/people/CUR06.html">J B Curran</persName></seg>: <seg
                             type="dMeal" subtype="D">dine at <persName ref="/people/CUR01.html"
                                     ><placeName type="venue">Curran’s</placeName></persName>, w.
-                                <persName>Shiel</persName>, <persName ref="/people/WAL02.html"
+                                    <persName ref="/people/SHI02.html">Shiel</persName>, <persName ref="/people/WAL02.html"
                                 >Wallace</persName>, <persName ref="/people/QUI01.html"
                                 >Quin</persName> &amp; <persName ref="/people/FIN01.html"
                                 >Finnerty</persName>; <seg type="dMeeting" subtype="Adv">adv.
@@ -1349,7 +1349,7 @@
                             type="dWrote" subtype="write" target="/works/mand01.html">Mandeville, p.
                             15/2</ref>. <ref type="dText" subtype="read" target="/bibl/te1285.html"
                             >Spira, pp. 75</ref>. <seg type="dMeeting" subtype="CG"
-                                ><persName>Shiel</persName></seg> &amp; <seg type="dMeeting"
+                                ><persName ref="/people/SHI02.html">Shiel</persName></seg> &amp; <seg type="dMeeting"
                             subtype="CG"><persName ref="/people/BOT01.html">Botwright</persName>
                             call</seg>: <seg type="dMeeting" subtype="C">call on <persName
                                 ref="/people/HAY02.html"><placeName type="venue"
@@ -1428,11 +1428,11 @@
                                 ><persName>Turnbull</persName> calls</seg>: <seg type="dMeeting"
                             subtype="C">call on <persName ref="/people/HAY02.html"><placeName
                                     type="venue">Hayward</placeName></persName></seg>: <seg
-                            type="dMeal" subtype="DG"><persName>Shiel</persName> &amp; <persName
+                                        type="dMeal" subtype="DG"><persName ref="/people/SHI02.html">Shiel</persName> &amp; <persName
                                 ref="/people/OGI01.html">Ogilvie</persName> dine</seg>: <ref
                             type="dEntertainment" subtype="Theat" target="/plays/cato01.html"
                                 ><placeName type="CG"/><seg type="dMeeting" subtype="Do">theatre
-                                (orchestra), w. <persName>Shiel</persName>; Cato; <seg
+                                    (orchestra), w. <persName ref="/people/SHI02.html">Shiel</persName>; Cato; <seg
                                     type="dMeeting" subtype="Adv">adv. <persName
                                         ref="/people/HAR05.html"
                             >Harlowe</persName></seg></seg></ref>.</ab>

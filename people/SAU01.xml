@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="SAU01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>William</forename>
+                        <surname>Saunders</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Lawyer</occupation>
+                    <note type="editorial">
+                        <p>Ed Pope suggests as a possibility: Holdens directory 1811 John Saunders
+                            broker 3 Hand-court Upper Thames-st / John Cunningam Saunders surgeon,
+                            Ely-place. This may be the John Saunders that Godwin notes in December
+                            (7th) 1809). But the contacts start on 13 September 1796 with 'Call on
+                            Saunders , Clifford's Inn' and Clifford's Inn is a place where
+                            attorney's in Chancery had their offices and was used more widely for
+                            training and residence for the legal profession. Moreover, there are
+                            later references to a clerk from Saunders (14/6/1814) and connections to the lawyer
+                            Ballachey- which seem to support the view that this is someone in the
+                            law and with interests in inheritance arrangements! So we have coded
+                            Saunders to the lawyer, and have a separate entry for the Broker John
+                            Saunders. We do not believe that Miss Saunders is connected.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

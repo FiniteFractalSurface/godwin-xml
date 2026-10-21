@@ -3924,7 +3924,7 @@
                             type="dText" subtype="read" target="/bibl/te0700.html">Terence, Phormio,
                             act 1</ref>: <ref type="dText" subtype="read" target="/bibl/te0689.html"
                             >D'Orleans, p. 70</ref>. <seg type="dMeeting" subtype="C">Call on
-                                    <persName><placeName type="venue"
+                                <persName ref="/people/SAU01.html"><placeName type="venue"
                                 >Saunders</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><placeName>Clifford's Inn</placeName></seg>, &amp; <seg
                             type="dMeeting" subtype="Cn"><persName ref="/people/LAW99.html"

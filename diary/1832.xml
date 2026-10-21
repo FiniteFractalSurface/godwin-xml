@@ -323,7 +323,7 @@
                             >Homer, v. 529</ref>. <ref type="dEntertainment" subtype="Museo"
                             target="/events/mu0001.html"><placeName>Museum</placeName>; <ref
                                 type="dText" subtype="read" target="/bibl/te3441.html"
-                            >Aram</ref></ref>. <seg type="dMeal" subtype="SG"><persName>S
+                                >Aram</ref></ref>. <seg type="dMeal" subtype="SG"><persName ref="/people/BAN06.html">S
                                 Bannister</persName> sups</seg>. <emph rend="red"><ref type="dEvent"
                                 subtype="Publ" target="/events/pa0182.html">Russian Subsidy, 239 to
                                 219</ref>.</emph><ref type="dEvent" subtype="Temp"> 51 / 53 ½
@@ -390,7 +390,7 @@
                             >Homer, v. 482</ref>. <seg type="dMeeting" subtype="M">Meet
                                 <persName ref="/people/HOL19.html">Holm</persName></seg> &amp; <seg type="dMeeting"
                             subtype="M"><persName ref="/people/WOO03.html">mrs
-                        Wood</persName></seg>: <seg type="dMeal" subtype="SG"><persName>S
+                                Wood</persName></seg>: <seg type="dMeal" subtype="SG"><persName ref="/people/BAN06.html">S
                                 Bannister</persName> sups</seg>. <ref type="dWrote" subtype="write"
                             target="/works/delo01.html">End of Vol. II</ref>.<ref type="dEvent"
                             subtype="Temp"> 51 / 53</ref></ab>
@@ -790,7 +790,7 @@
                             15/2</ref>. <ref type="dText" subtype="read" target="/bibl/te3402.html"
                             >Homer, v. 505</ref>. <seg type="dMeal" subtype="TG"><persName
                                 ref="/people/SHE02.html">M W S</persName> at tea</seg>: <seg
-                            type="dMeeting" subtype="CG"><persName>S Bannister</persName>
+                                    type="dMeeting" subtype="CG"><persName ref="/people/BAN06.html">S Bannister</persName>
                             calls</seg>.<ref type="dEvent" subtype="Temp"> 51 ½ / 53 ½</ref></ab>
                     <ab type="dDay" xml:id="g1832-03-08"><date when="1832-03-08">8. Th.</date><ref
                             type="dWrote" subtype="write" target="/works/delo01.html">Deloraine, p.
@@ -830,7 +830,7 @@
                             v. 63</ref>: <ref type="dText" subtype="cala" target="/bibl/te3453.html"
                             >Buncle, çala</ref>: <ref type="dText" subtype="read"
                             target="/bibl/te3443.html">Nugent, p. 276</ref>. <seg type="dMeeting"
-                            subtype="CG"><persName>S Bannister</persName> calls</seg>: <seg
+                                subtype="CG"><persName ref="/people/BAN06.html">S Bannister</persName> calls</seg>: <seg
                             type="dMeeting" subtype="C">call on<persName ref="/people/BOO01.html"
                                     ><placeName type="venue">Booth</placeName></persName>; <seg
                                 type="dMeeting" subtype="Adv">adv. <persName
@@ -875,7 +875,7 @@
                                 ref="/people/JAC01.html"><placeName type="venue"
                                 >Jacob’s</placeName></persName>, w. <persName>miss
                             Jones</persName></seg>: <seg type="dMeeting" subtype="M">meet
-                                <persName>S Bannister</persName></seg>. <ref type="dEvent"
+                                <persName ref="/people/BAN06.html">S Bannister</persName></seg>. <ref type="dEvent"
                             subtype="Temp">51 / 54</ref></ab>
                     <ab type="dDay" xml:id="g1832-03-15"><date when="1832-03-15">15. Th. </date><ref
                             type="dWrote" subtype="write" target="/works/delo01.html">Deloraine, p.
@@ -1410,7 +1410,7 @@
                             London; <seg type="dMeeting" subtype="Adv">adv. <persName
                                     ref="/people/GOD07.html">W</persName> &amp; <persName
                                     ref="/people/HIL05.html"> Hill</persName>:</seg></ref><seg
-                            type="dMeal" subtype="SG"><persName>S Bannister</persName> sups</seg>.
+                                        type="dMeal" subtype="SG"><persName ref="/people/BAN06.html">S Bannister</persName> sups</seg>.
                             <seg type="dMeeting" subtype="M">meet <persName ref="/people/KNO02.html"
                                 >Sheridan Knowles</persName></seg>. <ref type="dEvent"
                             subtype="Temp">57 / 59 ½ </ref></ab>
@@ -2661,7 +2661,7 @@
                             page</ref>. <ref type="dText" subtype="read" target="/bibl/te3467.html"
                             >Herodotus, c. 157</ref>: <ref type="dText" subtype="read"
                             target="/bibl/te0617.html">C W, p. 82</ref>. <seg type="dMeeting"
-                            subtype="CG"><persName>S Bannister</persName> calls</seg>: <seg
+                                subtype="CG"><persName ref="/people/BAN06.html">S Bannister</persName> calls</seg>: <seg
                             type="dMeeting" subtype="C">call on<persName ref="/people/OLL01.html"
                                     ><placeName type="venue"> Ollier</placeName></persName></seg>.
                             <ref type="dEvent" subtype="Temp">68 ½ / 70</ref></ab>

@@ -67,7 +67,7 @@
                             type="dWrote" subtype="write" target="/works/comm01.html">Commonwealth,
                             p. 1</ref>. <ref type="dText" subtype="read" target="/bibl/te2637.html"
                             >Ariosto, 1/2 C. XI</ref>.<seg type="dMeeting" subtype="CG"
-                                ><persName>Saunders</persName> calls</seg>: <seg type="dMeeting"
+                                ><persName ref="/people/SAU01.html">Saunders</persName> calls</seg>: <seg type="dMeeting"
                             subtype="C">call on <persName ref="/people/HUM01.html"><placeName
                                     type="venue">Hume</placeName></persName></seg>:<seg type="dMeal"
                             subtype="S"> sup at<persName ref="/people/LAM01|LAM02.html"><placeName
@@ -1086,7 +1086,7 @@
                             times</seg>: <seg type="dMeeting" subtype="C">on Read</seg>, &amp;<seg
                             type="dMeeting" subtype="C"><persName><placeName type="venue">mrs
                                     Read</placeName></persName> twice</seg>: <seg type="dMeeting"
-                            subtype="Sk"> seek <persName>Saunders</persName></seg>: <seg
+                                        subtype="Sk"> seek <persName ref="/people/SAU01.html">Saunders</persName></seg>: <seg
                             type="dMeal" subtype="DG"><persName ref="/people/MAR01.html"
                                 >M</persName> dines; <seg type="dMeeting" subtype="Adv"
                                     >adv.<persName> H P</persName></seg></seg>.<seg type="dMeeting"
@@ -1550,7 +1550,7 @@
                             type="dText" subtype="cala" target="/bibl/te2815.html">Brodie,
                             çala</ref>. <ref type="dText" subtype="read" target="/bibl/te2637.html"
                             >Ariosto, C. XLV, st. 44</ref>. <seg type="dMeeting" subtype="M">Meet
-                                <persName>Saunders</persName></seg>{.} <seg type="dMeeting"
+                                <persName ref="/people/SAU01.html">Saunders</persName></seg>{.} <seg type="dMeeting"
                             subtype="M"><persName ref="/people/LAM02.html">M Lamb</persName>
                             calls</seg>: <seg type="dMeeting" subtype="C">call on
                                 <persName ref="/people/BAL15.html"><placeName type="venue"
@@ -1719,7 +1719,7 @@
                                     >Hume</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName ref="/people/HUD01.html"><placeName type="venue"
                                     >Hudson</placeName></persName></seg>: <seg type="dMeeting"
-                            subtype="C">call at <persName><placeName type="venue"
+                                        subtype="C">call at <persName ref="/people/SAU01.html"><placeName type="venue"
                                     >Saunders’s</placeName></persName></seg>: <seg type="dMeeting"
                             subtype="M">meet <persName>miss Taylor, jun</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1822-07-06"><date when="1822-07-06">6. Sa. </date><ref
@@ -1743,7 +1743,7 @@
                                 ref="/people/LOB01.html">Lobrot</persName></seg> &amp; <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/JON02.html"
                                 >Jones</persName> call</seg>: <seg type="dMeeting" subtype="CG">call
-                            on <persName>Saunders</persName></seg> &amp; <seg type="dMeeting"
+                                    on <persName ref="/people/SAU01.html">Saunders</persName></seg> &amp; <seg type="dMeeting"
                             subtype="CG"><persName ref="/people/MAC04.html"
                             >Macmillan</persName></seg>. <ref type="dEvent" subtype="Death"
                                 ><persName ref="/people/SHE01.html">P B Shelley</persName> dies
@@ -1816,7 +1816,7 @@
                             target="/bibl/te2817.html">Pulci, C. V, st. 18</ref>. <ref type="dWrote"
                             subtype="letter"> Write to <persName ref="/people/POU01.html"
                                 >Pouncy</persName></ref>.<seg type="dMeeting" subtype="C"> Call on
-                                    <persName><placeName type="venue"
+                                    <persName ref="/people/SAU01.html"><placeName type="venue"
                                 >Saunders</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName ref="/people/ROD03.html"><placeName type="venue">H
                                     Rodd</placeName></persName></seg>: <seg type="dMeeting"
@@ -1904,7 +1904,7 @@
                             type="dText" subtype="cala" target="/bibl/te2815.html">Brodie,
                             çala</ref>. <ref type="dText" subtype="read" target="/bibl/te2817.html"
                             >Pulci, st. 60</ref>. <seg type="dMeeting" subtype="C"> Call on
-                                    <persName><placeName type="venue"
+                                <persName ref="/people/SAU01.html"><placeName type="venue"
                                 >Saunders</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName ref="/people/HUM01.html"><placeName type="venue"
                                     >Hume</placeName></persName></seg>: <seg type="dMeeting"

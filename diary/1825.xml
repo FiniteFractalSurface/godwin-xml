@@ -80,7 +80,7 @@
                             <seg type="dMeeting" subtype="C">call on <persName
                                 ref="/people/CRA02.html"><placeName type="venue"
                                 >Cradock</placeName></persName></seg> &amp; <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                    subtype="C"><persName ref="/people/SAU01.html"><placeName type="venue"
                                 >Saunders</placeName></persName></seg>: <seg type="dMeal"
                             subtype="DG"><persName ref="/people/HOL09.html">A Harwood</persName>
                             dines</seg>: <ref type="dEntertainment" subtype="Theat"
@@ -539,7 +539,7 @@
                                 ><placeName type="CG"/> theatre, 3/5 Inconstant; <seg
                                 type="dMeeting" subtype="Adv">adv. <persName
                                     ref="/people/WAL02.html">Wallace</persName> &amp;
-                                    <persName>Sheil</persName></seg></ref>.</ab>
+                                    <persName ref="/people/SHI02.html">Sheil</persName></seg></ref>.</ab>
                     <pb n="e.221_0005r"/>
                     <ab type="dDay" xml:id="g1825-02-20"><date when="1825-02-20">Feb. 20.
                             Su.</date><ref type="dWrote" subtype="cala" target="/works/comm01.html"

@@ -2199,7 +2199,7 @@
                             persons</seg>: sleep in <placeName>S S</placeName>. <seg type="dMeeting"
                             subtype="CG"><persName ref="/people/PHI03.html">Cha.
                             Phillips</persName></seg>, <seg type="dMeeting" subtype="CG"
-                                ><persName>Sheil</persName></seg> &amp; <seg type="dMeeting"
+                                ><persName ref="/people/SHI02.html">Sheil</persName></seg> &amp; <seg type="dMeeting"
                             subtype="CG"><persName ref="/people/TAL01.html" type="nah"
                                 >Talfourd</persName> call <hi rend="sup">n</hi></seg>, &amp; <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/BRO04.html"
@@ -2473,7 +2473,7 @@
                                     >Kenney</placeName></persName>, w. <persName
                                 ref="/people/CLA01.html">M J</persName></seg>: <seg type="dMeal"
                             subtype="SG"><persName ref="/people/KEN01.html">Kenneys</persName>,
-                                <persName>Sheil</persName> &amp; <persName ref="/people/CUR04.html"
+                                    <persName ref="/people/SHI02.html">Sheil</persName> &amp; <persName ref="/people/CUR04.html"
                                 >W Curran</persName> sup</seg>.</ab>
                     <ab type="dDay" xml:id="g1818-09-30"><date when="1818-09-30">30. W.</date><ref
                             type="dText" subtype="read" target="/bibl/te1119.html">Bonduca, act
@@ -2560,7 +2560,7 @@
                                     ><placeName type="venue">Rodd’s</placeName></persName></seg>:
                             <ref type="dEntertainment" subtype="Theat" target="/plays/riva02.html"
                             >theatre, 2/5 Rivals; <seg type="dMeeting" subtype="Adv">adv.
-                                    <persName>Tegart</persName>, <persName>Sheil</persName> &amp;
+                                <persName>Tegart</persName>, <persName ref="/people/SHI02.html">Sheil</persName> &amp;
                                     <persName ref="/people/WAL02.html"
                             >Wallace</persName></seg></ref>.</ab>
                     <ab type="dDay" xml:id="g1818-10-09"><date when="1818-10-09">9. F.</date><ref
