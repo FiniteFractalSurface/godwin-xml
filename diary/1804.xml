@@ -2369,7 +2369,7 @@
                         <persName>Carles's</persName></seg>: <ref type="dEntertainment"
                      subtype="Theat" target="/plays/foul01|hunt01.html"><placeName type="HM"
                      />theatre, 1/2 Foul Deeds, &amp; Hunter of Alps; <seg type="dMeeting"
-                        subtype="Adv">adv. <persName>Skene</persName></seg></ref>.</ab>
+                        subtype="Adv">adv. <persName ref="/people/SKE03.html">Skene</persName></seg></ref>.</ab>
                <pb n="e.207_0019r"/>
                <ab type="dDay" xml:id="g1804-07-22"><date when="1804-07-22">July 22. Su.</date><ref
                      type="dWrote" subtype="write" target="/works/flee01.html">Fleetwood, p.
@@ -2699,7 +2699,7 @@
                         <persName ref="/people/FEN01.html"><placeName type="venue"
                         >Fk</placeName></persName></seg>, &amp; <seg type="dMeeting" subtype="C"
                         ><persName ref="/people/WOL04.html">Everina</persName>, at
-                           <persName><placeName type="venue">Snaggs's</placeName></persName>; <seg
+                           <persName ref="/people/SNA01.html"><placeName type="venue">Snaggs's</placeName></persName>; <seg
                         type="dMeeting" subtype="Adv">adv. <persName ref="/people/BIS02.html">Eliz.
                            Wt</persName></seg></seg>: <seg type="dMeeting" subtype="M">meet
                         <persName ref="/people/KNA01.html">L K</persName></seg> &amp; <seg
@@ -2799,7 +2799,7 @@
                         ref="/people/HOL05.html"><placeName type="venue">L
                      Ht</placeName></persName>, for <seg type="dTopic"><persName
                            ref="/people/CLA01.html">M J</persName></seg></seg>, &amp; <seg
-                     type="dMeeting" subtype="C">on <persName>Snagg</persName>, for <seg
+                              type="dMeeting" subtype="C">on <persName ref="/people/SNA01.html">Snagg</persName>, for <seg
                         type="dTopic"><persName ref="/people/IML01.html">F</persName></seg> &amp;
                         <persName ref="/people/SHE02.html">M</persName>; <seg type="dMeeting"
                         subtype="Adv">adv. <persName ref="/people/WOL04.html">Everina</persName>

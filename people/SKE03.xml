@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="SKE03" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>George</forename>
+                        <surname>Skene</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-01-01"/>
+                    <occupation>Poet</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's note: George Skene A.M. was the author of Donald Bane an
+                            heroic poem published in 1796 printed for George Robinson (for whom
+                            Jonas Davis often printed), dedicated to James Duff, Earl of Fife, and
+                            based on "a manuscript at the family seat of Mr Skene of Skene, MP for
+                            Aberdeenshire in the parliament before last". That MP was George Skene
+                            (History of Parliament 1749-1825 a drunken laird and a firm adherent of
+                            the Whig side of politics to the end of his life). The MP's sister was
+                            married to the Earl of Fife's brother. George Skene the poet also
+                            published The Genius of Shakspear dedicated to Alderman Boydell and The
+                            Sweets and Sorrows of Love (Oracle 7.4.1794) but has no entry in
+                            Allibone, Watt or Watkins and Shoberl. There was George Skene MD of
+                            Aberdeen 1741-1803 professor of natural philosophy at Aberdeen 1760-88
+                            who was probably the same as Dr George Skene of Berryhill. There was
+                            also a George Skene in London, clerk to the magistrates office.at
+                            Shadwell in the late 1790s and later at the Queen Square office who was
+                            executed for forgery 18.3.1812, who was a nephew of the MP. His wife
+                            died 30.12.1805 from severe burning (Gents Mag 1805 p1242). He may have
+                            been the poet, his degree probably from Aberdeen, it is unlikely that
+                            the Doctor would have used the degree A.M. and the MP was referred to in
+                            his preface as though a different person. The MP died unmarried so the
+                            poet could have been his natural sonbut is not mentioned in his will PCC
+                            1826. See Memorials of the family of Skene of Skene, Spalding Club
+                            1879</p>
+                        <p></p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

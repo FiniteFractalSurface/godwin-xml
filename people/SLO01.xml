@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="SLO01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Robert</forename>
+                        <surname>SLoper</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's extensive comment: Because of the connection with Anthony
+                            Carlisle (DNB 1768-1840) it seems probable that the Slopers Godwin met
+                            were of the family of General Sir Robert Sloper (1729-1802). He married
+                            in 1752 Jane Willes (dau of John Willes DNB 1685-1761). They had four
+                            children, Jenny (born 1753 married 1777 Rev William Goddard, had one
+                            child Amelia and died 1784), John (1759-1787), Granby (born 1765 died
+                            1835 Paris apparently unmarried and without children) and Robert Orby
+                            (born 1769 married twice, had five children and died 1828). Sir Robert
+                            also had an illegitimate family of six children by a woman who was
+                            probably born Sarah Stokes but was later known as Sarah Stokes Knowler.
+                            The oldest child Hetty married, as Hetty Stokes, in India in 1785
+                            Pellegrin Treves (1760-1825). In her burial record (St George Hanover Sq
+                            25.9.1826) her age was recorded as 37 but she must have been born around
+                            the same time (1769) as Sir Robert's youngest child by his wife, or
+                            earlier. In Sir Robert's will he excused himself for not leaving Hetty
+                            Treves anything, not for lack of affection but because she was well
+                            provided for. In the will of her presumed mother Sarah Stokes Knowler
+                            she wasn't mentioned at all. The other five children were Robert Stokes
+                            Sloper (1769-1845) the Rev George Sloper (1774-1855) Charles Stokes
+                            Sloper (died about 1806) Marcia (1784-1841) and Emily (born 1792). Sir
+                            Robert's will also left something to John Stokes (1750-1825) who like
+                            the General and his mistress was living at West Green, Hampshire (though
+                            he had previously lived in London) while the General's wife lived at the
+                            family seat at West Woodhay, Berks, so John Stokes was likely the
+                            brother of the General's mistress. When Sir Robert had returned from
+                            India in 1787 the newspapers noted the passengers on board the William
+                            Pitt from Bengal, including General Sloper and family, Rev Mr Goddard, and
+                            Mrs Knowler. Sarah Stokes Knowler died very shortly after Sir Robert in
+                            1802, while his widow Jane Sloper died in 1804. In a Chancery suit of
+                            1803 (Nat Arch C 13/1590/32) concerning the will of Sarah Stokes
+                            Knowler, Anthony Carlisle complained on behalf of Marcia and Amelia the
+                            two children still not of age (as their "best friend") against Robert
+                            Stokes Sloper, who was an attorney and an executor of the wills of the
+                            general and his mistress. Much later, in 1821, Carlisle was involved in
+                            an equity suit in the Court of Exchequer, in which Edward Goddard, son
+                            of the Rev William Goddard by his second wife, who was left an orphan at
+                            age 6 in 1798, complained against Robert Stokes Sloper, his wife and
+                            son, and Carlisle, as R S Sloper had become insolvent while caretaking
+                            young Goddard's inheritance. Carlisle took a neutral position but was
+                            clearly a close family friend. The Slopers in 1807 and 1808 were all
+                            calls and not with Carlisle, but Robert Stokes Sloper, an attorney
+                            Godwin had perhaps already met, would seem a likely candidate even
+                            without the Carlisle connection. The Sloper entries before 1800 might
+                            have been Robert Stokes Sloper, or perhaps William Charles Sloper
+                            (1736-1824) younger brother of Sir Robert Sloper, who was MP for St
+                            Alobans 1780 to 1790 and who married in 1774 Amelia, daughter of
+                            Jonathan Shipley (DNB 1713-1788) bishop of St Asaph. They had one
+                            daughter Amelia, who married Charles Warren (qv) in 1813, and she may
+                            have been the miss Sloper at Tooke's in 1800, the only other likely Miss
+                            Sloper from this family would have been Marcia (see above). The Sloper
+                            senior at Carlisle's in 1800 was probably Sir Robert - he could have
+                            been senior (as older brother) to William Charles. or (as father) to
+                            Robert Stokes. The mesdames Carlisle, White and Sloper in 1805 could
+                            have included a miss and/or a mrs Sloper. Robert Stokes Sloper had
+                            married (as a bachelor) Maria Lane in 1804 so it was possibly her. R S
+                            Sloper also had a son George Dyke Sloper, also an attorney, who must
+                            have been born about 1785 when R S Sloper was only 16; he might also
+                            have been the Sloper of 1807.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
