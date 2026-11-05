@@ -323,7 +323,7 @@
                      type="dEntertainment" subtype="Theat" target="/plays/robe01.html"><placeName
                         type="CG"/> Theatre, Robert the Devil; <seg type="dMeeting" subtype="Adv"
                         >adv. <persName ref="/people/TAL01.html">Talfourd</persName>,
-                           <persName>Spencer</persName> &amp; <persName ref="/people/BAR05.html"
+                           <persName ref="/people/SPE03.html">Spencer</persName> &amp; <persName ref="/people/BAR05.html"
                            >Barham</persName></seg></ref>. <ref type="dEvent" subtype="Temp">35 /
                      37</ref></ab>
                <ab type="dDay" xml:id="g1830-02-03"><date when="1830-02-03">3. W.</date><ref
@@ -522,7 +522,7 @@
                      <ref type="dText" subtype="cala" target="/bibl/te1221.html">Fingal, çala</ref>.
                      <ref type="dEntertainment" subtype="Theat" target="/plays/past01.html"
                         ><placeName type="DL"/>Theatre, Past &amp; Present;<seg type="dMeeting"
-                        subtype="Adv"> adv. <persName>Spencer</persName>, <persName
+                           subtype="Adv"> adv. <persName ref="/people/SPE03.html">Spencer</persName>, <persName
                            ref="/people/BAR05.html">Barham</persName> &amp; <persName>E
                            Prentice</persName></seg></ref>. <ref type="dEvent" subtype="Temp">50 ½ /
                      56</ref></ab>
@@ -1180,7 +1180,7 @@
                      target="/plays/hofe01.html"><placeName type="DL"/>Theatre, Hofer; <seg
                         type="dMeeting" subtype="Adv">adv. <persName ref="/people/SKE01.html"
                            >Skeffington</persName>, <persName ref="/people/GEN01.html"
-                           >Gent</persName> &amp; <persName>Spencer</persName> &amp;
+                              >Gent</persName> &amp; <persName ref="/people/SPE03.html">Spencer</persName> &amp;
                            <persName>Brighton Russel</persName></seg></ref>. <ref type="dText"
                      subtype="read" target="/bibl/te3309.html">Blackwood, on Cloudesley</ref>. <ref
                      type="dEvent" subtype="Temp">66 / 67 ½ </ref></ab>
@@ -1203,7 +1203,7 @@
                         >adv. <persName ref="/people/GEN01.html">Gent</persName></seg></ref>: <ref
                      type="dEntertainment" subtype="Theat" target="/plays/isab01.html"><placeName
                         type="CG"/>theatre, Isabella; <seg type="dMeeting" subtype="Adv"> adv.
-                           <persName>Spencer</persName></seg></ref>. <ref type="dEvent"
+                           <persName ref="/people/SPE03.html">Spencer</persName></seg></ref>. <ref type="dEvent"
                      subtype="Temp">61 ½ / 65</ref></ab>
                <ab type="dDay" xml:id="g1830-05-04"><date when="1830-05-04">4. Tu.</date><ref
                      type="dWrote" subtype="write" target="/works/thou01.html">Novelty, p.
@@ -1439,7 +1439,7 @@
                      type="dEntertainment" subtype="Theat" target="/plays/sphu01.html"><placeName
                         type="DL"/> theatre, Spanish Husband; <seg type="dMeeting" subtype="Adv"
                         >adv. <persName ref="/people/SKE01.html">Skeffington</persName> &amp;
-                           <persName>Spencer</persName></seg></ref>. <ref type="dEvent"
+                           <persName ref="/people/SPE03.html">Spencer</persName></seg></ref>. <ref type="dEvent"
                      subtype="Temp">64 / 67</ref></ab>
                <ab type="dDay" xml:id="g1830-05-26"><date when="1830-05-26">26. W. </date><ref
                      type="dWrote" subtype="cala" target="/works/thou01.html">Astronomy, çala</ref>.

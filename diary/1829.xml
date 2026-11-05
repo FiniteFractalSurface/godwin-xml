@@ -132,7 +132,7 @@
                      target="/plays/king03.html"><placeName type="CG"/>Theatre (RII; <seg
                         type="dMeeting" subtype="Adv">adv. <persName>B Aldis</persName></seg>),
                      Caswallon; <seg type="dMeeting" subtype="Adv">adv.
-                        <persName>Spencer</persName></seg></ref>. <ref type="dEvent" subtype="Temp"
+                        <persName ref="/people/SPE03.html">Spencer</persName></seg></ref>. <ref type="dEvent" subtype="Temp"
                      >44 ½ / 47</ref></ab>
                <ab type="dDay" xml:id="g1829-01-13"><date when="1829-01-13">13. Tu.</date><ref
                      type="dWrote" subtype="cala" target="/works/clou01.html">Mowbray, çala</ref>.
@@ -156,7 +156,7 @@
                      >Udolpho, p. 296</ref>. <ref type="dEntertainment" subtype="Theat"
                      target="/plays/nymp01.html"><placeName corresp="CG"/>Theatre, Nymph of Grotto;
                         <seg type="dMeeting" subtype="Adv">adv.
-                     <persName>Spencer</persName></seg></ref>. <seg type="dMeeting" subtype="CG"
+                           <persName ref="/people/SPE03.html">Spencer</persName></seg></ref>. <seg type="dMeeting" subtype="CG"
                         ><persName ref="/people/WHI03.html">Whites</persName> call</seg>. <ref
                      type="dEvent" subtype="other"><foreign>Au lit</foreign>, Irish name</ref>. <ref
                      type="dEvent" subtype="Temp">47 ½ / 49</ref></ab>
@@ -518,7 +518,7 @@
                      Od. III, 27</ref>: <ref type="dText" subtype="read" target="/bibl/te3187.html"
                      >Jac. Ortis, p. 22</ref>.<ref type="dEntertainment" subtype="Theat"
                      target="/plays/pult01.html"><placeName type="CG"/> Theatre, Pultava; <seg
-                        type="dMeeting" subtype="Adv">adv. <persName>Spencer</persName> &amp;
+                        type="dMeeting" subtype="Adv">adv. <persName ref="/people/SPE03.html">Spencer</persName> &amp;
                            <persName ref="/people/BAR05.html">Barham</persName></seg></ref>. <ref
                      type="dEvent" subtype="Temp">48 / 50</ref></ab>
                <ab type="dDay" xml:id="g1829-02-25"><date when="1829-02-25">25. W.</date><ref
@@ -1402,7 +1402,7 @@
                            type="venue">C Jones </placeName></persName><hi rend="sup">n</hi></seg>:
                      <ref type="dEntertainment" subtype="Theat" target="/plays/susp01.html"
                         ><placeName type="CG"/>theatre, Suspic<hi rend="sup">s</hi> Husband; <seg
-                        type="dMeeting" subtype="Adv">adv. <persName>Spencer</persName></seg></ref>.
+                           type="dMeeting" subtype="Adv">adv. <persName ref="/people/SPE03.html">Spencer</persName></seg></ref>.
                      <ref type="dEvent" subtype="Temp">64 ½ / 70</ref></ab>
                <ab type="dDay" xml:id="g1829-05-29"><date when="1829-05-29">29. F.</date><ref
                      type="dWrote" subtype="write" target="/works/clou01.html">Delamere, p.
@@ -3189,7 +3189,7 @@
                      subtype="TG"><persName ref="/people/SHE02.html">M W S</persName> at tea</seg>:
                      <ref type="dEntertainment" subtype="Theat" target="/plays/brig01.html"
                         ><placeName type="DL"/>theatre, Brigand; <seg type="dMeeting" subtype="Adv"
-                        >adv. <persName>Spencer</persName></seg></ref>. (<ref type="dEvent"
+                           >adv. <persName ref="/people/SPE03.html">Spencer</persName></seg></ref>. (<ref type="dEvent"
                      subtype="Weath">Snow</ref>). <ref type="dWrote" subtype="other"
                      target="/works/clou01.html">End of Vol. III</ref>. <ref type="dEvent"
                      subtype="Temp">47 ½ / 50</ref></ab>
@@ -3228,7 +3228,7 @@
                            type="venue">M</placeName></persName><hi rend="sup">n</hi></seg>: <ref
                      type="dEntertainment" subtype="Theat" target="/plays/foll01.html"><placeName
                         type="DL"/>theatre, Follies of Fashion</ref>; <seg type="dMeeting"
-                     subtype="Adv">adv. <persName>Spencer</persName></seg>. <ref type="dEvent"
+                           subtype="Adv">adv. <persName ref="/people/SPE03.html">Spencer</persName></seg>. <ref type="dEvent"
                      subtype="PersEvent" target="/events/pe0434.html">Go to press</ref>. <ref
                      type="dEvent" subtype="Temp">48 ½ / 50</ref></ab>
                <pb n="e.224_0008v"/>
@@ -3518,7 +3518,7 @@
                      revise</ref>. <ref type="dWrote" subtype="other" target="/works/clou01.html"
                      >Proof</ref>. <ref type="dEntertainment" subtype="Theat"
                      target="/plays/brut01.html"><placeName type="DL"/>Theatre, Brutus; <seg
-                        type="dMeeting" subtype="Adv">adv. <persName>Spencer</persName>
+                        type="dMeeting" subtype="Adv">adv. <persName ref="/people/SPE03.html">Spencer</persName>
                            (qu.<persName ref="/people/MAC01.html">
                      Mackintosh</persName>)</seg></ref>. <ref type="dEvent" subtype="Temp">38 ½ /
                      41</ref></ab>

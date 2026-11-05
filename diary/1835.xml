@@ -452,7 +452,7 @@
                                                   ref="/people/HOL17.html">T Ht</persName>,
                                                   <persName ref="/people/MOR01.html">2
                                                   Mortons</persName> &amp;
-                                                  <persName>Spencer</persName></seg></ref>.
+                                                <persName ref="/people/SPE03.html">Spencer</persName></seg></ref>.
                                                 <add><ref type="dEvent" subtype="Weath"
                                           >Snow</ref>.</add><ref type="dEvent" subtype="Temp">50 /
                                           66</ref></ab>
@@ -1752,7 +1752,7 @@
                                           subtype="Theat" target="/plays/sonn01.html"><placeName
                                                 type="CG"/>Theatre, Sonnambula (Malibran); <seg
                                                 type="dMeeting" subtype="Adv">adv.
-                                                  <persName>Spencer</persName></seg></ref>.
+                                                      <persName ref="/people/SPE03.html">Spencer</persName></seg></ref>.
                                           <add>o</add><ref type="dEvent" subtype="Temp">59 ½ / 67 ½
                                     </ref></ab>
                               <ab type="dDay" xml:id="g1835-05-30"><date when="1835-05-30">30.
@@ -1881,7 +1881,7 @@
                                           subtype="Theat" target="/plays/good03.html"><placeName
                                                 type="HM"/>Theatre, Good Husbands; <seg
                                                 type="dMeeting" subtype="Adv">adv.
-                                                  <persName>Spencer</persName></seg></ref>.
+                                                      <persName ref="/people/SPE03.html">Spencer</persName></seg></ref>.
                                           <add>o</add><ref type="dEvent" subtype="Temp">69 / 72
                                           ½</ref></ab>
                               <ab type="dDay" xml:id="g1835-06-12"><date when="1835-06-12">12.
@@ -3332,7 +3332,7 @@
                                           dines</seg>: <ref type="dEntertainment" subtype="Theat"
                                           target="/plays/paul03.html"><placeName type="CG"/>theatre,
                                           Paul Clifford; <seg type="dMeeting" subtype="Adv">adv.
-                                                  <persName>Spencer</persName> &amp;
+                                                <persName ref="/people/SPE03.html">Spencer</persName> &amp;
                                                   <persName>Elmore</persName></seg></ref>. <ref
                                           type="dEvent" subtype="Temp">53 ½ / 63 ½</ref></ab>
                               <ab type="dDay" xml:id="g1835-10-29"><date when="1835-10-29">29.
@@ -3583,7 +3583,7 @@
                                           target="/plays/inhe01.html"><placeName type="CG"/>theatre,
                                           1/2 Inheritance; <seg type="dMeeting" subtype="Adv">adv.
                                                   <persName ref="/people/HOL17.html">T Ht</persName>
-                                                &amp; <persName>Spencer</persName></seg></ref>. <ref
+                                                &amp; <persName ref="/people/SPE03.html">Spencer</persName></seg></ref>. <ref
                                           type="dEvent" subtype="Temp">56 / 60</ref></ab>
                               <ab type="dDay" xml:id="g1835-11-25"><date when="1835-11-25">25.
                                           W.</date><ref type="dEvent" subtype="PersEvent"
@@ -3632,7 +3632,7 @@
                                           target="/plays/lord03.html"><placeName type="CG"/>theatre,
                                           Lord of Isles, act 1, 2; <seg type="dMeeting"
                                                 subtype="Adv">adv.
-                                                <persName>Spencer</persName></seg></ref>. <ref
+                                                <persName ref="/people/SPE03.html">Spencer</persName></seg></ref>. <ref
                                           type="dEvent" subtype="Temp">58 ½ / 63 ½</ref></ab>
                         </div>
                         <div type="dMonth" xml:id="g1835-12">
@@ -3743,7 +3743,7 @@
                                           calls</seg>: <ref type="dEntertainment" subtype="Theat"
                                           target="/plays/neil01.html"><placeName type="CG"/>theatre,
                                           King O’Neil; <seg type="dMeeting" subtype="Adv">adv.
-                                                  <persName>Spencer</persName></seg></ref>. <ref
+                                                <persName ref="/people/SPE03.html">Spencer</persName></seg></ref>. <ref
                                           type="dText" subtype="read" target="/bibl/te3685.html"
                                           >Parricide, p. 64</ref>. <add><emph rend="pencil"
                                           >x</emph></add><emph rend="small"><ref type="dEvent"
