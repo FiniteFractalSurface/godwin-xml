@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="SNO01" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>NAME</forename>
+                        <surname>Snow</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>Ed Pope notes: The earlier Snows appeared in Godwin's dairy in two
+                            distinct periods 1804 to 1806 and 1818 to 1823, all 5 entries of the
+                            earlier period were in company with the Beresfords or the Rowans (mrs
+                            Beresford was Rowan's sister), and then from 1806 to 1809 there were 16
+                            Beresford entries without any Snows. Apart from one call in 1812 Godwin
+                            didn't note Beresfords again until 27.12.1818, shortly after 3 Snow
+                            entries, two of which were on the steamboat back from Southend. Then
+                            there were 4 entries over the next seven weeks with Snows and Beresfords
+                            together, followed by 35 Snow entries across the next 4 years without
+                            Beresfords and 11 Beresford entries across the next 2 years without
+                            Snows. One explanation for this could have been that the Snows of the
+                            Southend steamboat and the later entries up to 1823 were a different
+                            family from the Snows associated with the Beresfords. Or it may simply
+                            have been that the Beresfords moved out to Addlestone in Surrey while
+                            Snow continued in London. I have looked at a number of different Snow
+                            families but come to no clear identification so I have detailed them in
+                            the work notes below. The entry Snow sups of 24.8.1819 was referred to
+                            by Godwin in his letter to his wife of 25.8.1819 (Bodleian Abinger c42
+                            f2) which makes it clear that Mr Snow was bringing letters back and
+                            forth between Godwin in London and his wife in Southend. He was perhaps
+                            captain or crew of the Southend steamboat. In July 1821 Godwin referred
+                            to the Southend boat as Britannia. </p>
+                        <p>We would add that it seems clear that Snow (and possibly the Snows, since
+                            groups of 2 and 3 are noted) have a residence in the vicinty of
+                            Southend, as well as in London. On the 21 August 1819 Godwin takes the
+                            steamboat to Southend; the following day he calls on Snow and has tea
+                            there the following day returns to London on the steamboat. The July
+                            1821 entries mention 'Britannia'; but it is woth noting that there was a
+                            building called the Britannia in Southnd, so it may have been a point of
+                            arrival or departure.( </p> <p>
+                                Entries are coded for instances between 1818 and 1823 only.
+                            </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

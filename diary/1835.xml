@@ -707,7 +707,7 @@
                                                 type="dMeal" subtype="BG"><persName
                                                   ref="/people/SHE02.html">M W S</persName>
                                                 breakfasts</seg> &amp; sups</seg>: <seg
-                                          type="dMeeting" subtype="C">call on <persName><placeName
+                                                      type="dMeeting" subtype="C">call on <persName ref="/people/SNO01.html"><placeName
                                                   type="venue">Snow</placeName></persName>, <seg
                                                 type="dTopic">Lit. Fund</seg></seg>. <ref
                                           type="dEvent" subtype="Temp">60 / 64</ref></ab>
@@ -874,8 +874,8 @@
                                                   ref="/people/SHE02.html">M W S</persName> &amp;
                                                   <persName ref="/people/WIL02.html"
                                                   >Wilson</persName></seg></seg>. <ref type="dWrote"
-                                          subtype="letter">Write to <persName>Jos</persName></ref>.
-                                          <ref type="dEvent" subtype="Weath">Snow</ref>. <ref
+                                                        subtype="letter"></ref>Write to <ref type="dEvent" subtype="Weath"><persName ref="/people/SNO02.html">Jos.
+                                          Snow</persName></ref>. <ref
                                           type="dEvent" subtype="Temp">57 ½ / 65 ½</ref></ab>
                               <ab type="dDay" xml:id="g1835-03-16"><date when="1835-03-16">16.
                                           M.</date><ref type="dText" subtype="read"

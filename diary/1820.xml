@@ -153,7 +153,7 @@
                     <ab type="dDay" xml:id="g1820-01-18"><date when="1820-01-18">18. Tu.</date><ref
                             type="dText" subtype="read" target="/bibl/te2375.html">Life of Jer.
                             Taylor, p. 130</ref>. <seg type="dMeal" subtype="SG"
-                                ><persName>Snow</persName> sups</seg>.</ab>
+                                ><persName ref="/people/SNO01.html">Snow</persName> sups</seg>.</ab>
                     <ab type="dDay" xml:id="g1820-01-19"><date when="1820-01-19">19. W.</date><ref
                             type="dText" subtype="read" target="/bibl/te2637.html">Life of Taylor,
                             p. 186</ref>. <seg type="dMeeting" subtype="CG"><persName
@@ -264,7 +264,7 @@
                                 ><persName ref="/people/IRV01.html">Irving</persName></seg> &amp;
                             <seg type="dMeeting" subtype="CG"><persName ref="/people/TUR01.html">T
                                 T</persName> call</seg>: <seg type="dMeal" subtype="SG"
-                                ><persName>Snow</persName> sups</seg>. <ref type="dText"
+                                    ><persName ref="/people/SNO01.html">Snow</persName> sups</seg>. <ref type="dText"
                             subtype="read" target="/bibl/te0934.html">King &amp; No Kings, acts 4
                             &amp; 5</ref>.</ab>
                     <ab type="dDay" xml:id="g1820-02-03"><date when="1820-02-03">3. Th.</date><ref
@@ -526,7 +526,7 @@
                             pp</ref>. <ref type="dText" subtype="read" target="/bibl/te0090.html"
                             >Tasso, st. 75</ref>. <seg type="dMeeting" subtype="CG"><persName
                                 ref="/people/LAM01.html">Lamb</persName> calls</seg>: <seg
-                            type="dMeeting" subtype="C">call on <persName><placeName type="venue"
+                                    type="dMeeting" subtype="C">call on <persName ref="/people/SNO01.html"><placeName type="venue"
                                     >Snow</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName><placeName type="venue">R
                                 Valpy</placeName></persName></seg>. <emph rend="red"><ref
@@ -564,7 +564,7 @@
                                 ><persName ref="/people/HOL17.html">T Ht</persName> call</seg>: <seg
                             type="dMeal" subtype="SG"><persName ref="/people/MUL01.html"
                                 >Mulready</persName> sups</seg>. <seg type="dMeeting" subtype="CG"
-                                ><persName>Snow</persName> calls</seg>.</ab>
+                                    ><persName ref="/people/SNO01.html">Snow</persName> calls</seg>.</ab>
                     <ab type="dDay" xml:id="g1820-03-04"><date when="1820-03-04">4. Sa.</date><ref
                             type="dWrote" subtype="revised" target="/works/popu01.html">Malthus,
                             revise</ref>. <ref type="dText" subtype="read"
@@ -1633,7 +1633,7 @@
                             revise</ref>. <seg type="dMeeting" subtype="C">Call on
                                 <persName ref="/people/MAC05.html"><placeName type="venue">Macgowan, Windmill
                                     Str</placeName></persName></seg>: <seg type="dMeal" subtype="SG"
-                                ><persName>Snow</persName> sups</seg>. <ref type="dEvent"
+                                        ><persName ref="/people/SNO01.html">Snow</persName> sups</seg>. <ref type="dEvent"
                             subtype="Publ" target="/events/pu0184.html"><placeName>King’s
                                 Mews</placeName> shut</ref>.</ab>
                     <ab type="dDay" xml:id="g1820-06-17"><date when="1820-06-17">17. Sa.</date><ref
@@ -1775,7 +1775,7 @@
                             type="dWrote" subtype="revised" target="/works/popu01.html"> Malthus,
                             revise</ref>; <ref type="dWrote" subtype="write"
                             target="/works/popu01.html">1 1/2 pp</ref>. <seg type="dMeal"
-                            subtype="TG"><persName>Snow</persName> at tea</seg>: <seg
+                                subtype="TG"><persName ref="/people/SNO01.html">Snow</persName> at tea</seg>: <seg
                             type="dMeeting" subtype="See"><persName><placeName type="venue">T
                                     R’s</placeName></persName></seg>. <seg type="dMeeting"
                             subtype="C">Call on <persName ref="/people/BOO01.html"><placeName
@@ -1886,7 +1886,7 @@
                                 Rogers</persName></seg>: <seg type="dMeeting" subtype="CG"><persName
                                 ref="/people/HUM01.html" type="nah">Hume</persName> calls—follow <hi
                                 rend="sup">n</hi></seg>: <seg type="dMeal" subtype="SG"
-                                ><persName>Snow</persName> &amp; <persName ref="/people/PIL01.html"
+                                    ><persName ref="/people/SNO01.html">Snow</persName> &amp; <persName ref="/people/PIL01.html"
                                 >H P</persName> sup</seg>. <ref type="dText" subtype="read"
                             target="/bibl/te2723.html">Nightmare Abbey, p. 104</ref>.</ab>
                     <ab type="dDay" xml:id="g1820-07-13"><date when="1820-07-13">13. Th.</date><ref
@@ -1995,7 +1995,7 @@
                                 ref="/people/IRV01.html">Irving</persName> calls</seg>: <seg
                             type="dMeeting" subtype="C">call on <persName ref="/people/BOO01.html"
                                     ><placeName type="venue">Booth</placeName></persName></seg>:
-                            <seg type="dMeal" subtype="SG"><persName>Snow</persName>
+                        <seg type="dMeal" subtype="SG"><persName ref="/people/SNO01.html">Snow</persName>
                         sups</seg>.</ab>
                     <ab type="dDay" xml:id="g1820-07-25"><date when="1820-07-25">25. Tu.</date><ref
                             type="dWrote" subtype="write" target="/works/popu01.html">Malthus, 1

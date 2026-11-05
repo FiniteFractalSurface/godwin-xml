@@ -1478,7 +1478,7 @@
                      type="dMeeting" subtype="C"><persName ref="/people/LAW99.html" type="nah"
                            ><placeName type="venue">Lawrence</placeName></persName><hi rend="sup"
                         >n</hi></seg>: <seg type="dMeeting" subtype="M">meet
-                        <persName>Snow</persName></seg>.</ab>
+                           <persName ref="/people/SNO01.html">Snow</persName></seg>.</ab>
                <ab type="dDay" xml:id="g1821-07-10"><date when="1821-07-10">10. Tu.</date><ref
                      type="dWrote" subtype="cala" target="/works/grec02.html">Greece, çala</ref>.
                      <ref type="dText" subtype="read" target="/bibl/te2764.html">Marino, st.
@@ -1547,7 +1547,7 @@
                      <seg type="dMeeting" subtype="CG"><persName ref="/people/ROS01.html"
                         >Rosser</persName> call</seg>.</ab>
                <ab type="dDay" subtype="NotLonMJ" xml:id="g1821-07-17"><date when="1821-07-17">17.
-                     Tu.</date><seg type="dMeeting" subtype="CG"><persName>Snow</persName>
+                     Tu.</date><seg type="dMeeting" subtype="CG"><persName ref="/people/SNO01.html">Snow</persName>
                      calls</seg>: <ref type="dEvent" subtype="PersEvent"
                      target="/events/pe0347.html"><seg type="dMeeting" subtype="Do">Britannia, w.
                            <persName>Irish surgeon</persName>, &amp;c</seg></ref>: <seg
@@ -1631,7 +1631,7 @@
                      subtype="C"><persName ref="/people/BOO01.html"><placeName type="venue"
                            >Booth</placeName></persName>; <seg type="dMeeting" subtype="Adv">adv.
                            <persName ref="/people/BAX01.html">C Baxter</persName></seg></seg>: <seg
-                     type="dMeal" subtype="SG"><persName>Snow</persName> &amp; <persName
+                              type="dMeal" subtype="SG"><persName ref="/people/SNO01.html">Snow</persName> &amp; <persName
                         ref="/people/MAR01.html">M </persName>sup</seg>.</ab>
                <ab type="dDay" xml:id="g1821-07-26"><date when="1821-07-26">26. Th. </date><ref
                      type="dWrote" subtype="write" target="/works/grec02.html">Greece, p. 134</ref>,
@@ -1993,7 +1993,7 @@
                      revise</ref>. <ref type="dText" subtype="letterRecvd">Letter from <persName
                         ref="/people/MAC01.html">Mackintosh</persName></ref>. <seg type="dMeeting"
                      subtype="CG"><persName>Homersham</persName></seg> &amp; <seg type="dMeeting"
-                     subtype="CG"><persName>Snow</persName> call</seg>: <seg type="dMeal"
+                        subtype="CG"><persName ref="/people/SNO01.html">Snow</persName> call</seg>: <seg type="dMeal"
                      subtype="TG"><persName ref="/people/BOO01.html">Booth</persName> at tea</seg>:
                      <ref type="dEntertainment" subtype="Theat" target="/plays/bohe01.html"
                         ><placeName type="DL"/>theatre, Geraldi Duval; <seg type="dMeeting"
@@ -2823,7 +2823,7 @@
                      </persName>calls</seg>: <seg type="dMeal" subtype="DG"><persName
                         ref="/people/MAR01.html">M</persName> dines; <seg type="dMeeting"
                         subtype="Adv">adv. <persName ref="/people/BOO01.html">Booth</persName> &amp;
-                           <persName>Snow</persName></seg></seg>.</ab>
+                           <persName ref="/people/SNO01.html">Snow</persName></seg></seg>.</ab>
                <ab type="dDay" xml:id="g1821-11-29"><date when="1821-11-29">29. Th.</date><ref
                      type="dText" subtype="read" target="/bibl/te2791.html"> Innamorato, C. XLVII,
                      XLVIII</ref>. <seg type="dMeeting" subtype="C">Call on <persName

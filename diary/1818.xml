@@ -271,7 +271,7 @@
                             <persName>Cogan</persName></seg>: <seg type="dMeeting" subtype="M">meet
                                 <persName ref="/people/HIL05.html">Hill</persName></seg>. <add><seg
                                 type="dMeeting" subtype="Sleeps"
-                            ><persName>sleeps</persName></seg></add></ab>
+                            >sleeps</seg></add></ab>
                     <ab type="dDay" xml:id="g1818-01-26"><date when="1818-01-26">26. M.</date><seg
                             type="dMeeting" subtype="C">Call on (<persName ref="/people/CAM01.html"
                                 >Campbel</persName> &amp;) <persName><placeName type="venue"
@@ -2194,7 +2194,7 @@
                             çala</ref>.</ab>
                     <ab type="dDay" subtype="NotLonMJ" xml:id="g1818-08-31"><date when="1818-08-31"
                             >31. M.</date><seg type="dMeeting" subtype="Do">Steamboat for
-                                <placeName>London</placeName>; w. <persName>Snow</persName>,
+                                <placeName>London</placeName>; w. <persName ref="/people/SNO01.html">Snow</persName>,
                                 <persName>Robley</persName> &amp; <persName>Fildes</persName>, 78
                             persons</seg>: sleep in <placeName>S S</placeName>. <seg type="dMeeting"
                             subtype="CG"><persName ref="/people/PHI03.html">Cha.
@@ -2331,7 +2331,7 @@
                             subtype="Weath">showers</ref>.</ab>
                     <ab type="dDay" subtype="NotLon" xml:id="g1818-09-14"><date when="1818-09-14"
                             >14. M.</date><seg type="dMeeting" subtype="Do">Steamboat, for
-                                <placeName>London</placeName>, w. <persName>Snow</persName>,
+                                <placeName>London</placeName>, w. <persName ref="/people/SNO01.html">Snow</persName>,
                                 <persName>Payne</persName>, &amp;c, 50 persons</seg>: <placeName>S
                             S</placeName>, 1/4 after eleven.</ab>
                     <ab type="dDay" xml:id="g1818-09-15"><date when="1818-09-15">15. Tu.</date><ref
@@ -3015,7 +3015,7 @@
                             type="dWrote" subtype="write" target="/works/popu01.html">Malthus, p.
                             18/2</ref>. <seg type="dMeeting" subtype="CG"><persName
                                 ref="/people/OWE01.html">Owen</persName></seg> &amp; <seg
-                            type="dMeeting" subtype="CG"><persName type="nah">Snow</persName><hi
+                                    type="dMeeting" subtype="CG"><persName ref="/people/SNO01.html" type="nah">Snow</persName><hi
                                 rend="sup">n</hi> call</seg>: <emph rend="deleted">Con</emph><seg
                             type="dMeeting" subtype="See">call on <persName ref="/people/CON01.html"
                                 >Constable</persName></seg>: <seg type="dMeal" subtype="SG"
@@ -3439,7 +3439,7 @@
                                 type="dMeeting" subtype="Adv">adv. <persName
                                     ref="/people/LAM02.html">M Lamb</persName></seg></seg>: <seg
                             type="dMeal" subtype="DG"><persName ref="/people/HUM01|HUM02.html">5
-                                Humes</persName>, <persName>2 Snow</persName>, <persName>S
+                                Humes</persName>, <persName ref="/people/SNO01.html">2 Snow</persName>, <persName>S
                                 Bereford</persName>, <persName ref="/people/TAL01.html"
                                 >Talfourd</persName>, <persName ref="/people/PIL01.html">P
                                 P</persName> &amp; <persName ref="/people/BEV01.html"

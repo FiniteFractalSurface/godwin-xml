@@ -176,7 +176,7 @@
                             type="dWrote" subtype="write" target="/works/comm01.html">Commonwealth
                             (Rushworth)</ref>. <ref type="dText" subtype="cala"
                             target="/bibl/te2791.html"> Innamorato, çala</ref>. <seg type="dMeeting"
-                            subtype="CG"><persName>Snows</persName> call</seg>: <seg type="dMeeting"
+                                subtype="CG"><persName ref="/people/SNO01.html">Snows</persName> call</seg>: <seg type="dMeeting"
                             subtype="C">call on <persName ref="/people/HAY02.html"><placeName
                                     type="venue">Hayward</placeName></persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1822-01-18"><date when="1822-01-18">18. F.</date><ref
@@ -212,7 +212,7 @@
                             subtype="C">Call on <persName ref="/people/ROB03.html" type="nah"
                                     ><placeName type="venue">H Robinson</placeName></persName><hi
                                 rend="sup">nit</hi></seg>:<seg type="dMeal" subtype="TG"
-                                ><persName>Snows</persName> at tea</seg>:</ab>
+                                    ><persName ref="/people/SNO01.html">Snows</persName> at tea</seg>:</ab>
                     <ab type="dDay" xml:id="g1822-01-22"><date when="1822-01-22">22. Tu. </date><ref
                             type="dEvent" subtype="Weath">Fog</ref>. <ref type="dWrote"
                             subtype="cala" target="/works/comm01.html">Commonwealth, çala</ref>.
@@ -416,7 +416,7 @@
                                 ref="/people/REE01.html"><placeName type="venue">O
                                 Rees</placeName></persName></seg>: <seg type="dMeeting" subtype="M"
                             >meet <persName ref="/people/MAC05.html">Macgowan</persName></seg>: <seg
-                            type="dMeal" subtype="SG"><persName>Snows</persName> sup</seg>.</ab>
+                                type="dMeal" subtype="SG"><persName ref="/people/SNO01.html">Snows</persName> sup</seg>.</ab>
                     <ab type="dDay" xml:id="g1822-02-16"><date when="1822-02-16">16. Sa. </date><ref
                             type="dWrote" subtype="write" target="/works/comm01.html">Commonwealth,
                             p. 41</ref>.<ref type="dText" subtype="read" target="/bibl/te2637.html">
@@ -602,7 +602,7 @@
                             subtype="read" target="/bibl/te2637.html"> Ariosto, st. 136</ref>. <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/DYE01.html">G
                                 Dyer</persName></seg> &amp; <seg type="dMeeting" subtype="CG"
-                                ><persName>Snow</persName> call</seg>: <seg type="dMeeting"
+                                    ><persName ref="/people/SNO01.html">Snow</persName> call</seg>: <seg type="dMeeting"
                             subtype="C">call on <persName ref="/people/HAY02.html"><placeName
                                     type="venue">Hayward</placeName></persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1822-03-12"><date when="1822-03-12">12. Tu. </date><ref
@@ -1297,7 +1297,7 @@
                     <ab type="dDay" xml:id="g1822-05-21"><date when="1822-05-21">21. Tu.</date><ref
                             type="dText" subtype="read" target="/bibl/te2637.html">Ariosto, st.
                             65</ref>. <seg type="dMeeting" subtype="CG"
-                            ><persName>Snow</persName></seg> &amp; <seg type="dMeeting" subtype="CG"
+                                ><persName ref="/people/SNO01.html">Snow</persName></seg> &amp; <seg type="dMeeting" subtype="CG"
                                 ><persName ref="/people/LUB01.html">Lubés</persName> call</seg>:<seg
                             type="dMeeting" subtype="CG"><persName ref="/people/CLA01.html">M
                                 J</persName> fr. <seg type="dTopic"><persName

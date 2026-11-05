@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="SNO02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Joseph</forename>
+                        <surname>Snow</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Secretary to the Literary Fund</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's note (and his discussion of othr Snows in SNO01): two
+                            entries of 1835 referred to Joseph Snow secretary of the Literary Fund
+                            Society. His Minor Poems published 1828 was dedicated 1.5.1828 to
+                            Benjamin Aplin of Bodicot Grange Oxon, which identifies him as the son
+                            of Joseph Snow shag manufacturer of Banbury whose will PCC 1807 dated
+                            14.12.1805 mentioned six daughters and a son Joseph and was witnessed by
+                            B Aplin and Oliver Aplin. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
