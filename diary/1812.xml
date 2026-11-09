@@ -1168,7 +1168,7 @@
                             type="dText" subtype="read" target="/bibl/te0802.html"> F Queen, C.
                             XI</ref>: <ref type="dText" subtype="read" target="/bibl/te1992.html"
                             >Tenison on Bacon, pp. 104</ref>.<seg type="dMeeting" subtype="Cn"> Call
-                            on <persName><placeName type="venue">Spry</placeName></persName>, w.
+                                on <persName ref="/people/SPR02.html"><placeName type="venue">Spry</placeName></persName>, w.
                                 <persName ref="/people/GOD07.html">W</persName></seg>.</ab>
                     <pb n="e.212_0004r"/>
                     <ab type="dDay" xml:id="g1812-04-19"><date when="1812-04-19">Apr. 19.
@@ -1185,7 +1185,7 @@
                             III, C. I</ref>. <seg type="dMeeting" subtype="C">Call on <persName
                                 ref="/people/CLI01.html"><placeName type="venue"
                                 >Cline</placeName></persName></seg>, <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                    subtype="C"><persName ref="/people/SPR02.html"><placeName type="venue"
                                 >Spry</placeName></persName></seg> &amp; <seg type="dMeeting"
                             subtype="C"><persName ref="/people/KNO01.html"><placeName type="venue"
                                     >Knowles</placeName></persName></seg>: <seg type="dMeeting"
@@ -1396,7 +1396,7 @@
                     <ab type="dDay" xml:id="g1812-05-08"><date when="1812-05-08">8. F. </date><ref
                             type="dText" subtype="read" target="/bibl/te1964.html">Persiles, p.
                             142</ref>. <seg type="dMeeting" subtype="Cn">Call on
-                                    <persName><placeName type="venue">Spry</placeName></persName>,
+                                <persName ref="/people/SPR02.html"><placeName type="venue">Spry</placeName></persName>,
                             w. <persName ref="/people/GOD07.html">W</persName></seg>: <seg
                             type="dMeal" subtype="SG"><persName ref="/people/HOG01.html"
                                 >Hogan</persName> sups</seg>.</ab>
@@ -1477,7 +1477,7 @@
                     <ab type="dDay" xml:id="g1812-05-16"><date when="1812-05-16">16. Sa.</date><ref
                             type="dText" subtype="read" target="/bibl/te0802.html">F Queen, C. XII;
                             B. V, C. I</ref>.<seg type="dMeeting" subtype="C"> Call on
-                                    <persName><placeName type="venue"
+                                <persName ref="/people/SPR02.html"><placeName type="venue"
                             >Spry</placeName></persName></seg>, <seg type="dMeeting" subtype="C"
                                 ><persName ref="/people/PLA02.html"><placeName type="venue"
                                     >Place</placeName></persName></seg>, <seg type="dMeeting"
@@ -1679,7 +1679,7 @@
                             subtype="C"><persName ref="/people/GOD02.html"><placeName type="venue"
                                     >Jo G</placeName></persName></seg>: <seg type="dMeal"
                             subtype="DG"><persName ref="/people/MAR01.html">M</persName>
-                        dines</seg>: <seg type="dMeeting" subtype="C">call on <persName><placeName
+                                        dines</seg>: <seg type="dMeeting" subtype="C">call on <persName ref="/people/SPR02.html"><placeName
                                     type="venue">Spry</placeName></persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1812-06-05"><date when="1812-06-05">5. F. </date><ref
                             type="dText" subtype="read" target="/bibl/te1241.html">Old English
@@ -1981,7 +1981,7 @@
                                     ><placeName type="venue">Coleridge</placeName></persName></seg>,
                             <seg type="dMeeting" subtype="C"><persName><placeName type="venue"
                                     >Sutton</placeName></persName></seg> &amp; <seg type="dMeeting"
-                            subtype="Cn"><persName><placeName type="venue"
+                                        subtype="Cn"><persName ref="/people/SPR02.html"><placeName type="venue"
                                 >Spry</placeName></persName>, w. <persName ref="/people/GOD07.html"
                                 >W</persName></seg>: <seg type="dMeal" subtype="TG"
                                     ><persName ref="/people/DUN04.html">Duncans</persName> at tea</seg>.</ab>

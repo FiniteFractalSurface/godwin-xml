@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="SMI17" sex="2">
+                    <persName>
+                        <roleName/>
+                        <forename>Mrs (Cecil) </forename>
+                        <surname>Smith</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1772">
+                        <placeName/>
+                    </birth>
+                    <death when="1813"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pop[e's note: Cecil Smith 1772 - 1813 was the brother of Robert
+                            Smith DNB 1770-1845 and Sydney Smith DNB 1771-1845 and served in the
+                            Madras Civil Service from 1789. He married Eliza Topping 10.5.1793 at
+                            Fort St George, Madras. He was Accountant-General up to 1811. He arrived
+                            in England 1810 from St Helena and set out in 1811 for Portsmouth
+                            (newspapers). He wrote his will on board the Lord Castlereagh East
+                            Indiaman 25.5.1811 which mentioned his father and three brothers by
+                            name, his only son Cecil, and also his "beloved sister, who has and will
+                            continue to be mother to my dear boy" - and no wife. From the age on
+                            admission to Oxford (18 in 1817) of his son Cecil Robert Smith and in
+                            the Gents Mag 1861/1 at his death it seems he was born in 1798. Cecil
+                            Smith sr, merchant died at the Cape (Caledonian Mercury 7.5.1814). The
+                            son was probably then at Eton. The beloved sister may have been Harriet
+                            born 1769, no daughter was mentioned in the will dated 13.10.1822 of her
+                            father Robert, and she may have been the Harriet Smith of Kentish Town
+                            bur St Pancras 10.8.1814 age 43. The only evidence I have of the
+                            survival of Mrs Cecil Smith are the entries in Godwin's diary, but the
+                            coincidence of name in the Madras marriage, Cecil being as rare a man's
+                            first name as Smith is a common surname, is convincing, and surely she
+                            was the Smith of mes Topping and Smith. At a guess Mrs Smith had an affair
+                            or otherwise displeased her husband who removed his son from her care,
+                            or she removed herself, and she probably kept some income from a
+                            marriage settlement. It seems likely this separation had already
+                            happened by the time Godwn met Topping and Smith in 1806. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

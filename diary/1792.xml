@@ -572,7 +572,7 @@
                             subtype="D">Dine at <persName ref="/people/HOL02.html"><placeName
                                     type="venue">B Hollis's</placeName></persName>, with
                                 <persName>Baker</persName>, <persName ref="/people/FEL04.html"
-                                >Felton</persName>{,} <persName>Stevens</persName>,
+                                    >Felton</persName>{,} <persName ref="/people/STE09.html">Stevens</persName>,
                                 <persName>Edwards</persName>, <persName>Kent</persName>, <persName
                                 ref="/people/TAY05.html">Taylor</persName> &amp; <persName
                                 ref="/people/VAU02.html">W. Vaughan</persName>.</seg></ab>
@@ -3395,7 +3395,7 @@
                                     Hollis's</placeName></persName>, with <persName
                                 ref="/people/PAR01.html">Paradise</persName>,
                                 <persName>Birch</persName> &amp;
-                        <persName>Stephens</persName></seg>. <seg type="dMeeting" subtype="C">Call
+                                <persName ref="/people/STE09.html">Stephens</persName></seg>. <seg type="dMeeting" subtype="C">Call
                             on <persName ref="/people/NIC01.html"><placeName type="venue"
                                     >Nicholson</placeName></persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1792-12-25"><date when="1792-12-25">25. Tu.</date><ref

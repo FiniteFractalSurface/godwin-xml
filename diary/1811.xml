@@ -3029,7 +3029,7 @@
                                     <persName><placeName type="venue">Hendrie</placeName></persName>
                                 (<seg type="dTopic">for <persName ref="/people/GOD07.html"
                                     >W</persName></seg>)</seg>, <seg type="dMeeting" subtype="C"
-                                    ><persName><placeName type="venue"
+                                        ><persName ref="/people/SPR02.html"><placeName type="venue"
                             >Spry</placeName></persName></seg>, <seg type="dMeeting" subtype="C"
                                 ><persName ref="/people/ROB99.html"><placeName type="venue"
                                     >Robinson</placeName></persName></seg>, &amp; <seg

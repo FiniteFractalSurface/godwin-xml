@@ -833,7 +833,7 @@
                                 <persName ref="/people/FUS01.html">Fuseli</persName>, <persName
                                 ref="/people/BON01.html">Bonnycastle</persName>, <persName
                                 ref="/people/HOL03.html">Hollis</persName> &amp;
-                                <persName>Storch</persName></seg>. <seg type="dMeeting" subtype="CG"
+                                        <persName ref="/people/STU07.html">Sturch</persName></seg>. <seg type="dMeeting" subtype="CG"
                                 ><persName ref="/people/GOD02.html">Jo G</persName>
                         calls</seg>.</ab>
                     <ab type="dDay" xml:id="g1803-03-17"><date when="1803-03-17">17. Th.</date><ref
@@ -1341,7 +1341,7 @@
                                 ref="/people/BON01.html">Bonnycastle</persName>, <persName
                                 ref="/people/BAR02.html">Barlow</persName>, <persName
                                 ref="/people/BRO01.html">W C Brown</persName>,
-                                <persName>Stephens</persName>, <persName>Mahon</persName> &amp;
+                                    <persName ref="/people/STE09.html">Stephens</persName>, <persName>Mahon</persName> &amp;
                                     <persName ref="/people/NEW06.html">Newnum</persName>.</seg></ab>
                     <ab type="dDay" xml:id="g1803-05-05"><date when="1803-05-05">5. Th.</date><ref
                             type="dText" subtype="read" target="/bibl/te1297.html">Froissart</ref>

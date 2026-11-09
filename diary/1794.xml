@@ -381,7 +381,7 @@
                             type="dMeal" subtype="D">dine at <persName ref="/people/HOL01.html"
                                     ><placeName type="venue">Holcroft's</placeName></persName>; <seg
                                         type="dMeeting" subtype="Adv">adv. <persName ref="/people/PIN03.html">Pinard</persName>,
-                                    <persName>Stephen</persName> &amp; <persName
+                                        <persName ref="/people/STE10.html">Stephen</persName> &amp; <persName
                                     ref="/people/SMI01.html">Smith</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1794-02-03"><date when="1794-02-03">3. M.</date><ref
                             type="dWrote" subtype="revised" target="/works/cale01.html"
@@ -421,7 +421,7 @@
                                     ref="/people/JEN02.html">Jennings</persName></seg></ref>: <seg
                             type="dMeal" subtype="S">sup at <persName ref="/people/HOL01.html"
                                     ><placeName type="venue">Holcroft's</placeName></persName>, with
-                                <persName>Stephen</persName></seg>. <ref type="dText" subtype="read"
+                                        <persName ref="/people/STE10.html">Stephen</persName></seg>. <ref type="dText" subtype="read"
                             target="/bibl/te0452.html">Johnson, Vol. IV, p. 68</ref>.</ab>
                     <ab type="dDay" xml:id="g1794-02-06"><date when="1794-02-06">6. Th.</date><seg
                             type="dMeeting" subtype="C">Call on <persName ref="/people/POR01.html"
@@ -1479,7 +1479,7 @@
                                 type="dMeeting" subtype="Adv">adv. <persName
                                     ref="/people/RIT01.html">Ritson</persName>, <persName
                                     ref="/people/DYS01.html">Dyson</persName> &amp;
-                                    <persName>Stephen</persName></seg>, talk of <seg type="dTopic"
+                                    <persName ref="/people/STE10.html">Stephen</persName></seg>, talk of <seg type="dTopic"
                                 >Richard</seg>, &amp; <seg type="dTopic">bloodsh<hi rend="sup"
                                     >d</hi></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1794-05-05"><date when="1794-05-05">5. M.</date><ref
@@ -1971,7 +1971,7 @@
                                 >him</persName> at <persName ref="/people/HOL01.html"><placeName
                                     type="venue">Holcroft's</placeName></persName></seg>; <seg
                             type="dMeeting" subtype="Aus">ev<hi rend="sup">g
-                                </hi><persName>Stephen</persName> &amp; <persName
+                            </hi><persName ref="/people/STE10.html">Stephen</persName> &amp; <persName
                                 ref="/people/JEN01|JEN02.html">Jenningss</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1794-06-12"><date when="1794-06-12">12. Th.</date><ref
                             type="dText" subtype="read" target="/bibl/te0072.html">Burke, p.
@@ -3875,7 +3875,7 @@
                                     ref="/people/COU01.html">Courtenay</persName></seg>, <seg
                                 type="dMeeting" subtype="See"><persName ref="/people/GED01.html"
                                     >Geddes</persName></seg>, <seg type="dMeeting" subtype="See"
-                                    ><persName>Stephens</persName></seg>, <seg type="dMeeting"
+                                        ><persName ref="/people/STE09.html">Stephens</persName></seg>, <seg type="dMeeting"
                                 subtype="See"><persName>Bush</persName></seg>, <seg type="dMeeting"
                                 subtype="See"><persName ref="/people/MAR05.html"
                                 >Marsh</persName></seg>, <seg type="dMeeting" subtype="See"

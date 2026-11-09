@@ -429,7 +429,7 @@
                                 <persName ref="/people/FUS01.html">Fuseli</persName>, <persName
                                 ref="/people/BON01.html">Bonnycastle</persName> &amp;
                                     <persName ref="/people/NEW06.html">Newnum</persName>; <seg type="dMeeting" subtype="Adv">adv.
-                                    <persName>Stephens</persName></seg></seg>.</ab>
+                                        <persName ref="/people/STE09.html">Stephens</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1798-02-07"><date when="1798-02-07">7. W.</date><ref
                             type="dText" subtype="read" target="/bibl/te0812.html">Reynolds, p.
                             240</ref>. <seg type="dMeeting" subtype="C">Call on <persName
@@ -576,7 +576,7 @@
                                 <persName ref="/people/HAR01.html">T Harwood</persName>, <persName
                                 ref="/people/MON01.html">Montagu</persName>, <persName
                                 ref="/people/PAR06|PAR99|PAR05.html">Parrys</persName> &amp;
-                                <persName>Spiring</persName>; <seg type="dMeeting" subtype="Adv"
+                                    <persName ref="/people/SPI02.html">Spiring</persName>; <seg type="dMeeting" subtype="Adv"
                                 >adv. <persName ref="/people/OPI01.html">Opie</persName>, <persName
                                     ref="/people/WOL02.html">Wolcot</persName>, <persName
                                     ref="/people/TOB02.html">Tobin</persName> &amp; <persName
@@ -687,7 +687,7 @@
                                     ref="/people/BON01.html">Bonnycastle</persName>, <persName ref="/people/PAT03.html">col.
                                         Paterson</persName> &amp; <persName ref="/people/ROS06.html">Rose</persName>; <seg
                                 type="dMeeting" subtype="Adv">adv. <persName>Tattersal</persName>
-                                &amp; <persName>Stephens</persName></seg></seg>.</ab>
+                                            &amp; <persName ref="/people/STE09.html">Stephens</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1798-02-28"><date when="1798-02-28">28. W.</date><ref
                             type="dWrote" subtype="write" target="/works/leon01.html">Adept, p.
                             60/2</ref>. <ref type="dText" subtype="read" target="/bibl/te0488.html"
@@ -1088,7 +1088,7 @@
                                 ref="/people/HOL01.html"><placeName type="venue"
                                 >Ht's</placeName></persName>, w. <persName ref="/people/CLE01.html"
                                 >Clementi</persName>, <persName ref="/people/STO01.html"
-                                >Stoddart</persName>, <persName>Spiring</persName>, <persName
+                                    >Stoddart</persName>, <persName ref="/people/SPI02.html">Spiring</persName>, <persName
                                 ref="/people/TUT01.html">Tuthil</persName> &amp; <persName
                                 ref="/people/COO05.html">E P C</persName></seg>: <seg
                             type="dMeeting" subtype="CG"><persName ref="/people/FEL01.html"
@@ -1434,7 +1434,7 @@
                                 <persName ref="/people/DAN01.html">Danvers</persName>, <persName
                                 ref="/people/STU05.html">miss Sturt</persName>,
                                 <persName>Kendillon</persName> &amp;
-                            <persName>Stevenson</persName></seg>.</ab>
+                                <persName ref="/people/STE11.html">Stevenson</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1798-04-27"><date when="1798-04-27">27. F.</date><ref
                             type="dText" subtype="read" target="/bibl/te0671.html">Ovid, Lib. X,
                             219</ref>: <emph rend="deleted">//</emph><ref type="dText"
@@ -1630,7 +1630,7 @@
                                     ><placeName type="venue">Ht's</placeName></persName>, w.
                                 <persName ref="/people/COL08.html">Cole</persName>,
                                 <persName>Stodart G S</persName>, <persName ref="/people/GIL05.html"
-                                >Gilchrist</persName> &amp; <persName>Spiring</persName></seg>.</ab>
+                                    >Gilchrist</persName> &amp; <persName ref="/people/SPI02.html">Spiring</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1798-05-14"><date when="1798-05-14">14. M.</date><ref
                             type="dText" subtype="read" target="/bibl/te0671.html">Ovid, 851; XV,
                             269</ref>. <seg type="dMeal" subtype="DG"><persName
@@ -3361,7 +3361,7 @@
                             rewrite</ref>. <ref type="dText" subtype="read"
                             target="/bibl/te0518.html">Smith, p. 52</ref>: <ref type="dText"
                             subtype="read" target="/bibl/te0881.html">Robbers, p. 137</ref>. <seg
-                            type="dMeeting" subtype="M">Meet <persName>Murray
+                                type="dMeeting" subtype="M">Meet <persName ref="/people/STE10.html">Murray
                             Stephen</persName></seg>: <seg type="dMeal" subtype="TG"><persName
                                 ref="/people/DIB01.html">Dibbin</persName> at tea; <seg
                                 type="dMeeting" subtype="Adv">adv. <persName
@@ -3729,7 +3729,7 @@
                                 ref="/people/MAY01.html">May</persName>, <persName
                                 ref="/people/ROG03.html">Rogers</persName>, <persName
                                 ref="/people/DAN01.html">Danvers</persName>,
-                                <persName>Stevenson</persName> &amp; <persName
+                                    <persName ref="/people/STE11.html">Stevenson</persName> &amp; <persName
                                 ref="/people/STU05.html">E Sturt</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1798-11-08"><date when="1798-11-08">8. Th.</date><ref
                             type="dWrote" subtype="write" target="/works/anto01.html">Alonzo, p.
@@ -4206,7 +4206,7 @@
                             type="dMeal" subtype="D">Dine at <persName ref="/people/JOH01.html"
                                     ><placeName type="venue">Johnson's</placeName></persName>, w.
                                 <persName ref="/people/BON01.html">Bonnycastle</persName>,
-                                <persName>Stephens</persName>, <persName ref="/people/PAY03.html"
+                                <persName ref="/people/STE09.html">Stephens</persName>, <persName ref="/people/PAY03.html"
                                     >Payne</persName> &amp; <persName ref="/people/NEW06.html">Newnum</persName>; <seg
                                 type="dMeeting" subtype="Adv">adv. <persName
                                     ref="/people/MUL02.html">Mullet</persName>, <persName>Paterson

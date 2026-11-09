@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="SPR02" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>John Hume</forename>
+                        <surname>Spry</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Schoolteacher/Educationalist</occupation>
+                    <note type="editorial">
+                        <p>Possibly Rev. John Hume Spry, whom the Dictionary of Living Authors
+                            (1816) gives as living in Bath and then Birmingham (although the contacts suggest someone who comes to town only occasionally). Godwin's interest
+                            in him might be in relation to William junr's schooling, since he takes
+                            William with him, when William would have been about 8. There was an
+                            infant school for the Parish of Mary-le-bone some years later (est 1828
+                            by the Rev Dr Spry), and it is possible that Spry's earlier writings may
+                            have interested Godwin.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">Thomas Smith<title>A Topographical and Historical Account of the Parish of St Mary-le-bone </title>, London,
+                        John Smith, 1833</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

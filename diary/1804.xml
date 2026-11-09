@@ -668,7 +668,7 @@
                            >Hooper</placeName></persName></seg>: walk to
                      <placeName>Brighton</placeName>; <seg type="dMeal" subtype="D">dine at
                         <placeName>White Horse</placeName>; <seg type="dMeeting" subtype="Adv">adv.
-                           <persName>Spiring</persName></seg></seg>: <seg type="dMeeting"
+                           <persName ref="/people/SPI02.html">Spiring</persName></seg></seg>: <seg type="dMeeting"
                      subtype="CG"><persName>Neale</persName> calls</seg>: sleep at
                      <placeName>Lewes</placeName>. <ref type="dText" subtype="letterRecvd">Letter
                      from <persName ref="/people/WES06.html">West</persName></ref>.</ab>
@@ -711,7 +711,7 @@
                         ><foreign>adieux</foreign>, <persName>Neal</persName> &amp; <persName
                         ref="/people/LAN11.html">Langridge</persName></seg>: <seg type="dMeal"
                      subtype="D">dine at <placeName>White Horse, Brighton</placeName>; <seg
-                        type="dMeeting" subtype="Adv">adv. <persName>Spiring</persName></seg></seg>:
+                        type="dMeeting" subtype="Adv">adv. <persName ref="/people/SPI02.html">Spiring</persName></seg></seg>:
                      <ref type="dWrote" subtype="letter">write to <persName ref="/people/CLA01.html"
                         >M J</persName></ref> &amp; <ref type="dWrote" subtype="letter"><persName
                         ref="/people/STE07.html">Steel</persName></ref>.</ab>
@@ -966,7 +966,7 @@
                      Oratorio; <seg type="dMeeting" subtype="Adv">adv. <persName
                            ref="/people/TAY01.html">J Taylor</persName> (<persName
                            ref="/people/BIL01.html">mrs Billington</persName>)</seg></ref>. <seg
-                     type="dMeeting" subtype="Adv">adv. <persName>A Stephens</persName> &amp;
+                              type="dMeeting" subtype="Adv">adv. <persName ref="/people/STE09.html">A Stephens</persName> &amp;
                         <persName>C Mercier</persName></seg>, &amp; <seg type="dMeeting"
                      subtype="Adv"><persName ref="/people/TAY08.html">P
                   Taylor</persName></seg>.</ab>

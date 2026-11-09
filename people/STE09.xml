@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="STE09" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Alexander</forename>
+                        <surname>Stephens</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1757">
+                        <placeName/>
+                    </birth>
+                    <death when="1821"/>
+                    <occupation>Biographer </occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's note: The spelling of the first entry was probably Godwin's
+                            error as there are two more entries at Brand Hollis' both spelt
+                            Stephens, and Stevens doesn't re-occur in Godwin's diary till
+                            1805. </p><p>Alexander Stephens DNB 1757-1821 whose memoirs of John Horne Tooke
+                            were published 1813, subscribed to expenses of trials of Hardy and co.
+                            27.3.1795, will PCC 1821 Chelsea. The only time Godwin used an initial
+                            for Stephens or Stevens in his diary was on 16.3.1804 adv A Stephens (at
+                            theatre?). This was 10 months after the previous (Stephens) entry and a
+                            year before the next one, which was the first Stevens since 1792. It
+                            seems likely that the Brand Hollis Stephens was the same as the
+                            Johnson's one as the entry on 2.6.1797 at Brand Hollis' was sandwiched
+                            by only 3 to 4 weeks by entries at Johnson's. But no clear identifying
+                            evidence yet that it was Alexander Stephens. The last two entries in
+                            1825 nd 1830 were after his death so clearly not him. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

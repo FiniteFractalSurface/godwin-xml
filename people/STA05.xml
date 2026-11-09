@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="STA05" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>Hugh Chudleigh </forename>
+                        <surname>Standert </surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1782">
+                        <placeName/>
+                    </birth>
+                    <death when="1850"/>
+                    <occupation>Surgeon</occupation>
+                    <note type="editorial">
+                        <p>Ed Pope suggests: Probably Hugh Chudleigh Standert 1782-1850 (Plarr's
+                            Surgeons) MRCS 5.7.1805, practised at Taunton his will PCC 1850. He also
+                            suggests the first contact is mis-entered as 'Standard'.. </p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

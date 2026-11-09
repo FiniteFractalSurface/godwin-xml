@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="STE11" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>James</forename>
+                        <surname>Stevenson</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1000-01-01">
+                        <placeName/>
+                    </birth>
+                    <death when="1000-12-31"/>
+                    <occupation>Surgeon</occupation>
+                    <note type="editorial">
+                        <p>Ed Pope notes that those at King's are likely to be James Stemphenson,
+                            but they may also account for other entries. We have restricted those
+                            coded to thos who appear at King's. Ed Pope notes: James Stevenson son
+                            of Hugh Stevenson surgeon of Egham, Surrey (will PCC 1792). Morning
+                            Chronicle 17.11.1788 a dispute concerning Sir Joseph Mawbey and a game
+                            of whist at Staines. Sun 20.2.1795 defendant in case brought by Ross,
+                            wine merchant. From 1802-7 involved in Chancery disputes with John
+                            King's stepson Augustus Butler Danvers. The Morning Chronicle 2.2.1811
+                            described him as surgeon to John King. The Hampshire Telegraph 22.7.1811
+                            Rex v. Davison and others, Dr James Stevenson in Fleet prison. His will
+                            PCC 1822 doctor of medicine of 14 Seymour Place, Kentish Town, left all
+                            to Mrs Henrietta Osborn who had lived with him for 22 years. In a
+                            chancery case of 1807 she was a defendant along with Stevenson, John
+                            King and Lady Lanesborough, where she was called Harriet Osborn widow
+                            formerly Harriet Van Noorden, her mother Jozina Vanderspruyl having died
+                            about November 1804.</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

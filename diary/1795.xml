@@ -474,7 +474,7 @@
                                 <persName ref="/people/WOL02.html"> Wolcot</persName>, <persName
                                 ref="/people/TAY01.html">Taylor</persName> &amp; <persName
                                 ref="/people/FAL01.html">Falkland</persName></seg>; <seg
-                            type="dMeeting" subtype="Adv">adv. <persName>dr.
+                                    type="dMeeting" subtype="Adv">adv. <persName ref="/people/STE11.html">dr.
                             Stevenson</persName></seg>. <ref type="dEvent" subtype="Death"><emph
                                 rend="small"><emph rend="deleted"><persName ref="/people/MAC09.html"
                                         >Macklin</persName> dies</emph></emph></ref></ab>
@@ -1063,7 +1063,7 @@
                             type="dMeal" subtype="D">Dine at <persName ref="/people/KIN01.html"
                                     ><placeName type="venue">Kings' </placeName></persName><seg
                                 type="dMeeting" subtype="Adv">adv.
-                                <persName>Stevenson</persName></seg></seg>.</ab>
+                                        <persName ref="/people/STE11.html">Stevenson</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1795-03-19"><date when="1795-03-19">19. Th.</date><ref
                             type="dWrote" subtype="write" target="/works/poli01.html">Write 3
                             pages</ref>. <seg type="dMeeting" subtype="C">Call on <persName
@@ -3225,7 +3225,7 @@
                             2, 3</ref>: <ref type="dText" subtype="read" target="/bibl/te0596.html"
                             >Louvet, p. 200</ref>: <ref type="dText" subtype="read"
                             target="/bibl/te0605.html">Cooper, p. 4[8?]</ref>. <seg type="dMeeting"
-                            subtype="CG"><persName>Stephen</persName> calls</seg>: <seg
+                                subtype="CG"><persName ref="/people/STE10.html">Stephen</persName> calls</seg>: <seg
                             type="dMeeting" subtype="C">call on <persName ref="/people/DAV02.html"
                                     ><placeName type="venue"
                         >Davis</placeName></persName></seg>.</ab>
@@ -3297,7 +3297,7 @@
                             type="dWrote" subtype="write" target="/works/poli01.html">Write 1 1/2
                             pages</ref>. <ref type="dText" subtype="read" target="/bibl/te0593.html"
                                 >C<hi rend="sup">e</hi> Roland, p. 36</ref>. <seg type="dMeeting"
-                            subtype="CG"><persName>Stephen</persName> calls</seg>: <seg
+                                    subtype="CG"><persName ref="/people/STE10.html">Stephen</persName> calls</seg>: <seg
                             type="dMeeting" subtype="C">call on <persName ref="/people/INC01.html"
                                     ><placeName type="venue">Inchbald</placeName></persName></seg>:
                             <seg type="dMeal" subtype="S">sup at <persName ref="/people/GOD04.html"
@@ -3353,7 +3353,7 @@
                             type="dWrote" subtype="write" target="/works/poli01.html">Write 1
                             page</ref>. <ref type="dText" subtype="read" target="/bibl/te0609.html"
                             >Parr v. Coombe, p. 30</ref>. <seg type="dMeeting" subtype="CG"
-                                ><persName>Stephen</persName> calls</seg>: <seg type="dMeal"
+                                ><persName ref="/people/STE10.html">Stephen</persName> calls</seg>: <seg type="dMeal"
                             subtype="DG"><persName ref="/people/COO01.html">C</persName>
                         dines</seg>: <seg type="dMeeting" subtype="other"
                                 ><orgName>Philomaths</orgName>, <seg type="dTopic">self

@@ -2274,8 +2274,8 @@
                         subtype="read" target="/bibl/tete3331.html">Pope</ref></ref>. <seg
                      type="dMeal" subtype="S">Sup at <persName ref="/people/REY03|REY99.html"
                            ><placeName type="venue">Reynolds’s</placeName></persName>, w.
-                        <persName>Sophia</persName><emph rend="deleted">a</emph> &amp;
-                        <persName>Stella Boaden</persName> (<ref type="dEvent" subtype="PersHlth"
+                           <persName ref="/people/BOA05.html">Sophia</persName><emph rend="deleted">a</emph> &amp;
+                           <persName ref="/people/BOA04.html">Stella Boaden</persName> (<ref type="dEvent" subtype="PersHlth"
                         target="/events/he0000.html">tooth</ref>)</seg>. <ref type="dEvent"
                      subtype="Temp">65 ½ / 67</ref></ab>
                <ab type="dDay" xml:id="g1830-08-11"><date when="1830-08-11">11. W.</date><ref
@@ -2551,8 +2551,8 @@
                         ref="/people/PIC01.html" type="nah"><placeName type="venue"
                            >Pickersgil</placeName></persName><hi rend="sup">na</hi></seg>: <seg
                      type="dMeal" subtype="S">sup at <persName ref="/people/REY05.html"><placeName
-                           type="venue">F R’s</placeName></persName>, w. <persName>Sophia</persName>
-                     &amp; <persName>Stella Boaden</persName></seg>. <ref type="dEvent"
+                           type="venue">F R’s</placeName></persName>, w. <persName ref="/people/BOA05.html">Sophia</persName>
+                              &amp; <persName ref="/people/BOA04.html">Stella Boaden</persName></seg>. <ref type="dEvent"
                      subtype="Temp">64 / 67</ref></ab>
                <pb n="e.224_0028v"/>
                <ab type="dDay" xml:id="g1830-09-05"><date when="1830-09-05">Sep. 5. Su.</date><ref
@@ -3023,7 +3023,7 @@
                         type="nah"><placeName type="venue">Lamb</placeName></persName><hi rend="sup"
                         >na</hi></seg>: <seg type="dMeal" subtype="S">sup at <persName
                         ref="/people/REY03|REY99.html"><placeName type="venue"
-                           >Reynolds’s</placeName></persName>, w. <persName>S &amp; S
+                           >Reynolds’s</placeName></persName>, w. <persName ref="/people/BOA04|BOA05.html">S &amp; S
                         Boaden</persName>; <seg type="dMeeting" subtype="Adv">adv. <persName
                            ref="/people/MAC06.html">Macready</persName></seg></seg>. <ref
                      type="dEvent" subtype="Temp">56 / 62</ref></ab>

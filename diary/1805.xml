@@ -951,7 +951,7 @@
                             subtype="C"><persName ref="/people/PHI01.html" type="nah"><placeName
                                     type="venue">Philips</placeName></persName><hi rend="sup">n</hi>
                                 (<seg type="dMeeting" subtype="Adv">adv.
-                                    <persName>Stephens</persName></seg>)</seg>, <seg type="dMeeting"
+                                    <persName ref="/people/STE09.html">Stephens</persName></seg>)</seg>, <seg type="dMeeting"
                             subtype="C"><persName ref="/people/NIC01.html"><placeName type="venue"
                                     >Nicholson</placeName></persName></seg> &amp; <seg
                             type="dMeeting" subtype="C"><persName ref="/people/MUL01.html"
@@ -973,7 +973,7 @@
                             type="dMeeting" subtype="C"><persName ref="/people/PHI01.html"
                                     ><placeName type="venue">Philips</placeName></persName> (<seg
                                 type="dMeeting" subtype="Adv">adv.
-                                <persName>Stephens</persName></seg>)</seg>, <seg type="dMeeting"
+                                        <persName ref="/people/STE09.html">Stephens</persName></seg>)</seg>, <seg type="dMeeting"
                             subtype="C"><persName ref="/people/SCO05.html" type="nah"><placeName
                                     type="venue">W Scott </placeName></persName></seg><hi rend="sup"
                             >n</hi> &amp; <seg type="dMeeting" subtype="C"><persName
@@ -2690,7 +2690,7 @@
                                 ref="/people/JOY01.html">Joyces</persName> at tea;<seg
                                 type="dMeeting" subtype="Adv"> adv. <persName
                                     ref="/people/CAR01.html">Carlisle</persName> &amp;
-                                    <persName>Standard</persName></seg></seg>: <seg type="dMeeting"
+                                    <persName ref="/people/STA05.html">Standard</persName></seg></seg>: <seg type="dMeeting"
                                         subtype="CG"><persName ref="/people/DAD01.html">Dadley</persName> calls</seg>.</ab>
                     <ab type="dDay" xml:id="g1805-07-31"><date when="1805-07-31">31. W. </date><ref
                             type="dText" subtype="read" target="/bibl/te1566.html">Chapman, B.
@@ -3014,7 +3014,7 @@
                                     >Carlisle</placeName></persName>, for <seg type="dTopic"
                                     ><persName ref="/people/CLA01.html">M J</persName></seg>; <emph
                                 rend="deleted">&amp;</emph><seg type="dMeeting" subtype="Adv"> adv.
-                                    <persName ref="/people/BLO02.html">Bloxam</persName> &amp; <persName>miss
+                                    <persName ref="/people/BLO02.html">Bloxam</persName> &amp; <persName ref="/people/STA05.html">miss
                                     Standert</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1805-08-27"><date when="1805-08-27">27. Tu. </date><ref
                             type="dWrote" subtype="revised" target="/works/hyed01.html">England, 1/2
@@ -4141,7 +4141,7 @@
                             Hollis</persName></seg>)</seg> &amp; <seg type="dMeeting" subtype="C"
                                 ><persName ref="/people/PHI01.html"><placeName type="venue"
                                     >Philips</placeName></persName> (<seg type="dMeeting"
-                                subtype="Adv">adv. <persName>Stevens</persName> &amp; <persName
+                                        subtype="Adv">adv. <persName ref="/people/STE09.html">Stevens</persName> &amp; <persName
                                     ref="/people/MAC04.html">Macmillan</persName></seg>)</seg>: <seg
                             type="dMeeting" subtype="CG"><persName>Thurgar</persName>
                         calls</seg>.</ab>

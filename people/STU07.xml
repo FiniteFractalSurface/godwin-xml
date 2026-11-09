@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Person List</title>
+                <respStmt>
+                    <resp>Researched by</resp>
+                    <name>EP</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated data</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="STU07" sex="1">
+                    <persName>
+                        <roleName/>
+                        <forename>William</forename>
+                        <surname>Sturch</surname>
+                        <addName/>
+                    </persName>
+                    <birth when="1753">
+                        <placeName/>
+                    </birth>
+                    <death when="1838"/>
+                    <occupation>OCCUPATION</occupation>
+                    <note type="editorial">
+                        <p>See Ed Pope's Notes: William Sturch DNB 1753-1838. Mentioned in A Liberal
+                            Publisher as friend of Joseph Johnson's. GD website has mistranscribed
+                            the entry on 16.3.1803 as Storch (now corrected). See my entry for Sturch, Miss Below. .
+                            Voted Wray in Westminster 1784, Fox in 1802, Paull in 1896 and Burdett
+                            and Romilly in 1818, as ironmonger of Stanhope St. Married Elizabeth
+                            eldest dau of William Jesser at St John Hackney on 19.9.1786, Subscr
+                            1786 to J B Pike's sermons. Socy for Encouragement of Arts Manufactures
+                            Commerce 1786. Subscr 1788 to Lardner's Works, 1790 to Robinson's
+                            History of Baptism, 1796 to Crabb's Sermons. World 21.11.1792 he made
+                            5gns subscr to France and was on the committee to carry it out, but
+                            Christopher Hull on 28.5.1794 told the Privy Council that Sturch
+                            withdrew on issue of French subscription (Nat Arch TS 11/963). See John
+                            Rae (QV*) for Sturch's motion to expel him 14.12.1792. Steward of
+                            Revolution Socy dinner 4.11.1793. Sent letter of resignation to SCI
+                            citing inability to attend 2.12.1793. Steward of Tooke's Westminster
+                            election dinner 28.6.1796. Overseer of the Poor St Clement Danes parish
+                            18.2.1797. Morning Post 20.12.1797 chaired meeting of parish of St
+                            Clement Danes against tax increases. Cobbett's Register 23.12.1809 on
+                            committee to support G L Wardle in his enquiry into the Duke of York.
+                            Morn Post 2.3.1815 chaired St Clement Danes meeting on Corn Laws. Morn
+                            Chrom 1.1.1818 on committee to support William Hone. Old Bailey
+                            15.1.1817 William Sturch and his partners, his son William Jesser Sturch
+                            and James Boobyer, robbed. Royal Academy 1822 his portrait by Phillips
+                            shown.Morn Post 12.5.1826 sub £10 to distressed manufacturers. Examiner
+                            4.6.1826 sub £20 to Waithman's election expenses.</p>
+                        <p>Note on Miss
+                            Sturch: Mary Myrtilla Sturch born 16.1.1788 died 20.5.1869 unmarried.
+                            Her sister Elizabeth Jesser Reid (DNB 1789-1866), their father William
+                            Sturch (DNB 1753-1838 QV* in SCI dtatset) who married their mother
+                            Elizabeth Jesser (1759/60-1841) at St John Hackney on 19.9.1786, wits Wm
+                            Jesser, M. Myrtilla Jesser sr and jr. (Her grandmother was born Mary
+                            Myrtilla Dove)</p>
+                    </note>
+                    <bibl type="MS"> </bibl>
+                    <bibl type="printedbook">AUTHOR<title>TITLE</title>, Place of Publication,
+                        Publisher, year</bibl>
+                    <bibl type="journalism"><title>NEWSPAPER TITLE</title>, DATE</bibl>
+                    <bibl type="other">
+                        <title/>
+                    </bibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

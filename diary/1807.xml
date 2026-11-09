@@ -1288,7 +1288,7 @@
                                     >Johnson’s</placeName></persName>, w. <persName
                                 ref="/people/FUS01.html">Fuseli</persName>, <persName
                                 ref="/people/BON01.html">Bonnycastle</persName>,
-                                <persName>Sturch</persName> &amp; <persName ref="/people/KNO01.html"
+                                <persName ref="/people/STU07.html">Sturch</persName> &amp; <persName ref="/people/KNO01.html"
                                 >Knowles</persName></seg>: <seg type="dMeeting" subtype="C">call on
                                 <persName ref="/people/TAY06.html"><placeName type="venue"
                                     >Taylor</placeName></persName></seg>.</ab>
@@ -1355,7 +1355,7 @@
                                     >Binney</placeName></persName></seg>, <seg type="dMeeting"
                                         subtype="C"><persName ref="/people/NIC08.html"><placeName type="venue">S
                                 Nicholson</placeName></persName></seg>, <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                    subtype="C"><persName ref="/people/STE09.html"><placeName type="venue"
                                 >Stephens</placeName></persName></seg>, <seg type="dMeeting"
                             subtype="C"><persName><placeName type="venue">Edwards eng<hi rend="sup"
                                         >r</hi></placeName></persName></seg> &amp; <seg
@@ -1366,9 +1366,9 @@
                     <ab type="dDay" xml:id="g1807-05-23"><date when="1807-05-23">23. Sa.</date><seg
                             type="dMeeting" subtype="C">Call on <persName><placeName type="venue"
                                     >Binney</placeName></persName></seg>, &amp; <seg type="dMeeting"
-                            subtype="C"><persName><placeName type="venue"
+                                        subtype="C"><persName ref="/people/STE09.html"><placeName type="venue"
                                 >Stephens</placeName></persName></seg>, &amp; <seg type="dMeeting"
-                            subtype="Cn">w. <persName>Stephens</persName>, on <persName><placeName
+                                    subtype="Cn">w. <persName ref="/people/STE09.html">Stephens</persName>, on <persName><placeName
                                     type="venue">Crutchley</placeName></persName></seg> &amp; <seg
                             type="dMeeting" subtype="Cn"><persName/><persName><placeName
                                     type="venue">Fry</placeName></persName></seg>: <seg type="dMeal"
@@ -2325,7 +2325,7 @@
                                 ref="/people/FUS01.html">Fuseli</persName>, <persName
                                 ref="/people/MUL02.html">Mullet</persName> &amp;
                                 <persName>Hommey</persName>; <seg type="dMeeting" subtype="Adv">adv.
-                                    <persName>Stephens</persName></seg></seg>.</ab>
+                                    <persName ref="/people/STE09.html">Stephens</persName></seg></seg>.</ab>
                     <ab type="dDay" xml:id="g1807-08-19"><date when="1807-08-19">19. W.</date><seg
                             type="dMeeting" subtype="CG"><persName ref="/people/MAR01.html"
                                 >M</persName></seg> &amp; <seg type="dMeeting" subtype="CG"
@@ -2568,7 +2568,7 @@
                                     type="venue">Johnson’s</placeName></persName>, w. <persName
                                 ref="/people/FUS01.html">Fuseli</persName>, <persName
                                 ref="/people/BON01.html">Bonnycastle</persName>,
-                                <persName>Sturch</persName> &amp;
+                                        <persName ref="/people/STU07.html">Sturch</persName> &amp;
                         <persName>Gooch</persName></seg>.</ab>
                     <ab type="dDay" xml:id="g1807-09-12"><date when="1807-09-12">12. Sa.</date><ref
                             type="dText" subtype="read" target="/bibl/te1674.html">Seneca, De
